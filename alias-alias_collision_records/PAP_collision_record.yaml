@@ -4,58 +4,55 @@ collision_class: "Convergent Acronym"
 collision_group:
   - gene_symbol: 'ACP3'
     ensg_id: 'ENSG00000014257'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: "Gene Family", "Protien Domain", "Expired Gene Symbol", "Protein Product"
+    collision_acronym_expansion: 'Prostatic Acid Phosphotase'
+    collision_gene_relationship: 'Function'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '1375464'
+      - PMID: '2842184'
   - gene_symbol: 'ASAP1'
     ensg_id: 'ENSG00000153317'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'Putative Alternative Promoters'
+    collision_gene_relationship: 'Function'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '16344560'
   - gene_symbol: 'ASAP2'
     ensg_id: 'ENSG00000151693'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'Paxillin-Associated Protein'
+    collision_gene_relationship: "Protein Product"
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '10749932'
   - gene_symbol: 'MRPS30'
     ensg_id: 'ENSG00000112996'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'Prostatic Acid Phosphatase'
+    collision_gene_relationship: 'Function'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '20084276'
   - gene_symbol: 'PAPOLA'
     ensg_id: 'ENSG00000090060'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'Poly(A) Polymerase'
+    collision_gene_relationship: 'Function'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '19224921'
+      - PMID: '8302877'
   - gene_symbol: 'PDAP1'
     ensg_id: 'ENSG00000106244'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'PDGF Associated Protein'
+    collision_gene_relationship: 'Protein Product'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '8780057'
+      - PMID: '9570154'
+        note: 'This publication uses PAP as Phosphatidic Acid Phosphatase. Which is it? Is it both?'
   - gene_symbol: 'REG3A'
     ensg_id: 'ENSG00000172016'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'Pancreatitis-Associated Protein'
+    collision_gene_relationship: 'Protein Product'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '8188210'
+      - PMID: '8076648'
   - gene_symbol: 'TUSC2'
     ensg_id: 'ENSG00000114383'
-    collision_acronym_expansion: ''
-    collision_gene_relationship: 
+    collision_acronym_expansion: 'PDGFA-Associated Protein'
+    collision_gene_relationship: 'Protein Product'
     collision_source:
-      - PMID: ''
-      - PMID: ''
+      - PMID: '8780057'
 
