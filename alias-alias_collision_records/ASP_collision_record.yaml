@@ -1,5 +1,7 @@
 
 collision_symbol: 'ASP'
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ASIP'
     ensg_id: 'ENSG00000101440'
@@ -57,4 +59,3 @@ collision_group:
     collision_source:
       - PMID: '15762198'
       - PMID: '11741986'
-collision_class: 'Convergent Acronym'
