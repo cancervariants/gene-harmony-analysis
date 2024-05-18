@@ -1,0 +1,40 @@
+
+collision_symbol: 'MYM'
+collision_class: "Protein Domain"
+collision_group:
+  - gene_symbol: 'ZMYM1'
+    ensg_id: 'ENSG00000197056'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
+  - gene_symbol: 'ZMYM2'
+    ensg_id: 'ENSG00000121741'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
+  - gene_symbol: 'ZMYM3'
+    ensg_id: 'ENSG00000147130'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
+  - gene_symbol: 'ZMYM4'
+    ensg_id: 'ENSG00000146463'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
+  - gene_symbol: 'ZMYM5'
+    ensg_id: 'ENSG00000132950'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
+  - gene_symbol: 'ZMYM6'
+    ensg_id: 'ENSG00000163867'
+    collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '4136804'
