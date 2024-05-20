@@ -29,9 +29,9 @@ This curated collection of collision data will be a foundation for disambiguatin
 
 Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
 
-1. In the collision records folders, there are collision records that are completed (but can always be updated) and a blank sample record to use as a template.
-2. The contributing documentation explains the different features that are included in a collision record. 
-3. To propose an update or make a new collision record would be as a personal fork to the repo. New collision records should be YAML files named after the collision in either the alias-alias or alias-primary collision records folders. Once created, the review process can be started with the creation of a pull request. 
+1. In the collision records folders, there are collision records that are completed (but can always be updated) and a [blank sample record](./alias-alias_collision_records/sample_collision_record.yaml) to use as a template.
+2. The [contributing documentation](./CONTRIBUTING.md) explains the different features that are included in a collision record. 
+3. To propose an update or make a new collision record create a personal fork to the repo. New collision records should be YAML files named after the collision in either the [alias-alias](./alias-alias_collision_records) or [alias-primary](./alias-primary_collision_records) collision records folders. Once created, the review process can be started with the creation of a pull request. 
 
 ## Contact Information
 
