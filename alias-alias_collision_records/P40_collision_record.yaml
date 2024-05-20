@@ -1,6 +1,7 @@
 
 collision_symbol: 'P40'
 collision_class: 'Protein Product Weight'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ARHGEF2'
     ensg_id: 'ENSG00000116584'

@@ -1,6 +1,7 @@
 
 collision_symbol: 'NAP1'
 collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ACOT8'
     ensg_id: 'ENSG00000101473'

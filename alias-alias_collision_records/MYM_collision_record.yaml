@@ -1,6 +1,7 @@
 
 collision_symbol: 'MYM'
-collision_class: "Protein Domain"
+collision_class: 'Protein Domain'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ZMYM1'
     ensg_id: 'ENSG00000197056'

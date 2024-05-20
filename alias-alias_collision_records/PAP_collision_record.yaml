@@ -1,6 +1,7 @@
 
 collision_symbol: 'PAP'
-collision_class: "Convergent Acronym"
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ACP3'
     ensg_id: 'ENSG00000014257'
@@ -18,7 +19,7 @@ collision_group:
   - gene_symbol: 'ASAP2'
     ensg_id: 'ENSG00000151693'
     collision_acronym_expansion: 'Paxillin-Associated Protein'
-    collision_gene_relationship: "Protein Product"
+    collision_gene_relationship: 'Protein Product'
     collision_source:
       - PMID: '10749932'
   - gene_symbol: 'MRPS30'

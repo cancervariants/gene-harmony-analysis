@@ -1,6 +1,7 @@
 
 collision_symbol: 'ALP'
-collision_class: ''
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ALPP'
     ensg_id: 'ENSG00000163283'

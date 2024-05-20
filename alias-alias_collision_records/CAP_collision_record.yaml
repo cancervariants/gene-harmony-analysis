@@ -1,6 +1,7 @@
 
 collision_symbol: 'CAP'
-collision_class: "Convergent Acronym"
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'BRD4'
     ensg_id: 'ENSG00000141867'

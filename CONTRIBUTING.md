@@ -4,6 +4,9 @@
 ## Collision Class
 *A description of the relationship between the genes that share the collision*
 
+## Collision Type
+*Either alias-alias, if the collision is shared as an alias between genes, or alias- primary, if the collision is shared as an alias and primary gene symbol between genes*
+
 ## Collision Group 
 *A description of the genes in the collision group*
 

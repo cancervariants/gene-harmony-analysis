@@ -1,6 +1,7 @@
 
 collision_symbol: 'U4'
 collision_class: 'Gene Family'
+collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'RNU4-1'
     ensg_id: 'ENSG00000200795'
