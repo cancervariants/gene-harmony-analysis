@@ -1,4 +1,7 @@
 # gene-harmony-analysis
+
+## Background
+
 Human gene symbols are regulated and follow guidelines established by HGNC. All genes are designated an authoritative symbol (also known as a primary gene symbol), a descriptive name, and an HGNC identification number. Although primary gene symbols are monitored to be unique, alias symbols are not. 
 
 Aliases are additional gene symbols and short descriptions that are used synonymously for the gene and/or any associated gene products. Gene symbols are curated from use in databases, experimental results, and literature. Primary gene symbols and aliases play a crucial role in referencing genes across publications, medical records, and data collections. 
@@ -11,7 +14,22 @@ Out of the 43,164 genes in the HGNC database, 483 (1.12%) had alias-primary coll
 The Ensembl database, which has 40,353 genes, was found to have alias-primary collisions in 218 (0.54%) of genes and alias-alias collisions in 3,680 (9.12%) of genes. 
 The NCBI database, which had the largest number of genes- 75,346, had 1,712 (2.27%) and 5,670 (7.53%) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
 
-The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to the backlog of patients in need. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. This curated collection of collision data will be a foundation for disambiguating gene symbols.
-
 ![collision_graphic](https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd)
 
+## Purpose
+
+The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
+
+This curated collection of collision data will be a foundation for disambiguating gene symbols.
+
+# How can you help?
+
+Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
+
+1. In the collision records folders, there are collision records that are completed (but can always be updated) and a blank sample record to use as a template.
+2. The contributing documentation explains the different features that are included in a collision record. 
+3. To propose an update or make a new collision record would be as a personal fork to the repo. New collision records should be YAML files named after the collision in either the alias-alias or alias-primary collision records folders. Once created, the review process can be started with the creation of a pull request. 
+
+## Contact Information
+
+For any feedback, questions, or conversation, please make an issue.
