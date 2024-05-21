@@ -1,0 +1,12 @@
+
+collision_symbol: ''
+collision_class: "Convergent Acronym", "Gene Family", "Protein Domain", "Expired Gene Symbol", "Protein Product", "Protein Product Weight"
+collision_type: "alias-alias", "alias-primary"
+collision_group:
+  - gene_symbol: ''
+    ensg_id: 'ENSG'
+    collision_acronym_expansion: ''
+    collision_gene_relationship: If primary gene symbol "Primary gene symbol" If alias "Disease", "Gene Family", "Protien Domain", "Expired Gene Symbol", "Protein Product", "Phenotype"
+    collision_source:
+      - PMID: ''
+      - PMID: ''

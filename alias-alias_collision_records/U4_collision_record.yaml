@@ -1,0 +1,47 @@
+
+collision_symbol: 'U4'
+collision_class: 'Gene Family'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'RNU4-1'
+    ensg_id: 'ENSG00000200795'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+      - PMID: '3582982'
+      - PMID: '26275778'
+  - gene_symbol: 'RNU4-3P'
+    ensg_id: 'NaN'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2582241'
+  - gene_symbol: 'RNU4-4P'
+    ensg_id: 'ENSG00000201458'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2582241'
+  - gene_symbol: 'RNU4-5P'
+    ensg_id: 'ENSG00000272160'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2582241'
+  - gene_symbol: 'RNU4-6P'
+    ensg_id: 'ENSG00000222736'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2582241'
+  - gene_symbol: 'RNU4-7P'
+    ensg_id: 'ENSG00000201628'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2583518'
+  - gene_symbol: 'RNU4-8P'
+    ensg_id: 'ENSG00000201806'
+    collision_acronym_expansion: 'U-RNA 4'
+    collision_gene_relationship: 'Gene Family'
+    collision_source:
+      - PMID: '2583518'

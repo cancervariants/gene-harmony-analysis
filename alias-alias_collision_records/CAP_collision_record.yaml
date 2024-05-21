@@ -1,0 +1,52 @@
+
+collision_symbol: 'CAP'
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'BRD4'
+    ensg_id: 'ENSG00000141867'
+    collision_acronym_expansion: 'Chromosome Associated Protein'
+    collision_gene_relationship: 'Protein Product'
+    collision_source:
+      - PMID: '8849894'
+  - gene_symbol: 'CAP1'
+    ensg_id: 'ENSG00000131236'
+    collision_acronym_expansion: 'Cyclase Associated Protein'
+    collision_gene_relationship: 'Protein Product'
+    collision_source:
+      - PMID: '15311924'
+      - PMID: '8761950'
+  - gene_symbol: 'CTAA1'
+    ensg_id: 'NAN'
+    collision_acronym_expansion: 'Cataract, Anterior Polar'
+    collision_gene_relationship: 'Disease'
+    collision_source:
+      - PMID: '1049206'
+  - gene_symbol: 'HACD1'
+    ensg_id: 'ENSG00000165996'
+    collision_acronym_expansion: 'Cementum Attachment Protein'
+    collision_gene_relationship: 'Protein Product'
+    collision_source:
+      - PMID: '25263524'
+      - PMID: '22067203'
+  - gene_symbol: 'LNPEP'
+    ensg_id: 'ENSG00000113441'
+    collision_acronym_expansion: 'Cystinyl AminoPeptidase'
+    collision_gene_relationship: 'Function'
+    collision_source:
+      - PMID: '17692401'
+      - PMID: '16113565'
+  - gene_symbol: 'SERPINB6'
+    ensg_id: 'ENSG00000124570'
+    collision_acronym_expansion: 'Cytoplasmic Antiproteinase'
+    collision_gene_relationship: 'Function'
+    collision_source:
+      - PMID: '8636153'
+      - PMID: '8662739'
+  - gene_symbol: 'SORBS1'
+    ensg_id: 'ENSG00000095637'
+    collision_acronym_expansion: 'C-Cbl Associated Protein'
+    collision_gene_relationship: 'Protein Product'
+    collision_source:
+      - PMID: '11532984'
+      - PMID: '12849814'
