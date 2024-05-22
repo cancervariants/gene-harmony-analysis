@@ -5,55 +5,89 @@ collision_type: 'alias-alias'
 collision_group:
   - gene_symbol: 'ACP3'
     ensg_id: 'ENSG00000014257'
-    collision_acronym_expansion: 'Prostatic Acid Phosphotase'
-    collision_gene_relationship: 'Function'
-    collision_source:
-      - PMID: '1375464'
-      - PMID: '2842184'
+    GRCh38_gene_location: 'chr3:132,317,369-132,368,302'
+    gene_size: '50,934'
+    cytogenetic_location: '3q22.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Prostatic Acid Phosphotase'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '1375464'
+          - PMID: '2842184'
   - gene_symbol: 'ASAP1'
     ensg_id: 'ENSG00000153317'
-    collision_acronym_expansion: 'Putative Alternative Promoters'
-    collision_gene_relationship: 'Function'
-    collision_source:
-      - PMID: '16344560'
+    GRCh38_gene_location: 'chr8:130,052,104-130,443,674'
+    gene_size: '391,571'
+    cytogenetic_location: '8q24.21-q24.22'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Putative Alternative Promoters'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '16344560'
   - gene_symbol: 'ASAP2'
     ensg_id: 'ENSG00000151693'
-    collision_acronym_expansion: 'Paxillin-Associated Protein'
-    collision_gene_relationship: 'Protein Product'
-    collision_source:
-      - PMID: '10749932'
+    GRCh38_gene_location: 'chr2:9,206,765-9,405,683'
+    gene_size: '198,919'
+    cytogenetic_location: '2p25.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Paxillin-Associated Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '10749932'
   - gene_symbol: 'MRPS30'
     ensg_id: 'ENSG00000112996'
-    collision_acronym_expansion: 'Prostatic Acid Phosphatase'
-    collision_gene_relationship: 'Function'
-    collision_source:
-      - PMID: '20084276'
+    GRCh38_gene_location: 'chr5:44,808,947-44,820,428'
+    gene_size: '11,482'
+    cytogenetic_location: '5p12'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Prostatic Acid Phosphatase'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '20084276'
   - gene_symbol: 'PAPOLA'
     ensg_id: 'ENSG00000090060'
-    collision_acronym_expansion: 'Poly(A) Polymerase'
-    collision_gene_relationship: 'Function'
-    collision_source:
-      - PMID: '19224921'
-      - PMID: '8302877'
+    GRCh38_gene_location: 'chr14:96,501,433-96,567,116'
+    gene_size: '65,684'
+    cytogenetic_location: '14q32.2'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Poly(A) Polymerase'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '19224921'
+          - PMID: '8302877'
   - gene_symbol: 'PDAP1'
     ensg_id: 'ENSG00000106244'
-    collision_acronym_expansion: 'PDGF Associated Protein'
-    collision_gene_relationship: 'Protein Product'
-    collision_source:
-      - PMID: '8780057'
-      - PMID: '9570154'
-        note: 'This publication uses PAP as Phosphatidic Acid Phosphatase. Which is it? Is it both?'
+    GRCh38_gene_location: 'chr7:99,392,048-99,408,597'
+    gene_size: '16,550'
+    cytogenetic_location: '7q22.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'PDGF Associated Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '8780057'
+      - collision_acronym_expansion: 'Phosphatidic Acid Phosphatase'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '9570154'
   - gene_symbol: 'REG3A'
     ensg_id: 'ENSG00000172016'
-    collision_acronym_expansion: 'Pancreatitis-Associated Protein'
-    collision_gene_relationship: 'Protein Product'
-    collision_source:
-      - PMID: '8188210'
-      - PMID: '8076648'
+    GRCh38_gene_location: 'chr2:79,157,003-79,159,753'
+    gene_size: '2,751'
+    cytogenetic_location: '2p12'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Pancreatitis-Associated Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '8188210'
+          - PMID: '8076648'
   - gene_symbol: 'TUSC2'
     ensg_id: 'ENSG00000114383'
-    collision_acronym_expansion: 'PDGFA-Associated Protein'
-    collision_gene_relationship: 'Protein Product'
-    collision_source:
-      - PMID: '8780057'
+    GRCh38_gene_location: 'chr3:50,320,027-50,328,251'
+    gene_size: '8,225'
+    cytogenetic_location: '3p21.31'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'PDGFA-Associated Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '8780057'
 
