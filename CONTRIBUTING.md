@@ -3,6 +3,7 @@
 
 ## Collision Class
 *A description of the relationship between the genes that share the collision*
+the data field in which the collision occurs
 
 ## Collision Type
 *Either alias-alias, if the collision is shared as an alias between genes, or alias-primary, if the collision is shared as an alias and primary gene symbol between genes*
