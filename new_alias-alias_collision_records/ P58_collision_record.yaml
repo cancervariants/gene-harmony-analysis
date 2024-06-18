@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283996
+  gene_symbol: KIR2DL3
+collision_symbol: ' p58'

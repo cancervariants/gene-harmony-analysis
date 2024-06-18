@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285435
+  gene_symbol: H3-4
+collision_symbol: ' H3C16'

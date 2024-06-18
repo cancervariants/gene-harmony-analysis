@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000255986
+  gene_symbol: MT1JP
+collision_symbol: ' MT1J'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000184470
+  gene_symbol: TXNRD2
+- ensg_id: ENSG00000123358
+  gene_symbol: ' NR4A1'
+- ensg_id: ENSG00000215788
+  gene_symbol: ' TNFRSF25'
+collision_symbol: TR3

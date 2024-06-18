@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284161
+  gene_symbol: EEF2K
+collision_symbol: CaMKIII

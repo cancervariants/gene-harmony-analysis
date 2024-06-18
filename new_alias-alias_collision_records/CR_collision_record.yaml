@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196352
+  gene_symbol: CD55
+- ensg_id: ENSG00000241186
+  gene_symbol: ' TDGF1'
+collision_symbol: CR

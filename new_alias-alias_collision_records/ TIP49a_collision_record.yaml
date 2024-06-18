@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284901
+  gene_symbol: RUVBL1
+collision_symbol: ' TIP49a'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000163602
+  gene_symbol: RYBP
+collision_symbol: ' DEDAF'

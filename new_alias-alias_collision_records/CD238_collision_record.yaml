@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276615
+  gene_symbol: KEL
+collision_symbol: CD238

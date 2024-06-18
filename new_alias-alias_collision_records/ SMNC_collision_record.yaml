@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277773
+  gene_symbol: SMN2
+collision_symbol: ' SMNC'

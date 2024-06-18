@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275821
+  gene_symbol: LLCFC1
+collision_symbol: ' CTM-1'

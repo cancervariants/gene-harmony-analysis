@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000099991
+  gene_symbol: CABIN1
+collision_symbol: ' PPP3IN'

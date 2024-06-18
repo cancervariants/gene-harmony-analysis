@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149506
+  gene_symbol: ZP1
+- ensg_id: ENSG00000261456
+  gene_symbol: ' TUBB8'
+collision_symbol: OOMD

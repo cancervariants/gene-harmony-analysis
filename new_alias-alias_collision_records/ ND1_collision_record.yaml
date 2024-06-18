@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116679
+  gene_symbol: IVNS1ABP
+- ensg_id: ENSG00000198888
+  gene_symbol: ' MT-ND1'
+collision_symbol: ' ND1'

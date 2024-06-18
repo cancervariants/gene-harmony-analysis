@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164761
+  gene_symbol: TNFRSF11B
+- ensg_id: ENSG00000173662
+  gene_symbol: ' TAS1R1'
+collision_symbol: TR1

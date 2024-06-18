@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: RNA5-8SN4
+- ensg_id: NAN
+  gene_symbol: ' RNA5-8S5'
+- ensg_id: NAN
+  gene_symbol: ' RNA5-8SN5'
+collision_symbol: RN5-8S1

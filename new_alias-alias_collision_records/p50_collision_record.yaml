@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000138303
+  gene_symbol: ASCC1
+- ensg_id: ENSG00000101017
+  gene_symbol: ' CD40'
+- ensg_id: NAN
+  gene_symbol: ' H3P40'
+collision_symbol: p50

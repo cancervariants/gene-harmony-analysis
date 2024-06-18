@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277071
+  gene_symbol: NLRP7
+collision_symbol: ' NOD12'

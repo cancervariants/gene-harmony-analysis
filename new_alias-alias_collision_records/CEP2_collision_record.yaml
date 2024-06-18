@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149798
+  gene_symbol: CDC42EP2
+- ensg_id: ENSG00000126001
+  gene_symbol: ' CEP250'
+collision_symbol: CEP2

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000234514
+  gene_symbol: LST1
+collision_symbol: ' D6S49E'

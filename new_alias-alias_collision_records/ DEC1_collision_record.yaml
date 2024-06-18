@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134107
+  gene_symbol: BHLHE40
+- ensg_id: ENSG00000173077
+  gene_symbol: ' DELEC1'
+collision_symbol: ' DEC1'

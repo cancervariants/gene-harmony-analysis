@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226563
+  gene_symbol: HCG4B
+collision_symbol: ' Em:AB023056.16'

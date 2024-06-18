@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280652
+  gene_symbol: SCARNA5
+collision_symbol: U87

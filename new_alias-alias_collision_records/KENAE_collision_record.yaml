@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000183323
+  gene_symbol: CCDC125
+collision_symbol: KENAE

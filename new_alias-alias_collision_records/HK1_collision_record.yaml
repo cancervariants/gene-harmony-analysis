@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000182255
+  gene_symbol: KCNA4
+- ensg_id: ENSG00000134709
+  gene_symbol: ' HOOK1'
+collision_symbol: HK1

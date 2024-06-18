@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRA
+- ensg_id: ENSG00000277734
+  gene_symbol: ' TRAC'
+collision_symbol: IMD7

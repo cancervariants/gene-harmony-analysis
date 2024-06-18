@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285182
+  gene_symbol: FNBP4
+collision_symbol: KIAA1014

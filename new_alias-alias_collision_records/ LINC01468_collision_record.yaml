@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231131
+  gene_symbol: LNCAROD
+collision_symbol: ' LINC01468'

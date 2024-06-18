@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LOC124906983
+- ensg_id: ENSG00000181404
+  gene_symbol: ' WASHC1'
+- ensg_id: NAN
+  gene_symbol: ' LOC124908102'
+- ensg_id: ENSG00000182484
+  gene_symbol: ' WASH6P'
+- ensg_id: NAN
+  gene_symbol: ' LOC124906931'
+collision_symbol: WASH

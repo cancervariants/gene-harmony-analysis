@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277953
+  gene_symbol: PRPF31
+collision_symbol: hPrp31

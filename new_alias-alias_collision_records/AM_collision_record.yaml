@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171681
+  gene_symbol: ATF7IP
+- ensg_id: ENSG00000148926
+  gene_symbol: ' ADM'
+collision_symbol: AM

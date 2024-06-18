@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229126
+  gene_symbol: MUC22
+collision_symbol: PBMUCL1

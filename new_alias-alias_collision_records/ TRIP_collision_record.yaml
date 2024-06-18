@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124831
+  gene_symbol: LRRFIP1
+- ensg_id: ENSG00000183763
+  gene_symbol: ' TRAIP'
+collision_symbol: ' TRIP'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000224145
+  gene_symbol: TRIM15
+collision_symbol: ' ZNFB7'

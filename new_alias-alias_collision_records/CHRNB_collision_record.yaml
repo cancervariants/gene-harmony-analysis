@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000170175
+  gene_symbol: CHRNB1
+collision_symbol: CHRNB

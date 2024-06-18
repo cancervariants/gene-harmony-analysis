@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213160
+  gene_symbol: KLHL23
+- ensg_id: ENSG00000144362
+  gene_symbol: ' PHOSPHO2'
+collision_symbol: MGC22679

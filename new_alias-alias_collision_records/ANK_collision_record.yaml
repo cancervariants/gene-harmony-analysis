@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000029534
+  gene_symbol: ANK1
+- ensg_id: ENSG00000154122
+  gene_symbol: ' ANKH'
+collision_symbol: ANK

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167825
+  gene_symbol: OR5I1
+- ensg_id: ENSG00000164330
+  gene_symbol: ' EBF1'
+collision_symbol: OLF1

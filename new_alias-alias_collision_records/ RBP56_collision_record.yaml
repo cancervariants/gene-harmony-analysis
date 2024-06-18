@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000270647
+  gene_symbol: TAF15
+collision_symbol: ' RBP56'

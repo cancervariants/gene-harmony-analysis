@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000111817
+  gene_symbol: DSE
+- ensg_id: ENSG00000161634
+  gene_symbol: ' DCD'
+collision_symbol: DSEP

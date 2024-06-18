@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000152192
+  gene_symbol: POU4F1
+- ensg_id: ENSG00000144476
+  gene_symbol: ' ACKR3'
+collision_symbol: RDC-1

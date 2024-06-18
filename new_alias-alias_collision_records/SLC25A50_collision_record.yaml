@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000109919
+  gene_symbol: MTCH2
+collision_symbol: SLC25A50

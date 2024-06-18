@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290844
+  gene_symbol: ADAM6
+collision_symbol: ' tMDCIV'

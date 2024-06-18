@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282098
+  gene_symbol: TRBV5-6
+collision_symbol: ' TRBV56'

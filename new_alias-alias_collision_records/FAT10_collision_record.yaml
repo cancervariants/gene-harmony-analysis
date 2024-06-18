@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228913
+  gene_symbol: UBD
+collision_symbol: FAT10

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227587
+  gene_symbol: ATP6V1G2
+collision_symbol: ' ATP6G2'

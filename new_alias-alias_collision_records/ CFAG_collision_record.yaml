@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163220
+  gene_symbol: S100A9
+- ensg_id: ENSG00000143546
+  gene_symbol: ' S100A8'
+collision_symbol: ' CFAG'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000145715
+  gene_symbol: RASA1
+- ensg_id: ENSG00000198561
+  gene_symbol: ' CTNND1'
+- ensg_id: ENSG00000111641
+  gene_symbol: ' NOP2'
+collision_symbol: ' p120'

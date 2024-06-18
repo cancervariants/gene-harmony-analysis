@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000179172
+  gene_symbol: HNRNPCL1
+collision_symbol: HNRPCL1

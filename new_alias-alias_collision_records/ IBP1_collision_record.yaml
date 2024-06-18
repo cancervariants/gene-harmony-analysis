@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000089289
+  gene_symbol: IGBP1
+- ensg_id: ENSG00000146678
+  gene_symbol: ' IGFBP1'
+collision_symbol: ' IBP1'

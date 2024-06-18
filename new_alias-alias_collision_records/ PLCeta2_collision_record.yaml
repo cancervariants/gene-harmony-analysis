@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000149527
+  gene_symbol: PLCH2
+collision_symbol: ' PLCeta2'

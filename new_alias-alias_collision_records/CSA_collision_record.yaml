@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000049167
+  gene_symbol: ERCC8
+- ensg_id: ENSG00000136488
+  gene_symbol: ' CSH1'
+collision_symbol: CSA

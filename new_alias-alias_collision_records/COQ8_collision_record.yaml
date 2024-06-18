@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123815
+  gene_symbol: COQ8B
+- ensg_id: ENSG00000163050
+  gene_symbol: ' COQ8A'
+collision_symbol: COQ8

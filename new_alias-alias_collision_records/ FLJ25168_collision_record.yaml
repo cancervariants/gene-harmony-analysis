@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290467
+  gene_symbol: LINC02210
+collision_symbol: ' FLJ25168'

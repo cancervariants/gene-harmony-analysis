@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284965
+  gene_symbol: OR2F2
+collision_symbol: OR7-1

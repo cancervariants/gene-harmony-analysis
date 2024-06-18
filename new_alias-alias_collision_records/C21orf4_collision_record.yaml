@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000263160
+  gene_symbol: TMEM50B
+collision_symbol: C21orf4

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000238056
+  gene_symbol: PRRT1
+collision_symbol: ' IFITMD7'

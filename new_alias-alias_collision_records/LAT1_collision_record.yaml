@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103257
+  gene_symbol: SLC7A5
+- ensg_id: ENSG00000213658
+  gene_symbol: ' LAT'
+collision_symbol: LAT1

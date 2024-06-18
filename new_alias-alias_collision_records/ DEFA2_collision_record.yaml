@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206047
+  gene_symbol: DEFA1
+collision_symbol: ' DEFA2'

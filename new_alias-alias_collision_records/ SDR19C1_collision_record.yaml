@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284868
+  gene_symbol: DHRS1
+collision_symbol: ' SDR19C1'

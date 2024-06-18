@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223572
+  gene_symbol: CKMT1A
+collision_symbol: CKMT1

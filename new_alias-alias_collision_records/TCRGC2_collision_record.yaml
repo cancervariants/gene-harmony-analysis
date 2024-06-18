@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000227191
+  gene_symbol: TRGC2
+- ensg_id: NAN
+  gene_symbol: ' TARP'
+collision_symbol: TCRGC2

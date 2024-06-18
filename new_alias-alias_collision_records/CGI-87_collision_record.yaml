@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000171853
+  gene_symbol: TRAPPC12
+collision_symbol: CGI-87

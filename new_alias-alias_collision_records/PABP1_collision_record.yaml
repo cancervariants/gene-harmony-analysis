@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000070756
+  gene_symbol: PABPC1
+- ensg_id: ENSG00000231707
+  gene_symbol: ' PABPC1P1'
+collision_symbol: PABP1

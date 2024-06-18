@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000206053
+  gene_symbol: JPT2
+- ensg_id: ENSG00000007545
+  gene_symbol: ' CRAMP1'
+collision_symbol: ' KIAA1426'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129197
+  gene_symbol: RPAIN
+- ensg_id: ENSG00000173744
+  gene_symbol: ' AGFG1'
+collision_symbol: ' RIP'

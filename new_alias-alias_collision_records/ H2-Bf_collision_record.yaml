@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000242335
+  gene_symbol: CFB
+collision_symbol: ' H2-Bf'

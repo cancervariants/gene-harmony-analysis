@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000215644
+  gene_symbol: GCGR
+collision_symbol: GGR

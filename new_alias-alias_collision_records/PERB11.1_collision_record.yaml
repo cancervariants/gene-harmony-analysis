@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204520
+  gene_symbol: MICA
+collision_symbol: PERB11.1

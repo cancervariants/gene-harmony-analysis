@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231444
+  gene_symbol: DDR1-DT
+collision_symbol: ' DDR1-AS1'

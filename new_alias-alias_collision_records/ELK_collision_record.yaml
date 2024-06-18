@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183960
+  gene_symbol: KCNH8
+- ensg_id: ENSG00000154928
+  gene_symbol: ' EPHB1'
+collision_symbol: ELK

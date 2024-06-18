@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204304
+  gene_symbol: PBX2
+- ensg_id: ENSG00000188338
+  gene_symbol: ' SLC38A3'
+collision_symbol: G17

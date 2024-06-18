@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288324
+  gene_symbol: ADGRL1
+collision_symbol: ' LPHN1'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000140750
+  gene_symbol: ARHGAP17
+collision_symbol: ' FLJ13219'

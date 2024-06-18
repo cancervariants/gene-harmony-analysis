@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120669
+  gene_symbol: SOHLH2
+- ensg_id: ENSG00000250709
+  gene_symbol: ' CCDC169-SOHLH2'
+collision_symbol: TEB1

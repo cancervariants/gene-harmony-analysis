@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000145284
+  gene_symbol: SCD5
+- ensg_id: ENSG00000108559
+  gene_symbol: ' NUP88'
+collision_symbol: FADS4

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178104
+  gene_symbol: PDE4DIP
+- ensg_id: NAN
+  gene_symbol: ' PDE4DIPP2'
+collision_symbol: MMGL

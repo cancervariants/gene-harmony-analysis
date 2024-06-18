@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000143384
+  gene_symbol: MCL1
+collision_symbol: BCL2L3

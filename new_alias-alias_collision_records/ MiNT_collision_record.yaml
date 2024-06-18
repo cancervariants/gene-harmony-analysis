@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274768
+  gene_symbol: CISD3
+collision_symbol: ' MiNT'

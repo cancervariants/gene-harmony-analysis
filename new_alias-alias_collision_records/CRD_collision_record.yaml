@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105392
+  gene_symbol: CRX
+- ensg_id: ENSG00000156313
+  gene_symbol: ' RPGR'
+collision_symbol: CRD

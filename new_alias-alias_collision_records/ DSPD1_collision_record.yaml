@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000225141
+  gene_symbol: PRRT1
+collision_symbol: ' DSPD1'

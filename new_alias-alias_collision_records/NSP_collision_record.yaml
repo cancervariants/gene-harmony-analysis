@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000157077
+  gene_symbol: ZFYVE9
+- ensg_id: ENSG00000128487
+  gene_symbol: ' SPECC1'
+- ensg_id: ENSG00000115310
+  gene_symbol: ' RTN4'
+- ensg_id: ENSG00000139970
+  gene_symbol: ' RTN1'
+collision_symbol: NSP

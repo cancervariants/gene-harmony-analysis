@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288422
+  gene_symbol: ARHGEF35
+collision_symbol: ' CTAGE4'

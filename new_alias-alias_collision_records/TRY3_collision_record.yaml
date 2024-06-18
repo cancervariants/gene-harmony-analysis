@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282303
+  gene_symbol: PRSS3P3
+collision_symbol: TRY3

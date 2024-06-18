@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125482
+  gene_symbol: TTF1
+- ensg_id: ENSG00000136352
+  gene_symbol: ' NKX2-1'
+collision_symbol: TTF-1

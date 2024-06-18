@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117448
+  gene_symbol: AKR1A1
+- ensg_id: ENSG00000225937
+  gene_symbol: ' PCA3'
+collision_symbol: DD3

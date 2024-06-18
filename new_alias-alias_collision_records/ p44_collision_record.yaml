@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000276910
+  gene_symbol: GTF2H2
+- ensg_id: ENSG00000137965
+  gene_symbol: ' IFI44'
+- ensg_id: ENSG00000116455
+  gene_symbol: ' WDR77'
+collision_symbol: ' p44'

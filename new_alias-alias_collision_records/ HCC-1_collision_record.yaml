@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276409
+  gene_symbol: CCL14
+collision_symbol: ' HCC-1'

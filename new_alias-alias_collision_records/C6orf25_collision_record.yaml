@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000224393
+  gene_symbol: MPIG6B
+collision_symbol: C6orf25

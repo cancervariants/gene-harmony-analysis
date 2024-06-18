@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000107738
+  gene_symbol: VSIR
+- ensg_id: ENSG00000114455
+  gene_symbol: ' HHLA2'
+collision_symbol: B7-H5

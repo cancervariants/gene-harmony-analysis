@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283780
+  gene_symbol: MAML1
+collision_symbol: KIAA0200

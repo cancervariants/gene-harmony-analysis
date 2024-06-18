@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140553
+  gene_symbol: UNC45A
+- ensg_id: ENSG00000112305
+  gene_symbol: ' SMAP1'
+collision_symbol: ' SMAP-1'

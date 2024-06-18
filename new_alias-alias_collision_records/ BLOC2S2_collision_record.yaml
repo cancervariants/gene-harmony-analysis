@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000110756
+  gene_symbol: HPS5
+collision_symbol: ' BLOC2S2'

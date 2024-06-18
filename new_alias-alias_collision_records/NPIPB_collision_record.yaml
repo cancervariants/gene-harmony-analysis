@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198156
+  gene_symbol: NPIPB6
+- ensg_id: NAN
+  gene_symbol: ' NPIPB3'
+collision_symbol: NPIPB

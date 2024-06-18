@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000060237
+  gene_symbol: WNK1
+- ensg_id: ENSG00000149930
+  gene_symbol: ' TAOK2'
+- ensg_id: ENSG00000115661
+  gene_symbol: ' STK16'
+collision_symbol: PSK

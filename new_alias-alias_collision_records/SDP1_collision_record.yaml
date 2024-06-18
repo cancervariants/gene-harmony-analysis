@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130340
+  gene_symbol: SNX9
+- ensg_id: ENSG00000171222
+  gene_symbol: ' SCAND1'
+collision_symbol: SDP1

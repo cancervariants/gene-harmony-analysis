@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275748
+  gene_symbol: ARL17B
+collision_symbol: ARL17

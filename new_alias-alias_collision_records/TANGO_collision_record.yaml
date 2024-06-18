@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000154305
+  gene_symbol: MIA3
+- ensg_id: ENSG00000143437
+  gene_symbol: ' ARNT'
+collision_symbol: TANGO

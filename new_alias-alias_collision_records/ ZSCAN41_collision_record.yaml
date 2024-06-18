@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000186448
+  gene_symbol: ZNF197
+collision_symbol: ' ZSCAN41'

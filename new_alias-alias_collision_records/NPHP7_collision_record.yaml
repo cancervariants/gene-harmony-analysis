@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274636
+  gene_symbol: GLIS2
+collision_symbol: NPHP7

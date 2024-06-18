@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000168159
+  gene_symbol: RNF187
+collision_symbol: ' RACO1'

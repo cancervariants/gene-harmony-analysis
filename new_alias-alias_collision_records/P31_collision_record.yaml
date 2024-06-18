@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000099341
+  gene_symbol: PSMD8
+- ensg_id: ENSG00000053501
+  gene_symbol: ' USE1'
+collision_symbol: p31

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000234032
+  gene_symbol: VARS2
+collision_symbol: ' G7a'

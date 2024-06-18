@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000179051
+  gene_symbol: RCC2
+collision_symbol: TD-60

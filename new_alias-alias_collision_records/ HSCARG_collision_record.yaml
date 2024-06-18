@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000153406
+  gene_symbol: NMRAL1
+collision_symbol: ' HSCARG'

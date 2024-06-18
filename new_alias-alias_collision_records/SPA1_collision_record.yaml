@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213445
+  gene_symbol: SIPA1
+- ensg_id: ENSG00000122852
+  gene_symbol: ' SFTPA1'
+collision_symbol: SPA1

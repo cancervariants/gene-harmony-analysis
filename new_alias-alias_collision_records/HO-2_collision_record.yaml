@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277424
+  gene_symbol: HMOX2
+collision_symbol: HO-2

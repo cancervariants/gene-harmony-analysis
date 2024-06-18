@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275152
+  gene_symbol: CCL16
+collision_symbol: ' LCC-1'

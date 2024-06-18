@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288355
+  gene_symbol: MIR6859-3
+collision_symbol: hsa-mir-6859-3

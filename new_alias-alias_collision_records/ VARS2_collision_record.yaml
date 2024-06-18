@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231116
+  gene_symbol: VARS1
+collision_symbol: ' VARS2'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000258436
+  gene_symbol: RNASE12
+- ensg_id: ENSG00000204348
+  gene_symbol: ' DXO'
+collision_symbol: RAI1

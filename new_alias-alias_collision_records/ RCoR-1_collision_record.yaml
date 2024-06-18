@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206289
+  gene_symbol: RXRB
+collision_symbol: ' RCoR-1'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282853
+  gene_symbol: ECH1
+collision_symbol: HPXEL

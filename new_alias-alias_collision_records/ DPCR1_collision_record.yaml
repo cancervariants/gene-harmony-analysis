@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229284
+  gene_symbol: MUCL3
+collision_symbol: ' DPCR1'

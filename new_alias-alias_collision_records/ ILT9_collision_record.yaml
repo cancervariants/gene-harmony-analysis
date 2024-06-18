@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277921
+  gene_symbol: LILRP1
+collision_symbol: ' ILT9'

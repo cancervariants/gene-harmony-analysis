@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198910
+  gene_symbol: L1CAM
+- ensg_id: ENSG00000145293
+  gene_symbol: ' ENOPH1'
+collision_symbol: ' MASA'

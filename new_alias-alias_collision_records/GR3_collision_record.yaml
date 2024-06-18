@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000119973
+  gene_symbol: PRLHR
+- ensg_id: ENSG00000187764
+  gene_symbol: ' SEMA4D'
+collision_symbol: GR3

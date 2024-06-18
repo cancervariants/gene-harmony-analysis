@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000183311
+  gene_symbol: TUBB
+collision_symbol: ' Tubb5'

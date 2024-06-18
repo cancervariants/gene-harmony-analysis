@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000021574
+  gene_symbol: SPAST
+- ensg_id: ENSG00000154040
+  gene_symbol: ' CABYR'
+collision_symbol: FSP2

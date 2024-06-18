@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197565
+  gene_symbol: COL4A6
+- ensg_id: NAN
+  gene_symbol: ' AMMEC'
+collision_symbol: DELXq22.3

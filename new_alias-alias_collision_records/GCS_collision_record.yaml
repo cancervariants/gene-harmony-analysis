@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000148154
+  gene_symbol: UGCG
+- ensg_id: ENSG00000001084
+  gene_symbol: ' GCLC'
+collision_symbol: GCS

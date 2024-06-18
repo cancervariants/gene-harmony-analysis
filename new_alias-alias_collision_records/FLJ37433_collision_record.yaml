@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277161
+  gene_symbol: PIGW
+collision_symbol: FLJ37433

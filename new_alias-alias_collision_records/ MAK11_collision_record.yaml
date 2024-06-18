@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000111845
+  gene_symbol: PAK1IP1
+collision_symbol: ' MAK11'

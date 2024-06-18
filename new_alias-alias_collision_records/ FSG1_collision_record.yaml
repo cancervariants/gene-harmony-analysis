@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000109536
+  gene_symbol: FRG1
+collision_symbol: ' FSG1'

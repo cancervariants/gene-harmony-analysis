@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231021
+  gene_symbol: HLA-DRB4
+collision_symbol: HLA-DR4B

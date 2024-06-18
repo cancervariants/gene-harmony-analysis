@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000177628
+  gene_symbol: GBA1
+- ensg_id: ENSG00000291137
+  gene_symbol: ' GBAP1'
+- ensg_id: ENSG00000249948
+  gene_symbol: ' GBA3'
+collision_symbol: ' GLUC'

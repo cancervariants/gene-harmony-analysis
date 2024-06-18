@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198707
+  gene_symbol: CEP290
+- ensg_id: ENSG00000273769
+  gene_symbol: ' L1CAM-AS1'
+collision_symbol: LCA10

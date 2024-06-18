@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137106
+  gene_symbol: GRHPR
+- ensg_id: ENSG00000134686
+  gene_symbol: ' PHC2'
+collision_symbol: PH2

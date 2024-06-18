@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000103740
+  gene_symbol: ACSBG1
+- ensg_id: ENSG00000169919
+  gene_symbol: ' GUSB'
+- ensg_id: ENSG00000091583
+  gene_symbol: ' APOH'
+collision_symbol: BG

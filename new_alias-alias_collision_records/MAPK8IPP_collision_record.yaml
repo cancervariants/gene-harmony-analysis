@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262500
+  gene_symbol: MAPK8IP1P1
+collision_symbol: MAPK8IPP

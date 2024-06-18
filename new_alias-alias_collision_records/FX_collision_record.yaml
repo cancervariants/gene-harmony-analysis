@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104522
+  gene_symbol: GFUS
+collision_symbol: FX

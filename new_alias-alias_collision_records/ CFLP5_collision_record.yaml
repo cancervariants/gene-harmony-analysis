@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000213830
+  gene_symbol: CFL1P5
+collision_symbol: ' CFLP5'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280610
+  gene_symbol: KIF15
+collision_symbol: ' NY-BR-62'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108551
+  gene_symbol: RASD1
+- ensg_id: ENSG00000213689
+  gene_symbol: ' TREX1'
+collision_symbol: AGS1

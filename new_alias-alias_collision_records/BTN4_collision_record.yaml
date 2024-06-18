@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285153
+  gene_symbol: BTNL10P
+collision_symbol: BTN4

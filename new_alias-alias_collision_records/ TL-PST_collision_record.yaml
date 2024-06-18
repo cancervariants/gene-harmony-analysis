@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000261052
+  gene_symbol: SULT1A3
+collision_symbol: ' TL-PST'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000130612
+  gene_symbol: CYP2G1P
+collision_symbol: CYP2G1

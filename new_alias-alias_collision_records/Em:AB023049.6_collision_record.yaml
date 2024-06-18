@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227655
+  gene_symbol: PTMAP1
+collision_symbol: Em:AB023049.6

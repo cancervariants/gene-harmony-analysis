@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000159961
+  gene_symbol: OR3A3
+- ensg_id: ENSG00000180068
+  gene_symbol: ' OR3A4P'
+collision_symbol: OR17-16

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280873
+  gene_symbol: DGKD
+collision_symbol: DGKdelta

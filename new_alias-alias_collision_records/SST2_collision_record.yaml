@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000180616
+  gene_symbol: SSTR2
+- ensg_id: ENSG00000241563
+  gene_symbol: ' CORT'
+collision_symbol: SST2

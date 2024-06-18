@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285723
+  gene_symbol: MKKS
+collision_symbol: ' KMS'

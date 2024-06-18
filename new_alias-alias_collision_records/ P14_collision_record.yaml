@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000116586
+  gene_symbol: LAMTOR2
+- ensg_id: ENSG00000167797
+  gene_symbol: ' CDK2AP2'
+- ensg_id: ENSG00000147889
+  gene_symbol: ' CDKN2A'
+collision_symbol: ' p14'

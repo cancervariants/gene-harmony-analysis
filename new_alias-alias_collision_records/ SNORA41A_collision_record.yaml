@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000207406
+  gene_symbol: SNORA41
+collision_symbol: ' SNORA41A'

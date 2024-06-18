@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000270141
+  gene_symbol: TERC
+- ensg_id: ENSG00000181104
+  gene_symbol: ' F2R'
+- ensg_id: ENSG00000184470
+  gene_symbol: ' TXNRD2'
+- ensg_id: ENSG00000144339
+  gene_symbol: ' TMEFF2'
+collision_symbol: ' TR'

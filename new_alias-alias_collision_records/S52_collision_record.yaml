@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277354
+  gene_symbol: CRIM1
+collision_symbol: S52

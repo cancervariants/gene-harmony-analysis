@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278693
+  gene_symbol: ASB2
+collision_symbol: ASB-2

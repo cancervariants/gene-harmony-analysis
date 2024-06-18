@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120693
+  gene_symbol: SMAD9
+- ensg_id: ENSG00000137834
+  gene_symbol: ' SMAD6'
+collision_symbol: MADH6

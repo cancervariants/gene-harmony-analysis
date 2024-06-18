@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275917
+  gene_symbol: CHRFAM7A
+collision_symbol: CHRNA7-DR1

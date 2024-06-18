@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000197953
+  gene_symbol: AADACL2
+collision_symbol: MGC72001

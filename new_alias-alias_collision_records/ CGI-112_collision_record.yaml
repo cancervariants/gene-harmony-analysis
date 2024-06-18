@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285377
+  gene_symbol: EMC9
+collision_symbol: ' CGI-112'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284944
+  gene_symbol: MED18
+collision_symbol: FLJ20045

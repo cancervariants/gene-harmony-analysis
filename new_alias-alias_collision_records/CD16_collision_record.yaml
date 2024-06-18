@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162747
+  gene_symbol: FCGR3B
+- ensg_id: ENSG00000203747
+  gene_symbol: ' FCGR3A'
+collision_symbol: CD16

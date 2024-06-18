@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000110367
+  gene_symbol: DDX6
+- ensg_id: ENSG00000176601
+  gene_symbol: ' MAP3K19'
+collision_symbol: ' RCK'

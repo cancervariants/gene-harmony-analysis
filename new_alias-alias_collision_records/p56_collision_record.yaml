@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100764
+  gene_symbol: PSMC1
+- ensg_id: ENSG00000227211
+  gene_symbol: ' H3P45'
+collision_symbol: p56

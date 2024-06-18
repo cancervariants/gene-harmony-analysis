@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172062
+  gene_symbol: SMN1
+- ensg_id: NAN
+  gene_symbol: ' GUSBP14'
+collision_symbol: SMA4

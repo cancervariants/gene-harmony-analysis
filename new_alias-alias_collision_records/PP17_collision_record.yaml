@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105355
+  gene_symbol: PLIN3
+- ensg_id: ENSG00000117632
+  gene_symbol: ' STMN1'
+collision_symbol: PP17

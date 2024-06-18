@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277364
+  gene_symbol: ADH5P4
+collision_symbol: ADH5B

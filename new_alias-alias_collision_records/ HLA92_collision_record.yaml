@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290339
+  gene_symbol: HLA-L
+collision_symbol: ' HLA92'

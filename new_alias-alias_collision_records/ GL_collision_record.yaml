@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285343
+  gene_symbol: PPP1R3B
+collision_symbol: ' GL'

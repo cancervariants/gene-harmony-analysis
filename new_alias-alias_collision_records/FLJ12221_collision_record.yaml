@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000132003
+  gene_symbol: ZSWIM4
+collision_symbol: FLJ12221

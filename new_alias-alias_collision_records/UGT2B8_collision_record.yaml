@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277132
+  gene_symbol: UGT2B15
+collision_symbol: UGT2B8

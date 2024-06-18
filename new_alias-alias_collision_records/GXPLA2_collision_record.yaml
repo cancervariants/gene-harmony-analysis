@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276870
+  gene_symbol: PLA2G10
+collision_symbol: GXPLA2

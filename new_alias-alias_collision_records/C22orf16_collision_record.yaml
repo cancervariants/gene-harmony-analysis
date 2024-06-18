@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000250479
+  gene_symbol: CHCHD10
+collision_symbol: C22orf16

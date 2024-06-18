@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000259849
+  gene_symbol: VENTXP1
+- ensg_id: ENSG00000151650
+  gene_symbol: ' VENTX'
+collision_symbol: NA88A

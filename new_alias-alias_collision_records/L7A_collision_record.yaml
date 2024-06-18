@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280858
+  gene_symbol: RPL7A
+collision_symbol: L7A

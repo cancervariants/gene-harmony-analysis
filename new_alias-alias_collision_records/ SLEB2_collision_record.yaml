@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000188389
+  gene_symbol: PDCD1
+collision_symbol: ' SLEB2'

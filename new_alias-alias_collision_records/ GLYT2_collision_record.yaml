@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204136
+  gene_symbol: GGTA1
+- ensg_id: ENSG00000165970
+  gene_symbol: ' SLC6A5'
+collision_symbol: ' GLYT2'

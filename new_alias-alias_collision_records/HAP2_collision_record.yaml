@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173805
+  gene_symbol: HAP1
+- ensg_id: ENSG00000001167
+  gene_symbol: ' NFYA'
+collision_symbol: HAP2

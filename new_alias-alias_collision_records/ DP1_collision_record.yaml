@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000129625
+  gene_symbol: REEP5
+- ensg_id: ENSG00000198176
+  gene_symbol: ' TFDP1'
+- ensg_id: ENSG00000168229
+  gene_symbol: ' PTGDR'
+collision_symbol: ' DP1'

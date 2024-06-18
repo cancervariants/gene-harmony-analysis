@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: CLAM
+- ensg_id: ENSG00000186472
+  gene_symbol: ' PCLO'
+collision_symbol: PCH3

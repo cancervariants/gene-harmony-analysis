@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000140262
+  gene_symbol: TCF12
+- ensg_id: NAN
+  gene_symbol: ' CRSA'
+- ensg_id: ENSG00000096006
+  gene_symbol: ' CRISP3'
+collision_symbol: CRS3

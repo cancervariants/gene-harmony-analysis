@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262607
+  gene_symbol: IQSEC3
+collision_symbol: KIAA1110

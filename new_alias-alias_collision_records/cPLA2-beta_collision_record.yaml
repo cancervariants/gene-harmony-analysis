@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168970
+  gene_symbol: JMJD7-PLA2G4B
+- ensg_id: ENSG00000243708
+  gene_symbol: ' PLA2G4B'
+collision_symbol: cPLA2-beta

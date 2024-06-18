@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162711
+  gene_symbol: NLRP3
+- ensg_id: ENSG00000142166
+  gene_symbol: ' IFNAR1'
+collision_symbol: AVP

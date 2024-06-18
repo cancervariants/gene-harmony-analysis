@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237541
+  gene_symbol: HLA-DQA2
+collision_symbol: HLA-DXA

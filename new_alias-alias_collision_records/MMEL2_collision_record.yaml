@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277131
+  gene_symbol: MMEL1
+collision_symbol: MMEL2

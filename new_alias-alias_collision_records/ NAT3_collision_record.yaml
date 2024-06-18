@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173418
+  gene_symbol: NAA20
+- ensg_id: ENSG00000139209
+  gene_symbol: ' SLC38A4'
+collision_symbol: ' NAT3'

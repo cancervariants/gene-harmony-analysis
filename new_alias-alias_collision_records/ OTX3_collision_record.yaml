@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105392
+  gene_symbol: CRX
+- ensg_id: ENSG00000197587
+  gene_symbol: ' DMBX1'
+collision_symbol: ' OTX3'

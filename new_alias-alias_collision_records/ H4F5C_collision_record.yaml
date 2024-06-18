@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000205572
+  gene_symbol: SERF1B
+collision_symbol: ' H4F5C'

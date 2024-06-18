@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000234799
+  gene_symbol: HLA-N
+collision_symbol: HLA-30

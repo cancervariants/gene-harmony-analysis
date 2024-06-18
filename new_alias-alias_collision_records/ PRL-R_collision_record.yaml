@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275575
+  gene_symbol: PTP4A3
+collision_symbol: ' PRL-R'

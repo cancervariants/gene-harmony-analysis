@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: HLA-DRB4
+- ensg_id: ENSG00000196126
+  gene_symbol: ' HLA-DRB1'
+collision_symbol: HLA-DRB

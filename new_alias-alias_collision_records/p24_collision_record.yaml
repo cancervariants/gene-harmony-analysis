@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000271296
+  gene_symbol: H3P19
+- ensg_id: ENSG00000152954
+  gene_symbol: ' NRSN1'
+collision_symbol: p24

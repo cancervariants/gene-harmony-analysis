@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288145
+  gene_symbol: EIF5A
+collision_symbol: ' MGC99547'

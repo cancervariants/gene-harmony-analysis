@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184207
+  gene_symbol: PGP
+- ensg_id: ENSG00000160190
+  gene_symbol: ' SLC37A1'
+collision_symbol: G3PP

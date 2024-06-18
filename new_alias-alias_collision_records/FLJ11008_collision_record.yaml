@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284807
+  gene_symbol: DHRS4
+collision_symbol: FLJ11008

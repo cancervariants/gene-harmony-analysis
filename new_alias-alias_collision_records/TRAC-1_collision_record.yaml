@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196498
+  gene_symbol: NCOR2
+- ensg_id: ENSG00000101695
+  gene_symbol: ' RNF125'
+collision_symbol: TRAC-1

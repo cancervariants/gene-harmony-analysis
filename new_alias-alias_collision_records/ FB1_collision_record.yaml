@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000105619
+  gene_symbol: TFPT
+collision_symbol: ' FB1'

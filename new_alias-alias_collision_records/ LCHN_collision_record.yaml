@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000257093
+  gene_symbol: DENND11
+collision_symbol: ' LCHN'

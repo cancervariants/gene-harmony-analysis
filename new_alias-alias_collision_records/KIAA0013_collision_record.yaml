@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000198826
+  gene_symbol: ARHGAP11A
+collision_symbol: KIAA0013

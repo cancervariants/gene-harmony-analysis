@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104824
+  gene_symbol: HNRNPL
+collision_symbol: HNRPL

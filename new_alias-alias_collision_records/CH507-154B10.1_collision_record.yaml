@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000275496
+  gene_symbol: LOC102724701
+- ensg_id: NAN
+  gene_symbol: ' LOC105379499'
+- ensg_id: NAN
+  gene_symbol: ' CH507-145C22.1'
+collision_symbol: CH507-154B10.1

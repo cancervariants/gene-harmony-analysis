@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000224544
+  gene_symbol: PSORS1C2
+collision_symbol: C6orf17

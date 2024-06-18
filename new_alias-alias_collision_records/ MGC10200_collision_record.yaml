@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262634
+  gene_symbol: SKA1
+collision_symbol: ' MGC10200'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000169964
+  gene_symbol: TMEM42
+collision_symbol: MGC29956

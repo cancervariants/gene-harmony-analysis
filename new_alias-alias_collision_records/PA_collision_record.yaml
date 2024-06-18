@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277823
+  gene_symbol: PRH1
+collision_symbol: Pa

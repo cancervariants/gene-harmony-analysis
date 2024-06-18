@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285077
+  gene_symbol: ARHGAP11B
+collision_symbol: ' FAM7B1'

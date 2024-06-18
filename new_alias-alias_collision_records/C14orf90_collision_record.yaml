@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000258986
+  gene_symbol: TMEM179
+collision_symbol: C14orf90

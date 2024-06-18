@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000169981
+  gene_symbol: ZNF35
+collision_symbol: ' HF10'

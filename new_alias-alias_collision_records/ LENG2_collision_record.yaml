@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275979
+  gene_symbol: CNOT3
+collision_symbol: ' LENG2'

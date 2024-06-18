@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000261972
+  gene_symbol: CES5A
+collision_symbol: ' CES5'

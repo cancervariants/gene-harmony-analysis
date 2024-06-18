@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290875
+  gene_symbol: GLUD1P2
+collision_symbol: ' GLUDP7'

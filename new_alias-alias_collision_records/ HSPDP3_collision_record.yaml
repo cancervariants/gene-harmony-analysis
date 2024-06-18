@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285504
+  gene_symbol: HSPD1P3
+collision_symbol: ' HSPDP3'

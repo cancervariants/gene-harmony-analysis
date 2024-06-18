@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102753
+  gene_symbol: KPNA3
+- ensg_id: ENSG00000114030
+  gene_symbol: ' KPNA1'
+collision_symbol: SRP1

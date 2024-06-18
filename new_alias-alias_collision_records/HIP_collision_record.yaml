@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162244
+  gene_symbol: RPL29
+- ensg_id: ENSG00000172016
+  gene_symbol: ' REG3A'
+collision_symbol: HIP

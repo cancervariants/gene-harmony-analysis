@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237114
+  gene_symbol: CDSN
+collision_symbol: D6S586E

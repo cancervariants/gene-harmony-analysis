@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281907
+  gene_symbol: SNORD36A
+collision_symbol: ' U36a'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183421
+  gene_symbol: RIPK4
+- ensg_id: ENSG00000164344
+  gene_symbol: ' KLKB1'
+collision_symbol: PKK

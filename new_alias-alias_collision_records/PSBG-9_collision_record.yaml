@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183668
+  gene_symbol: PSG9
+- ensg_id: ENSG00000243137
+  gene_symbol: ' PSG4'
+collision_symbol: PSBG-9

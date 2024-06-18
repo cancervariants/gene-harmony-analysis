@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233655
+  gene_symbol: IGHD4-4
+collision_symbol: ' IGHD44'

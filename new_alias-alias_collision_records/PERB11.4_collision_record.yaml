@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229390
+  gene_symbol: MICD
+collision_symbol: PERB11.4

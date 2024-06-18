@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000172288
+  gene_symbol: CDY1
+- ensg_id: ENSG00000129873
+  gene_symbol: ' CDY2B'
+- ensg_id: ENSG00000172352
+  gene_symbol: ' CDY1B'
+- ensg_id: ENSG00000182415
+  gene_symbol: ' CDY2A'
+collision_symbol: CDY

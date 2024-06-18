@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165060
+  gene_symbol: FXN
+- ensg_id: ENSG00000187741
+  gene_symbol: ' FANCA'
+collision_symbol: FA

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DAD1P1
+- ensg_id: ENSG00000184845
+  gene_symbol: ' DRD1'
+collision_symbol: DADR

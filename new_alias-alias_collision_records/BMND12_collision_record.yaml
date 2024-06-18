@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165355
+  gene_symbol: FBXO33
+- ensg_id: ENSG00000197888
+  gene_symbol: ' UGT2B17'
+collision_symbol: BMND12

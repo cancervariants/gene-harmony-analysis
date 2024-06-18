@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125551
+  gene_symbol: PLGLB2
+- ensg_id: ENSG00000240935
+  gene_symbol: ' PLGLA'
+collision_symbol: PRGA

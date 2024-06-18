@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288320
+  gene_symbol: MRPL23-AS1
+collision_symbol: TP53LC10

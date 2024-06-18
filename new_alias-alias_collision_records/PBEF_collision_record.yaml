@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000243438
+  gene_symbol: LARP1BP2
+- ensg_id: ENSG00000105835
+  gene_symbol: ' NAMPT'
+- ensg_id: ENSG00000201796
+  gene_symbol: ' RNU6-392P'
+collision_symbol: PBEF

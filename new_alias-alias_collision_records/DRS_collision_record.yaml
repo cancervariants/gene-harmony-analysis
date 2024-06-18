@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100941
+  gene_symbol: PNN
+- ensg_id: ENSG00000101955
+  gene_symbol: ' SRPX'
+collision_symbol: DRS

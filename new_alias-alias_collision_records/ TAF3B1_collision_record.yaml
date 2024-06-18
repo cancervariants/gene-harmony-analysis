@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274803
+  gene_symbol: BDP1
+collision_symbol: ' TAF3B1'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276072
+  gene_symbol: AATF
+collision_symbol: ' CHE1'

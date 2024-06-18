@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000242338
+  gene_symbol: BMS1P4
+collision_symbol: BMS1LP4

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000151276
+  gene_symbol: MAGI1
+collision_symbol: ' TNRC19'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239149
+  gene_symbol: SNORA59A
+- ensg_id: ENSG00000266079
+  gene_symbol: ' SNORA59B'
+collision_symbol: ACA59

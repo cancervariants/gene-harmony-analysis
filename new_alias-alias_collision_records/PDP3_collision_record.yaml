@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000090857
+  gene_symbol: PDPR
+collision_symbol: PDP3

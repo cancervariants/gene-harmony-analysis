@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277804
+  gene_symbol: PRTN3
+collision_symbol: ' MBT'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103671
+  gene_symbol: TRIP4
+- ensg_id: ENSG00000100316
+  gene_symbol: ' RPL3'
+collision_symbol: ASC-1

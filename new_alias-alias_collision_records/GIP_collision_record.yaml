@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114353
+  gene_symbol: GNAI2
+- ensg_id: ENSG00000173918
+  gene_symbol: ' C1QTNF1'
+collision_symbol: GIP

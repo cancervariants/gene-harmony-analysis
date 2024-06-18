@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000152894
+  gene_symbol: PTPRK
+collision_symbol: R-PTP-kappa

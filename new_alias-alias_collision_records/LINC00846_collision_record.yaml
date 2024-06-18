@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000242220
+  gene_symbol: TCP10L
+- ensg_id: ENSG00000265590
+  gene_symbol: ' CFAP298-TCP10L'
+collision_symbol: LINC00846

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000184811
+  gene_symbol: TRARG1
+collision_symbol: ' LOST1'

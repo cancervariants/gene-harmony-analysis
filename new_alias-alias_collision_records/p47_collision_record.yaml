@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115956
+  gene_symbol: PLEK
+- ensg_id: ENSG00000105472
+  gene_symbol: ' CLEC11A'
+collision_symbol: P47

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276336
+  gene_symbol: SCARF1
+collision_symbol: ' SREC'

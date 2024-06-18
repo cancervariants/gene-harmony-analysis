@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274338
+  gene_symbol: CATSPERB
+collision_symbol: C14orf161

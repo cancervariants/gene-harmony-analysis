@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000256762
+  gene_symbol: STH
+collision_symbol: MAPTIT

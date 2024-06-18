@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000075240
+  gene_symbol: GRAMD4
+- ensg_id: ENSG00000157514
+  gene_symbol: ' TSC22D3'
+collision_symbol: DIP

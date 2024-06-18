@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280963
+  gene_symbol: SERTAD4-AS1
+collision_symbol: C1orf133

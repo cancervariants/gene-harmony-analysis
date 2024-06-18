@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100987
+  gene_symbol: VSX1
+- ensg_id: ENSG00000171812
+  gene_symbol: ' COL8A2'
+collision_symbol: PPCD

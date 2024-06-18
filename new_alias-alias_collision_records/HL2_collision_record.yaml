@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115423
+  gene_symbol: DNAH6
+- ensg_id: ENSG00000158764
+  gene_symbol: ' ITLN2'
+collision_symbol: HL2

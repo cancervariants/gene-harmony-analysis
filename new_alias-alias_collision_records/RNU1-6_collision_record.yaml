@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000206585
+  gene_symbol: RNVU1-7
+- ensg_id: ENSG00000277344
+  gene_symbol: ' RNU1-6P'
+collision_symbol: RNU1-6

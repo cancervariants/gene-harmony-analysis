@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000117676
+  gene_symbol: RPS6KA1
+collision_symbol: ' p90Rsk'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274126
+  gene_symbol: C14orf180
+collision_symbol: C14orf77

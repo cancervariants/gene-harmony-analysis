@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000167798
+  gene_symbol: C3P1
+collision_symbol: CPLP

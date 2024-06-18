@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277733
+  gene_symbol: MBOAT7
+collision_symbol: ' LPIAT1'

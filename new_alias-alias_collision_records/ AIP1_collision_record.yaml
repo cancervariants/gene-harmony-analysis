@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136848
+  gene_symbol: DAB2IP
+- ensg_id: ENSG00000187391
+  gene_symbol: ' MAGI2'
+collision_symbol: ' AIP1'

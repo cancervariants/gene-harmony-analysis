@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000143257
+  gene_symbol: NR1I3
+- ensg_id: ENSG00000154639
+  gene_symbol: ' CXADR'
+- ensg_id: ENSG00000197912
+  gene_symbol: ' SPG7'
+- ensg_id: ENSG00000214319
+  gene_symbol: ' CXADRP1'
+collision_symbol: CAR

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167513
+  gene_symbol: CDT1
+- ensg_id: ENSG00000113318
+  gene_symbol: ' MSH3'
+collision_symbol: DUP

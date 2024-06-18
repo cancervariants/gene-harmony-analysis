@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160200
+  gene_symbol: CBS
+collision_symbol: HIP4

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285485
+  gene_symbol: NFATC4
+collision_symbol: NFAT3

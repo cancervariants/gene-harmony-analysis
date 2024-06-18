@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000144559
+  gene_symbol: TAMM41
+collision_symbol: C3orf31

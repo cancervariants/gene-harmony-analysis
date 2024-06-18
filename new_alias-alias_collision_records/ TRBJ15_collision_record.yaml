@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282215
+  gene_symbol: TRBJ1-5
+collision_symbol: ' TRBJ15'

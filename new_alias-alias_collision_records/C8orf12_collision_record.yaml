@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285275
+  gene_symbol: FAM167A-AS1
+collision_symbol: C8orf12

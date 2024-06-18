@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285465
+  gene_symbol: TM9SF1
+collision_symbol: ' MP70'

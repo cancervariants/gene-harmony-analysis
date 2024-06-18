@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000068831
+  gene_symbol: RASGRP2
+- ensg_id: ENSG00000172575
+  gene_symbol: ' RASGRP1'
+collision_symbol: CALDAG-GEFI

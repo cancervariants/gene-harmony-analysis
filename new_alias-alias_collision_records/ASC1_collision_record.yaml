@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130876
+  gene_symbol: SLC7A10
+- ensg_id: ENSG00000103671
+  gene_symbol: ' TRIP4'
+collision_symbol: ASC1

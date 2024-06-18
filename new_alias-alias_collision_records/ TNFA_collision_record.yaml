@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228321
+  gene_symbol: TNF
+collision_symbol: ' TNFA'

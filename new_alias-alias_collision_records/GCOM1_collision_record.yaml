@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000255529
+  gene_symbol: POLR2M
+- ensg_id: ENSG00000263155
+  gene_symbol: ' MYZAP'
+collision_symbol: GCOM1

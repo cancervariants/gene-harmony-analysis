@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000100288
+  gene_symbol: CHKB
+- ensg_id: ENSG00000176358
+  gene_symbol: ' TAC4'
+- ensg_id: ENSG00000110721
+  gene_symbol: ' CHKA'
+collision_symbol: EK

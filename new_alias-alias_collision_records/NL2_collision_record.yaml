@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167772
+  gene_symbol: ANGPTL4
+- ensg_id: ENSG00000142606
+  gene_symbol: ' MMEL1'
+collision_symbol: NL2

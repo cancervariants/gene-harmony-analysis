@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000183527
+  gene_symbol: PSMG1
+- ensg_id: ENSG00000067082
+  gene_symbol: ' KLF6'
+- ensg_id: ENSG00000078549
+  gene_symbol: ' ADCYAP1R1'
+collision_symbol: PAC1

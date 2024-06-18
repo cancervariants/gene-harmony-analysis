@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276977
+  gene_symbol: PDCD1
+collision_symbol: ' hSLE1'

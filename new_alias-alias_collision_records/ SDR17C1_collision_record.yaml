@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000242612
+  gene_symbol: DECR2
+collision_symbol: ' SDR17C1'

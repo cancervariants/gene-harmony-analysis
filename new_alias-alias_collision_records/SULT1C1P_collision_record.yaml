@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290794
+  gene_symbol: SULT1C2P1
+collision_symbol: SULT1C1P

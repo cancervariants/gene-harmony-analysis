@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000011009
+  gene_symbol: LYPLA2
+- ensg_id: ENSG00000204267
+  gene_symbol: ' TAP2'
+collision_symbol: APT2

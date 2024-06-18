@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196352
+  gene_symbol: CD55
+- ensg_id: ENSG00000185339
+  gene_symbol: ' TCN2'
+collision_symbol: TC

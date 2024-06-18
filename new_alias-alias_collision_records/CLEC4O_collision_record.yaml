@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000267453
+  gene_symbol: CLEC4OP
+collision_symbol: CLEC4O

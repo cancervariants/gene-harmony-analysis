@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000011275
+  gene_symbol: RNF216
+- ensg_id: ENSG00000090372
+  gene_symbol: ' STRN4'
+collision_symbol: ZIN

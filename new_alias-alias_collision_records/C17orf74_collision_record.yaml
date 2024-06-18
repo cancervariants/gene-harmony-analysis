@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283714
+  gene_symbol: SPEM2
+collision_symbol: C17orf74

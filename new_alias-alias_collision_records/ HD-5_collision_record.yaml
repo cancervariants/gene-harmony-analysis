@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285251
+  gene_symbol: DEFA5
+collision_symbol: ' HD-5'

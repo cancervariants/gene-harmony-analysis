@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187134
+  gene_symbol: AKR1C1
+- ensg_id: ENSG00000151632
+  gene_symbol: ' AKR1C2'
+collision_symbol: HBAB

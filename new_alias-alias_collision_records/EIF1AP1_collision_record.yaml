@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173674
+  gene_symbol: EIF1AX
+- ensg_id: NAN
+  gene_symbol: ' EIF1AXP1'
+collision_symbol: EIF1AP1

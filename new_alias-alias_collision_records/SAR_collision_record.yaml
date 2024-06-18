@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000185739
+  gene_symbol: SRL
+- ensg_id: ENSG00000144852
+  gene_symbol: ' NR1I2'
+- ensg_id: ENSG00000123453
+  gene_symbol: ' SARDH'
+collision_symbol: SAR

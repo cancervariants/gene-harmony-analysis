@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000184497
+  gene_symbol: TMEM255B
+collision_symbol: FAM70B

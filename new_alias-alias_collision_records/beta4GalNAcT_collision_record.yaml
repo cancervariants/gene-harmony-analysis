@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147408
+  gene_symbol: CSGALNACT1
+- ensg_id: ENSG00000169826
+  gene_symbol: ' CSGALNACT2'
+collision_symbol: beta4GalNAcT

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171476
+  gene_symbol: HOPX
+- ensg_id: ENSG00000227124
+  gene_symbol: ' ZNF717'
+collision_symbol: OB1

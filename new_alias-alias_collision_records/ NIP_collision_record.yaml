@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140254
+  gene_symbol: DUOXA1
+- ensg_id: ENSG00000123159
+  gene_symbol: ' GIPC1'
+collision_symbol: ' NIP'

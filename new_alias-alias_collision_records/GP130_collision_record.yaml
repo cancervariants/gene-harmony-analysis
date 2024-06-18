@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134352
+  gene_symbol: IL6ST
+- ensg_id: ENSG00000138095
+  gene_symbol: ' LRPPRC'
+collision_symbol: GP130

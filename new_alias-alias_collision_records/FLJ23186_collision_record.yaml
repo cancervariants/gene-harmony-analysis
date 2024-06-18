@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000114529
+  gene_symbol: C3orf52
+collision_symbol: FLJ23186

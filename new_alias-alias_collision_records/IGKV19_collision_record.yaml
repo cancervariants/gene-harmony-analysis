@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000241755
+  gene_symbol: IGKV1-9
+collision_symbol: IGKV19

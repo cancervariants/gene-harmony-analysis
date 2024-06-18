@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285302
+  gene_symbol: CHMP4A
+collision_symbol: ' HSPC134'

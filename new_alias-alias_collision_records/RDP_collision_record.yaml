@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000015413
+  gene_symbol: DPEP1
+- ensg_id: ENSG00000105409
+  gene_symbol: ' ATP1A3'
+- ensg_id: ENSG00000204356
+  gene_symbol: ' NELFE'
+collision_symbol: RDP

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290691
+  gene_symbol: STRCP1
+collision_symbol: STRCP

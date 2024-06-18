@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168495
+  gene_symbol: POLR3D
+- ensg_id: ENSG00000108465
+  gene_symbol: ' CDK5RAP3'
+collision_symbol: C53

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000146070
+  gene_symbol: PLA2G7
+- ensg_id: ENSG00000007168
+  gene_symbol: ' PAFAH1B1'
+collision_symbol: ' PAFAH'

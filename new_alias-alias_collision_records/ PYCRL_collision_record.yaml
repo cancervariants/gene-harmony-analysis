@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276657
+  gene_symbol: PYCR3
+collision_symbol: ' PYCRL'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280831
+  gene_symbol: RPS25
+collision_symbol: S25

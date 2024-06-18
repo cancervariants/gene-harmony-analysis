@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100591
+  gene_symbol: AHSA1
+- ensg_id: ENSG00000173209
+  gene_symbol: ' AHSA2P'
+collision_symbol: AHA1

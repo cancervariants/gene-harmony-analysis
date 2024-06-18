@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281630
+  gene_symbol: MUC20
+collision_symbol: FLJ14408

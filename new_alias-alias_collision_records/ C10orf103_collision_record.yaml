@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227540
+  gene_symbol: DNAJC9-AS1
+collision_symbol: ' C10orf103'

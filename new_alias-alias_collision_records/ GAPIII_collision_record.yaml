@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000185989
+  gene_symbol: RASA3
+collision_symbol: ' GAPIII'

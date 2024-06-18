@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000126216
+  gene_symbol: TUBGCP3
+collision_symbol: GCP3

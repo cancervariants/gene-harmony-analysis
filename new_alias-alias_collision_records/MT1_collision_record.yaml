@@ -1,0 +1,22 @@
+collision_group:
+- ensg_id: ENSG00000275691
+  gene_symbol: MT1IP
+- ensg_id: ENSG00000290662
+  gene_symbol: ' MT1JP'
+- ensg_id: ENSG00000169688
+  gene_symbol: ' MT1B'
+- ensg_id: ENSG00000205362
+  gene_symbol: ' MT1A'
+- ensg_id: ENSG00000205364
+  gene_symbol: ' MT1M'
+- ensg_id: ENSG00000205358
+  gene_symbol: ' MT1H'
+- ensg_id: ENSG00000125144
+  gene_symbol: ' MT1G'
+- ensg_id: ENSG00000169715
+  gene_symbol: ' MT1E'
+- ensg_id: ENSG00000198417
+  gene_symbol: ' MT1F'
+- ensg_id: ENSG00000260549
+  gene_symbol: ' MT1L'
+collision_symbol: MT1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262145
+  gene_symbol: ATP23
+collision_symbol: ' XRCC6BP1'

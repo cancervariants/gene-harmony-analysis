@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000155093
+  gene_symbol: PTPRN2
+collision_symbol: ' phogrin'

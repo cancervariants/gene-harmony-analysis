@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105825
+  gene_symbol: TFPI2
+- ensg_id: ENSG00000100823
+  gene_symbol: ' APEX1'
+collision_symbol: REF1

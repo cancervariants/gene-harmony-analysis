@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135679
+  gene_symbol: MDM2
+- ensg_id: ENSG00000198625
+  gene_symbol: ' MDM4'
+collision_symbol: HDMX

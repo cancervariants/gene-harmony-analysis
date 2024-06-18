@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235570
+  gene_symbol: LINC00533
+collision_symbol: ' C6orf38'

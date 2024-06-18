@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140416
+  gene_symbol: TPM1
+- ensg_id: ENSG00000187514
+  gene_symbol: ' PTMA'
+collision_symbol: TMSA

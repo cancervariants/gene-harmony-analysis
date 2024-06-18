@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283628
+  gene_symbol: CYP2D8P
+collision_symbol: ' CYP2DP1'

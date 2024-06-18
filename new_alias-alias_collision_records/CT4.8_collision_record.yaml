@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: GAGE8
+- ensg_id: NAN
+  gene_symbol: ' GAGE2D'
+collision_symbol: CT4.8

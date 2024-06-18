@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274089
+  gene_symbol: PRIMA1
+collision_symbol: PRIMA

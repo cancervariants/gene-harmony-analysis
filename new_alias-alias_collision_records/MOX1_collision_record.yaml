@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000005102
+  gene_symbol: MEOX1
+- ensg_id: ENSG00000007952
+  gene_symbol: ' NOX1'
+collision_symbol: MOX1

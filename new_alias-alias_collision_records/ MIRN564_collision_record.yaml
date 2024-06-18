@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284275
+  gene_symbol: MIR564
+collision_symbol: ' MIRN564'

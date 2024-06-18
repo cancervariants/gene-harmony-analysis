@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000175595
+  gene_symbol: ERCC4
+- ensg_id: ENSG00000169413
+  gene_symbol: ' RNASE6'
+collision_symbol: RAD1

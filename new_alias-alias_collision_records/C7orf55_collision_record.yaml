@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000269955
+  gene_symbol: FMC1-LUC7L2
+- ensg_id: ENSG00000164898
+  gene_symbol: ' FMC1'
+collision_symbol: C7orf55

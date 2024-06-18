@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129170
+  gene_symbol: CSRP3
+- ensg_id: ENSG00000221869
+  gene_symbol: ' CEBPD'
+collision_symbol: CRP3

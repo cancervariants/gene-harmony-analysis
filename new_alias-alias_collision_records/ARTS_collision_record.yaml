@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147224
+  gene_symbol: PRPS1
+- ensg_id: ENSG00000108387
+  gene_symbol: ' SEPTIN4'
+collision_symbol: ARTS

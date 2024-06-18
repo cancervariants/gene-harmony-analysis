@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104783
+  gene_symbol: KCNN4
+- ensg_id: ENSG00000185811
+  gene_symbol: ' IKZF1'
+collision_symbol: IK1

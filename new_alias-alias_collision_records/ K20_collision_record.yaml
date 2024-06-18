@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000263057
+  gene_symbol: KRT20
+collision_symbol: ' K20'

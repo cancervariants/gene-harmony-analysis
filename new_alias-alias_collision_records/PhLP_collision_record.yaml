@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136940
+  gene_symbol: PDCL
+- ensg_id: ENSG00000116703
+  gene_symbol: ' PDC'
+collision_symbol: PhLP

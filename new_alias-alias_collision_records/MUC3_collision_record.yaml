@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: MUC3B
+- ensg_id: ENSG00000169894
+  gene_symbol: ' MUC3A'
+- ensg_id: ENSG00000169876
+  gene_symbol: ' MUC17'
+collision_symbol: MUC3

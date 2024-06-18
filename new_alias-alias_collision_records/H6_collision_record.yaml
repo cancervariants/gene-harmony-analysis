@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000215612
+  gene_symbol: HMX1
+collision_symbol: H6

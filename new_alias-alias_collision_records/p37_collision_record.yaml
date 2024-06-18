@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000215114
+  gene_symbol: UBXN2B
+- ensg_id: ENSG00000134480
+  gene_symbol: ' CCNH'
+collision_symbol: p37

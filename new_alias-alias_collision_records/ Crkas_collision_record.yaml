@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285460
+  gene_symbol: BCAR1
+collision_symbol: ' Crkas'

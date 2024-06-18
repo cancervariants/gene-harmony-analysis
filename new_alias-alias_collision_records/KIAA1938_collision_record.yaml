@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227460
+  gene_symbol: SYNGAP1
+collision_symbol: KIAA1938

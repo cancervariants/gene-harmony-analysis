@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134827
+  gene_symbol: TCN1
+- ensg_id: ENSG00000079257
+  gene_symbol: ' LXN'
+collision_symbol: TCI

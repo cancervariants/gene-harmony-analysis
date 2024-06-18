@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114859
+  gene_symbol: CLCN2
+- ensg_id: ENSG00000006659
+  gene_symbol: ' LGALS14'
+collision_symbol: CLC2

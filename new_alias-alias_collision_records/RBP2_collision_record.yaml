@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000060709
+  gene_symbol: RIMBP2
+- ensg_id: ENSG00000073614
+  gene_symbol: ' KDM5A'
+collision_symbol: RBP2

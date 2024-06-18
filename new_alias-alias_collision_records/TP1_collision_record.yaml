@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000118245
+  gene_symbol: TNP1
+- ensg_id: ENSG00000129566
+  gene_symbol: ' TEP1'
+collision_symbol: TP1

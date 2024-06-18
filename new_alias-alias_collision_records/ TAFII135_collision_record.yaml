@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000130699
+  gene_symbol: TAF4
+collision_symbol: ' TAFII135'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282956
+  gene_symbol: MAGI1
+collision_symbol: AIP3

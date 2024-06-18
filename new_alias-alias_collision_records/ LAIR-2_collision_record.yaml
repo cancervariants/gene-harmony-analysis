@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275819
+  gene_symbol: LAIR2
+collision_symbol: ' LAIR-2'

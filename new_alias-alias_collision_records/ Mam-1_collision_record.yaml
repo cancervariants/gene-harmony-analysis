@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000161021
+  gene_symbol: MAML1
+collision_symbol: ' Mam-1'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290866
+  gene_symbol: OTOAP1
+collision_symbol: LOC653786

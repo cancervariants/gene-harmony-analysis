@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103490
+  gene_symbol: PYCARD
+- ensg_id: ENSG00000101846
+  gene_symbol: ' STS'
+collision_symbol: ASC

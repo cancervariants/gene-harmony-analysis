@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206376
+  gene_symbol: EHMT2
+collision_symbol: ' KMT1C'

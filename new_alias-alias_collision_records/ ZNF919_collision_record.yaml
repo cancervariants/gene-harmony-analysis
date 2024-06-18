@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000213588
+  gene_symbol: ZBTB9
+collision_symbol: ' ZNF919'

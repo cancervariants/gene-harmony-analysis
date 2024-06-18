@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120802
+  gene_symbol: TMPO
+- ensg_id: ENSG00000112851
+  gene_symbol: ' ERBIN'
+collision_symbol: LAP2

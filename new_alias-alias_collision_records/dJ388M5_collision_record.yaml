@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100341
+  gene_symbol: PNPLA5
+- ensg_id: NAN
+  gene_symbol: ' HMGN2P9'
+collision_symbol: dJ388M5

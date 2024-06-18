@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164690
+  gene_symbol: SHH
+- ensg_id: ENSG00000148459
+  gene_symbol: ' PDSS1'
+collision_symbol: TPT

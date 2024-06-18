@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137492
+  gene_symbol: THAP12
+- ensg_id: ENSG00000080845
+  gene_symbol: ' DLGAP4'
+collision_symbol: DAP4

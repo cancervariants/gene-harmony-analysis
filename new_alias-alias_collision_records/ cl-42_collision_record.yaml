@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274926
+  gene_symbol: KIR2DL1
+collision_symbol: ' cl-42'

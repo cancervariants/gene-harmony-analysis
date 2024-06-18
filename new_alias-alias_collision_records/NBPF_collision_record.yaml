@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000219481
+  gene_symbol: NBPF1
+- ensg_id: ENSG00000270629
+  gene_symbol: ' NBPF14'
+collision_symbol: NBPF

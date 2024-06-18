@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000072274
+  gene_symbol: TFRC
+- ensg_id: ENSG00000010438
+  gene_symbol: ' PRSS3'
+collision_symbol: T9

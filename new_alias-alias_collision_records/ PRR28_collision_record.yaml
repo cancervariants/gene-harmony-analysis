@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273604
+  gene_symbol: EPOP
+collision_symbol: ' PRR28'

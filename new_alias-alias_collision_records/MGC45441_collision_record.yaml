@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000159214
+  gene_symbol: CCDC24
+- ensg_id: ENSG00000177868
+  gene_symbol: ' SVBP'
+collision_symbol: MGC45441

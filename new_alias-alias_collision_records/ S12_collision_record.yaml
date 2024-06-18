@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135312
+  gene_symbol: HTR1B
+- ensg_id: ENSG00000103035
+  gene_symbol: ' PSMD7'
+collision_symbol: ' S12'

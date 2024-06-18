@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165186
+  gene_symbol: PTCHD1
+- ensg_id: NAN
+  gene_symbol: ' DELXP22.11'
+collision_symbol: AUTSX4

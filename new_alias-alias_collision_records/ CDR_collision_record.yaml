@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000079102
+  gene_symbol: RUNX1T1
+- ensg_id: ENSG00000198610
+  gene_symbol: ' AKR1C4'
+collision_symbol: ' CDR'

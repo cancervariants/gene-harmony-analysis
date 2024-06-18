@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173638
+  gene_symbol: SLC19A1
+- ensg_id: ENSG00000035928
+  gene_symbol: ' RFC1'
+collision_symbol: RFC

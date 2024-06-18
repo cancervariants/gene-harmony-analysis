@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134243
+  gene_symbol: SORT1
+- ensg_id: ENSG00000185652
+  gene_symbol: ' NTF3'
+collision_symbol: NT3

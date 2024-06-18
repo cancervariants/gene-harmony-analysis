@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000241404
+  gene_symbol: EGFL8
+collision_symbol: C6orf8

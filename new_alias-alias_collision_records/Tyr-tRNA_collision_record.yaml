@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRY-GTA7-1
+- ensg_id: NAN
+  gene_symbol: ' TRY-GTA5-4'
+collision_symbol: Tyr-tRNA

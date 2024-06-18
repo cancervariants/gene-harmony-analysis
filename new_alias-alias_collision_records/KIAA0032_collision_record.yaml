@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000287542
+  gene_symbol: HERC3
+collision_symbol: KIAA0032

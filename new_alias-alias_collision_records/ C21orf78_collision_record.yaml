@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262911
+  gene_symbol: DNAJC28
+collision_symbol: ' C21orf78'

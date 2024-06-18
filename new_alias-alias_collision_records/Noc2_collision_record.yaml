@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000181031
+  gene_symbol: RPH3AL
+collision_symbol: Noc2

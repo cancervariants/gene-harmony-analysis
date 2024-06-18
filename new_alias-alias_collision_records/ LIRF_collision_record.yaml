@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237733
+  gene_symbol: RNF39
+collision_symbol: ' LIRF'

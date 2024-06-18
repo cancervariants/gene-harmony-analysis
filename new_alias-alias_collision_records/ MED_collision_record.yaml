@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000196876
+  gene_symbol: SCN8A
+- ensg_id: ENSG00000049089
+  gene_symbol: ' COL9A2'
+- ensg_id: ENSG00000105664
+  gene_symbol: ' COMP'
+- ensg_id: ENSG00000092758
+  gene_symbol: ' COL9A3'
+collision_symbol: ' MED'

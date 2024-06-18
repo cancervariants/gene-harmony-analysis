@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000079393
+  gene_symbol: DUSP13
+- ensg_id: ENSG00000111701
+  gene_symbol: ' APOBEC1'
+collision_symbol: BEDP

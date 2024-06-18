@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273936
+  gene_symbol: TNFRSF14
+collision_symbol: ' CD270'

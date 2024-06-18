@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160299
+  gene_symbol: PCNT
+- ensg_id: ENSG00000178209
+  gene_symbol: ' PLEC'
+collision_symbol: PCN

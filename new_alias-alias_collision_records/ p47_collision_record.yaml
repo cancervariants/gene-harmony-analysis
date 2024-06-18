@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000270433
+  gene_symbol: H3P37
+- ensg_id: ENSG00000088833
+  gene_symbol: ' NSFL1C'
+- ensg_id: ENSG00000153487
+  gene_symbol: ' ING1'
+collision_symbol: ' p47'

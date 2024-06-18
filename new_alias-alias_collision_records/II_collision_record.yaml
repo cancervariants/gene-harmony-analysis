@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000111846
+  gene_symbol: GCNT2
+- ensg_id: ENSG00000114812
+  gene_symbol: ' VIPR1'
+- ensg_id: ENSG00000019582
+  gene_symbol: ' CD74'
+- ensg_id: ENSG00000185339
+  gene_symbol: ' TCN2'
+- ensg_id: ENSG00000137413
+  gene_symbol: ' TAF8'
+collision_symbol: II

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000215641
+  gene_symbol: TRIM27
+collision_symbol: ' RNF76'

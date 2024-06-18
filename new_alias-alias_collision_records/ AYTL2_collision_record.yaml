@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275079
+  gene_symbol: LPCAT1
+collision_symbol: ' AYTL2'

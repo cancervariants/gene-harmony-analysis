@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275397
+  gene_symbol: DHRS11
+collision_symbol: MGC4172

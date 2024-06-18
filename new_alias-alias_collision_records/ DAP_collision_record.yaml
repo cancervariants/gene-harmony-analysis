@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123992
+  gene_symbol: DNPEP
+- ensg_id: ENSG00000121351
+  gene_symbol: ' IAPP'
+collision_symbol: ' DAP'

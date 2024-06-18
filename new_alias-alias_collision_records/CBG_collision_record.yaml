@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277405
+  gene_symbol: SERPINA6
+collision_symbol: CBG

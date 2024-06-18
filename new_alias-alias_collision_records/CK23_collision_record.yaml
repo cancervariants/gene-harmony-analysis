@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000263309
+  gene_symbol: KRT23
+collision_symbol: CK23

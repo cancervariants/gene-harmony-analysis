@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167815
+  gene_symbol: PRDX2
+- ensg_id: ENSG00000124490
+  gene_symbol: ' CRISP2'
+collision_symbol: TPX1

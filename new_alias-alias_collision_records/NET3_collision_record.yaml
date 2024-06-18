@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134198
+  gene_symbol: TSPAN2
+- ensg_id: ENSG00000058804
+  gene_symbol: ' NDC1'
+collision_symbol: NET3

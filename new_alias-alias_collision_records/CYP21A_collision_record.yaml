@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231759
+  gene_symbol: CYP21A1P
+collision_symbol: CYP21A

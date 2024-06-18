@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000087494
+  gene_symbol: PTHLH
+- ensg_id: ENSG00000166946
+  gene_symbol: ' CCNDBP1'
+collision_symbol: HHM

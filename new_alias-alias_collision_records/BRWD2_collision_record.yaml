@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120008
+  gene_symbol: WDR11
+- ensg_id: ENSG00000146247
+  gene_symbol: ' PHIP'
+collision_symbol: BRWD2

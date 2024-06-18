@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000152382
+  gene_symbol: TADA1
+- ensg_id: ENSG00000196839
+  gene_symbol: ' ADA'
+collision_symbol: ADA1

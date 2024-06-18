@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000082996
+  gene_symbol: RNF13
+- ensg_id: ENSG00000161642
+  gene_symbol: ' ZNF385A'
+collision_symbol: RZF

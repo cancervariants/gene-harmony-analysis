@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000125851
+  gene_symbol: PCSK2
+- ensg_id: ENSG00000118762
+  gene_symbol: ' PKD2'
+- ensg_id: ENSG00000141582
+  gene_symbol: ' CBX4'
+collision_symbol: ' PC2'

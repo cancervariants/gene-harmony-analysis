@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000205097
+  gene_symbol: FRG2
+collision_symbol: FRG2A

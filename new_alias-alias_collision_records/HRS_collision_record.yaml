@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000170445
+  gene_symbol: HARS1
+- ensg_id: ENSG00000111676
+  gene_symbol: ' ATN1'
+- ensg_id: ENSG00000185359
+  gene_symbol: ' HGS'
+- ensg_id: ENSG00000100650
+  gene_symbol: ' SRSF5'
+collision_symbol: HRS

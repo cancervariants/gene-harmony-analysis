@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178726
+  gene_symbol: THBD
+- ensg_id: ENSG00000143384
+  gene_symbol: ' MCL1'
+collision_symbol: TM

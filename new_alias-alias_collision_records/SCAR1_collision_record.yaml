@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112290
+  gene_symbol: WASF1
+- ensg_id: ENSG00000107290
+  gene_symbol: ' SETX'
+collision_symbol: SCAR1

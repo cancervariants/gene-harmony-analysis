@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276833
+  gene_symbol: TAF15
+collision_symbol: ' TAF2N'

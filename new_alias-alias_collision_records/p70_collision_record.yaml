@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197043
+  gene_symbol: ANXA6
+- ensg_id: ENSG00000154127
+  gene_symbol: ' UBASH3B'
+collision_symbol: p70

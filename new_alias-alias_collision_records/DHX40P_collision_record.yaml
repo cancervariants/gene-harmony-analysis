@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000267104
+  gene_symbol: TBC1D3P1-DHX40P1
+- ensg_id: ENSG00000266992
+  gene_symbol: ' DHX40P1'
+collision_symbol: DHX40P

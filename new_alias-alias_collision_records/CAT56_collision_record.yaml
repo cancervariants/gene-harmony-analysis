@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233564
+  gene_symbol: PRR3
+collision_symbol: CAT56

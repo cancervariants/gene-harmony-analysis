@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000149557
+  gene_symbol: FEZ1
+collision_symbol: UNC-76

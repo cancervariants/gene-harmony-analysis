@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000230678
+  gene_symbol: BRD2
+collision_symbol: ' D6S113E'

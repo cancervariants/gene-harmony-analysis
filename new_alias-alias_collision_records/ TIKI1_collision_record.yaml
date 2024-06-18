@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000186854
+  gene_symbol: TRABD2A
+collision_symbol: ' TIKI1'

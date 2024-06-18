@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235443
+  gene_symbol: POLR1H
+collision_symbol: ' tctex-6'

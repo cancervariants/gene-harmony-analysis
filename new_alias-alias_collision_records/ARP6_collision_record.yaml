@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000243811
+  gene_symbol: APOBEC3D
+- ensg_id: ENSG00000075089
+  gene_symbol: ' ACTR6'
+collision_symbol: ARP6

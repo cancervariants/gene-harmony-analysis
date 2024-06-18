@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000148297
+  gene_symbol: MED22
+collision_symbol: ' SURF5'

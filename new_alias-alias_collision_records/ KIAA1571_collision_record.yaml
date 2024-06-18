@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204186
+  gene_symbol: ZDBF2
+collision_symbol: ' KIAA1571'

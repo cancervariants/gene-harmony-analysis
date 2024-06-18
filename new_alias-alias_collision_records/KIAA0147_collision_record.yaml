@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000180900
+  gene_symbol: SCRIB
+collision_symbol: KIAA0147

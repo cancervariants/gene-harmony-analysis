@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000256870
+  gene_symbol: SLC5A8
+collision_symbol: AIT

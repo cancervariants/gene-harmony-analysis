@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000153707
+  gene_symbol: PTPRD
+collision_symbol: ' PTPD'

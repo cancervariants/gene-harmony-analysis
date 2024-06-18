@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000272532
+  gene_symbol: CYP2D6
+collision_symbol: ' CYP2D7BP'

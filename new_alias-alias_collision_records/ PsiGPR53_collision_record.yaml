@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237811
+  gene_symbol: GPR53P
+collision_symbol: ' PsiGPR53'

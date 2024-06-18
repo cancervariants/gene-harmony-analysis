@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198399
+  gene_symbol: ITSN2
+- ensg_id: ENSG00000061936
+  gene_symbol: ' SFSWAP'
+collision_symbol: SWAP

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000153498
+  gene_symbol: SPACA7
+collision_symbol: C13orf28

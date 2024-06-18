@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: COTL1P1
+- ensg_id: NAN
+  gene_symbol: ' COTL1P2'
+collision_symbol: CLPSMCR

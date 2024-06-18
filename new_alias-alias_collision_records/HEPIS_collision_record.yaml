@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000258315
+  gene_symbol: C17orf49
+- ensg_id: ENSG00000166352
+  gene_symbol: ' IFTAP'
+collision_symbol: HEPIS

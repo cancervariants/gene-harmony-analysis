@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000177731
+  gene_symbol: FLII
+collision_symbol: ' FLIL'

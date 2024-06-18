@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223345
+  gene_symbol: H2BP1
+collision_symbol: HIST2H2BA

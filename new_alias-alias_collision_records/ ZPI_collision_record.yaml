@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278767
+  gene_symbol: SERPINA10
+collision_symbol: ' ZPI'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139618
+  gene_symbol: BRCA2
+- ensg_id: ENSG00000144554
+  gene_symbol: ' FANCD2'
+collision_symbol: FACD

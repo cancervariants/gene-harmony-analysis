@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000118004
+  gene_symbol: COLEC11
+- ensg_id: ENSG00000167186
+  gene_symbol: ' COQ7'
+collision_symbol: CLK1

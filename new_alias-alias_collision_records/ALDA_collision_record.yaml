@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149925
+  gene_symbol: ALDOA
+- ensg_id: ENSG00000285043
+  gene_symbol: ' LOC112694756'
+collision_symbol: ALDA

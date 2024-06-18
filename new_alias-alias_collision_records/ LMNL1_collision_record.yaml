@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160789
+  gene_symbol: LMNA
+- ensg_id: ENSG00000185621
+  gene_symbol: ' LMLN'
+collision_symbol: ' LMNL1'

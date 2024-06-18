@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283915
+  gene_symbol: KIR3DL3
+collision_symbol: ' KIRC1'

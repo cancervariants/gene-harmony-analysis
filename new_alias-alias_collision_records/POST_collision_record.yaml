@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100418
+  gene_symbol: DESI1
+- ensg_id: ENSG00000176273
+  gene_symbol: ' SLC35G1'
+collision_symbol: POST

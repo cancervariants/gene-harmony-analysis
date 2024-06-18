@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000134242
+  gene_symbol: PTPN22
+- ensg_id: ENSG00000122133
+  gene_symbol: ' PAEP'
+- ensg_id: ENSG00000085377
+  gene_symbol: ' PREP'
+collision_symbol: PEP

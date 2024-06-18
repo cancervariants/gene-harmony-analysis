@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000080824
+  gene_symbol: HSP90AA1
+- ensg_id: ENSG00000224411
+  gene_symbol: ' HSP90AA2P'
+collision_symbol: ' HSPCA'

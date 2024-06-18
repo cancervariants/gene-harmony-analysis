@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ANIB1
+- ensg_id: ENSG00000124151
+  gene_symbol: ' NCOA3'
+collision_symbol: AIB1

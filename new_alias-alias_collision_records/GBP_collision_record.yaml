@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100097
+  gene_symbol: LGALS1
+- ensg_id: ENSG00000084754
+  gene_symbol: ' HADHA'
+collision_symbol: GBP

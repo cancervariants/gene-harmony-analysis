@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DEL11P13
+- ensg_id: NAN
+  gene_symbol: ' DEL11P13'
+collision_symbol: C11DELp13

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262510
+  gene_symbol: LINC00308
+collision_symbol: ' PRED16'

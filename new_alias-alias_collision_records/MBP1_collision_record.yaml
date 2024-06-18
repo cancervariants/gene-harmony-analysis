@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000172638
+  gene_symbol: EFEMP2
+- ensg_id: ENSG00000186652
+  gene_symbol: ' PRG2'
+- ensg_id: ENSG00000165471
+  gene_symbol: ' MBL2'
+collision_symbol: MBP1

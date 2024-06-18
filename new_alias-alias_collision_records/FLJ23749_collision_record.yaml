@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285360
+  gene_symbol: LONRF1
+collision_symbol: FLJ23749

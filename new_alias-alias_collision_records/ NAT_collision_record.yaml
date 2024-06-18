@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204256
+  gene_symbol: BRD2
+collision_symbol: ' NAT'

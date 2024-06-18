@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000211721
+  gene_symbol: TRBV6-5
+collision_symbol: ' TRBV65'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000211788
+  gene_symbol: TRAV13-1
+- ensg_id: ENSG00000211802
+  gene_symbol: ' TRAV22'
+collision_symbol: TCRAV13S1

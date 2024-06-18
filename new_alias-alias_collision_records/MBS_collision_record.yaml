@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000058272
+  gene_symbol: PPP1R12A
+- ensg_id: NAN
+  gene_symbol: ' MBS1'
+collision_symbol: MBS

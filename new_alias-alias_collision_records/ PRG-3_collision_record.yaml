@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276539
+  gene_symbol: PLPPR1
+collision_symbol: ' PRG-3'

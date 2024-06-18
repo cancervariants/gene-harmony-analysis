@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281526
+  gene_symbol: ZNF546
+collision_symbol: MGC43537

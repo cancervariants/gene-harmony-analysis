@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223403
+  gene_symbol: MEG9
+collision_symbol: LINC00584

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103507
+  gene_symbol: BCKDK
+- ensg_id: ENSG00000113889
+  gene_symbol: ' KNG1'
+collision_symbol: BDK

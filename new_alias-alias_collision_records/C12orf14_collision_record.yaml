@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276371
+  gene_symbol: SINHCAF
+collision_symbol: C12orf14

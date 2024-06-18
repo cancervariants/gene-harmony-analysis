@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226384
+  gene_symbol: GTF2H4
+collision_symbol: ' TFB2'

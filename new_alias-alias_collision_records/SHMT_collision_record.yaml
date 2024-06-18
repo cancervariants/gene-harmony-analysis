@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000176974
+  gene_symbol: SHMT1
+- ensg_id: ENSG00000182199
+  gene_symbol: ' SHMT2'
+collision_symbol: SHMT

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000205544
+  gene_symbol: TMEM256
+collision_symbol: ' MGC40107'

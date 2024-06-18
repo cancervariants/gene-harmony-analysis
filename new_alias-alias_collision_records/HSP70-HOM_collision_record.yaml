@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000234258
+  gene_symbol: HSPA1L
+collision_symbol: HSP70-HOM

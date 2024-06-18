@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000215117
+  gene_symbol: LINC00588
+collision_symbol: C8orf71

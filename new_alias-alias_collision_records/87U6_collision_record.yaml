@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000206832
+  gene_symbol: RNU6V
+- ensg_id: ENSG00000065135
+  gene_symbol: ' GNAI3'
+collision_symbol: 87U6

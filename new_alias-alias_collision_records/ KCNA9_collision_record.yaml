@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282076
+  gene_symbol: KCNQ1
+collision_symbol: ' KCNA9'

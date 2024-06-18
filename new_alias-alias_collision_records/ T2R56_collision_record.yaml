@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282612
+  gene_symbol: TAS2R20
+collision_symbol: ' T2R56'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274221
+  gene_symbol: CCL3
+collision_symbol: ' MIP-1-alpha'

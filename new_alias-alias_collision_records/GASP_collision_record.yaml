@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198932
+  gene_symbol: GPRASP1
+- ensg_id: ENSG00000154978
+  gene_symbol: ' VOPP1'
+collision_symbol: GASP

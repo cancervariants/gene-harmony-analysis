@@ -1,0 +1,20 @@
+collision_group:
+- ensg_id: ENSG00000286522
+  gene_symbol: H3C2
+- ensg_id: ENSG00000278828
+  gene_symbol: ' H3C10'
+- ensg_id: ENSG00000273983
+  gene_symbol: ' H3C8'
+- ensg_id: ENSG00000197153
+  gene_symbol: ' H3C12'
+- ensg_id: ENSG00000275379
+  gene_symbol: ' H3C11'
+- ensg_id: ENSG00000274750
+  gene_symbol: ' H3C6'
+- ensg_id: ENSG00000275714
+  gene_symbol: ' H3C1'
+- ensg_id: ENSG00000287080
+  gene_symbol: ' H3C3'
+- ensg_id: ENSG00000277775
+  gene_symbol: ' H3C7'
+collision_symbol: H3C4

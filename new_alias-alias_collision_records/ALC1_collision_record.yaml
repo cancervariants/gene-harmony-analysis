@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131778
+  gene_symbol: CHD1L
+- ensg_id: ENSG00000198336
+  gene_symbol: ' MYL4'
+collision_symbol: ALC1

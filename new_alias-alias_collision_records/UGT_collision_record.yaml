@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102100
+  gene_symbol: SLC35A2
+- ensg_id: NAN
+  gene_symbol: ' UGT1A'
+collision_symbol: UGT

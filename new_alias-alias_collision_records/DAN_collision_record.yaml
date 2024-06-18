@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000140694
+  gene_symbol: PARN
+collision_symbol: DAN

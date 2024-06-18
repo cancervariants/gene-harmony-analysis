@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000155016
+  gene_symbol: CYP2U1
+- ensg_id: ENSG00000196663
+  gene_symbol: ' TECPR2'
+collision_symbol: SPG49

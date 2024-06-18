@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281020
+  gene_symbol: SNTG2
+collision_symbol: ' SYN5'

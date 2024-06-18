@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229140
+  gene_symbol: CCDC26
+collision_symbol: MGC27434

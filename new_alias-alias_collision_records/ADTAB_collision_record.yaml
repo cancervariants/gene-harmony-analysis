@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281385
+  gene_symbol: AP2A2
+collision_symbol: ADTAB

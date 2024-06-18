@@ -1,0 +1,16 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: NPIPB3
+- ensg_id: NAN
+  gene_symbol: ' NPIPB10P'
+- ensg_id: ENSG00000254852
+  gene_symbol: ' NPIPA2'
+- ensg_id: ENSG00000254206
+  gene_symbol: ' NPIPB11'
+- ensg_id: ENSG00000183793
+  gene_symbol: ' NPIPA5'
+- ensg_id: ENSG00000183426
+  gene_symbol: ' NPIPA1'
+- ensg_id: NAN
+  gene_symbol: ' PKD1P1'
+collision_symbol: NPIP

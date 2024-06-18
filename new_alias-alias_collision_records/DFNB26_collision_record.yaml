@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109458
+  gene_symbol: GAB1
+- ensg_id: ENSG00000010165
+  gene_symbol: ' METTL13'
+collision_symbol: DFNB26

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000127318
+  gene_symbol: IL22
+- ensg_id: ENSG00000138684
+  gene_symbol: ' IL21'
+collision_symbol: IL-21

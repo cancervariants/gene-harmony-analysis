@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168028
+  gene_symbol: RPSA
+- ensg_id: ENSG00000005187
+  gene_symbol: ' ACSM3'
+collision_symbol: SA

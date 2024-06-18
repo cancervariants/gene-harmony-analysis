@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275723
+  gene_symbol: NAPEPLD
+collision_symbol: ' FMP30'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233801
+  gene_symbol: NELFE
+collision_symbol: ' RDP'

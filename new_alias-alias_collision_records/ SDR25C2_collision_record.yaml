@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000157326
+  gene_symbol: DHRS4
+collision_symbol: ' SDR25C2'

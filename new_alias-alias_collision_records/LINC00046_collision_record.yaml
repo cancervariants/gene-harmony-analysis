@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000241053
+  gene_symbol: HCG17
+collision_symbol: LINC00046

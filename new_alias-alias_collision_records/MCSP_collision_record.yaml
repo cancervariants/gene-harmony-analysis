@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167468
+  gene_symbol: GPX4
+- ensg_id: ENSG00000173546
+  gene_symbol: ' CSPG4'
+collision_symbol: MCSP

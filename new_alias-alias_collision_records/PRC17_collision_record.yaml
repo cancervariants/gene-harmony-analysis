@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282750
+  gene_symbol: TBC1D3B
+collision_symbol: PRC17

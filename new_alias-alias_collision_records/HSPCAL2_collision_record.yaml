@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000205100
+  gene_symbol: HSP90AA4P
+collision_symbol: HSPCAL2

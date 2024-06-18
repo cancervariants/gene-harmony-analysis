@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147133
+  gene_symbol: TAF1
+- ensg_id: ENSG00000177551
+  gene_symbol: ' NHLH2'
+collision_symbol: ' NSCL2'

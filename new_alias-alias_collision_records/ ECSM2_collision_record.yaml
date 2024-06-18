@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000249751
+  gene_symbol: ECSCR
+collision_symbol: ' ECSM2'

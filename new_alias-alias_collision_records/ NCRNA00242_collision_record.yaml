@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229214
+  gene_symbol: LINC00242
+collision_symbol: ' NCRNA00242'

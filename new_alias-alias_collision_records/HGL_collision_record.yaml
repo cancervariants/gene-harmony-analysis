@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000073350
+  gene_symbol: LLGL2
+- ensg_id: ENSG00000182333
+  gene_symbol: ' LIPF'
+collision_symbol: HGL

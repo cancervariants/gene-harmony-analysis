@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000212128
+  gene_symbol: TAS2R13
+- ensg_id: ENSG00000101255
+  gene_symbol: ' TRIB3'
+collision_symbol: ' TRB3'

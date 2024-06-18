@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000128710
+  gene_symbol: HOXD10
+- ensg_id: ENSG00000175879
+  gene_symbol: ' HOXD8'
+collision_symbol: HOX4E

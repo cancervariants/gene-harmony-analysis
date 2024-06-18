@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000087191
+  gene_symbol: PSMC5
+- ensg_id: ENSG00000084623
+  gene_symbol: ' EIF3I'
+collision_symbol: TRIP1

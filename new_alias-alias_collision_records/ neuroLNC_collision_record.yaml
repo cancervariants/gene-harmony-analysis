@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284859
+  gene_symbol: MIR124-1HG
+collision_symbol: ' neuroLNC'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000257365
+  gene_symbol: FNTB
+collision_symbol: FPTB

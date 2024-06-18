@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000087510
+  gene_symbol: TFAP2C
+- ensg_id: ENSG00000185650
+  gene_symbol: ' ZFP36L1'
+collision_symbol: ERF1

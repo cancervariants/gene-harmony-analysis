@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275824
+  gene_symbol: CCL4
+collision_symbol: Act-2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198825
+  gene_symbol: INPP5F
+- ensg_id: ENSG00000223501
+  gene_symbol: ' VPS52'
+collision_symbol: SAC2

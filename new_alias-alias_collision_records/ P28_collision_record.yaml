@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000108587
+  gene_symbol: GOSR1
+- ensg_id: ENSG00000163879
+  gene_symbol: ' DNALI1'
+- ensg_id: ENSG00000148834
+  gene_symbol: ' GSTO1'
+collision_symbol: ' P28'

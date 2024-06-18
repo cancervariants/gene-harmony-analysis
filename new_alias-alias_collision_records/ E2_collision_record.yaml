@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000150768
+  gene_symbol: DLAT
+- ensg_id: ENSG00000226344
+  gene_symbol: ' CST12P'
+collision_symbol: ' E2'

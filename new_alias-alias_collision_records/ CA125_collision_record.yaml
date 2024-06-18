@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000181143
+  gene_symbol: MUC16
+- ensg_id: ENSG00000188554
+  gene_symbol: ' NBR1'
+collision_symbol: ' CA125'

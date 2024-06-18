@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178538
+  gene_symbol: CA8
+- ensg_id: ENSG00000063180
+  gene_symbol: ' CA11'
+collision_symbol: CA-RP

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125850
+  gene_symbol: OVOL2
+- ensg_id: ENSG00000088836
+  gene_symbol: ' SLC4A11'
+collision_symbol: CHED2

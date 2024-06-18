@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000253367
+  gene_symbol: IGHVIII-25-1
+collision_symbol: IGHV(III)-25-1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229432
+  gene_symbol: C6orf15
+collision_symbol: STG

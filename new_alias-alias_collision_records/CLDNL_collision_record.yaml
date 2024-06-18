@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000253958
+  gene_symbol: CLDN23
+collision_symbol: CLDNL

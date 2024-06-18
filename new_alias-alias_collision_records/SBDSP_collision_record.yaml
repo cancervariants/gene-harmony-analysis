@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000291152
+  gene_symbol: SBDSP1
+collision_symbol: SBDSP

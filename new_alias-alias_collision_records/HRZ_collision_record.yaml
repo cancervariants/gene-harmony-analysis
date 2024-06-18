@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TYS
+- ensg_id: ENSG00000163104
+  gene_symbol: ' SMARCAD1'
+collision_symbol: HRZ

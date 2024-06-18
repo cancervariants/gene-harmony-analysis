@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281484
+  gene_symbol: BTG3
+collision_symbol: ANA

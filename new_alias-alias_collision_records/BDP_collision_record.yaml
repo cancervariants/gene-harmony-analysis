@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000179361
+  gene_symbol: ARID3B
+- ensg_id: ENSG00000163644
+  gene_symbol: ' PPM1K'
+collision_symbol: BDP

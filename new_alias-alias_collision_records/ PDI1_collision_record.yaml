@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000142623
+  gene_symbol: PADI1
+collision_symbol: ' PDI1'

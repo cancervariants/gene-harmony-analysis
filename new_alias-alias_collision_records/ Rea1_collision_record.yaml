@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000112159
+  gene_symbol: MDN1
+collision_symbol: ' Rea1'

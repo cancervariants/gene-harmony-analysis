@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237155
+  gene_symbol: IER3
+collision_symbol: ' IEX-1'

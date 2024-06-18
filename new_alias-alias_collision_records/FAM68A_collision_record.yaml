@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276725
+  gene_symbol: CEP170
+collision_symbol: FAM68A

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000096150
+  gene_symbol: RPS18
+collision_symbol: ' KE-3'

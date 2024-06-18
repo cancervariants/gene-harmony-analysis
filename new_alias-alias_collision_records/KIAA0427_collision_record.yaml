@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282825
+  gene_symbol: CTIF
+collision_symbol: KIAA0427

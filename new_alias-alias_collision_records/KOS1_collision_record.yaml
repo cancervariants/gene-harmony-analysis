@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283781
+  gene_symbol: TNK1
+collision_symbol: KOS1

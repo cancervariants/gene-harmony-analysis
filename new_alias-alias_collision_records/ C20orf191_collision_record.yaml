@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290409
+  gene_symbol: NCOR1P1
+collision_symbol: ' C20orf191'

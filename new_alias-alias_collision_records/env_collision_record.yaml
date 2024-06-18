@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LOC124904439
+- ensg_id: NAN
+  gene_symbol: ' ERVK-20'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-18'
+- ensg_id: NAN
+  gene_symbol: ' LOC124901580'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-32'
+collision_symbol: env

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288427
+  gene_symbol: CLSTN3
+collision_symbol: ' CSTN3'

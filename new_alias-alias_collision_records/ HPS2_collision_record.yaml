@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160182
+  gene_symbol: TFF1
+- ensg_id: ENSG00000132842
+  gene_symbol: ' AP3B1'
+collision_symbol: ' HPS2'

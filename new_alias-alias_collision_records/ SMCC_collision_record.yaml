@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130176
+  gene_symbol: CNN1
+- ensg_id: ENSG00000149591
+  gene_symbol: ' TAGLN'
+collision_symbol: ' SMCC'

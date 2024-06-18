@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000224587
+  gene_symbol: MDC1
+collision_symbol: ' NFBD1'

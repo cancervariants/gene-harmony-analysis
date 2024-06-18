@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164690
+  gene_symbol: SHH
+- ensg_id: ENSG00000163032
+  gene_symbol: ' VSNL1'
+collision_symbol: HLP3

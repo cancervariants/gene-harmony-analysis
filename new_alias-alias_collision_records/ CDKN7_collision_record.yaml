@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000134058
+  gene_symbol: CDK7
+collision_symbol: ' CDKN7'

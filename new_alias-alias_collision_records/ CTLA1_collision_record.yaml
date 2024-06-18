@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100453
+  gene_symbol: GZMB
+- ensg_id: ENSG00000100450
+  gene_symbol: ' GZMH'
+collision_symbol: ' CTLA1'

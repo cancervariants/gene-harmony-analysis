@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186575
+  gene_symbol: NF2
+- ensg_id: ENSG00000100813
+  gene_symbol: ' ACIN1'
+collision_symbol: ACN

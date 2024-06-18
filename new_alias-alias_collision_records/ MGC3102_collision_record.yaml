@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277276
+  gene_symbol: OTUB2
+collision_symbol: ' MGC3102'

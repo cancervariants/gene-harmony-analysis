@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000258778
+  gene_symbol: EIF2S2P1
+collision_symbol: EIF2S2P

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000056678
+  gene_symbol: KIFC1
+collision_symbol: ' KNSL2'

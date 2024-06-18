@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000148229
+  gene_symbol: POLE3
+- ensg_id: ENSG00000196550
+  gene_symbol: ' FAM72A'
+collision_symbol: ' p17'

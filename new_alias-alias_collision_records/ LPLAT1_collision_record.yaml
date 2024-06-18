@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206324
+  gene_symbol: AGPAT1
+collision_symbol: ' LPLAT1'

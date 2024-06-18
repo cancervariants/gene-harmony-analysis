@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278311
+  gene_symbol: GGNBP2
+collision_symbol: ' DIF3'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100804
+  gene_symbol: PSMB5
+- ensg_id: ENSG00000105369
+  gene_symbol: ' CD79A'
+collision_symbol: MB1

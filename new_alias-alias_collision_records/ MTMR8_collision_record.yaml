@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104643
+  gene_symbol: MTMR9
+collision_symbol: ' MTMR8'

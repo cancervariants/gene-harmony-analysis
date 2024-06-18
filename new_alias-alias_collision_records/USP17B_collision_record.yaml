@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000225327
+  gene_symbol: USP17L3
+collision_symbol: USP17B

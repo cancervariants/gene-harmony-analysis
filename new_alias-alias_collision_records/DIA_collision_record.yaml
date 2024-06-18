@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000128342
+  gene_symbol: LIF
+- ensg_id: ENSG00000147202
+  gene_symbol: ' DIAPH2'
+collision_symbol: DIA

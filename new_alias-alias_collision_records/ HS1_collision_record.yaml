@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000134308
+  gene_symbol: YWHAQ
+- ensg_id: ENSG00000180353
+  gene_symbol: ' HCLS1'
+- ensg_id: ENSG00000101210
+  gene_symbol: ' EEF1A2'
+collision_symbol: ' HS1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000282324
+  gene_symbol: DNM1P28
+- ensg_id: ENSG00000260897
+  gene_symbol: ' DNM1P30'
+collision_symbol: ' DNM1DN3@'

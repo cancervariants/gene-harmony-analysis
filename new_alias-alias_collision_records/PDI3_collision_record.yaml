@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280549
+  gene_symbol: PADI3
+collision_symbol: PDI3

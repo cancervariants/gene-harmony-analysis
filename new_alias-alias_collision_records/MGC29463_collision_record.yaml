@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000170464
+  gene_symbol: DNAJC18
+collision_symbol: MGC29463

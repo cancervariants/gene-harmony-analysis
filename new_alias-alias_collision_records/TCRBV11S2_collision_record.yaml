@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000241657
+  gene_symbol: TRBV11-2
+collision_symbol: TCRBV11S2

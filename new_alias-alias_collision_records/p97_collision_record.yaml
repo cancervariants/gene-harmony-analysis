@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000110321
+  gene_symbol: EIF4G2
+- ensg_id: ENSG00000175166
+  gene_symbol: ' PSMD2'
+collision_symbol: P97

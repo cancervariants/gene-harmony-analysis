@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227772
+  gene_symbol: MICB
+collision_symbol: PERB11.2

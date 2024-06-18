@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237197
+  gene_symbol: IGHD1-7
+collision_symbol: ' IGHD17'

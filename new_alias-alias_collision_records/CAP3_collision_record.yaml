@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170542
+  gene_symbol: SERPINB9
+- ensg_id: ENSG00000149418
+  gene_symbol: ' ST14'
+collision_symbol: CAP3

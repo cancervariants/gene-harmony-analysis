@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278023
+  gene_symbol: RDM1
+collision_symbol: ' RAD52B'

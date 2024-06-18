@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284764
+  gene_symbol: PINX1
+collision_symbol: FLJ20565

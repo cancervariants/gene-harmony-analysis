@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149187
+  gene_symbol: CELF1
+- ensg_id: ENSG00000048740
+  gene_symbol: ' CELF2'
+collision_symbol: NAPOR

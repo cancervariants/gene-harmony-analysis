@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227179
+  gene_symbol: PGBP
+collision_symbol: PGCP1

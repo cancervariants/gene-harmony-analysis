@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000165406
+  gene_symbol: MARCHF8
+collision_symbol: ' MARCH-VIII'

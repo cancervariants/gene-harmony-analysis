@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRK-TTT3-5
+- ensg_id: ENSG00000198400
+  gene_symbol: ' NTRK1'
+collision_symbol: TRK1

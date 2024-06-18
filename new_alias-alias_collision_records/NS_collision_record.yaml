@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000133710
+  gene_symbol: SPINK5
+- ensg_id: ENSG00000163938
+  gene_symbol: ' GNL3'
+collision_symbol: NS

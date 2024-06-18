@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000239839
+  gene_symbol: DEFA3
+collision_symbol: DEF3

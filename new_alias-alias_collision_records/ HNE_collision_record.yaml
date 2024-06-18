@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000197561
+  gene_symbol: ELANE
+collision_symbol: ' HNE'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226033
+  gene_symbol: STK19
+collision_symbol: ' G11'

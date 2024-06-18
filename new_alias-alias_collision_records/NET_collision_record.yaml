@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103546
+  gene_symbol: SLC6A2
+- ensg_id: ENSG00000111145
+  gene_symbol: ' ELK3'
+collision_symbol: NET

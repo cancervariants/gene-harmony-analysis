@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000261326
+  gene_symbol: LINC01355
+collision_symbol: HYPAL

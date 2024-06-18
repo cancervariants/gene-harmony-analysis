@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000263879
+  gene_symbol: SNORA38
+collision_symbol: ACA38

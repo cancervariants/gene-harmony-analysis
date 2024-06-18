@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283979
+  gene_symbol: RFLNB
+collision_symbol: Cfm1

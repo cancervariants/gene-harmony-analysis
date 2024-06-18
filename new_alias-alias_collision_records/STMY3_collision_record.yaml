@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275365
+  gene_symbol: MMP11
+collision_symbol: STMY3

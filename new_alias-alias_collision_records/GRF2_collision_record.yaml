@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000107263
+  gene_symbol: RAPGEF1
+- ensg_id: ENSG00000113319
+  gene_symbol: ' RASGRF2'
+collision_symbol: GRF2

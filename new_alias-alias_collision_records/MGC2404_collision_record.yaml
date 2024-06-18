@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000230124
+  gene_symbol: ACBD6
+collision_symbol: MGC2404

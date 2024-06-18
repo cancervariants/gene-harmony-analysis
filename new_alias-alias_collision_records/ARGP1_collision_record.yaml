@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285482
+  gene_symbol: DGAT1
+collision_symbol: ARGP1

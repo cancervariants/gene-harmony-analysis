@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184995
+  gene_symbol: IFNE
+- ensg_id: ENSG00000147896
+  gene_symbol: ' IFNK'
+collision_symbol: INFE1

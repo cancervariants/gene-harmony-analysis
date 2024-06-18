@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000127022
+  gene_symbol: CANX
+collision_symbol: CNX

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277134
+  gene_symbol: LILRB1
+collision_symbol: ' LIR-1'

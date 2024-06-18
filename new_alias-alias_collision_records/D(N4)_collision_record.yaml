@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228131
+  gene_symbol: IGHD6-6
+collision_symbol: D(N4)

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163499
+  gene_symbol: CRYBA2
+- ensg_id: ENSG00000161904
+  gene_symbol: ' LEMD2'
+collision_symbol: CTRCT42

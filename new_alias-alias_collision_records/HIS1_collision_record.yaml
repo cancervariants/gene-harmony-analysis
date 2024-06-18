@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283046
+  gene_symbol: HTN1
+collision_symbol: HIS1

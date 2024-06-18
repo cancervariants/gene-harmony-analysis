@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000092094
+  gene_symbol: OSGEP
+- ensg_id: ENSG00000171453
+  gene_symbol: ' POLR1C'
+collision_symbol: TCS3

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000120645
+  gene_symbol: IQSEC3
+collision_symbol: ' MGC30156'

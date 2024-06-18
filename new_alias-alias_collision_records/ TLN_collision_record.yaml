@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105376
+  gene_symbol: ICAM5
+- ensg_id: ENSG00000137076
+  gene_symbol: ' TLN1'
+collision_symbol: ' TLN'

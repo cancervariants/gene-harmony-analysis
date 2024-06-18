@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000275410
+  gene_symbol: HNF1B
+- ensg_id: ENSG00000179242
+  gene_symbol: ' CDH4'
+- ensg_id: ENSG00000014123
+  gene_symbol: ' UFL1'
+collision_symbol: RCAD

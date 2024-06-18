@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288485
+  gene_symbol: ELP5
+collision_symbol: C17orf81

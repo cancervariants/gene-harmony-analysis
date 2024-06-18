@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000199568
+  gene_symbol: RNU5A-1
+- ensg_id: ENSG00000200156
+  gene_symbol: ' RNU5B-1'
+collision_symbol: ' U5B1'

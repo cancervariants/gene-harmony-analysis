@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135486
+  gene_symbol: HNRNPA1
+- ensg_id: NAN
+  gene_symbol: ' HNRNPA1P7'
+collision_symbol: HNRPA1L3

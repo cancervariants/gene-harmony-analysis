@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000234893
+  gene_symbol: HCG18
+collision_symbol: ' FLJ25550'

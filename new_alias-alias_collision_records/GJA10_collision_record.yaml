@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131233
+  gene_symbol: GJA9
+- ensg_id: NAN
+  gene_symbol: ' GJA9-MYCBP'
+collision_symbol: GJA10

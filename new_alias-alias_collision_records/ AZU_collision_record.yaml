@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278624
+  gene_symbol: AZU1
+collision_symbol: ' AZU'

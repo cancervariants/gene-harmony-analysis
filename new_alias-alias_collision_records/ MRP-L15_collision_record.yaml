@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115364
+  gene_symbol: MRPL19
+- ensg_id: ENSG00000137547
+  gene_symbol: ' MRPL15'
+collision_symbol: ' MRP-L15'

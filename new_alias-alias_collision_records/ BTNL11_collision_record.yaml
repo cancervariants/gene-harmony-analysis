@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000137345
+  gene_symbol: MOG
+collision_symbol: ' BTNL11'

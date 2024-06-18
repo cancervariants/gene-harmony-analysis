@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281541
+  gene_symbol: SNORD36C
+collision_symbol: RNU36C

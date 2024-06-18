@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275122
+  gene_symbol: THEMIS
+collision_symbol: ' C6orf207'

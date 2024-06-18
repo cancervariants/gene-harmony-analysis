@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000239329
+  gene_symbol: HLA-DMB
+collision_symbol: ' RING7'

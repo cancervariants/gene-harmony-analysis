@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273841
+  gene_symbol: TAF9
+collision_symbol: ' TAF2G'

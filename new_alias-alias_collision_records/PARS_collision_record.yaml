@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000143799
+  gene_symbol: PARP1
+- ensg_id: ENSG00000136628
+  gene_symbol: ' EPRS1'
+collision_symbol: PARS

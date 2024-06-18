@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196549
+  gene_symbol: MME
+- ensg_id: ENSG00000135924
+  gene_symbol: ' DNAJB2'
+collision_symbol: CMT2T

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000244444
+  gene_symbol: EGFL8
+collision_symbol: ' NG3'

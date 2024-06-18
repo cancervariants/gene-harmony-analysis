@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277053
+  gene_symbol: GTF2IP1
+collision_symbol: WBSCR7

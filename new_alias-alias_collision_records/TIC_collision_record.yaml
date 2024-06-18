@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000133794
+  gene_symbol: ARNTL
+- ensg_id: ENSG00000125637
+  gene_symbol: ' PSD4'
+collision_symbol: TIC

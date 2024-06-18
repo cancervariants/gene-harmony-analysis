@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285178
+  gene_symbol: ZFP1
+collision_symbol: FLJ34243

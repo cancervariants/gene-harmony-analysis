@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000225682
+  gene_symbol: DXO
+collision_symbol: DOM3Z

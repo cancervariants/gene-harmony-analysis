@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171497
+  gene_symbol: PPID
+- ensg_id: ENSG00000108179
+  gene_symbol: ' PPIF'
+collision_symbol: ' CypD'

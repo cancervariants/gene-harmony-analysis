@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000065833
+  gene_symbol: ME1
+- ensg_id: ENSG00000011143
+  gene_symbol: ' MKS1'
+collision_symbol: MES

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229998
+  gene_symbol: PPP1R18
+collision_symbol: ' phostensin'

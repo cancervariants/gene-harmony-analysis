@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000221933
+  gene_symbol: OR2A25
+collision_symbol: ' OR2A27'

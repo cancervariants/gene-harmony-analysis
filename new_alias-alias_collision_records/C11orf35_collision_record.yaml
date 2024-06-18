@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000185522
+  gene_symbol: LMNTD2
+collision_symbol: C11orf35

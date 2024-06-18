@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204625
+  gene_symbol: HCG9
+collision_symbol: ' PERB11'

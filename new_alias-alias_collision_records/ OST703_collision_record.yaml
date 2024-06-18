@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000198104
+  gene_symbol: OR2T6
+collision_symbol: ' OST703'

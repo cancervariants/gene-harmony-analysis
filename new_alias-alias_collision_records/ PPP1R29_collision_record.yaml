@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000243902
+  gene_symbol: ELFN2
+collision_symbol: ' PPP1R29'

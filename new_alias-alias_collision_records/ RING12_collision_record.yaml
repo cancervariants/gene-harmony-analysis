@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000242711
+  gene_symbol: PSMB9
+collision_symbol: ' RING12'

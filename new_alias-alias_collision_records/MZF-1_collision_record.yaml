@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000152467
+  gene_symbol: ZSCAN1
+- ensg_id: ENSG00000099326
+  gene_symbol: ' MZF1'
+collision_symbol: MZF-1

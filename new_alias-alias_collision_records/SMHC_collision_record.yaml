@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000133392
+  gene_symbol: MYH11
+collision_symbol: SMHC

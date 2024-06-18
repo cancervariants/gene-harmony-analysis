@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149313
+  gene_symbol: AASDHPPT
+- ensg_id: ENSG00000157426
+  gene_symbol: ' AASDH'
+collision_symbol: LYS2

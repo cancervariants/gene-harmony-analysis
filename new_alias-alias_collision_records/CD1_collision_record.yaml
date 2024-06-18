@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000158485
+  gene_symbol: CD1B
+- ensg_id: ENSG00000158477
+  gene_symbol: ' CD1A'
+- ensg_id: ENSG00000158481
+  gene_symbol: ' CD1C'
+collision_symbol: CD1

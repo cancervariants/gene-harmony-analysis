@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000167705
+  gene_symbol: RILP
+collision_symbol: FLJ31193

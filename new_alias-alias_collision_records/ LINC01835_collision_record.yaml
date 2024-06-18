@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000291059
+  gene_symbol: CLEC4OP
+collision_symbol: ' LINC01835'

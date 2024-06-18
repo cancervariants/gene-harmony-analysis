@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000154380
+  gene_symbol: ENAH
+- ensg_id: ENSG00000105483
+  gene_symbol: ' CARD8'
+collision_symbol: NDPP1

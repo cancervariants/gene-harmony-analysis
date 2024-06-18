@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282335
+  gene_symbol: OR9P1P
+collision_symbol: OR9P2P

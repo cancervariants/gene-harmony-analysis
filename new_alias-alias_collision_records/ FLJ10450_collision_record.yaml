@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000123444
+  gene_symbol: KBTBD4
+collision_symbol: ' FLJ10450'

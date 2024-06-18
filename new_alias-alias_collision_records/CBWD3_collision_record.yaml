@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196873
+  gene_symbol: ZNG1C
+- ensg_id: ENSG00000147996
+  gene_symbol: ' ZNG1E'
+collision_symbol: CBWD3

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274376
+  gene_symbol: ADAMTS7P1
+collision_symbol: ADAMTS7P2

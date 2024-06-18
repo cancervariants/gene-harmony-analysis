@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120725
+  gene_symbol: SIL1
+- ensg_id: ENSG00000138039
+  gene_symbol: ' LHCGR'
+collision_symbol: ULG5

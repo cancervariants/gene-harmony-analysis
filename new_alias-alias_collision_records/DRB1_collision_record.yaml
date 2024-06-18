@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000155636
+  gene_symbol: RBM45
+- ensg_id: ENSG00000196126
+  gene_symbol: ' HLA-DRB1'
+collision_symbol: DRB1

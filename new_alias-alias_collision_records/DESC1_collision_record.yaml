@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000087128
+  gene_symbol: TMPRSS11E
+collision_symbol: DESC1

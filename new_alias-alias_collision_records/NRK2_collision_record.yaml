@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000077009
+  gene_symbol: NMRK2
+- ensg_id: ENSG00000114904
+  gene_symbol: ' NEK4'
+collision_symbol: NRK2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000176782
+  gene_symbol: DEFB104A
+- ensg_id: ENSG00000177023
+  gene_symbol: ' DEFB104B'
+collision_symbol: hBD-4

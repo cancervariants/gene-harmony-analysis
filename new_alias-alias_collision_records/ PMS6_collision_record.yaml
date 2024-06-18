@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000067601
+  gene_symbol: PMS2P4
+collision_symbol: ' PMS6'

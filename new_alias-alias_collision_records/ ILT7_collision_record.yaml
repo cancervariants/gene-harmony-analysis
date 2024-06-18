@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000239961
+  gene_symbol: LILRA4
+collision_symbol: ' ILT7'

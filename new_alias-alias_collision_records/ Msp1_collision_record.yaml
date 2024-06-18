@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283024
+  gene_symbol: ATAD1
+collision_symbol: ' Msp1'

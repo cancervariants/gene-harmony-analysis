@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000100911
+  gene_symbol: PSME2
+collision_symbol: PA28beta

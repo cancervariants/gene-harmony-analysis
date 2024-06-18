@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: CPAT1
+- ensg_id: ENSG00000004779
+  gene_symbol: ' NDUFAB1'
+collision_symbol: ACP

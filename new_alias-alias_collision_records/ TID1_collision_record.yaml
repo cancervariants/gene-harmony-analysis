@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000103423
+  gene_symbol: DNAJA3
+collision_symbol: ' TID1'

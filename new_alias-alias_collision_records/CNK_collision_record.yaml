@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173846
+  gene_symbol: PLK3
+- ensg_id: ENSG00000142675
+  gene_symbol: ' CNKSR1'
+collision_symbol: CNK

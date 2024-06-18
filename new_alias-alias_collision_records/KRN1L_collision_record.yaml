@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000205869
+  gene_symbol: KRTAP5-1
+collision_symbol: KRN1L

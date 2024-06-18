@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276461
+  gene_symbol: TCF20
+collision_symbol: AR1

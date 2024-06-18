@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103043
+  gene_symbol: VAC14
+- ensg_id: ENSG00000058453
+  gene_symbol: ' CROCC'
+collision_symbol: TAX1BP2

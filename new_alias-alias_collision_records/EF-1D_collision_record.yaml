@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273594
+  gene_symbol: EEF1D
+collision_symbol: EF-1D

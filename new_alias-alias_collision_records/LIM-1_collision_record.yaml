@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273706
+  gene_symbol: LHX1
+collision_symbol: LIM-1

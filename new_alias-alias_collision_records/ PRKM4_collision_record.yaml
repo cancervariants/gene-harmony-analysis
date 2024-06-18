@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282110
+  gene_symbol: MAPK4
+collision_symbol: ' PRKM4'

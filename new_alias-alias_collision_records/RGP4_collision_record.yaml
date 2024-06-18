@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196862
+  gene_symbol: RGPD4
+- ensg_id: ENSG00000117152
+  gene_symbol: ' RGS4'
+collision_symbol: RGP4

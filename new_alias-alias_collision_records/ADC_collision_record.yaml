@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142920
+  gene_symbol: AZIN2
+- ensg_id: ENSG00000144644
+  gene_symbol: ' GADL1'
+collision_symbol: ADC

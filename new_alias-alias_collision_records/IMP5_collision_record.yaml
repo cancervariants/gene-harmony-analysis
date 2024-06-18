@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277106
+  gene_symbol: SPPL2C
+collision_symbol: IMP5

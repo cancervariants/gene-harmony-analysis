@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284313
+  gene_symbol: KIR2DP1
+collision_symbol: ' KIRY'

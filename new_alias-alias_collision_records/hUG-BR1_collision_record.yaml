@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000244474
+  gene_symbol: UGT1A4
+- ensg_id: ENSG00000167165
+  gene_symbol: ' UGT1A6'
+- ensg_id: ENSG00000244122
+  gene_symbol: ' UGT1A7'
+- ensg_id: ENSG00000242366
+  gene_symbol: ' UGT1A8'
+- ensg_id: ENSG00000242515
+  gene_symbol: ' UGT1A10'
+collision_symbol: hUG-BR1

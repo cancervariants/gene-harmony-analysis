@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125166
+  gene_symbol: GOT2
+- ensg_id: ENSG00000147133
+  gene_symbol: ' TAF1'
+collision_symbol: KAT4

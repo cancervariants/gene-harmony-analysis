@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284126
+  gene_symbol: SMURF1
+collision_symbol: KIAA1625

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106070
+  gene_symbol: GRB10
+- ensg_id: ENSG00000265203
+  gene_symbol: ' RBP3'
+collision_symbol: IRBP

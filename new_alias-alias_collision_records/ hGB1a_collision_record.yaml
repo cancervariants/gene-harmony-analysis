@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206466
+  gene_symbol: GABBR1
+collision_symbol: ' hGB1a'

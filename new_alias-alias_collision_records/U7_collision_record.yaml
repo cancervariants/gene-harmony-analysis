@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000239081
+  gene_symbol: RNU7-24P
+- ensg_id: NAN
+  gene_symbol: ' RNU7-86P'
+- ensg_id: ENSG00000251707
+  gene_symbol: ' RNU7-68P'
+- ensg_id: ENSG00000239078
+  gene_symbol: ' RNU7-55P'
+collision_symbol: U7

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000021826
+  gene_symbol: CPS1
+- ensg_id: ENSG00000244038
+  gene_symbol: ' DDOST'
+collision_symbol: GATD6

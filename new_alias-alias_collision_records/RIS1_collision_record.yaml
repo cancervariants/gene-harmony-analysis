@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000249992
+  gene_symbol: TMEM158
+- ensg_id: ENSG00000169021
+  gene_symbol: ' UQCRFS1'
+collision_symbol: RIS1

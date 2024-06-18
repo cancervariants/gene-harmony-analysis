@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171865
+  gene_symbol: RNASEH1
+- ensg_id: ENSG00000265790
+  gene_symbol: ' RNASEH1P1'
+collision_symbol: RNH1

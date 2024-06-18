@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DEL1P36
+- ensg_id: NAN
+  gene_symbol: ' DEL1P36'
+collision_symbol: C1DELp36

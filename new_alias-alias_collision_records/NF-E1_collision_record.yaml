@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100811
+  gene_symbol: YY1
+- ensg_id: ENSG00000102145
+  gene_symbol: ' GATA1'
+collision_symbol: NF-E1

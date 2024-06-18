@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000060656
+  gene_symbol: PTPRU
+- ensg_id: ENSG00000115386
+  gene_symbol: ' REG1A'
+collision_symbol: ' PTP'

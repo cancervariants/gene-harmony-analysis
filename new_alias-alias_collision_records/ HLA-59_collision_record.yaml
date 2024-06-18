@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228524
+  gene_symbol: HLA-J
+collision_symbol: ' HLA-59'

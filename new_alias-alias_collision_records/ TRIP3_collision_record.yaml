@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273611
+  gene_symbol: ZNHIT3
+collision_symbol: ' TRIP3'

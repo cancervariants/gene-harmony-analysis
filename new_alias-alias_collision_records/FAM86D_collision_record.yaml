@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000244026
+  gene_symbol: FAM86DP
+collision_symbol: FAM86D

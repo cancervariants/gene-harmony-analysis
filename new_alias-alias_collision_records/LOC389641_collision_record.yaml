@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000246582
+  gene_symbol: TNFRSF10A-DT
+collision_symbol: LOC389641

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000178104
+  gene_symbol: PDE4DIP
+collision_symbol: ' KIAA0454'

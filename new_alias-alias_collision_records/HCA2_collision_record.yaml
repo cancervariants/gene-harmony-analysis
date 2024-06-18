@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000143199
+  gene_symbol: ADCY10
+- ensg_id: ENSG00000182782
+  gene_symbol: ' HCAR2'
+- ensg_id: ENSG00000165509
+  gene_symbol: ' MAGEC3'
+collision_symbol: HCA2

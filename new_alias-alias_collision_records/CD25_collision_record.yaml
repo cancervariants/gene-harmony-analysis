@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134460
+  gene_symbol: IL2RA
+- ensg_id: ENSG00000172183
+  gene_symbol: ' ISG20'
+collision_symbol: CD25

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000155380
+  gene_symbol: SLC16A1
+collision_symbol: MCT

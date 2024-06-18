@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149742
+  gene_symbol: SLC22A9
+- ensg_id: ENSG00000168065
+  gene_symbol: ' SLC22A11'
+collision_symbol: OAT4

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000166912
+  gene_symbol: MTMR10
+collision_symbol: FLJ20313

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290706
+  gene_symbol: FAM238C
+collision_symbol: ' C10orf51'

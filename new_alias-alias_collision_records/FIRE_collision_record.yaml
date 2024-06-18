@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ADGRE4P
+- ensg_id: NAN
+  gene_symbol: ' LOC111188156'
+collision_symbol: FIRE

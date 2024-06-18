@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282208
+  gene_symbol: TRBV12-3
+collision_symbol: ' TRBV123'

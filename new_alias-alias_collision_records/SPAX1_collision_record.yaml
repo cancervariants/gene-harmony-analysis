@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139190
+  gene_symbol: VAMP1
+- ensg_id: NAN
+  gene_symbol: ' SAX1'
+collision_symbol: SPAX1

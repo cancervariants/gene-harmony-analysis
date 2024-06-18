@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124788
+  gene_symbol: ATXN1
+- ensg_id: ENSG00000177556
+  gene_symbol: ' ATOX1'
+collision_symbol: ATX1

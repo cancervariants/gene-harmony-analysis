@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165731
+  gene_symbol: RET
+- ensg_id: ENSG00000108091
+  gene_symbol: ' CCDC6'
+collision_symbol: PTC

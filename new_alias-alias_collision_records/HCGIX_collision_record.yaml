@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206504
+  gene_symbol: HCG9
+collision_symbol: HCGIX

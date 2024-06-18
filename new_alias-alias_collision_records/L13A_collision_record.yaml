@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142541
+  gene_symbol: RPL13A
+- ensg_id: ENSG00000172172
+  gene_symbol: ' MRPL13'
+collision_symbol: L13A

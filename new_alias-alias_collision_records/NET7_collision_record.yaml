@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000188976
+  gene_symbol: NOC2L
+- ensg_id: ENSG00000099282
+  gene_symbol: ' TSPAN15'
+collision_symbol: NET7

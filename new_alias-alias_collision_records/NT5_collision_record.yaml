@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000225950
+  gene_symbol: NTF4
+- ensg_id: ENSG00000135318
+  gene_symbol: ' NT5E'
+- ensg_id: ENSG00000063127
+  gene_symbol: ' SLC6A16'
+collision_symbol: NT5

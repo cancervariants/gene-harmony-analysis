@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275176
+  gene_symbol: ACACA
+collision_symbol: ' hACC1'

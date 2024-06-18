@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288141
+  gene_symbol: MRPL23
+collision_symbol: L23MRP

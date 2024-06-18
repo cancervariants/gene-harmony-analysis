@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000188716
+  gene_symbol: DUSP29
+collision_symbol: DUPD1

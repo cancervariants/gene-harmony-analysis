@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174428
+  gene_symbol: GTF2IRD2B
+- ensg_id: ENSG00000196275
+  gene_symbol: ' GTF2IRD2'
+collision_symbol: GTF2IRD2A

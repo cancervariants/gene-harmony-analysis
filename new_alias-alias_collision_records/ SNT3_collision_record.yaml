@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000260873
+  gene_symbol: SNTB2
+collision_symbol: ' SNT3'

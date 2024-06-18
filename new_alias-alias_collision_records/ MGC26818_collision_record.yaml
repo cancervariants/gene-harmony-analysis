@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275125
+  gene_symbol: PRXL2B
+collision_symbol: ' MGC26818'

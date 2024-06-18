@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000038002
+  gene_symbol: AGA
+- ensg_id: ENSG00000135423
+  gene_symbol: ' GLS2'
+collision_symbol: GA

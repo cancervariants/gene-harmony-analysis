@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000179886
+  gene_symbol: TIGD5
+collision_symbol: FLJ14926

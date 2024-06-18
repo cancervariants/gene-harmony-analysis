@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206281
+  gene_symbol: TAPBP
+collision_symbol: TAPA

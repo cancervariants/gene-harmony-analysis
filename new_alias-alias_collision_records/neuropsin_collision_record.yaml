@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129455
+  gene_symbol: KLK8
+- ensg_id: ENSG00000124818
+  gene_symbol: ' OPN5'
+collision_symbol: neuropsin

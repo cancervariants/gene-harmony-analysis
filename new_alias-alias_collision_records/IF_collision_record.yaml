@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000205403
+  gene_symbol: CFI
+- ensg_id: ENSG00000134812
+  gene_symbol: ' CBLIF'
+collision_symbol: IF

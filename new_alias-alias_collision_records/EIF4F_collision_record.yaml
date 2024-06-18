@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000151247
+  gene_symbol: EIF4E
+- ensg_id: ENSG00000114867
+  gene_symbol: ' EIF4G1'
+- ensg_id: ENSG00000156976
+  gene_symbol: ' EIF4A2'
+collision_symbol: EIF4F

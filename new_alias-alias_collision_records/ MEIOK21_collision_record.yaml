@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288152
+  gene_symbol: BRME1
+collision_symbol: ' MEIOK21'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186326
+  gene_symbol: RGS9BP
+- ensg_id: ENSG00000108370
+  gene_symbol: ' RGS9'
+collision_symbol: ' PERRS'

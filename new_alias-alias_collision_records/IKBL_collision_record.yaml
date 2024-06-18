@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235125
+  gene_symbol: NFKBIL1
+collision_symbol: IKBL

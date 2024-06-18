@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000135220
+  gene_symbol: UGT2A3
+collision_symbol: FLJ21934

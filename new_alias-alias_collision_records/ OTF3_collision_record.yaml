@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237582
+  gene_symbol: POU5F1
+collision_symbol: ' OTF3'

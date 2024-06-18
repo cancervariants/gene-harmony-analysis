@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228628
+  gene_symbol: ATF6B
+collision_symbol: CREBL1

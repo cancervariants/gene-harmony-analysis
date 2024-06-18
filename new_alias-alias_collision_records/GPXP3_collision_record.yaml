@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000198704
+  gene_symbol: GPX6
+collision_symbol: GPXP3

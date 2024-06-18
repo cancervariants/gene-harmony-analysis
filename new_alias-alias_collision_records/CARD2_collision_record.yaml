@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170421
+  gene_symbol: KRT8
+- ensg_id: ENSG00000140939
+  gene_symbol: ' NOL3'
+collision_symbol: CARD2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168995
+  gene_symbol: SIGLEC7
+- ensg_id: ENSG00000291114
+  gene_symbol: ' SIGLEC17P'
+collision_symbol: ' SIGLECP2'

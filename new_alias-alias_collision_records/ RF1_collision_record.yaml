@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120705
+  gene_symbol: ETF1
+- ensg_id: ENSG00000120662
+  gene_symbol: ' MTRF1'
+collision_symbol: ' RF1'

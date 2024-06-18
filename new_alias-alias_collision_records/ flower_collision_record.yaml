@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160325
+  gene_symbol: CACFD1
+collision_symbol: ' flower'

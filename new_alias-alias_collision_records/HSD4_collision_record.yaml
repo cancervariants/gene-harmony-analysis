@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000207513
+  gene_symbol: RNU1-3
+collision_symbol: HSD4

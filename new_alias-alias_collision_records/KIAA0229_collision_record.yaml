@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000064999
+  gene_symbol: ANKS1A
+- ensg_id: ENSG00000124678
+  gene_symbol: ' TCP11'
+collision_symbol: KIAA0229

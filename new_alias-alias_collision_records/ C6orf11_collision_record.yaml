@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227057
+  gene_symbol: WDR46
+collision_symbol: ' C6orf11'

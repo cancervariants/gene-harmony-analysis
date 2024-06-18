@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172164
+  gene_symbol: SNTB1
+- ensg_id: ENSG00000121410
+  gene_symbol: ' A1BG'
+collision_symbol: A1B

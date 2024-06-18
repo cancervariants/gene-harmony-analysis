@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000148248
+  gene_symbol: SURF4
+collision_symbol: ' FLJ22993'

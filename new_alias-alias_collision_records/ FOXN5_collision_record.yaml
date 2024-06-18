@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000176302
+  gene_symbol: FOXR1
+collision_symbol: ' FOXN5'

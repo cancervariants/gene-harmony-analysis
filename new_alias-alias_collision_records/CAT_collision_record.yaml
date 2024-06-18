@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149124
+  gene_symbol: GLYAT
+- ensg_id: ENSG00000095321
+  gene_symbol: ' CRAT'
+collision_symbol: CAT

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000080618
+  gene_symbol: CPB2
+- ensg_id: ENSG00000153002
+  gene_symbol: ' CPB1'
+collision_symbol: PCPB

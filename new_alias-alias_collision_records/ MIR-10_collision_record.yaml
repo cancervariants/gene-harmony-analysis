@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276146
+  gene_symbol: LILRB2
+collision_symbol: ' MIR-10'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: CARMN
+- ensg_id: ENSG00000142867
+  gene_symbol: ' BCL10'
+collision_symbol: CARMEN

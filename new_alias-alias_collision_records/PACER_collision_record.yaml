@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102445
+  gene_symbol: RUBCNL
+- ensg_id: ENSG00000273129
+  gene_symbol: ' PACERR'
+collision_symbol: PACER

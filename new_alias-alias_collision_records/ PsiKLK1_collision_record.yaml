@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290915
+  gene_symbol: KLKP1
+collision_symbol: ' PsiKLK1'

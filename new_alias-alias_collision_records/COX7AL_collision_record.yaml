@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112695
+  gene_symbol: COX7A2
+- ensg_id: NAN
+  gene_symbol: ' COX7A2P2'
+collision_symbol: COX7AL

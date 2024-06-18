@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131943
+  gene_symbol: C19orf12
+- ensg_id: ENSG00000196998
+  gene_symbol: ' WDR45'
+collision_symbol: NBIA4

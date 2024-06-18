@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000156273
+  gene_symbol: BACH1
+collision_symbol: ' BTBD24'

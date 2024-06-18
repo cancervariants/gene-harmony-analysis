@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000185669
+  gene_symbol: SNAI3
+- ensg_id: ENSG00000198788
+  gene_symbol: ' MUC2'
+collision_symbol: SMUC

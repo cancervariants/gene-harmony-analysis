@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000140067
+  gene_symbol: FAM181A
+collision_symbol: C14orf152

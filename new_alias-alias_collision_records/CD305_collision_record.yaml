@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000167613
+  gene_symbol: LAIR1
+collision_symbol: CD305

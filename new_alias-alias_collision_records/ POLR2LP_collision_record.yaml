@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000232007
+  gene_symbol: POLR2LP1
+collision_symbol: ' POLR2LP'

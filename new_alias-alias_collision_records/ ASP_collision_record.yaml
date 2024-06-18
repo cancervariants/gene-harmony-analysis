@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000148584
+  gene_symbol: A1CF
+- ensg_id: ENSG00000101440
+  gene_symbol: ' ASIP'
+- ensg_id: ENSG00000108381
+  gene_symbol: ' ASPA'
+- ensg_id: ENSG00000057663
+  gene_symbol: ' ATG5'
+collision_symbol: ' ASP'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231825
+  gene_symbol: PRRC2A
+collision_symbol: ' D6S51E'

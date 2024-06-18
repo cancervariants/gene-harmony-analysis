@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227652
+  gene_symbol: RANP1
+collision_symbol: Em:AB014080.2

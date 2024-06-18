@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000181222
+  gene_symbol: POLR2A
+collision_symbol: ' POLRA'

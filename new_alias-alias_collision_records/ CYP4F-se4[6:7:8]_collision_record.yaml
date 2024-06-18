@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228314
+  gene_symbol: CYP4F29P
+collision_symbol: ' CYP4F-se4[6:7:8]'

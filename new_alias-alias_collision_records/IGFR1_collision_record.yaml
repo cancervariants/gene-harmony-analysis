@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000198019
+  gene_symbol: FCGR1BP
+- ensg_id: ENSG00000265531
+  gene_symbol: ' FCGR1CP'
+- ensg_id: ENSG00000150337
+  gene_symbol: ' FCGR1A'
+collision_symbol: IGFR1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285348
+  gene_symbol: TGM1
+collision_symbol: ' TGASE'

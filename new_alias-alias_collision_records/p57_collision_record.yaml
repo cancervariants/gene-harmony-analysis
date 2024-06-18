@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102879
+  gene_symbol: CORO1A
+- ensg_id: ENSG00000179101
+  gene_symbol: ' H3P47'
+collision_symbol: p57

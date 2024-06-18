@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288397
+  gene_symbol: MIR181C
+collision_symbol: hsa-mir-181c

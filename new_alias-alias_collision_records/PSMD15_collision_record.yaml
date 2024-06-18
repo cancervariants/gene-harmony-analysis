@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000127922
+  gene_symbol: SEM1
+- ensg_id: NAN
+  gene_symbol: ' PSMD4P1'
+collision_symbol: PSMD15

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282830
+  gene_symbol: CALB2
+collision_symbol: CAL2

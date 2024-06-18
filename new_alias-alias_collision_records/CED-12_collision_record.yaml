@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000155849
+  gene_symbol: ELMO1
+- ensg_id: ENSG00000062598
+  gene_symbol: ' ELMO2'
+- ensg_id: ENSG00000102890
+  gene_symbol: ' ELMO3'
+collision_symbol: CED-12

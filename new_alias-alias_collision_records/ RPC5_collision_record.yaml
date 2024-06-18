@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284282
+  gene_symbol: POLR3E
+collision_symbol: ' RPC5'

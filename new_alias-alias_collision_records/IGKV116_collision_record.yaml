@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282282
+  gene_symbol: IGKV1-16
+collision_symbol: IGKV116

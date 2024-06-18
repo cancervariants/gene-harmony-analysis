@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282800
+  gene_symbol: MIR22HG
+collision_symbol: C17orf91

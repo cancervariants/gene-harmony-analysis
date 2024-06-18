@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000214900
+  gene_symbol: LINC01588
+collision_symbol: C14orf182

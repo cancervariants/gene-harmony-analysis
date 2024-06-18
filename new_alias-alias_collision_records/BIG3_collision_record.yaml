@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112379
+  gene_symbol: ARFGEF3
+- ensg_id: ENSG00000196363
+  gene_symbol: ' WDR5'
+collision_symbol: BIG3

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183580
+  gene_symbol: FBXL7
+- ensg_id: ENSG00000173120
+  gene_symbol: ' KDM2A'
+collision_symbol: FBL7

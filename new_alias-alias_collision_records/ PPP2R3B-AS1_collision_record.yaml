@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280741
+  gene_symbol: LINC00685
+collision_symbol: ' PPP2R3B-AS1'

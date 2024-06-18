@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000227151
+  gene_symbol: PRR20D
+- ensg_id: ENSG00000204919
+  gene_symbol: ' PRR20A'
+- ensg_id: ENSG00000229665
+  gene_symbol: ' PRR20C'
+- ensg_id: ENSG00000204918
+  gene_symbol: ' PRR20B'
+collision_symbol: PRR20E

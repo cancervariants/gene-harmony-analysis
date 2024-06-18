@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114200
+  gene_symbol: BCHE
+- ensg_id: ENSG00000275700
+  gene_symbol: ' AATF'
+collision_symbol: CHE1

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000169908
+  gene_symbol: TM4SF1
+- ensg_id: ENSG00000089009
+  gene_symbol: ' RPL6'
+- ensg_id: ENSG00000133398
+  gene_symbol: ' MED10'
+collision_symbol: L6

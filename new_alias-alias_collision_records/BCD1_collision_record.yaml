@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000067082
+  gene_symbol: KLF6
+- ensg_id: ENSG00000117174
+  gene_symbol: ' ZNHIT6'
+collision_symbol: BCD1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000217930
+  gene_symbol: PAM16
+collision_symbol: ' TIMM16'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172336
+  gene_symbol: POP7
+- ensg_id: ENSG00000177600
+  gene_symbol: ' RPLP2'
+collision_symbol: RPP2

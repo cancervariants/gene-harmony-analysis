@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168539
+  gene_symbol: CHRM1
+- ensg_id: ENSG00000227877
+  gene_symbol: ' MRLN'
+collision_symbol: M1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196684
+  gene_symbol: HSH2D
+- ensg_id: ENSG00000171049
+  gene_symbol: ' FPR2'
+collision_symbol: ALX

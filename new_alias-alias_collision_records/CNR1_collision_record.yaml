@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: PCDHA@
+- ensg_id: ENSG00000204967
+  gene_symbol: ' PCDHA4'
+collision_symbol: CNR1

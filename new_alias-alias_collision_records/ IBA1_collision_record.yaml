@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204472
+  gene_symbol: AIF1
+collision_symbol: ' IBA1'

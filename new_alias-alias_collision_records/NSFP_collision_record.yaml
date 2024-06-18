@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280810
+  gene_symbol: NSFP1
+collision_symbol: NSFP

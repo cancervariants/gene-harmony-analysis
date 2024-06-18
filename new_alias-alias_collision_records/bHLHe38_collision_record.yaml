@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: MYCLP1
+- ensg_id: ENSG00000116990
+  gene_symbol: ' MYCL'
+collision_symbol: bHLHe38

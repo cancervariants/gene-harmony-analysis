@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276068
+  gene_symbol: NAIP
+collision_symbol: BIRC1

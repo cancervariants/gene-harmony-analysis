@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000136573
+  gene_symbol: BLK
+collision_symbol: MGC10442

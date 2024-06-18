@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288461
+  gene_symbol: CYFIP1
+collision_symbol: ' P140SRA-1'

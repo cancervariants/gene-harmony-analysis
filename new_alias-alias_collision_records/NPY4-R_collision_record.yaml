@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204174
+  gene_symbol: NPY4R
+- ensg_id: ENSG00000264717
+  gene_symbol: ' NPY4R2'
+collision_symbol: NPY4-R

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275903
+  gene_symbol: PSMB3
+collision_symbol: HC10-II

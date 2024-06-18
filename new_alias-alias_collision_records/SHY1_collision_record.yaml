@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280627
+  gene_symbol: SURF1
+collision_symbol: SHY1

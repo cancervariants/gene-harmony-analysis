@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226858
+  gene_symbol: ZFP57
+collision_symbol: ' ZNF698'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000171451
+  gene_symbol: DSEL
+collision_symbol: ' FLJ11477'

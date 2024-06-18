@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167165
+  gene_symbol: UGT1A6
+- ensg_id: ENSG00000241635
+  gene_symbol: ' UGT1A1'
+collision_symbol: GNT1

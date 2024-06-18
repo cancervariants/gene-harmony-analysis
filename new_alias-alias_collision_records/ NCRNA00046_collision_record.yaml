@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000240833
+  gene_symbol: HCG17
+collision_symbol: ' NCRNA00046'

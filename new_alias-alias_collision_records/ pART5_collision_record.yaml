@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285372
+  gene_symbol: TNKS
+collision_symbol: ' pART5'

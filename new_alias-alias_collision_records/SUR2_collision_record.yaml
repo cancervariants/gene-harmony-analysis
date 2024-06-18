@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112282
+  gene_symbol: MED23
+- ensg_id: ENSG00000069431
+  gene_symbol: ' ABCC9'
+collision_symbol: SUR2

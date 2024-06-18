@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000181019
+  gene_symbol: NQO1
+- ensg_id: ENSG00000125821
+  gene_symbol: ' DTD1'
+- ensg_id: ENSG00000155850
+  gene_symbol: ' SLC26A2'
+collision_symbol: DTD

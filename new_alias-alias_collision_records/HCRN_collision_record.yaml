@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000101343
+  gene_symbol: CRNKL1
+- ensg_id: ENSG00000076924
+  gene_symbol: ' XAB2'
+collision_symbol: HCRN

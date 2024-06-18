@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285222
+  gene_symbol: GCNT2
+collision_symbol: ' CCAT'

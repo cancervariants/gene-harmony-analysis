@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166816
+  gene_symbol: LDHD
+- ensg_id: ENSG00000071889
+  gene_symbol: ' FAM3A'
+collision_symbol: DLD

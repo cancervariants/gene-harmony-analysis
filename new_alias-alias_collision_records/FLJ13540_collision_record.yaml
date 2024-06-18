@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278565
+  gene_symbol: CEACAM21
+collision_symbol: FLJ13540

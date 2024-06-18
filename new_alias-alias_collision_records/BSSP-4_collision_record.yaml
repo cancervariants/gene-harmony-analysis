@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282937
+  gene_symbol: PRSS22
+collision_symbol: BSSP-4

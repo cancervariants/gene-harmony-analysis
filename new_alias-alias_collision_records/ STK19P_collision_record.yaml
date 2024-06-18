@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000230354
+  gene_symbol: STK19B
+collision_symbol: ' STK19P'

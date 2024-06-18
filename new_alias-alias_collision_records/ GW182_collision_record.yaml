@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000090905
+  gene_symbol: TNRC6A
+collision_symbol: ' GW182'

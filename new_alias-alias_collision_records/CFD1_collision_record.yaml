@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000095906
+  gene_symbol: NUBP2
+- ensg_id: ENSG00000066468
+  gene_symbol: ' FGFR2'
+collision_symbol: CFD1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262102
+  gene_symbol: DSEL
+collision_symbol: C18orf4

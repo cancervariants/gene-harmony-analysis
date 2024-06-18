@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137561
+  gene_symbol: TTPA
+- ensg_id: ENSG00000172301
+  gene_symbol: ' COPRS'
+collision_symbol: TTP1

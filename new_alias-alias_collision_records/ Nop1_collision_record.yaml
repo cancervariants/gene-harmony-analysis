@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280548
+  gene_symbol: FBL
+collision_symbol: ' Nop1'

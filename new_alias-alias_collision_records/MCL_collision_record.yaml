@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000091483
+  gene_symbol: FH
+- ensg_id: ENSG00000166527
+  gene_symbol: ' CLEC4D'
+collision_symbol: MCL

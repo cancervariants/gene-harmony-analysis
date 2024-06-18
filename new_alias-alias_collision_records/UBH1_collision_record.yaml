@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: USP12P1
+- ensg_id: ENSG00000152484
+  gene_symbol: ' USP12'
+collision_symbol: UBH1

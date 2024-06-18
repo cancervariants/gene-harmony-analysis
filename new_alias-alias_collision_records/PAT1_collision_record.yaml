@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000062725
+  gene_symbol: APPBP2
+- ensg_id: ENSG00000123643
+  gene_symbol: ' SLC36A1'
+collision_symbol: PAT1

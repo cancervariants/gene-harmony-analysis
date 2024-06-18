@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273793
+  gene_symbol: DUSP8
+collision_symbol: C11orf81

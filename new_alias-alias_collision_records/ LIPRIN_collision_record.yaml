@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288198
+  gene_symbol: PPFIA1
+collision_symbol: ' LIPRIN'

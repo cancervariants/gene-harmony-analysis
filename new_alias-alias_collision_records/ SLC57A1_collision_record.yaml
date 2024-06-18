@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288478
+  gene_symbol: NIPA1
+collision_symbol: ' SLC57A1'

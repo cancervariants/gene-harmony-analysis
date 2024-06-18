@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ERVK-11
+- ensg_id: NAN
+  gene_symbol: ' ERVK-9'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-19'
+collision_symbol: polymerase

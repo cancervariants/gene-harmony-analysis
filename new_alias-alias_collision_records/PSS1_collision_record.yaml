@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000141527
+  gene_symbol: CARD14
+- ensg_id: ENSG00000204539
+  gene_symbol: ' CDSN'
+- ensg_id: ENSG00000156471
+  gene_symbol: ' PTDSS1'
+collision_symbol: PSS1

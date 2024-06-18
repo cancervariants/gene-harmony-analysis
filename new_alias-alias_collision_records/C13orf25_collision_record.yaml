@@ -1,0 +1,14 @@
+collision_group:
+- ensg_id: ENSG00000215417
+  gene_symbol: MIR17HG
+- ensg_id: ENSG00000283815
+  gene_symbol: ' MIR18A'
+- ensg_id: ENSG00000283762
+  gene_symbol: ' MIR20A'
+- ensg_id: ENSG00000283705
+  gene_symbol: ' MIR92A1'
+- ensg_id: ENSG00000284204
+  gene_symbol: ' MIR19A'
+- ensg_id: ENSG00000284375
+  gene_symbol: ' MIR19B1'
+collision_symbol: C13orf25

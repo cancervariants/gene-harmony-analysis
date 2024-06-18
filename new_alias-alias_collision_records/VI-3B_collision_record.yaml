@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000211935
+  gene_symbol: IGHV1-3
+collision_symbol: VI-3B

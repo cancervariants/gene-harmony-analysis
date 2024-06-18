@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: SIGLEC20P
+- ensg_id: NAN
+  gene_symbol: ' SIGLEC18P'
+collision_symbol: SIGLECP1

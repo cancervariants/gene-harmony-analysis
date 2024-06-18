@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000224081
+  gene_symbol: SLC44A3-AS1
+- ensg_id: NAN
+  gene_symbol: ' LINC01507'
+collision_symbol: XLOC_000303

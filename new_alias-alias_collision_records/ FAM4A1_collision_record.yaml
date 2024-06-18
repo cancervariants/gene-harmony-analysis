@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000004866
+  gene_symbol: ST7
+collision_symbol: ' FAM4A1'

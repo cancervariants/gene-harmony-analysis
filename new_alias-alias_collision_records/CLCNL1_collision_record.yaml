@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000206394
+  gene_symbol: CLIC1
+collision_symbol: CLCNL1

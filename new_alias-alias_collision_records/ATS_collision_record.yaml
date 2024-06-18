@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197496
+  gene_symbol: SLC2A10
+- ensg_id: ENSG00000188153
+  gene_symbol: ' COL4A5'
+collision_symbol: ATS

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229396
+  gene_symbol: DAXX
+collision_symbol: DAP6

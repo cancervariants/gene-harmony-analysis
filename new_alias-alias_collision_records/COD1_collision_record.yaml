@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103051
+  gene_symbol: COG4
+- ensg_id: ENSG00000156313
+  gene_symbol: ' RPGR'
+collision_symbol: COD1

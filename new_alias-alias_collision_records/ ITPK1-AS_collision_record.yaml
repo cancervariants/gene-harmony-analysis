@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000258730
+  gene_symbol: ITPK1-AS1
+collision_symbol: ' ITPK1-AS'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000121933
+  gene_symbol: TMIGD3
+- ensg_id: ENSG00000282608
+  gene_symbol: ' ADORA3'
+collision_symbol: AD026

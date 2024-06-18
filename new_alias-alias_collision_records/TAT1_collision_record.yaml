@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112053
+  gene_symbol: SLC26A8
+- ensg_id: ENSG00000112394
+  gene_symbol: ' SLC16A10'
+collision_symbol: TAT1

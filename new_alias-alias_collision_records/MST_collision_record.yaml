@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000128309
+  gene_symbol: MPST
+- ensg_id: ENSG00000125459
+  gene_symbol: ' MSTO1'
+- ensg_id: ENSG00000130758
+  gene_symbol: ' MAP3K10'
+collision_symbol: MST

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142798
+  gene_symbol: HSPG2
+- ensg_id: ENSG00000169439
+  gene_symbol: ' SDC2'
+collision_symbol: HSPG

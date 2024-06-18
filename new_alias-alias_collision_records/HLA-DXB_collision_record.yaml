@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000228813
+  gene_symbol: HLA-DQB2
+collision_symbol: HLA-DXB

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000236011
+  gene_symbol: GPANK1
+collision_symbol: ' BAT4'

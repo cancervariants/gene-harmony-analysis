@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274112
+  gene_symbol: SMDT1
+collision_symbol: ' DDDD'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000115459
+  gene_symbol: ELMOD3
+- ensg_id: ENSG00000111700
+  gene_symbol: ' SLCO1B3'
+- ensg_id: NAN
+  gene_symbol: ' SLCO1B7'
+collision_symbol: LST3

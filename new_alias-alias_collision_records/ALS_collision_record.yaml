@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142168
+  gene_symbol: SOD1
+- ensg_id: ENSG00000099769
+  gene_symbol: ' IGFALS'
+collision_symbol: ALS

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197157
+  gene_symbol: SND1
+- ensg_id: ENSG00000088325
+  gene_symbol: ' TPX2'
+collision_symbol: p100

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000215088
+  gene_symbol: RPS5P3
+collision_symbol: RPS5L

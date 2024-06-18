@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000091073
+  gene_symbol: DTX2
+collision_symbol: ' RNF58'

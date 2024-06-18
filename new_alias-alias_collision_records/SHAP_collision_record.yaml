@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000162267
+  gene_symbol: ITIH3
+- ensg_id: ENSG00000158352
+  gene_symbol: ' SHROOM4'
+- ensg_id: ENSG00000151655
+  gene_symbol: ' ITIH2'
+- ensg_id: ENSG00000055957
+  gene_symbol: ' ITIH1'
+collision_symbol: SHAP

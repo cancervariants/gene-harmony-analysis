@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000236625
+  gene_symbol: C4B
+collision_symbol: ' C4F'

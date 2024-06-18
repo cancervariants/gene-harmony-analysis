@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196776
+  gene_symbol: CD47
+- ensg_id: ENSG00000163295
+  gene_symbol: ' ALPI'
+collision_symbol: IAP

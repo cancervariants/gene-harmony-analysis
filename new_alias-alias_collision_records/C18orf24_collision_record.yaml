@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000154839
+  gene_symbol: SKA1
+collision_symbol: C18orf24

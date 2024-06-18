@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106258
+  gene_symbol: CYP3A5
+- ensg_id: ENSG00000177272
+  gene_symbol: ' KCNA3'
+collision_symbol: PCN3

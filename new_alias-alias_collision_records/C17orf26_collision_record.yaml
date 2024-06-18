@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000133195
+  gene_symbol: SLC39A11
+collision_symbol: C17orf26

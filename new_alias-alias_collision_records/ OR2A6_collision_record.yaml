@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000221938
+  gene_symbol: OR2A14
+collision_symbol: ' OR2A6'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237808
+  gene_symbol: NCR3
+collision_symbol: ' CD337'

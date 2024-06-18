@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282868
+  gene_symbol: PRR27
+collision_symbol: C4orf40

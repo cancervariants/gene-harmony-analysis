@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281123
+  gene_symbol: FCGBP
+collision_symbol: ' FcgammaBP'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000103319
+  gene_symbol: EEF2K
+collision_symbol: ' eEF-2K'

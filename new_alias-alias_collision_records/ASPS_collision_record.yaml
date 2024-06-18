@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000141551
+  gene_symbol: CSNK1D
+- ensg_id: ENSG00000169696
+  gene_symbol: ' ASPSCR1'
+collision_symbol: ASPS

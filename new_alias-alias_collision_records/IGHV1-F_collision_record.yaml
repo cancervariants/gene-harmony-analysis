@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281990
+  gene_symbol: IGHV1-69-2
+collision_symbol: IGHV1-F

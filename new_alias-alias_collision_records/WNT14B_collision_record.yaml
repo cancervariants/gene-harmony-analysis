@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276799
+  gene_symbol: WNT9B
+collision_symbol: WNT14B

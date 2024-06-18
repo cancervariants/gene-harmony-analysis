@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117595
+  gene_symbol: IRF6
+- ensg_id: ENSG00000132376
+  gene_symbol: ' INPP5K'
+collision_symbol: PPS

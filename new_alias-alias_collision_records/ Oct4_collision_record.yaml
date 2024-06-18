@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233911
+  gene_symbol: POU5F1
+collision_symbol: ' Oct4'

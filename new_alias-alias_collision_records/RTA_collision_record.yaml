@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100320
+  gene_symbol: RBFOX2
+- ensg_id: ENSG00000172935
+  gene_symbol: ' MRGPRF'
+collision_symbol: RTA

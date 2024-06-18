@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000248334
+  gene_symbol: WHAMMP2
+collision_symbol: WHAMML2

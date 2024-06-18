@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274405
+  gene_symbol: SPAG11B
+collision_symbol: ' EP2C'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000110841
+  gene_symbol: PPFIBP1
+- ensg_id: ENSG00000186919
+  gene_symbol: ' ZACN'
+collision_symbol: L2

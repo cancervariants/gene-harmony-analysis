@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281000
+  gene_symbol: SNORD3D
+collision_symbol: RNU3-4

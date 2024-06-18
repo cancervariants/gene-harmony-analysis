@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275095
+  gene_symbol: CCL16
+collision_symbol: ' SCYL4'

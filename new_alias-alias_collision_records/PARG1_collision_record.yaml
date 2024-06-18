@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000137962
+  gene_symbol: ARHGAP29
+collision_symbol: PARG1

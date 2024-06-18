@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223465
+  gene_symbol: LST1
+collision_symbol: ' LST-1'

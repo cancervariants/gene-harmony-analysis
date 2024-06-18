@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276450
+  gene_symbol: NCR1
+collision_symbol: CD335

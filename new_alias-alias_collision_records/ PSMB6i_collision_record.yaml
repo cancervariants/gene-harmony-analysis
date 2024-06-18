@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000243067
+  gene_symbol: PSMB9
+collision_symbol: ' PSMB6i'

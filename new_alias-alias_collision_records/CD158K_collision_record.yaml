@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275838
+  gene_symbol: KIR3DL2
+collision_symbol: CD158K

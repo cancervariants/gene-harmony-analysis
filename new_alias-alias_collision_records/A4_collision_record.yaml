@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102007
+  gene_symbol: PLP2
+- ensg_id: ENSG00000102683
+  gene_symbol: ' SGCG'
+collision_symbol: A4

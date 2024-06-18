@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233608
+  gene_symbol: TWIST2
+collision_symbol: ' Dermo-1'

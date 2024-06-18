@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174738
+  gene_symbol: NR1D2
+- ensg_id: ENSG00000185947
+  gene_symbol: ' ZNF267'
+collision_symbol: HZF2

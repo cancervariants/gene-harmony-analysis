@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: FCMTE1
+- ensg_id: NAN
+  gene_symbol: ' FCMTE2'
+collision_symbol: FAME

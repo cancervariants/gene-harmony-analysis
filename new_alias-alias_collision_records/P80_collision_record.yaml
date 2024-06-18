@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114742
+  gene_symbol: WDR48
+- ensg_id: ENSG00000115594
+  gene_symbol: ' IL1R1'
+collision_symbol: P80

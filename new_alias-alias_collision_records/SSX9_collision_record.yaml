@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204648
+  gene_symbol: SSX9P
+collision_symbol: SSX9

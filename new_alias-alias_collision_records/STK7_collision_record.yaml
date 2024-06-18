@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000065243
+  gene_symbol: PKN2
+- ensg_id: ENSG00000087586
+  gene_symbol: ' AURKA'
+collision_symbol: STK7

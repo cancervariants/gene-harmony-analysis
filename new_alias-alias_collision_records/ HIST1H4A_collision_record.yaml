@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278637
+  gene_symbol: H4C1
+collision_symbol: ' HIST1H4A'

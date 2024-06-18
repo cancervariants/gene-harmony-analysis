@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000187994
+  gene_symbol: RINL
+collision_symbol: FLJ45909

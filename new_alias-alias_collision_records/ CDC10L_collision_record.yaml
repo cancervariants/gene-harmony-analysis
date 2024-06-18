@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000120555
+  gene_symbol: SEPTIN7P9
+collision_symbol: ' CDC10L'

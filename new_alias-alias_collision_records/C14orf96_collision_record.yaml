@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282626
+  gene_symbol: ADAM6
+collision_symbol: C14orf96

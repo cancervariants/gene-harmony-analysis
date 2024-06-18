@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231631
+  gene_symbol: PSMB8
+collision_symbol: ' LMP7'

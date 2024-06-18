@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226777
+  gene_symbol: FAM30A
+collision_symbol: ' HSPC053'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LOC100533997
+- ensg_id: NAN
+  gene_symbol: ' MAGEA5P'
+collision_symbol: CT1.5

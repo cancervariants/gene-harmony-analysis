@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285114
+  gene_symbol: GSDMC
+collision_symbol: MLZE

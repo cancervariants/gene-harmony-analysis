@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000274611
+  gene_symbol: TBC1D3
+- ensg_id: ENSG00000274808
+  gene_symbol: ' TBC1D3B'
+collision_symbol: TBC1D3L

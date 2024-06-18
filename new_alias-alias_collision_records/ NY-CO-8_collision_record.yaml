@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000054282
+  gene_symbol: SDCCAG8
+collision_symbol: ' NY-CO-8'

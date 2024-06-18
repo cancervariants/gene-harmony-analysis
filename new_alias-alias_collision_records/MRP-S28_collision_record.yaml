@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147586
+  gene_symbol: MRPS28
+- ensg_id: ENSG00000061794
+  gene_symbol: ' MRPS35'
+collision_symbol: MRP-S28

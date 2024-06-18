@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116005
+  gene_symbol: PCYOX1
+- ensg_id: ENSG00000239756
+  gene_symbol: ' PHF1'
+collision_symbol: ' PCL1'

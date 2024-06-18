@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000188379
+  gene_symbol: IFNA2
+- ensg_id: NAN
+  gene_symbol: ' IFN1@'
+- ensg_id: ENSG00000234829
+  gene_symbol: ' IFNA17'
+collision_symbol: IFNA

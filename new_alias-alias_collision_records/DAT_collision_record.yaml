@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000142319
+  gene_symbol: SLC6A3
+collision_symbol: DAT

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135951
+  gene_symbol: TSGA10
+- ensg_id: ENSG00000160188
+  gene_symbol: ' RSPH1'
+collision_symbol: CT79

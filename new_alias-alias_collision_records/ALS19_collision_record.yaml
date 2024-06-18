@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135486
+  gene_symbol: HNRNPA1
+- ensg_id: ENSG00000178568
+  gene_symbol: ' ERBB4'
+collision_symbol: ALS19

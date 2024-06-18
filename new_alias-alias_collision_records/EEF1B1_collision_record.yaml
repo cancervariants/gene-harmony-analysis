@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114942
+  gene_symbol: EEF1B2
+- ensg_id: NAN
+  gene_symbol: ' EEF1B2P1'
+collision_symbol: EEF1B1

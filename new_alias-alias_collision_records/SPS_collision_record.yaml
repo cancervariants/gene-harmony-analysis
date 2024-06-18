@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000121075
+  gene_symbol: TBX4
+- ensg_id: ENSG00000086475
+  gene_symbol: ' SEPHS1'
+- ensg_id: ENSG00000148459
+  gene_symbol: ' PDSS1'
+collision_symbol: SPS

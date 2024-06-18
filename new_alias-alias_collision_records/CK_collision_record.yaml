@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000100288
+  gene_symbol: CHKB
+- ensg_id: ENSG00000110721
+  gene_symbol: ' CHKA'
+- ensg_id: ENSG00000162368
+  gene_symbol: ' CMPK1'
+collision_symbol: CK

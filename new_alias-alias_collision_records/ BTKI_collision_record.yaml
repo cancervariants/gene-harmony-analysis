@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283068
+  gene_symbol: IBTK
+collision_symbol: ' BTKI'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000187581
+  gene_symbol: COX8C
+collision_symbol: COX8-3

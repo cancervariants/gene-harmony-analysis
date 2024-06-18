@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000074800
+  gene_symbol: ENO1
+- ensg_id: ENSG00000095951
+  gene_symbol: ' HIVEP1'
+collision_symbol: MBP-1

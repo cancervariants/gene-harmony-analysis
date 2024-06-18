@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231785
+  gene_symbol: MICC
+collision_symbol: PERB11.3

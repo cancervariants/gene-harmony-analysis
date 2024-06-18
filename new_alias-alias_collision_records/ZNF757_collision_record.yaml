@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ZFP91-CNTF
+- ensg_id: ENSG00000186660
+  gene_symbol: ' ZFP91'
+collision_symbol: ZNF757

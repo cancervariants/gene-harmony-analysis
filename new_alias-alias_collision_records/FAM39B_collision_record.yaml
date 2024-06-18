@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000146556
+  gene_symbol: WASH2P
+collision_symbol: FAM39B

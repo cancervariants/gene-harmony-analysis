@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274109
+  gene_symbol: HNRNPCL2
+collision_symbol: HNRNPCP5

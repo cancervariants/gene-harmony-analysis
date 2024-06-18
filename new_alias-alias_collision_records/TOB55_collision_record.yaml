@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100347
+  gene_symbol: SAMM50
+- ensg_id: ENSG00000154640
+  gene_symbol: ' BTG3'
+collision_symbol: TOB55

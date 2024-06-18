@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106133
+  gene_symbol: NSUN5P2
+- ensg_id: ENSG00000223705
+  gene_symbol: ' NSUN5P1'
+collision_symbol: WBSCR20B

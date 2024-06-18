@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178951
+  gene_symbol: ZBTB7A
+- ensg_id: ENSG00000135334
+  gene_symbol: ' AKIRIN2'
+collision_symbol: FBI1

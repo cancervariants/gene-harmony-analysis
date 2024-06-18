@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280688
+  gene_symbol: CEP72
+collision_symbol: FLJ10565

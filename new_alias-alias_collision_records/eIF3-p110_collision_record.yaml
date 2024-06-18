@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000184110
+  gene_symbol: EIF3C
+collision_symbol: eIF3-p110

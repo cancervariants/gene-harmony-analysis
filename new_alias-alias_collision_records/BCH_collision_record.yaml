@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136352
+  gene_symbol: NKX2-1
+- ensg_id: ENSG00000285162
+  gene_symbol: ' CHN2'
+collision_symbol: BCH

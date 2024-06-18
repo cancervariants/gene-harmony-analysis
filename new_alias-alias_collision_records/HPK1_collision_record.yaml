@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104814
+  gene_symbol: MAP4K1
+collision_symbol: HPK1

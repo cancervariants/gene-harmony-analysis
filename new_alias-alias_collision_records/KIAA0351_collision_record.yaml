@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116191
+  gene_symbol: RALGPS2
+- ensg_id: ENSG00000136828
+  gene_symbol: ' RALGPS1'
+collision_symbol: KIAA0351

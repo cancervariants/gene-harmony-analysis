@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149923
+  gene_symbol: PPP4C
+- ensg_id: ENSG00000164111
+  gene_symbol: ' ANXA5'
+collision_symbol: PP4

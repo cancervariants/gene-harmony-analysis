@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000158747
+  gene_symbol: NBL1
+collision_symbol: ' NO3'

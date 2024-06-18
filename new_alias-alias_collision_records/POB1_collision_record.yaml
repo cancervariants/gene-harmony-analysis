@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108395
+  gene_symbol: TRIM37
+- ensg_id: ENSG00000169891
+  gene_symbol: ' REPS2'
+collision_symbol: POB1

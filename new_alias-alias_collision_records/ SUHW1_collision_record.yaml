@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000169548
+  gene_symbol: ZNF280A
+collision_symbol: ' SUHW1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000119487
+  gene_symbol: MAPKAP1
+- ensg_id: ENSG00000083312
+  gene_symbol: ' TNPO1'
+collision_symbol: ' MIP1'

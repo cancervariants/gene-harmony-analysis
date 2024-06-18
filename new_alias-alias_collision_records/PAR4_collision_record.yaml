@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000127533
+  gene_symbol: F2RL3
+- ensg_id: ENSG00000177425
+  gene_symbol: ' PAWR'
+- ensg_id: NAN
+  gene_symbol: ' PWAR4'
+collision_symbol: PAR4

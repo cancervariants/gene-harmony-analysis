@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226704
+  gene_symbol: HSPA1L
+collision_symbol: ' hum70t'

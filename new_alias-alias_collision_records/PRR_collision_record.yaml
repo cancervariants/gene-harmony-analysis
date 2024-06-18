@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000182220
+  gene_symbol: ATP6AP2
+- ensg_id: ENSG00000110400
+  gene_symbol: ' NECTIN1'
+collision_symbol: PRR

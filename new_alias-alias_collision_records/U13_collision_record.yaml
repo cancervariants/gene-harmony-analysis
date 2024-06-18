@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000239039
+  gene_symbol: SNORD13
+- ensg_id: ENSG00000239128
+  gene_symbol: ' SNORD13P3'
+- ensg_id: NAN
+  gene_symbol: ' SNORD13P2'
+- ensg_id: ENSG00000238498
+  gene_symbol: ' SNORD13P1'
+collision_symbol: U13

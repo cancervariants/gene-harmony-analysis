@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000211767
+  gene_symbol: TRBJ2-3
+collision_symbol: ' TRBJ23'

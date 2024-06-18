@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000078081
+  gene_symbol: LAMP3
+- ensg_id: ENSG00000185565
+  gene_symbol: ' LSAMP'
+collision_symbol: LAMP

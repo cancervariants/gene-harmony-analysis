@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000261052
+  gene_symbol: SULT1A3
+- ensg_id: ENSG00000213648
+  gene_symbol: ' SULT1A4'
+collision_symbol: ST1A3/ST1A4

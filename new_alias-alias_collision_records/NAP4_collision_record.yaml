@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274211
+  gene_symbol: SOCS7
+collision_symbol: NAP4

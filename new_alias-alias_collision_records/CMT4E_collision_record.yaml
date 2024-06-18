@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000122877
+  gene_symbol: EGR2
+- ensg_id: ENSG00000158887
+  gene_symbol: ' MPZ'
+collision_symbol: CMT4E

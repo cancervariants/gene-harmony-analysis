@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274699
+  gene_symbol: TAS2R30
+collision_symbol: T2R30

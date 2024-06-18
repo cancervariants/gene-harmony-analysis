@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000161057
+  gene_symbol: PSMC2
+- ensg_id: ENSG00000130299
+  gene_symbol: ' GTPBP3'
+collision_symbol: MSS1

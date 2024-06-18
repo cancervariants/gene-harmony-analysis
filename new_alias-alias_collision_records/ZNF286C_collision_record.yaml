@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000249459
+  gene_symbol: ZNF286B
+collision_symbol: ZNF286C

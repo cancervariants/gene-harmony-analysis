@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276175
+  gene_symbol: LILRA3
+collision_symbol: ' ILT6'

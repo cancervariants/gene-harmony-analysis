@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168785
+  gene_symbol: TSPAN5
+- ensg_id: ENSG00000126106
+  gene_symbol: ' TMEM53'
+collision_symbol: NET4

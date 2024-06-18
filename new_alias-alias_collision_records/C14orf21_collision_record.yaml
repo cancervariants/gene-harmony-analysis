@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285326
+  gene_symbol: NOP9
+collision_symbol: C14orf21

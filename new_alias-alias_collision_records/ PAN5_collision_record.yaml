@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281166
+  gene_symbol: NLRP10
+collision_symbol: ' PAN5'

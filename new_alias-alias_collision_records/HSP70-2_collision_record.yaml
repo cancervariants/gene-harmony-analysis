@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000232804
+  gene_symbol: HSPA1B
+collision_symbol: HSP70-2

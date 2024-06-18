@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197632
+  gene_symbol: SERPINB2
+- ensg_id: ENSG00000106366
+  gene_symbol: ' SERPINE1'
+collision_symbol: PAI

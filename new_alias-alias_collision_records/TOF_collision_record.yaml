@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153266
+  gene_symbol: FEZF2
+- ensg_id: ENSG00000136574
+  gene_symbol: ' GATA4'
+collision_symbol: TOF

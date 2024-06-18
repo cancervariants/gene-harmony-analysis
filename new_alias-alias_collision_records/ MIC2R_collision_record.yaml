@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223773
+  gene_symbol: CD99P1
+collision_symbol: ' MIC2R'

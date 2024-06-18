@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000203668
+  gene_symbol: CHML
+collision_symbol: REP-2

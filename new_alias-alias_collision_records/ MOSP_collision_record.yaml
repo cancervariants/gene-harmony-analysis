@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000110536
+  gene_symbol: PTPMT1
+collision_symbol: ' MOSP'

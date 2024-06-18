@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282152
+  gene_symbol: DLGAP2
+collision_symbol: ' ERICH1-AS1'

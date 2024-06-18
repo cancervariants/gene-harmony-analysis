@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000072506
+  gene_symbol: HSD17B10
+- ensg_id: NAN
+  gene_symbol: ' DUPXP11.22'
+collision_symbol: MRX17

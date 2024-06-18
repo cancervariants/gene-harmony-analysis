@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000185803
+  gene_symbol: SLC52A2
+collision_symbol: ' hRFT3'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282813
+  gene_symbol: ARMC10
+collision_symbol: MGC3195

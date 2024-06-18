@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000213859
+  gene_symbol: KCTD11
+collision_symbol: C17orf36

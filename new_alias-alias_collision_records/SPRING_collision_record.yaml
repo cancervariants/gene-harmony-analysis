@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000111412
+  gene_symbol: SPRING1
+- ensg_id: ENSG00000100505
+  gene_symbol: ' TRIM9'
+collision_symbol: SPRING

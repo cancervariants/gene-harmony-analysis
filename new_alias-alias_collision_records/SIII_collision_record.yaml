@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000154582
+  gene_symbol: ELOC
+- ensg_id: ENSG00000103363
+  gene_symbol: ' ELOB'
+- ensg_id: ENSG00000011007
+  gene_symbol: ' ELOA'
+collision_symbol: SIII

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124232
+  gene_symbol: RBPJL
+- ensg_id: ENSG00000168214
+  gene_symbol: ' RBPJ'
+collision_symbol: ' SUH'

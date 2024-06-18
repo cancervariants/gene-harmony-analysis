@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284915
+  gene_symbol: TINF2
+collision_symbol: TIN2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132518
+  gene_symbol: GUCY2D
+- ensg_id: ENSG00000091622
+  gene_symbol: ' PITPNM3'
+collision_symbol: CORD5

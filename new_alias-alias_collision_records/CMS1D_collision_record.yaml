@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170175
+  gene_symbol: CHRNB1
+- ensg_id: ENSG00000108556
+  gene_symbol: ' CHRNE'
+collision_symbol: CMS1D

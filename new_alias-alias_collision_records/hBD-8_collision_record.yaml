@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184276
+  gene_symbol: DEFB108B
+- ensg_id: NAN
+  gene_symbol: ' DEFB108A'
+collision_symbol: hBD-8

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237554
+  gene_symbol: RPL7AP7
+collision_symbol: ' RPL7B'

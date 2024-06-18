@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000248290
+  gene_symbol: TNXA
+collision_symbol: ' HXBL'

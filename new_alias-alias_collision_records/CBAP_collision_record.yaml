@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284228
+  gene_symbol: TMEM102
+collision_symbol: CBAP

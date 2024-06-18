@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290757
+  gene_symbol: CTSL3P
+collision_symbol: ' HCTSL-s'

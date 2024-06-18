@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237956
+  gene_symbol: TRIAP1P1
+collision_symbol: ' C10orf135'

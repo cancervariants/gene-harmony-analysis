@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000280461
+  gene_symbol: ABCB10P1
+collision_symbol: ' ABCB10P2'

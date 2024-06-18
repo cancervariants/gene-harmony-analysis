@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000180398
+  gene_symbol: MCFD2
+- ensg_id: ENSG00000074695
+  gene_symbol: ' LMAN1'
+collision_symbol: F5F8D

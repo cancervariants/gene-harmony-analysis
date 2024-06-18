@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231500
+  gene_symbol: RPS18
+collision_symbol: D6S218E

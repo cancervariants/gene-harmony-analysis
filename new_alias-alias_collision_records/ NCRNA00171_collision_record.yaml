@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235394
+  gene_symbol: POLR1HASP
+collision_symbol: ' NCRNA00171'

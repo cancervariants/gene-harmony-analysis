@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166986
+  gene_symbol: MARS1
+- ensg_id: ENSG00000151779
+  gene_symbol: ' NBAS'
+collision_symbol: ILFS2

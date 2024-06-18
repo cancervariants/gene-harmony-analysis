@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117020
+  gene_symbol: AKT3
+- ensg_id: ENSG00000105647
+  gene_symbol: ' PIK3R2'
+collision_symbol: MPPH

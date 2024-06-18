@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000185290
+  gene_symbol: NUPR2
+- ensg_id: ENSG00000143546
+  gene_symbol: ' S100A8'
+collision_symbol: P8

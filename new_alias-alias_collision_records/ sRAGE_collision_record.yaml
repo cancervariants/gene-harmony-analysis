@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000237405
+  gene_symbol: AGER
+collision_symbol: ' sRAGE'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000107104
+  gene_symbol: KANK1
+- ensg_id: ENSG00000132854
+  gene_symbol: ' KANK4'
+collision_symbol: KIAA0172

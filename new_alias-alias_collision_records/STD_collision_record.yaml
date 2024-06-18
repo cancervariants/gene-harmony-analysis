@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115085
+  gene_symbol: ZAP70
+- ensg_id: ENSG00000105398
+  gene_symbol: ' SULT2A1'
+collision_symbol: STD

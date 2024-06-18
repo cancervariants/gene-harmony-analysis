@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000225830
+  gene_symbol: ERCC6
+- ensg_id: ENSG00000213218
+  gene_symbol: ' CSH2'
+collision_symbol: CSB

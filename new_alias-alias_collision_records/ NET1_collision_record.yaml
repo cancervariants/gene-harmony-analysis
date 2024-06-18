@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000134186
+  gene_symbol: PRPF38B
+- ensg_id: ENSG00000165970
+  gene_symbol: ' SLC6A5'
+- ensg_id: ENSG00000103546
+  gene_symbol: ' SLC6A2'
+collision_symbol: ' NET1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187391
+  gene_symbol: MAGI2
+- ensg_id: ENSG00000123165
+  gene_symbol: ' ACTRT1'
+collision_symbol: ARIP1

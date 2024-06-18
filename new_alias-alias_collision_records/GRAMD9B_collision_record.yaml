@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284400
+  gene_symbol: TBC1D9B
+collision_symbol: GRAMD9B

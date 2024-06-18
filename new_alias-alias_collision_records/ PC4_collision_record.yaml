@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115257
+  gene_symbol: PCSK4
+- ensg_id: ENSG00000113387
+  gene_symbol: ' SUB1'
+collision_symbol: ' PC4'

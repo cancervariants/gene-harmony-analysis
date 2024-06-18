@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000263037
+  gene_symbol: MTX1P1
+collision_symbol: MTX1P

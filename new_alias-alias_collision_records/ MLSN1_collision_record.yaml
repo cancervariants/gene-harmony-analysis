@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274965
+  gene_symbol: TRPM1
+collision_symbol: ' MLSN1'

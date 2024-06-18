@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278307
+  gene_symbol: TAS2R19
+collision_symbol: ' TAS2R48'

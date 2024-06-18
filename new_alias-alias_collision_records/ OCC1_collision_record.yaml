@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163430
+  gene_symbol: FSTL1
+- ensg_id: ENSG00000235162
+  gene_symbol: ' C12orf75'
+collision_symbol: ' OCC1'

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000196747
+  gene_symbol: H2AC13
+- ensg_id: ENSG00000196787
+  gene_symbol: ' H2AC11'
+- ensg_id: ENSG00000275221
+  gene_symbol: ' H2AC15'
+- ensg_id: ENSG00000278677
+  gene_symbol: ' H2AC17'
+collision_symbol: H2AC16

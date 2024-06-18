@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276976
+  gene_symbol: LILRP2
+collision_symbol: CD85m

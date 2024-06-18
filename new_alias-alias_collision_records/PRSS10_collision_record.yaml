@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000184012
+  gene_symbol: TMPRSS2
+collision_symbol: PRSS10

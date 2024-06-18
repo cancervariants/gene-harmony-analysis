@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000212122
+  gene_symbol: TSSK1B
+- ensg_id: NAN
+  gene_symbol: ' TSSK1A'
+collision_symbol: TSSK1

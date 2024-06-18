@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140521
+  gene_symbol: POLG
+- ensg_id: ENSG00000107815
+  gene_symbol: ' TWNK'
+collision_symbol: SANDO

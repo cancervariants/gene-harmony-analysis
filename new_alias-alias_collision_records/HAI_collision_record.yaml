@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149418
+  gene_symbol: ST14
+- ensg_id: ENSG00000166145
+  gene_symbol: ' SPINT1'
+collision_symbol: HAI

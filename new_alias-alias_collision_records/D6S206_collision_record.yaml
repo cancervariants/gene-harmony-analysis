@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000232705
+  gene_symbol: HLA-DRB9
+collision_symbol: D6S206

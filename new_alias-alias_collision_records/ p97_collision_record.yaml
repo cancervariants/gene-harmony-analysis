@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000165280
+  gene_symbol: VCP
+- ensg_id: ENSG00000153774
+  gene_symbol: ' CFDP1'
+- ensg_id: ENSG00000110321
+  gene_symbol: ' EIF4G2'
+- ensg_id: ENSG00000179409
+  gene_symbol: ' GEMIN4'
+collision_symbol: ' p97'

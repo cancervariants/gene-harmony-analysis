@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000231234
+  gene_symbol: SKP1P1
+- ensg_id: ENSG00000113558
+  gene_symbol: ' SKP1'
+collision_symbol: ' TCEB1L'

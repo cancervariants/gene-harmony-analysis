@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282046
+  gene_symbol: GREM1
+collision_symbol: ' gremlin'

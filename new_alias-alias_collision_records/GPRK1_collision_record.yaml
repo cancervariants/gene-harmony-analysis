@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288263
+  gene_symbol: GRK1
+collision_symbol: GPRK1

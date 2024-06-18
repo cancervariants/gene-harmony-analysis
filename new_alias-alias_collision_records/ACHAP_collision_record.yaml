@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226492
+  gene_symbol: CUTA
+collision_symbol: ACHAP

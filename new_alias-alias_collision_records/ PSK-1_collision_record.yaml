@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149930
+  gene_symbol: TAOK2
+- ensg_id: ENSG00000174938
+  gene_symbol: ' SEZ6L2'
+collision_symbol: ' PSK-1'

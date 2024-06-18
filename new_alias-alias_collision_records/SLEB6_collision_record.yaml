@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169896
+  gene_symbol: ITGAM
+- ensg_id: ENSG00000140678
+  gene_symbol: ' ITGAX'
+collision_symbol: SLEB6

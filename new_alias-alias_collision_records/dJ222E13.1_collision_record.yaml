@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183569
+  gene_symbol: SERHL2
+- ensg_id: ENSG00000172250
+  gene_symbol: ' SERHL'
+collision_symbol: dJ222E13.1

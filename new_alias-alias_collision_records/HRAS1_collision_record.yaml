@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000174775
+  gene_symbol: HRAS
+collision_symbol: HRAS1

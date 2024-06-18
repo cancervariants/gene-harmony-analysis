@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000047249
+  gene_symbol: ATP6V1H
+- ensg_id: ENSG00000103274
+  gene_symbol: ' NUBP1'
+collision_symbol: NBP1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000286019
+  gene_symbol: NOTCH2NLB
+- ensg_id: ENSG00000286219
+  gene_symbol: ' NOTCH2NLC'
+collision_symbol: NOTCH2NLA

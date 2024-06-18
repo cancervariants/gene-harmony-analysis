@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000278427
+  gene_symbol: KIR3DL1
+collision_symbol: AMB11

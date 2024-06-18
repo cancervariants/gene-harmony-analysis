@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165474
+  gene_symbol: GJB2
+- ensg_id: ENSG00000164344
+  gene_symbol: ' KLKB1'
+collision_symbol: PPK

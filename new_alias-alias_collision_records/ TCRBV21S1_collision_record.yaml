@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000211720
+  gene_symbol: TRBV11-1
+- ensg_id: ENSG00000251578
+  gene_symbol: ' TRBV21-1'
+collision_symbol: ' TCRBV21S1'

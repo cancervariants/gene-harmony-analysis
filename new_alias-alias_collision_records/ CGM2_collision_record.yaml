@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000007306
+  gene_symbol: CEACAM7
+collision_symbol: ' CGM2'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135931
+  gene_symbol: ARMC9
+- ensg_id: ENSG00000117448
+  gene_symbol: ' AKR1A1'
+collision_symbol: ARM

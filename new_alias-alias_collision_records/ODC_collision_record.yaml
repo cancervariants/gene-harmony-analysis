@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115758
+  gene_symbol: ODC1
+- ensg_id: ENSG00000183032
+  gene_symbol: ' SLC25A21'
+collision_symbol: ODC

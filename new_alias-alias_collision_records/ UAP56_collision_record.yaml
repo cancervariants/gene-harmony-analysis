@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235439
+  gene_symbol: DDX39B
+collision_symbol: ' UAP56'

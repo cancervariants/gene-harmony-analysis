@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282127
+  gene_symbol: IGHVII-22-1
+collision_symbol: IGHV(II)-22-1

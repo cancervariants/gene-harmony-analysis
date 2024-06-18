@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276559
+  gene_symbol: BAAT
+collision_symbol: BAT

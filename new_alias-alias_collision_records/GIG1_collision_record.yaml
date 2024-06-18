@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105374
+  gene_symbol: NKG7
+- ensg_id: ENSG00000142871
+  gene_symbol: ' CCN1'
+collision_symbol: GIG1

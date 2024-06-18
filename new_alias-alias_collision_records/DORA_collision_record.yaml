@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283934
+  gene_symbol: IGSF6
+collision_symbol: DORA

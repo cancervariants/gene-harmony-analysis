@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282019
+  gene_symbol: GPI
+collision_symbol: ' NLK'

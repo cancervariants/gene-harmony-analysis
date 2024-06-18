@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276950
+  gene_symbol: GSTT4
+collision_symbol: GSTTP1

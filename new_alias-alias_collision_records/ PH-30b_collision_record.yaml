@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104755
+  gene_symbol: ADAM2
+collision_symbol: ' PH-30b'

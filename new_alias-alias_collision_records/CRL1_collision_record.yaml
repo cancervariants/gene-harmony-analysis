@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288185
+  gene_symbol: IL27RA
+collision_symbol: CRL1

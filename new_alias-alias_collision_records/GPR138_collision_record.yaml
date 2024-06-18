@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277378
+  gene_symbol: OR6V1
+collision_symbol: GPR138

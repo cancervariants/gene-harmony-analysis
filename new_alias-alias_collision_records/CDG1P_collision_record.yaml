@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000253710
+  gene_symbol: ALG11
+- ensg_id: ENSG00000128039
+  gene_symbol: ' SRD5A3'
+collision_symbol: CDG1P

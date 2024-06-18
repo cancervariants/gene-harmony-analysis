@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134574
+  gene_symbol: DDB2
+- ensg_id: ENSG00000167986
+  gene_symbol: ' DDB1'
+collision_symbol: XPE

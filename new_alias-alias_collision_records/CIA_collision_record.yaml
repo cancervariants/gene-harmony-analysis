@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124160
+  gene_symbol: NCOA5
+- ensg_id: ENSG00000111875
+  gene_symbol: ' ASF1A'
+collision_symbol: CIA

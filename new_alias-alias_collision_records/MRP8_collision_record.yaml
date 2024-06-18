@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000143546
+  gene_symbol: S100A8
+- ensg_id: ENSG00000121270
+  gene_symbol: ' ABCC11'
+- ensg_id: ENSG00000006071
+  gene_symbol: ' ABCC8'
+collision_symbol: MRP8

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226354
+  gene_symbol: HLA-U
+collision_symbol: ' HLA-21'

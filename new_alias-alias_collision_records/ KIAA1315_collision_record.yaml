@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000118412
+  gene_symbol: CASP8AP2
+collision_symbol: ' KIAA1315'

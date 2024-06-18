@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000274853
+  gene_symbol: MRM1
+collision_symbol: FLJ22578

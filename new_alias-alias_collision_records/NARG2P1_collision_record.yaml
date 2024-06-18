@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000248880
+  gene_symbol: ICE2P1
+collision_symbol: NARG2P1

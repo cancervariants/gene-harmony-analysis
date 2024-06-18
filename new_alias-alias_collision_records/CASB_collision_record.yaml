@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000283030
+  gene_symbol: CSN2
+collision_symbol: CASB

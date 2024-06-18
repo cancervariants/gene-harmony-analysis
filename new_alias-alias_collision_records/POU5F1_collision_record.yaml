@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000237872
+  gene_symbol: POU5F1P4
+- ensg_id: ENSG00000235602
+  gene_symbol: ' POU5F1P3'
+collision_symbol: POU5F1

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204387
+  gene_symbol: SNHG32
+collision_symbol: C6orf48

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275331
+  gene_symbol: ABCC6
+collision_symbol: ' URG7'

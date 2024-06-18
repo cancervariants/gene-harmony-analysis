@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288369
+  gene_symbol: RBP5
+collision_symbol: CRBPIII

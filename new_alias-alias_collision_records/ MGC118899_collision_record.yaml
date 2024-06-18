@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281244
+  gene_symbol: ADAMTS13
+collision_symbol: ' MGC118899'

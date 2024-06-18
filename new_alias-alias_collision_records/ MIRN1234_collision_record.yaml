@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284139
+  gene_symbol: MIR1234
+collision_symbol: ' MIRN1234'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164694
+  gene_symbol: FNDC1
+- ensg_id: ENSG00000155858
+  gene_symbol: ' LSM11'
+collision_symbol: AGS8

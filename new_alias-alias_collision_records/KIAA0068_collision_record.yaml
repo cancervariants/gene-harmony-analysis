@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273749
+  gene_symbol: CYFIP1
+collision_symbol: KIAA0068

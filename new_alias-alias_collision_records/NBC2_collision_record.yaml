@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000080493
+  gene_symbol: SLC4A4
+- ensg_id: ENSG00000033867
+  gene_symbol: ' SLC4A7'
+collision_symbol: NBC2

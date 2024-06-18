@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000205084
+  gene_symbol: TMEM231
+- ensg_id: ENSG00000135702
+  gene_symbol: ' CHST5'
+collision_symbol: FLJ22167

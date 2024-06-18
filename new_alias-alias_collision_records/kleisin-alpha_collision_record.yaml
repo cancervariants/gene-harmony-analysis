@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000100918
+  gene_symbol: REC8
+collision_symbol: kleisin-alpha

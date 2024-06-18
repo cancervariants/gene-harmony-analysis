@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000225618
+  gene_symbol: POLR1HASP
+collision_symbol: ' HTEX4'

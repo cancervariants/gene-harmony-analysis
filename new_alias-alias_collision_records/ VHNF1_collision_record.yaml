@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276194
+  gene_symbol: HNF1B
+collision_symbol: ' VHNF1'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281151
+  gene_symbol: KCNQ2
+collision_symbol: ' HNSPC'

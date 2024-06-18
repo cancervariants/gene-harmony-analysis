@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285161
+  gene_symbol: MIR124-1
+collision_symbol: hsa-mir-124-1

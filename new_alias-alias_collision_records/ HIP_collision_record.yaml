@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100380
+  gene_symbol: ST13
+- ensg_id: ENSG00000164161
+  gene_symbol: ' HHIP'
+collision_symbol: ' HIP'

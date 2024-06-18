@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000179002
+  gene_symbol: TAS1R2
+- ensg_id: ENSG00000273936
+  gene_symbol: ' TNFRSF14'
+- ensg_id: ENSG00000197763
+  gene_symbol: ' TXNRD3'
+collision_symbol: ' TR2'

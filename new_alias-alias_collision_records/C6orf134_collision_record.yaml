@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000229061
+  gene_symbol: ATAT1
+collision_symbol: C6orf134

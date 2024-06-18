@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000197465
+  gene_symbol: GYPE
+- ensg_id: ENSG00000170180
+  gene_symbol: ' GYPA'
+- ensg_id: ENSG00000250361
+  gene_symbol: ' GYPB'
+collision_symbol: ' MNS'

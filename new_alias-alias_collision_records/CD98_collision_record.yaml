@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103257
+  gene_symbol: SLC7A5
+- ensg_id: ENSG00000168003
+  gene_symbol: ' SLC3A2'
+collision_symbol: CD98

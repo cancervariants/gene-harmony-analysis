@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135457
+  gene_symbol: TFCP2
+- ensg_id: ENSG00000144730
+  gene_symbol: ' IL17RD'
+collision_symbol: SEF

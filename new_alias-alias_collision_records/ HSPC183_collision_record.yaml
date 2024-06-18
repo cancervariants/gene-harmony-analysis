@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000203624
+  gene_symbol: MRPS18B
+collision_symbol: ' HSPC183'

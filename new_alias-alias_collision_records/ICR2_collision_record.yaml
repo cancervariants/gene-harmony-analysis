@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000092295
+  gene_symbol: TGM1
+collision_symbol: ICR2

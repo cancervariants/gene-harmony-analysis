@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000291110
+  gene_symbol: TRIM16L
+collision_symbol: TRIM70

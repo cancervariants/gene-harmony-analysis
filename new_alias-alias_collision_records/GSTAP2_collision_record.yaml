@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: GSTA7P
+- ensg_id: NAN
+  gene_symbol: ' GSTA10P'
+collision_symbol: GSTAP2

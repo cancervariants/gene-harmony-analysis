@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147588
+  gene_symbol: PMP2
+- ensg_id: ENSG00000177600
+  gene_symbol: ' RPLP2'
+collision_symbol: P2

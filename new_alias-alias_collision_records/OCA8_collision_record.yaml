@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100412
+  gene_symbol: ACO2
+- ensg_id: ENSG00000080166
+  gene_symbol: ' DCT'
+collision_symbol: OCA8

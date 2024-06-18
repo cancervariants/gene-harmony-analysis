@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000230957
+  gene_symbol: MAS1LP1
+collision_symbol: MAS1LP

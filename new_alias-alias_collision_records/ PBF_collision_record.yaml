@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186918
+  gene_symbol: ZNF395
+- ensg_id: ENSG00000183255
+  gene_symbol: ' PTTG1IP'
+collision_symbol: ' PBF'

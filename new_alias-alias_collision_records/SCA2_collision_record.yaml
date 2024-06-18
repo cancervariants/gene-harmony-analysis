@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160932
+  gene_symbol: LY6E
+- ensg_id: ENSG00000204842
+  gene_symbol: ' ATXN2'
+collision_symbol: SCA2

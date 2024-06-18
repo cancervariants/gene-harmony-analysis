@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275565
+  gene_symbol: ALOX5
+collision_symbol: 5-LOX

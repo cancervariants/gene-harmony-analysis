@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000277335
+  gene_symbol: LAIR2
+collision_symbol: CD306

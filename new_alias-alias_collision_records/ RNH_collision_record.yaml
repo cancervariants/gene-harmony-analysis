@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276230
+  gene_symbol: RNH1
+collision_symbol: ' RNH'

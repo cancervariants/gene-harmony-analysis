@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000186446
+  gene_symbol: ZNF501
+collision_symbol: MGC21738

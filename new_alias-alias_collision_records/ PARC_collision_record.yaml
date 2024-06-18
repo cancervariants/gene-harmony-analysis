@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000275385
+  gene_symbol: CCL18
+- ensg_id: ENSG00000112659
+  gene_symbol: ' CUL9'
+collision_symbol: ' PARC'

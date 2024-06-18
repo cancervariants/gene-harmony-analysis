@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000101166
+  gene_symbol: PRELID3B
+- ensg_id: ENSG00000087460
+  gene_symbol: ' GNAS'
+collision_symbol: C20orf45

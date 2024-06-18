@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125520
+  gene_symbol: SLC2A4RG
+- ensg_id: ENSG00000116584
+  gene_symbol: ' ARHGEF2'
+collision_symbol: GEF

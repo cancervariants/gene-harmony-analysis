@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000258992
+  gene_symbol: TSPY1
+collision_symbol: ' TSPY'

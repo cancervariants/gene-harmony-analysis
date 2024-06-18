@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000180817
+  gene_symbol: PPA1
+- ensg_id: ENSG00000108849
+  gene_symbol: ' PPY'
+collision_symbol: PP

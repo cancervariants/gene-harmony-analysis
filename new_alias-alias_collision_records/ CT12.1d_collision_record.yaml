@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204382
+  gene_symbol: XAGE1B
+collision_symbol: ' CT12.1d'

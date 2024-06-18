@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239672
+  gene_symbol: NME1
+- ensg_id: ENSG00000104320
+  gene_symbol: ' NBN'
+collision_symbol: NBS

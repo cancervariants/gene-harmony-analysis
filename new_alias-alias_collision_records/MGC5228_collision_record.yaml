@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172460
+  gene_symbol: PRSS30P
+- ensg_id: ENSG00000136450
+  gene_symbol: ' SRSF1'
+collision_symbol: MGC5228

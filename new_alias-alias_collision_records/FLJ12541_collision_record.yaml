@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000137868
+  gene_symbol: STRA6
+collision_symbol: FLJ12541

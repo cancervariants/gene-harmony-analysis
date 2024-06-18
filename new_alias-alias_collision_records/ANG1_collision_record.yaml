@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149809
+  gene_symbol: TM7SF2
+- ensg_id: ENSG00000154188
+  gene_symbol: ' ANGPT1'
+collision_symbol: ANG1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160087
+  gene_symbol: UBE2J2
+- ensg_id: ENSG00000198833
+  gene_symbol: ' UBE2J1'
+collision_symbol: UBC6

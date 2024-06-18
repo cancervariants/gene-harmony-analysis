@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160767
+  gene_symbol: ENTREP3
+collision_symbol: ' FAM189B'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000056586
+  gene_symbol: RC3H2
+- ensg_id: ENSG00000165204
+  gene_symbol: ' OR1K1'
+collision_symbol: ' MNAB'

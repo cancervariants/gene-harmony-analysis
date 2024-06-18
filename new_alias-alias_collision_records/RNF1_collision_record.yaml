@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000231115
+  gene_symbol: RING1
+collision_symbol: RNF1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151116
+  gene_symbol: UEVLD
+- ensg_id: ENSG00000137561
+  gene_symbol: ' TTPA'
+collision_symbol: ATTP

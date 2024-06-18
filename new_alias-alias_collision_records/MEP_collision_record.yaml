@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135047
+  gene_symbol: CTSL
+- ensg_id: ENSG00000123213
+  gene_symbol: ' NLN'
+collision_symbol: MEP

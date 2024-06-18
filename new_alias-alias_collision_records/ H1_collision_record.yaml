@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169504
+  gene_symbol: CLIC4
+- ensg_id: ENSG00000136631
+  gene_symbol: ' VPS45'
+collision_symbol: ' H1'

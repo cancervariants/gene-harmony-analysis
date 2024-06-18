@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275489
+  gene_symbol: C17orf98
+collision_symbol: LOC388381

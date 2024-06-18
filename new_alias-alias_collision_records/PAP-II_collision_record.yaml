@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000072657
+  gene_symbol: TRHDE
+- ensg_id: ENSG00000196975
+  gene_symbol: ' ANXA4'
+collision_symbol: PAP-II

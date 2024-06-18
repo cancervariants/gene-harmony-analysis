@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000285501
+  gene_symbol: AGBL2
+collision_symbol: ' FLJ23598'

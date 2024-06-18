@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135018
+  gene_symbol: UBQLN1
+- ensg_id: ENSG00000188021
+  gene_symbol: ' UBQLN2'
+collision_symbol: DSK2

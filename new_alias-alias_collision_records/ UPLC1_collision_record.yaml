@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000088280
+  gene_symbol: ASAP3
+collision_symbol: ' UPLC1'

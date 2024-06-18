@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282984
+  gene_symbol: TBCE
+collision_symbol: ' pac2'

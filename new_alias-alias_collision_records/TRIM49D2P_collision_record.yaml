@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000233802
+  gene_symbol: TRIM49D2
+- ensg_id: ENSG00000223417
+  gene_symbol: ' TRIM49D1'
+collision_symbol: TRIM49D2P

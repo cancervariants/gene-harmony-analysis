@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000182870
+  gene_symbol: GALNT9
+collision_symbol: GALNAC-T9

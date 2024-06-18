@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173302
+  gene_symbol: GPR148
+- ensg_id: ENSG00000235300
+  gene_symbol: ' SKAP1-AS2'
+collision_symbol: BTR

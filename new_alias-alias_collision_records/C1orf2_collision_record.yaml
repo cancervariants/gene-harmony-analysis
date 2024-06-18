@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000262666
+  gene_symbol: ENTREP3
+collision_symbol: C1orf2

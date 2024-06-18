@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000110768
+  gene_symbol: GTF2H1
+collision_symbol: ' P62'

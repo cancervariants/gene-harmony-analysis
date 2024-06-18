@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000258947
+  gene_symbol: TUBB3
+- ensg_id: ENSG00000104833
+  gene_symbol: ' TUBB4A'
+collision_symbol: TUBB4

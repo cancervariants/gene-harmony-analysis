@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000289697
+  gene_symbol: CFH
+- ensg_id: ENSG00000130164
+  gene_symbol: ' LDLR'
+collision_symbol: FH

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129048
+  gene_symbol: ACKR4
+- ensg_id: ENSG00000144648
+  gene_symbol: ' ACKR2'
+collision_symbol: CCBP2

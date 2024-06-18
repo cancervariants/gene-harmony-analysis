@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137261
+  gene_symbol: KIAA0319
+- ensg_id: ENSG00000142687
+  gene_symbol: ' KIAA0319L'
+collision_symbol: AAVR

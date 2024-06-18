@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290837
+  gene_symbol: LRRC37A5P
+collision_symbol: C9orf29

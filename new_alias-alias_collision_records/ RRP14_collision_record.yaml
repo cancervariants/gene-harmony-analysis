@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000148296
+  gene_symbol: SURF6
+collision_symbol: ' RRP14'

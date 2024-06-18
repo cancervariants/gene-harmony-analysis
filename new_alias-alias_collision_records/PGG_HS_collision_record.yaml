@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000095303
+  gene_symbol: PTGS1
+- ensg_id: ENSG00000073756
+  gene_symbol: ' PTGS2'
+collision_symbol: PGG/HS

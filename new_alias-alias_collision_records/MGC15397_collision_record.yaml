@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163900
+  gene_symbol: TMEM41A
+- ensg_id: ENSG00000166840
+  gene_symbol: ' GLYATL1'
+collision_symbol: MGC15397

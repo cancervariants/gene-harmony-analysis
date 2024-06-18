@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000235223
+  gene_symbol: TMPOP1
+collision_symbol: Em:AB014080.3

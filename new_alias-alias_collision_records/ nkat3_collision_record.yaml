@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273775
+  gene_symbol: KIR3DL1
+collision_symbol: ' nkat3'

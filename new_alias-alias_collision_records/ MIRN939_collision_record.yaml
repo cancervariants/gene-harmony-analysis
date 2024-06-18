@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284310
+  gene_symbol: MIR939
+collision_symbol: ' MIRN939'

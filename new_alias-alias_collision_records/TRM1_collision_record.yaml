@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000104907
+  gene_symbol: TRMT1
+- ensg_id: NAN
+  gene_symbol: ' TRX-CAT2-1'
+- ensg_id: NAN
+  gene_symbol: ' TRX-CAT1-2'
+collision_symbol: TRM1

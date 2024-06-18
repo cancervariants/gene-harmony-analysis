@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000002822
+  gene_symbol: MAD1L1
+- ensg_id: ENSG00000131378
+  gene_symbol: ' RFTN1'
+collision_symbol: PIG9

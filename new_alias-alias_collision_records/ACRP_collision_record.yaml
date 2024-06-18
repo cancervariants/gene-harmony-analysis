@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000091640
+  gene_symbol: SPAG7
+- ensg_id: ENSG00000119326
+  gene_symbol: ' CTNNAL1'
+collision_symbol: ACRP

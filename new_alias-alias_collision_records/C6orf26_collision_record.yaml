@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000227861
+  gene_symbol: SAPCD1
+collision_symbol: C6orf26

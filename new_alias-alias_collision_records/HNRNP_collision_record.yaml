@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000152795
+  gene_symbol: HNRNPDL
+- ensg_id: ENSG00000092199
+  gene_symbol: ' HNRNPC'
+collision_symbol: HNRNP

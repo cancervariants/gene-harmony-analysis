@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000092098
+  gene_symbol: RNF31
+collision_symbol: ' ZIBRA'

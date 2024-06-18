@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000226795
+  gene_symbol: SAR1AP1
+collision_symbol: ' hsSARA-p'

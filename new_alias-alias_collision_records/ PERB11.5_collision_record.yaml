@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000251197
+  gene_symbol: MICE
+collision_symbol: ' PERB11.5'

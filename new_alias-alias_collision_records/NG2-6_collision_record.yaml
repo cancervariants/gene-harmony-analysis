@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: NPM1P2
+- ensg_id: NAN
+  gene_symbol: ' NPM1P3'
+collision_symbol: NG2-6

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: IGLV@
+- ensg_id: ENSG00000254709
+  gene_symbol: ' IGLL5'
+- ensg_id: NAN
+  gene_symbol: ' BMS1P20'
+collision_symbol: IGLV

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104825
+  gene_symbol: NFKBIB
+collision_symbol: ' TRIP9'

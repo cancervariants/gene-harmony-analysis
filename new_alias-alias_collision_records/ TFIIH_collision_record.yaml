@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000272047
+  gene_symbol: GTF2H5
+- ensg_id: ENSG00000288114
+  gene_symbol: ' GTF2H1'
+- ensg_id: ENSG00000275045
+  gene_symbol: ' GTF2H2'
+- ensg_id: ENSG00000213780
+  gene_symbol: ' GTF2H4'
+- ensg_id: ENSG00000111358
+  gene_symbol: ' GTF2H3'
+collision_symbol: ' TFIIH'

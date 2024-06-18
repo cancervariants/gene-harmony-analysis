@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000112062
+  gene_symbol: MAPK14
+- ensg_id: ENSG00000106305
+  gene_symbol: ' AIMP2'
+- ensg_id: ENSG00000100591
+  gene_symbol: ' AHSA1'
+collision_symbol: ' p38'

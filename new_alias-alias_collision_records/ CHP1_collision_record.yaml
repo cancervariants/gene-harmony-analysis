@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000110172
+  gene_symbol: CHORDC1
+collision_symbol: ' CHP1'

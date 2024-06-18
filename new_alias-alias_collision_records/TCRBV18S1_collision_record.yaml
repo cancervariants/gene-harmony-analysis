@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276557
+  gene_symbol: TRBV18
+collision_symbol: TCRBV18S1

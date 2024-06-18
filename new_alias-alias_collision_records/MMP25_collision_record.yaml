@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000125966
+  gene_symbol: MMP24
+- ensg_id: ENSG00000271447
+  gene_symbol: ' MMP28'
+collision_symbol: MMP25

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213213
+  gene_symbol: CCDC183
+- ensg_id: ENSG00000196642
+  gene_symbol: ' RABL6'
+collision_symbol: PARF

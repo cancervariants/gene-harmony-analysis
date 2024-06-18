@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000273046
+  gene_symbol: HOXC5
+- ensg_id: ENSG00000140465
+  gene_symbol: ' CYP1A1'
+collision_symbol: CP11

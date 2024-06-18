@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276781
+  gene_symbol: CHGA
+collision_symbol: ' PHES'

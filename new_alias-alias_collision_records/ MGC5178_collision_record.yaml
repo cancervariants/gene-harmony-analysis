@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000181625
+  gene_symbol: SLX1B
+collision_symbol: ' MGC5178'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223771
+  gene_symbol: SUMO2P1
+collision_symbol: ' SMT3Bp'

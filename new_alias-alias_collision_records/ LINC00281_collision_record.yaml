@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281252
+  gene_symbol: FAM230C
+collision_symbol: ' LINC00281'

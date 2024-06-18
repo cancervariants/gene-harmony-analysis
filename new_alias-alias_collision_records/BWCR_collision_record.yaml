@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000273707
+  gene_symbol: CDKN1C
+collision_symbol: BWCR

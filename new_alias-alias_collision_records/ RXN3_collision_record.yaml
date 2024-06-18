@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000288474
+  gene_symbol: RLN3
+collision_symbol: ' RXN3'

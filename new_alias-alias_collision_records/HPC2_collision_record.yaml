@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: PCAP
+- ensg_id: ENSG00000006744
+  gene_symbol: ' ELAC2'
+collision_symbol: HPC2

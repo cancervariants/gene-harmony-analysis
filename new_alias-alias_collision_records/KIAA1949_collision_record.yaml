@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000236428
+  gene_symbol: PPP1R18
+collision_symbol: KIAA1949

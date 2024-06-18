@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136104
+  gene_symbol: RNASEH2B
+- ensg_id: ENSG00000134250
+  gene_symbol: ' NOTCH2'
+collision_symbol: AGS2

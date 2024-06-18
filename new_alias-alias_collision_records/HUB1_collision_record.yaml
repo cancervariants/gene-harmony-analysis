@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198258
+  gene_symbol: UBL5
+- ensg_id: ENSG00000170265
+  gene_symbol: ' ZNF282'
+collision_symbol: HUB1

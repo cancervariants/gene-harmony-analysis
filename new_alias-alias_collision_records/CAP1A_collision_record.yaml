@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151466
+  gene_symbol: SCLT1
+- ensg_id: ENSG00000111880
+  gene_symbol: ' RNGTT'
+collision_symbol: CAP1A

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282725
+  gene_symbol: CORO7
+collision_symbol: FLJ22021

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000173273
+  gene_symbol: TNKS
+collision_symbol: ' TIN1'

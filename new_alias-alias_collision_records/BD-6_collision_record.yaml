@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187082
+  gene_symbol: DEFB106B
+- ensg_id: ENSG00000186579
+  gene_symbol: ' DEFB106A'
+collision_symbol: BD-6

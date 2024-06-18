@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000179950
+  gene_symbol: PUF60
+collision_symbol: ' SIAHBP1'

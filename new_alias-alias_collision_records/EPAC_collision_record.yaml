@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000079337
+  gene_symbol: RAPGEF3
+- ensg_id: ENSG00000091428
+  gene_symbol: ' RAPGEF4'
+collision_symbol: EPAC

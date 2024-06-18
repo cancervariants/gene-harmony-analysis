@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164761
+  gene_symbol: TNFRSF11B
+- ensg_id: ENSG00000118903
+  gene_symbol: ' BTF3P11'
+collision_symbol: OCIF

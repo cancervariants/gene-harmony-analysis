@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168267
+  gene_symbol: PTF1A
+- ensg_id: ENSG00000259389
+  gene_symbol: ' H3P38'
+collision_symbol: ' p48'

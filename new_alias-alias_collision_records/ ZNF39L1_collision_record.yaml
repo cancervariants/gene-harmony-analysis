@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000198521
+  gene_symbol: ZNF43
+collision_symbol: ' ZNF39L1'

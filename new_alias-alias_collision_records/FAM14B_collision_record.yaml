@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276880
+  gene_symbol: IFI27L1
+collision_symbol: FAM14B

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197249
+  gene_symbol: SERPINA1
+- ensg_id: ENSG00000084207
+  gene_symbol: ' GSTP1'
+collision_symbol: PI

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000149311
+  gene_symbol: ATM
+- ensg_id: ENSG00000137699
+  gene_symbol: ' TRIM29'
+collision_symbol: ATDC

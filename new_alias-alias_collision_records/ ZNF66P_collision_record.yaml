@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160229
+  gene_symbol: ZNF66
+collision_symbol: ' ZNF66P'

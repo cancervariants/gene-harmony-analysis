@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104320
+  gene_symbol: NBN
+- ensg_id: ENSG00000022556
+  gene_symbol: ' NLRP2'
+collision_symbol: NBS1

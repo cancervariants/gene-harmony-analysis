@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282431
+  gene_symbol: TRBD1
+collision_symbol: TCRBD1

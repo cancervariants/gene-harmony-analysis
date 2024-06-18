@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000233972
+  gene_symbol: RPL32P1
+collision_symbol: RPL32-L

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000275385
+  gene_symbol: CCL18
+collision_symbol: ' MIP-4'

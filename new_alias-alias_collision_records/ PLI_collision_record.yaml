@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276838
+  gene_symbol: SERPINF2
+collision_symbol: ' PLI'

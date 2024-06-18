@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165794
+  gene_symbol: SLC39A2
+- ensg_id: ENSG00000165181
+  gene_symbol: ' SHOC1'
+collision_symbol: ZIP2

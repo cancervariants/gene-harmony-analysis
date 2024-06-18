@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000284774
+  gene_symbol: HSF1
+collision_symbol: HSTF1

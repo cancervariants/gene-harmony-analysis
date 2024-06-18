@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000204444
+  gene_symbol: APOM
+collision_symbol: ' G3a'

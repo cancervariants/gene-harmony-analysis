@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239265
+  gene_symbol: CLRN1-AS1
+- ensg_id: ENSG00000187608
+  gene_symbol: ' ISG15'
+collision_symbol: UCRP

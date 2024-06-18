@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160323
+  gene_symbol: ADAMTS13
+collision_symbol: ' DKFZp434C2322'

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276920
+  gene_symbol: NKD2
+collision_symbol: Naked2

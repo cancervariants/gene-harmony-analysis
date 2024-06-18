@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276495
+  gene_symbol: APBA2
+collision_symbol: ' MINT2'

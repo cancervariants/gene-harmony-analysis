@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000160202
+  gene_symbol: CRYAA
+collision_symbol: CRYA1

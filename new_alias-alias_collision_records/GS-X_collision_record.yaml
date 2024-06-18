@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000103222
+  gene_symbol: ABCC1
+collision_symbol: GS-X

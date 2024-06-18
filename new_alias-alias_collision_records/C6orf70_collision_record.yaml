@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000130023
+  gene_symbol: ERMARD
+collision_symbol: C6orf70

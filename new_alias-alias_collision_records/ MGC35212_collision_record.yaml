@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282650
+  gene_symbol: MEIOB
+collision_symbol: ' MGC35212'

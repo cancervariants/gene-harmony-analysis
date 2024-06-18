@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000126368
+  gene_symbol: NR1D1
+- ensg_id: ENSG00000126351
+  gene_symbol: ' THRA'
+collision_symbol: THRA1

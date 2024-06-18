@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000269900
+  gene_symbol: RMRP
+- ensg_id: ENSG00000158315
+  gene_symbol: ' RHBDL2'
+collision_symbol: RRP2

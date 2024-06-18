@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000281758
+  gene_symbol: KCNIP4
+collision_symbol: ' KCHIP4'

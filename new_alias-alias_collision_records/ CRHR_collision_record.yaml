@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000120088
+  gene_symbol: CRHR1
+collision_symbol: ' CRHR'

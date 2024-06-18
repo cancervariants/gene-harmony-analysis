@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: SNORD3F
+- ensg_id: NAN
+  gene_symbol: ' SNORD3P4'
+- ensg_id: NAN
+  gene_symbol: ' SNORD3P3'
+- ensg_id: ENSG00000263934
+  gene_symbol: ' SNORD3A'
+- ensg_id: ENSG00000200318
+  gene_symbol: ' SNORD3P1'
+collision_symbol: U3

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151914
+  gene_symbol: DST
+- ensg_id: ENSG00000186847
+  gene_symbol: ' KRT14'
+collision_symbol: EBS3

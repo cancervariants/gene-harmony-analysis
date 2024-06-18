@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204599
+  gene_symbol: TRIM39
+- ensg_id: NAN
+  gene_symbol: ' INHCAP'
+collision_symbol: TFP

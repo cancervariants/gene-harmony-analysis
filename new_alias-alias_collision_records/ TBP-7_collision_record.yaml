@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000013275
+  gene_symbol: PSMC4
+collision_symbol: ' TBP-7'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109107
+  gene_symbol: ALDOC
+- ensg_id: ENSG00000165092
+  gene_symbol: ' ALDH1A1'
+collision_symbol: ALDC

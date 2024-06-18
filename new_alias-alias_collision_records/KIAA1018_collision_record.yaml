@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000276787
+  gene_symbol: FAN1
+collision_symbol: KIAA1018

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000268350
+  gene_symbol: FAM156A
+collision_symbol: ' TMEM29'

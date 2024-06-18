@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104687
+  gene_symbol: GSR
+- ensg_id: ENSG00000186458
+  gene_symbol: ' DEFB132'
+collision_symbol: HEL-75

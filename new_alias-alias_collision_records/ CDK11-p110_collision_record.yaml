@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000248333
+  gene_symbol: CDK11B
+- ensg_id: ENSG00000008128
+  gene_symbol: ' CDK11A'
+collision_symbol: ' CDK11-p110'

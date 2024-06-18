@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000070729
+  gene_symbol: CNGB1
+- ensg_id: ENSG00000137507
+  gene_symbol: ' LRRC32'
+collision_symbol: GARP

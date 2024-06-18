@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117751
+  gene_symbol: PPP1R8
+- ensg_id: ENSG00000113595
+  gene_symbol: ' TRIM23'
+collision_symbol: ARD1

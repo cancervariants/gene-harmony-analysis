@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000282958
+  gene_symbol: HNRNPR
+collision_symbol: hnRNP-R

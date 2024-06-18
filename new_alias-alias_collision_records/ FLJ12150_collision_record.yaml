@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000104518
+  gene_symbol: GSDMD
+collision_symbol: ' FLJ12150'

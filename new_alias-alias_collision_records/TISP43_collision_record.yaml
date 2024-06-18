@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000290614
+  gene_symbol: PRSS40A
+collision_symbol: TISP43

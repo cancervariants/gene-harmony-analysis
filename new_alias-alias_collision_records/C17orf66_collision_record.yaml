@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000270379
+  gene_symbol: HEATR9
+collision_symbol: C17orf66

@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000291035
+  gene_symbol: RRP7BP
+collision_symbol: ' RRP7B'

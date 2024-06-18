@@ -1,0 +1,4 @@
+collision_group:
+- ensg_id: ENSG00000223531
+  gene_symbol: TRIM31
+collision_symbol: C6orf13
