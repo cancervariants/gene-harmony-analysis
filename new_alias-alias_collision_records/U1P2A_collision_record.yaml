@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000238825
-  gene_symbol: RNVU1-2
 - ensg_id: ENSG00000278099
-  gene_symbol: ' RNVU1-2A'
+  gene_symbol: RNVU1-2A
+- ensg_id: ENSG00000238825
+  gene_symbol: ' RNVU1-2'
 collision_symbol: U1P2A

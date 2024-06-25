@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102030
-  gene_symbol: NAA10
 - ensg_id: ENSG00000152463
-  gene_symbol: ' OLAH'
+  gene_symbol: OLAH
+- ensg_id: ENSG00000102030
+  gene_symbol: ' NAA10'
 collision_symbol: TE2

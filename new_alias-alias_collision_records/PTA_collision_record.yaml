@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000171611
-  gene_symbol: PTCRA
 - ensg_id: ENSG00000088926
-  gene_symbol: ' F11'
+  gene_symbol: F11
+- ensg_id: ENSG00000171611
+  gene_symbol: ' PTCRA'
 collision_symbol: PTA

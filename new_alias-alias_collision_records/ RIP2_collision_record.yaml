@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000214944
-  gene_symbol: ARHGEF28
 - ensg_id: ENSG00000104312
-  gene_symbol: ' RIPK2'
+  gene_symbol: RIPK2
+- ensg_id: ENSG00000214944
+  gene_symbol: ' ARHGEF28'
 collision_symbol: ' RIP2'

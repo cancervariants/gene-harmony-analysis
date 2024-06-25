@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000127423
-  gene_symbol: AUNIP
 - ensg_id: ENSG00000163382
-  gene_symbol: ' NAXE'
+  gene_symbol: NAXE
+- ensg_id: ENSG00000127423
+  gene_symbol: ' AUNIP'
 collision_symbol: AIBP

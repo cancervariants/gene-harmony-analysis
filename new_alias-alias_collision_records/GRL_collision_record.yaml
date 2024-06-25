@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000113580
-  gene_symbol: NR3C1
 - ensg_id: ENSG00000135547
-  gene_symbol: ' HEY2'
+  gene_symbol: HEY2
+- ensg_id: ENSG00000113580
+  gene_symbol: ' NR3C1'
 collision_symbol: GRL

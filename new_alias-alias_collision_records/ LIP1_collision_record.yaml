@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000151849
-  gene_symbol: CENPJ
 - ensg_id: ENSG00000144589
-  gene_symbol: ' STK11IP'
+  gene_symbol: STK11IP
+- ensg_id: ENSG00000151849
+  gene_symbol: ' CENPJ'
 collision_symbol: ' LIP1'

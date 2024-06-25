@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000147160
-  gene_symbol: AWAT2
 - ensg_id: ENSG00000062282
-  gene_symbol: ' DGAT2'
+  gene_symbol: DGAT2
+- ensg_id: ENSG00000147160
+  gene_symbol: ' AWAT2'
 - ensg_id: ENSG00000185000
   gene_symbol: ' DGAT1'
 collision_symbol: ARAT

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: TNXA
 - ensg_id: ENSG00000168477
-  gene_symbol: ' TNXB'
+  gene_symbol: TNXB
+- ensg_id: NAN
+  gene_symbol: ' TNXA'
 collision_symbol: TNX

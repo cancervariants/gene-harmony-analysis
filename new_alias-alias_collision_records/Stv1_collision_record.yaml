@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000105929
-  gene_symbol: ATP6V0A4
 - ensg_id: ENSG00000185344
-  gene_symbol: ' ATP6V0A2'
+  gene_symbol: ATP6V0A2
+- ensg_id: ENSG00000105929
+  gene_symbol: ' ATP6V0A4'
 collision_symbol: STV1

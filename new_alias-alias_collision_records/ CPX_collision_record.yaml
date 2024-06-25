@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000277800
+- ensg_id: ENSG00000122145
   gene_symbol: TBX22
-- ensg_id: ENSG00000080819
-  gene_symbol: ' CPOX'
 - ensg_id: ENSG00000147155
   gene_symbol: ' EBP'
+- ensg_id: ENSG00000080819
+  gene_symbol: ' CPOX'
 collision_symbol: ' CPX'

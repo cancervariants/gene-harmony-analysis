@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000079435
-  gene_symbol: LIPE
 - ensg_id: ENSG00000198848
-  gene_symbol: ' CES1'
+  gene_symbol: CES1
+- ensg_id: ENSG00000079435
+  gene_symbol: ' LIPE'
 collision_symbol: REH

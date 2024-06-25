@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000143337
   gene_symbol: TOR1AIP1
-- ensg_id: ENSG00000166825
-  gene_symbol: ' ANPEP'
 - ensg_id: ENSG00000131323
   gene_symbol: ' TRAF3'
+- ensg_id: ENSG00000166825
+  gene_symbol: ' ANPEP'
 collision_symbol: LAP1

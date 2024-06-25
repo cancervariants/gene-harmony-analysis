@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000160224
-  gene_symbol: AIRE
 - ensg_id: ENSG00000196368
-  gene_symbol: ' NUDT11'
+  gene_symbol: NUDT11
+- ensg_id: ENSG00000160224
+  gene_symbol: ' AIRE'
 collision_symbol: APS1

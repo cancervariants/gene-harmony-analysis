@@ -1,10 +1,10 @@
 collision_group:
-- ensg_id: ENSG00000116745
-  gene_symbol: RPE65
+- ensg_id: ENSG00000073282
+  gene_symbol: TP63
 - ensg_id: ENSG00000198382
   gene_symbol: ' UVRAG'
+- ensg_id: ENSG00000116745
+  gene_symbol: ' RPE65'
 - ensg_id: ENSG00000136026
   gene_symbol: ' CKAP4'
-- ensg_id: ENSG00000073282
-  gene_symbol: ' TP63'
 collision_symbol: p63

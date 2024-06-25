@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000165688
-  gene_symbol: PMPCA
 - ensg_id: ENSG00000073060
-  gene_symbol: ' SCARB1'
+  gene_symbol: SCARB1
+- ensg_id: ENSG00000165688
+  gene_symbol: ' PMPCA'
 collision_symbol: ' CLA1'

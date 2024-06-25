@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000180209
-  gene_symbol: MYL11
 - ensg_id: ENSG00000118680
-  gene_symbol: ' MYL12B'
+  gene_symbol: MYL12B
+- ensg_id: ENSG00000180209
+  gene_symbol: ' MYL11'
 collision_symbol: MRLC2

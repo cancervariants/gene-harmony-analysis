@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000257923
-  gene_symbol: CUX1
 - ensg_id: ENSG00000175206
-  gene_symbol: ' NPPA'
+  gene_symbol: NPPA
+- ensg_id: ENSG00000257923
+  gene_symbol: ' CUX1'
 collision_symbol: CDP

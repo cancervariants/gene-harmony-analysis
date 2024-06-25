@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000121577
-  gene_symbol: POPDC2
 - ensg_id: ENSG00000253548
-  gene_symbol: ' PYDC2'
+  gene_symbol: PYDC2
+- ensg_id: ENSG00000121577
+  gene_symbol: ' POPDC2'
 collision_symbol: POP2

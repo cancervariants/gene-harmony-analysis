@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000114859
-  gene_symbol: CLCN2
 - ensg_id: ENSG00000113327
-  gene_symbol: ' GABRG2'
+  gene_symbol: GABRG2
+- ensg_id: ENSG00000114859
+  gene_symbol: ' CLCN2'
 collision_symbol: ECA2

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: GAGE4
 - ensg_id: ENSG00000205777
-  gene_symbol: ' GAGE1'
+  gene_symbol: GAGE1
+- ensg_id: NAN
+  gene_symbol: ' GAGE4'
 collision_symbol: CT4.4

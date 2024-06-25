@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: ENSG00000128016
   gene_symbol: ZFP36
-- ensg_id: ENSG00000160323
+- ensg_id: ENSG00000281244
   gene_symbol: ' ADAMTS13'
 collision_symbol: ' TTP'

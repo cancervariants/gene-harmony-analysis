@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000158792
-  gene_symbol: SPATA2L
 - ensg_id: ENSG00000158480
-  gene_symbol: ' SPATA2'
+  gene_symbol: SPATA2
+- ensg_id: ENSG00000158792
+  gene_symbol: ' SPATA2L'
 collision_symbol: tamo

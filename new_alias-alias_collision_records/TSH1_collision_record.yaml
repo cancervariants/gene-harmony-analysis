@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000179981
-  gene_symbol: TSHZ1
 - ensg_id: ENSG00000185875
-  gene_symbol: ' THNSL1'
+  gene_symbol: THNSL1
+- ensg_id: ENSG00000179981
+  gene_symbol: ' TSHZ1'
 collision_symbol: TSH1

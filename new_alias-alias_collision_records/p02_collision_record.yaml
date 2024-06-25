@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000133112
-  gene_symbol: TPT1
 - ensg_id: ENSG00000230228
-  gene_symbol: ' H3P1'
+  gene_symbol: H3P1
+- ensg_id: ENSG00000133112
+  gene_symbol: ' TPT1'
 collision_symbol: p02

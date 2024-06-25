@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000167842
-  gene_symbol: MIS12
 - ensg_id: ENSG00000122952
-  gene_symbol: ' ZWINT'
+  gene_symbol: ZWINT
+- ensg_id: ENSG00000167842
+  gene_symbol: ' MIS12'
 collision_symbol: KNTC2AP

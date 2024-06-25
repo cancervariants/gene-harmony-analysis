@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000198610
-  gene_symbol: AKR1C4
 - ensg_id: ENSG00000161980
-  gene_symbol: ' POLR3K'
+  gene_symbol: POLR3K
+- ensg_id: ENSG00000198610
+  gene_symbol: ' AKR1C4'
 collision_symbol: C11

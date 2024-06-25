@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000159197
-  gene_symbol: KCNE2
 - ensg_id: ENSG00000180509
-  gene_symbol: ' KCNE1'
+  gene_symbol: KCNE1
+- ensg_id: ENSG00000159197
+  gene_symbol: ' KCNE2'
 collision_symbol: LQT5

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000019991
-  gene_symbol: HGF
 - ensg_id: ENSG00000049130
-  gene_symbol: ' KITLG'
+  gene_symbol: KITLG
+- ensg_id: ENSG00000019991
+  gene_symbol: ' HGF'
 collision_symbol: SF

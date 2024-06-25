@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: GAGE2B
+  gene_symbol: GAGE2C
+- ensg_id: NAN
+  gene_symbol: ' GAGE2B'
 - ensg_id: ENSG00000189064
   gene_symbol: ' GAGE2A'
-- ensg_id: NAN
-  gene_symbol: ' GAGE2C'
 collision_symbol: GAGE-2

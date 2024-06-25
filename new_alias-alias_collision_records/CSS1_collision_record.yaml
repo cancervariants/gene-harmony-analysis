@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000131873
   gene_symbol: CHSY1
-- ensg_id: ENSG00000049618
-  gene_symbol: ' ARID1B'
 - ensg_id: ENSG00000126247
   gene_symbol: ' CAPNS1'
+- ensg_id: ENSG00000049618
+  gene_symbol: ' ARID1B'
 collision_symbol: CSS1

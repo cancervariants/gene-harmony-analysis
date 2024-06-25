@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000261701
-  gene_symbol: HPR
 - ensg_id: ENSG00000164741
-  gene_symbol: ' DLC1'
+  gene_symbol: DLC1
+- ensg_id: ENSG00000261701
+  gene_symbol: ' HPR'
 collision_symbol: HP

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000001626
-  gene_symbol: CFTR
 - ensg_id: ENSG00000228593
-  gene_symbol: ' CFTRP1'
+  gene_symbol: CFTRP1
+- ensg_id: ENSG00000001626
+  gene_symbol: ' CFTR'
 collision_symbol: dJ760C5.1

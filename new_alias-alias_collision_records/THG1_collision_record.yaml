@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000131721
-  gene_symbol: RHOXF2
+- ensg_id: ENSG00000166925
+  gene_symbol: TSC22D4
 - ensg_id: ENSG00000113272
   gene_symbol: ' THG1L'
-- ensg_id: ENSG00000166925
-  gene_symbol: ' TSC22D4'
+- ensg_id: ENSG00000131721
+  gene_symbol: ' RHOXF2'
 collision_symbol: THG1

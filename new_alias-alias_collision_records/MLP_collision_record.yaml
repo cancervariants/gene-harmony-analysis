@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000198788
-  gene_symbol: MUC2
 - ensg_id: ENSG00000175130
-  gene_symbol: ' MARCKSL1'
+  gene_symbol: MARCKSL1
+- ensg_id: ENSG00000198788
+  gene_symbol: ' MUC2'
 - ensg_id: ENSG00000129170
   gene_symbol: ' CSRP3'
 collision_symbol: MLP

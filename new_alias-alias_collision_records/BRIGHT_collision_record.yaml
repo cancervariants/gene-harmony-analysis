@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000116017
-  gene_symbol: ARID3A
 - ensg_id: ENSG00000049618
-  gene_symbol: ' ARID1B'
+  gene_symbol: ARID1B
+- ensg_id: ENSG00000116017
+  gene_symbol: ' ARID3A'
 collision_symbol: BRIGHT

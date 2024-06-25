@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000187109
   gene_symbol: NAP1L1
-- ensg_id: ENSG00000099250
-  gene_symbol: ' NRP1'
 - ensg_id: ENSG00000123240
   gene_symbol: ' OPTN'
+- ensg_id: ENSG00000099250
+  gene_symbol: ' NRP1'
 collision_symbol: ' NRP'

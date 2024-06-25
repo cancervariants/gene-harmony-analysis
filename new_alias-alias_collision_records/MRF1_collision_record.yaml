@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000213186
-  gene_symbol: TRIM59
 - ensg_id: ENSG00000120662
-  gene_symbol: ' MTRF1'
+  gene_symbol: MTRF1
+- ensg_id: ENSG00000213186
+  gene_symbol: ' TRIM59'
 - ensg_id: ENSG00000196843
   gene_symbol: ' ARID5A'
 collision_symbol: MRF1

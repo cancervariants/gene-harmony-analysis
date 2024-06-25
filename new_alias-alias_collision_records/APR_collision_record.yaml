@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000141682
-  gene_symbol: PMAIP1
 - ensg_id: ENSG00000123384
-  gene_symbol: ' LRP1'
+  gene_symbol: LRP1
+- ensg_id: ENSG00000141682
+  gene_symbol: ' PMAIP1'
 collision_symbol: APR

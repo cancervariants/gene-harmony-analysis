@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000213088
-  gene_symbol: ACKR1
 - ensg_id: ENSG00000010361
-  gene_symbol: ' FUZ'
+  gene_symbol: FUZ
+- ensg_id: ENSG00000213088
+  gene_symbol: ' ACKR1'
 collision_symbol: FY

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000006071
-  gene_symbol: ABCC8
 - ensg_id: ENSG00000187486
-  gene_symbol: ' KCNJ11'
+  gene_symbol: KCNJ11
+- ensg_id: ENSG00000006071
+  gene_symbol: ' ABCC8'
 collision_symbol: PHHI

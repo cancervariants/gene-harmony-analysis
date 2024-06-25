@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000185608
-  gene_symbol: MRPL40
 - ensg_id: ENSG00000082515
-  gene_symbol: ' MRPL22'
+  gene_symbol: MRPL22
+- ensg_id: ENSG00000185608
+  gene_symbol: ' MRPL40'
 collision_symbol: MRP-L22

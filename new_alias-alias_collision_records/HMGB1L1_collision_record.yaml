@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: HMGB1P1
 - ensg_id: ENSG00000124092
-  gene_symbol: ' CTCFL'
+  gene_symbol: CTCFL
+- ensg_id: NAN
+  gene_symbol: ' HMGB1P1'
 collision_symbol: HMGB1L1

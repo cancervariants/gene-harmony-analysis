@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000124151
-  gene_symbol: NCOA3
 - ensg_id: ENSG00000196498
-  gene_symbol: ' NCOR2'
+  gene_symbol: NCOR2
+- ensg_id: ENSG00000124151
+  gene_symbol: ' NCOA3'
 collision_symbol: CTG26

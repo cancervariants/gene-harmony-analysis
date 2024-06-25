@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000134602
-  gene_symbol: STK26
 - ensg_id: ENSG00000131503
-  gene_symbol: ' ANKHD1'
+  gene_symbol: ANKHD1
+- ensg_id: ENSG00000134602
+  gene_symbol: ' STK26'
 collision_symbol: MASK

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000148832
-  gene_symbol: PAOX
 - ensg_id: ENSG00000088826
-  gene_symbol: ' SMOX'
+  gene_symbol: SMOX
+- ensg_id: ENSG00000148832
+  gene_symbol: ' PAOX'
 collision_symbol: PAO

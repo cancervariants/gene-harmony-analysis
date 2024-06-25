@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000172197
-  gene_symbol: MBOAT1
 - ensg_id: ENSG00000111684
-  gene_symbol: ' LPCAT3'
+  gene_symbol: LPCAT3
+- ensg_id: ENSG00000172197
+  gene_symbol: ' MBOAT1'
 collision_symbol: LPSAT

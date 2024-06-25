@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000164299
-  gene_symbol: SPZ1
 - ensg_id: ENSG00000137691
-  gene_symbol: ' CFAP300'
+  gene_symbol: CFAP300
+- ensg_id: ENSG00000164299
+  gene_symbol: ' SPZ1'
 collision_symbol: CILD38

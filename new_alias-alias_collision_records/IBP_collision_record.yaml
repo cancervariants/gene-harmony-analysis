@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100300
-  gene_symbol: TSPO
 - ensg_id: ENSG00000023892
-  gene_symbol: ' DEF6'
+  gene_symbol: DEF6
+- ensg_id: ENSG00000100300
+  gene_symbol: ' TSPO'
 collision_symbol: IBP

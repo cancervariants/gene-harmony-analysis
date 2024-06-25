@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000103150
-  gene_symbol: MLYCD
 - ensg_id: ENSG00000185499
-  gene_symbol: ' MUC1'
+  gene_symbol: MUC1
+- ensg_id: ENSG00000103150
+  gene_symbol: ' MLYCD'
 collision_symbol: ' MCD'

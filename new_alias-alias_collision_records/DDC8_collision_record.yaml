@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000035862
-  gene_symbol: TIMP2
 - ensg_id: ENSG00000178404
-  gene_symbol: ' CEP295NL'
+  gene_symbol: CEP295NL
+- ensg_id: ENSG00000035862
+  gene_symbol: ' TIMP2'
 collision_symbol: DDC8

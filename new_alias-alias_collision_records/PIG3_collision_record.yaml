@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000182154
-  gene_symbol: MRPL41
 - ensg_id: ENSG00000115129
-  gene_symbol: ' TP53I3'
+  gene_symbol: TP53I3
+- ensg_id: ENSG00000182154
+  gene_symbol: ' MRPL41'
 collision_symbol: PIG3

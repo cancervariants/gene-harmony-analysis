@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000232629
+  gene_symbol: HLA-DQB2
 - ensg_id: ENSG00000196735
-  gene_symbol: HLA-DQA1
+  gene_symbol: ' HLA-DQA1'
 - ensg_id: ENSG00000087258
   gene_symbol: ' GNAO1'
-- ensg_id: ENSG00000232629
-  gene_symbol: ' HLA-DQB2'
 collision_symbol: HLA-DQB1

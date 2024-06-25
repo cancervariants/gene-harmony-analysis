@@ -1,14 +1,14 @@
 collision_group:
+- ensg_id: ENSG00000153317
+  gene_symbol: ASAP1
 - ensg_id: ENSG00000106244
-  gene_symbol: PDAP1
+  gene_symbol: ' PDAP1'
 - ensg_id: ENSG00000151693
   gene_symbol: ' ASAP2'
-- ensg_id: ENSG00000172016
-  gene_symbol: ' REG3A'
 - ensg_id: ENSG00000014257
   gene_symbol: ' ACP3'
+- ensg_id: ENSG00000172016
+  gene_symbol: ' REG3A'
 - ensg_id: ENSG00000114383
   gene_symbol: ' TUSC2'
-- ensg_id: ENSG00000153317
-  gene_symbol: ' ASAP1'
 collision_symbol: ' PAP'

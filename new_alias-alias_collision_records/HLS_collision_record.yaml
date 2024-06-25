@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000198331
-  gene_symbol: HYLS1
 - ensg_id: ENSG00000156414
-  gene_symbol: ' TDRD9'
+  gene_symbol: TDRD9
+- ensg_id: ENSG00000198331
+  gene_symbol: ' HYLS1'
 collision_symbol: HLS

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000124701
-  gene_symbol: APOBEC2
 - ensg_id: ENSG00000116194
-  gene_symbol: ' ANGPTL1'
+  gene_symbol: ANGPTL1
+- ensg_id: ENSG00000124701
+  gene_symbol: ' APOBEC2'
 collision_symbol: ' ARP1'

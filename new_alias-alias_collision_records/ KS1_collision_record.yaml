@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000145824
-  gene_symbol: CXCL14
 - ensg_id: ENSG00000161298
-  gene_symbol: ' ZNF382'
+  gene_symbol: ZNF382
+- ensg_id: ENSG00000145824
+  gene_symbol: ' CXCL14'
 collision_symbol: ' KS1'

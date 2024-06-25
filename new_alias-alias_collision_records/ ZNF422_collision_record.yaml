@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000172943
-  gene_symbol: PHF8
 - ensg_id: ENSG00000165512
-  gene_symbol: ' ZNF22'
+  gene_symbol: ZNF22
+- ensg_id: ENSG00000172943
+  gene_symbol: ' PHF8'
 collision_symbol: ' ZNF422'

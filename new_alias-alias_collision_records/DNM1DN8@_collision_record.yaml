@@ -1,10 +1,10 @@
 collision_group:
-- ensg_id: ENSG00000261820
-  gene_symbol: DNM1P49
+- ensg_id: NAN
+  gene_symbol: DNM1P35
 - ensg_id: NAN
   gene_symbol: ' DNM1P34'
 - ensg_id: NAN
   gene_symbol: ' DNM1P36'
-- ensg_id: NAN
-  gene_symbol: ' DNM1P35'
+- ensg_id: ENSG00000261820
+  gene_symbol: ' DNM1P49'
 collision_symbol: DNM1DN8@

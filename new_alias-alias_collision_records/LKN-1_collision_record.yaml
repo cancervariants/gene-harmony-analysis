@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000275718
-  gene_symbol: CCL15
 - ensg_id: NAN
-  gene_symbol: ' CCL15-CCL14'
+  gene_symbol: CCL15-CCL14
+- ensg_id: ENSG00000275718
+  gene_symbol: ' CCL15'
 collision_symbol: LKN-1

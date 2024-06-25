@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: TRNK
 - ensg_id: ENSG00000166548
-  gene_symbol: ' TK2'
+  gene_symbol: TK2
+- ensg_id: NAN
+  gene_symbol: ' TRNK'
 collision_symbol: MTTK

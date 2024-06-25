@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000215472
+  gene_symbol: RPL17-C18orf32
 - ensg_id: ENSG00000265681
-  gene_symbol: RPL17
+  gene_symbol: ' RPL17'
 - ensg_id: ENSG00000188389
   gene_symbol: ' PDCD1'
-- ensg_id: ENSG00000215472
-  gene_symbol: ' RPL17-C18orf32'
 collision_symbol: PD-1

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000066136
-  gene_symbol: NFYC
 - ensg_id: ENSG00000131409
-  gene_symbol: ' LRRC4B'
+  gene_symbol: LRRC4B
+- ensg_id: ENSG00000066136
+  gene_symbol: ' NFYC'
 collision_symbol: HSM

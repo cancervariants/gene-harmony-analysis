@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000253278
+  gene_symbol: IGKV2-10
 - ensg_id: ENSG00000147604
-  gene_symbol: RPL7
+  gene_symbol: ' RPL7'
 - ensg_id: ENSG00000183979
   gene_symbol: ' NPB'
-- ensg_id: ENSG00000253278
-  gene_symbol: ' IGKV2-10'
 collision_symbol: L7

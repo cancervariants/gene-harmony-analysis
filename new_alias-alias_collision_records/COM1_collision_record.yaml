@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000101773
-  gene_symbol: RBBP8
 - ensg_id: ENSG00000176046
-  gene_symbol: ' NUPR1'
+  gene_symbol: NUPR1
+- ensg_id: ENSG00000101773
+  gene_symbol: ' RBBP8'
 collision_symbol: COM1

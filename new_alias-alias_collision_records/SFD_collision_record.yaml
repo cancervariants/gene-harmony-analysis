@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100234
-  gene_symbol: TIMP3
 - ensg_id: ENSG00000047249
-  gene_symbol: ' ATP6V1H'
+  gene_symbol: ATP6V1H
+- ensg_id: ENSG00000100234
+  gene_symbol: ' TIMP3'
 collision_symbol: SFD

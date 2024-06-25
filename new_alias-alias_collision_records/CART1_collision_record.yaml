@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000076604
-  gene_symbol: TRAF4
 - ensg_id: ENSG00000180318
-  gene_symbol: ' ALX1'
+  gene_symbol: ALX1
+- ensg_id: ENSG00000076604
+  gene_symbol: ' TRAF4'
 collision_symbol: CART1

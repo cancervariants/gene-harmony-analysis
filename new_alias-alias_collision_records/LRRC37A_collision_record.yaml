@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: LOC105376839
 - ensg_id: ENSG00000176809
-  gene_symbol: ' LRRC37A3'
+  gene_symbol: LRRC37A3
+- ensg_id: NAN
+  gene_symbol: ' LOC105376839'
 collision_symbol: LRRC37A

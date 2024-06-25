@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000075407
-  gene_symbol: ZNF37A
 - ensg_id: ENSG00000234420
-  gene_symbol: ' ZNF37BP'
+  gene_symbol: ZNF37BP
+- ensg_id: ENSG00000075407
+  gene_symbol: ' ZNF37A'
 collision_symbol: KOX21

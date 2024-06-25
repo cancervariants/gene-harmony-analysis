@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000250361
-  gene_symbol: GYPB
 - ensg_id: ENSG00000185960
-  gene_symbol: ' SHOX'
+  gene_symbol: SHOX
+- ensg_id: ENSG00000250361
+  gene_symbol: ' GYPB'
 collision_symbol: ' SS'

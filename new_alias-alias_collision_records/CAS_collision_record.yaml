@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000124207
-  gene_symbol: CSE1L
 - ensg_id: ENSG00000050820
-  gene_symbol: ' BCAR1'
+  gene_symbol: BCAR1
+- ensg_id: ENSG00000124207
+  gene_symbol: ' CSE1L'
 collision_symbol: CAS

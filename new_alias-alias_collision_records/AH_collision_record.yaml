@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: HCA1
 - ensg_id: ENSG00000163898
-  gene_symbol: ' LIPH'
+  gene_symbol: LIPH
+- ensg_id: NAN
+  gene_symbol: ' HCA1'
 collision_symbol: AH

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000205560
-  gene_symbol: CPT1B
 - ensg_id: ENSG00000254413
-  gene_symbol: ' CHKB-CPT1B'
+  gene_symbol: CHKB-CPT1B
+- ensg_id: ENSG00000205560
+  gene_symbol: ' CPT1B'
 collision_symbol: CPTI-M

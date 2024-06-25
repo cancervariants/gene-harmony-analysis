@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000133835
-  gene_symbol: HSD17B4
 - ensg_id: ENSG00000145321
-  gene_symbol: ' GC'
+  gene_symbol: GC
+- ensg_id: ENSG00000133835
+  gene_symbol: ' HSD17B4'
 collision_symbol: DBP

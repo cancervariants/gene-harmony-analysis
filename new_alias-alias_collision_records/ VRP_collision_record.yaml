@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000150630
-  gene_symbol: VEGFC
 - ensg_id: ENSG00000204634
-  gene_symbol: ' TBC1D8'
+  gene_symbol: TBC1D8
+- ensg_id: ENSG00000150630
+  gene_symbol: ' VEGFC'
 collision_symbol: ' VRP'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000185899
-  gene_symbol: TAS2R60
 - ensg_id: ENSG00000255837
-  gene_symbol: ' TAS2R20'
+  gene_symbol: TAS2R20
+- ensg_id: ENSG00000185899
+  gene_symbol: ' TAS2R60'
 collision_symbol: T2R56

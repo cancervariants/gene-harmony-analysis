@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000088882
-  gene_symbol: CPXM1
 - ensg_id: ENSG00000168993
-  gene_symbol: ' CPLX1'
+  gene_symbol: CPLX1
+- ensg_id: ENSG00000088882
+  gene_symbol: ' CPXM1'
 collision_symbol: CPX1

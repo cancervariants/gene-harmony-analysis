@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000078725
-  gene_symbol: BRINP1
 - ensg_id: ENSG00000158941
-  gene_symbol: ' CCAR2'
+  gene_symbol: CCAR2
+- ensg_id: ENSG00000078725
+  gene_symbol: ' BRINP1'
 collision_symbol: DBC1

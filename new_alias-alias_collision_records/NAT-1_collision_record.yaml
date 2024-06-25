@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000139974
-  gene_symbol: SLC38A6
 - ensg_id: ENSG00000171428
-  gene_symbol: ' NAT1'
+  gene_symbol: NAT1
+- ensg_id: ENSG00000139974
+  gene_symbol: ' SLC38A6'
 collision_symbol: NAT-1

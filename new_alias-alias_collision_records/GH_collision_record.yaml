@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000137563
-  gene_symbol: GGH
 - ensg_id: ENSG00000259384
-  gene_symbol: ' GH1'
+  gene_symbol: GH1
+- ensg_id: ENSG00000137563
+  gene_symbol: ' GGH'
 collision_symbol: GH

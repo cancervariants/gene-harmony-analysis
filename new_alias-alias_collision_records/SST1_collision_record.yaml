@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000139874
-  gene_symbol: SSTR1
 - ensg_id: ENSG00000157005
-  gene_symbol: ' SST'
+  gene_symbol: SST
+- ensg_id: ENSG00000139874
+  gene_symbol: ' SSTR1'
 collision_symbol: SST1

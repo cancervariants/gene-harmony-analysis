@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000107829
-  gene_symbol: FBXW4
 - ensg_id: ENSG00000114771
-  gene_symbol: ' AADAC'
+  gene_symbol: AADAC
+- ensg_id: ENSG00000107829
+  gene_symbol: ' FBXW4'
 collision_symbol: DAC

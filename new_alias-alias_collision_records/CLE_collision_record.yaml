@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000087302
-  gene_symbol: RTRAF
 - ensg_id: ENSG00000145191
-  gene_symbol: ' EIF2B5'
+  gene_symbol: EIF2B5
+- ensg_id: ENSG00000087302
+  gene_symbol: ' RTRAF'
 collision_symbol: CLE

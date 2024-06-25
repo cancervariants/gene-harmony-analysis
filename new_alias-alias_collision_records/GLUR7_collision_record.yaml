@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000163873
-  gene_symbol: GRIK3
 - ensg_id: ENSG00000196277
-  gene_symbol: ' GRM7'
+  gene_symbol: GRM7
+- ensg_id: ENSG00000163873
+  gene_symbol: ' GRIK3'
 collision_symbol: GLUR7

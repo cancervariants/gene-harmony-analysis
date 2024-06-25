@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000278085
-  gene_symbol: CT45A8
 - ensg_id: ENSG00000270946
-  gene_symbol: ' CT45A9'
+  gene_symbol: CT45A9
+- ensg_id: ENSG00000278085
+  gene_symbol: ' CT45A8'
 collision_symbol: CT45A2

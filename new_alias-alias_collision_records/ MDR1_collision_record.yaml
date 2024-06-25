@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000109436
-  gene_symbol: TBC1D9
 - ensg_id: ENSG00000085563
-  gene_symbol: ' ABCB1'
+  gene_symbol: ABCB1
+- ensg_id: ENSG00000109436
+  gene_symbol: ' TBC1D9'
 collision_symbol: ' MDR1'

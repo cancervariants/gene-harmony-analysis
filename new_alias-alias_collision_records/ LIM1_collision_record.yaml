@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000273706
-  gene_symbol: LHX1
 - ensg_id: ENSG00000135517
-  gene_symbol: ' MIP'
+  gene_symbol: MIP
+- ensg_id: ENSG00000273706
+  gene_symbol: ' LHX1'
 collision_symbol: ' LIM1'

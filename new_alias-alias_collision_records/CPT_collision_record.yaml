@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000111666
-  gene_symbol: CHPT1
 - ensg_id: ENSG00000117682
-  gene_symbol: ' DHDDS'
+  gene_symbol: DHDDS
+- ensg_id: ENSG00000111666
+  gene_symbol: ' CHPT1'
 collision_symbol: CPT

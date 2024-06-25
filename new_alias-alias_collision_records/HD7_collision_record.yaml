@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000061273
-  gene_symbol: HDAC7
 - ensg_id: ENSG00000048052
-  gene_symbol: ' HDAC9'
+  gene_symbol: HDAC9
+- ensg_id: ENSG00000061273
+  gene_symbol: ' HDAC7'
 collision_symbol: HD7

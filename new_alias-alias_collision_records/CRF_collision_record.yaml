@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000147571
-  gene_symbol: CRH
 - ensg_id: ENSG00000131094
-  gene_symbol: ' C1QL1'
+  gene_symbol: C1QL1
+- ensg_id: ENSG00000147571
+  gene_symbol: ' CRH'
 collision_symbol: CRF

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000186810
-  gene_symbol: CXCR3
 - ensg_id: ENSG00000180871
-  gene_symbol: ' CXCR2'
+  gene_symbol: CXCR2
+- ensg_id: ENSG00000186810
+  gene_symbol: ' CXCR3'
 collision_symbol: CD182

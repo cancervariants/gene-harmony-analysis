@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000135480
-  gene_symbol: KRT7
 - ensg_id: ENSG00000162367
-  gene_symbol: ' TAL1'
+  gene_symbol: TAL1
+- ensg_id: ENSG00000135480
+  gene_symbol: ' KRT7'
 - ensg_id: ENSG00000132330
   gene_symbol: ' SCLY'
 collision_symbol: SCL

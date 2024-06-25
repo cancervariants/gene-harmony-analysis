@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100767
-  gene_symbol: PAPLN
 - ensg_id: ENSG00000102312
-  gene_symbol: ' PORCN'
+  gene_symbol: PORCN
+- ensg_id: ENSG00000100767
+  gene_symbol: ' PAPLN'
 collision_symbol: PPN

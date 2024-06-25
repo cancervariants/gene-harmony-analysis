@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000129757
-  gene_symbol: CDKN1C
 - ensg_id: NAN
-  gene_symbol: ' H19-ICR'
+  gene_symbol: H19-ICR
 - ensg_id: ENSG00000130600
   gene_symbol: ' H19'
+- ensg_id: ENSG00000129757
+  gene_symbol: ' CDKN1C'
 collision_symbol: BWS

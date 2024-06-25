@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000154122
-  gene_symbol: ANKH
 - ensg_id: ENSG00000169682
-  gene_symbol: ' SPNS1'
+  gene_symbol: SPNS1
+- ensg_id: ENSG00000154122
+  gene_symbol: ' ANKH'
 collision_symbol: SLC62A1

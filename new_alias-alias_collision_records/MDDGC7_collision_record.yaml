@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000214960
-  gene_symbol: CRPPA
 - ensg_id: ENSG00000173402
-  gene_symbol: ' DAG1'
+  gene_symbol: DAG1
+- ensg_id: ENSG00000214960
+  gene_symbol: ' CRPPA'
 collision_symbol: MDDGC7

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: HLA-DRB4
 - ensg_id: ENSG00000104689
-  gene_symbol: ' TNFRSF10A'
+  gene_symbol: TNFRSF10A
+- ensg_id: NAN
+  gene_symbol: ' HLA-DRB4'
 collision_symbol: DR4

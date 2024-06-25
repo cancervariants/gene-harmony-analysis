@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000276070
-  gene_symbol: CCL4L2
 - ensg_id: NAN
-  gene_symbol: ' CCL4L1'
+  gene_symbol: CCL4L1
+- ensg_id: ENSG00000276070
+  gene_symbol: ' CCL4L2'
 collision_symbol: AT744.2

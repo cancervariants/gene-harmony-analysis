@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000121797
-  gene_symbol: CCRL2
 - ensg_id: ENSG00000157851
-  gene_symbol: ' DPYSL5'
+  gene_symbol: DPYSL5
+- ensg_id: ENSG00000121797
+  gene_symbol: ' CCRL2'
 collision_symbol: CRAM

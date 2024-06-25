@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000152234
-  gene_symbol: ATP5F1A
 - ensg_id: ENSG00000229314
-  gene_symbol: ' ORM1'
+  gene_symbol: ORM1
+- ensg_id: ENSG00000152234
+  gene_symbol: ' ATP5F1A'
 collision_symbol: ORM

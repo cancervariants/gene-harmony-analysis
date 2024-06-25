@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000129084
-  gene_symbol: PSMA1
 - ensg_id: ENSG00000259513
-  gene_symbol: ' CYCSP38'
+  gene_symbol: CYCSP38
+- ensg_id: ENSG00000129084
+  gene_symbol: ' PSMA1'
 collision_symbol: HC2

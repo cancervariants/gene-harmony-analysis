@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000163815
-  gene_symbol: CLEC3B
 - ensg_id: ENSG00000041982
-  gene_symbol: ' TNC'
+  gene_symbol: TNC
+- ensg_id: ENSG00000163815
+  gene_symbol: ' CLEC3B'
 collision_symbol: TN

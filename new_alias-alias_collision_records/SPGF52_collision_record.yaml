@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000179008
-  gene_symbol: C14orf39
 - ensg_id: ENSG00000165164
-  gene_symbol: ' CFAP47'
+  gene_symbol: CFAP47
+- ensg_id: ENSG00000179008
+  gene_symbol: ' C14orf39'
 collision_symbol: SPGF52

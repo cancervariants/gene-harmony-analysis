@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: KIR2DS2
-- ensg_id: NAN
-  gene_symbol: ' KIR2DL2'
+  gene_symbol: KIR2DL2
 - ensg_id: ENSG00000243772
   gene_symbol: ' KIR2DL3'
+- ensg_id: NAN
+  gene_symbol: ' KIR2DS2'
 collision_symbol: CD158b

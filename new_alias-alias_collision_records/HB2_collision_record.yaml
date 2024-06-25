@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000183873
-  gene_symbol: SCN5A
 - ensg_id: ENSG00000161850
-  gene_symbol: ' KRT82'
+  gene_symbol: KRT82
+- ensg_id: ENSG00000183873
+  gene_symbol: ' SCN5A'
 collision_symbol: HB2

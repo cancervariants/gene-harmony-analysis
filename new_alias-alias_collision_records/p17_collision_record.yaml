@@ -1,10 +1,10 @@
 collision_group:
-- ensg_id: ENSG00000148229
-  gene_symbol: POLE3
+- ensg_id: ENSG00000196550
+  gene_symbol: FAM72A
 - ensg_id: ENSG00000230111
   gene_symbol: ' H3P11'
-- ensg_id: ENSG00000196550
-  gene_symbol: ' FAM72A'
+- ensg_id: ENSG00000148229
+  gene_symbol: ' POLE3'
 - ensg_id: NAN
   gene_symbol: ' RPL29P31'
 collision_symbol: p17

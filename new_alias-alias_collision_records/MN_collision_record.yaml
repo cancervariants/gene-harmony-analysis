@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000107159
-  gene_symbol: CA9
 - ensg_id: ENSG00000170180
-  gene_symbol: ' GYPA'
+  gene_symbol: GYPA
+- ensg_id: ENSG00000107159
+  gene_symbol: ' CA9'
 collision_symbol: MN

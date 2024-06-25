@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000164171
-  gene_symbol: ITGA2
 - ensg_id: ENSG00000204954
-  gene_symbol: ' C12orf73'
+  gene_symbol: C12orf73
+- ensg_id: ENSG00000164171
+  gene_symbol: ' ITGA2'
 collision_symbol: BR

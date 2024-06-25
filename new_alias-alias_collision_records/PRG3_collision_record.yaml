@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000042286
-  gene_symbol: AIFM2
 - ensg_id: ENSG00000148123
-  gene_symbol: ' PLPPR1'
+  gene_symbol: PLPPR1
+- ensg_id: ENSG00000042286
+  gene_symbol: ' AIFM2'
 collision_symbol: PRG3

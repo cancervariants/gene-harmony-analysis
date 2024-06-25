@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000276566
+  gene_symbol: IGKV1D-13
 - ensg_id: ENSG00000253497
-  gene_symbol: IGKV1-13
+  gene_symbol: ' IGKV1-13'
 - ensg_id: ENSG00000063177
   gene_symbol: ' RPL18'
-- ensg_id: ENSG00000276566
-  gene_symbol: ' IGKV1D-13'
 collision_symbol: L18

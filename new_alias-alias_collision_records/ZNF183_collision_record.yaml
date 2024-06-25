@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000125356
-  gene_symbol: NDUFA1
 - ensg_id: ENSG00000125352
-  gene_symbol: ' RNF113A'
+  gene_symbol: RNF113A
+- ensg_id: ENSG00000125356
+  gene_symbol: ' NDUFA1'
 collision_symbol: ZNF183

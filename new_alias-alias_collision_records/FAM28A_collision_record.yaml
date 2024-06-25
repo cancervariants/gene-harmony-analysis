@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: RWDD4P2
 - ensg_id: ENSG00000182552
-  gene_symbol: ' RWDD4'
+  gene_symbol: RWDD4
+- ensg_id: NAN
+  gene_symbol: ' RWDD4P2'
 collision_symbol: FAM28A

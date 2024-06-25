@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: LOC111365204
+  gene_symbol: PBCRA1
 - ensg_id: NAN
-  gene_symbol: ' PBCRA1'
+  gene_symbol: ' LOC111365204'
 collision_symbol: PBCRA

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000126561
-  gene_symbol: STAT5A
 - ensg_id: ENSG00000173757
-  gene_symbol: ' STAT5B'
+  gene_symbol: STAT5B
+- ensg_id: ENSG00000126561
+  gene_symbol: ' STAT5A'
 collision_symbol: STAT5

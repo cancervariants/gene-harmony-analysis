@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000170421
-  gene_symbol: KRT8
 - ensg_id: ENSG00000173917
-  gene_symbol: ' HOXB2'
+  gene_symbol: HOXB2
+- ensg_id: ENSG00000170421
+  gene_symbol: ' KRT8'
 collision_symbol: K8

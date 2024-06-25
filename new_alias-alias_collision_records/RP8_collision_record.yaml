@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000071994
-  gene_symbol: PDCD2
 - ensg_id: ENSG00000210184
-  gene_symbol: ' MT-TS2'
+  gene_symbol: MT-TS2
+- ensg_id: ENSG00000071994
+  gene_symbol: ' PDCD2'
 collision_symbol: RP8

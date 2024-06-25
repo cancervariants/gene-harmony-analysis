@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000163104
-  gene_symbol: SMARCAD1
 - ensg_id: ENSG00000108231
-  gene_symbol: ' LGI1'
+  gene_symbol: LGI1
+- ensg_id: ENSG00000163104
+  gene_symbol: ' SMARCAD1'
 collision_symbol: ' ETL1'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000110888
-  gene_symbol: CAPRIN2
 - ensg_id: ENSG00000134802
-  gene_symbol: ' SLC43A3'
+  gene_symbol: SLC43A3
+- ensg_id: ENSG00000110888
+  gene_symbol: ' CAPRIN2'
 collision_symbol: EEG1

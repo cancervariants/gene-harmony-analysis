@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000180974
-  gene_symbol: OR52E4
 - ensg_id: ENSG00000184933
-  gene_symbol: ' OR6A2'
+  gene_symbol: OR6A2
+- ensg_id: ENSG00000180974
+  gene_symbol: ' OR52E4'
 collision_symbol: OR11-55

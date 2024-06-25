@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000106244
-  gene_symbol: PDAP1
 - ensg_id: ENSG00000172016
-  gene_symbol: ' REG3A'
+  gene_symbol: REG3A
+- ensg_id: ENSG00000106244
+  gene_symbol: ' PDAP1'
 collision_symbol: ' PAP1'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000134363
-  gene_symbol: FST
 - ensg_id: ENSG00000148288
-  gene_symbol: ' GBGT1'
+  gene_symbol: GBGT1
+- ensg_id: ENSG00000134363
+  gene_symbol: ' FST'
 collision_symbol: FS

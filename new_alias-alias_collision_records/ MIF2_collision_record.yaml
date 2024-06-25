@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000099977
-  gene_symbol: DDT
 - ensg_id: ENSG00000145241
-  gene_symbol: ' CENPC'
+  gene_symbol: CENPC
+- ensg_id: ENSG00000099977
+  gene_symbol: ' DDT'
 collision_symbol: ' MIF2'

@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000167004
   gene_symbol: PDIA3
-- ensg_id: ENSG00000101333
-  gene_symbol: ' PLCB4'
 - ensg_id: ENSG00000182621
   gene_symbol: ' PLCB1'
+- ensg_id: ENSG00000101333
+  gene_symbol: ' PLCB4'
 collision_symbol: PI-PLC

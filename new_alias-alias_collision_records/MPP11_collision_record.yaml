@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000105819
-  gene_symbol: PMPCB
 - ensg_id: ENSG00000105821
-  gene_symbol: ' DNAJC2'
+  gene_symbol: DNAJC2
+- ensg_id: ENSG00000105819
+  gene_symbol: ' PMPCB'
 collision_symbol: MPP11

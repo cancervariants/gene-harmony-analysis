@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000140396
-  gene_symbol: NCOA2
 - ensg_id: ENSG00000133317
-  gene_symbol: ' LGALS12'
+  gene_symbol: LGALS12
+- ensg_id: ENSG00000140396
+  gene_symbol: ' NCOA2'
 collision_symbol: GRIP1

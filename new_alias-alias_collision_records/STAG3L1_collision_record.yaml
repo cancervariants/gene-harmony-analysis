@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: STAG3L3
+  gene_symbol: STAG3L2
 - ensg_id: NAN
-  gene_symbol: ' STAG3L2'
+  gene_symbol: ' STAG3L3'
 collision_symbol: STAG3L1

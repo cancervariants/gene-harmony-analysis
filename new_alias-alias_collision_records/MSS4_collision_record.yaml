@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000107242
-  gene_symbol: PIP5K1B
 - ensg_id: ENSG00000183155
-  gene_symbol: ' RABIF'
+  gene_symbol: RABIF
+- ensg_id: ENSG00000107242
+  gene_symbol: ' PIP5K1B'
 collision_symbol: MSS4

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000173598
-  gene_symbol: NUDT4
 - ensg_id: ENSG00000177144
-  gene_symbol: ' NUDT4B'
+  gene_symbol: NUDT4B
+- ensg_id: ENSG00000173598
+  gene_symbol: ' NUDT4'
 collision_symbol: DIPP-2B

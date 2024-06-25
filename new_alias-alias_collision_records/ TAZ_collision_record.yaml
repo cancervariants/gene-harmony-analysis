@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000018408
-  gene_symbol: WWTR1
 - ensg_id: ENSG00000102125
-  gene_symbol: ' TAFAZZIN'
+  gene_symbol: TAFAZZIN
+- ensg_id: ENSG00000018408
+  gene_symbol: ' WWTR1'
 collision_symbol: ' TAZ'

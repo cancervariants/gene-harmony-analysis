@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: NAN
+  gene_symbol: BANF1P1
 - ensg_id: ENSG00000175334
-  gene_symbol: BANF1
+  gene_symbol: ' BANF1'
 - ensg_id: ENSG00000118777
   gene_symbol: ' ABCG2'
-- ensg_id: NAN
-  gene_symbol: ' BANF1P1'
 collision_symbol: BCRP1

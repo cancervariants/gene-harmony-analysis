@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000171401
-  gene_symbol: KRT13
 - ensg_id: ENSG00000026559
-  gene_symbol: ' KCNG1'
+  gene_symbol: KCNG1
+- ensg_id: ENSG00000171401
+  gene_symbol: ' KRT13'
 collision_symbol: K13

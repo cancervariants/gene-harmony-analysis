@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000008018
-  gene_symbol: PSMB1
 - ensg_id: NAN
-  gene_symbol: ' CYCSP1'
+  gene_symbol: CYCSP1
+- ensg_id: ENSG00000008018
+  gene_symbol: ' PSMB1'
 collision_symbol: HC5

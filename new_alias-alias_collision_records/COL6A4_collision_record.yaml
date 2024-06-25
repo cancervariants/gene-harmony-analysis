@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000230524
-  gene_symbol: COL6A4P1
 - ensg_id: NAN
-  gene_symbol: ' COL6A4P2'
+  gene_symbol: COL6A4P2
+- ensg_id: ENSG00000230524
+  gene_symbol: ' COL6A4P1'
 collision_symbol: COL6A4

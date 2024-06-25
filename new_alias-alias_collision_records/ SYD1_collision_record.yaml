@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000008294
-  gene_symbol: SPAG9
 - ensg_id: ENSG00000105137
-  gene_symbol: ' SYDE1'
+  gene_symbol: SYDE1
+- ensg_id: ENSG00000008294
+  gene_symbol: ' SPAG9'
 collision_symbol: ' SYD1'

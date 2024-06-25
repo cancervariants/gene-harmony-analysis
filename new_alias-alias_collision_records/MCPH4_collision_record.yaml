@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000137812
-  gene_symbol: KNL1
 - ensg_id: ENSG00000103995
-  gene_symbol: ' CEP152'
+  gene_symbol: CEP152
+- ensg_id: ENSG00000137812
+  gene_symbol: ' KNL1'
 collision_symbol: MCPH4

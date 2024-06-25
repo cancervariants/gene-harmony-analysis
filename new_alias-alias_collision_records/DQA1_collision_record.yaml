@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000237541
-  gene_symbol: HLA-DQA2
 - ensg_id: ENSG00000196735
-  gene_symbol: ' HLA-DQA1'
+  gene_symbol: HLA-DQA1
+- ensg_id: ENSG00000237541
+  gene_symbol: ' HLA-DQA2'
 collision_symbol: DQA1

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000182533
-  gene_symbol: CAV3
 - ensg_id: ENSG00000105974
-  gene_symbol: ' CAV1'
+  gene_symbol: CAV1
+- ensg_id: ENSG00000182533
+  gene_symbol: ' CAV3'
 collision_symbol: VIP21

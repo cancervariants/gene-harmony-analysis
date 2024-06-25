@@ -1,14 +1,14 @@
 collision_group:
-- ensg_id: ENSG00000137818
-  gene_symbol: RPLP1
-- ensg_id: ENSG00000128274
-  gene_symbol: ' A4GALT'
 - ensg_id: ENSG00000169255
-  gene_symbol: ' B3GALNT1'
+  gene_symbol: B3GALNT1
+- ensg_id: ENSG00000137818
+  gene_symbol: ' RPLP1'
 - ensg_id: ENSG00000175646
   gene_symbol: ' PRM1'
 - ensg_id: ENSG00000185664
   gene_symbol: ' PMEL'
+- ensg_id: ENSG00000128274
+  gene_symbol: ' A4GALT'
 - ensg_id: ENSG00000180644
   gene_symbol: ' PRF1'
 collision_symbol: P1

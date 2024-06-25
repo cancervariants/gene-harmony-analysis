@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000106571
-  gene_symbol: GLI3
 - ensg_id: ENSG00000182752
-  gene_symbol: ' PAPPA'
+  gene_symbol: PAPPA
+- ensg_id: ENSG00000106571
+  gene_symbol: ' GLI3'
 collision_symbol: ' PAPA'

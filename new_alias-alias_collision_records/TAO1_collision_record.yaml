@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000149930
-  gene_symbol: TAOK2
 - ensg_id: ENSG00000160551
-  gene_symbol: ' TAOK1'
+  gene_symbol: TAOK1
+- ensg_id: ENSG00000149930
+  gene_symbol: ' TAOK2'
 collision_symbol: TAO1

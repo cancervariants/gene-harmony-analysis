@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000185559
-  gene_symbol: DLK1
 - ensg_id: ENSG00000139625
-  gene_symbol: ' MAP3K12'
+  gene_symbol: MAP3K12
 - ensg_id: ENSG00000167657
   gene_symbol: ' DAPK3'
+- ensg_id: ENSG00000185559
+  gene_symbol: ' DLK1'
 collision_symbol: DLK

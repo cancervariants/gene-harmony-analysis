@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000162430
-  gene_symbol: SELENON
+- ensg_id: ENSG00000143549
+  gene_symbol: TPM3
 - ensg_id: ENSG00000143632
   gene_symbol: ' ACTA1'
-- ensg_id: ENSG00000143549
-  gene_symbol: ' TPM3'
+- ensg_id: ENSG00000162430
+  gene_symbol: ' SELENON'
 collision_symbol: CFTD

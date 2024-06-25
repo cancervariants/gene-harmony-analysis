@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: RANP1
 - ensg_id: ENSG00000132341
-  gene_symbol: ' RAN'
+  gene_symbol: RAN
+- ensg_id: NAN
+  gene_symbol: ' RANP1'
 collision_symbol: TC4

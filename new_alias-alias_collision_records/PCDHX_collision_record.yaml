@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102290
-  gene_symbol: PCDH11X
 - ensg_id: ENSG00000099715
-  gene_symbol: ' PCDH11Y'
+  gene_symbol: PCDH11Y
+- ensg_id: ENSG00000102290
+  gene_symbol: ' PCDH11X'
 collision_symbol: PCDHX

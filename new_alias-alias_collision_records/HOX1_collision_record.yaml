@@ -1,22 +1,22 @@
 collision_group:
-- ensg_id: ENSG00000197576
-  gene_symbol: HOXA4
 - ensg_id: ENSG00000253293
-  gene_symbol: ' HOXA10'
+  gene_symbol: HOXA10
 - ensg_id: ENSG00000105991
   gene_symbol: ' HOXA1'
-- ensg_id: ENSG00000105997
-  gene_symbol: ' HOXA3'
-- ensg_id: ENSG00000005073
-  gene_symbol: ' HOXA11'
-- ensg_id: ENSG00000106031
-  gene_symbol: ' HOXA13'
+- ensg_id: ENSG00000197576
+  gene_symbol: ' HOXA4'
+- ensg_id: ENSG00000106004
+  gene_symbol: ' HOXA5'
 - ensg_id: ENSG00000106006
   gene_symbol: ' HOXA6'
 - ensg_id: ENSG00000122592
   gene_symbol: ' HOXA7'
-- ensg_id: ENSG00000106004
-  gene_symbol: ' HOXA5'
+- ensg_id: ENSG00000005073
+  gene_symbol: ' HOXA11'
+- ensg_id: ENSG00000106031
+  gene_symbol: ' HOXA13'
 - ensg_id: ENSG00000078399
   gene_symbol: ' HOXA9'
+- ensg_id: ENSG00000105997
+  gene_symbol: ' HOXA3'
 collision_symbol: HOX1

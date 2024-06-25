@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000067064
-  gene_symbol: IDI1
 - ensg_id: ENSG00000135447
-  gene_symbol: ' PPP1R1A'
+  gene_symbol: PPP1R1A
+- ensg_id: ENSG00000067064
+  gene_symbol: ' IDI1'
 collision_symbol: IPP1

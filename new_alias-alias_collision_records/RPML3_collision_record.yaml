@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000204316
-  gene_symbol: MRPL38
 - ensg_id: ENSG00000114686
-  gene_symbol: ' MRPL3'
+  gene_symbol: MRPL3
+- ensg_id: ENSG00000204316
+  gene_symbol: ' MRPL38'
 collision_symbol: RPML3

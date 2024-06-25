@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000218283
   gene_symbol: MORF4L1P1
-- ensg_id: ENSG00000164442
-  gene_symbol: ' CITED2'
 - ensg_id: ENSG00000134138
   gene_symbol: ' MEIS2'
+- ensg_id: ENSG00000164442
+  gene_symbol: ' CITED2'
 collision_symbol: MRG1

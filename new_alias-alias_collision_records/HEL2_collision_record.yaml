@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000108953
-  gene_symbol: YWHAE
 - ensg_id: ENSG00000167962
-  gene_symbol: ' ZNF598'
+  gene_symbol: ZNF598
+- ensg_id: ENSG00000108953
+  gene_symbol: ' YWHAE'
 collision_symbol: HEL2

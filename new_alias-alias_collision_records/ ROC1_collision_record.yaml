@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100387
-  gene_symbol: RBX1
 - ensg_id: ENSG00000143622
-  gene_symbol: ' RIT1'
+  gene_symbol: RIT1
+- ensg_id: ENSG00000100387
+  gene_symbol: ' RBX1'
 collision_symbol: ' ROC1'

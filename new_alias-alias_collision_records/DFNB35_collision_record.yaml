@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000119715
-  gene_symbol: ESRRB
 - ensg_id: ENSG00000079335
-  gene_symbol: ' CDC14A'
+  gene_symbol: CDC14A
+- ensg_id: ENSG00000119715
+  gene_symbol: ' ESRRB'
 collision_symbol: DFNB35

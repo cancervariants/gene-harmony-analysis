@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000033011
-  gene_symbol: ALG1
 - ensg_id: ENSG00000162734
-  gene_symbol: ' PEA15'
+  gene_symbol: PEA15
+- ensg_id: ENSG00000033011
+  gene_symbol: ' ALG1'
 collision_symbol: HMAT1

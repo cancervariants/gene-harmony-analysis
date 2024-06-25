@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000136003
-  gene_symbol: ISCU
 - ensg_id: ENSG00000132514
-  gene_symbol: ' CLEC10A'
+  gene_symbol: CLEC10A
+- ensg_id: ENSG00000136003
+  gene_symbol: ' ISCU'
 collision_symbol: HML

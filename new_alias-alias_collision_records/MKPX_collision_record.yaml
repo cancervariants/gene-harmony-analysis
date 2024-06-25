@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000164086
-  gene_symbol: DUSP7
 - ensg_id: ENSG00000112679
-  gene_symbol: ' DUSP22'
+  gene_symbol: DUSP22
+- ensg_id: ENSG00000164086
+  gene_symbol: ' DUSP7'
 collision_symbol: MKPX

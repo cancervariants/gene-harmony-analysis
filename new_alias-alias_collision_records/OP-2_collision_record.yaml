@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000183682
-  gene_symbol: BMP8A
 - ensg_id: ENSG00000116985
-  gene_symbol: ' BMP8B'
+  gene_symbol: BMP8B
+- ensg_id: ENSG00000183682
+  gene_symbol: ' BMP8A'
 collision_symbol: OP-2

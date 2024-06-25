@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: TRK-CTT7-1
+  gene_symbol: LOC101056699
 - ensg_id: NAN
-  gene_symbol: ' LOC101056699'
+  gene_symbol: ' TRK-CTT7-1'
 collision_symbol: TRNAL48

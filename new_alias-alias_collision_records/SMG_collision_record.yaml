@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000020577
-  gene_symbol: SAMD4A
 - ensg_id: ENSG00000143977
-  gene_symbol: ' SNRPG'
+  gene_symbol: SNRPG
+- ensg_id: ENSG00000020577
+  gene_symbol: ' SAMD4A'
 collision_symbol: SMG

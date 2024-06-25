@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000041982
-  gene_symbol: TNC
 - ensg_id: ENSG00000114854
-  gene_symbol: ' TNNC1'
+  gene_symbol: TNNC1
+- ensg_id: ENSG00000041982
+  gene_symbol: ' TNC'
 collision_symbol: TN-C

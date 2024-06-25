@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: ERVW-5
 - ensg_id: ENSG00000091986
-  gene_symbol: ' CCDC80'
+  gene_symbol: CCDC80
+- ensg_id: NAN
+  gene_symbol: ' ERVW-5'
 collision_symbol: CL2

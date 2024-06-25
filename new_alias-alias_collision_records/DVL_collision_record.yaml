@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: DVL1P1
 - ensg_id: ENSG00000107404
-  gene_symbol: ' DVL1'
+  gene_symbol: DVL1
+- ensg_id: NAN
+  gene_symbol: ' DVL1P1'
 collision_symbol: DVL

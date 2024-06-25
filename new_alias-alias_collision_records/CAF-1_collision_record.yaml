@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000167670
-  gene_symbol: CHAF1A
 - ensg_id: ENSG00000159259
-  gene_symbol: ' CHAF1B'
+  gene_symbol: CHAF1B
+- ensg_id: ENSG00000167670
+  gene_symbol: ' CHAF1A'
 collision_symbol: CAF-1

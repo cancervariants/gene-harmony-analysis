@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: RNA28SN4
+  gene_symbol: RNA28SN5
 - ensg_id: NAN
-  gene_symbol: ' RNA28SN5'
+  gene_symbol: ' RNA28SN4'
 collision_symbol: RNA28S5

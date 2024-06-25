@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000130005
-  gene_symbol: GAMT
 - ensg_id: ENSG00000166923
-  gene_symbol: ' GREM1'
+  gene_symbol: GREM1
+- ensg_id: ENSG00000130005
+  gene_symbol: ' GAMT'
 collision_symbol: PIG2

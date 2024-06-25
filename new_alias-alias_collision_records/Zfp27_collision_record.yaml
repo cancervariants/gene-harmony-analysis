@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000245680
-  gene_symbol: ZNF585B
 - ensg_id: ENSG00000196967
-  gene_symbol: ' ZNF585A'
+  gene_symbol: ZNF585A
+- ensg_id: ENSG00000245680
+  gene_symbol: ' ZNF585B'
 collision_symbol: Zfp27

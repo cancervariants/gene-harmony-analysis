@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000181733
-  gene_symbol: OR2Z1
 - ensg_id: ENSG00000188000
-  gene_symbol: ' OR7D2'
+  gene_symbol: OR7D2
+- ensg_id: ENSG00000181733
+  gene_symbol: ' OR2Z1'
 collision_symbol: OR19-4

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000255713
-  gene_symbol: OR4D2
 - ensg_id: ENSG00000180068
-  gene_symbol: ' OR3A4P'
+  gene_symbol: OR3A4P
+- ensg_id: ENSG00000255713
+  gene_symbol: ' OR4D2'
 collision_symbol: OR17-24

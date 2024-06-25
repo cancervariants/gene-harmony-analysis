@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000088888
-  gene_symbol: MAVS
 - ensg_id: ENSG00000168781
-  gene_symbol: ' PPIP5K1'
+  gene_symbol: PPIP5K1
+- ensg_id: ENSG00000088888
+  gene_symbol: ' MAVS'
 collision_symbol: IPS1

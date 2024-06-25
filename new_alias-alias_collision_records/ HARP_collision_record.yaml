@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000284290
-  gene_symbol: ANKS4B
 - ensg_id: ENSG00000125779
-  gene_symbol: ' PANK2'
+  gene_symbol: PANK2
 - ensg_id: ENSG00000136859
   gene_symbol: ' ANGPTL2'
+- ensg_id: ENSG00000175311
+  gene_symbol: ' ANKS4B'
 collision_symbol: ' HARP'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000205359
-  gene_symbol: SLCO6A1
 - ensg_id: ENSG00000197448
-  gene_symbol: ' GSTK1'
+  gene_symbol: GSTK1
+- ensg_id: ENSG00000205359
+  gene_symbol: ' SLCO6A1'
 collision_symbol: GST

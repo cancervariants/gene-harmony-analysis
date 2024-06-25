@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000130283
-  gene_symbol: GDF1
 - ensg_id: ENSG00000223802
-  gene_symbol: ' CERS1'
+  gene_symbol: CERS1
+- ensg_id: ENSG00000130283
+  gene_symbol: ' GDF1'
 collision_symbol: UOG1

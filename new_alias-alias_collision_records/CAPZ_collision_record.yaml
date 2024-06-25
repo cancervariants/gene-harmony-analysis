@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000116489
-  gene_symbol: CAPZA1
 - ensg_id: ENSG00000198898
-  gene_symbol: ' CAPZA2'
+  gene_symbol: CAPZA2
+- ensg_id: ENSG00000116489
+  gene_symbol: ' CAPZA1'
 - ensg_id: ENSG00000077549
   gene_symbol: ' CAPZB'
 collision_symbol: CAPZ

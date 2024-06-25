@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: AMD1P2
 - ensg_id: ENSG00000123505
-  gene_symbol: ' AMD1'
+  gene_symbol: AMD1
+- ensg_id: NAN
+  gene_symbol: ' AMD1P2'
 collision_symbol: AMD

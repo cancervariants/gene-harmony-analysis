@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000140259
-  gene_symbol: MFAP1
 - ensg_id: ENSG00000198931
-  gene_symbol: ' APRT'
+  gene_symbol: APRT
+- ensg_id: ENSG00000140259
+  gene_symbol: ' MFAP1'
 collision_symbol: AMP

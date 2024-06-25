@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100439
-  gene_symbol: ABHD4
 - ensg_id: ENSG00000160993
-  gene_symbol: ' ALKBH4'
+  gene_symbol: ALKBH4
+- ensg_id: ENSG00000100439
+  gene_symbol: ' ABHD4'
 collision_symbol: ABH4

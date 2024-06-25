@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000182718
-  gene_symbol: ANXA2
 - ensg_id: ENSG00000216740
-  gene_symbol: ' ANXA2P3'
+  gene_symbol: ANXA2P3
+- ensg_id: ENSG00000182718
+  gene_symbol: ' ANXA2'
 collision_symbol: LIP2

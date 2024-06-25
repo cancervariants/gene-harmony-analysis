@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000076641
-  gene_symbol: PAG1
 - ensg_id: ENSG00000005339
-  gene_symbol: ' CREBBP'
+  gene_symbol: CREBBP
+- ensg_id: ENSG00000076641
+  gene_symbol: ' PAG1'
 collision_symbol: CBP

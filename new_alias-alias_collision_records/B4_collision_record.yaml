@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000186818
-  gene_symbol: LILRB4
 - ensg_id: ENSG00000177455
-  gene_symbol: ' CD19'
+  gene_symbol: CD19
+- ensg_id: ENSG00000186818
+  gene_symbol: ' LILRB4'
 collision_symbol: B4

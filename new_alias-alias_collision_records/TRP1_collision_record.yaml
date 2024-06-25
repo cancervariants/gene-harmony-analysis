@@ -1,12 +1,12 @@
 collision_group:
-- ensg_id: ENSG00000153201
-  gene_symbol: RANBP2
-- ensg_id: NAN
-  gene_symbol: ' TRP-AGG2-5'
 - ensg_id: ENSG00000144935
-  gene_symbol: ' TRPC1'
+  gene_symbol: TRPC1
 - ensg_id: ENSG00000107165
   gene_symbol: ' TYRP1'
+- ensg_id: ENSG00000153201
+  gene_symbol: ' RANBP2'
 - ensg_id: ENSG00000204983
   gene_symbol: ' PRSS1'
+- ensg_id: NAN
+  gene_symbol: ' TRP-AGG2-5'
 collision_symbol: TRP1

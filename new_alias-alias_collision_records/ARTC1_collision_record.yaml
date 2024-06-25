@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000129744
-  gene_symbol: ART1
 - ensg_id: ENSG00000114439
-  gene_symbol: ' BBX'
+  gene_symbol: BBX
+- ensg_id: ENSG00000129744
+  gene_symbol: ' ART1'
 collision_symbol: ARTC1

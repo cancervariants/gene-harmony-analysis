@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000139112
-  gene_symbol: GABARAPL1
 - ensg_id: ENSG00000034713
-  gene_symbol: ' GABARAPL2'
+  gene_symbol: GABARAPL2
+- ensg_id: ENSG00000139112
+  gene_symbol: ' GABARAPL1'
 collision_symbol: ATG8

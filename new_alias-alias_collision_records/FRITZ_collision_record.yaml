@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000143951
-  gene_symbol: WDPCP
 - ensg_id: ENSG00000162998
-  gene_symbol: ' FRZB'
+  gene_symbol: FRZB
+- ensg_id: ENSG00000143951
+  gene_symbol: ' WDPCP'
 collision_symbol: FRITZ

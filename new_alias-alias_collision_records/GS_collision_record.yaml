@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000134982
-  gene_symbol: APC
 - ensg_id: ENSG00000135821
-  gene_symbol: ' GLUL'
+  gene_symbol: GLUL
+- ensg_id: ENSG00000134982
+  gene_symbol: ' APC'
 collision_symbol: GS

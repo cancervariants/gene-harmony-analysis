@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000106052
-  gene_symbol: TAX1BP1
 - ensg_id: ENSG00000145365
-  gene_symbol: ' TIFA'
+  gene_symbol: TIFA
+- ensg_id: ENSG00000106052
+  gene_symbol: ' TAX1BP1'
 collision_symbol: T6BP

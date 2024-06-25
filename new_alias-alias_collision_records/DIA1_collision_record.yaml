@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000181744
-  gene_symbol: DIPK2A
 - ensg_id: ENSG00000100243
-  gene_symbol: ' CYB5R3'
+  gene_symbol: CYB5R3
 - ensg_id: ENSG00000131504
   gene_symbol: ' DIAPH1'
+- ensg_id: ENSG00000181744
+  gene_symbol: ' DIPK2A'
 collision_symbol: DIA1

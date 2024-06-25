@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: RNANC
 - ensg_id: ENSG00000179774
-  gene_symbol: ' ATOH7'
+  gene_symbol: ATOH7
+- ensg_id: NAN
+  gene_symbol: ' RNANC'
 collision_symbol: NCRNA

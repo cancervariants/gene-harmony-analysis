@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000164398
-  gene_symbol: ACSL6
 - ensg_id: ENSG00000151726
-  gene_symbol: ' ACSL1'
+  gene_symbol: ACSL1
+- ensg_id: ENSG00000164398
+  gene_symbol: ' ACSL6'
 collision_symbol: LACS2

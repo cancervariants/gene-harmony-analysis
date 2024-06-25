@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000215256
-  gene_symbol: DHRS4-AS1
 - ensg_id: ENSG00000176473
-  gene_symbol: ' WDR25'
+  gene_symbol: WDR25
+- ensg_id: ENSG00000215256
+  gene_symbol: ' DHRS4-AS1'
 collision_symbol: C14orf67

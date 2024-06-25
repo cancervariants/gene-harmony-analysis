@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000204536
-  gene_symbol: CCHCR1
 - ensg_id: ENSG00000129214
-  gene_symbol: ' SHBG'
+  gene_symbol: SHBG
+- ensg_id: ENSG00000204536
+  gene_symbol: ' CCHCR1'
 collision_symbol: SBP

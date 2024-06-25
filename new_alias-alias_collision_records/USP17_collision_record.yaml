@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000223443
-  gene_symbol: USP17L2
 - ensg_id: ENSG00000251694
-  gene_symbol: ' USP17L9P'
+  gene_symbol: USP17L9P
+- ensg_id: ENSG00000223443
+  gene_symbol: ' USP17L2'
 collision_symbol: USP17

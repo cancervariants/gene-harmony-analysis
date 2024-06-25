@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000118972
-  gene_symbol: FGF23
 - ensg_id: ENSG00000099341
-  gene_symbol: ' PSMD8'
+  gene_symbol: PSMD8
+- ensg_id: ENSG00000118972
+  gene_symbol: ' FGF23'
 collision_symbol: HYPF

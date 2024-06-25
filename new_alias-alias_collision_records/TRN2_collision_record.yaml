@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000105576
-  gene_symbol: TNPO2
 - ensg_id: NAN
-  gene_symbol: ' TRN-GTT4-1'
+  gene_symbol: TRN-GTT4-1
+- ensg_id: ENSG00000105576
+  gene_symbol: ' TNPO2'
 collision_symbol: TRN2

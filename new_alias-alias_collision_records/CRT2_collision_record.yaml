@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000269058
-  gene_symbol: CALR3
 - ensg_id: ENSG00000152779
-  gene_symbol: ' SLC16A12'
+  gene_symbol: SLC16A12
+- ensg_id: ENSG00000269058
+  gene_symbol: ' CALR3'
 collision_symbol: CRT2

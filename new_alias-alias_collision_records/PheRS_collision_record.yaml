@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000116120
-  gene_symbol: FARSB
 - ensg_id: ENSG00000145982
-  gene_symbol: ' FARS2'
+  gene_symbol: FARS2
+- ensg_id: ENSG00000116120
+  gene_symbol: ' FARSB'
 collision_symbol: PheRS

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000228783
-  gene_symbol: H3P29
 - ensg_id: ENSG00000100030
-  gene_symbol: ' MAPK1'
+  gene_symbol: MAPK1
+- ensg_id: ENSG00000228783
+  gene_symbol: ' H3P29'
 collision_symbol: p41

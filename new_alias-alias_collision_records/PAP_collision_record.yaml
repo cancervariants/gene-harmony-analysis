@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000090060
-  gene_symbol: PAPOLA
 - ensg_id: ENSG00000112996
-  gene_symbol: ' MRPS30'
+  gene_symbol: MRPS30
+- ensg_id: ENSG00000090060
+  gene_symbol: ' PAPOLA'
 collision_symbol: PAP

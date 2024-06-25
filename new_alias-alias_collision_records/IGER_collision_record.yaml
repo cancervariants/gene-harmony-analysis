@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000149534
-  gene_symbol: MS4A2
 - ensg_id: ENSG00000136147
-  gene_symbol: ' PHF11'
+  gene_symbol: PHF11
+- ensg_id: ENSG00000149534
+  gene_symbol: ' MS4A2'
 collision_symbol: IGER

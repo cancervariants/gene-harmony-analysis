@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000089127
-  gene_symbol: OAS1
 - ensg_id: ENSG00000160710
-  gene_symbol: ' ADAR'
+  gene_symbol: ADAR
+- ensg_id: ENSG00000089127
+  gene_symbol: ' OAS1'
 collision_symbol: IFI-4

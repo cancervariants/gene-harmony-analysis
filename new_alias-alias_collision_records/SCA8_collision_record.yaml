@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: ATXN8OS
 - ensg_id: ENSG00000107815
-  gene_symbol: ' TWNK'
+  gene_symbol: TWNK
+- ensg_id: NAN
+  gene_symbol: ' ATXN8OS'
 collision_symbol: SCA8

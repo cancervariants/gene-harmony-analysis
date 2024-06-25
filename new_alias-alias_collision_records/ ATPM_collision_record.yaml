@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000154723
-  gene_symbol: ATP5PF
 - ensg_id: ENSG00000152234
-  gene_symbol: ' ATP5F1A'
+  gene_symbol: ATP5F1A
+- ensg_id: ENSG00000154723
+  gene_symbol: ' ATP5PF'
 collision_symbol: ' ATPM'

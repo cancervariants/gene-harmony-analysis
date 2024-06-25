@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000124429
+  gene_symbol: POF1B
 - ensg_id: ENSG00000147202
-  gene_symbol: DIAPH2
+  gene_symbol: ' DIAPH2'
 - ensg_id: ENSG00000102081
   gene_symbol: ' FMR1'
-- ensg_id: ENSG00000124429
-  gene_symbol: ' POF1B'
 collision_symbol: ' POF'

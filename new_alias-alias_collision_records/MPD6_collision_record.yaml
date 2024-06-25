@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000077522
-  gene_symbol: ACTN2
 - ensg_id: NAN
-  gene_symbol: ' LUZP6'
+  gene_symbol: LUZP6
+- ensg_id: ENSG00000077522
+  gene_symbol: ' ACTN2'
 collision_symbol: MPD6

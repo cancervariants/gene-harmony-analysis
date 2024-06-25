@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000103197
-  gene_symbol: TSC2
 - ensg_id: ENSG00000165699
-  gene_symbol: ' TSC1'
+  gene_symbol: TSC1
+- ensg_id: ENSG00000103197
+  gene_symbol: ' TSC2'
 collision_symbol: LAM

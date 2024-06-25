@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000171608
-  gene_symbol: PIK3CD
 - ensg_id: ENSG00000128944
-  gene_symbol: ' KNSTRN'
+  gene_symbol: KNSTRN
+- ensg_id: ENSG00000171608
+  gene_symbol: ' PIK3CD'
 collision_symbol: ROCHIS

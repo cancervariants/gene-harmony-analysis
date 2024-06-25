@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000080503
-  gene_symbol: SMARCA2
 - ensg_id: ENSG00000151929
-  gene_symbol: ' BAG3'
+  gene_symbol: BAG3
+- ensg_id: ENSG00000080503
+  gene_symbol: ' SMARCA2'
 collision_symbol: BIS

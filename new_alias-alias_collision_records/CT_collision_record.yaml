@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000161217
-  gene_symbol: PCYT1A
 - ensg_id: ENSG00000110680
-  gene_symbol: ' CALCA'
+  gene_symbol: CALCA
+- ensg_id: ENSG00000161217
+  gene_symbol: ' PCYT1A'
 collision_symbol: CT

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000100380
-  gene_symbol: ST13
 - ensg_id: NAN
-  gene_symbol: ' ST13P4'
+  gene_symbol: ST13P4
+- ensg_id: ENSG00000100380
+  gene_symbol: ' ST13'
 collision_symbol: FAM10A4

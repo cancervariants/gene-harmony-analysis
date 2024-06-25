@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000074842
-  gene_symbol: MYDGF
 - ensg_id: ENSG00000172458
-  gene_symbol: ' IL17D'
+  gene_symbol: IL17D
+- ensg_id: ENSG00000074842
+  gene_symbol: ' MYDGF'
 collision_symbol: ' IL-27'

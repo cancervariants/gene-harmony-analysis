@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000175279
-  gene_symbol: CENPS
 - ensg_id: ENSG00000251503
-  gene_symbol: ' CENPS-CORT'
+  gene_symbol: CENPS-CORT
+- ensg_id: ENSG00000175279
+  gene_symbol: ' CENPS'
 collision_symbol: CENP-S

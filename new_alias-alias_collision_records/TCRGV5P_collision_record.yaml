@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000226212
-  gene_symbol: TRGV6
 - ensg_id: ENSG00000228668
-  gene_symbol: ' TRGV5P'
+  gene_symbol: TRGV5P
+- ensg_id: ENSG00000226212
+  gene_symbol: ' TRGV6'
 collision_symbol: TCRGV5P

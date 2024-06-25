@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000181092
-  gene_symbol: ADIPOQ
 - ensg_id: ENSG00000100344
-  gene_symbol: ' PNPLA3'
+  gene_symbol: PNPLA3
+- ensg_id: ENSG00000181092
+  gene_symbol: ' ADIPOQ'
 collision_symbol: ADPN

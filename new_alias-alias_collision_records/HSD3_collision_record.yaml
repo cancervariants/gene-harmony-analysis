@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000167733
-  gene_symbol: HSD11B1L
 - ensg_id: ENSG00000042317
-  gene_symbol: ' SPATA7'
+  gene_symbol: SPATA7
+- ensg_id: ENSG00000167733
+  gene_symbol: ' HSD11B1L'
 collision_symbol: HSD3

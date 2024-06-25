@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000114573
-  gene_symbol: ATP6V1A
 - ensg_id: ENSG00000105929
-  gene_symbol: ' ATP6V0A4'
+  gene_symbol: ATP6V0A4
+- ensg_id: ENSG00000114573
+  gene_symbol: ' ATP6V1A'
 collision_symbol: VPP2

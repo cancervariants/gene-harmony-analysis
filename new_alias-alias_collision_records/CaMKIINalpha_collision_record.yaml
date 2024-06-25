@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000070808
-  gene_symbol: CAMK2A
 - ensg_id: ENSG00000162545
-  gene_symbol: ' CAMK2N1'
+  gene_symbol: CAMK2N1
+- ensg_id: ENSG00000070808
+  gene_symbol: ' CAMK2A'
 collision_symbol: CaMKIINalpha

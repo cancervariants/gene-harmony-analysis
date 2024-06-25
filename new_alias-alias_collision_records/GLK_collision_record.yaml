@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000011566
-  gene_symbol: MAP4K3
 - ensg_id: ENSG00000106633
-  gene_symbol: ' GCK'
+  gene_symbol: GCK
+- ensg_id: ENSG00000011566
+  gene_symbol: ' MAP4K3'
 collision_symbol: GLK

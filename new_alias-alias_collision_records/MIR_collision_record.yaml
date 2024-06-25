@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000007944
-  gene_symbol: MYLIP
 - ensg_id: ENSG00000175727
-  gene_symbol: ' MLXIP'
+  gene_symbol: MLXIP
+- ensg_id: ENSG00000007944
+  gene_symbol: ' MYLIP'
 collision_symbol: MIR

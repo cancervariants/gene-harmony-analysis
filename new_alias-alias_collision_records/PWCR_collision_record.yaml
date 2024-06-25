@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000128739
-  gene_symbol: SNRPN
 - ensg_id: ENSG00000182636
-  gene_symbol: ' NDN'
+  gene_symbol: NDN
+- ensg_id: ENSG00000128739
+  gene_symbol: ' SNRPN'
 collision_symbol: PWCR

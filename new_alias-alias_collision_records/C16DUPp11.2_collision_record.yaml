@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: DUP16P11.2
+  gene_symbol: DEL16P11.2
 - ensg_id: NAN
-  gene_symbol: ' DEL16P11.2'
+  gene_symbol: ' DUP16P11.2'
 collision_symbol: C16DUPp11.2

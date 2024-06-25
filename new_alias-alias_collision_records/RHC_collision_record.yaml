@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000188672
-  gene_symbol: RHCE
 - ensg_id: NAN
-  gene_symbol: ' HCL2'
+  gene_symbol: HCL2
+- ensg_id: ENSG00000188672
+  gene_symbol: ' RHCE'
 collision_symbol: RHC

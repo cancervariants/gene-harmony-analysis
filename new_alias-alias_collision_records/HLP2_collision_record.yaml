@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000215301
-  gene_symbol: DDX3X
 - ensg_id: ENSG00000115756
-  gene_symbol: ' HPCAL1'
+  gene_symbol: HPCAL1
+- ensg_id: ENSG00000215301
+  gene_symbol: ' DDX3X'
 collision_symbol: HLP2

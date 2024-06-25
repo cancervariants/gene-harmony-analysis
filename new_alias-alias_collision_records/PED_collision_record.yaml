@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000104044
+  gene_symbol: OCA2
 - ensg_id: ENSG00000162734
-  gene_symbol: PEA15
+  gene_symbol: ' PEA15'
 - ensg_id: ENSG00000117394
   gene_symbol: ' SLC2A1'
-- ensg_id: ENSG00000104044
-  gene_symbol: ' OCA2'
 collision_symbol: PED

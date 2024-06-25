@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000171723
-  gene_symbol: GPHN
 - ensg_id: ENSG00000145888
-  gene_symbol: ' GLRA1'
+  gene_symbol: GLRA1
+- ensg_id: ENSG00000171723
+  gene_symbol: ' GPHN'
 collision_symbol: HKPX1

@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000172382
-  gene_symbol: PRSS27
 - ensg_id: ENSG00000025770
-  gene_symbol: ' NCAPH2'
+  gene_symbol: NCAPH2
+- ensg_id: ENSG00000172382
+  gene_symbol: ' PRSS27'
 - ensg_id: ENSG00000137648
   gene_symbol: ' TMPRSS4'
 collision_symbol: CAPH2

@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: RNA18SN5
+  gene_symbol: RNA18SN4
+- ensg_id: NAN
+  gene_symbol: ' RNA18SN5'
 - ensg_id: NAN
   gene_symbol: ' RNA18S5'
-- ensg_id: NAN
-  gene_symbol: ' RNA18SN4'
 collision_symbol: RN18S1

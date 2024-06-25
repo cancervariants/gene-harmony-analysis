@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000188994
-  gene_symbol: ZNF292
 - ensg_id: ENSG00000038382
-  gene_symbol: ' TRIO'
+  gene_symbol: TRIO
+- ensg_id: ENSG00000188994
+  gene_symbol: ' ZNF292'
 collision_symbol: MRD63

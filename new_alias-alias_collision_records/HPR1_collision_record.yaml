@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000079134
-  gene_symbol: THOC1
 - ensg_id: ENSG00000173083
-  gene_symbol: ' HPSE'
+  gene_symbol: HPSE
+- ensg_id: ENSG00000079134
+  gene_symbol: ' THOC1'
 collision_symbol: HPR1

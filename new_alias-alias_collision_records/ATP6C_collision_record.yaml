@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000155097
-  gene_symbol: ATP6V1C1
 - ensg_id: ENSG00000185883
-  gene_symbol: ' ATP6V0C'
+  gene_symbol: ATP6V0C
+- ensg_id: ENSG00000155097
+  gene_symbol: ' ATP6V1C1'
 collision_symbol: ATP6C

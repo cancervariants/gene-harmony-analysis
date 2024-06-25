@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000113263
-  gene_symbol: ITK
 - ensg_id: ENSG00000102010
-  gene_symbol: ' BMX'
+  gene_symbol: BMX
+- ensg_id: ENSG00000113263
+  gene_symbol: ' ITK'
 collision_symbol: PSCTK2

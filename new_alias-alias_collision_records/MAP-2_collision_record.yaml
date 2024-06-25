@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000009724
-  gene_symbol: MASP2
 - ensg_id: ENSG00000078018
-  gene_symbol: ' MAP2'
+  gene_symbol: MAP2
+- ensg_id: ENSG00000009724
+  gene_symbol: ' MASP2'
 collision_symbol: MAP-2

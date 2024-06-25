@@ -1,10 +1,10 @@
 collision_group:
-- ensg_id: ENSG00000117395
-  gene_symbol: EBNA1BP2
-- ensg_id: ENSG00000116584
-  gene_symbol: ' ARHGEF2'
 - ensg_id: ENSG00000145839
-  gene_symbol: ' IL9'
+  gene_symbol: IL9
 - ensg_id: ENSG00000103035
   gene_symbol: ' PSMD7'
+- ensg_id: ENSG00000116584
+  gene_symbol: ' ARHGEF2'
+- ensg_id: ENSG00000117395
+  gene_symbol: ' EBNA1BP2'
 collision_symbol: P40

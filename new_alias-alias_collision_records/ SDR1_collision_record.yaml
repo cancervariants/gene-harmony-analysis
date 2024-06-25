@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000156642
-  gene_symbol: NPTN
 - ensg_id: ENSG00000162496
-  gene_symbol: ' DHRS3'
+  gene_symbol: DHRS3
+- ensg_id: ENSG00000156642
+  gene_symbol: ' NPTN'
 collision_symbol: ' SDR1'

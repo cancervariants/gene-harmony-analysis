@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000272333
-  gene_symbol: KMT2B
 - ensg_id: ENSG00000100348
-  gene_symbol: ' TXN2'
+  gene_symbol: TXN2
+- ensg_id: ENSG00000272333
+  gene_symbol: ' KMT2B'
 collision_symbol: TRX2

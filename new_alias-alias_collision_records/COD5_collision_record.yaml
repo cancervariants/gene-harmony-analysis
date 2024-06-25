@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102076
-  gene_symbol: OPN1LW
 - ensg_id: ENSG00000268221
-  gene_symbol: ' OPN1MW'
+  gene_symbol: OPN1MW
+- ensg_id: ENSG00000102076
+  gene_symbol: ' OPN1LW'
 collision_symbol: COD5

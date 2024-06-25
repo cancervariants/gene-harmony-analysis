@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000122584
-  gene_symbol: NXPH1
 - ensg_id: ENSG00000144061
-  gene_symbol: ' NPHP1'
+  gene_symbol: NPHP1
+- ensg_id: ENSG00000122584
+  gene_symbol: ' NXPH1'
 collision_symbol: NPH1

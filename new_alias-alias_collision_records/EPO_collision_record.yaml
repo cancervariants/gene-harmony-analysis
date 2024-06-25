@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102265
-  gene_symbol: TIMP1
 - ensg_id: ENSG00000121053
-  gene_symbol: ' EPX'
+  gene_symbol: EPX
+- ensg_id: ENSG00000102265
+  gene_symbol: ' TIMP1'
 collision_symbol: EPO

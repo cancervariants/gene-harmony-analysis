@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000004939
-  gene_symbol: SLC4A1
 - ensg_id: ENSG00000123191
-  gene_symbol: ' ATP7B'
+  gene_symbol: ATP7B
+- ensg_id: ENSG00000004939
+  gene_symbol: ' SLC4A1'
 collision_symbol: WD

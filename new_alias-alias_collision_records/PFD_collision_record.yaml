@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000197766
-  gene_symbol: CFD
 - ensg_id: ENSG00000126759
-  gene_symbol: ' CFP'
+  gene_symbol: CFP
+- ensg_id: ENSG00000197766
+  gene_symbol: ' CFD'
 collision_symbol: PFD

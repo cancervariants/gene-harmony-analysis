@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000271425
-  gene_symbol: NBPF10
 - ensg_id: ENSG00000117862
-  gene_symbol: ' TXNDC12'
+  gene_symbol: TXNDC12
+- ensg_id: ENSG00000271425
+  gene_symbol: ' NBPF10'
 collision_symbol: AG1

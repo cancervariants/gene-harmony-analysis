@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000114978
-  gene_symbol: MOB1A
 - ensg_id: ENSG00000115540
-  gene_symbol: ' MOB4'
+  gene_symbol: MOB4
+- ensg_id: ENSG00000114978
+  gene_symbol: ' MOB1A'
 - ensg_id: ENSG00000198964
   gene_symbol: ' SGMS1'
 collision_symbol: MOB1

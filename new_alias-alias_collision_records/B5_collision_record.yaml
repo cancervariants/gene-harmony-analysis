@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000149100
-  gene_symbol: EIF3M
 - ensg_id: ENSG00000179600
-  gene_symbol: ' GPHB5'
+  gene_symbol: GPHB5
+- ensg_id: ENSG00000149100
+  gene_symbol: ' EIF3M'
 collision_symbol: B5

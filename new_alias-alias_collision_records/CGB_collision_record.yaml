@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000189052
-  gene_symbol: CGB5
 - ensg_id: ENSG00000104827
-  gene_symbol: ' CGB3'
+  gene_symbol: CGB3
+- ensg_id: ENSG00000189052
+  gene_symbol: ' CGB5'
 collision_symbol: CGB

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000095002
-  gene_symbol: MSH2
 - ensg_id: ENSG00000076242
-  gene_symbol: ' MLH1'
+  gene_symbol: MLH1
+- ensg_id: ENSG00000095002
+  gene_symbol: ' MSH2'
 collision_symbol: ' HNPCC'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000126217
-  gene_symbol: MCF2L
 - ensg_id: ENSG00000244038
-  gene_symbol: ' DDOST'
+  gene_symbol: DDOST
+- ensg_id: ENSG00000126217
+  gene_symbol: ' MCF2L'
 collision_symbol: OST

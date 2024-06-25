@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: SNORD139
 - ensg_id: ENSG00000212498
-  gene_symbol: ' SNORD86'
+  gene_symbol: SNORD86
+- ensg_id: NAN
+  gene_symbol: ' SNORD139'
 collision_symbol: U86

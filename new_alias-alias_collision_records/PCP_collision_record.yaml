@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000137509
-  gene_symbol: PRCP
 - ensg_id: ENSG00000168487
-  gene_symbol: ' BMP1'
+  gene_symbol: BMP1
+- ensg_id: ENSG00000137509
+  gene_symbol: ' PRCP'
 collision_symbol: PCP

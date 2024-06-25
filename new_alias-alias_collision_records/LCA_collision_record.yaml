@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000122705
-  gene_symbol: CLTA
 - ensg_id: ENSG00000132518
-  gene_symbol: ' GUCY2D'
+  gene_symbol: GUCY2D
 - ensg_id: ENSG00000081237
   gene_symbol: ' PTPRC'
+- ensg_id: ENSG00000122705
+  gene_symbol: ' CLTA'
 collision_symbol: LCA

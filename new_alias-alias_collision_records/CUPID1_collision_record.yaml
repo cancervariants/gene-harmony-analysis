@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: LINC01488
+  gene_symbol: LINC02747
 - ensg_id: NAN
-  gene_symbol: ' LINC02747'
+  gene_symbol: ' LINC01488'
 collision_symbol: CUPID1

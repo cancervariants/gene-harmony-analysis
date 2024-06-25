@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000189090
-  gene_symbol: FAM25G
 - ensg_id: NAN
-  gene_symbol: ' FAM25BP'
+  gene_symbol: FAM25BP
+- ensg_id: ENSG00000189090
+  gene_symbol: ' FAM25G'
 collision_symbol: FAM25A

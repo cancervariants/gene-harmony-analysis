@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000205649
-  gene_symbol: HTN3
 - ensg_id: ENSG00000167642
-  gene_symbol: ' SPINT2'
+  gene_symbol: SPINT2
+- ensg_id: ENSG00000205649
+  gene_symbol: ' HTN3'
 collision_symbol: PB

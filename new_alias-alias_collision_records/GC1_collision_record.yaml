@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102837
-  gene_symbol: OLFM4
 - ensg_id: ENSG00000291237
-  gene_symbol: ' SOD2'
+  gene_symbol: SOD2
+- ensg_id: ENSG00000102837
+  gene_symbol: ' OLFM4'
 collision_symbol: GC1

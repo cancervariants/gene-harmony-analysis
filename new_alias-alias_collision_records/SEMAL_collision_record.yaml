@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000138623
-  gene_symbol: SEMA7A
 - ensg_id: ENSG00000075213
-  gene_symbol: ' SEMA3A'
+  gene_symbol: SEMA3A
+- ensg_id: ENSG00000138623
+  gene_symbol: ' SEMA7A'
 collision_symbol: SEMAL

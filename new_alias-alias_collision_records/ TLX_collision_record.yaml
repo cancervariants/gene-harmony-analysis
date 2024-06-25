@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000112333
-  gene_symbol: NR2E1
 - ensg_id: ENSG00000117335
-  gene_symbol: ' CD46'
+  gene_symbol: CD46
+- ensg_id: ENSG00000112333
+  gene_symbol: ' NR2E1'
 collision_symbol: ' TLX'

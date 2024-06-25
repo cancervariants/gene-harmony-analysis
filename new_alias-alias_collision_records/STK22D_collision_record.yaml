@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000162526
-  gene_symbol: TSSK3
 - ensg_id: ENSG00000212122
-  gene_symbol: ' TSSK1B'
+  gene_symbol: TSSK1B
+- ensg_id: ENSG00000162526
+  gene_symbol: ' TSSK3'
 collision_symbol: STK22D

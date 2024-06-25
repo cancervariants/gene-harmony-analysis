@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000140374
-  gene_symbol: ETFA
 - ensg_id: ENSG00000105379
-  gene_symbol: ' ETFB'
+  gene_symbol: ETFB
 - ensg_id: ENSG00000171503
   gene_symbol: ' ETFDH'
+- ensg_id: ENSG00000140374
+  gene_symbol: ' ETFA'
 collision_symbol: MADD

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000173531
-  gene_symbol: MST1
 - ensg_id: ENSG00000164062
-  gene_symbol: ' APEH'
+  gene_symbol: APEH
+- ensg_id: ENSG00000173531
+  gene_symbol: ' MST1'
 collision_symbol: DNF15S2

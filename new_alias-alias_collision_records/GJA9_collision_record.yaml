@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000159248
-  gene_symbol: GJD2
 - ensg_id: NAN
-  gene_symbol: ' GJA9-MYCBP'
+  gene_symbol: GJA9-MYCBP
+- ensg_id: ENSG00000159248
+  gene_symbol: ' GJD2'
 collision_symbol: GJA9

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000080819
-  gene_symbol: CPOX
 - ensg_id: ENSG00000147155
-  gene_symbol: ' EBP'
+  gene_symbol: EBP
+- ensg_id: ENSG00000080819
+  gene_symbol: ' CPOX'
 collision_symbol: CPX

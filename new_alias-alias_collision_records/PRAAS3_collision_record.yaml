@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000159377
-  gene_symbol: PSMB4
 - ensg_id: ENSG00000240065
-  gene_symbol: ' PSMB9'
+  gene_symbol: PSMB9
+- ensg_id: ENSG00000159377
+  gene_symbol: ' PSMB4'
 collision_symbol: PRAAS3

@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000110801
-  gene_symbol: PSMD9
 - ensg_id: ENSG00000173465
-  gene_symbol: ' ZNRD2'
+  gene_symbol: ZNRD2
 - ensg_id: ENSG00000250705
   gene_symbol: ' H3P23'
+- ensg_id: ENSG00000110801
+  gene_symbol: ' PSMD9'
 collision_symbol: p27

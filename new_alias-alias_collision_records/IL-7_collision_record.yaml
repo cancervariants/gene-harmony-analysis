@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: LINC02605
 - ensg_id: ENSG00000104432
-  gene_symbol: ' IL7'
+  gene_symbol: IL7
+- ensg_id: NAN
+  gene_symbol: ' LINC02605'
 collision_symbol: IL-7

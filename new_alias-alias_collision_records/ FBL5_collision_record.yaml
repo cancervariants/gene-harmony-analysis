@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000112234
-  gene_symbol: FBXL4
 - ensg_id: ENSG00000118564
-  gene_symbol: ' FBXL5'
+  gene_symbol: FBXL5
+- ensg_id: ENSG00000112234
+  gene_symbol: ' FBXL4'
 collision_symbol: ' FBL5'

@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000131408
+  gene_symbol: NR1H2
 - ensg_id: ENSG00000009307
-  gene_symbol: CSDE1
+  gene_symbol: ' CSDE1'
 - ensg_id: ENSG00000186912
   gene_symbol: ' P2RY4'
-- ensg_id: ENSG00000131408
-  gene_symbol: ' NR1H2'
 collision_symbol: ' UNR'

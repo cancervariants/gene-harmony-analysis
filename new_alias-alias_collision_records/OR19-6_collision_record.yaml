@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000170929
-  gene_symbol: OR1M1
 - ensg_id: ENSG00000170923
-  gene_symbol: ' OR7G2'
+  gene_symbol: OR7G2
+- ensg_id: ENSG00000170929
+  gene_symbol: ' OR1M1'
 collision_symbol: OR19-6

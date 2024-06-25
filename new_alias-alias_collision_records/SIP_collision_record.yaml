@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000239306
-  gene_symbol: RBM14
 - ensg_id: ENSG00000116161
-  gene_symbol: ' CACYBP'
+  gene_symbol: CACYBP
+- ensg_id: ENSG00000239306
+  gene_symbol: ' RBM14'
 - ensg_id: ENSG00000163467
   gene_symbol: ' TSACC'
 - ensg_id: ENSG00000164938

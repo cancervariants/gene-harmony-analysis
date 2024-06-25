@@ -1,6 +1,6 @@
 collision_group:
 - ensg_id: NAN
-  gene_symbol: PTGES3P1
+  gene_symbol: PTGES3P3
 - ensg_id: NAN
-  gene_symbol: ' PTGES3P3'
+  gene_symbol: ' PTGES3P1'
 collision_symbol: PTGES3P

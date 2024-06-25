@@ -1,8 +1,8 @@
 collision_group:
+- ensg_id: ENSG00000026103
+  gene_symbol: FAS
 - ensg_id: ENSG00000168394
-  gene_symbol: TAP1
+  gene_symbol: ' TAP1'
 - ensg_id: ENSG00000120992
   gene_symbol: ' LYPLA1'
-- ensg_id: ENSG00000026103
-  gene_symbol: ' FAS'
 collision_symbol: APT1

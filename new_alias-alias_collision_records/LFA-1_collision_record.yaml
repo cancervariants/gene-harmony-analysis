@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000160255
-  gene_symbol: ITGB2
 - ensg_id: ENSG00000005844
-  gene_symbol: ' ITGAL'
+  gene_symbol: ITGAL
+- ensg_id: ENSG00000160255
+  gene_symbol: ' ITGB2'
 collision_symbol: LFA-1

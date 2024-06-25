@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000153048
-  gene_symbol: CARHSP1
 - ensg_id: ENSG00000131149
-  gene_symbol: ' GSE1'
+  gene_symbol: GSE1
+- ensg_id: ENSG00000153048
+  gene_symbol: ' CARHSP1'
 collision_symbol: CRHSP24

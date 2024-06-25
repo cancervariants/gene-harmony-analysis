@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000110536
-  gene_symbol: PTPMT1
 - ensg_id: ENSG00000172977
-  gene_symbol: ' KAT5'
+  gene_symbol: KAT5
+- ensg_id: ENSG00000285206
+  gene_symbol: ' PTPMT1'
 collision_symbol: ' PLIP'

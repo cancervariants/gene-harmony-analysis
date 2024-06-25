@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000204248
-  gene_symbol: COL11A2
 - ensg_id: ENSG00000143799
-  gene_symbol: ' PARP1'
+  gene_symbol: PARP1
+- ensg_id: ENSG00000204248
+  gene_symbol: ' COL11A2'
 collision_symbol: PARP

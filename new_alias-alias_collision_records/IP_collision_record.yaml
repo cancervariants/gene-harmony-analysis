@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000130770
-  gene_symbol: ATP5IF1
 - ensg_id: ENSG00000160013
-  gene_symbol: ' PTGIR'
+  gene_symbol: PTGIR
+- ensg_id: ENSG00000130770
+  gene_symbol: ' ATP5IF1'
 collision_symbol: IP

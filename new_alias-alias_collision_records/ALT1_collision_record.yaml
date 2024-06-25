@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000167701
-  gene_symbol: GPT
 - ensg_id: ENSG00000231607
-  gene_symbol: ' DLEU2'
+  gene_symbol: DLEU2
+- ensg_id: ENSG00000167701
+  gene_symbol: ' GPT'
 collision_symbol: ALT1

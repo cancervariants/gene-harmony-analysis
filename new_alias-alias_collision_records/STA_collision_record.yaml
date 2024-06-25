@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000102119
-  gene_symbol: EMD
 - ensg_id: NAN
-  gene_symbol: ' GCY'
+  gene_symbol: GCY
+- ensg_id: ENSG00000102119
+  gene_symbol: ' EMD'
 collision_symbol: STA

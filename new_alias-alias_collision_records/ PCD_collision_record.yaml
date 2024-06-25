@@ -1,10 +1,10 @@
 collision_group:
-- ensg_id: ENSG00000122735
-  gene_symbol: DNAI1
-- ensg_id: ENSG00000166228
-  gene_symbol: ' PCBD1'
 - ensg_id: ENSG00000167646
-  gene_symbol: ' DNAAF3'
+  gene_symbol: DNAAF3
+- ensg_id: ENSG00000122735
+  gene_symbol: ' DNAI1'
 - ensg_id: ENSG00000039139
   gene_symbol: ' DNAH5'
+- ensg_id: ENSG00000166228
+  gene_symbol: ' PCBD1'
 collision_symbol: ' PCD'

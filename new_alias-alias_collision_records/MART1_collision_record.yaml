@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000120215
-  gene_symbol: MLANA
 - ensg_id: ENSG00000254656
-  gene_symbol: ' RTL1'
+  gene_symbol: RTL1
+- ensg_id: ENSG00000120215
+  gene_symbol: ' MLANA'
 collision_symbol: MART1

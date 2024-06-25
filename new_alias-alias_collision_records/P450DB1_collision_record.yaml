@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: CYP2D7
 - ensg_id: ENSG00000100197
-  gene_symbol: ' CYP2D6'
+  gene_symbol: CYP2D6
+- ensg_id: NAN
+  gene_symbol: ' CYP2D7'
 collision_symbol: P450DB1

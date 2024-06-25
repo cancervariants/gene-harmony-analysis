@@ -1,8 +1,8 @@
 collision_group:
 - ensg_id: ENSG00000244395
   gene_symbol: RBMY1D
-- ensg_id: ENSG00000234414
-  gene_symbol: ' RBMY1A1'
 - ensg_id: ENSG00000169800
   gene_symbol: ' RBMY1F'
+- ensg_id: ENSG00000234414
+  gene_symbol: ' RBMY1A1'
 collision_symbol: YRRM2

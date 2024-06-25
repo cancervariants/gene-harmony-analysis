@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000137574
-  gene_symbol: TGS1
 - ensg_id: ENSG00000120265
-  gene_symbol: ' PCMT1'
+  gene_symbol: PCMT1
+- ensg_id: ENSG00000137574
+  gene_symbol: ' TGS1'
 collision_symbol: PIMT

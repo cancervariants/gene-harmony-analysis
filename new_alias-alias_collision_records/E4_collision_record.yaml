@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000130939
-  gene_symbol: UBE4B
 - ensg_id: ENSG00000110344
-  gene_symbol: ' UBE4A'
+  gene_symbol: UBE4A
+- ensg_id: ENSG00000130939
+  gene_symbol: ' UBE4B'
 collision_symbol: E4

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000278195
-  gene_symbol: SSTR3
 - ensg_id: ENSG00000162804
-  gene_symbol: ' SNED1'
+  gene_symbol: SNED1
+- ensg_id: ENSG00000278195
+  gene_symbol: ' SSTR3'
 collision_symbol: SST3

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000248672
-  gene_symbol: LY75-CD302
 - ensg_id: ENSG00000054219
-  gene_symbol: ' LY75'
+  gene_symbol: LY75
+- ensg_id: ENSG00000248672
+  gene_symbol: ' LY75-CD302'
 collision_symbol: CD205

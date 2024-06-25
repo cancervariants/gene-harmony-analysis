@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000125498
-  gene_symbol: KIR2DL1
 - ensg_id: ENSG00000243772
-  gene_symbol: ' KIR2DL3'
+  gene_symbol: KIR2DL3
+- ensg_id: ENSG00000125498
+  gene_symbol: ' KIR2DL1'
 collision_symbol: NKAT

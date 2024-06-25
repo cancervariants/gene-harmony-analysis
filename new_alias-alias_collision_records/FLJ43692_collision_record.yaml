@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000213214
-  gene_symbol: ARHGEF35
 - ensg_id: ENSG00000225932
-  gene_symbol: ' CTAGE4'
+  gene_symbol: CTAGE4
+- ensg_id: ENSG00000213214
+  gene_symbol: ' ARHGEF35'
 collision_symbol: FLJ43692

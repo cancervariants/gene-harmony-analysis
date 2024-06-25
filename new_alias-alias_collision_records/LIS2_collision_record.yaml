@@ -1,8 +1,8 @@
 collision_group:
-- ensg_id: ENSG00000007168
-  gene_symbol: PAFAH1B1
+- ensg_id: NAN
+  gene_symbol: PAFAH1B1P1
 - ensg_id: ENSG00000189056
   gene_symbol: ' RELN'
-- ensg_id: NAN
-  gene_symbol: ' PAFAH1B1P1'
+- ensg_id: ENSG00000007168
+  gene_symbol: ' PAFAH1B1'
 collision_symbol: LIS2

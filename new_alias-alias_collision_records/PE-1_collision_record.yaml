@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000117036
-  gene_symbol: ETV3
 - ensg_id: ENSG00000142615
-  gene_symbol: ' CELA2A'
+  gene_symbol: CELA2A
+- ensg_id: ENSG00000117036
+  gene_symbol: ' ETV3'
 collision_symbol: PE-1

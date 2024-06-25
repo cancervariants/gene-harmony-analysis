@@ -1,7 +1,7 @@
 collision_group:
-- ensg_id: ENSG00000145736
+- ensg_id: ENSG00000276910
   gene_symbol: GTF2H2
-- ensg_id: ENSG00000110768
+- ensg_id: ENSG00000288114
   gene_symbol: ' GTF2H1'
 - ensg_id: ENSG00000163161
   gene_symbol: ' ERCC3'

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000131979
-  gene_symbol: GCH1
 - ensg_id: ENSG00000180176
-  gene_symbol: ' TH'
+  gene_symbol: TH
+- ensg_id: ENSG00000131979
+  gene_symbol: ' GCH1'
 collision_symbol: DYT14

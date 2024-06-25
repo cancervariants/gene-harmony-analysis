@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000105825
-  gene_symbol: TFPI2
 - ensg_id: ENSG00000011485
-  gene_symbol: ' PPP5C'
+  gene_symbol: PPP5C
+- ensg_id: ENSG00000105825
+  gene_symbol: ' TFPI2'
 collision_symbol: PP5

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000178752
-  gene_symbol: ERFE
 - ensg_id: ENSG00000182447
-  gene_symbol: ' OTOL1'
+  gene_symbol: OTOL1
+- ensg_id: ENSG00000178752
+  gene_symbol: ' ERFE'
 collision_symbol: C1QTNF15

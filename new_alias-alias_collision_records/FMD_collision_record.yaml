@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: NAN
-  gene_symbol: FSHMD1A
 - ensg_id: ENSG00000196924
-  gene_symbol: ' FLNA'
+  gene_symbol: FLNA
+- ensg_id: NAN
+  gene_symbol: ' FSHMD1A'
 collision_symbol: FMD

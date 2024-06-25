@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000235718
-  gene_symbol: MFRP
 - ensg_id: ENSG00000223953
-  gene_symbol: ' C1QTNF5'
+  gene_symbol: C1QTNF5
+- ensg_id: ENSG00000235718
+  gene_symbol: ' MFRP'
 collision_symbol: CTRP5

@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000120063
-  gene_symbol: GNA13
 - ensg_id: ENSG00000213676
-  gene_symbol: ' ATF6B'
+  gene_symbol: ATF6B
+- ensg_id: ENSG00000120063
+  gene_symbol: ' GNA13'
 collision_symbol: G13

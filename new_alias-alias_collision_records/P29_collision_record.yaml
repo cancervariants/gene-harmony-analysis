@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000117614
-  gene_symbol: SYF2
 - ensg_id: ENSG00000117592
-  gene_symbol: ' PRDX6'
+  gene_symbol: PRDX6
+- ensg_id: ENSG00000117614
+  gene_symbol: ' SYF2'
 collision_symbol: p29

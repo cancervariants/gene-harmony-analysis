@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000160679
-  gene_symbol: CHTOP
 - ensg_id: ENSG00000138111
-  gene_symbol: ' MFSD13A'
+  gene_symbol: MFSD13A
+- ensg_id: ENSG00000160679
+  gene_symbol: ' CHTOP'
 collision_symbol: C10orf77

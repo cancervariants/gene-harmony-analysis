@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000258315
-  gene_symbol: C17orf49
 - ensg_id: ENSG00000161939
-  gene_symbol: ' RNASEK-C17orf49'
+  gene_symbol: RNASEK-C17orf49
+- ensg_id: ENSG00000258315
+  gene_symbol: ' C17orf49'
 collision_symbol: BAP18

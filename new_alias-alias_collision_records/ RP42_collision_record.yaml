@@ -1,6 +1,6 @@
 collision_group:
-- ensg_id: ENSG00000122550
-  gene_symbol: KLHL7
 - ensg_id: ENSG00000043093
-  gene_symbol: ' DCUN1D1'
+  gene_symbol: DCUN1D1
+- ensg_id: ENSG00000122550
+  gene_symbol: ' KLHL7'
 collision_symbol: ' RP42'
