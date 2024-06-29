@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169241
-  gene_symbol: SLC50A1
-- ensg_id: ENSG00000178473
-  gene_symbol: ' UCN3'
-- ensg_id: ENSG00000128683
-  gene_symbol: ' GAD1'
-collision_symbol: SCP

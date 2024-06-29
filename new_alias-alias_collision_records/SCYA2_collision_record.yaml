@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000275302
-  gene_symbol: CCL4
-- ensg_id: ENSG00000108691
-  gene_symbol: ' CCL2'
-collision_symbol: SCYA2

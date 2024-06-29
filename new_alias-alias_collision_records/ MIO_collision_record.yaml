@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164654
-  gene_symbol: MIOS
-- ensg_id: ENSG00000009950
-  gene_symbol: ' MLXIPL'
-collision_symbol: ' MIO'

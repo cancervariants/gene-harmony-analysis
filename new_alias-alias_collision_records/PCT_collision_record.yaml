@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110680
-  gene_symbol: CALCA
-- ensg_id: ENSG00000126088
-  gene_symbol: ' UROD'
-collision_symbol: PCT

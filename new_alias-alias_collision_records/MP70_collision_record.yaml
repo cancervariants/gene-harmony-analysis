@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000121634
-  gene_symbol: GJA8
-- ensg_id: ENSG00000100926
-  gene_symbol: ' TM9SF1'
-collision_symbol: MP70

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171848
-  gene_symbol: RRM2
-- ensg_id: ENSG00000158488
-  gene_symbol: ' CD1E'
-- ensg_id: ENSG00000085117
-  gene_symbol: ' CD82'
-collision_symbol: R2

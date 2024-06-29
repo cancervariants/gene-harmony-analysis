@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115827
-  gene_symbol: DCAF17
-- ensg_id: ENSG00000125877
-  gene_symbol: ' ITPA'
-collision_symbol: C20orf37

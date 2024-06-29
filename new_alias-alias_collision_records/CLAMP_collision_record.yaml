@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101222
-  gene_symbol: SPEF1
-- ensg_id: ENSG00000174827
-  gene_symbol: ' PDZK1'
-collision_symbol: CLAMP

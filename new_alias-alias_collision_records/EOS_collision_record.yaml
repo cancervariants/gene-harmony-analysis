@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000123411
-  gene_symbol: IKZF4
-- ensg_id: ENSG00000103355
-  gene_symbol: ' PRSS33'
-collision_symbol: EOS

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177300
-  gene_symbol: CLDN22
-- ensg_id: ENSG00000185758
-  gene_symbol: ' CLDN24'
-collision_symbol: CLDN21

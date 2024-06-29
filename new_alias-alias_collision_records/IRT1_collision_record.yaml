@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204472
-  gene_symbol: AIF1
-- ensg_id: ENSG00000041880
-  gene_symbol: ' PARP3'
-collision_symbol: IRT1

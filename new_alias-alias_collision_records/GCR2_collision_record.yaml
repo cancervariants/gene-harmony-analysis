@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000276393
-  gene_symbol: NR3C1P1
-- ensg_id: ENSG00000122882
-  gene_symbol: ' ECD'
-collision_symbol: GCR2

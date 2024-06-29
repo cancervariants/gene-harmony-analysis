@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197594
-  gene_symbol: ENPP1
-- ensg_id: ENSG00000076554
-  gene_symbol: ' TPD52'
-collision_symbol: PC-1

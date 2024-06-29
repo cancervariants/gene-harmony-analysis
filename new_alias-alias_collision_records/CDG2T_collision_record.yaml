@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196628
-  gene_symbol: TCF4
-- ensg_id: ENSG00000143641
-  gene_symbol: ' GALNT2'
-collision_symbol: CDG2T

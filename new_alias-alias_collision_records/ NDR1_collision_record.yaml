@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112079
-  gene_symbol: STK38
-- ensg_id: ENSG00000104419
-  gene_symbol: ' NDRG1'
-collision_symbol: ' NDR1'

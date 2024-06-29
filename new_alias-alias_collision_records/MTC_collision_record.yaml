@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000205362
-  gene_symbol: MT1A
-- ensg_id: ENSG00000198400
-  gene_symbol: ' NTRK1'
-collision_symbol: MTC

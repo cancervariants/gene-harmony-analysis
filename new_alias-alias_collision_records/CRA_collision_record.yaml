@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108848
-  gene_symbol: LUC7L3
-- ensg_id: ENSG00000014914
-  gene_symbol: ' MTMR11'
-collision_symbol: CRA

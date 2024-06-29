@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000066629
-  gene_symbol: EML1
-- ensg_id: ENSG00000108578
-  gene_symbol: ' BLMH'
-collision_symbol: BH

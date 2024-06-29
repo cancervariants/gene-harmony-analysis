@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000157335
-  gene_symbol: CLEC18C
-- ensg_id: ENSG00000101608
-  gene_symbol: ' MYL12A'
-collision_symbol: ' MRCL3'

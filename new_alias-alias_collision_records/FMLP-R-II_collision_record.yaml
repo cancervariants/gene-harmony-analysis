@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171049
-  gene_symbol: FPR2
-- ensg_id: ENSG00000187474
-  gene_symbol: ' FPR3'
-collision_symbol: FMLP-R-II

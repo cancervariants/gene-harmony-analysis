@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198053
-  gene_symbol: SIRPA
-- ensg_id: ENSG00000079134
-  gene_symbol: ' THOC1'
-collision_symbol: ' P84'

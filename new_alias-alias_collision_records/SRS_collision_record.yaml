@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: RSS
-- ensg_id: ENSG00000102172
-  gene_symbol: ' SMS'
-collision_symbol: SRS

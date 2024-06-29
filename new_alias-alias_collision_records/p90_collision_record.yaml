@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163507
-  gene_symbol: CIP2A
-- ensg_id: ENSG00000072274
-  gene_symbol: ' TFRC'
-- ensg_id: ENSG00000169515
-  gene_symbol: ' CCDC8'
-collision_symbol: p90

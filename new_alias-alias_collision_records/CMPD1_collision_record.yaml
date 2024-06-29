@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: CMD1B
-- ensg_id: ENSG00000125398
-  gene_symbol: ' SOX9'
-collision_symbol: CMPD1

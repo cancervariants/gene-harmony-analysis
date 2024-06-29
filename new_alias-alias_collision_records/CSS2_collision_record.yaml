@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117713
-  gene_symbol: ARID1A
-- ensg_id: ENSG00000256812
-  gene_symbol: ' CAPNS2'
-- ensg_id: ENSG00000123989
-  gene_symbol: ' CHPF'
-collision_symbol: CSS2

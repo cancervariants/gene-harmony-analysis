@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115561
-  gene_symbol: CHMP3
-- ensg_id: ENSG00000249884
-  gene_symbol: ' RNF103-CHMP3'
-collision_symbol: VPS24

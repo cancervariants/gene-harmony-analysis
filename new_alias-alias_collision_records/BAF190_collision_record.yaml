@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000080503
-  gene_symbol: SMARCA2
-- ensg_id: ENSG00000127616
-  gene_symbol: ' SMARCA4'
-collision_symbol: BAF190

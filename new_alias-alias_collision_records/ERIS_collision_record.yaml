@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145354
-  gene_symbol: CISD2
-- ensg_id: ENSG00000184584
-  gene_symbol: ' STING1'
-collision_symbol: ERIS

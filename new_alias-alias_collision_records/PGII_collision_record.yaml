@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000096088
-  gene_symbol: PGC
-- ensg_id: ENSG00000011465
-  gene_symbol: ' DCN'
-collision_symbol: PGII

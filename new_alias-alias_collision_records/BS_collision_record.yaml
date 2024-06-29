@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203618
-  gene_symbol: GP1BB
-- ensg_id: ENSG00000197299
-  gene_symbol: ' BLM'
-collision_symbol: BS

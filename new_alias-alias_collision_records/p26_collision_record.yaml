@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166557
-  gene_symbol: TMED3
-- ensg_id: NAN
-  gene_symbol: ' H3P22'
-collision_symbol: p26

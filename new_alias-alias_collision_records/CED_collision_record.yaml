@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105329
-  gene_symbol: TGFB1
-- ensg_id: ENSG00000163913
-  gene_symbol: ' IFT122'
-collision_symbol: CED

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000288250
-  gene_symbol: TNNT3
-- ensg_id: ENSG00000130598
-  gene_symbol: ' TNNI2'
-collision_symbol: ' DA2B'

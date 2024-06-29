@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000276262
-  gene_symbol: NSF
-- ensg_id: ENSG00000132612
-  gene_symbol: ' VPS4A'
-collision_symbol: ' SKD2'

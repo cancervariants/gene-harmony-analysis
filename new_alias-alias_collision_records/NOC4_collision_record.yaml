@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131148
-  gene_symbol: EMC8
-- ensg_id: ENSG00000184967
-  gene_symbol: ' NOC4L'
-collision_symbol: NOC4

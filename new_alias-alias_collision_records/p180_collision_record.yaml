@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101868
-  gene_symbol: POLA1
-- ensg_id: ENSG00000125844
-  gene_symbol: ' RRBP1'
-collision_symbol: p180

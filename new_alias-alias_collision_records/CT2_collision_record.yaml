@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000214617
-  gene_symbol: SLC6A10P
-- ensg_id: ENSG00000004809
-  gene_symbol: ' SLC22A16'
-- ensg_id: ENSG00000126890
-  gene_symbol: ' CTAG2'
-collision_symbol: CT2

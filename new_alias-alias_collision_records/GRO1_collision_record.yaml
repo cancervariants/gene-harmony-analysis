@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000043514
-  gene_symbol: TRIT1
-- ensg_id: ENSG00000163739
-  gene_symbol: ' CXCL1'
-collision_symbol: GRO1

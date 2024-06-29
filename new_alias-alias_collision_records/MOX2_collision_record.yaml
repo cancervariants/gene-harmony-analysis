@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106511
-  gene_symbol: MEOX2
-- ensg_id: ENSG00000091972
-  gene_symbol: ' CD200'
-collision_symbol: MOX2

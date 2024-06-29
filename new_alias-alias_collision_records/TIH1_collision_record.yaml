@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175792
-  gene_symbol: RUVBL1
-- ensg_id: ENSG00000174307
-  gene_symbol: ' PHLDA3'
-collision_symbol: TIH1

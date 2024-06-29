@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111816
-  gene_symbol: FRK
-- ensg_id: ENSG00000286112
-  gene_symbol: ' KYAT1'
-collision_symbol: GTK

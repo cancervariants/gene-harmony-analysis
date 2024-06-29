@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108091
-  gene_symbol: CCDC6
-- ensg_id: ENSG00000125454
-  gene_symbol: ' SLC25A19'
-collision_symbol: TPC

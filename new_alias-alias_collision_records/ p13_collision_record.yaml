@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000235655
-  gene_symbol: H3P6
-- ensg_id: ENSG00000171311
-  gene_symbol: ' EXOSC1'
-collision_symbol: ' p13'

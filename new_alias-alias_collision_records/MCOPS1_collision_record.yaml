@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102030
-  gene_symbol: NAA10
-- ensg_id: NAN
-  gene_symbol: ' MAA'
-collision_symbol: MCOPS1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180096
-  gene_symbol: SEPTIN1
-- ensg_id: ENSG00000114127
-  gene_symbol: ' XRN1'
-collision_symbol: SEP1

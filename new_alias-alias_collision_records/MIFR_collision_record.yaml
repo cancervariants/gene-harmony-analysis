@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000215914
-  gene_symbol: MMP23A
-- ensg_id: ENSG00000189409
-  gene_symbol: ' MMP23B'
-collision_symbol: MIFR

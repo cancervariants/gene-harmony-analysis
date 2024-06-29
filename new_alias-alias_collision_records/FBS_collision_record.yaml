@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164117
-  gene_symbol: FBXO8
-- ensg_id: ENSG00000156860
-  gene_symbol: ' FBRS'
-collision_symbol: FBS

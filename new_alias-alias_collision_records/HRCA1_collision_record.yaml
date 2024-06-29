@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134086
-  gene_symbol: VHL
-- ensg_id: ENSG00000170881
-  gene_symbol: ' RNF139'
-collision_symbol: HRCA1

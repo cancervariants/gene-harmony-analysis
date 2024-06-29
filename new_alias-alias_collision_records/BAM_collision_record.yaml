@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153094
-  gene_symbol: BCL2L11
-- ensg_id: ENSG00000108055
-  gene_symbol: ' SMC3'
-collision_symbol: BAM

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135829
-  gene_symbol: DHX9
-- ensg_id: NAN
-  gene_symbol: ' HCL2'
-collision_symbol: RHA

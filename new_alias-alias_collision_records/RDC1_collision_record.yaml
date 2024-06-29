@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114812
-  gene_symbol: VIPR1
-- ensg_id: ENSG00000144476
-  gene_symbol: ' ACKR3'
-collision_symbol: RDC1

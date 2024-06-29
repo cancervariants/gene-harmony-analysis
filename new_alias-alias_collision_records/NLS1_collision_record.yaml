@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168389
-  gene_symbol: MFSD2A
-- ensg_id: ENSG00000092621
-  gene_symbol: ' PHGDH'
-collision_symbol: NLS1

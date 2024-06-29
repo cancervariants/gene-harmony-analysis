@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163283
-  gene_symbol: ALPP
-- ensg_id: ENSG00000137055
-  gene_symbol: ' PLAA'
-- ensg_id: ENSG00000113441
-  gene_symbol: ' LNPEP'
-collision_symbol: PLAP

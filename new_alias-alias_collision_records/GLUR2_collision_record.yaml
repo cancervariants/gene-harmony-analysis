@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120251
-  gene_symbol: GRIA2
-- ensg_id: ENSG00000164082
-  gene_symbol: ' GRM2'
-collision_symbol: GLUR2

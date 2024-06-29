@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143632
-  gene_symbol: ACTA1
-- ensg_id: ENSG00000183091
-  gene_symbol: ' NEB'
-collision_symbol: NEM2

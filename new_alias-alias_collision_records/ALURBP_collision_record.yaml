@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143742
-  gene_symbol: SRP9
-- ensg_id: ENSG00000140319
-  gene_symbol: ' SRP14'
-collision_symbol: ALURBP

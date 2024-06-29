@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113716
-  gene_symbol: HMGXB3
-- ensg_id: ENSG00000139343
-  gene_symbol: ' SNRPF'
-collision_symbol: SMF

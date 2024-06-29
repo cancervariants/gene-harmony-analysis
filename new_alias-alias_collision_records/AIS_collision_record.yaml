@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169083
-  gene_symbol: AR
-- ensg_id: ENSG00000073282
-  gene_symbol: ' TP63'
-- ensg_id: NAN
-  gene_symbol: ' IS1'
-collision_symbol: AIS

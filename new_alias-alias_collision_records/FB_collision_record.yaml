@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125375
-  gene_symbol: DMAC2L
-- ensg_id: ENSG00000243649
-  gene_symbol: ' CFB'
-collision_symbol: FB

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000005810
-  gene_symbol: MYCBP2
-- ensg_id: ENSG00000021300
-  gene_symbol: ' PLEKHB1'
-collision_symbol: PHR1

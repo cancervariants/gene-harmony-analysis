@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114315
-  gene_symbol: HES1
-- ensg_id: ENSG00000152061
-  gene_symbol: ' RABGAP1L'
-collision_symbol: HHL

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000205364
-  gene_symbol: MT1M
-- ensg_id: ENSG00000125144
-  gene_symbol: ' MT1G'
-collision_symbol: MT1K

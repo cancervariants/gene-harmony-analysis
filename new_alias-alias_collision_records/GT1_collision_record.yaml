@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000005961
-  gene_symbol: ITGA2B
-- ensg_id: ENSG00000086062
-  gene_symbol: ' B4GALT1'
-- ensg_id: ENSG00000198336
-  gene_symbol: ' MYL4'
-collision_symbol: GT1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117877
-  gene_symbol: POLR1G
-- ensg_id: ENSG00000198901
-  gene_symbol: ' PRC1'
-collision_symbol: ASE1

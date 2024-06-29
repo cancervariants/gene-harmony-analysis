@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109079
-  gene_symbol: TNFAIP1
-- ensg_id: ENSG00000169242
-  gene_symbol: ' EFNA1'
-collision_symbol: B61

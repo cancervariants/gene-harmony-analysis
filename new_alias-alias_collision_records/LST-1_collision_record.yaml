@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134538
-  gene_symbol: SLCO1B1
-- ensg_id: ENSG00000204482
-  gene_symbol: ' LST1'
-collision_symbol: LST-1

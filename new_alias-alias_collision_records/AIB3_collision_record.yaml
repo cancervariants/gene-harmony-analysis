@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198646
-  gene_symbol: NCOA6
-- ensg_id: NAN
-  gene_symbol: ' ANIB3'
-collision_symbol: AIB3

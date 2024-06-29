@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106537
-  gene_symbol: TSPAN13
-- ensg_id: ENSG00000162408
-  gene_symbol: ' NOL9'
-collision_symbol: NET6

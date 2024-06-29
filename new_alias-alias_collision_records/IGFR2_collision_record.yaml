@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143226
-  gene_symbol: FCGR2A
-- ensg_id: ENSG00000072694
-  gene_symbol: ' FCGR2B'
-- ensg_id: NAN
-  gene_symbol: ' FCGR2C'
-collision_symbol: IGFR2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172476
-  gene_symbol: RAB40A
-- ensg_id: ENSG00000102128
-  gene_symbol: ' RAB40AL'
-collision_symbol: RAR2

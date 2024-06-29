@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000013375
-  gene_symbol: PGM3
-- ensg_id: ENSG00000211899
-  gene_symbol: ' IGHM'
-collision_symbol: AGM1

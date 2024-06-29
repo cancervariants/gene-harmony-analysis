@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137332
-  gene_symbol: DDR1
-- ensg_id: ENSG00000196549
-  gene_symbol: ' MME'
-collision_symbol: ' NEP'

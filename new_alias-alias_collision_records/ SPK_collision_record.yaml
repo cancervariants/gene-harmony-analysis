@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125755
-  gene_symbol: SYMPK
-- ensg_id: ENSG00000168078
-  gene_symbol: ' PBK'
-collision_symbol: ' SPK'

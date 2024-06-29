@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169554
-  gene_symbol: ZEB2
-- ensg_id: ENSG00000139218
-  gene_symbol: ' SCAF11'
-collision_symbol: ' SIP1'

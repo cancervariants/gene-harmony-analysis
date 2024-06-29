@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114554
-  gene_symbol: PLXNA1
-- ensg_id: ENSG00000147403
-  gene_symbol: ' RPL10'
-collision_symbol: NOV

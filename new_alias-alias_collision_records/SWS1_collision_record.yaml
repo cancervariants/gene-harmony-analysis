@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142634
-  gene_symbol: EFHD2
-- ensg_id: ENSG00000214941
-  gene_symbol: ' ZSWIM7'
-collision_symbol: SWS1

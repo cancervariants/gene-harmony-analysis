@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164347
-  gene_symbol: GFM2
-- ensg_id: ENSG00000148187
-  gene_symbol: ' MRRF'
-collision_symbol: RRF

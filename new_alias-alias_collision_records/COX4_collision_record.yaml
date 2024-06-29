@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131055
-  gene_symbol: COX4I2
-- ensg_id: ENSG00000131143
-  gene_symbol: ' COX4I1'
-collision_symbol: COX4

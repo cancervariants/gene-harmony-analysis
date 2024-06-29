@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166736
-  gene_symbol: HTR3A
-- ensg_id: ENSG00000146731
-  gene_symbol: ' CCT6A'
-collision_symbol: HTR3

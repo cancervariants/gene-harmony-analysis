@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112038
-  gene_symbol: OPRM1
-- ensg_id: ENSG00000123213
-  gene_symbol: ' NLN'
-- ensg_id: ENSG00000122375
-  gene_symbol: ' OPN4'
-collision_symbol: MOP

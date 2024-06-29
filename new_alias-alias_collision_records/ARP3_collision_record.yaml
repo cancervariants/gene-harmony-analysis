@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128383
-  gene_symbol: APOBEC3A
-- ensg_id: ENSG00000115091
-  gene_symbol: ' ACTR3'
-collision_symbol: ARP3

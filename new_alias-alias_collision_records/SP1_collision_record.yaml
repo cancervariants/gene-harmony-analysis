@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179284
-  gene_symbol: DAND5
-- ensg_id: ENSG00000231924
-  gene_symbol: ' PSG1'
-collision_symbol: SP1

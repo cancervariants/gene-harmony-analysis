@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000006757
-  gene_symbol: PNPLA4
-- ensg_id: ENSG00000069974
-  gene_symbol: ' RAB27A'
-collision_symbol: GS2

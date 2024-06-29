@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185129
-  gene_symbol: PURA
-- ensg_id: ENSG00000103495
-  gene_symbol: ' MAZ'
-collision_symbol: PUR1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107872
-  gene_symbol: FBXL15
-- ensg_id: ENSG00000241878
-  gene_symbol: ' PISD'
-collision_symbol: PSD

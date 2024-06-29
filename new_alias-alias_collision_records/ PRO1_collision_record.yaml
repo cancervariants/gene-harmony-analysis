@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160789
-  gene_symbol: LMNA
-- ensg_id: ENSG00000084073
-  gene_symbol: ' ZMPSTE24'
-collision_symbol: ' PRO1'

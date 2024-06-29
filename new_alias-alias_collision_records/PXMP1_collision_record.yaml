@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162735
-  gene_symbol: PEX19
-- ensg_id: ENSG00000117528
-  gene_symbol: ' ABCD3'
-collision_symbol: PXMP1

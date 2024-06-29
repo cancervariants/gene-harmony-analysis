@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130779
-  gene_symbol: CLIP1
-- ensg_id: ENSG00000019582
-  gene_symbol: ' CD74'
-- ensg_id: ENSG00000106665
-  gene_symbol: ' CLIP2'
-collision_symbol: CLIP

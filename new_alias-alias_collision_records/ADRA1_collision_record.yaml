@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171873
-  gene_symbol: ADRA1D
-- ensg_id: ENSG00000170214
-  gene_symbol: ' ADRA1B'
-collision_symbol: ADRA1

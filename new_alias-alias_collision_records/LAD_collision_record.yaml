@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160255
-  gene_symbol: ITGB2
-- ensg_id: ENSG00000091140
-  gene_symbol: ' DLD'
-collision_symbol: LAD

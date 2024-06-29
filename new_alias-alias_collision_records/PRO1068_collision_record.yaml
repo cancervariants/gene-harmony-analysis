@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000049247
-  gene_symbol: UTS2
-- ensg_id: ENSG00000134294
-  gene_symbol: ' SLC38A2'
-collision_symbol: PRO1068

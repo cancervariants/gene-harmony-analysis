@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129226
-  gene_symbol: CD68
-- ensg_id: ENSG00000130706
-  gene_symbol: ' ADRM1'
-collision_symbol: GP110

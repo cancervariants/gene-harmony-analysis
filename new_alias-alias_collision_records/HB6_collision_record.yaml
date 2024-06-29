@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168032
-  gene_symbol: ENTPD3
-- ensg_id: ENSG00000170442
-  gene_symbol: ' KRT86'
-collision_symbol: HB6

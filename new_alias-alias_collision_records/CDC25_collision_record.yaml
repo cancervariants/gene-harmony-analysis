@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000058335
-  gene_symbol: RASGRF1
-- ensg_id: ENSG00000158402
-  gene_symbol: ' CDC25C'
-collision_symbol: CDC25

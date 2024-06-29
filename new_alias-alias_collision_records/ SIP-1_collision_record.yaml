@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000065054
-  gene_symbol: SLC9A3R2
-- ensg_id: ENSG00000169554
-  gene_symbol: ' ZEB2'
-collision_symbol: ' SIP-1'

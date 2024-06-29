@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159147
-  gene_symbol: DONSON
-- ensg_id: ENSG00000179583
-  gene_symbol: ' CIITA'
-collision_symbol: C2TA

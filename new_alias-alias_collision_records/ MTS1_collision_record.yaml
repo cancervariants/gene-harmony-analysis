@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196154
-  gene_symbol: S100A4
-- ensg_id: ENSG00000147889
-  gene_symbol: ' CDKN2A'
-collision_symbol: ' MTS1'

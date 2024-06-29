@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119541
-  gene_symbol: VPS4B
-- ensg_id: ENSG00000132612
-  gene_symbol: ' VPS4A'
-collision_symbol: SKD1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000028839
-  gene_symbol: TBPL1
-- ensg_id: ENSG00000132604
-  gene_symbol: ' TERF2'
-collision_symbol: ' TRF2'

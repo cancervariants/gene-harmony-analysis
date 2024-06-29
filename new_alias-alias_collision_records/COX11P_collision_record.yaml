@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: COX11P1
-- ensg_id: ENSG00000166260
-  gene_symbol: ' COX11'
-collision_symbol: COX11P

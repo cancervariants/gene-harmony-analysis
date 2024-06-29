@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000075388
-  gene_symbol: FGF4
-- ensg_id: ENSG00000105398
-  gene_symbol: ' SULT2A1'
-collision_symbol: HST

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132196
-  gene_symbol: HSD17B7
-- ensg_id: ENSG00000005020
-  gene_symbol: ' SKAP2'
-collision_symbol: PRAP

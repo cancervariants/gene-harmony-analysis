@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105880
-  gene_symbol: DLX5
-- ensg_id: ENSG00000127922
-  gene_symbol: ' SEM1'
-collision_symbol: SHFM1

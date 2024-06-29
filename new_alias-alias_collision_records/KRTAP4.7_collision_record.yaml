@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000240871
-  gene_symbol: KRTAP4-7
-- ensg_id: NAN
-  gene_symbol: ' LOC100996750'
-collision_symbol: KRTAP4.7

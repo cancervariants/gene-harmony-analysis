@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163590
-  gene_symbol: PPM1L
-- ensg_id: ENSG00000164088
-  gene_symbol: ' PPM1M'
-collision_symbol: PP2CE

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000214736
-  gene_symbol: TOMM6
-- ensg_id: ENSG00000278224
-  gene_symbol: ' PRICKLE4'
-collision_symbol: OBTP

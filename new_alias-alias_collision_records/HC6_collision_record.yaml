@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167699
-  gene_symbol: GLOD4
-- ensg_id: ENSG00000235700
-  gene_symbol: ' CYCSP52'
-collision_symbol: HC6

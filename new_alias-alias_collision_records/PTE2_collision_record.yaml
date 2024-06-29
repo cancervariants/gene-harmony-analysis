@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119673
-  gene_symbol: ACOT2
-- ensg_id: ENSG00000101473
-  gene_symbol: ' ACOT8'
-collision_symbol: PTE2

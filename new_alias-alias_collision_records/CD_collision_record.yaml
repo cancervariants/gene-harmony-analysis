@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167207
-  gene_symbol: NOD2
-- ensg_id: ENSG00000163599
-  gene_symbol: ' CTLA4'
-collision_symbol: CD

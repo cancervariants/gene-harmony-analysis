@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151090
-  gene_symbol: THRB
-- ensg_id: ENSG00000109832
-  gene_symbol: ' DDX25'
-collision_symbol: GRTH

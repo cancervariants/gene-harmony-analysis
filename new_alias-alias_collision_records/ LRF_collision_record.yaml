@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000178951
-  gene_symbol: ZBTB7A
-- ensg_id: ENSG00000164463
-  gene_symbol: ' CREBRF'
-collision_symbol: ' LRF'

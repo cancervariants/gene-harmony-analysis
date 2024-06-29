@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241635
-  gene_symbol: UGT1A1
-- ensg_id: ENSG00000242366
-  gene_symbol: ' UGT1A8'
-collision_symbol: UDPGT 1-1

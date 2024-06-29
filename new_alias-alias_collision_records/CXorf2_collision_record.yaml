@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000278057
-  gene_symbol: TEX28
-- ensg_id: ENSG00000185985
-  gene_symbol: ' SLITRK2'
-collision_symbol: CXorf2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108064
-  gene_symbol: TFAM
-- ensg_id: NAN
-  gene_symbol: ' TFAMP2'
-collision_symbol: TCF6L3

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000064726
-  gene_symbol: BTBD1
-- ensg_id: ENSG00000140350
-  gene_symbol: ' ANP32A'
-collision_symbol: C15orf1

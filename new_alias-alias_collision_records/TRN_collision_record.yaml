@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: TRN-GTT2-7
-- ensg_id: NAN
-  gene_symbol: ' TRN-GTT2-1'
-- ensg_id: ENSG00000083312
-  gene_symbol: ' TNPO1'
-collision_symbol: TRN

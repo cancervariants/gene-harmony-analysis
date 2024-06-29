@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000124678
-  gene_symbol: TCP11
-- ensg_id: ENSG00000120438
-  gene_symbol: ' TCP1'
-collision_symbol: D6S230E

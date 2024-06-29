@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000085117
-  gene_symbol: CD82
-- ensg_id: ENSG00000115232
-  gene_symbol: ' ITGA4'
-collision_symbol: IA4

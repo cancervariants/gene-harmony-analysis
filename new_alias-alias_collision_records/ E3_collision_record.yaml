@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143149
-  gene_symbol: ALDH9A1
-- ensg_id: ENSG00000091140
-  gene_symbol: ' DLD'
-collision_symbol: ' E3'

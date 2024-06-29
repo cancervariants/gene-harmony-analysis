@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: BMS1P18
-- ensg_id: ENSG00000228294
-  gene_symbol: ' BMS1P17'
-collision_symbol: LINC00516

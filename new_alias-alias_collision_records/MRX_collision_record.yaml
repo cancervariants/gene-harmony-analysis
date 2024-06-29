@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000118777
-  gene_symbol: ABCG2
-- ensg_id: ENSG00000082458
-  gene_symbol: ' DLG3'
-collision_symbol: MRX

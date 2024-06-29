@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136231
-  gene_symbol: IGF2BP3
-- ensg_id: ENSG00000104331
-  gene_symbol: ' BPNT2'
-collision_symbol: IMP-3

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128272
-  gene_symbol: ATF4
-- ensg_id: ENSG00000115966
-  gene_symbol: ' ATF2'
-collision_symbol: CREB-2

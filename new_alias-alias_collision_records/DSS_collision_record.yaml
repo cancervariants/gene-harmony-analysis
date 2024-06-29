@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158887
-  gene_symbol: MPZ
-- ensg_id: ENSG00000109099
-  gene_symbol: ' PMP22'
-- ensg_id: ENSG00000169297
-  gene_symbol: ' NR0B1'
-collision_symbol: DSS

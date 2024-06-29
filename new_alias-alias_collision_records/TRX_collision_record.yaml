@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103043
-  gene_symbol: VAC14
-- ensg_id: ENSG00000136810
-  gene_symbol: ' TXN'
-collision_symbol: TRX

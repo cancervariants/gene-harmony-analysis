@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180871
-  gene_symbol: CXCR2
-- ensg_id: ENSG00000163464
-  gene_symbol: ' CXCR1'
-collision_symbol: IL8RA

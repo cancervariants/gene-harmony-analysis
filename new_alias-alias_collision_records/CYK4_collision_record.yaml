@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170477
-  gene_symbol: KRT4
-- ensg_id: ENSG00000161800
-  gene_symbol: ' RACGAP1'
-collision_symbol: CYK4

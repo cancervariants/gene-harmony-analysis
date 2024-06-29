@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000096433
-  gene_symbol: ITPR3
-- ensg_id: ENSG00000150995
-  gene_symbol: ' ITPR1'
-collision_symbol: IP3R

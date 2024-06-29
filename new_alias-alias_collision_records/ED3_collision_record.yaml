@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135960
-  gene_symbol: EDAR
-- ensg_id: ENSG00000186197
-  gene_symbol: ' EDARADD'
-collision_symbol: ED3

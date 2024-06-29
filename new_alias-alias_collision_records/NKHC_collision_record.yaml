@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168280
-  gene_symbol: KIF5C
-- ensg_id: ENSG00000155980
-  gene_symbol: ' KIF5A'
-collision_symbol: NKHC

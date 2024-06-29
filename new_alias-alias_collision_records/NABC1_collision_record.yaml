@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000088836
-  gene_symbol: SLC4A11
-- ensg_id: ENSG00000064787
-  gene_symbol: ' BCAS1'
-collision_symbol: NABC1

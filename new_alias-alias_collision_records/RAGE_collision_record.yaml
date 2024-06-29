@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000229058
-  gene_symbol: AGER
-- ensg_id: ENSG00000080823
-  gene_symbol: ' MOK'
-collision_symbol: RAGE

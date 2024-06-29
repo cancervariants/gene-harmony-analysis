@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204618
-  gene_symbol: RNF39
-- ensg_id: ENSG00000161642
-  gene_symbol: ' ZNF385A'
-collision_symbol: HZF

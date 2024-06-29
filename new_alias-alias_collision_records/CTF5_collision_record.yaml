@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000284638
-  gene_symbol: SMIM44
-- ensg_id: ENSG00000141905
-  gene_symbol: ' NFIC'
-collision_symbol: CTF5

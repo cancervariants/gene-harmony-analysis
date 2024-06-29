@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000200318
-  gene_symbol: SNORD3P1
-- ensg_id: ENSG00000263934
-  gene_symbol: ' SNORD3A'
-collision_symbol: ' U3'

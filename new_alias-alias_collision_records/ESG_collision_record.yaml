@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000065717
-  gene_symbol: TLE2
-- ensg_id: ENSG00000196781
-  gene_symbol: ' TLE1'
-- ensg_id: ENSG00000140332
-  gene_symbol: ' TLE3'
-collision_symbol: ESG

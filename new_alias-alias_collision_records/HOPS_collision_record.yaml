@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164897
-  gene_symbol: TMUB1
-- ensg_id: ENSG00000162551
-  gene_symbol: ' ALPL'
-collision_symbol: HOPS

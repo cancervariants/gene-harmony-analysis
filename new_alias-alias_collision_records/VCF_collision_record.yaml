@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184058
-  gene_symbol: TBX1
-- ensg_id: NAN
-  gene_symbol: ' DGCR'
-collision_symbol: VCF

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000277858
-  gene_symbol: H2AB2
-- ensg_id: ENSG00000274183
-  gene_symbol: ' H2AB1'
-collision_symbol: H2A.Bbd

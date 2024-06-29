@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135094
-  gene_symbol: SDS
-- ensg_id: ENSG00000123453
-  gene_symbol: ' SARDH'
-collision_symbol: SDH

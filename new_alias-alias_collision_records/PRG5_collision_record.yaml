@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175121
-  gene_symbol: WFDC5
-- ensg_id: ENSG00000117598
-  gene_symbol: ' PLPPR5'
-collision_symbol: PRG5

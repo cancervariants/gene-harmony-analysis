@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171566
-  gene_symbol: PLRG1
-- ensg_id: ENSG00000112245
-  gene_symbol: ' PTP4A1'
-- ensg_id: ENSG00000171199
-  gene_symbol: ' OPRPN'
-collision_symbol: ' PRL1'

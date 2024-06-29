@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000073921
-  gene_symbol: PICALM
-- ensg_id: ENSG00000065609
-  gene_symbol: ' SNAP91'
-collision_symbol: CALM

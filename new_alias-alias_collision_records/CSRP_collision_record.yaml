@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180182
-  gene_symbol: MED14
-- ensg_id: ENSG00000159176
-  gene_symbol: ' CSRP1'
-collision_symbol: CSRP

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170835
-  gene_symbol: CEL
-- ensg_id: ENSG00000170827
-  gene_symbol: ' CELP'
-collision_symbol: CELL

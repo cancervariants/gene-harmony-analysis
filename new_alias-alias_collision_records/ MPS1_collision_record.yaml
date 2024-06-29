@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112742
-  gene_symbol: TTK
-- ensg_id: ENSG00000177954
-  gene_symbol: ' RPS27'
-collision_symbol: ' MPS1'

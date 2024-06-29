@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131401
-  gene_symbol: NAPSB
-- ensg_id: ENSG00000187109
-  gene_symbol: ' NAP1L1'
-collision_symbol: NAP1L

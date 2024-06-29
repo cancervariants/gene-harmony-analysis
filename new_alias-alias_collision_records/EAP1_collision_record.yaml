@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164611
-  gene_symbol: PTTG1
-- ensg_id: ENSG00000075914
-  gene_symbol: ' EXOSC7'
-collision_symbol: EAP1

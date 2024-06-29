@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203811
-  gene_symbol: H3C14
-- ensg_id: ENSG00000203852
-  gene_symbol: ' H3C15'
-collision_symbol: H3C13

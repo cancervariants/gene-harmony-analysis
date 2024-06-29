@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000092621
-  gene_symbol: PHGDH
-- ensg_id: ENSG00000164120
-  gene_symbol: ' HPGD'
-collision_symbol: PGDH

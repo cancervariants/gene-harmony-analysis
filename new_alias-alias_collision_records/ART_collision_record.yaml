@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159723
-  gene_symbol: AGRP
-- ensg_id: ENSG00000117407
-  gene_symbol: ' ARTN'
-collision_symbol: ART

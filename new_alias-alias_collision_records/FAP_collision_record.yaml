@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000174842
-  gene_symbol: GLMN
-- ensg_id: ENSG00000170835
-  gene_symbol: ' CEL'
-collision_symbol: FAP

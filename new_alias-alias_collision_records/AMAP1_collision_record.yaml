@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136449
-  gene_symbol: MYCBPAP
-- ensg_id: ENSG00000153317
-  gene_symbol: ' ASAP1'
-collision_symbol: AMAP1

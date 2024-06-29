@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000239605
-  gene_symbol: STPG4
-- ensg_id: NAN
-  gene_symbol: ' CELIAC2'
-- ensg_id: ENSG00000163599
-  gene_symbol: ' CTLA4'
-collision_symbol: GSE

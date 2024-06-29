@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000087116
-  gene_symbol: ADAMTS2
-- ensg_id: ENSG00000158859
-  gene_symbol: ' ADAMTS4'
-collision_symbol: ADAMTS-2

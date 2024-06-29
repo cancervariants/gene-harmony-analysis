@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100294
-  gene_symbol: MCAT
-- ensg_id: ENSG00000155380
-  gene_symbol: ' SLC16A1'
-collision_symbol: MCT1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175548
-  gene_symbol: ALG10B
-- ensg_id: ENSG00000139133
-  gene_symbol: ' ALG10'
-collision_symbol: KCR1

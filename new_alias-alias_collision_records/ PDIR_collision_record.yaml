@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185615
-  gene_symbol: PDIA2
-- ensg_id: ENSG00000065485
-  gene_symbol: ' PDIA5'
-collision_symbol: ' PDIR'

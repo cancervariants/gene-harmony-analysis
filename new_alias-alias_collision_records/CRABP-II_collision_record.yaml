@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114113
-  gene_symbol: RBP2
-- ensg_id: ENSG00000143320
-  gene_symbol: ' CRABP2'
-collision_symbol: CRABP-II

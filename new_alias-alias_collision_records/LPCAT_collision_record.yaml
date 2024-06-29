@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111684
-  gene_symbol: LPCAT3
-- ensg_id: ENSG00000143797
-  gene_symbol: ' MBOAT2'
-collision_symbol: LPCAT

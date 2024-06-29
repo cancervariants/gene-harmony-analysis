@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104973
-  gene_symbol: MED25
-- ensg_id: ENSG00000039650
-  gene_symbol: ' PNKP'
-collision_symbol: CMT2B2

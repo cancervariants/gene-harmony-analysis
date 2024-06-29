@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143921
-  gene_symbol: ABCG8
-- ensg_id: ENSG00000138075
-  gene_symbol: ' ABCG5'
-collision_symbol: STSL

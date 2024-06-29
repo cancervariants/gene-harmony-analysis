@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166401
-  gene_symbol: SERPINB8
-- ensg_id: ENSG00000221887
-  gene_symbol: ' HMSD'
-collision_symbol: C18orf53

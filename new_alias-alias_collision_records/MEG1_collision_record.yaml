@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106070
-  gene_symbol: GRB10
-- ensg_id: ENSG00000154845
-  gene_symbol: ' PPP4R1'
-collision_symbol: MEG1

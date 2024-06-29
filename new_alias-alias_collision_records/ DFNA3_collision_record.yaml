@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165474
-  gene_symbol: GJB2
-- ensg_id: ENSG00000121742
-  gene_symbol: ' GJB6'
-collision_symbol: ' DFNA3'

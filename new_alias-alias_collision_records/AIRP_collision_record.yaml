@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000250741
-  gene_symbol: NT5C1B-RDH14
-- ensg_id: ENSG00000185013
-  gene_symbol: ' NT5C1B'
-collision_symbol: AIRP

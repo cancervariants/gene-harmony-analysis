@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131446
-  gene_symbol: MGAT1
-- ensg_id: ENSG00000196517
-  gene_symbol: ' SLC6A9'
-collision_symbol: ' GLYT1'

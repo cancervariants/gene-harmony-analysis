@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132967
-  gene_symbol: HMGB1P5
-- ensg_id: ENSG00000189403
-  gene_symbol: ' HMGB1'
-collision_symbol: HMG-1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160505
-  gene_symbol: NLRP4
-- ensg_id: ENSG00000240857
-  gene_symbol: ' RDH14'
-collision_symbol: PAN2

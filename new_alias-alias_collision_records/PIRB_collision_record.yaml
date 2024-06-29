@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204577
-  gene_symbol: LILRB3
-- ensg_id: ENSG00000104972
-  gene_symbol: ' LILRB1'
-collision_symbol: PIRB

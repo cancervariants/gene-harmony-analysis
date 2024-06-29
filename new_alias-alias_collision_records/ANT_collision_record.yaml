@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169100
-  gene_symbol: SLC25A6
-- ensg_id: ENSG00000151729
-  gene_symbol: ' SLC25A4'
-collision_symbol: ANT

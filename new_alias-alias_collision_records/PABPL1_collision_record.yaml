@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: PABPC1P10
-- ensg_id: ENSG00000070756
-  gene_symbol: ' PABPC1'
-collision_symbol: PABPL1

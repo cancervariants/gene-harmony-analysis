@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000013441
-  gene_symbol: CLK1
-- ensg_id: ENSG00000184005
-  gene_symbol: ' ST6GALNAC3'
-collision_symbol: STY

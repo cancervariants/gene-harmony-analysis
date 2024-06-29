@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112062
-  gene_symbol: MAPK14
-- ensg_id: ENSG00000165119
-  gene_symbol: ' HNRNPK'
-collision_symbol: CSBP

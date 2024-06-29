@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187024
-  gene_symbol: PTRH1
-- ensg_id: ENSG00000152266
-  gene_symbol: ' PTH'
-collision_symbol: PTH1

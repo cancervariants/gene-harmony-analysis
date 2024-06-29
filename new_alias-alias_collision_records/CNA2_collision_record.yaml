@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107758
-  gene_symbol: PPP3CB
-- ensg_id: ENSG00000139330
-  gene_symbol: ' KERA'
-collision_symbol: CNA2

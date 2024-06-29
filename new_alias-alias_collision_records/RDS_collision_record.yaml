@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128311
-  gene_symbol: TST
-- ensg_id: ENSG00000112619
-  gene_symbol: ' PRPH2'
-collision_symbol: RDS

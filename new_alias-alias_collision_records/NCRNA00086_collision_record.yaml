@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196972
-  gene_symbol: SMIM10L2B
-- ensg_id: ENSG00000178947
-  gene_symbol: ' SMIM10L2A'
-collision_symbol: NCRNA00086

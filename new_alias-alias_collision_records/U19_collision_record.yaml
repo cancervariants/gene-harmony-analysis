@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145088
-  gene_symbol: EAF2
-- ensg_id: ENSG00000200959
-  gene_symbol: ' SNORA74A'
-collision_symbol: U19

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204256
-  gene_symbol: BRD2
-- ensg_id: ENSG00000185619
-  gene_symbol: ' PCGF3'
-collision_symbol: RNF3

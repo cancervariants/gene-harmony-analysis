@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117448
-  gene_symbol: AKR1A1
-- ensg_id: ENSG00000085662
-  gene_symbol: ' AKR1B1'
-collision_symbol: ALDR1

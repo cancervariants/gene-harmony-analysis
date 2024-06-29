@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176248
-  gene_symbol: ANAPC2
-- ensg_id: ENSG00000125648
-  gene_symbol: ' SLC25A23'
-collision_symbol: APC2

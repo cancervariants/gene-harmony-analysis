@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167461
-  gene_symbol: RAB8A
-- ensg_id: ENSG00000169032
-  gene_symbol: ' MAP2K1'
-collision_symbol: MEL

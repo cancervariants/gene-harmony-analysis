@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: LOC102723407
-- ensg_id: NAN
-  gene_symbol: ' LOC102724971'
-- ensg_id: NAN
-  gene_symbol: ' IGH'
-collision_symbol: IGH@

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115271
-  gene_symbol: GCA
-- ensg_id: ENSG00000244234
-  gene_symbol: ' GMCL2'
-collision_symbol: GCL

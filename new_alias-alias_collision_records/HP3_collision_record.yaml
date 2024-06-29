@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241935
-  gene_symbol: HOGA1
-- ensg_id: ENSG00000239839
-  gene_symbol: ' DEFA3'
-collision_symbol: HP3

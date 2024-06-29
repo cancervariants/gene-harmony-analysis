@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000154803
-  gene_symbol: FLCN
-- ensg_id: ENSG00000109775
-  gene_symbol: ' UFSP2'
-collision_symbol: BHD

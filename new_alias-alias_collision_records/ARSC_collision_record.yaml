@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101846
-  gene_symbol: STS
-- ensg_id: NAN
-  gene_symbol: ' ARSC2'
-collision_symbol: ARSC

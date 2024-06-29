@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156011
-  gene_symbol: PSD3
-- ensg_id: ENSG00000164039
-  gene_symbol: ' BDH2'
-collision_symbol: EFA6R

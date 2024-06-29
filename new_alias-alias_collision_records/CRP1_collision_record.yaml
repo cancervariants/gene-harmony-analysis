@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000092067
-  gene_symbol: CEBPE
-- ensg_id: ENSG00000159176
-  gene_symbol: ' CSRP1'
-- ensg_id: ENSG00000213145
-  gene_symbol: ' CRIP1'
-collision_symbol: CRP1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000092377
-  gene_symbol: TBL1Y
-- ensg_id: ENSG00000101849
-  gene_symbol: ' TBL1X'
-collision_symbol: TBL1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135452
-  gene_symbol: TSPAN31
-- ensg_id: ENSG00000095380
-  gene_symbol: ' NANS'
-collision_symbol: SAS

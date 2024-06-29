@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198034
-  gene_symbol: RPS4X
-- ensg_id: ENSG00000100764
-  gene_symbol: ' PSMC1'
-- ensg_id: ENSG00000129824
-  gene_symbol: ' RPS4Y1'
-collision_symbol: ' S4'

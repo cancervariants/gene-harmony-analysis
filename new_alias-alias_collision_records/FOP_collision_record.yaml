@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213066
-  gene_symbol: CEP43
-- ensg_id: ENSG00000160679
-  gene_symbol: ' CHTOP'
-collision_symbol: FOP

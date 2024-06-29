@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162383
-  gene_symbol: SLC1A7
-- ensg_id: ENSG00000105281
-  gene_symbol: ' SLC1A5'
-collision_symbol: AAAT

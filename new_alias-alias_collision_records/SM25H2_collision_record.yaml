@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171931
-  gene_symbol: FBXW10
-- ensg_id: ENSG00000241322
-  gene_symbol: ' FBXW10B'
-collision_symbol: SM25H2

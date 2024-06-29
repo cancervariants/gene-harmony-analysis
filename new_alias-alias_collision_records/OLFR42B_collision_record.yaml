@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204657
-  gene_symbol: OR2H2
-- ensg_id: NAN
-  gene_symbol: ' OR2H5P'
-collision_symbol: OLFR42B

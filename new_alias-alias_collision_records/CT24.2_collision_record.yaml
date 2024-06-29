@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000268916
-  gene_symbol: CSAG3
-- ensg_id: ENSG00000268902
-  gene_symbol: ' CSAG2'
-collision_symbol: CT24.2

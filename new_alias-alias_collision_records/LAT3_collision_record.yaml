@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103064
-  gene_symbol: SLC7A6
-- ensg_id: ENSG00000155465
-  gene_symbol: ' SLC7A7'
-- ensg_id: ENSG00000149150
-  gene_symbol: ' SLC43A1'
-collision_symbol: LAT3

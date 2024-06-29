@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112799
-  gene_symbol: LY86
-- ensg_id: NAN
-  gene_symbol: ' MAFD1'
-collision_symbol: MD1

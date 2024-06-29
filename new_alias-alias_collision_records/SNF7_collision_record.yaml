@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101421
-  gene_symbol: CHMP4B
-- ensg_id: ENSG00000254505
-  gene_symbol: ' CHMP4A'
-collision_symbol: SNF7

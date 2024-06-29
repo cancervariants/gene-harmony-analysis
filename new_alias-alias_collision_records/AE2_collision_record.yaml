@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164889
-  gene_symbol: SLC4A2
-- ensg_id: ENSG00000142794
-  gene_symbol: ' NBPF3'
-collision_symbol: AE2

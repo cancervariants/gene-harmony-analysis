@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125384
-  gene_symbol: PTGER2
-- ensg_id: ENSG00000164871
-  gene_symbol: ' SPAG11B'
-collision_symbol: EP2

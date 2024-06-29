@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000152669
-  gene_symbol: CCNO
-- ensg_id: ENSG00000076248
-  gene_symbol: ' UNG'
-collision_symbol: UNG2

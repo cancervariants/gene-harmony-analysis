@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128602
-  gene_symbol: SMO
-- ensg_id: ENSG00000128340
-  gene_symbol: ' RAC2'
-collision_symbol: Gx

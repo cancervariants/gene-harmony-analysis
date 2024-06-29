@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000009844
-  gene_symbol: VTA1
-- ensg_id: ENSG00000105429
-  gene_symbol: ' MEGF8'
-collision_symbol: SBP1

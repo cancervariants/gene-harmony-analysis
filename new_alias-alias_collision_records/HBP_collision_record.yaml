@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000013583
-  gene_symbol: HEBP1
-- ensg_id: ENSG00000115677
-  gene_symbol: ' HDLBP'
-- ensg_id: ENSG00000163950
-  gene_symbol: ' SLBP'
-collision_symbol: HBP

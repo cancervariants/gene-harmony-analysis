@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159023
-  gene_symbol: EPB41
-- ensg_id: ENSG00000115165
-  gene_symbol: ' CYTIP'
-collision_symbol: HE

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169744
-  gene_symbol: LDB2
-- ensg_id: ENSG00000107438
-  gene_symbol: ' PDLIM1'
-collision_symbol: CLIM1

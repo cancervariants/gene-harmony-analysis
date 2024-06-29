@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000140326
-  gene_symbol: CDAN1
-- ensg_id: ENSG00000184205
-  gene_symbol: ' TSPYL2'
-collision_symbol: CDA1

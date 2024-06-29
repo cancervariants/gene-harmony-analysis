@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115211
-  gene_symbol: EIF2B4
-- ensg_id: ENSG00000119718
-  gene_symbol: ' EIF2B2'
-collision_symbol: EIF2B

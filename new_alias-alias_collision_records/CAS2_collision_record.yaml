@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111859
-  gene_symbol: NEDD9
-- ensg_id: ENSG00000107165
-  gene_symbol: ' TYRP1'
-collision_symbol: CAS2

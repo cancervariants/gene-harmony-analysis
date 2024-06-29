@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187672
-  gene_symbol: ERC2
-- ensg_id: ENSG00000117877
-  gene_symbol: ' POLR1G'
-collision_symbol: CAST

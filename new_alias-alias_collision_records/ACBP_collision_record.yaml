@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000155368
-  gene_symbol: DBI
-- ensg_id: ENSG00000178772
-  gene_symbol: ' CPN2'
-collision_symbol: ACBP

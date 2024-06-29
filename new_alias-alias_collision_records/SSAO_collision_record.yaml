@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131480
-  gene_symbol: AOC2
-- ensg_id: ENSG00000131471
-  gene_symbol: ' AOC3'
-collision_symbol: SSAO

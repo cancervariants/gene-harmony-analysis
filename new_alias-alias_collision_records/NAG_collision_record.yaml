@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108784
-  gene_symbol: NAGLU
-- ensg_id: ENSG00000151779
-  gene_symbol: ' NBAS'
-collision_symbol: NAG

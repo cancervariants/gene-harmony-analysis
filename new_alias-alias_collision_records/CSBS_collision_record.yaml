@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166250
-  gene_symbol: CLMP
-- ensg_id: ENSG00000196924
-  gene_symbol: ' FLNA'
-collision_symbol: CSBS

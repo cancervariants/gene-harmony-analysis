@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: XGY1
-- ensg_id: ENSG00000288686
-  gene_symbol: ' XGY2'
-collision_symbol: XGPY

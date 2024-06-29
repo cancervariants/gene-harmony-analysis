@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198517
-  gene_symbol: MAFK
-- ensg_id: ENSG00000186448
-  gene_symbol: ' ZNF197'
-collision_symbol: P18

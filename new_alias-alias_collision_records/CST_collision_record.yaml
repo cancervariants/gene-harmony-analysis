@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164414
-  gene_symbol: SLC35A1
-- ensg_id: ENSG00000130940
-  gene_symbol: ' CASZ1'
-- ensg_id: ENSG00000128242
-  gene_symbol: ' GAL3ST1'
-collision_symbol: CST

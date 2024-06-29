@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113594
-  gene_symbol: LIFR
-- ensg_id: ENSG00000156052
-  gene_symbol: ' GNAQ'
-collision_symbol: SWS

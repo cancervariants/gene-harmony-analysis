@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000006210
-  gene_symbol: CX3CL1
-- ensg_id: ENSG00000171119
-  gene_symbol: ' NRTN'
-collision_symbol: NTN

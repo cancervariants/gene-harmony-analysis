@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000121879
-  gene_symbol: PIK3CA
-- ensg_id: ENSG00000146085
-  gene_symbol: ' MMUT'
-collision_symbol: MCM

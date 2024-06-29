@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000257046
-  gene_symbol: SLCO1B3-SLCO1B7
-- ensg_id: NAN
-  gene_symbol: ' SLCO1B7'
-collision_symbol: LST-3TM12

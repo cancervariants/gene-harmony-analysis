@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187010
-  gene_symbol: RHD
-- ensg_id: ENSG00000188672
-  gene_symbol: ' RHCE'
-collision_symbol: ' RH'

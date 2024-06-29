@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116885
-  gene_symbol: OSCP1
-- ensg_id: ENSG00000119508
-  gene_symbol: ' NR4A3'
-collision_symbol: ' NOR1'

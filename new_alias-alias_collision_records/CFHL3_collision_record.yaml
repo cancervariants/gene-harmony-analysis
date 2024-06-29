@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116785
-  gene_symbol: CFHR3
-- ensg_id: ENSG00000289697
-  gene_symbol: ' CFH'
-collision_symbol: CFHL3

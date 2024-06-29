@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182093
-  gene_symbol: GET1
-- ensg_id: ENSG00000124177
-  gene_symbol: ' CHD6'
-collision_symbol: CHD5

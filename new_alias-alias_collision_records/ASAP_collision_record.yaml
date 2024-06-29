@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153363
-  gene_symbol: LINC00467
-- ensg_id: ENSG00000164114
-  gene_symbol: ' MAP9'
-collision_symbol: ASAP

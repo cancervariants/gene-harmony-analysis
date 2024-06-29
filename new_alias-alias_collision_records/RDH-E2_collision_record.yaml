@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170786
-  gene_symbol: SDR16C5
-- ensg_id: ENSG00000073737
-  gene_symbol: ' DHRS9'
-collision_symbol: RDH-E2

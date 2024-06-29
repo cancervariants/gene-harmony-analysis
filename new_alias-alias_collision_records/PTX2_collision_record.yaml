@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132703
-  gene_symbol: APCS
-- ensg_id: ENSG00000164093
-  gene_symbol: ' PITX2'
-collision_symbol: PTX2

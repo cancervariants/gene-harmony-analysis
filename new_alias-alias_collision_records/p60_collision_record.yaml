@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000237178
-  gene_symbol: H3P7
-- ensg_id: ENSG00000161011
-  gene_symbol: ' SQSTM1'
-collision_symbol: p60

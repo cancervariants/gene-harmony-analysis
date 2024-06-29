@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173432
-  gene_symbol: SAA1
-- ensg_id: ENSG00000134339
-  gene_symbol: ' SAA2'
-collision_symbol: SAA

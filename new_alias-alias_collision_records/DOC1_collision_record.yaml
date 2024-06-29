@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111328
-  gene_symbol: CDK2AP1
-- ensg_id: ENSG00000164162
-  gene_symbol: ' ANAPC10'
-collision_symbol: DOC1

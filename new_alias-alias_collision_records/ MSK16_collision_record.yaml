@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000157766
-  gene_symbol: ACAN
-- ensg_id: ENSG00000173546
-  gene_symbol: ' CSPG4'
-collision_symbol: ' MSK16'

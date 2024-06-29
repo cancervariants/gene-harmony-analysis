@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180068
-  gene_symbol: OR3A4P
-- ensg_id: ENSG00000285760
-  gene_symbol: ' OR3A5P'
-collision_symbol: OLFRA06

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122852
-  gene_symbol: SFTPA1
-- ensg_id: ENSG00000185303
-  gene_symbol: ' SFTPA2'
-collision_symbol: SFTP1

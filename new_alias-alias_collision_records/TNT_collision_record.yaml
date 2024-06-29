@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105048
-  gene_symbol: TNNT1
-- ensg_id: ENSG00000234186
-  gene_symbol: ' C16orf82'
-collision_symbol: TNT

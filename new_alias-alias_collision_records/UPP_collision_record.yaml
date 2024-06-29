@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000094841
-  gene_symbol: UPRT
-- ensg_id: ENSG00000170846
-  gene_symbol: ' LOC93622'
-- ensg_id: ENSG00000183696
-  gene_symbol: ' UPP1'
-collision_symbol: UPP

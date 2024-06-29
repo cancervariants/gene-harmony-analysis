@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138823
-  gene_symbol: MTTP
-- ensg_id: ENSG00000097007
-  gene_symbol: ' ABL1'
-collision_symbol: ABL

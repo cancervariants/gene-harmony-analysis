@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000229421
-  gene_symbol: H3P10
-- ensg_id: ENSG00000147889
-  gene_symbol: ' CDKN2A'
-collision_symbol: p16

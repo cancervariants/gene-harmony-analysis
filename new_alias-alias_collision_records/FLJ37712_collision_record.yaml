@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000183780
-  gene_symbol: SLC35F3
-- ensg_id: ENSG00000151812
-  gene_symbol: ' SLC35F4'
-collision_symbol: FLJ37712

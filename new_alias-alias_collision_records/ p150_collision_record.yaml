@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166825
-  gene_symbol: ANPEP
-- ensg_id: ENSG00000097007
-  gene_symbol: ' ABL1'
-collision_symbol: ' p150'

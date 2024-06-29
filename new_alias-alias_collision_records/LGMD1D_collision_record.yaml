@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105993
-  gene_symbol: DNAJB6
-- ensg_id: ENSG00000175084
-  gene_symbol: ' DES'
-collision_symbol: LGMD1D

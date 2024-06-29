@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182463
-  gene_symbol: TSHZ2
-- ensg_id: ENSG00000144115
-  gene_symbol: ' THNSL2'
-collision_symbol: TSH2

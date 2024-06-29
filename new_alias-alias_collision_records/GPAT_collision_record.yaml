@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119927
-  gene_symbol: GPAM
-- ensg_id: ENSG00000128059
-  gene_symbol: ' PPAT'
-collision_symbol: GPAT

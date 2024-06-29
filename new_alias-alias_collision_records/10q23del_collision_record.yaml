@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171862
-  gene_symbol: PTEN
-- ensg_id: ENSG00000107779
-  gene_symbol: ' BMPR1A'
-collision_symbol: 10q23del

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000229807
-  gene_symbol: XIST
-- ensg_id: NAN
-  gene_symbol: ' XIC'
-collision_symbol: SXI1

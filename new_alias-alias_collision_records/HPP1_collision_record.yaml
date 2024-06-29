@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159593
-  gene_symbol: NAE1
-- ensg_id: ENSG00000144339
-  gene_symbol: ' TMEFF2'
-collision_symbol: HPP1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115593
-  gene_symbol: SMYD1
-- ensg_id: ENSG00000215012
-  gene_symbol: ' RTL10'
-collision_symbol: BOP

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128322
-  gene_symbol: IGLL1
-- ensg_id: ENSG00000169575
-  gene_symbol: ' VPREB1'
-collision_symbol: IGVPB

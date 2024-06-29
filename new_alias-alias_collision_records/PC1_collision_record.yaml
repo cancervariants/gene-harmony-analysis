@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186832
-  gene_symbol: KRT16
-- ensg_id: ENSG00000175426
-  gene_symbol: ' PCSK1'
-- ensg_id: ENSG00000008710
-  gene_symbol: ' PKD1'
-collision_symbol: PC1

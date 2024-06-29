@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000278728
-  gene_symbol: CNTNAP2
-- ensg_id: ENSG00000108797
-  gene_symbol: ' CNTNAP1'
-collision_symbol: ' NRXN4'

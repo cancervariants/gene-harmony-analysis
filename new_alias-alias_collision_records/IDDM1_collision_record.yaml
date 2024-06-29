@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000254647
-  gene_symbol: INS
-- ensg_id: ENSG00000179344
-  gene_symbol: ' HLA-DQB1'
-collision_symbol: IDDM1

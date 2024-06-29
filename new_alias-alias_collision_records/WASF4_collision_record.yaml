@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158195
-  gene_symbol: WASF2
-- ensg_id: NAN
-  gene_symbol: ' WASF4P'
-collision_symbol: WASF4

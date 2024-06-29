@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158887
-  gene_symbol: MPZ
-- ensg_id: ENSG00000101654
-  gene_symbol: ' RNMT'
-collision_symbol: CMT1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168621
-  gene_symbol: GDNF
-- ensg_id: ENSG00000122861
-  gene_symbol: ' PLAU'
-collision_symbol: ATF

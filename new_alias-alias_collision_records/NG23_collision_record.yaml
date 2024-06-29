@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000228727
-  gene_symbol: SAPCD1
-- ensg_id: ENSG00000204410
-  gene_symbol: ' MSH5'
-collision_symbol: NG23

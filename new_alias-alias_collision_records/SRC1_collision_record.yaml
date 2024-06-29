@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197122
-  gene_symbol: SRC
-- ensg_id: ENSG00000084676
-  gene_symbol: ' NCOA1'
-collision_symbol: SRC1

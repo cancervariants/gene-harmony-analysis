@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101335
-  gene_symbol: MYL9
-- ensg_id: ENSG00000111245
-  gene_symbol: ' MYL2'
-collision_symbol: MLC2

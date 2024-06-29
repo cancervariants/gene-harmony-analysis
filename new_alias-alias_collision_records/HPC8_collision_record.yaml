@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: PCAP
-- ensg_id: ENSG00000106541
-  gene_symbol: ' AGR2'
-collision_symbol: HPC8

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177156
-  gene_symbol: TALDO1
-- ensg_id: NAN
-  gene_symbol: ' TALDO1P1'
-collision_symbol: TAL-H

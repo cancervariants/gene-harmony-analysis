@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119139
-  gene_symbol: TJP2
-- ensg_id: ENSG00000099377
-  gene_symbol: ' HSD3B7'
-collision_symbol: PFIC4

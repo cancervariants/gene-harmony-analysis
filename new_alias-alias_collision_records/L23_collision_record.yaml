@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000242580
-  gene_symbol: IGKV1D-43
-- ensg_id: ENSG00000125691
-  gene_symbol: ' RPL23'
-collision_symbol: L23

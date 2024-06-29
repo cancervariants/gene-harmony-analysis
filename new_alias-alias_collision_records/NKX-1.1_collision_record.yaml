@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000229544
-  gene_symbol: NKX1-2
-- ensg_id: ENSG00000235608
-  gene_symbol: ' NKX1-1'
-collision_symbol: NKX-1.1

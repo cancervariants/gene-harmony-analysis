@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156738
-  gene_symbol: MS4A1
-- ensg_id: ENSG00000122507
-  gene_symbol: ' BBS9'
-collision_symbol: B1

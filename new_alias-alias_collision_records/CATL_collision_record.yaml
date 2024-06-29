@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135047
-  gene_symbol: CTSL
-- ensg_id: ENSG00000165125
-  gene_symbol: ' TRPV6'
-collision_symbol: CATL

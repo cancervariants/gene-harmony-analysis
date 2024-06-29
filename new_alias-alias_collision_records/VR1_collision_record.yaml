@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196689
-  gene_symbol: TRPV1
-- ensg_id: ENSG00000199990
-  gene_symbol: ' VTRNA1-1'
-collision_symbol: VR1

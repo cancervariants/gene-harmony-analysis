@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000047597
-  gene_symbol: XK
-- ensg_id: ENSG00000091592
-  gene_symbol: ' NLRP1'
-collision_symbol: ' NAC'

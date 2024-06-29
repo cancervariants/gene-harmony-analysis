@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120370
-  gene_symbol: GORAB
-- ensg_id: ENSG00000101323
-  gene_symbol: ' HAO1'
-collision_symbol: GO

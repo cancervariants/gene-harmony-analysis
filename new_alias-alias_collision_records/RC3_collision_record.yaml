@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104093
-  gene_symbol: DMXL2
-- ensg_id: ENSG00000154146
-  gene_symbol: ' NRGN'
-collision_symbol: RC3

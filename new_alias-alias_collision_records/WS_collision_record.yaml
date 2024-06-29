@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000049540
-  gene_symbol: ELN
-- ensg_id: ENSG00000147160
-  gene_symbol: ' AWAT2'
-collision_symbol: WS

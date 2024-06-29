@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116473
-  gene_symbol: RAP1A
-- ensg_id: ENSG00000166848
-  gene_symbol: ' TERF2IP'
-- ensg_id: ENSG00000154710
-  gene_symbol: ' RABGEF1'
-collision_symbol: RAP1

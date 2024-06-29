@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109332
-  gene_symbol: UBE2D3
-- ensg_id: ENSG00000131508
-  gene_symbol: ' UBE2D2'
-- ensg_id: ENSG00000072401
-  gene_symbol: ' UBE2D1'
-collision_symbol: UBC4/5

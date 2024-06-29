@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165474
-  gene_symbol: GJB2
-- ensg_id: ENSG00000079616
-  gene_symbol: ' KIF22'
-- ensg_id: ENSG00000086159
-  gene_symbol: ' AQP6'
-collision_symbol: KID

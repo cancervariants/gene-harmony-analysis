@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172336
-  gene_symbol: POP7
-- ensg_id: ENSG00000167272
-  gene_symbol: ' POP5'
-collision_symbol: RPP20

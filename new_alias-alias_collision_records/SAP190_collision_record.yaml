@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100239
-  gene_symbol: PPP6R2
-- ensg_id: ENSG00000105063
-  gene_symbol: ' PPP6R1'
-- ensg_id: ENSG00000110075
-  gene_symbol: ' PPP6R3'
-collision_symbol: SAP190

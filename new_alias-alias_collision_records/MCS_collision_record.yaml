@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163206
-  gene_symbol: SMCP
-- ensg_id: ENSG00000126970
-  gene_symbol: ' ZC4H2'
-- ensg_id: ENSG00000075643
-  gene_symbol: ' MOCOS'
-collision_symbol: MCS

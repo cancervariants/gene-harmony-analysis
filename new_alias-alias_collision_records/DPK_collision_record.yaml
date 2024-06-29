@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135090
-  gene_symbol: TAOK3
-- ensg_id: ENSG00000135750
-  gene_symbol: ' KCNK1'
-collision_symbol: DPK

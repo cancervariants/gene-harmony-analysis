@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112357
-  gene_symbol: PEX7
-- ensg_id: ENSG00000204356
-  gene_symbol: ' NELFE'
-- ensg_id: ENSG00000107537
-  gene_symbol: ' PHYH'
-collision_symbol: RD

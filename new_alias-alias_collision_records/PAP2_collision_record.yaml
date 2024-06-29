@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132382
-  gene_symbol: MYBBP1A
-- ensg_id: ENSG00000117598
-  gene_symbol: ' PLPPR5'
-collision_symbol: PAP2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000121053
-  gene_symbol: EPX
-- ensg_id: ENSG00000066926
-  gene_symbol: ' FECH'
-collision_symbol: EPP

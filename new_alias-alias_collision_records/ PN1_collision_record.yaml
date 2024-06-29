@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169432
-  gene_symbol: SCN9A
-- ensg_id: ENSG00000135919
-  gene_symbol: ' SERPINE2'
-collision_symbol: ' PN1'

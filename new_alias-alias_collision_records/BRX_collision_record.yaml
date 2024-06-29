@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204116
-  gene_symbol: CHIC1
-- ensg_id: ENSG00000170776
-  gene_symbol: ' AKAP13'
-collision_symbol: BRX

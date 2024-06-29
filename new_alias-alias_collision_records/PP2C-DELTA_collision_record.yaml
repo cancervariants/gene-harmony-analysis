@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170836
-  gene_symbol: PPM1D
-- ensg_id: ENSG00000132323
-  gene_symbol: ' ILKAP'
-collision_symbol: PP2C-DELTA

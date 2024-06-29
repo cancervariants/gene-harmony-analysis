@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168883
-  gene_symbol: USP39
-- ensg_id: ENSG00000174672
-  gene_symbol: ' BRSK2'
-collision_symbol: SAD1

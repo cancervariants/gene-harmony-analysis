@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188342
-  gene_symbol: GTF2F2
-- ensg_id: ENSG00000125651
-  gene_symbol: ' GTF2F1'
-collision_symbol: BTF4

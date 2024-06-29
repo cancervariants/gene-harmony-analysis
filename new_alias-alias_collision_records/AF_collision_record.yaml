@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187961
-  gene_symbol: KLHL17
-- ensg_id: ENSG00000159352
-  gene_symbol: ' PSMD4'
-collision_symbol: AF

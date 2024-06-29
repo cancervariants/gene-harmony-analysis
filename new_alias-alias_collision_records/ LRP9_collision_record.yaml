@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137642
-  gene_symbol: SORL1
-- ensg_id: ENSG00000197324
-  gene_symbol: ' LRP10'
-collision_symbol: ' LRP9'

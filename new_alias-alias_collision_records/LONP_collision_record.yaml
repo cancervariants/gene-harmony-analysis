@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102910
-  gene_symbol: LONP2
-- ensg_id: ENSG00000196365
-  gene_symbol: ' LONP1'
-collision_symbol: LONP

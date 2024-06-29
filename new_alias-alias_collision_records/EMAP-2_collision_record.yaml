@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165521
-  gene_symbol: EML5
-- ensg_id: ENSG00000125746
-  gene_symbol: ' EML2'
-collision_symbol: EMAP-2

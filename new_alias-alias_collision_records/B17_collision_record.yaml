@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159147
-  gene_symbol: DONSON
-- ensg_id: ENSG00000165264
-  gene_symbol: ' NDUFB6'
-collision_symbol: B17

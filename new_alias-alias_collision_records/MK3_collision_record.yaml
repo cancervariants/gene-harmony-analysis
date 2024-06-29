@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177272
-  gene_symbol: KCNA3
-- ensg_id: ENSG00000114738
-  gene_symbol: ' MAPKAPK3'
-collision_symbol: MK3

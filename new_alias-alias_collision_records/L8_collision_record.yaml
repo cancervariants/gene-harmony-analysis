@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000161016
-  gene_symbol: RPL8
-- ensg_id: ENSG00000241755
-  gene_symbol: ' IGKV1-9'
-collision_symbol: L8

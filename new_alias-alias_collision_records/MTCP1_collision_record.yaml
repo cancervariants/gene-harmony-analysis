@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000183918
-  gene_symbol: SH2D1A
-- ensg_id: ENSG00000182712
-  gene_symbol: ' CMC4'
-collision_symbol: MTCP1

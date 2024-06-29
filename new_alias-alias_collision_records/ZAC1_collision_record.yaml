@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186919
-  gene_symbol: ZACN
-- ensg_id: ENSG00000118495
-  gene_symbol: ' PLAGL1'
-collision_symbol: ZAC1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130706
-  gene_symbol: ADRM1
-- ensg_id: ENSG00000167749
-  gene_symbol: ' KLK4'
-collision_symbol: ARM1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100796
-  gene_symbol: PPP4R3A
-- ensg_id: ENSG00000224960
-  gene_symbol: ' PPP4R3C'
-collision_symbol: smk1

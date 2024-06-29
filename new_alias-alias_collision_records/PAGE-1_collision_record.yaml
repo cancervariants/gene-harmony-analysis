@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000068985
-  gene_symbol: PAGE1
-- ensg_id: ENSG00000101951
-  gene_symbol: ' PAGE4'
-collision_symbol: PAGE-1

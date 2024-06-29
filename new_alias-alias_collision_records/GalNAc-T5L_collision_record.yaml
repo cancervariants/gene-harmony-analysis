@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185274
-  gene_symbol: GALNT17
-- ensg_id: ENSG00000106648
-  gene_symbol: ' GALNTL5'
-collision_symbol: GalNAc-T5L

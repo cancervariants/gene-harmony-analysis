@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000084207
-  gene_symbol: GSTP1
-- ensg_id: ENSG00000140835
-  gene_symbol: ' CHST4'
-collision_symbol: GST3

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110492
-  gene_symbol: MDK
-- ensg_id: ENSG00000110921
-  gene_symbol: ' MVK'
-collision_symbol: ' MK'

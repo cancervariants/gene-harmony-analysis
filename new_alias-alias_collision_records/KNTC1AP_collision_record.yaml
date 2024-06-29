@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000086827
-  gene_symbol: ZW10
-- ensg_id: ENSG00000174442
-  gene_symbol: ' ZWILCH'
-collision_symbol: KNTC1AP

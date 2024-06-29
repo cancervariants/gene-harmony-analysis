@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169598
-  gene_symbol: DFFB
-- ensg_id: ENSG00000102794
-  gene_symbol: ' ACOD1'
-collision_symbol: CAD

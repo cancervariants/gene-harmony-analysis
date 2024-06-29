@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170835
-  gene_symbol: CEL
-- ensg_id: ENSG00000168515
-  gene_symbol: ' SCGB1D1'
-collision_symbol: LIPA

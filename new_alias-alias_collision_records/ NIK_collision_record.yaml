@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000071054
-  gene_symbol: MAP4K4
-- ensg_id: ENSG00000006062
-  gene_symbol: ' MAP3K14'
-collision_symbol: ' NIK'

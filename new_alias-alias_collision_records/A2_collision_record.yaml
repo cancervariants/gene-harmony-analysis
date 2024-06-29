@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185344
-  gene_symbol: ATP6V0A2
-- ensg_id: ENSG00000149735
-  gene_symbol: ' GPHA2'
-collision_symbol: A2

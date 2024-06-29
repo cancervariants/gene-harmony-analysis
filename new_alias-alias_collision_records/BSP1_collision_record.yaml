@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170365
-  gene_symbol: SMAD1
-- ensg_id: ENSG00000188334
-  gene_symbol: ' BSPH1'
-collision_symbol: BSP1

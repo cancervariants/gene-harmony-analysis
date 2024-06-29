@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129250
-  gene_symbol: KIF1C
-- ensg_id: ENSG00000235608
-  gene_symbol: ' NKX1-1'
-collision_symbol: SAX2

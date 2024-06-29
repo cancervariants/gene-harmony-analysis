@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115806
-  gene_symbol: GORASP2
-- ensg_id: NAN
-  gene_symbol: ' H3P27'
-collision_symbol: p59

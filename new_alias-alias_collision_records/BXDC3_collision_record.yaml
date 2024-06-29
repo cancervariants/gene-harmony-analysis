@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000243207
-  gene_symbol: PPAN-P2RY11
-- ensg_id: ENSG00000130810
-  gene_symbol: ' PPAN'
-collision_symbol: BXDC3

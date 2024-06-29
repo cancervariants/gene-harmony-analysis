@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: UAQTL4
-- ensg_id: ENSG00000124564
-  gene_symbol: ' SLC17A3'
-collision_symbol: GOUT4

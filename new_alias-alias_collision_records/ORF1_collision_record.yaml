@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213672
-  gene_symbol: NCKIPSD
-- ensg_id: ENSG00000135541
-  gene_symbol: ' AHI1'
-collision_symbol: ORF1

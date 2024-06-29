@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110848
-  gene_symbol: CD69
-- ensg_id: ENSG00000111262
-  gene_symbol: ' KCNA1'
-collision_symbol: EA1

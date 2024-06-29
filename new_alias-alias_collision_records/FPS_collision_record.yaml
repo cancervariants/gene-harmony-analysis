@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182511
-  gene_symbol: FES
-- ensg_id: ENSG00000160752
-  gene_symbol: ' FDPS'
-collision_symbol: FPS

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138069
-  gene_symbol: RAB1A
-- ensg_id: ENSG00000258818
-  gene_symbol: ' RNASE4'
-collision_symbol: RAB1

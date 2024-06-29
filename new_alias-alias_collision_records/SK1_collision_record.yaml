@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105642
-  gene_symbol: KCNN1
-- ensg_id: ENSG00000138801
-  gene_symbol: ' PAPSS1'
-collision_symbol: SK1

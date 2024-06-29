@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105993
-  gene_symbol: DNAJB6
-- ensg_id: ENSG00000086061
-  gene_symbol: ' DNAJA1'
-collision_symbol: HSJ-2

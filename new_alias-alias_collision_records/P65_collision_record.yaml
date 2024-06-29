@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000067715
-  gene_symbol: SYT1
-- ensg_id: ENSG00000114745
-  gene_symbol: ' GORASP1'
-collision_symbol: P65

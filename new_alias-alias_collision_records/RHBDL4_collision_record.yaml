@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141314
-  gene_symbol: RHBDL3
-- ensg_id: ENSG00000144468
-  gene_symbol: ' RHBDD1'
-collision_symbol: RHBDL4

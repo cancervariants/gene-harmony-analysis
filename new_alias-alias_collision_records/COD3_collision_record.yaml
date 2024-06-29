@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000048545
-  gene_symbol: GUCA1A
-- ensg_id: ENSG00000102001
-  gene_symbol: ' CACNA1F'
-collision_symbol: COD3

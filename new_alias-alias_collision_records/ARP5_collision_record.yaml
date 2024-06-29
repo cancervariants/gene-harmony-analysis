@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000244509
-  gene_symbol: APOBEC3C
-- ensg_id: ENSG00000130812
-  gene_symbol: ' ANGPTL6'
-collision_symbol: ARP5

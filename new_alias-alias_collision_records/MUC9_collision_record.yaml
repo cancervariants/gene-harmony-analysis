@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000085465
-  gene_symbol: OVGP1
-- ensg_id: ENSG00000117983
-  gene_symbol: ' MUC5B'
-collision_symbol: MUC9

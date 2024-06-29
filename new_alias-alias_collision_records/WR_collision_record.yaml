@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000004939
-  gene_symbol: SLC4A1
-- ensg_id: ENSG00000143952
-  gene_symbol: ' VPS54'
-collision_symbol: WR

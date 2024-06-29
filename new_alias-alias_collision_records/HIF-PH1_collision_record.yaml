@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: RAB4B-EGLN2
-- ensg_id: ENSG00000269858
-  gene_symbol: ' EGLN2'
-collision_symbol: HIF-PH1

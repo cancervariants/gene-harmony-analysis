@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159388
-  gene_symbol: BTG2
-- ensg_id: ENSG00000175426
-  gene_symbol: ' PCSK1'
-- ensg_id: ENSG00000141570
-  gene_symbol: ' CBX8'
-collision_symbol: ' PC3'

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166351
-  gene_symbol: POTED
-- ensg_id: ENSG00000277630
-  gene_symbol: ' LOC100288966'
-collision_symbol: ANKRD21

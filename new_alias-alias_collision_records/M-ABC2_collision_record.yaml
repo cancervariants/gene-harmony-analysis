@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135776
-  gene_symbol: ABCB10
-- ensg_id: NAN
-  gene_symbol: ' ABCB10P1'
-collision_symbol: M-ABC2

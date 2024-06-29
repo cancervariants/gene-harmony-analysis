@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150361
-  gene_symbol: KLHL1
-- ensg_id: ENSG00000023839
-  gene_symbol: ' ABCC2'
-collision_symbol: ' MRP2'

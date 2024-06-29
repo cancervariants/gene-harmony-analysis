@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169900
-  gene_symbol: PYDC1
-- ensg_id: ENSG00000112276
-  gene_symbol: ' BVES'
-collision_symbol: POP1

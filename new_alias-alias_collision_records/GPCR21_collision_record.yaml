@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132975
-  gene_symbol: GPR12
-- ensg_id: ENSG00000152207
-  gene_symbol: ' CYSLTR2'
-collision_symbol: GPCR21

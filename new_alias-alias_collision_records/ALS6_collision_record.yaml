@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: ALS3
-- ensg_id: ENSG00000089280
-  gene_symbol: ' FUS'
-collision_symbol: ALS6

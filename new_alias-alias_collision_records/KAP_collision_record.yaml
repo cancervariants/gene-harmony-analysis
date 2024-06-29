@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131400
-  gene_symbol: NAPSA
-- ensg_id: ENSG00000100526
-  gene_symbol: ' CDKN3'
-collision_symbol: KAP

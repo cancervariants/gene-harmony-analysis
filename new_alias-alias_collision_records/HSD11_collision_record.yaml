@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117594
-  gene_symbol: HSD11B1
-- ensg_id: ENSG00000128944
-  gene_symbol: ' KNSTRN'
-collision_symbol: HSD11

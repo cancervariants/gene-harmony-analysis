@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000233261
-  gene_symbol: FAM238A
-- ensg_id: ENSG00000105700
-  gene_symbol: ' KXD1'
-collision_symbol: C10orf50

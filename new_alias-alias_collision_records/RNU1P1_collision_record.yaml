@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000206737
-  gene_symbol: RNVU1-18
-- ensg_id: NAN
-  gene_symbol: ' RNU1-11P'
-collision_symbol: RNU1P1

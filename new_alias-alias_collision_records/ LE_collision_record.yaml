@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100099
-  gene_symbol: HPS4
-- ensg_id: ENSG00000171124
-  gene_symbol: ' FUT3'
-collision_symbol: ' LE'

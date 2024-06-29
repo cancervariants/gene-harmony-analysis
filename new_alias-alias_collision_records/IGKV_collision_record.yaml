@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000253998
-  gene_symbol: IGKV2-29
-- ensg_id: NAN
-  gene_symbol: ' IGKV@'
-- ensg_id: ENSG00000243466
-  gene_symbol: ' IGKV1-5'
-collision_symbol: IGKV

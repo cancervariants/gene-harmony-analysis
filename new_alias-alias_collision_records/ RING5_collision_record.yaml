@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000224399
-  gene_symbol: SLC39A7
-- ensg_id: ENSG00000225452
-  gene_symbol: ' RNF5'
-collision_symbol: ' RING5'

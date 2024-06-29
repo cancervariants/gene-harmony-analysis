@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196924
-  gene_symbol: FLNA
-- ensg_id: ENSG00000128591
-  gene_symbol: ' FLNC'
-collision_symbol: ABP-280

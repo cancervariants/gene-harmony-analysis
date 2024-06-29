@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: TARP
-- ensg_id: NAN
-  gene_symbol: ' TRG'
-- ensg_id: ENSG00000211689
-  gene_symbol: ' TRGC1'
-collision_symbol: TCRG

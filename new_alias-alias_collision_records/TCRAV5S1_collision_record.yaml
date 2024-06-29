@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000211780
-  gene_symbol: TRAV6
-- ensg_id: ENSG00000211779
-  gene_symbol: ' TRAV5'
-collision_symbol: TCRAV5S1

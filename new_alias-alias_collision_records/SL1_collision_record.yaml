@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103168
-  gene_symbol: TAF1C
-- ensg_id: ENSG00000143498
-  gene_symbol: ' TAF1A'
-- ensg_id: ENSG00000115750
-  gene_symbol: ' TAF1B'
-collision_symbol: SL1

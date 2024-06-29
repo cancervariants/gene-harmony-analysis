@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105492
-  gene_symbol: SIGLEC6
-- ensg_id: ENSG00000268500
-  gene_symbol: ' SIGLEC5'
-collision_symbol: CD33L2

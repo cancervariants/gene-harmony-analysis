@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000183726
-  gene_symbol: TMEM50A
-- ensg_id: ENSG00000137098
-  gene_symbol: ' SPAG8'
-collision_symbol: SMP1

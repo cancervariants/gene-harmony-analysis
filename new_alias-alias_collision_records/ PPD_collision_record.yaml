@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100987
-  gene_symbol: VSX1
-- ensg_id: ENSG00000158104
-  gene_symbol: ' HPD'
-collision_symbol: ' PPD'

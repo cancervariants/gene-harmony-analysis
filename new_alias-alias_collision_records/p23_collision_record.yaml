@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170348
-  gene_symbol: TMED10
-- ensg_id: ENSG00000248205
-  gene_symbol: ' H3P17'
-collision_symbol: p23

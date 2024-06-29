@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134612
-  gene_symbol: FOLH1B
-- ensg_id: ENSG00000086205
-  gene_symbol: ' FOLH1'
-- ensg_id: ENSG00000178188
-  gene_symbol: ' SH2B1'
-collision_symbol: PSM

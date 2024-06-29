@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168283
-  gene_symbol: BMI1
-- ensg_id: ENSG00000269897
-  gene_symbol: ' COMMD3-BMI1'
-collision_symbol: PCGF4

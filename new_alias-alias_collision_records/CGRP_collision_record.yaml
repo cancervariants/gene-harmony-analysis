@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110680
-  gene_symbol: CALCA
-- ensg_id: ENSG00000163221
-  gene_symbol: ' S100A12'
-collision_symbol: CGRP

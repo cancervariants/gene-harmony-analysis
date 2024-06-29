@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000286112
-  gene_symbol: KYAT1
-- ensg_id: ENSG00000128708
-  gene_symbol: ' HAT1'
-collision_symbol: KAT1

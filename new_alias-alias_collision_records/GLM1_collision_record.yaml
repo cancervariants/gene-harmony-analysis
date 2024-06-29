@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: GLM4
-- ensg_id: ENSG00000132170
-  gene_symbol: ' PPARG'
-collision_symbol: GLM1

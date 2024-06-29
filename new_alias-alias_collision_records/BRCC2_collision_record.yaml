@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139618
-  gene_symbol: BRCA2
-- ensg_id: ENSG00000259571
-  gene_symbol: ' BLID'
-collision_symbol: BRCC2

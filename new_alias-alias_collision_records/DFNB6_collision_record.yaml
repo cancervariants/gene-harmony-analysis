@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000181585
-  gene_symbol: TMIE
-- ensg_id: ENSG00000115155
-  gene_symbol: ' OTOF'
-collision_symbol: DFNB6

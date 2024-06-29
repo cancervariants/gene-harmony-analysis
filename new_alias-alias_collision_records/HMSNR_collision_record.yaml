@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156515
-  gene_symbol: HK1
-- ensg_id: NAN
-  gene_symbol: ' NMSR'
-collision_symbol: HMSNR

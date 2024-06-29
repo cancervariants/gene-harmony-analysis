@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000155918
-  gene_symbol: RAET1L
-- ensg_id: ENSG00000131015
-  gene_symbol: ' ULBP2'
-collision_symbol: RAET1H

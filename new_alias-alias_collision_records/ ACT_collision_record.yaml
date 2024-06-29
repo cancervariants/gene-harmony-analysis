@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196136
-  gene_symbol: SERPINA3
-- ensg_id: ENSG00000097021
-  gene_symbol: ' ACOT7'
-collision_symbol: ' ACT'

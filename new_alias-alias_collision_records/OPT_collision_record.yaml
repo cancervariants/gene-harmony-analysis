@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188770
-  gene_symbol: OPTC
-- ensg_id: ENSG00000094975
-  gene_symbol: ' SUCO'
-collision_symbol: OPT

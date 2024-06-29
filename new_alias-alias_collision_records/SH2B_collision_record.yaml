@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000178188
-  gene_symbol: SH2B1
-- ensg_id: ENSG00000160963
-  gene_symbol: ' COL26A1'
-collision_symbol: SH2B

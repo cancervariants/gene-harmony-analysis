@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164099
-  gene_symbol: PRSS12
-- ensg_id: ENSG00000143376
-  gene_symbol: ' SNX27'
-collision_symbol: MRT1

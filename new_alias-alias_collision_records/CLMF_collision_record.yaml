@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168811
-  gene_symbol: IL12A
-- ensg_id: ENSG00000113302
-  gene_symbol: ' IL12B'
-collision_symbol: CLMF

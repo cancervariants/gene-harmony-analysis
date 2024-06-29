@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102362
-  gene_symbol: SYTL4
-- ensg_id: ENSG00000125910
-  gene_symbol: ' S1PR4'
-collision_symbol: SLP4

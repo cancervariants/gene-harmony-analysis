@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000223611
-  gene_symbol: SUPT20HL2
-- ensg_id: ENSG00000223731
-  gene_symbol: ' SUPT20HL1'
-collision_symbol: FAM48B1

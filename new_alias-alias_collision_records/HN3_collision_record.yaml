@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159377
-  gene_symbol: PSMB4
-- ensg_id: NAN
-  gene_symbol: ' MTRNR2L3'
-collision_symbol: HN3

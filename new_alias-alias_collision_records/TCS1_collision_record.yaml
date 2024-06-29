@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164362
-  gene_symbol: TERT
-- ensg_id: ENSG00000070814
-  gene_symbol: ' TCOF1'
-collision_symbol: TCS1

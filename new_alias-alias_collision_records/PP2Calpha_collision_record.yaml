@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100614
-  gene_symbol: PPM1A
-- ensg_id: ENSG00000113575
-  gene_symbol: ' PPP2CA'
-collision_symbol: PP2Calpha

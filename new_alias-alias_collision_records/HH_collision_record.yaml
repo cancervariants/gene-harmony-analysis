@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000010704
-  gene_symbol: HFE
-- ensg_id: ENSG00000174951
-  gene_symbol: ' FUT1'
-collision_symbol: HH

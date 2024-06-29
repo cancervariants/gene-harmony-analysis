@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000268001
-  gene_symbol: CARD8-AS1
-- ensg_id: ENSG00000268186
-  gene_symbol: ' ZNF114-AS1'
-collision_symbol: AC008392.1

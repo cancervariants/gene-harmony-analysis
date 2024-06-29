@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125510
-  gene_symbol: OPRL1
-- ensg_id: ENSG00000168081
-  gene_symbol: ' PNOC'
-- ensg_id: ENSG00000140939
-  gene_symbol: ' NOL3'
-collision_symbol: NOP

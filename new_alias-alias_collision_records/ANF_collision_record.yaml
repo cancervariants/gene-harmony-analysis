@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163666
-  gene_symbol: HESX1
-- ensg_id: ENSG00000175206
-  gene_symbol: ' NPPA'
-collision_symbol: ANF

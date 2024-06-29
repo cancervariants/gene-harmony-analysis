@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141279
-  gene_symbol: NPEPPS
-- ensg_id: ENSG00000142515
-  gene_symbol: ' KLK3'
-collision_symbol: ' PSA'

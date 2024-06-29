@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135341
-  gene_symbol: MAP3K7
-- ensg_id: ENSG00000177463
-  gene_symbol: ' NR2C2'
-collision_symbol: ' TAK1'

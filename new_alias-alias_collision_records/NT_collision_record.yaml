@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000133636
-  gene_symbol: NTS
-- ensg_id: ENSG00000135318
-  gene_symbol: ' NT5E'
-collision_symbol: NT

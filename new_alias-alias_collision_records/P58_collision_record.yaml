@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000243772
-  gene_symbol: KIR2DL3
-- ensg_id: ENSG00000250351
-  gene_symbol: ' H3P20'
-collision_symbol: p58

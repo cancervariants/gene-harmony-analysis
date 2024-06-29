@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000270885
-  gene_symbol: RASL10B
-- ensg_id: ENSG00000273899
-  gene_symbol: ' NOL12'
-collision_symbol: RRP17

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000148481
-  gene_symbol: MINDY3
-- ensg_id: ENSG00000148677
-  gene_symbol: ' ANKRD1'
-- ensg_id: ENSG00000178538
-  gene_symbol: ' CA8'
-collision_symbol: ' CARP'

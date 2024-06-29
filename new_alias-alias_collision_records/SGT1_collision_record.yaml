@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165416
-  gene_symbol: SUGT1
-- ensg_id: ENSG00000104969
-  gene_symbol: ' SGTA'
-collision_symbol: SGT1

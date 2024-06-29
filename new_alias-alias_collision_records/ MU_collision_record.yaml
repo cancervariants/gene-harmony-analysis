@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188428
-  gene_symbol: BLOC1S5
-- ensg_id: ENSG00000106588
-  gene_symbol: ' PSMA2'
-- ensg_id: ENSG00000134184
-  gene_symbol: ' GSTM1'
-collision_symbol: ' MU'

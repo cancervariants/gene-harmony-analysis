@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196712
-  gene_symbol: NF1
-- ensg_id: ENSG00000185344
-  gene_symbol: ' ATP6V0A2'
-collision_symbol: WSS

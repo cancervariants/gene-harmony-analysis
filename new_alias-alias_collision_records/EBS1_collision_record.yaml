@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186081
-  gene_symbol: KRT5
-- ensg_id: ENSG00000186847
-  gene_symbol: ' KRT14'
-- ensg_id: ENSG00000178209
-  gene_symbol: ' PLEC'
-collision_symbol: EBS1

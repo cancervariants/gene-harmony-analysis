@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160305
-  gene_symbol: DIP2A
-- ensg_id: ENSG00000065183
-  gene_symbol: ' WDR3'
-collision_symbol: DIP2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102038
-  gene_symbol: SMARCA1
-- ensg_id: ENSG00000127616
-  gene_symbol: ' SMARCA4'
-collision_symbol: SNF2LB

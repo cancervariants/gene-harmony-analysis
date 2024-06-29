@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000205076
-  gene_symbol: LGALS7
-- ensg_id: ENSG00000108256
-  gene_symbol: ' NUFIP2'
-collision_symbol: PIG1

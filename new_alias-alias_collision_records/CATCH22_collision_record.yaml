@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: DGCR
-- ensg_id: ENSG00000184058
-  gene_symbol: ' TBX1'
-collision_symbol: CATCH22

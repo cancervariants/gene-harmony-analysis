@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000225366
-  gene_symbol: TDGF1P3
-- ensg_id: NAN
-  gene_symbol: ' TDGF1P2'
-collision_symbol: TDGF2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186448
-  gene_symbol: ZNF197
-- ensg_id: ENSG00000197961
-  gene_symbol: ' ZNF121'
-collision_symbol: ZNF20

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166147
-  gene_symbol: FBN1
-- ensg_id: ENSG00000036473
-  gene_symbol: ' OTC'
-collision_symbol: OCTD

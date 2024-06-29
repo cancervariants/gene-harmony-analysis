@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000072210
-  gene_symbol: ALDH3A2
-- ensg_id: ENSG00000197894
-  gene_symbol: ' ADH5'
-collision_symbol: FALDH

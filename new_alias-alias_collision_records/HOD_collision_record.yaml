@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103249
-  gene_symbol: CLCN7
-- ensg_id: ENSG00000171476
-  gene_symbol: ' HOPX'
-collision_symbol: HOD

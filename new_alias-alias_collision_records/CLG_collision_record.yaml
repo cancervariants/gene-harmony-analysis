@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196611
-  gene_symbol: MMP1
-- ensg_id: ENSG00000090924
-  gene_symbol: ' PLEKHG2'
-collision_symbol: CLG

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170276
-  gene_symbol: HSPB2
-- ensg_id: ENSG00000106211
-  gene_symbol: ' HSPB1'
-collision_symbol: HSP27

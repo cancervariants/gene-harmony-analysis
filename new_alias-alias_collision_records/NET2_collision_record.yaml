@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106025
-  gene_symbol: TSPAN12
-- ensg_id: ENSG00000116754
-  gene_symbol: ' SRSF11'
-collision_symbol: NET2

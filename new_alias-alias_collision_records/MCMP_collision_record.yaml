@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168615
-  gene_symbol: ADAM9
-- ensg_id: ENSG00000148848
-  gene_symbol: ' ADAM12'
-collision_symbol: MCMP

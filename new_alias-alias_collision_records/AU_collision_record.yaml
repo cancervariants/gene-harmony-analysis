@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168453
-  gene_symbol: HR
-- ensg_id: ENSG00000187244
-  gene_symbol: ' BCAM'
-collision_symbol: AU

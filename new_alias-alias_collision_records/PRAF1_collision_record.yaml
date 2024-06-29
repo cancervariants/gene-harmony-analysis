@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105404
-  gene_symbol: RABAC1
-- ensg_id: ENSG00000137054
-  gene_symbol: ' POLR1E'
-collision_symbol: PRAF1

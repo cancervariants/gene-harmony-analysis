@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180644
-  gene_symbol: PRF1
-- ensg_id: ENSG00000128274
-  gene_symbol: ' A4GALT'
-collision_symbol: ' P1'

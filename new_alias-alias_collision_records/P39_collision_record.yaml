@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171450
-  gene_symbol: CDK5R2
-- ensg_id: ENSG00000159720
-  gene_symbol: ' ATP6V0D1'
-collision_symbol: P39

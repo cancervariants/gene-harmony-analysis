@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141452
-  gene_symbol: RMC1
-- ensg_id: ENSG00000130513
-  gene_symbol: ' GDF15'
-collision_symbol: MIC1

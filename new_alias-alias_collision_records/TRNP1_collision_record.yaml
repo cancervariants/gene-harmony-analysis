@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: TRP-AGG2-5
-- ensg_id: NAN
-  gene_symbol: ' TRP-AGG2-6'
-- ensg_id: NAN
-  gene_symbol: ' TRL-AAG2-3'
-collision_symbol: TRNP1

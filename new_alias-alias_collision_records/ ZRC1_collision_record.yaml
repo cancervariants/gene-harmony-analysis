@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196660
-  gene_symbol: SLC30A10
-- ensg_id: ENSG00000170385
-  gene_symbol: ' SLC30A1'
-collision_symbol: ' ZRC1'

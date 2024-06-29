@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: PMS2P11
-- ensg_id: ENSG00000265479
-  gene_symbol: ' DTX2P1-UPK3BP1-PMS2P11'
-collision_symbol: PMS2L11

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000224265
-  gene_symbol: LINC02633
-- ensg_id: ENSG00000228636
-  gene_symbol: ' LINC02663'
-collision_symbol: XLOC_008466

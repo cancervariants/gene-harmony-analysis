@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188389
-  gene_symbol: PDCD1
-- ensg_id: ENSG00000145335
-  gene_symbol: ' SNCA'
-- ensg_id: ENSG00000158480
-  gene_symbol: ' SPATA2'
-collision_symbol: ' PD1'

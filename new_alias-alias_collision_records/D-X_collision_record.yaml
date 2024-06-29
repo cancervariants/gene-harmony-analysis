@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000261279
-  gene_symbol: ULK4P1
-- ensg_id: ENSG00000178081
-  gene_symbol: ' ULK4P3'
-- ensg_id: ENSG00000260128
-  gene_symbol: ' ULK4P2'
-collision_symbol: D-X

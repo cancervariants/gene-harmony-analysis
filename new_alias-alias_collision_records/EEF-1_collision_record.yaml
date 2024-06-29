@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213864
-  gene_symbol: EEF1B2P2
-- ensg_id: ENSG00000156508
-  gene_symbol: ' EEF1A1'
-collision_symbol: EEF-1

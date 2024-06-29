@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179142
-  gene_symbol: CYP11B2
-- ensg_id: ENSG00000140848
-  gene_symbol: ' CPNE2'
-collision_symbol: CPN2

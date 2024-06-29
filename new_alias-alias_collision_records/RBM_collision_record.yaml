@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000234414
-  gene_symbol: RBMY1A1
-- ensg_id: NAN
-  gene_symbol: ' RBMY2DP'
-collision_symbol: RBM

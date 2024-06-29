@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115355
-  gene_symbol: CCDC88A
-- ensg_id: ENSG00000273611
-  gene_symbol: ' ZNHIT3'
-collision_symbol: PEHO

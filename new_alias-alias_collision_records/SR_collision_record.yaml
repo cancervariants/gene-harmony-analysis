@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173267
-  gene_symbol: SNCG
-- ensg_id: ENSG00000080293
-  gene_symbol: ' SCTR'
-collision_symbol: SR

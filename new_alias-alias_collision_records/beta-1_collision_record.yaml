@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170340
-  gene_symbol: B3GNT2
-- ensg_id: ENSG00000175711
-  gene_symbol: ' B3GNTL1'
-collision_symbol: beta-1

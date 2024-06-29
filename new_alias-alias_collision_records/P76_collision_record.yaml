@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151176
-  gene_symbol: PLBD2
-- ensg_id: ENSG00000125304
-  gene_symbol: ' TM9SF2'
-collision_symbol: P76

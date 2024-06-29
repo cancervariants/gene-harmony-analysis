@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114302
-  gene_symbol: PRKAR2A
-- ensg_id: ENSG00000101292
-  gene_symbol: ' PROKR2'
-collision_symbol: PKR2

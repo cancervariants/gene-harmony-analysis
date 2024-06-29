@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: SLC35E2A
-- ensg_id: ENSG00000189339
-  gene_symbol: ' SLC35E2B'
-collision_symbol: SLC35E2

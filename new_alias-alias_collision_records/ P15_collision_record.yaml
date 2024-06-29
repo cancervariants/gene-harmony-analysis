@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000086504
-  gene_symbol: MRPL28
-- ensg_id: ENSG00000113387
-  gene_symbol: ' SUB1'
-collision_symbol: ' p15'

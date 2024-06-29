@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000261618
-  gene_symbol: LINC02605
-- ensg_id: ENSG00000114062
-  gene_symbol: ' UBE3A'
-collision_symbol: AS

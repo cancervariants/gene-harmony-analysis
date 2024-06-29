@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000157693
-  gene_symbol: TMEM268
-- ensg_id: ENSG00000136888
-  gene_symbol: ' ATP6V1G1'
-collision_symbol: ' DKFZp547P234'

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128422
-  gene_symbol: KRT17
-- ensg_id: ENSG00000128567
-  gene_symbol: ' PODXL'
-- ensg_id: ENSG00000115718
-  gene_symbol: ' PROC'
-collision_symbol: PC

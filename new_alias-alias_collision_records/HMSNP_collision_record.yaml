@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114354
-  gene_symbol: TFG
-- ensg_id: NAN
-  gene_symbol: ' HMSNO'
-collision_symbol: HMSNP

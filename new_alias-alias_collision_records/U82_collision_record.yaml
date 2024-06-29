@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000202400
-  gene_symbol: SNORD82
-- ensg_id: NAN
-  gene_symbol: ' SNORD139'
-collision_symbol: U82

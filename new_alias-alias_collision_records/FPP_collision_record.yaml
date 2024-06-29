@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000052850
-  gene_symbol: ALX4
-- ensg_id: ENSG00000120149
-  gene_symbol: ' MSX2'
-collision_symbol: FPP

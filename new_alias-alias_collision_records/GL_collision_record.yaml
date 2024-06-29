@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173281
-  gene_symbol: PPP1R3B
-- ensg_id: ENSG00000081087
-  gene_symbol: ' OSTM1'
-collision_symbol: GL

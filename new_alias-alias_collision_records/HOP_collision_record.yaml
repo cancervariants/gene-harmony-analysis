@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168439
-  gene_symbol: STIP1
-- ensg_id: ENSG00000171476
-  gene_symbol: ' HOPX'
-collision_symbol: HOP

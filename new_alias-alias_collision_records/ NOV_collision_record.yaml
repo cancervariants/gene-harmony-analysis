@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000147403
-  gene_symbol: RPL10
-- ensg_id: ENSG00000136999
-  gene_symbol: ' CCN3'
-collision_symbol: ' NOV'

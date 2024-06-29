@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117013
-  gene_symbol: KCNQ4
-- ensg_id: ENSG00000188910
-  gene_symbol: ' GJB3'
-collision_symbol: DFNA2

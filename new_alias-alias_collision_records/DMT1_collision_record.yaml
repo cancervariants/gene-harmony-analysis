@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110911
-  gene_symbol: SLC11A2
-- ensg_id: ENSG00000137090
-  gene_symbol: ' DMRT1'
-collision_symbol: DMT1

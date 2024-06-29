@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165507
-  gene_symbol: DEPP1
-- ensg_id: ENSG00000047932
-  gene_symbol: ' GOPC'
-collision_symbol: FIG

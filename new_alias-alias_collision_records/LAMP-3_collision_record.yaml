@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000078081
-  gene_symbol: LAMP3
-- ensg_id: ENSG00000135404
-  gene_symbol: ' CD63'
-collision_symbol: LAMP-3

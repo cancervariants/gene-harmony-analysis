@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HEMC
-- ensg_id: ENSG00000102265
-  gene_symbol: ' TIMP1'
-collision_symbol: HCI

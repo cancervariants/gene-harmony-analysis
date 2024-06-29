@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136634
-  gene_symbol: IL10
-- ensg_id: ENSG00000177426
-  gene_symbol: ' TGIF1'
-collision_symbol: ' TGIF'

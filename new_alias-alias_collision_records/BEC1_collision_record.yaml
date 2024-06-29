@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184113
-  gene_symbol: CLDN5
-- ensg_id: ENSG00000135519
-  gene_symbol: ' KCNH3'
-collision_symbol: BEC1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142230
-  gene_symbol: SAE1
-- ensg_id: ENSG00000031081
-  gene_symbol: ' ARHGAP31'
-collision_symbol: AOS1

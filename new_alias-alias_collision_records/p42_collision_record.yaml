@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100519
-  gene_symbol: PSMC6
-- ensg_id: ENSG00000227443
-  gene_symbol: ' H3P30'
-collision_symbol: p42

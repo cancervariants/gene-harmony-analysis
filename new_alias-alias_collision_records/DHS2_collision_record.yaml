@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104783
-  gene_symbol: KCNN4
-- ensg_id: NAN
-  gene_symbol: ' LOC113664106'
-collision_symbol: DHS2

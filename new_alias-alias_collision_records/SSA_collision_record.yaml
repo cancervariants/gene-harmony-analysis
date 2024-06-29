@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179218
-  gene_symbol: CALR
-- ensg_id: ENSG00000132109
-  gene_symbol: ' TRIM21'
-collision_symbol: SSA

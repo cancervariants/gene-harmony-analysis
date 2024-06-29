@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198814
-  gene_symbol: GK
-- ensg_id: ENSG00000108479
-  gene_symbol: ' GALK1'
-collision_symbol: GK1

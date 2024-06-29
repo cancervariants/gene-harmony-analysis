@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172236
-  gene_symbol: TPSAB1
-- ensg_id: ENSG00000197253
-  gene_symbol: ' TPSB2'
-collision_symbol: TPS2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137936
-  gene_symbol: BCAR3
-- ensg_id: ENSG00000092203
-  gene_symbol: ' TOX4'
-collision_symbol: MIG7

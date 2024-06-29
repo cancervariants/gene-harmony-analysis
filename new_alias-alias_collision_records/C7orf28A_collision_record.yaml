@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122674
-  gene_symbol: CCZ1
-- ensg_id: ENSG00000146574
-  gene_symbol: ' CCZ1B'
-collision_symbol: C7orf28A

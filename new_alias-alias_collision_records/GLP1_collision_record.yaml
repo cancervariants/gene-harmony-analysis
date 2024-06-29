@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115263
-  gene_symbol: GCG
-- ensg_id: ENSG00000220201
-  gene_symbol: ' ZGLP1'
-collision_symbol: GLP1

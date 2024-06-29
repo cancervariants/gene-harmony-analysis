@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000070019
-  gene_symbol: GUCY2C
-- ensg_id: ENSG00000177675
-  gene_symbol: ' CD163L1'
-collision_symbol: STAR

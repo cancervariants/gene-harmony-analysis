@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: SCASI
-- ensg_id: ENSG00000048707
-  gene_symbol: ' VPS13D'
-collision_symbol: SCAR4

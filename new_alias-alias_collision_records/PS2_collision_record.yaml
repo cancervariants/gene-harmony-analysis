@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000256274
-  gene_symbol: TAS2R64P
-- ensg_id: ENSG00000143801
-  gene_symbol: ' PSEN2'
-collision_symbol: PS2

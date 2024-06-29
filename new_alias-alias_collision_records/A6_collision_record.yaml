@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151239
-  gene_symbol: TWF1
-- ensg_id: NAN
-  gene_symbol: ' IGKV3D-25'
-collision_symbol: A6

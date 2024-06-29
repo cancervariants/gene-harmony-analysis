@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180209
-  gene_symbol: MYL11
-- ensg_id: ENSG00000165478
-  gene_symbol: ' HEPACAM'
-collision_symbol: MLC2B

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130640
-  gene_symbol: TUBGCP2
-- ensg_id: ENSG00000144674
-  gene_symbol: ' GOLGA4'
-collision_symbol: GCP2

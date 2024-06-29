@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: CCL4L1
-- ensg_id: ENSG00000275302
-  gene_symbol: ' CCL4'
-collision_symbol: MIP-1-beta

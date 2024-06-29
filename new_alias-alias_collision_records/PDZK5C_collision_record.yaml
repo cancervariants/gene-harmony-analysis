@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170324
-  gene_symbol: FRMPD2
-- ensg_id: ENSG00000150175
-  gene_symbol: ' FRMPD2B'
-collision_symbol: PDZK5C

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132376
-  gene_symbol: INPP5K
-- ensg_id: ENSG00000153820
-  gene_symbol: ' SPHKAP'
-collision_symbol: SKIP

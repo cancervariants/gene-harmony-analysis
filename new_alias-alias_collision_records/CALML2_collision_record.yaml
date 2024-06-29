@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143933
-  gene_symbol: CALM2
-- ensg_id: ENSG00000198668
-  gene_symbol: ' CALM1'
-collision_symbol: CALML2

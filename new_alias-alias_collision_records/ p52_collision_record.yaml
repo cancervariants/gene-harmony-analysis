@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164985
-  gene_symbol: PSIP1
-- ensg_id: ENSG00000077150
-  gene_symbol: ' NFKB2'
-collision_symbol: ' p52'

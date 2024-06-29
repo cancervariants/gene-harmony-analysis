@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137413
-  gene_symbol: TAF8
-- ensg_id: ENSG00000163453
-  gene_symbol: ' IGFBP7'
-collision_symbol: TAF

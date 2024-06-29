@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000133731
-  gene_symbol: IMPA1
-- ensg_id: ENSG00000089234
-  gene_symbol: ' BRAP'
-collision_symbol: IMP

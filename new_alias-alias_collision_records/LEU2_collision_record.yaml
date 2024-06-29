@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172116
-  gene_symbol: CD8B
-- ensg_id: ENSG00000231607
-  gene_symbol: ' DLEU2'
-- ensg_id: ENSG00000176124
-  gene_symbol: ' DLEU1'
-collision_symbol: LEU2

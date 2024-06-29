@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000255112
-  gene_symbol: CHMP1B
-- ensg_id: NAN
-  gene_symbol: ' LINC00470'
-collision_symbol: C18orf2

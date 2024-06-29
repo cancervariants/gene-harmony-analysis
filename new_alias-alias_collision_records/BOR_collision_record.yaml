@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134690
-  gene_symbol: CDCA8
-- ensg_id: ENSG00000104313
-  gene_symbol: ' EYA1'
-collision_symbol: BOR

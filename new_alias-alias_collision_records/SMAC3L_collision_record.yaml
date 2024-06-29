@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241549
-  gene_symbol: GUSBP2
-- ensg_id: NAN
-  gene_symbol: ' GUSBP4'
-collision_symbol: SMAC3L

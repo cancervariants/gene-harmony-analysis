@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000074047
-  gene_symbol: GLI2
-- ensg_id: ENSG00000132570
-  gene_symbol: ' PCBD2'
-collision_symbol: PHS2

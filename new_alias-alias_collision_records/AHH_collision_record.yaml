@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000140465
-  gene_symbol: CYP1A1
-- ensg_id: ENSG00000063438
-  gene_symbol: ' AHRR'
-collision_symbol: AHH

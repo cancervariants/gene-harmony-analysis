@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111816
-  gene_symbol: FRK
-- ensg_id: ENSG00000137845
-  gene_symbol: ' ADAM10'
-collision_symbol: RAK

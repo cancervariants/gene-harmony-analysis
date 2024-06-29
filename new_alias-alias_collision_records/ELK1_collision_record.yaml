@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000089558
-  gene_symbol: KCNH4
-- ensg_id: ENSG00000183960
-  gene_symbol: ' KCNH8'
-collision_symbol: ELK1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141012
-  gene_symbol: GALNS
-- ensg_id: ENSG00000280789
-  gene_symbol: ' PAGR1'
-collision_symbol: ' GAS'

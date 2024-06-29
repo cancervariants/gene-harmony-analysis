@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141756
-  gene_symbol: FKBP10
-- ensg_id: ENSG00000132386
-  gene_symbol: ' SERPINF1'
-collision_symbol: OI6

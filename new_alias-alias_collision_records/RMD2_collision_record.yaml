@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115841
-  gene_symbol: RMDN2
-- ensg_id: ENSG00000182533
-  gene_symbol: ' CAV3'
-collision_symbol: RMD2

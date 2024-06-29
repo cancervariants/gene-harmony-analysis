@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102931
-  gene_symbol: ARL2BP
-- ensg_id: ENSG00000162399
-  gene_symbol: ' BSND'
-collision_symbol: BART

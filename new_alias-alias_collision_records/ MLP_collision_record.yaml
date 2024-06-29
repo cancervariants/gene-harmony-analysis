@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129170
-  gene_symbol: CSRP3
-- ensg_id: ENSG00000175130
-  gene_symbol: ' MARCKSL1'
-collision_symbol: ' MLP'

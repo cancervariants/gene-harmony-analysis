@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142405
-  gene_symbol: NLRP12
-- ensg_id: ENSG00000179873
-  gene_symbol: ' NLRP11'
-collision_symbol: PYPAF7

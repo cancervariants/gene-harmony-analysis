@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177156
-  gene_symbol: TALDO1
-- ensg_id: ENSG00000148356
-  gene_symbol: ' LRSAM1'
-collision_symbol: TAL

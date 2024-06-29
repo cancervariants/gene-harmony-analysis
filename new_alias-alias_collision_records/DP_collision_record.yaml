@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182934
-  gene_symbol: SRPRA
-- ensg_id: ENSG00000168229
-  gene_symbol: ' PTGDR'
-- ensg_id: ENSG00000096696
-  gene_symbol: ' DSP'
-collision_symbol: DP

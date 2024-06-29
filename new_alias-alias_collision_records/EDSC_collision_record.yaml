@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108821
-  gene_symbol: COL1A1
-- ensg_id: ENSG00000204262
-  gene_symbol: ' COL5A2'
-- ensg_id: ENSG00000130635
-  gene_symbol: ' COL5A1'
-collision_symbol: EDSC

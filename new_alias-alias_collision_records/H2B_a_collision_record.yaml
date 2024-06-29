@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158373
-  gene_symbol: H2BC5
-- ensg_id: ENSG00000273802
-  gene_symbol: ' H2BC8'
-collision_symbol: H2B/a

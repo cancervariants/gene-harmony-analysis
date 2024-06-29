@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173218
-  gene_symbol: VANGL1
-- ensg_id: ENSG00000141934
-  gene_symbol: ' PLPP2'
-collision_symbol: LPP2

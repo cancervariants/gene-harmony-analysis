@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169604
-  gene_symbol: ANTXR1
-- ensg_id: ENSG00000258597
-  gene_symbol: ' SERPINA2'
-collision_symbol: ATR

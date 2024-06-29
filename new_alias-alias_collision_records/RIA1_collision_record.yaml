@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120690
-  gene_symbol: ELF1
-- ensg_id: ENSG00000140598
-  gene_symbol: ' EFL1'
-collision_symbol: RIA1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109320
-  gene_symbol: NFKB1
-- ensg_id: ENSG00000077150
-  gene_symbol: ' NFKB2'
-collision_symbol: ' p105'

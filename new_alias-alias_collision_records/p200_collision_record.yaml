@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000008869
-  gene_symbol: HEATR5B
-- ensg_id: ENSG00000066777
-  gene_symbol: ' ARFGEF1'
-collision_symbol: p200

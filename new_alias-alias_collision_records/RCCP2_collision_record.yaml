@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105976
-  gene_symbol: MET
-- ensg_id: ENSG00000068323
-  gene_symbol: ' TFE3'
-collision_symbol: RCCP2

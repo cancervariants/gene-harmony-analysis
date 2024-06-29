@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000077782
-  gene_symbol: FGFR1
-- ensg_id: ENSG00000107014
-  gene_symbol: ' RLN2'
-collision_symbol: H2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138433
-  gene_symbol: CIR1
-- ensg_id: ENSG00000120457
-  gene_symbol: ' KCNJ5'
-collision_symbol: CIR

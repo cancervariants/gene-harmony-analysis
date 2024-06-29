@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000250361
-  gene_symbol: GYPB
-- ensg_id: ENSG00000197465
-  gene_symbol: ' GYPE'
-collision_symbol: GYPA

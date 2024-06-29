@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176749
-  gene_symbol: CDK5R1
-- ensg_id: ENSG00000168811
-  gene_symbol: ' IL12A'
-- ensg_id: ENSG00000276184
-  gene_symbol: ' UPK3B'
-collision_symbol: ' p35'

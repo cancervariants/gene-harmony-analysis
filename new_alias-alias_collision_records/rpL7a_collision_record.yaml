@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213272
-  gene_symbol: RPL7AP9
-- ensg_id: ENSG00000240522
-  gene_symbol: ' RPL7AP10'
-collision_symbol: rpL7a

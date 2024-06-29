@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241837
-  gene_symbol: ATP5PO
-- ensg_id: ENSG00000198542
-  gene_symbol: ' ITGBL1'
-collision_symbol: OSCP

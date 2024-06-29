@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000276085
-  gene_symbol: CCL3L3
-- ensg_id: NAN
-  gene_symbol: ' CCL3L1'
-collision_symbol: SCYA3L

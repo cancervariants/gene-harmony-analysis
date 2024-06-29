@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114770
-  gene_symbol: ABCC5
-- ensg_id: ENSG00000102854
-  gene_symbol: ' MSLN'
-collision_symbol: SMRP

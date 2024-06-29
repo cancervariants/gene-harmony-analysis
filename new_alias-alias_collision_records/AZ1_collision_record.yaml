@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141577
-  gene_symbol: CEP131
-- ensg_id: ENSG00000104904
-  gene_symbol: ' OAZ1'
-collision_symbol: AZ1

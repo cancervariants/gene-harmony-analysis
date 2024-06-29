@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105325
-  gene_symbol: FZR1
-- ensg_id: ENSG00000138796
-  gene_symbol: ' HADH'
-collision_symbol: HCDH

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000257151
-  gene_symbol: PWAR6
-- ensg_id: ENSG00000102981
-  gene_symbol: ' PARD6A'
-collision_symbol: PAR-6

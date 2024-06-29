@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000133110
-  gene_symbol: POSTN
-- ensg_id: ENSG00000124813
-  gene_symbol: ' RUNX2'
-collision_symbol: OSF2

@@ -15,7 +15,7 @@ the data field in which the collision occurs
 *Primary gene symbol of the gene being represented by the collision*
 
 ### ENSG ID
-*Unique identifier number assigned by Ensembl to each gene, begining with ENSG*
+*Unique identifier number assigned by Ensembl to each gene, beginning with ENSG*
 
 ### Genomic Location (GRCh38/hg38)
 *A description of the location of the gene on assembly GRCh38/hg38 including the chromosome, start position, and end position*

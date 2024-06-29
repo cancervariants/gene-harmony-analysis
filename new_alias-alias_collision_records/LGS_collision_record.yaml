@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116128
-  gene_symbol: BCL9
-- ensg_id: ENSG00000146166
-  gene_symbol: ' LGSN'
-- ensg_id: ENSG00000182197
-  gene_symbol: ' EXT1'
-collision_symbol: LGS

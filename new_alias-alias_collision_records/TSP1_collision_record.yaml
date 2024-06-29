@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184647
-  gene_symbol: PRSS55
-- ensg_id: ENSG00000137801
-  gene_symbol: ' THBS1'
-- ensg_id: ENSG00000124490
-  gene_symbol: ' CRISP2'
-collision_symbol: TSP1

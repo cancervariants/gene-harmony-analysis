@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158813
-  gene_symbol: EDA
-- ensg_id: ENSG00000121742
-  gene_symbol: ' GJB6'
-collision_symbol: HED

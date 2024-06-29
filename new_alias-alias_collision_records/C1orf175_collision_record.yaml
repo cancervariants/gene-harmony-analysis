@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000271723
-  gene_symbol: MROH7-TTC4
-- ensg_id: ENSG00000184313
-  gene_symbol: ' MROH7'
-collision_symbol: C1orf175

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000035664
-  gene_symbol: DAPK2
-- ensg_id: ENSG00000072832
-  gene_symbol: ' CRMP1'
-collision_symbol: DRP-1

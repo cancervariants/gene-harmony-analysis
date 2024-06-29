@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000088247
-  gene_symbol: KHSRP
-- ensg_id: ENSG00000126773
-  gene_symbol: ' PCNX4'
-collision_symbol: FBP2

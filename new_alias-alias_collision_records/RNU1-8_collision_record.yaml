@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000206588
-  gene_symbol: RNU1-28P
-- ensg_id: ENSG00000207056
-  gene_symbol: ' RNU1-8P'
-collision_symbol: RNU1-8

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104723
-  gene_symbol: TUSC3
-- ensg_id: ENSG00000173894
-  gene_symbol: ' CBX2'
-collision_symbol: M33

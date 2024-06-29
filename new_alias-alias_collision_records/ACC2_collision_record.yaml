@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000076555
-  gene_symbol: ACACB
-- ensg_id: ENSG00000140379
-  gene_symbol: ' BCL2A1'
-collision_symbol: ACC2

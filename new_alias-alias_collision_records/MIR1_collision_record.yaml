@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106701
-  gene_symbol: FSD1L
-- ensg_id: ENSG00000105255
-  gene_symbol: ' FSD1'
-collision_symbol: MIR1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180772
-  gene_symbol: AGTR2
-- ensg_id: NAN
-  gene_symbol: ' PGR-AS1'
-collision_symbol: AT2

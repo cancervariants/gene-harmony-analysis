@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000284933
-  gene_symbol: ARHGEF5
-- ensg_id: ENSG00000111602
-  gene_symbol: ' TIMELESS'
-- ensg_id: ENSG00000113249
-  gene_symbol: ' HAVCR1'
-collision_symbol: ' TIM1'

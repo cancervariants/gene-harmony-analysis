@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000020922
-  gene_symbol: MRE11
-- ensg_id: NAN
-  gene_symbol: ' MRE11P1'
-collision_symbol: MRE11B

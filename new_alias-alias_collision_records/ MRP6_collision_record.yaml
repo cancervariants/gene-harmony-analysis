@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163221
-  gene_symbol: S100A12
-- ensg_id: ENSG00000275331
-  gene_symbol: ' ABCC6'
-collision_symbol: ' MRP6'

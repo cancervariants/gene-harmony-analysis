@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000155087
-  gene_symbol: ODF1
-- ensg_id: ENSG00000120659
-  gene_symbol: ' TNFSF11'
-collision_symbol: ODF

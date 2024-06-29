@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108556
-  gene_symbol: CHRNE
-- ensg_id: ENSG00000135902
-  gene_symbol: ' CHRND'
-- ensg_id: ENSG00000138435
-  gene_symbol: ' CHRNA1'
-collision_symbol: FCCMS

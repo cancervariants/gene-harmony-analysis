@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000263639
-  gene_symbol: MSMB
-- ensg_id: ENSG00000173531
-  gene_symbol: ' MST1'
-collision_symbol: MSP

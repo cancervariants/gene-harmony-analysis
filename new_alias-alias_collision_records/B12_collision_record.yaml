@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119013
-  gene_symbol: NDUFB3
-- ensg_id: ENSG00000109079
-  gene_symbol: ' TNFAIP1'
-collision_symbol: B12

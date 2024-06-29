@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HBHR
-- ensg_id: ENSG00000138079
-  gene_symbol: ' SLC3A1'
-collision_symbol: ATR1

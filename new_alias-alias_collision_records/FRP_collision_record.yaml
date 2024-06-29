@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163430
-  gene_symbol: FSTL1
-- ensg_id: ENSG00000104332
-  gene_symbol: ' SFRP1'
-collision_symbol: FRP

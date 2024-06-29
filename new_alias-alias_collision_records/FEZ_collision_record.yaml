@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153266
-  gene_symbol: FEZF2
-- ensg_id: ENSG00000128610
-  gene_symbol: ' FEZF1'
-collision_symbol: FEZ

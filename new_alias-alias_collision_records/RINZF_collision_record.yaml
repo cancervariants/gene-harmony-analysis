@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000205189
-  gene_symbol: ZBTB10
-- ensg_id: ENSG00000130584
-  gene_symbol: ' ZBTB46'
-collision_symbol: RINZF

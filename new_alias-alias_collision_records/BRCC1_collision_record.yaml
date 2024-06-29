@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000012048
-  gene_symbol: BRCA1
-- ensg_id: ENSG00000128915
-  gene_symbol: ' ICE2'
-collision_symbol: BRCC1

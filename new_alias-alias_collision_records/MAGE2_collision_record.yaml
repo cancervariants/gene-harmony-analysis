@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000183305
-  gene_symbol: MAGEA2B
-- ensg_id: ENSG00000268606
-  gene_symbol: ' MAGEA2'
-collision_symbol: MAGE2

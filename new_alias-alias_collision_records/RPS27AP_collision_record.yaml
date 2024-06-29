@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000226144
-  gene_symbol: RPS27AP3
-- ensg_id: ENSG00000242692
-  gene_symbol: ' RPS27AP1'
-collision_symbol: RPS27AP

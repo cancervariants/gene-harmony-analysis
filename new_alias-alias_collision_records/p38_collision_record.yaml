@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106305
-  gene_symbol: AIMP2
-- ensg_id: ENSG00000100351
-  gene_symbol: ' GRAP2'
-collision_symbol: P38

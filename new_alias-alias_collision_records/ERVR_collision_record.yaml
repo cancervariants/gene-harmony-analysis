@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213462
-  gene_symbol: ERV3-1
-- ensg_id: ENSG00000038427
-  gene_symbol: ' VCAN'
-collision_symbol: ERVR

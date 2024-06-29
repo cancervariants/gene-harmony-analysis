@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177189
-  gene_symbol: RPS6KA3
-- ensg_id: ENSG00000088766
-  gene_symbol: ' CRLS1'
-collision_symbol: CLS

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111737
-  gene_symbol: RAB35
-- ensg_id: ENSG00000035115
-  gene_symbol: ' SH3YL1'
-collision_symbol: RAY

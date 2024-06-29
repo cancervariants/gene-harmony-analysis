@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131400
-  gene_symbol: NAPSA
-- ensg_id: ENSG00000105402
-  gene_symbol: ' NAPA'
-collision_symbol: SNAPA

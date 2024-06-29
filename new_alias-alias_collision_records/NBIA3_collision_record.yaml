@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131943
-  gene_symbol: C19orf12
-- ensg_id: ENSG00000087086
-  gene_symbol: ' FTL'
-collision_symbol: NBIA3

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000154727
-  gene_symbol: GABPA
-- ensg_id: ENSG00000116044
-  gene_symbol: ' NFE2L2'
-collision_symbol: ' NRF2'

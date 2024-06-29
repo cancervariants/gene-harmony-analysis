@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112619
-  gene_symbol: PRPH2
-- ensg_id: ENSG00000149489
-  gene_symbol: ' ROM1'
-collision_symbol: RP7

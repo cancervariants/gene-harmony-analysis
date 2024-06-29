@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000212724
-  gene_symbol: KRTAP2-3
-- ensg_id: ENSG00000213417
-  gene_symbol: ' KRTAP2-4'
-collision_symbol: KRTAP2.4

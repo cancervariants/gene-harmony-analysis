@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000282301
-  gene_symbol: CYP3A7-CYP3A51P
-- ensg_id: ENSG00000160870
-  gene_symbol: ' CYP3A7'
-collision_symbol: CYPIIIA7

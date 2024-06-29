@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000152214
-  gene_symbol: RIT2
-- ensg_id: ENSG00000114125
-  gene_symbol: ' RNF7'
-collision_symbol: ROC2

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000229140
-  gene_symbol: CCDC26
-- ensg_id: ENSG00000069974
-  gene_symbol: ' RAB27A'
-- ensg_id: ENSG00000169612
-  gene_symbol: ' RAMAC'
-collision_symbol: ' RAM'

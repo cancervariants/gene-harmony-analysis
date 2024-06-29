@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169727
-  gene_symbol: GPS1
-- ensg_id: ENSG00000176009
-  gene_symbol: ' ASCL3'
-collision_symbol: SGN1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108511
-  gene_symbol: HOXB6
-- ensg_id: ENSG00000071242
-  gene_symbol: ' RPS6KA2'
-collision_symbol: HU-2

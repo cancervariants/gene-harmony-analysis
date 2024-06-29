@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164093
-  gene_symbol: PITX2
-- ensg_id: ENSG00000204787
-  gene_symbol: ' REG1CP'
-collision_symbol: RS

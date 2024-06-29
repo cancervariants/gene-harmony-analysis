@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137080
-  gene_symbol: IFNA21
-- ensg_id: ENSG00000234829
-  gene_symbol: ' IFNA17'
-collision_symbol: IFN-alphaI

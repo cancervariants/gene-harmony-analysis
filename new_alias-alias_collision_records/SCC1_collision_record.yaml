@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164754
-  gene_symbol: RAD21
-- ensg_id: ENSG00000149177
-  gene_symbol: ' PTPRJ'
-collision_symbol: SCC1

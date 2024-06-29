@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170579
-  gene_symbol: DLGAP1
-- ensg_id: ENSG00000112977
-  gene_symbol: ' DAP'
-- ensg_id: ENSG00000116030
-  gene_symbol: ' SUMO1'
-collision_symbol: DAP1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117335
-  gene_symbol: CD46
-- ensg_id: ENSG00000042493
-  gene_symbol: ' CAPG'
-collision_symbol: MCP

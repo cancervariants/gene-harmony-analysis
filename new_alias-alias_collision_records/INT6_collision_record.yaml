@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104408
-  gene_symbol: EIF3E
-- ensg_id: ENSG00000102786
-  gene_symbol: ' INTS6'
-collision_symbol: INT6

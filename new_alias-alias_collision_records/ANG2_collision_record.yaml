@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000091879
-  gene_symbol: ANGPT2
-- ensg_id: ENSG00000149823
-  gene_symbol: ' VPS51'
-collision_symbol: ANG2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170624
-  gene_symbol: SGCD
-- ensg_id: ENSG00000102683
-  gene_symbol: ' SGCG'
-collision_symbol: 35DAG

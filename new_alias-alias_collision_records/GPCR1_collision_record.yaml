@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000181631
-  gene_symbol: P2RY13
-- ensg_id: ENSG00000173890
-  gene_symbol: ' GPR160'
-collision_symbol: GPCR1

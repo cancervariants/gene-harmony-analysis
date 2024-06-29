@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138071
-  gene_symbol: ACTR2
-- ensg_id: ENSG00000136859
-  gene_symbol: ' ANGPTL2'
-collision_symbol: ARP2

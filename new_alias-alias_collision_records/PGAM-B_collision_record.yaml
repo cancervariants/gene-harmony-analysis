@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000226784
-  gene_symbol: PGAM4
-- ensg_id: ENSG00000171314
-  gene_symbol: ' PGAM1'
-collision_symbol: PGAM-B

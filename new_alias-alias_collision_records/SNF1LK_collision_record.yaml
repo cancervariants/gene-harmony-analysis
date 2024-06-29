@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142178
-  gene_symbol: SIK1
-- ensg_id: ENSG00000275993
-  gene_symbol: ' LOC102724428'
-collision_symbol: SNF1LK

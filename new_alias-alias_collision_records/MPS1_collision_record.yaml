@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127415
-  gene_symbol: IDUA
-- ensg_id: ENSG00000177954
-  gene_symbol: ' RPS27'
-- ensg_id: ENSG00000112742
-  gene_symbol: ' TTK'
-collision_symbol: MPS1

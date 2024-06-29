@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000276043
-  gene_symbol: UHRF1
-- ensg_id: ENSG00000065060
-  gene_symbol: ' BLTP3A'
-collision_symbol: ICBP90

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113368
-  gene_symbol: LMNB1
-- ensg_id: ENSG00000176619
-  gene_symbol: ' LMNB2'
-collision_symbol: LMN2

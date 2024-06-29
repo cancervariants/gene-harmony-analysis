@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000237521
-  gene_symbol: OR7E24
-- ensg_id: ENSG00000161807
-  gene_symbol: ' OR7G1'
-collision_symbol: OR19-8

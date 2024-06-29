@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: FCMTE2
-- ensg_id: ENSG00000274286
-  gene_symbol: ' ADRA2B'
-- ensg_id: ENSG00000084090
-  gene_symbol: ' STARD7'
-collision_symbol: FAME2

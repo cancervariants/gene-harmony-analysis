@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127241
-  gene_symbol: MASP1
-- ensg_id: ENSG00000185298
-  gene_symbol: ' CCDC137'
-collision_symbol: RaRF

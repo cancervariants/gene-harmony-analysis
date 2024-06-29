@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112486
-  gene_symbol: CCR6
-- ensg_id: ENSG00000173530
-  gene_symbol: ' TNFRSF10D'
-collision_symbol: DCR2

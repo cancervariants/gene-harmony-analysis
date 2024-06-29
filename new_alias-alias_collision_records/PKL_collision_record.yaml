@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139436
-  gene_symbol: GIT2
-- ensg_id: ENSG00000143627
-  gene_symbol: ' PKLR'
-collision_symbol: PKL

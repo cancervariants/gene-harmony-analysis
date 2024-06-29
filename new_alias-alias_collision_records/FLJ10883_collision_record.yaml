@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203880
-  gene_symbol: PCMTD2
-- ensg_id: ENSG00000168300
-  gene_symbol: ' PCMTD1'
-collision_symbol: FLJ10883

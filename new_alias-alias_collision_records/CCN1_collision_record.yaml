@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145386
-  gene_symbol: CCNA2
-- ensg_id: ENSG00000138814
-  gene_symbol: ' PPP3CA'
-collision_symbol: CCN1

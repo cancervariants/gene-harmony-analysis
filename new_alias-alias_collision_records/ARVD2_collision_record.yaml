@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: ARVD3
-- ensg_id: ENSG00000198626
-  gene_symbol: ' RYR2'
-collision_symbol: ARVD2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132199
-  gene_symbol: ENOSF1
-- ensg_id: ENSG00000169057
-  gene_symbol: ' MECP2'
-collision_symbol: RTS

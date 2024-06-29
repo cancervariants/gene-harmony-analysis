@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143753
-  gene_symbol: DEGS1
-- ensg_id: ENSG00000100299
-  gene_symbol: ' ARSA'
-collision_symbol: MLD

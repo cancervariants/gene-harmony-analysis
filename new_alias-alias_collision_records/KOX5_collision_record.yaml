@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000124459
-  gene_symbol: ZNF45
-- ensg_id: ENSG00000189180
-  gene_symbol: ' ZNF33A'
-collision_symbol: KOX5

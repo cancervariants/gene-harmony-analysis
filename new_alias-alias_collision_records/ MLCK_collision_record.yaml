@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000065534
-  gene_symbol: MYLK
-- ensg_id: ENSG00000140795
-  gene_symbol: ' MYLK3'
-collision_symbol: ' MLCK'

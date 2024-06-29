@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000096060
-  gene_symbol: FKBP5
-- ensg_id: ENSG00000004478
-  gene_symbol: ' FKBP4'
-collision_symbol: FKBP51

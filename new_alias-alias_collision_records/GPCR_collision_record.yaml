@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162881
-  gene_symbol: OXER1
-- ensg_id: ENSG00000179921
-  gene_symbol: ' GPBAR1'
-collision_symbol: GPCR

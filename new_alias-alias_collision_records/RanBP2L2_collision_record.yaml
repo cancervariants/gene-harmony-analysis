@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187627
-  gene_symbol: RGPD1
-- ensg_id: ENSG00000183054
-  gene_symbol: ' RGPD6'
-collision_symbol: RanBP2L2

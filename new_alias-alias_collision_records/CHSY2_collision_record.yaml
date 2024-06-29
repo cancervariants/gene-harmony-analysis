@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198108
-  gene_symbol: CHSY3
-- ensg_id: ENSG00000123989
-  gene_symbol: ' CHPF'
-collision_symbol: CHSY2

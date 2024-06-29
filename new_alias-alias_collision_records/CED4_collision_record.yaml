@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120868
-  gene_symbol: APAF1
-- ensg_id: ENSG00000157796
-  gene_symbol: ' WDR19'
-collision_symbol: CED4

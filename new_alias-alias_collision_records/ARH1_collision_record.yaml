@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000144843
-  gene_symbol: ADPRH
-- ensg_id: ENSG00000157978
-  gene_symbol: ' LDLRAP1'
-collision_symbol: ARH1

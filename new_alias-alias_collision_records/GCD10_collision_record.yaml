@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000089195
-  gene_symbol: TRMT6
-- ensg_id: ENSG00000088766
-  gene_symbol: ' CRLS1'
-collision_symbol: GCD10

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000038295
-  gene_symbol: TLL1
-- ensg_id: ENSG00000112333
-  gene_symbol: ' NR2E1'
-collision_symbol: TLL

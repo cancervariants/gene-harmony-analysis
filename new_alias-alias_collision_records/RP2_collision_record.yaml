@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213965
-  gene_symbol: NUDT19
-- ensg_id: ENSG00000250535
-  gene_symbol: ' STK19B'
-collision_symbol: RP2
