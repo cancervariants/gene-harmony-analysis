@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166147
+  gene_symbol: FBN1
+- ensg_id: ENSG00000157933
+  gene_symbol: ' SKI'
+collision_symbol: SGS

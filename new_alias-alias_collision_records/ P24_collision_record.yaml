@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000010278
+  gene_symbol: CD9
+- ensg_id: ENSG00000187446
+  gene_symbol: ' CHP1'
+collision_symbol: ' P24'

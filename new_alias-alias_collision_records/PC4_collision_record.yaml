@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000006652
+  gene_symbol: IFRD1
+- ensg_id: ENSG00000113387
+  gene_symbol: ' SUB1'
+- ensg_id: ENSG00000115257
+  gene_symbol: ' PCSK4'
+- ensg_id: ENSG00000185479
+  gene_symbol: ' KRT6B'
+collision_symbol: PC4

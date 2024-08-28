@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171094
+  gene_symbol: ALK
+- ensg_id: ENSG00000124107
+  gene_symbol: ' SLPI'
+collision_symbol: ALK1

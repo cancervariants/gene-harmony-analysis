@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000141446
+  gene_symbol: ESCO1
+- ensg_id: ENSG00000141905
+  gene_symbol: ' NFIC'
+- ensg_id: ENSG00000162599
+  gene_symbol: ' NFIA'
+- ensg_id: ENSG00000008441
+  gene_symbol: ' NFIX'
+- ensg_id: ENSG00000147862
+  gene_symbol: ' NFIB'
+collision_symbol: CTF

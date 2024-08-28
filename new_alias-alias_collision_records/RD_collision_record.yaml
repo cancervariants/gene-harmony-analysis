@@ -1,0 +1,14 @@
+collision_group:
+- ensg_id: ENSG00000164010
+  gene_symbol: ERMAP
+- ensg_id: ENSG00000112357
+  gene_symbol: ' PEX7'
+- ensg_id: NAN
+  gene_symbol: ' DYX1'
+- ensg_id: ENSG00000107537
+  gene_symbol: ' PHYH'
+- ensg_id: ENSG00000204356
+  gene_symbol: ' NELFE'
+- ensg_id: ENSG00000256061
+  gene_symbol: ' DNAAF4'
+collision_symbol: RD

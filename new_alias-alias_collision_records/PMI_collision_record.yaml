@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000178307
+  gene_symbol: TMEM11
+- ensg_id: ENSG00000140650
+  gene_symbol: ' PMM2'
+- ensg_id: ENSG00000178802
+  gene_symbol: ' MPI'
+collision_symbol: PMI

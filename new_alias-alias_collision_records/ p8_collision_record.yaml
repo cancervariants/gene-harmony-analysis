@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000143546
+  gene_symbol: S100A8
+- ensg_id: ENSG00000176046
+  gene_symbol: ' NUPR1'
+- ensg_id: ENSG00000185290
+  gene_symbol: ' NUPR2'
+- ensg_id: ENSG00000182712
+  gene_symbol: ' CMC4'
+- ensg_id: ENSG00000075914
+  gene_symbol: ' EXOSC7'
+collision_symbol: ' P8'

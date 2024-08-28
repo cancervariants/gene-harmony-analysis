@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000162174
+  gene_symbol: ASRGL1
+- ensg_id: ENSG00000107518
+  gene_symbol: ' ATRNL1'
+- ensg_id: ENSG00000124107
+  gene_symbol: ' SLPI'
+collision_symbol: ' ALP'

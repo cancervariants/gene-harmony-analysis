@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000252010
+  gene_symbol: SCARNA5
+- ensg_id: ENSG00000254341
+  gene_symbol: ' SNORD87'
+collision_symbol: U87

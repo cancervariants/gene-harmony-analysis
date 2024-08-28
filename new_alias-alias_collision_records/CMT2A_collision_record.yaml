@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116688
+  gene_symbol: MFN2
+- ensg_id: ENSG00000054523
+  gene_symbol: ' KIF1B'
+collision_symbol: CMT2A

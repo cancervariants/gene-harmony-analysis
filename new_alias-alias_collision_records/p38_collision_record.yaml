@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000004142
+  gene_symbol: POLDIP2
+- ensg_id: ENSG00000167193
+  gene_symbol: ' CRK'
+- ensg_id: ENSG00000100030
+  gene_symbol: ' MAPK1'
+- ensg_id: ENSG00000112062
+  gene_symbol: ' MAPK14'
+- ensg_id: ENSG00000100591
+  gene_symbol: ' AHSA1'
+collision_symbol: p38

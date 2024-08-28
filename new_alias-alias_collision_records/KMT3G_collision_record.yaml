@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109685
+  gene_symbol: NSD2
+- ensg_id: ENSG00000147548
+  gene_symbol: ' NSD3'
+collision_symbol: KMT3G

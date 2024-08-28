@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113302
+  gene_symbol: IL12B
+- ensg_id: ENSG00000159128
+  gene_symbol: ' IFNGR2'
+collision_symbol: IMD28

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000159217
+  gene_symbol: IGF2BP1
+- ensg_id: ENSG00000101294
+  gene_symbol: ' HM13'
+collision_symbol: ' IMP1'

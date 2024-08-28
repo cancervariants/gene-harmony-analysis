@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000160013
+  gene_symbol: PTGIR
+- ensg_id: ENSG00000269335
+  gene_symbol: ' IKBKG'
+- ensg_id: ENSG00000130770
+  gene_symbol: ' ATP5IF1'
+- ensg_id: ENSG00000117118
+  gene_symbol: ' SDHB'
+collision_symbol: IP

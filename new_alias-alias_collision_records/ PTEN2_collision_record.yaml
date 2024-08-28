@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000237984
+  gene_symbol: PTENP1
+- ensg_id: ENSG00000274391
+  gene_symbol: ' TPTE'
+collision_symbol: ' PTEN2'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000012504
+  gene_symbol: NR1H4
+- ensg_id: ENSG00000169252
+  gene_symbol: ' ADRB2'
+- ensg_id: ENSG00000103429
+  gene_symbol: ' BFAR'
+collision_symbol: BAR

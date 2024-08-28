@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000189057
+  gene_symbol: FAM111B
+- ensg_id: ENSG00000014216
+  gene_symbol: ' CAPN1'
+collision_symbol: CANP

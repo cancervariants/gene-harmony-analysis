@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000118194
+  gene_symbol: TNNT2
+- ensg_id: ENSG00000183873
+  gene_symbol: ' SCN5A'
+collision_symbol: CMPD2

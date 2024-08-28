@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000126261
+  gene_symbol: UBA2
+- ensg_id: ENSG00000101773
+  gene_symbol: ' RBBP8'
+collision_symbol: SAE2

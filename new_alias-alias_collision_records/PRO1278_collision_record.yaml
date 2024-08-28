@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120563
+  gene_symbol: LYZL1
+- ensg_id: ENSG00000147454
+  gene_symbol: ' SLC25A37'
+collision_symbol: PRO1278

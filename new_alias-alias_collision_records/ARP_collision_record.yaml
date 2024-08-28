@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000101246
+  gene_symbol: ARFRP1
+- ensg_id: ENSG00000124812
+  gene_symbol: ' CRISP1'
+- ensg_id: ENSG00000145050
+  gene_symbol: ' MANF'
+- ensg_id: ENSG00000142599
+  gene_symbol: ' RERE'
+collision_symbol: ARP

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142627
+  gene_symbol: EPHA2
+- ensg_id: NAN
+  gene_symbol: ' CTPP'
+collision_symbol: ARCC2

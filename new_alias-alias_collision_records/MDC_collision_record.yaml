@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102962
+  gene_symbol: CCL22
+- ensg_id: ENSG00000073670
+  gene_symbol: ' ADAM11'
+collision_symbol: MDC

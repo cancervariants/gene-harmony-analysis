@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213088
+  gene_symbol: ACKR1
+- ensg_id: ENSG00000136732
+  gene_symbol: ' GYPC'
+collision_symbol: ' GPD'

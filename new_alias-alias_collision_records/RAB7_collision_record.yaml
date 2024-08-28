@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000075785
+  gene_symbol: RAB7A
+- ensg_id: ENSG00000276600
+  gene_symbol: ' RAB7B'
+collision_symbol: RAB7

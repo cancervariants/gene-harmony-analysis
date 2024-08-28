@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100664
+  gene_symbol: EIF5
+- ensg_id: ENSG00000132507
+  gene_symbol: ' EIF5A'
+collision_symbol: EIF-5A

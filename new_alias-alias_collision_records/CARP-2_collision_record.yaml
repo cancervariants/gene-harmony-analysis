@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000063180
+  gene_symbol: CA11
+- ensg_id: ENSG00000092871
+  gene_symbol: ' RFFL'
+collision_symbol: CARP-2

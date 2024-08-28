@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109762
+  gene_symbol: SNX25
+- ensg_id: ENSG00000064652
+  gene_symbol: ' SNX24'
+collision_symbol: SBBI31

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000162174
+  gene_symbol: ASRGL1
+- ensg_id: ENSG00000107518
+  gene_symbol: ' ATRNL1'
+- ensg_id: ENSG00000213927
+  gene_symbol: ' CCL27'
+- ensg_id: ENSG00000154553
+  gene_symbol: ' PDLIM3'
+collision_symbol: ALP

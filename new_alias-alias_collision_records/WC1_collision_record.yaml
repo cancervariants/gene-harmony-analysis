@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000177675
+  gene_symbol: CD163L1
+- ensg_id: ENSG00000123191
+  gene_symbol: ' ATP7B'
+collision_symbol: WC1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000234965
+  gene_symbol: SHISA8
+- ensg_id: ENSG00000157796
+  gene_symbol: ' WDR19'
+collision_symbol: ' ORF26'

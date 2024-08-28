@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: HLA-DRB3
+- ensg_id: ENSG00000231389
+  gene_symbol: ' HLA-DPA1'
+collision_symbol: HLA-DPB1

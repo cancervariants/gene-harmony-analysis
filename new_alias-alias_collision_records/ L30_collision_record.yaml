@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000156482
+  gene_symbol: RPL30
+- ensg_id: ENSG00000137876
+  gene_symbol: ' RSL24D1'
+collision_symbol: ' L30'

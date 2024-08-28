@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000140905
+  gene_symbol: GCSH
+- ensg_id: ENSG00000178445
+  gene_symbol: ' GLDC'
+- ensg_id: ENSG00000145020
+  gene_symbol: ' AMT'
+collision_symbol: GCE

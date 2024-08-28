@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000223496
+  gene_symbol: EXOSC6
+- ensg_id: ENSG00000197747
+  gene_symbol: ' S100A10'
+collision_symbol: ' P11'

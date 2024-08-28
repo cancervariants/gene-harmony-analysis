@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000066117
+  gene_symbol: SMARCD1
+- ensg_id: ENSG00000082014
+  gene_symbol: ' SMARCD3'
+- ensg_id: ENSG00000108604
+  gene_symbol: ' SMARCD2'
+collision_symbol: Rsc6p

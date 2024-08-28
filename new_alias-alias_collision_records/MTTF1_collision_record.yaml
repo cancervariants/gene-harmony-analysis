@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000230444
+  gene_symbol: TFAMP1
+- ensg_id: ENSG00000254798
+  gene_symbol: ' TFAMP2'
+collision_symbol: MTTF1

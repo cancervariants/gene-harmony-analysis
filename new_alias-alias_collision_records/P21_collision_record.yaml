@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172465
+  gene_symbol: TCEAL1
+- ensg_id: NAN
+  gene_symbol: ' H3P16'
+collision_symbol: p21

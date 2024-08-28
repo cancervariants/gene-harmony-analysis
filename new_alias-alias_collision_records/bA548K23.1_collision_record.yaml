@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000243289
+  gene_symbol: AGAP13P
+- ensg_id: ENSG00000203942
+  gene_symbol: ' C10orf62'
+collision_symbol: BA548K23.1

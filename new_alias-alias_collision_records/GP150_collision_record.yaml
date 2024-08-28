@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132470
+  gene_symbol: ITGB4
+- ensg_id: ENSG00000166825
+  gene_symbol: ' ANPEP'
+collision_symbol: GP150

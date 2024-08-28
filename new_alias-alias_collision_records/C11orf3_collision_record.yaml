@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134153
+  gene_symbol: EMC7
+- ensg_id: ENSG00000149823
+  gene_symbol: ' VPS51'
+collision_symbol: C11orf3

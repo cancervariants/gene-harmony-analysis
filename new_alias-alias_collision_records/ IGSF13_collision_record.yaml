@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144847
+  gene_symbol: IGSF11
+- ensg_id: ENSG00000186074
+  gene_symbol: ' CD300LF'
+collision_symbol: ' IGSF13'

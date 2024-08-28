@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000178458
+  gene_symbol: H3P16
+- ensg_id: ENSG00000124762
+  gene_symbol: ' CDKN1A'
+- ensg_id: ENSG00000168824
+  gene_symbol: ' NSG1'
+collision_symbol: ' P21'

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000292345
+  gene_symbol: ZBED1
+- ensg_id: ENSG00000067167
+  gene_symbol: ' TRAM1'
+- ensg_id: ENSG00000143196
+  gene_symbol: ' DPT'
+- ensg_id: ENSG00000215788
+  gene_symbol: ' TNFRSF25'
+collision_symbol: TRAMP

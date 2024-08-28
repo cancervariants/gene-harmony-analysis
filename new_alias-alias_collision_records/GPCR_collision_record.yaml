@@ -1,0 +1,24 @@
+collision_group:
+- ensg_id: ENSG00000173250
+  gene_symbol: GPR151
+- ensg_id: NAN
+  gene_symbol: ' VN1R17P'
+- ensg_id: ENSG00000179826
+  gene_symbol: ' MRGPRX3'
+- ensg_id: ENSG00000162881
+  gene_symbol: ' OXER1'
+- ensg_id: ENSG00000179817
+  gene_symbol: ' MRGPRX4'
+- ensg_id: ENSG00000133067
+  gene_symbol: ' LGR6'
+- ensg_id: ENSG00000171517
+  gene_symbol: ' LPAR3'
+- ensg_id: ENSG00000173612
+  gene_symbol: ' GPRC6A'
+- ensg_id: ENSG00000170255
+  gene_symbol: ' MRGPRX1'
+- ensg_id: ENSG00000220349
+  gene_symbol: ' GPR166P'
+- ensg_id: ENSG00000174804
+  gene_symbol: ' FZD4'
+collision_symbol: GPCR

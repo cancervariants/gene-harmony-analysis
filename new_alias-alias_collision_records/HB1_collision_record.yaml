@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: HBN1
+- ensg_id: ENSG00000183873
+  gene_symbol: ' SCN5A'
+- ensg_id: ENSG00000205426
+  gene_symbol: ' KRT81'
+collision_symbol: HB1

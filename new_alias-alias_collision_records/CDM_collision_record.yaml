@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000122786
+  gene_symbol: CALD1
+- ensg_id: ENSG00000185825
+  gene_symbol: ' BCAP31'
+collision_symbol: CDM

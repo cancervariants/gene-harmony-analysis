@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000250742
+  gene_symbol: LINC02381
+- ensg_id: ENSG00000109861
+  gene_symbol: ' CTSC'
+collision_symbol: HMS

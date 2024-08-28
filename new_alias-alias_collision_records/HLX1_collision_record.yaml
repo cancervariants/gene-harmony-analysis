@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136630
+  gene_symbol: HLX
+- ensg_id: ENSG00000109851
+  gene_symbol: ' DBX1'
+collision_symbol: HLX1

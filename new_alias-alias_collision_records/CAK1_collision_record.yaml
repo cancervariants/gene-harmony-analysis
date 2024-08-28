@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134058
+  gene_symbol: CDK7
+- ensg_id: ENSG00000102854
+  gene_symbol: ' MSLN'
+collision_symbol: CAK1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187140
+  gene_symbol: FOXD3
+- ensg_id: NAN
+  gene_symbol: ' IS1'
+collision_symbol: AIS1

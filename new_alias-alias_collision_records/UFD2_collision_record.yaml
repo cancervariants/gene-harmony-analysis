@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130939
+  gene_symbol: UBE4B
+- ensg_id: ENSG00000110344
+  gene_symbol: ' UBE4A'
+collision_symbol: UFD2

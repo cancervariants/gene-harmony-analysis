@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000013588
+  gene_symbol: GPRC5A
+- ensg_id: ENSG00000099917
+  gene_symbol: ' MED15'
+- ensg_id: ENSG00000118849
+  gene_symbol: ' RARRES1'
+collision_symbol: TIG1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135862
+  gene_symbol: LAMC1
+- ensg_id: ENSG00000176619
+  gene_symbol: ' LMNB2'
+collision_symbol: LAMB2

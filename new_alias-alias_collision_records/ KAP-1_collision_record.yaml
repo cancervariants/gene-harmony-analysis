@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000075945
+  gene_symbol: KIFAP3
+- ensg_id: ENSG00000130726
+  gene_symbol: ' TRIM28'
+collision_symbol: ' KAP-1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000070718
+  gene_symbol: AP3M2
+- ensg_id: ENSG00000100478
+  gene_symbol: ' AP4S1'
+collision_symbol: AP47B

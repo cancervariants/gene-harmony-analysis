@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135404
+  gene_symbol: CD63
+- ensg_id: ENSG00000142192
+  gene_symbol: ' APP'
+collision_symbol: AD1

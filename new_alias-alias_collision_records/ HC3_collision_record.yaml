@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000227666
+  gene_symbol: CYCSP24
+- ensg_id: ENSG00000106588
+  gene_symbol: ' PSMA2'
+collision_symbol: ' HC3'

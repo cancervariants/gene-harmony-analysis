@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000179142
+  gene_symbol: CYP11B2
+- ensg_id: ENSG00000160882
+  gene_symbol: ' CYP11B1'
+collision_symbol: CYP11B

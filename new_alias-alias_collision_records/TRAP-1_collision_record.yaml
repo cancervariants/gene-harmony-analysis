@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000126602
+  gene_symbol: TRAP1
+- ensg_id: ENSG00000135966
+  gene_symbol: ' TGFBRAP1'
+collision_symbol: TRAP-1

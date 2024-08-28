@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000211685
+  gene_symbol: IGLC7
+- ensg_id: ENSG00000169245
+  gene_symbol: ' CXCL10'
+collision_symbol: C7

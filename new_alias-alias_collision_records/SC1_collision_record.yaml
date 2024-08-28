@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137310
+  gene_symbol: TCF19
+- ensg_id: ENSG00000152583
+  gene_symbol: ' SPARCL1'
+collision_symbol: SC1

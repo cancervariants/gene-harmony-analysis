@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: PRSS3P2
+- ensg_id: ENSG00000158477
+  gene_symbol: ' CD1A'
+collision_symbol: T6

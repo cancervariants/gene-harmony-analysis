@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000206177
+  gene_symbol: HBM
+- ensg_id: ENSG00000223609
+  gene_symbol: ' HBD'
+collision_symbol: HBK

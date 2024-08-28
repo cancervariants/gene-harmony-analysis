@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000039068
+  gene_symbol: CDH1
+- ensg_id: NAN
+  gene_symbol: ' BRCD1'
+collision_symbol: BCDS1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112378
+  gene_symbol: PERP
+- ensg_id: ENSG00000135253
+  gene_symbol: ' KCP'
+collision_symbol: KCP1

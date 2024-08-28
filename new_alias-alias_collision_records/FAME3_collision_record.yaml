@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000291281
+  gene_symbol: COL6A4P1
+- ensg_id: ENSG00000145495
+  gene_symbol: ' MARCHF6'
+collision_symbol: FAME3

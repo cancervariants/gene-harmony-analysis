@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134827
+  gene_symbol: TCN1
+- ensg_id: ENSG00000176907
+  gene_symbol: ' TCIM'
+collision_symbol: TC-1

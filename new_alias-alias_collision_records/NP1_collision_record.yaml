@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000099250
+  gene_symbol: NRP1
+- ensg_id: ENSG00000171246
+  gene_symbol: ' NPTX1'
+collision_symbol: NP1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106819
+  gene_symbol: ASPN
+- ensg_id: ENSG00000163283
+  gene_symbol: ' ALPP'
+collision_symbol: PLAP-1

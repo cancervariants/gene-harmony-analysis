@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000110080
+  gene_symbol: ST3GAL4
+- ensg_id: ENSG00000157350
+  gene_symbol: ' ST3GAL2'
+collision_symbol: ST3GalA.2

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000187045
+  gene_symbol: TMPRSS6
+- ensg_id: ENSG00000134640
+  gene_symbol: ' MTNR1B'
+- ensg_id: ENSG00000125148
+  gene_symbol: ' MT2A'
+collision_symbol: MT2

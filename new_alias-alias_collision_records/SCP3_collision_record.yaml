@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144677
+  gene_symbol: CTDSPL
+- ensg_id: ENSG00000139351
+  gene_symbol: ' SYCP3'
+collision_symbol: SCP3

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000185499
+  gene_symbol: MUC1
+- ensg_id: ENSG00000140374
+  gene_symbol: ' ETFA'
+collision_symbol: EMA

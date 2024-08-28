@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000159899
+  gene_symbol: NPR2
+- ensg_id: ENSG00000177628
+  gene_symbol: ' GBA1'
+collision_symbol: GCB

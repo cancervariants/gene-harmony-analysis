@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000214827
+  gene_symbol: MTCP1
+- ensg_id: ENSG00000182712
+  gene_symbol: ' CMC4'
+collision_symbol: ' P8MTCP1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: H3P38
+- ensg_id: ENSG00000220875
+  gene_symbol: ' H3C9P'
+collision_symbol: H3F3AP1

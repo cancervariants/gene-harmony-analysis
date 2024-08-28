@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000174876
+  gene_symbol: AMY1B
+- ensg_id: ENSG00000237763
+  gene_symbol: ' AMY1A'
+- ensg_id: ENSG00000187733
+  gene_symbol: ' AMY1C'
+collision_symbol: AMY1

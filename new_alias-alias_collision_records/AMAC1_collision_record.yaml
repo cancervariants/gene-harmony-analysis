@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000275385
+  gene_symbol: CCL18
+- ensg_id: ENSG00000164729
+  gene_symbol: ' SLC35G3'
+collision_symbol: AMAC1

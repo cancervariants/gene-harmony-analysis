@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000138085
+  gene_symbol: ATRAID
+- ensg_id: ENSG00000149357
+  gene_symbol: ' LAMTOR1'
+- ensg_id: ENSG00000123080
+  gene_symbol: ' CDKN2C'
+- ensg_id: NAN
+  gene_symbol: ' H3P12'
+collision_symbol: p18

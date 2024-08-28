@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178802
+  gene_symbol: MPI
+- ensg_id: ENSG00000140650
+  gene_symbol: ' PMM2'
+collision_symbol: PMI1

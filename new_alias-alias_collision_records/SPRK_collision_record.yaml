@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169474
+  gene_symbol: SPRR1A
+- ensg_id: ENSG00000173327
+  gene_symbol: ' MAP3K11'
+collision_symbol: SPRK

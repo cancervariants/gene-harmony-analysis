@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000171703
+  gene_symbol: TCEA2
+- ensg_id: ENSG00000187735
+  gene_symbol: ' TCEA1'
+- ensg_id: ENSG00000204219
+  gene_symbol: ' TCEA3'
+collision_symbol: TFIIS

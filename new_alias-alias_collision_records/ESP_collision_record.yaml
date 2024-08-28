@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000258484
+  gene_symbol: SPESP1
+- ensg_id: ENSG00000293457
+  gene_symbol: ' PTPRVP'
+collision_symbol: ESP

@@ -1,0 +1,18 @@
+collision_group:
+- ensg_id: ENSG00000124802
+  gene_symbol: EEF1E1
+- ensg_id: ENSG00000198517
+  gene_symbol: ' MAFK'
+- ensg_id: ENSG00000186448
+  gene_symbol: ' ZNF197'
+- ensg_id: ENSG00000149357
+  gene_symbol: ' LAMTOR1'
+- ensg_id: ENSG00000123080
+  gene_symbol: ' CDKN2C'
+- ensg_id: ENSG00000138085
+  gene_symbol: ' ATRAID'
+- ensg_id: ENSG00000230618
+  gene_symbol: ' H3P12'
+- ensg_id: ENSG00000179636
+  gene_symbol: ' TPPP2'
+collision_symbol: ' P18'

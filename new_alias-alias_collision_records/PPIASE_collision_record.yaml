@@ -1,0 +1,20 @@
+collision_group:
+- ensg_id: ENSG00000100442
+  gene_symbol: FKBP3
+- ensg_id: ENSG00000004478
+  gene_symbol: ' FKBP4'
+- ensg_id: ENSG00000173486
+  gene_symbol: ' FKBP2'
+- ensg_id: ENSG00000122642
+  gene_symbol: ' FKBP9'
+- ensg_id: ENSG00000185250
+  gene_symbol: ' PPIL6'
+- ensg_id: ENSG00000137168
+  gene_symbol: ' PPIL1'
+- ensg_id: ENSG00000096060
+  gene_symbol: ' FKBP5'
+- ensg_id: ENSG00000119782
+  gene_symbol: ' FKBP1B'
+- ensg_id: ENSG00000079150
+  gene_symbol: ' FKBP7'
+collision_symbol: PPIase

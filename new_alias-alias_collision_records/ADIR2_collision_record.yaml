@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186283
+  gene_symbol: TOR3A
+- ensg_id: ENSG00000110713
+  gene_symbol: ' NUP98'
+collision_symbol: ADIR2

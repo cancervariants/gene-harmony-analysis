@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187764
+  gene_symbol: SEMA4D
+- ensg_id: NAN
+  gene_symbol: ' IGKV2D-23'
+collision_symbol: A8

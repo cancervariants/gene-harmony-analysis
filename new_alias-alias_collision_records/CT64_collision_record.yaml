@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166049
+  gene_symbol: PASD1
+- ensg_id: ENSG00000241369
+  gene_symbol: ' LINC01192'
+collision_symbol: CT64

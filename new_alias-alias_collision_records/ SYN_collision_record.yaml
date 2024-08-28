@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000182253
+  gene_symbol: SYNM
+- ensg_id: ENSG00000010810
+  gene_symbol: ' FYN'
+collision_symbol: ' SYN'

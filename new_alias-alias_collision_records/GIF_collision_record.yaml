@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000240972
+  gene_symbol: MIF
+- ensg_id: ENSG00000134812
+  gene_symbol: ' CBLIF'
+- ensg_id: ENSG00000087250
+  gene_symbol: ' MT3'
+collision_symbol: GIF

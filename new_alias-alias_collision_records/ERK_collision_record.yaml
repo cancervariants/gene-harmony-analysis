@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100030
+  gene_symbol: MAPK1
+- ensg_id: ENSG00000133216
+  gene_symbol: ' EPHB2'
+collision_symbol: ERK

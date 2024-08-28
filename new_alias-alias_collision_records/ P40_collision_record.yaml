@@ -1,0 +1,20 @@
+collision_group:
+- ensg_id: ENSG00000116584
+  gene_symbol: ARHGEF2
+- ensg_id: ENSG00000073282
+  gene_symbol: ' TP63'
+- ensg_id: ENSG00000103035
+  gene_symbol: ' PSMD7'
+- ensg_id: ENSG00000145839
+  gene_symbol: ' IL9'
+- ensg_id: ENSG00000100916
+  gene_symbol: ' BRMS1L'
+- ensg_id: ENSG00000115365
+  gene_symbol: ' LANCL1'
+- ensg_id: ENSG00000198520
+  gene_symbol: ' ARMH1'
+- ensg_id: ENSG00000168028
+  gene_symbol: ' RPSA'
+- ensg_id: ENSG00000117395
+  gene_symbol: ' EBNA1BP2'
+collision_symbol: ' P40'

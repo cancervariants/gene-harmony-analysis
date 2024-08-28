@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186871
+  gene_symbol: ERCC6L
+- ensg_id: ENSG00000182150
+  gene_symbol: ' ERCC6L2'
+collision_symbol: ' RAD26L'

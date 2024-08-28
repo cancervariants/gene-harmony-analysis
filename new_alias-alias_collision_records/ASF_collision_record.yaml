@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136450
+  gene_symbol: SRSF1
+- ensg_id: ENSG00000062096
+  gene_symbol: ' ARSF'
+collision_symbol: ASF

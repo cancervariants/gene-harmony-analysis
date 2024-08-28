@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000001497
+  gene_symbol: LAS1L
+- ensg_id: ENSG00000118307
+  gene_symbol: ' DNAI7'
+collision_symbol: ' LAS1'

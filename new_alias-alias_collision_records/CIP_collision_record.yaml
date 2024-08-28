@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000085231
+  gene_symbol: AK6
+- ensg_id: ENSG00000146147
+  gene_symbol: ' MLIP'
+collision_symbol: CIP

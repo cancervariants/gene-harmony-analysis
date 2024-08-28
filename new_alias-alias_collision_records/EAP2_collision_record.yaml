@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120699
+  gene_symbol: EXOSC8
+- ensg_id: ENSG00000111802
+  gene_symbol: ' TDP2'
+collision_symbol: EAP2

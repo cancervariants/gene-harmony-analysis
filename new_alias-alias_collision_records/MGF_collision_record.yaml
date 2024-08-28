@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000126561
+  gene_symbol: STAT5A
+- ensg_id: ENSG00000049130
+  gene_symbol: ' KITLG'
+- ensg_id: ENSG00000017427
+  gene_symbol: ' IGF1'
+collision_symbol: MGF

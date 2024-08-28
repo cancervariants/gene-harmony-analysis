@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000124570
+  gene_symbol: SERPINB6
+- ensg_id: ENSG00000141867
+  gene_symbol: ' BRD4'
+- ensg_id: ENSG00000095637
+  gene_symbol: ' SORBS1'
+collision_symbol: ' CAP'

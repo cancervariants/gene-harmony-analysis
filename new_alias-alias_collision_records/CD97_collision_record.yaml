@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123146
+  gene_symbol: ADGRE5
+- ensg_id: ENSG00000127507
+  gene_symbol: ' ADGRE2'
+collision_symbol: CD97

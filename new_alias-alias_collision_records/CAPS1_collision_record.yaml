@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105519
+  gene_symbol: CAPS
+- ensg_id: ENSG00000163618
+  gene_symbol: ' CADPS'
+collision_symbol: CAPS1

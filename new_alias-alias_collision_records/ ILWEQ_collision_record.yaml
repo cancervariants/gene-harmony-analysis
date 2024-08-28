@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171914
+  gene_symbol: TLN2
+- ensg_id: ENSG00000130787
+  gene_symbol: ' HIP1R'
+collision_symbol: ' ILWEQ'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134184
+  gene_symbol: GSTM1
+- ensg_id: ENSG00000103342
+  gene_symbol: ' GSPT1'
+collision_symbol: GST1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000260549
+  gene_symbol: MT1L
+- ensg_id: ENSG00000163975
+  gene_symbol: ' MELTF'
+collision_symbol: ' MTF'

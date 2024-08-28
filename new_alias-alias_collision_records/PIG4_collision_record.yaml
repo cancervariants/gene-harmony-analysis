@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173432
+  gene_symbol: SAA1
+- ensg_id: ENSG00000132305
+  gene_symbol: ' IMMT'
+collision_symbol: PIG4

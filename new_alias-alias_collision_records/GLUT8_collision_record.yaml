@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000146411
+  gene_symbol: SLC2A12
+- ensg_id: ENSG00000136856
+  gene_symbol: ' SLC2A8'
+collision_symbol: GLUT8

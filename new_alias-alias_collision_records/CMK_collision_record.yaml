@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138755
+  gene_symbol: CXCL9
+- ensg_id: ENSG00000162368
+  gene_symbol: ' CMPK1'
+collision_symbol: CMK

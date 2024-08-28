@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000101745
+  gene_symbol: ANKRD12
+- ensg_id: ENSG00000167522
+  gene_symbol: ' ANKRD11'
+collision_symbol: ANCO1

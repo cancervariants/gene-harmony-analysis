@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144285
+  gene_symbol: SCN1A
+- ensg_id: ENSG00000160877
+  gene_symbol: ' NACC1'
+collision_symbol: ' NAC1'

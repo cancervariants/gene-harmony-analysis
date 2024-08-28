@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100982
+  gene_symbol: PCIF1
+- ensg_id: ENSG00000165819
+  gene_symbol: ' METTL3'
+collision_symbol: ' MT-A70'

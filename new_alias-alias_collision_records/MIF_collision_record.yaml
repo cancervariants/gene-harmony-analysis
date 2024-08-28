@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000104899
+  gene_symbol: AMH
+- ensg_id: ENSG00000143546
+  gene_symbol: ' S100A8'
+- ensg_id: ENSG00000163220
+  gene_symbol: ' S100A9'
+collision_symbol: MIF

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000141759
+  gene_symbol: TXNL4A
+- ensg_id: ENSG00000086189
+  gene_symbol: ' DIMT1'
+collision_symbol: DIM1

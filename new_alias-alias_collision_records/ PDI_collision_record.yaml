@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000185624
+  gene_symbol: P4HB
+- ensg_id: ENSG00000142623
+  gene_symbol: ' PADI1'
+- ensg_id: ENSG00000185615
+  gene_symbol: ' PDIA2'
+collision_symbol: ' PDI'

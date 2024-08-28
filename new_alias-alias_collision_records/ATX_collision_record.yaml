@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000197587
+  gene_symbol: DMBX1
+- ensg_id: ENSG00000157106
+  gene_symbol: ' SMG1'
+- ensg_id: ENSG00000136960
+  gene_symbol: ' ENPP2'
+collision_symbol: ATX

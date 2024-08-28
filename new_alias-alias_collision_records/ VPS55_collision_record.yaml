@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213625
+  gene_symbol: LEPROT
+- ensg_id: ENSG00000104660
+  gene_symbol: ' LEPROTL1'
+collision_symbol: ' VPS55'

@@ -1,0 +1,74 @@
+collision_group:
+- ensg_id: ENSG00000223648
+  gene_symbol: IGHV3-64
+- ensg_id: ENSG00000211950
+  gene_symbol: ' IGHV1-24'
+- ensg_id: ENSG00000224650
+  gene_symbol: ' IGHV3-74'
+- ensg_id: ENSG00000211938
+  gene_symbol: ' IGHV3-7'
+- ensg_id: ENSG00000211968
+  gene_symbol: ' IGHV1-58'
+- ensg_id: ENSG00000211937
+  gene_symbol: ' IGHV2-5'
+- ensg_id: ENSG00000211958
+  gene_symbol: ' IGHV3-38'
+- ensg_id: ENSG00000211972
+  gene_symbol: ' IGHV3-66'
+- ensg_id: ENSG00000099960
+  gene_symbol: ' SLC7A4'
+- ensg_id: ENSG00000211944
+  gene_symbol: ' IGHV3-16'
+- ensg_id: ENSG00000274576
+  gene_symbol: ' IGHV2-70'
+- ensg_id: ENSG00000225698
+  gene_symbol: ' IGHV3-72'
+- ensg_id: ENSG00000211951
+  gene_symbol: ' IGHV2-26'
+- ensg_id: ENSG00000211976
+  gene_symbol: ' IGHV3-73'
+- ensg_id: ENSG00000211959
+  gene_symbol: ' IGHV4-39'
+- ensg_id: ENSG00000211956
+  gene_symbol: ' IGHV4-34'
+- ensg_id: ENSG00000224373
+  gene_symbol: ' IGHV4-59'
+- ensg_id: ENSG00000211946
+  gene_symbol: ' IGHV3-20'
+- ensg_id: ENSG00000211970
+  gene_symbol: ' IGHV4-61'
+- ensg_id: ENSG00000211952
+  gene_symbol: ' IGHV4-28'
+- ensg_id: ENSG00000211966
+  gene_symbol: ' IGHV5-51'
+- ensg_id: ENSG00000211933
+  gene_symbol: ' IGHV6-1'
+- ensg_id: ENSG00000211947
+  gene_symbol: ' IGHV3-21'
+- ensg_id: ENSG00000211899
+  gene_symbol: ' IGHM'
+- ensg_id: ENSG00000232216
+  gene_symbol: ' IGHV3-43'
+- ensg_id: ENSG00000211941
+  gene_symbol: ' IGHV3-11'
+- ensg_id: NAN
+  gene_symbol: ' IGHV3-9'
+- ensg_id: ENSG00000211964
+  gene_symbol: ' IGHV3-48'
+- ensg_id: ENSG00000270550
+  gene_symbol: ' IGHV3-30'
+- ensg_id: ENSG00000211961
+  gene_symbol: ' IGHV1-45'
+- ensg_id: ENSG00000211955
+  gene_symbol: ' IGHV3-33'
+- ensg_id: ENSG00000211957
+  gene_symbol: ' IGHV3-35'
+- ensg_id: ENSG00000211965
+  gene_symbol: ' IGHV3-49'
+- ensg_id: ENSG00000211967
+  gene_symbol: ' IGHV3-53'
+- ensg_id: ENSG00000276775
+  gene_symbol: ' IGHV4-4'
+- ensg_id: ENSG00000211943
+  gene_symbol: ' IGHV3-15'
+collision_symbol: VH

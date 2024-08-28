@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100823
+  gene_symbol: APEX1
+- ensg_id: ENSG00000115355
+  gene_symbol: ' CCDC88A'
+collision_symbol: APE

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000092054
+  gene_symbol: MYH7
+- ensg_id: NAN
+  gene_symbol: ' SPPM'
+collision_symbol: SPMD

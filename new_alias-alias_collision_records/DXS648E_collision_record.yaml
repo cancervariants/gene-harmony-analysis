@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000207165
+  gene_symbol: SNORA70
+- ensg_id: ENSG00000147403
+  gene_symbol: ' RPL10'
+collision_symbol: DXS648E

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000081051
+  gene_symbol: AFP
+- ensg_id: ENSG00000179766
+  gene_symbol: ' ATP8B5P'
+collision_symbol: FETA

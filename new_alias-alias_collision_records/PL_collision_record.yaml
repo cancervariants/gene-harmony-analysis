@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000253293
+  gene_symbol: HOXA10
+- ensg_id: ENSG00000175535
+  gene_symbol: ' PNLIP'
+- ensg_id: ENSG00000213218
+  gene_symbol: ' CSH2'
+- ensg_id: ENSG00000136488
+  gene_symbol: ' CSH1'
+collision_symbol: PL

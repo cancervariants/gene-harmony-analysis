@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184937
+  gene_symbol: WT1
+- ensg_id: ENSG00000007372
+  gene_symbol: ' PAX6'
+collision_symbol: ' WAGR'

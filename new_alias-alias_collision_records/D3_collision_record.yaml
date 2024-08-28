@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163687
+  gene_symbol: DNASE1L3
+- ensg_id: ENSG00000197406
+  gene_symbol: ' DIO3'
+collision_symbol: D3

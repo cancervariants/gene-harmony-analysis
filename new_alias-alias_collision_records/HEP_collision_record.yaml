@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106123
+  gene_symbol: EPHB6
+- ensg_id: ENSG00000213221
+  gene_symbol: ' DNLZ'
+collision_symbol: HEP

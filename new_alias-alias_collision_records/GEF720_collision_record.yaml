@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000215788
+  gene_symbol: TNFRSF25
+- ensg_id: ENSG00000171680
+  gene_symbol: ' PLEKHG5'
+collision_symbol: GEF720

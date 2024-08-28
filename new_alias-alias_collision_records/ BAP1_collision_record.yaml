@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000121481
+  gene_symbol: RNF2
+- ensg_id: ENSG00000151276
+  gene_symbol: ' MAGI1'
+collision_symbol: ' BAP1'

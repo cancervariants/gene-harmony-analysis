@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114902
+  gene_symbol: SPCS1
+- ensg_id: ENSG00000140564
+  gene_symbol: ' FURIN'
+collision_symbol: SPC1

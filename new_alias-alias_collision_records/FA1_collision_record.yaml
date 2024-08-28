@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000187741
+  gene_symbol: FANCA
+- ensg_id: ENSG00000100138
+  gene_symbol: ' SNU13'
+- ensg_id: ENSG00000185559
+  gene_symbol: ' DLK1'
+collision_symbol: FA1

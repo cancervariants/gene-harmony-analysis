@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108759
+  gene_symbol: KRT32
+- ensg_id: ENSG00000136286
+  gene_symbol: ' MYO1G'
+collision_symbol: HA-2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000126545
+  gene_symbol: CSN1S1
+- ensg_id: ENSG00000169727
+  gene_symbol: ' GPS1'
+collision_symbol: CSN1

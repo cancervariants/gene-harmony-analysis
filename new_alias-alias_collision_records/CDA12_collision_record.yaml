@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000075089
+  gene_symbol: ACTR6
+- ensg_id: ENSG00000290574
+  gene_symbol: ' HLA-J'
+- ensg_id: ENSG00000204642
+  gene_symbol: ' HLA-F'
+collision_symbol: CDA12

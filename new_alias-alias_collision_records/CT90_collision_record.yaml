@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138182
+  gene_symbol: KIF20B
+- ensg_id: ENSG00000124383
+  gene_symbol: ' MPHOSPH10'
+collision_symbol: CT90

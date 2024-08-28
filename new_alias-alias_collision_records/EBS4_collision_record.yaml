@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186847
+  gene_symbol: KRT14
+- ensg_id: ENSG00000110723
+  gene_symbol: ' EXPH5'
+collision_symbol: EBS4

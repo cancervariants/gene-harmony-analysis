@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000274099
+  gene_symbol: ABCB10P1
+- ensg_id: ENSG00000135776
+  gene_symbol: ' ABCB10'
+collision_symbol: ' M-ABC2'

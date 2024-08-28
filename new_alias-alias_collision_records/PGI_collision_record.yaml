@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000130517
+  gene_symbol: PGPEP1
+- ensg_id: ENSG00000105220
+  gene_symbol: ' GPI'
+- ensg_id: ENSG00000182492
+  gene_symbol: ' BGN'
+collision_symbol: PGI

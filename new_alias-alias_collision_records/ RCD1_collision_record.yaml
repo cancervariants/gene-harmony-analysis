@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144580
+  gene_symbol: CNOT9
+- ensg_id: ENSG00000114982
+  gene_symbol: ' KANSL3'
+collision_symbol: ' RCD1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131051
+  gene_symbol: RBM39
+- ensg_id: ENSG00000205323
+  gene_symbol: ' SARNP'
+collision_symbol: HCC1

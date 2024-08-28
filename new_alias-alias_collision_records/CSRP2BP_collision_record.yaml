@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000232838
+  gene_symbol: PET117
+- ensg_id: ENSG00000149474
+  gene_symbol: ' KAT14'
+collision_symbol: CSRP2BP

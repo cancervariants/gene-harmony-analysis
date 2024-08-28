@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167768
+  gene_symbol: KRT1
+- ensg_id: ENSG00000186832
+  gene_symbol: ' KRT16'
+collision_symbol: NEPPK

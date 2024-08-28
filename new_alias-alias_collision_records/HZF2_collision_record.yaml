@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000185947
+  gene_symbol: ZNF267
+- ensg_id: NAN
+  gene_symbol: ' ZNF126'
+collision_symbol: HZF2

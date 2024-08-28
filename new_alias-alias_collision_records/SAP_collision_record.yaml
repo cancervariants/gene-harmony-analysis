@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183918
+  gene_symbol: SH2D1A
+- ensg_id: ENSG00000132703
+  gene_symbol: ' APCS'
+collision_symbol: SAP

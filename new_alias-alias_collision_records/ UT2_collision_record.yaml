@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132874
+  gene_symbol: SLC14A2
+- ensg_id: ENSG00000139971
+  gene_symbol: ' ARMH4'
+collision_symbol: ' UT2'

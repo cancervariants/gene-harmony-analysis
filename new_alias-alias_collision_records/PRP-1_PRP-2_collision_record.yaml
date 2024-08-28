@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134551
+  gene_symbol: PRH2
+- ensg_id: ENSG00000231887
+  gene_symbol: ' PRH1'
+collision_symbol: PRP-1/PRP-2

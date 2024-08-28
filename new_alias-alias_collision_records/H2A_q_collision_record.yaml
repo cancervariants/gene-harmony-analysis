@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184260
+  gene_symbol: H2AC20
+- ensg_id: ENSG00000288825
+  gene_symbol: ' H2AC18'
+collision_symbol: H2A/q

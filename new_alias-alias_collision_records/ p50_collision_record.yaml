@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000109320
+  gene_symbol: NFKB1
+- ensg_id: ENSG00000138303
+  gene_symbol: ' ASCC1'
+- ensg_id: ENSG00000101017
+  gene_symbol: ' CD40'
+- ensg_id: ENSG00000102606
+  gene_symbol: ' ARHGEF7'
+collision_symbol: ' P50'

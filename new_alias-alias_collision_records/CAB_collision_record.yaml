@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000242372
+  gene_symbol: EIF6
+- ensg_id: ENSG00000107281
+  gene_symbol: ' NPDC1'
+- ensg_id: ENSG00000133742
+  gene_symbol: ' CA1'
+collision_symbol: CAB

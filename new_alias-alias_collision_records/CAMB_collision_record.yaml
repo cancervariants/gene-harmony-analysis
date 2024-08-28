@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198668
+  gene_symbol: CALM1
+- ensg_id: ENSG00000160014
+  gene_symbol: ' CALM3'
+collision_symbol: CAMB

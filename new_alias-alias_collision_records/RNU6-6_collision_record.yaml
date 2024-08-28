@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000272055
+  gene_symbol: RNU6-6P
+- ensg_id: ENSG00000207116
+  gene_symbol: ' RNU6-31P'
+collision_symbol: RNU6-6

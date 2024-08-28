@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172009
+  gene_symbol: THOP1
+- ensg_id: ENSG00000256642
+  gene_symbol: ' LINC00273'
+collision_symbol: TOP

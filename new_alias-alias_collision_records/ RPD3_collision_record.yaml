@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000147099
+  gene_symbol: HDAC8
+- ensg_id: ENSG00000171720
+  gene_symbol: ' HDAC3'
+- ensg_id: ENSG00000196591
+  gene_symbol: ' HDAC2'
+collision_symbol: ' RPD3'

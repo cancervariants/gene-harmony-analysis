@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000161955
+  gene_symbol: TNFSF13
+- ensg_id: ENSG00000136938
+  gene_symbol: ' ANP32B'
+collision_symbol: APRIL

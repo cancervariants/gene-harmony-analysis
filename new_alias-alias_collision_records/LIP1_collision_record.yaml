@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000131626
+  gene_symbol: PPFIA1
+- ensg_id: ENSG00000144589
+  gene_symbol: ' STK11IP'
+- ensg_id: ENSG00000121897
+  gene_symbol: ' LIAS'
+- ensg_id: ENSG00000151849
+  gene_symbol: ' CENPJ'
+collision_symbol: LIP1

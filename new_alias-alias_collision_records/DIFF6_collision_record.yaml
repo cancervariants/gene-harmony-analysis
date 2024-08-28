@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000180096
+  gene_symbol: SEPTIN1
+- ensg_id: ENSG00000168385
+  gene_symbol: ' SEPTIN2'
+collision_symbol: DIFF6

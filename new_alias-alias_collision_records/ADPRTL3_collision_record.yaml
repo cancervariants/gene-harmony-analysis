@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129484
+  gene_symbol: PARP2
+- ensg_id: ENSG00000041880
+  gene_symbol: ' PARP3'
+collision_symbol: ADPRTL3

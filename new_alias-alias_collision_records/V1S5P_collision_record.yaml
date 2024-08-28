@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000228668
+  gene_symbol: TRGV5P
+- ensg_id: NAN
+  gene_symbol: ' TRGV6'
+collision_symbol: V1S5P

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000111700
+  gene_symbol: SLCO1B3
+- ensg_id: ENSG00000134538
+  gene_symbol: ' SLCO1B1'
+collision_symbol: HBLRR

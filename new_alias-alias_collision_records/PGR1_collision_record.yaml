@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000106853
+  gene_symbol: PTGR1
+- ensg_id: ENSG00000179010
+  gene_symbol: ' MRFAP1'
+- ensg_id: ENSG00000158292
+  gene_symbol: ' GPR153'
+collision_symbol: PGR1

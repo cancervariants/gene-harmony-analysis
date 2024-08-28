@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000185803
+  gene_symbol: SLC52A2
+- ensg_id: ENSG00000144852
+  gene_symbol: ' NR1I2'
+- ensg_id: ENSG00000181104
+  gene_symbol: ' F2R'
+- ensg_id: ENSG00000279050
+  gene_symbol: ' PWAR1'
+collision_symbol: PAR1

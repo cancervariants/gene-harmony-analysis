@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000130598
+  gene_symbol: TNNI2
+- ensg_id: ENSG00000109063
+  gene_symbol: ' MYH3'
+- ensg_id: ENSG00000198467
+  gene_symbol: ' TPM2'
+collision_symbol: DA2B

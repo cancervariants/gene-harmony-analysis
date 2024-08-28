@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000101542
+  gene_symbol: CDH20
+- ensg_id: ENSG00000071991
+  gene_symbol: ' CDH19'
+collision_symbol: CDH7

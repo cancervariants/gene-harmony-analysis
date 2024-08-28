@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160094
+  gene_symbol: ZNF362
+- ensg_id: ENSG00000160201
+  gene_symbol: ' U2AF1'
+collision_symbol: RN

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139697
+  gene_symbol: SBNO1
+- ensg_id: ENSG00000133794
+  gene_symbol: ' BMAL1'
+collision_symbol: MOP3

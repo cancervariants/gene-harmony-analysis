@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000176623
+  gene_symbol: RMDN1
+- ensg_id: ENSG00000155906
+  gene_symbol: ' RMND1'
+collision_symbol: RMD1

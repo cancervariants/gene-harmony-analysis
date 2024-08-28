@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103145
+  gene_symbol: HCFC1R1
+- ensg_id: ENSG00000163346
+  gene_symbol: ' PBXIP1'
+collision_symbol: HPIP

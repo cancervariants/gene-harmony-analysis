@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144891
+  gene_symbol: AGTR1
+- ensg_id: ENSG00000138079
+  gene_symbol: ' SLC3A1'
+collision_symbol: ' ATR1'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000166199
+  gene_symbol: ALKBH3
+- ensg_id: ENSG00000253438
+  gene_symbol: ' PCAT1'
+- ensg_id: ENSG00000197594
+  gene_symbol: ' ENPP1'
+collision_symbol: PCA1

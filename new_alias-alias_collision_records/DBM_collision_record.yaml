@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: CLLS2
+- ensg_id: ENSG00000123454
+  gene_symbol: ' DBH'
+collision_symbol: DBM

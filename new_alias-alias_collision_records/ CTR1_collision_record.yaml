@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000154781
+  gene_symbol: CCDC174
+- ensg_id: ENSG00000136868
+  gene_symbol: ' SLC31A1'
+collision_symbol: ' CTR1'

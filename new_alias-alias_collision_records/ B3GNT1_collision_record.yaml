@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174684
+  gene_symbol: B4GAT1
+- ensg_id: ENSG00000170340
+  gene_symbol: ' B3GNT2'
+collision_symbol: ' B3GNT1'

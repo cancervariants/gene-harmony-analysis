@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000117448
+  gene_symbol: AKR1A1
+- ensg_id: ENSG00000127554
+  gene_symbol: ' GFER'
+- ensg_id: ENSG00000167548
+  gene_symbol: ' KMT2D'
+collision_symbol: ALR

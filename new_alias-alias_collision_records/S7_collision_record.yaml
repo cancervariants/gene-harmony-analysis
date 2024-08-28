@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000161057
+  gene_symbol: PSMC2
+- ensg_id: ENSG00000156738
+  gene_symbol: ' MS4A1'
+- ensg_id: ENSG00000171863
+  gene_symbol: ' RPS7'
+collision_symbol: S7

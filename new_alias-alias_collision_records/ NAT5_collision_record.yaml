@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000121579
+  gene_symbol: NAA50
+- ensg_id: ENSG00000173418
+  gene_symbol: ' NAA20'
+collision_symbol: ' NAT5'

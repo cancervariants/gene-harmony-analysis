@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213335
+  gene_symbol: CLNS1AP1
+- ensg_id: ENSG00000074201
+  gene_symbol: ' CLNS1A'
+collision_symbol: CLNS1B

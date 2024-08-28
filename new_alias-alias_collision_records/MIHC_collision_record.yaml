@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000023445
+  gene_symbol: BIRC3
+- ensg_id: ENSG00000166866
+  gene_symbol: ' MYO1A'
+collision_symbol: MIHC

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100014
+  gene_symbol: SPECC1L
+- ensg_id: NAN
+  gene_symbol: ' OGS2'
+collision_symbol: GBBB2

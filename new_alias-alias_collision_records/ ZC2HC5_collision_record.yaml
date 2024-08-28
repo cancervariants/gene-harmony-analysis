@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103671
+  gene_symbol: TRIP4
+- ensg_id: ENSG00000172977
+  gene_symbol: ' KAT5'
+collision_symbol: ' ZC2HC5'

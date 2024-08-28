@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136271
+  gene_symbol: DDX56
+- ensg_id: ENSG00000102786
+  gene_symbol: ' INTS6'
+collision_symbol: DDX26

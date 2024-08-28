@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000013275
+  gene_symbol: PSMC4
+- ensg_id: ENSG00000137154
+  gene_symbol: ' RPS6'
+collision_symbol: S6

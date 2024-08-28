@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000211692
+  gene_symbol: TRGJP1
+- ensg_id: ENSG00000104369
+  gene_symbol: ' JPH1'
+collision_symbol: JP1

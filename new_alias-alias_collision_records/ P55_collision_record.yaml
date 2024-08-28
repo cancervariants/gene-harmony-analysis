@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000157554
+  gene_symbol: ERG
+- ensg_id: ENSG00000075618
+  gene_symbol: ' FSCN1'
+- ensg_id: ENSG00000226881
+  gene_symbol: ' H3P44'
+collision_symbol: ' P55'

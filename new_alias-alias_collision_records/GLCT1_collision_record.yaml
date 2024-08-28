@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131446
+  gene_symbol: MGAT1
+- ensg_id: ENSG00000148154
+  gene_symbol: ' UGCG'
+collision_symbol: GLCT1

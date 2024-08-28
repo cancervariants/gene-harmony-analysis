@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000243896
+  gene_symbol: OR2A7
+- ensg_id: ENSG00000228960
+  gene_symbol: ' OR2A9P'
+collision_symbol: HSDJ0798C17

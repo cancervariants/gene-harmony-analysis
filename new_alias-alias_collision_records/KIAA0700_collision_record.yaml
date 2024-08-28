@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169375
+  gene_symbol: SIN3A
+- ensg_id: ENSG00000127511
+  gene_symbol: ' SIN3B'
+collision_symbol: KIAA0700

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123384
+  gene_symbol: LRP1
+- ensg_id: ENSG00000149932
+  gene_symbol: ' TMEM219'
+collision_symbol: IGFBP3R

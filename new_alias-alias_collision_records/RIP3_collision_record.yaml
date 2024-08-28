@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129465
+  gene_symbol: RIPK3
+- ensg_id: ENSG00000133030
+  gene_symbol: ' MPRIP'
+collision_symbol: RIP3

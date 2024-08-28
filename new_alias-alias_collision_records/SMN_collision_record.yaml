@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000117632
+  gene_symbol: STMN1
+- ensg_id: ENSG00000172062
+  gene_symbol: ' SMN1'
+- ensg_id: ENSG00000128739
+  gene_symbol: ' SNRPN'
+collision_symbol: SMN

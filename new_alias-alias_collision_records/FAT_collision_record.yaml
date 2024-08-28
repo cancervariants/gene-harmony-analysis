@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135218
+  gene_symbol: CD36
+- ensg_id: ENSG00000083857
+  gene_symbol: ' FAT1'
+collision_symbol: FAT

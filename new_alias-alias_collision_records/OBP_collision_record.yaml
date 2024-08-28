@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000122136
+  gene_symbol: OBP2A
+- ensg_id: ENSG00000079616
+  gene_symbol: ' KIF22'
+collision_symbol: OBP

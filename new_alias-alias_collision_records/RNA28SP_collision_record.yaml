@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LOC110467531
+- ensg_id: NAN
+  gene_symbol: ' LOC110467526'
+- ensg_id: NAN
+  gene_symbol: ' LOC110467527'
+- ensg_id: NAN
+  gene_symbol: ' LOC110467528'
+- ensg_id: NAN
+  gene_symbol: ' LOC110467529'
+collision_symbol: RNA28SP

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000224389
+  gene_symbol: C4B
+- ensg_id: ENSG00000206340
+  gene_symbol: ' C4A'
+collision_symbol: ' CO4'

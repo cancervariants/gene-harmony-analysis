@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000175143
+  gene_symbol: OR2T1
+- ensg_id: NAN
+  gene_symbol: ' OR10J3'
+collision_symbol: OR1-25

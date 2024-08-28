@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000285620
+  gene_symbol: FAM90A16
+- ensg_id: ENSG00000285720
+  gene_symbol: ' FAM90A17'
+collision_symbol: FAM90A17P

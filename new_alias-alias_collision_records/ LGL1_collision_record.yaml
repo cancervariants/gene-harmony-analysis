@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131899
+  gene_symbol: LLGL1
+- ensg_id: ENSG00000103196
+  gene_symbol: ' CRISPLD2'
+collision_symbol: ' LGL1'

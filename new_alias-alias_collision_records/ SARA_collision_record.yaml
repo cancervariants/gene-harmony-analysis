@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000157077
+  gene_symbol: ZFYVE9
+- ensg_id: ENSG00000079332
+  gene_symbol: ' SAR1A'
+collision_symbol: ' SARA'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168672
+  gene_symbol: LRATD2
+- ensg_id: ENSG00000156831
+  gene_symbol: ' NSMCE2'
+collision_symbol: ' NSE2'

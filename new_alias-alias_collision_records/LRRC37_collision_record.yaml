@@ -1,0 +1,14 @@
+collision_group:
+- ensg_id: ENSG00000176809
+  gene_symbol: LRRC37A3
+- ensg_id: ENSG00000176681
+  gene_symbol: ' LRRC37A'
+- ensg_id: ENSG00000185158
+  gene_symbol: ' LRRC37B'
+- ensg_id: NAN
+  gene_symbol: ' LOC646030'
+- ensg_id: ENSG00000238083
+  gene_symbol: ' LRRC37A2'
+- ensg_id: NAN
+  gene_symbol: ' LRRC37A4P'
+collision_symbol: LRRC37

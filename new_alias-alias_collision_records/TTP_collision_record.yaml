@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000128016
+  gene_symbol: ZFP36
+- ensg_id: ENSG00000130147
+  gene_symbol: ' SH3BP4'
+collision_symbol: TTP

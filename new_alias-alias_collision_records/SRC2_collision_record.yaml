@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000000938
+  gene_symbol: FGR
+- ensg_id: ENSG00000140396
+  gene_symbol: ' NCOA2'
+collision_symbol: SRC2

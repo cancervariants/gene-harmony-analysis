@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000276844
+  gene_symbol: SNORD115-46
+- ensg_id: NAN
+  gene_symbol: ' SNORD115-47'
+collision_symbol: HBII-52-46

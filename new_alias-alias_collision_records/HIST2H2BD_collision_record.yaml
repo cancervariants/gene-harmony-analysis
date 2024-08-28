@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000261716
+  gene_symbol: H2BC20P
+- ensg_id: ENSG00000220323
+  gene_symbol: ' H2BC19P'
+collision_symbol: HIST2H2BD

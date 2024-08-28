@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169344
+  gene_symbol: UMOD
+- ensg_id: ENSG00000275410
+  gene_symbol: ' HNF1B'
+collision_symbol: FJHN

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144320
+  gene_symbol: LNPK
+- ensg_id: ENSG00000137804
+  gene_symbol: ' NUSAP1'
+collision_symbol: LNP

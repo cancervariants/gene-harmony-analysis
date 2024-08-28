@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172216
+  gene_symbol: CEBPB
+- ensg_id: ENSG00000151849
+  gene_symbol: ' CENPJ'
+collision_symbol: ' LAP'

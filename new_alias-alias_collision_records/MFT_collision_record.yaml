@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164933
+  gene_symbol: SLC25A32
+- ensg_id: ENSG00000083799
+  gene_symbol: ' CYLD'
+collision_symbol: MFT

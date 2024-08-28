@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000072274
+  gene_symbol: TFRC
+- ensg_id: ENSG00000127022
+  gene_symbol: ' CANX'
+collision_symbol: ' P90'

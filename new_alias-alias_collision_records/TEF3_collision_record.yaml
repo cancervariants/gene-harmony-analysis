@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108395
+  gene_symbol: TRIM37
+- ensg_id: ENSG00000197905
+  gene_symbol: ' TEAD4'
+collision_symbol: TEF3

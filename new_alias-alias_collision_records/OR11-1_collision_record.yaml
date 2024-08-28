@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000254724
+  gene_symbol: OR7E10P
+- ensg_id: NAN
+  gene_symbol: ' OR7E126P'
+collision_symbol: OR11-1

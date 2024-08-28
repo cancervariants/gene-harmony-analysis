@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000101132
+  gene_symbol: PFDN4
+- ensg_id: ENSG00000092199
+  gene_symbol: ' HNRNPC'
+- ensg_id: ENSG00000211689
+  gene_symbol: ' TRGC1'
+- ensg_id: ENSG00000089820
+  gene_symbol: ' ARHGAP4'
+collision_symbol: C1

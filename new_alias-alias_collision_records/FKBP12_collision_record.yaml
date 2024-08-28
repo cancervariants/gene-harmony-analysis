@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: FKBP1AP4
+- ensg_id: ENSG00000088832
+  gene_symbol: ' FKBP1A'
+- ensg_id: NAN
+  gene_symbol: ' FKBP1AP1'
+- ensg_id: NAN
+  gene_symbol: ' FKBP1AP2'
+- ensg_id: NAN
+  gene_symbol: ' FKBP1AP3'
+collision_symbol: FKBP12

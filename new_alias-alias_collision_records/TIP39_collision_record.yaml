@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000126778
+  gene_symbol: SIX1
+- ensg_id: ENSG00000142538
+  gene_symbol: ' PTH2'
+- ensg_id: ENSG00000100109
+  gene_symbol: ' TFIP11'
+collision_symbol: TIP39

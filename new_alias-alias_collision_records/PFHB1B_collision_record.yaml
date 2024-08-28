@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130529
+  gene_symbol: TRPM4
+- ensg_id: NAN
+  gene_symbol: ' HBN1'
+collision_symbol: PFHB1B

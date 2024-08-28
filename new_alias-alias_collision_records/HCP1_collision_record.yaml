@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000229357
+  gene_symbol: CYCSP51
+- ensg_id: ENSG00000205268
+  gene_symbol: ' PDE7A'
+- ensg_id: ENSG00000076351
+  gene_symbol: ' SLC46A1'
+collision_symbol: HCP1

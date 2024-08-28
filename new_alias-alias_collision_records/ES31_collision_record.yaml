@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000143947
+  gene_symbol: RPS27A
+- ensg_id: ENSG00000172828
+  gene_symbol: ' CES3'
+collision_symbol: ES31

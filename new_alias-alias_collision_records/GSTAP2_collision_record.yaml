@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000230845
+  gene_symbol: GSTA10P
+- ensg_id: ENSG00000237674
+  gene_symbol: ' GSTA7P'
+collision_symbol: GSTAP2

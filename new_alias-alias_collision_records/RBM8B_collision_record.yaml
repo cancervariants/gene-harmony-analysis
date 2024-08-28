@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: RMB8AP1
+- ensg_id: ENSG00000265241
+  gene_symbol: ' RBM8A'
+collision_symbol: RBM8B

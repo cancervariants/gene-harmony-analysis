@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166311
+  gene_symbol: SMPD1
+- ensg_id: ENSG00000130600
+  gene_symbol: ' H19'
+collision_symbol: ASM

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DNM1P47
+- ensg_id: ENSG00000290767
+  gene_symbol: ' DNM1P46'
+collision_symbol: DNM1DN14@

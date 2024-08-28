@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120915
+  gene_symbol: EPHX2
+- ensg_id: ENSG00000198848
+  gene_symbol: ' CES1'
+collision_symbol: CEH

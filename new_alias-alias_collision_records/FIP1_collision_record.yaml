@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000145216
+  gene_symbol: FIP1L1
+- ensg_id: ENSG00000155876
+  gene_symbol: ' RRAGA'
+collision_symbol: FIP1

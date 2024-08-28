@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132589
+  gene_symbol: FLOT2
+- ensg_id: ENSG00000119888
+  gene_symbol: ' EPCAM'
+collision_symbol: ' ESA'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000145242
+  gene_symbol: EPHA5
+- ensg_id: ENSG00000044524
+  gene_symbol: ' EPHA3'
+collision_symbol: TYRO4

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000017260
+  gene_symbol: ATP2C1
+- ensg_id: ENSG00000147485
+  gene_symbol: ' PXDNL'
+collision_symbol: ' PMR1'

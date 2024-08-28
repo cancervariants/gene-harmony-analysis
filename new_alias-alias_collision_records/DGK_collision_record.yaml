@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153933
+  gene_symbol: DGKE
+- ensg_id: ENSG00000136267
+  gene_symbol: ' DGKB'
+collision_symbol: DGK

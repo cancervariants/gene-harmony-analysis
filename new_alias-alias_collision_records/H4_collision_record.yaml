@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000270882
+  gene_symbol: H4C14
+- ensg_id: ENSG00000274618
+  gene_symbol: ' H4C6'
+- ensg_id: ENSG00000108091
+  gene_symbol: ' CCDC6'
+- ensg_id: ENSG00000134489
+  gene_symbol: ' HRH4'
+collision_symbol: H4

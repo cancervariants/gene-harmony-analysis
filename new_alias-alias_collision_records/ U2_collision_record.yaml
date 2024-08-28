@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000222328
+  gene_symbol: RNU2-2P
+- ensg_id: ENSG00000222076
+  gene_symbol: ' RNU2-3P'
+- ensg_id: ENSG00000222465
+  gene_symbol: ' RNU2-5P'
+- ensg_id: ENSG00000277084
+  gene_symbol: ' RNU2-4P'
+collision_symbol: ' U2'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000234289
+  gene_symbol: H2BC12L
+- ensg_id: ENSG00000101812
+  gene_symbol: ' H2BW2'
+- ensg_id: ENSG00000220323
+  gene_symbol: ' H2BC19P'
+collision_symbol: H2B/s

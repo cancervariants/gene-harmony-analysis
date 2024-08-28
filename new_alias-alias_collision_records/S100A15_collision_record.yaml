@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184330
+  gene_symbol: S100A7A
+- ensg_id: ENSG00000189334
+  gene_symbol: ' S100A14'
+collision_symbol: S100A15

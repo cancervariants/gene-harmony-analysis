@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000167632
+  gene_symbol: TRAPPC9
+- ensg_id: ENSG00000151729
+  gene_symbol: ' SLC25A4'
+- ensg_id: ENSG00000110448
+  gene_symbol: ' CD5'
+- ensg_id: ENSG00000115602
+  gene_symbol: ' IL1RL1'
+collision_symbol: ' T1'

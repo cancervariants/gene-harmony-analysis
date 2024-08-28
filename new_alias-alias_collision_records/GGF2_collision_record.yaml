@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000157168
+  gene_symbol: NRG1
+- ensg_id: NAN
+  gene_symbol: ' GINGF2'
+collision_symbol: GGF2

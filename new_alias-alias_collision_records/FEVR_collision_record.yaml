@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124479
+  gene_symbol: NDP
+- ensg_id: ENSG00000174804
+  gene_symbol: ' FZD4'
+collision_symbol: FEVR

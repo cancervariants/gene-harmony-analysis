@@ -1,0 +1,18 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ERVK-19
+- ensg_id: NAN
+  gene_symbol: ' ERVK-25'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-8'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-24'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-9'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-21'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-18'
+- ensg_id: NAN
+  gene_symbol: ' ERVK-10'
+collision_symbol: Proteinase

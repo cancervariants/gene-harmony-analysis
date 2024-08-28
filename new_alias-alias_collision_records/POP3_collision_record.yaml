@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000289721
+  gene_symbol: PYDC5
+- ensg_id: ENSG00000132429
+  gene_symbol: ' POPDC3'
+- ensg_id: ENSG00000167965
+  gene_symbol: ' MLST8'
+collision_symbol: POP3

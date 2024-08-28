@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135966
+  gene_symbol: TGFBRAP1
+- ensg_id: ENSG00000259706
+  gene_symbol: ' HSP90B2P'
+collision_symbol: TRAP1

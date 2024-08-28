@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163803
+  gene_symbol: PLB1
+- ensg_id: ENSG00000198523
+  gene_symbol: ' PLN'
+collision_symbol: ' PLB'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000185668
+  gene_symbol: POU3F1
+- ensg_id: ENSG00000004809
+  gene_symbol: ' SLC22A16'
+collision_symbol: OCT6

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000180596
+  gene_symbol: H2BC4
+- ensg_id: ENSG00000276410
+  gene_symbol: ' H2BC3'
+- ensg_id: ENSG00000184678
+  gene_symbol: ' H2BC21'
+collision_symbol: H2B.1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000090686
+  gene_symbol: USP48
+- ensg_id: ENSG00000076864
+  gene_symbol: ' RAP1GAP'
+collision_symbol: RAP1GA1

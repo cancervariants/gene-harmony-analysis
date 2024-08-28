@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168575
+  gene_symbol: SLC20A2
+- ensg_id: ENSG00000181562
+  gene_symbol: ' EDDM3A'
+collision_symbol: RAM1

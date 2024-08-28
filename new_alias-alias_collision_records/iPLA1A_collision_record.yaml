@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000107651
+  gene_symbol: SEC23IP
+- ensg_id: ENSG00000085788
+  gene_symbol: ' DDHD2'
+collision_symbol: iPLA1A

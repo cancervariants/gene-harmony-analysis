@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137504
+  gene_symbol: CREBZF
+- ensg_id: ENSG00000139324
+  gene_symbol: ' TMTC3'
+collision_symbol: SMILE

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000183918
+  gene_symbol: SH2D1A
+- ensg_id: ENSG00000134242
+  gene_symbol: ' PTPN22'
+collision_symbol: LYP

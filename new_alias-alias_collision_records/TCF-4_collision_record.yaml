@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196628
+  gene_symbol: TCF4
+- ensg_id: ENSG00000148737
+  gene_symbol: ' TCF7L2'
+collision_symbol: TCF-4

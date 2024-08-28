@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174437
+  gene_symbol: ATP2A2
+- ensg_id: ENSG00000171873
+  gene_symbol: ' ADRA1D'
+collision_symbol: DAR

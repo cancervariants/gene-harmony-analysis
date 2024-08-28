@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000274143
+  gene_symbol: KIR2DL5A
+- ensg_id: NAN
+  gene_symbol: ' KIR2DL5B'
+collision_symbol: ' KIR2DL5'

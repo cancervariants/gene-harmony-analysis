@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000132670
+  gene_symbol: PTPRA
+- ensg_id: ENSG00000123384
+  gene_symbol: ' LRP1'
+- ensg_id: ENSG00000168028
+  gene_symbol: ' RPSA'
+collision_symbol: ' LRP'

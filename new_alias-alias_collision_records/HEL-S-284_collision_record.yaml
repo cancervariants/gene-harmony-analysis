@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000111732
+  gene_symbol: AICDA
+- ensg_id: ENSG00000100412
+  gene_symbol: ' ACO2'
+collision_symbol: HEL-S-284

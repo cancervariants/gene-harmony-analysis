@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000004939
+  gene_symbol: SLC4A1
+- ensg_id: ENSG00000141367
+  gene_symbol: ' CLTC'
+collision_symbol: CHC

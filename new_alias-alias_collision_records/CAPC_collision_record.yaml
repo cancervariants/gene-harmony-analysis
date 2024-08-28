@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184709
+  gene_symbol: LRRC26
+- ensg_id: ENSG00000113810
+  gene_symbol: ' SMC4'
+collision_symbol: CAPC

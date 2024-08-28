@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000126001
+  gene_symbol: CEP250
+- ensg_id: ENSG00000010292
+  gene_symbol: ' NCAPD2'
+collision_symbol: CNAP1

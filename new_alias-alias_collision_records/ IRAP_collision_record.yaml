@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113441
+  gene_symbol: LNPEP
+- ensg_id: ENSG00000136689
+  gene_symbol: ' IL1RN'
+collision_symbol: ' IRAP'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102032
+  gene_symbol: RENBP
+- ensg_id: ENSG00000105705
+  gene_symbol: ' SUGP1'
+collision_symbol: ' RBP'

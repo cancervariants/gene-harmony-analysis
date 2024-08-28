@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRDC
+- ensg_id: ENSG00000228985
+  gene_symbol: ' TRDD3'
+- ensg_id: ENSG00000211825
+  gene_symbol: ' TRDJ1'
+- ensg_id: NAN
+  gene_symbol: ' TRD'
+collision_symbol: TCRD

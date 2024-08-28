@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000181090
+  gene_symbol: EHMT1
+- ensg_id: ENSG00000136144
+  gene_symbol: ' RCBTB1'
+- ensg_id: ENSG00000159289
+  gene_symbol: ' GOLGA6A'
+collision_symbol: GLP

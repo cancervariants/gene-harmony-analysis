@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115904
+  gene_symbol: SOS1
+- ensg_id: ENSG00000136244
+  gene_symbol: ' IL6'
+collision_symbol: HGF

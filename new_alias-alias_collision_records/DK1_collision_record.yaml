@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000175283
+  gene_symbol: DOLK
+- ensg_id: ENSG00000211921
+  gene_symbol: ' IGHD5-12'
+collision_symbol: DK1

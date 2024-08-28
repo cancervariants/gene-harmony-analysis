@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ELOA3CP
+- ensg_id: ENSG00000288607
+  gene_symbol: ' ELOA3BP'
+collision_symbol: ELOA3B

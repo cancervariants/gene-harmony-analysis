@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137397
+  gene_symbol: TRIM31
+- ensg_id: ENSG00000136243
+  gene_symbol: ' NUP42'
+collision_symbol: ' HCG1'

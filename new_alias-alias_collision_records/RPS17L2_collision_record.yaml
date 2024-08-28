@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000182774
+  gene_symbol: RPS17
+- ensg_id: ENSG00000242439
+  gene_symbol: ' RPS17P3'
+collision_symbol: RPS17L2

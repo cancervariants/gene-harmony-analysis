@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124486
+  gene_symbol: USP9X
+- ensg_id: ENSG00000278057
+  gene_symbol: ' TEX28'
+collision_symbol: MRX99

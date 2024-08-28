@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165698
+  gene_symbol: SPACA9
+- ensg_id: ENSG00000090487
+  gene_symbol: ' SPG21'
+collision_symbol: ' MAST'

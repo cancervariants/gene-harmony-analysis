@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000141503
+  gene_symbol: MINK1
+- ensg_id: ENSG00000180509
+  gene_symbol: ' KCNE1'
+collision_symbol: ' MINK'

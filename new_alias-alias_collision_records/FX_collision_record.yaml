@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000126218
+  gene_symbol: F10
+- ensg_id: ENSG00000205542
+  gene_symbol: ' TMSB4X'
+- ensg_id: ENSG00000104522
+  gene_symbol: ' GFUS'
+collision_symbol: FX

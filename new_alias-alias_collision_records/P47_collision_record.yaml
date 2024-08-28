@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: H3P37
+- ensg_id: ENSG00000170776
+  gene_symbol: ' AKAP13'
+- ensg_id: ENSG00000153487
+  gene_symbol: ' ING1'
+collision_symbol: p47

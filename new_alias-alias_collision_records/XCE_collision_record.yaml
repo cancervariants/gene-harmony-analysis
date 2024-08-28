@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171551
+  gene_symbol: ECEL1
+- ensg_id: NAN
+  gene_symbol: ' XIC'
+collision_symbol: XCE

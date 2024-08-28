@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000082929
+  gene_symbol: LINC01587
+- ensg_id: ENSG00000164742
+  gene_symbol: ' ADCY1'
+collision_symbol: AC1

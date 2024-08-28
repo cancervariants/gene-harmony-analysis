@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000117614
+  gene_symbol: SYF2
+- ensg_id: ENSG00000196415
+  gene_symbol: ' PRTN3'
+- ensg_id: ENSG00000117592
+  gene_symbol: ' PRDX6'
+collision_symbol: ' P29'

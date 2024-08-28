@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138696
+  gene_symbol: BMPR1B
+- ensg_id: ENSG00000165591
+  gene_symbol: ' FAAH2'
+collision_symbol: AMDD

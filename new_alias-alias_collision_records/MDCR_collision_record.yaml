@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108953
+  gene_symbol: YWHAE
+- ensg_id: ENSG00000007168
+  gene_symbol: ' PAFAH1B1'
+collision_symbol: MDCR

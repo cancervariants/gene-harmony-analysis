@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000042286
+  gene_symbol: AIFM2
+- ensg_id: ENSG00000196154
+  gene_symbol: ' S100A4'
+- ensg_id: ENSG00000198513
+  gene_symbol: ' ATL1'
+collision_symbol: ' FSP1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000274962
+  gene_symbol: TEX28P1
+- ensg_id: ENSG00000277008
+  gene_symbol: ' TEX28P2'
+collision_symbol: pTEX

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000250641
+  gene_symbol: LY6G6F-LY6G6D
+- ensg_id: ENSG00000244355
+  gene_symbol: ' LY6G6D'
+collision_symbol: MEGT1

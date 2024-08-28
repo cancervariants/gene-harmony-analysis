@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000137992
+  gene_symbol: DBT
+- ensg_id: ENSG00000226344
+  gene_symbol: ' CST12P'
+- ensg_id: ENSG00000202363
+  gene_symbol: ' SNORA62'
+- ensg_id: ENSG00000209042
+  gene_symbol: ' SNORD12C'
+- ensg_id: ENSG00000150768
+  gene_symbol: ' DLAT'
+collision_symbol: E2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000119509
+  gene_symbol: INVS
+- ensg_id: ENSG00000144227
+  gene_symbol: ' NXPH2'
+collision_symbol: NPH2

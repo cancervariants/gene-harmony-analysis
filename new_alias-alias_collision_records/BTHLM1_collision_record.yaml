@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000142173
+  gene_symbol: COL6A2
+- ensg_id: ENSG00000142156
+  gene_symbol: ' COL6A1'
+- ensg_id: ENSG00000163359
+  gene_symbol: ' COL6A3'
+collision_symbol: BTHLM1

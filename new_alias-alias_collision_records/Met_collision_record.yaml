@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137776
+  gene_symbol: SLTM
+- ensg_id: ENSG00000101654
+  gene_symbol: ' RNMT'
+collision_symbol: Met

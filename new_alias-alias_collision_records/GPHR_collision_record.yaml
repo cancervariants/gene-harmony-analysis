@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117262
+  gene_symbol: GPR89A
+- ensg_id: ENSG00000188092
+  gene_symbol: ' GPR89B'
+collision_symbol: GPHR

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000177606
+  gene_symbol: JUN
+- ensg_id: ENSG00000170345
+  gene_symbol: ' FOS'
+- ensg_id: ENSG00000125740
+  gene_symbol: ' FOSB'
+collision_symbol: ' AP-1'

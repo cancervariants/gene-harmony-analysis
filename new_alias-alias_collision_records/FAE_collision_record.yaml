@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112039
+  gene_symbol: FANCE
+- ensg_id: ENSG00000170522
+  gene_symbol: ' ELOVL6'
+collision_symbol: FAE

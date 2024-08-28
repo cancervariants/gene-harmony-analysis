@@ -1,0 +1,14 @@
+collision_group:
+- ensg_id: ENSG00000171456
+  gene_symbol: ASXL1
+- ensg_id: ENSG00000115524
+  gene_symbol: ' SF3B1'
+- ensg_id: ENSG00000007168
+  gene_symbol: ' PAFAH1B1'
+- ensg_id: ENSG00000168769
+  gene_symbol: ' TET2'
+- ensg_id: ENSG00000078369
+  gene_symbol: ' GNB1'
+- ensg_id: ENSG00000108953
+  gene_symbol: ' YWHAE'
+collision_symbol: MDS

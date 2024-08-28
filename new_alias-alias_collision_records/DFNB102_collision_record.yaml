@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151491
+  gene_symbol: EPS8
+- ensg_id: ENSG00000112782
+  gene_symbol: ' CLIC5'
+collision_symbol: DFNB102

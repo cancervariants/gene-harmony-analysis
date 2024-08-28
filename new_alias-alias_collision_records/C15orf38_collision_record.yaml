@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000242498
+  gene_symbol: ARPIN
+- ensg_id: ENSG00000250021
+  gene_symbol: ' ARPIN-AP3S2'
+collision_symbol: C15orf38

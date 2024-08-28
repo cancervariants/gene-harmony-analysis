@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000143479
+  gene_symbol: DYRK3
+- ensg_id: ENSG00000113141
+  gene_symbol: ' IK'
+collision_symbol: RED

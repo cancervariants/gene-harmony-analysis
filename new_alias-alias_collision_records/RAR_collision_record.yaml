@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131759
+  gene_symbol: RARA
+- ensg_id: ENSG00000141542
+  gene_symbol: ' RAB40B'
+collision_symbol: RAR

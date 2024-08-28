@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000078098
+  gene_symbol: FAP
+- ensg_id: ENSG00000197635
+  gene_symbol: ' DPP4'
+collision_symbol: DPPIV

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000146733
+  gene_symbol: PSPH
+- ensg_id: ENSG00000115386
+  gene_symbol: ' REG1A'
+- ensg_id: ENSG00000125650
+  gene_symbol: ' PSPN'
+collision_symbol: PSP

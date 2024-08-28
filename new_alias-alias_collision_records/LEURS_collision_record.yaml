@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000133706
+  gene_symbol: LARS1
+- ensg_id: ENSG00000011376
+  gene_symbol: ' LARS2'
+collision_symbol: LEURS

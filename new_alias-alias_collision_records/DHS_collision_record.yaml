@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000095059
+  gene_symbol: DHPS
+- ensg_id: ENSG00000103335
+  gene_symbol: ' PIEZO1'
+collision_symbol: DHS

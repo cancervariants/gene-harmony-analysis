@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108960
+  gene_symbol: MMD
+- ensg_id: ENSG00000135636
+  gene_symbol: ' DYSF'
+collision_symbol: MMD1

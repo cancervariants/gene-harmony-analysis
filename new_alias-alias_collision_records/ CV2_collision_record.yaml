@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000157851
+  gene_symbol: DPYSL5
+- ensg_id: ENSG00000164619
+  gene_symbol: ' BMPER'
+collision_symbol: ' CV2'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000131748
+  gene_symbol: STARD3
+- ensg_id: ENSG00000067191
+  gene_symbol: ' CACNB1'
+- ensg_id: ENSG00000107281
+  gene_symbol: ' NPDC1'
+collision_symbol: CAB1

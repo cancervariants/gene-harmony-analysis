@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000175130
+  gene_symbol: MARCKSL1
+- ensg_id: ENSG00000103222
+  gene_symbol: ' ABCC1'
+- ensg_id: ENSG00000116729
+  gene_symbol: ' WLS'
+collision_symbol: MRP

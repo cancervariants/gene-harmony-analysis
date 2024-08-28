@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213380
+  gene_symbol: COG8
+- ensg_id: ENSG00000116329
+  gene_symbol: ' OPRD1'
+collision_symbol: DOR1

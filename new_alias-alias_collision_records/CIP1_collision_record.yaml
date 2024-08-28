@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124762
+  gene_symbol: CDKN1A
+- ensg_id: ENSG00000146828
+  gene_symbol: ' SLC12A9'
+collision_symbol: CIP1

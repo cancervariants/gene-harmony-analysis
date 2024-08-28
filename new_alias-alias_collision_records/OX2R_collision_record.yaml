@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163606
+  gene_symbol: CD200R1
+- ensg_id: ENSG00000137252
+  gene_symbol: ' HCRTR2'
+collision_symbol: OX2R

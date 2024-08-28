@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000103740
+  gene_symbol: ACSBG1
+- ensg_id: ENSG00000173166
+  gene_symbol: ' RAPH1'
+collision_symbol: LPD

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239264
+  gene_symbol: TXNDC5
+- ensg_id: ENSG00000181991
+  gene_symbol: ' MRPS11'
+collision_symbol: ' HCC-2'

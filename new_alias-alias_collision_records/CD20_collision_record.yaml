@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000156738
+  gene_symbol: MS4A1
+- ensg_id: ENSG00000171431
+  gene_symbol: ' KRT20'
+collision_symbol: CD20

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000219430
+  gene_symbol: MBL3P
+- ensg_id: ENSG00000165471
+  gene_symbol: ' MBL2'
+collision_symbol: MBL

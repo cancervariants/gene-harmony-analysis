@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000138107
+  gene_symbol: ACTR1A
+- ensg_id: ENSG00000164093
+  gene_symbol: ' PITX2'
+- ensg_id: ENSG00000185551
+  gene_symbol: ' NR2F2'
+collision_symbol: ARP1

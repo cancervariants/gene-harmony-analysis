@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134480
+  gene_symbol: CCNH
+- ensg_id: ENSG00000172116
+  gene_symbol: ' CD8B'
+collision_symbol: ' P37'

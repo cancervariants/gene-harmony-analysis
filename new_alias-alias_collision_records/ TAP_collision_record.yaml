@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000100003
+  gene_symbol: SEC14L2
+- ensg_id: ENSG00000162231
+  gene_symbol: ' NXF1'
+- ensg_id: ENSG00000138768
+  gene_symbol: ' USO1'
+- ensg_id: ENSG00000136068
+  gene_symbol: ' FLNB'
+collision_symbol: ' TAP'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000128789
+  gene_symbol: PSMG2
+- ensg_id: ENSG00000284770
+  gene_symbol: ' TBCE'
+collision_symbol: ' PAC2'

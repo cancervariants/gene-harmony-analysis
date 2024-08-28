@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRE-TTC3-1
+- ensg_id: ENSG00000118094
+  gene_symbol: ' TREH'
+collision_symbol: TRE

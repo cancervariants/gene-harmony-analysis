@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: TRS-AGA3-1
+- ensg_id: ENSG00000164675
+  gene_symbol: ' IQUB'
+collision_symbol: TRS4

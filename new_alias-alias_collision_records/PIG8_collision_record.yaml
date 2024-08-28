@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166037
+  gene_symbol: CEP57
+- ensg_id: ENSG00000149547
+  gene_symbol: ' EI24'
+collision_symbol: PIG8

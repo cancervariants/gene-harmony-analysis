@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129038
+  gene_symbol: LOXL1
+- ensg_id: ENSG00000115318
+  gene_symbol: ' LOXL3'
+collision_symbol: LOXL

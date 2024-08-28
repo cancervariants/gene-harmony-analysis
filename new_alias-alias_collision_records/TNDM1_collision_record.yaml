@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204644
+  gene_symbol: ZFP57
+- ensg_id: NAN
+  gene_symbol: ' TNDM'
+collision_symbol: TNDM1

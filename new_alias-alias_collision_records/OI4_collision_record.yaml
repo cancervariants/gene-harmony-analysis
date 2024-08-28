@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164692
+  gene_symbol: COL1A2
+- ensg_id: ENSG00000108821
+  gene_symbol: ' COL1A1'
+collision_symbol: OI4

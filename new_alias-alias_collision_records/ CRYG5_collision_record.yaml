@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000229150
+  gene_symbol: CRYGEP
+- ensg_id: ENSG00000168582
+  gene_symbol: ' CRYGA'
+collision_symbol: ' CRYG5'

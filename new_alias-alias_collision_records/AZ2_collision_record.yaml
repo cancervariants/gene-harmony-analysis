@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163512
+  gene_symbol: AZI2
+- ensg_id: ENSG00000180304
+  gene_symbol: ' OAZ2'
+collision_symbol: AZ2

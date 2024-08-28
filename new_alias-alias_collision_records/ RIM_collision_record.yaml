@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000101773
+  gene_symbol: RBBP8
+- ensg_id: ENSG00000079841
+  gene_symbol: ' RIMS1'
+collision_symbol: ' RIM'

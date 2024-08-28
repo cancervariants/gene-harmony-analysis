@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000187446
+  gene_symbol: CHP1
+- ensg_id: ENSG00000104140
+  gene_symbol: ' RHOV'
+collision_symbol: CHP

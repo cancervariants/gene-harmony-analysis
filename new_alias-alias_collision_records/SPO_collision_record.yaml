@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163630
+  gene_symbol: SYNPR
+- ensg_id: ENSG00000167419
+  gene_symbol: ' LPO'
+collision_symbol: SPO

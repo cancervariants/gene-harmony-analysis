@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139908
+  gene_symbol: TSSK4
+- ensg_id: ENSG00000174705
+  gene_symbol: ' SH3PXD2B'
+collision_symbol: TSK4

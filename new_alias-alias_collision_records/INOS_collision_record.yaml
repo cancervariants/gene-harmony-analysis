@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000007171
+  gene_symbol: NOS2
+- ensg_id: ENSG00000105655
+  gene_symbol: ' ISYNA1'
+collision_symbol: INOS

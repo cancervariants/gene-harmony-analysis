@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ELK2AP
+- ensg_id: ENSG00000135519
+  gene_symbol: ' KCNH3'
+collision_symbol: ELK2

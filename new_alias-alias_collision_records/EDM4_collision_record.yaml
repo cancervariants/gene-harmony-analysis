@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000155850
+  gene_symbol: SLC26A2
+- ensg_id: ENSG00000145217
+  gene_symbol: ' SLC26A1'
+collision_symbol: EDM4

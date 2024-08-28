@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000157837
+  gene_symbol: SPPL3
+- ensg_id: ENSG00000184903
+  gene_symbol: ' IMMP2L'
+- ensg_id: ENSG00000073792
+  gene_symbol: ' IGF2BP2'
+collision_symbol: IMP2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173281
+  gene_symbol: PPP1R3B
+- ensg_id: ENSG00000119938
+  gene_symbol: ' PPP1R3C'
+collision_symbol: PTG

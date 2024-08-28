@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000080819
+  gene_symbol: CPOX
+- ensg_id: ENSG00000176340
+  gene_symbol: ' COX8A'
+- ensg_id: ENSG00000178741
+  gene_symbol: ' COX5A'
+collision_symbol: COX

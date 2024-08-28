@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000272047
+  gene_symbol: GTF2H5
+- ensg_id: ENSG00000104884
+  gene_symbol: ' ERCC2'
+collision_symbol: TTD

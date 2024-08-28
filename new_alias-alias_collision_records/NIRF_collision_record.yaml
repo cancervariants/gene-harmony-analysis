@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147854
+  gene_symbol: UHRF2
+- ensg_id: ENSG00000127743
+  gene_symbol: ' IL17B'
+collision_symbol: NIRF

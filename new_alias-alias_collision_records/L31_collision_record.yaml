@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131981
+  gene_symbol: LGALS3
+- ensg_id: ENSG00000071082
+  gene_symbol: ' RPL31'
+collision_symbol: L31

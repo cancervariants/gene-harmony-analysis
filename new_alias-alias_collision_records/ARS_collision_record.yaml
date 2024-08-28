@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000110063
+  gene_symbol: DCPS
+- ensg_id: ENSG00000126233
+  gene_symbol: ' SLURP1'
+- ensg_id: NAN
+  gene_symbol: ' RIEG2'
+collision_symbol: ARS

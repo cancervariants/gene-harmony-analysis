@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000117682
+  gene_symbol: DHDDS
+- ensg_id: ENSG00000112619
+  gene_symbol: ' PRPH2'
+- ensg_id: ENSG00000095059
+  gene_symbol: ' DHPS'
+collision_symbol: DS

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138823
+  gene_symbol: MTTP
+- ensg_id: ENSG00000169688
+  gene_symbol: ' MT1B'
+collision_symbol: MTP

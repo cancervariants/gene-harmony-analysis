@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198730
+  gene_symbol: CTR9
+- ensg_id: ENSG00000204296
+  gene_symbol: ' TSBP1'
+collision_symbol: ' TSBP'

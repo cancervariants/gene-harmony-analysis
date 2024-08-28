@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174231
+  gene_symbol: PRPF8
+- ensg_id: ENSG00000204560
+  gene_symbol: ' DHX16'
+collision_symbol: PRP8

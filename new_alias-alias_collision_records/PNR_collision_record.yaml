@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135569
+  gene_symbol: TAAR5
+- ensg_id: ENSG00000278570
+  gene_symbol: ' NR2E3'
+collision_symbol: PNR

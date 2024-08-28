@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000143627
+  gene_symbol: PKLR
+- ensg_id: ENSG00000143125
+  gene_symbol: ' PROK1'
+collision_symbol: PK1

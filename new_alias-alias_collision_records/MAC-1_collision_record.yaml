@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169896
+  gene_symbol: ITGAM
+- ensg_id: ENSG00000160255
+  gene_symbol: ' ITGB2'
+collision_symbol: MAC-1

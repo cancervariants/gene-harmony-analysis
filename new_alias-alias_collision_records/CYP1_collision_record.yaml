@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140465
+  gene_symbol: CYP1A1
+- ensg_id: ENSG00000111012
+  gene_symbol: ' CYP27B1'
+collision_symbol: CYP1

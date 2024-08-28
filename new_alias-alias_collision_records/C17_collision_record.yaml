@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170891
+  gene_symbol: CYTL1
+- ensg_id: ENSG00000241258
+  gene_symbol: ' CRCP'
+collision_symbol: C17

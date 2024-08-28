@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129910
+  gene_symbol: CDH15
+- ensg_id: ENSG00000145526
+  gene_symbol: ' CDH18'
+collision_symbol: CDH14

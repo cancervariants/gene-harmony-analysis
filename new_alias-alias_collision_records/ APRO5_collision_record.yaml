@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000141232
+  gene_symbol: TOB1
+- ensg_id: ENSG00000183864
+  gene_symbol: ' TOB2'
+collision_symbol: ' APRO5'

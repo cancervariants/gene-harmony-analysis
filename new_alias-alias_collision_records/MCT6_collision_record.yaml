@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108932
+  gene_symbol: SLC16A6
+- ensg_id: ENSG00000170190
+  gene_symbol: ' SLC16A5'
+collision_symbol: MCT6

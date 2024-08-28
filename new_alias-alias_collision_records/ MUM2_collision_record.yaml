@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000146457
+  gene_symbol: WTAP
+- ensg_id: ENSG00000170043
+  gene_symbol: ' TRAPPC1'
+collision_symbol: ' MUM2'

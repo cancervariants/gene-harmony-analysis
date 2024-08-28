@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000231924
+  gene_symbol: PSG1
+- ensg_id: ENSG00000221878
+  gene_symbol: ' PSG7'
+collision_symbol: PSGGA

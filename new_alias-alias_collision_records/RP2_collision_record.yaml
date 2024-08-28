@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: STK19B
+- ensg_id: ENSG00000213965
+  gene_symbol: ' NUDT19'
+collision_symbol: RP2

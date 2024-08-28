@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239650
+  gene_symbol: GUSBP4
+- ensg_id: ENSG00000241549
+  gene_symbol: ' GUSBP2'
+collision_symbol: ' SMA3-L'

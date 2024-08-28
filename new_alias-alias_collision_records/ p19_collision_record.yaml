@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000147889
+  gene_symbol: CDKN2A
+- ensg_id: ENSG00000110944
+  gene_symbol: ' IL23A'
+- ensg_id: ENSG00000129355
+  gene_symbol: ' CDKN2D'
+collision_symbol: ' P19'

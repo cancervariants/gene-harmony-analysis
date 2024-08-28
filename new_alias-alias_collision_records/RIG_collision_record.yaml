@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000176490
+  gene_symbol: DIRAS1
+- ensg_id: ENSG00000050165
+  gene_symbol: ' DKK3'
+- ensg_id: ENSG00000115268
+  gene_symbol: ' RPS15'
+collision_symbol: RIG

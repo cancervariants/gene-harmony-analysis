@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000186675
+  gene_symbol: MAGEE2
+- ensg_id: ENSG00000255398
+  gene_symbol: ' HCAR3'
+collision_symbol: HCA3

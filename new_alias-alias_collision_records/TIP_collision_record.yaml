@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000129636
+  gene_symbol: ITFG1
+- ensg_id: ENSG00000143155
+  gene_symbol: ' TIPRL'
+- ensg_id: ENSG00000123600
+  gene_symbol: ' METTL8'
+- ensg_id: ENSG00000172977
+  gene_symbol: ' KAT5'
+collision_symbol: TIP

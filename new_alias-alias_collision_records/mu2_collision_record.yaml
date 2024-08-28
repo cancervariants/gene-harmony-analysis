@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129354
+  gene_symbol: AP1M2
+- ensg_id: ENSG00000161203
+  gene_symbol: ' AP2M1'
+collision_symbol: mu2

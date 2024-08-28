@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132874
+  gene_symbol: SLC14A2
+- ensg_id: ENSG00000181408
+  gene_symbol: ' UTS2R'
+collision_symbol: UTR

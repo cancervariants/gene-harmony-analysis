@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000229344
+  gene_symbol: MTCO2P12
+- ensg_id: ENSG00000073756
+  gene_symbol: ' PTGS2'
+collision_symbol: COX2

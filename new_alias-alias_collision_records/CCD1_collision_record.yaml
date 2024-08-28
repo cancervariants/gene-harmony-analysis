@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124813
+  gene_symbol: RUNX2
+- ensg_id: ENSG00000150764
+  gene_symbol: ' DIXDC1'
+collision_symbol: CCD1

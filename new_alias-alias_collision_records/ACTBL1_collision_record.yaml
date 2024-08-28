@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198062
+  gene_symbol: POTEH
+- ensg_id: ENSG00000187537
+  gene_symbol: ' POTEG'
+collision_symbol: ACTBL1

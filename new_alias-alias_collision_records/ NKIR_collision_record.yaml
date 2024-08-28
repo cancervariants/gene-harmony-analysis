@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115353
+  gene_symbol: TACR1
+- ensg_id: ENSG00000186074
+  gene_symbol: ' CD300LF'
+collision_symbol: ' NKIR'

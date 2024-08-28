@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000197299
+  gene_symbol: BLM
+- ensg_id: ENSG00000165392
+  gene_symbol: ' WRN'
+collision_symbol: RECQL2

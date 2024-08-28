@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000075239
+  gene_symbol: ACAT1
+- ensg_id: ENSG00000151224
+  gene_symbol: ' MAT1A'
+collision_symbol: MAT

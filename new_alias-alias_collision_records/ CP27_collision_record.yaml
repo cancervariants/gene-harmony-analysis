@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153774
+  gene_symbol: CFDP1
+- ensg_id: ENSG00000135929
+  gene_symbol: ' CYP27A1'
+collision_symbol: ' CP27'

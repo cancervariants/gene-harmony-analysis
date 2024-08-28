@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000218823
+  gene_symbol: PAPOLB
+- ensg_id: ENSG00000116649
+  gene_symbol: ' SRM'
+collision_symbol: PAPT

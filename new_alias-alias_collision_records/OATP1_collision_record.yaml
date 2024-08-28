@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139155
+  gene_symbol: SLCO1C1
+- ensg_id: ENSG00000101187
+  gene_symbol: ' SLCO4A1'
+collision_symbol: OATP1

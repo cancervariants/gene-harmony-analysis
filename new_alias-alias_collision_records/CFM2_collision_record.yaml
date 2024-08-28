@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000178882
+  gene_symbol: RFLNA
+- ensg_id: ENSG00000214336
+  gene_symbol: ' FOXI3'
+collision_symbol: CFM2

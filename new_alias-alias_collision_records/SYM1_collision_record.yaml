@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115204
+  gene_symbol: MPV17
+- ensg_id: ENSG00000183691
+  gene_symbol: ' NOG'
+collision_symbol: SYM1

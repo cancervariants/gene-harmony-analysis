@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000182718
+  gene_symbol: ANXA2
+- ensg_id: NAN
+  gene_symbol: ' ANXA2P3'
+- ensg_id: ENSG00000158042
+  gene_symbol: ' MRPL17'
+collision_symbol: LIP2

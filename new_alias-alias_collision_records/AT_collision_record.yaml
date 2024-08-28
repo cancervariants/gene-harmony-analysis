@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000010671
+  gene_symbol: BTK
+- ensg_id: ENSG00000171766
+  gene_symbol: ' GATM'
+collision_symbol: AT

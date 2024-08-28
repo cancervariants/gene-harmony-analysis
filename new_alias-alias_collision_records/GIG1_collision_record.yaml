@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000166340
+  gene_symbol: TPP1
+- ensg_id: ENSG00000142871
+  gene_symbol: ' CCN1'
+- ensg_id: ENSG00000105374
+  gene_symbol: ' NKG7'
+collision_symbol: GIG1

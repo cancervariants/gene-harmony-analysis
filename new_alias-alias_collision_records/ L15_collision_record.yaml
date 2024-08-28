@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174748
+  gene_symbol: RPL15
+- ensg_id: ENSG00000109881
+  gene_symbol: ' CCDC34'
+collision_symbol: ' L15'

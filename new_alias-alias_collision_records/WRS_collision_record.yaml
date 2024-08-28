@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000053918
+  gene_symbol: KCNQ1
+- ensg_id: ENSG00000172071
+  gene_symbol: ' EIF2AK3'
+collision_symbol: WRS

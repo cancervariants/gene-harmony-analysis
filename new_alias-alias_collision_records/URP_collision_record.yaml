@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000145040
+  gene_symbol: UCN2
+- ensg_id: ENSG00000188958
+  gene_symbol: ' UTS2B'
+- ensg_id: ENSG00000115446
+  gene_symbol: ' UNC50'
+- ensg_id: ENSG00000169249
+  gene_symbol: ' ZRSR2'
+collision_symbol: URP

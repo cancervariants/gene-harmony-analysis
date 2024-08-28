@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130821
+  gene_symbol: SLC6A8
+- ensg_id: ENSG00000145681
+  gene_symbol: ' HAPLN1'
+collision_symbol: CRT1

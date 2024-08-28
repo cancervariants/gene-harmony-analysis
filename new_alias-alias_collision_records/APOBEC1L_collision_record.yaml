@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000244509
+  gene_symbol: APOBEC3C
+- ensg_id: ENSG00000179750
+  gene_symbol: ' APOBEC3B'
+collision_symbol: APOBEC1L

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163431
+  gene_symbol: LMOD1
+- ensg_id: ENSG00000122507
+  gene_symbol: ' BBS9'
+collision_symbol: D1

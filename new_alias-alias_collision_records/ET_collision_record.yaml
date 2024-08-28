@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000092931
+  gene_symbol: MFSD11
+- ensg_id: ENSG00000185813
+  gene_symbol: ' PCYT2'
+collision_symbol: ET

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000095066
+  gene_symbol: HOOK2
+- ensg_id: ENSG00000130037
+  gene_symbol: ' KCNA5'
+- ensg_id: ENSG00000068796
+  gene_symbol: ' KIF2A'
+collision_symbol: HK2

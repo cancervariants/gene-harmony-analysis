@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120708
+  gene_symbol: TGFBI
+- ensg_id: ENSG00000139631
+  gene_symbol: ' CSAD'
+collision_symbol: CSD

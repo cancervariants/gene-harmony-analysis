@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000171490
+  gene_symbol: RSL1D1
+- ensg_id: ENSG00000197958
+  gene_symbol: ' RPL12'
+- ensg_id: ENSG00000243466
+  gene_symbol: ' IGKV1-5'
+collision_symbol: L12

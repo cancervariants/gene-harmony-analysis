@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DEFB109A
+- ensg_id: ENSG00000206034
+  gene_symbol: ' DEFB109B'
+- ensg_id: ENSG00000205989
+  gene_symbol: ' DEFB109C'
+collision_symbol: DEFB109

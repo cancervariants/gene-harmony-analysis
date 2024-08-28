@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000225581
+  gene_symbol: TRIM53AP
+- ensg_id: NAN
+  gene_symbol: ' TRIM53BP'
+collision_symbol: TRIM80P

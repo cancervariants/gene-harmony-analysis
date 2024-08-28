@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000023191
+  gene_symbol: RNH1
+- ensg_id: ENSG00000148082
+  gene_symbol: ' SHC3'
+- ensg_id: ENSG00000130283
+  gene_symbol: ' GDF1'
+- ensg_id: ENSG00000104881
+  gene_symbol: ' PPP1R13L'
+collision_symbol: RAI

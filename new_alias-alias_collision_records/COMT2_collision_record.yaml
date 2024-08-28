@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000284922
+  gene_symbol: LRTOMT
+- ensg_id: ENSG00000284844
+  gene_symbol: ' TOMT'
+collision_symbol: COMT2

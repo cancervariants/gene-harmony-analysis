@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000148346
+  gene_symbol: LCN2
+- ensg_id: ENSG00000184840
+  gene_symbol: ' TMED9'
+- ensg_id: ENSG00000176749
+  gene_symbol: ' CDK5R1'
+- ensg_id: ENSG00000171368
+  gene_symbol: ' TPPP'
+collision_symbol: p25

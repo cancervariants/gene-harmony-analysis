@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167601
+  gene_symbol: AXL
+- ensg_id: ENSG00000157450
+  gene_symbol: ' RNF111'
+collision_symbol: ARK

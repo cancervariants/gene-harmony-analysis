@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000286237
+  gene_symbol: ARMCX5-GPRASP2
+- ensg_id: ENSG00000198908
+  gene_symbol: ' GPRASP3'
+collision_symbol: p60TRP

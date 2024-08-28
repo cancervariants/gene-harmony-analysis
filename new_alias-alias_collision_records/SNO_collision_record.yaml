@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136603
+  gene_symbol: SKIL
+- ensg_id: ENSG00000064932
+  gene_symbol: ' SBNO2'
+collision_symbol: SNO

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000277209
+  gene_symbol: RPPH1
+- ensg_id: ENSG00000171865
+  gene_symbol: ' RNASEH1'
+collision_symbol: H1RNA

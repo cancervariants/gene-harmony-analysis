@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000088808
+  gene_symbol: PPP1R13B
+- ensg_id: ENSG00000078699
+  gene_symbol: ' CBFA2T2'
+- ensg_id: ENSG00000125503
+  gene_symbol: ' PPP1R12C'
+- ensg_id: ENSG00000105647
+  gene_symbol: ' PIK3R2'
+- ensg_id: ENSG00000145675
+  gene_symbol: ' PIK3R1'
+collision_symbol: p85

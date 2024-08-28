@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105607
+  gene_symbol: GCDH
+- ensg_id: NAN
+  gene_symbol: ' GUCY2EP'
+collision_symbol: GCD

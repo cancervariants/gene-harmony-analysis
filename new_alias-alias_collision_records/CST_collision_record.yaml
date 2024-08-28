@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000226344
+  gene_symbol: CST12P
+- ensg_id: ENSG00000128242
+  gene_symbol: ' GAL3ST1'
+collision_symbol: CST

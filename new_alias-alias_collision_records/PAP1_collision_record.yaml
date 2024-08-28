@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000106244
+  gene_symbol: PDAP1
+- ensg_id: ENSG00000134324
+  gene_symbol: ' LPIN1'
+- ensg_id: ENSG00000172016
+  gene_symbol: ' REG3A'
+- ensg_id: ENSG00000164610
+  gene_symbol: ' RP9'
+- ensg_id: ENSG00000197006
+  gene_symbol: ' METTL9'
+collision_symbol: PAP1

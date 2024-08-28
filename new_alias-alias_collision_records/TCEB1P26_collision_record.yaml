@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ELOCP36
+- ensg_id: NAN
+  gene_symbol: ' ELOCP26'
+collision_symbol: TCEB1P26

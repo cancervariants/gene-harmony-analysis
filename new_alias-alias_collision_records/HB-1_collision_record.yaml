@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000205426
+  gene_symbol: KRT81
+- ensg_id: ENSG00000158497
+  gene_symbol: ' HMHB1'
+- ensg_id: ENSG00000242265
+  gene_symbol: ' PEG10'
+collision_symbol: HB-1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124486
+  gene_symbol: USP9X
+- ensg_id: ENSG00000183161
+  gene_symbol: ' FANCF'
+collision_symbol: FAF

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132879
+  gene_symbol: FBXO44
+- ensg_id: ENSG00000109670
+  gene_symbol: ' FBXW7'
+collision_symbol: FBX30

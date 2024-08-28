@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000166503
+  gene_symbol: HDGFL3
+- ensg_id: ENSG00000167674
+  gene_symbol: ' HDGFL2'
+collision_symbol: HDGF-2

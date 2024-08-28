@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124875
+  gene_symbol: CXCL6
+- ensg_id: ENSG00000130640
+  gene_symbol: ' TUBGCP2'
+collision_symbol: GCP-2

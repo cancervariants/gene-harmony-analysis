@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104760
+  gene_symbol: FGL1
+- ensg_id: ENSG00000107521
+  gene_symbol: ' HPS1'
+collision_symbol: ' HPS'

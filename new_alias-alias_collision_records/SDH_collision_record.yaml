@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135094
+  gene_symbol: SDS
+- ensg_id: ENSG00000117118
+  gene_symbol: ' SDHB'
+collision_symbol: SDH

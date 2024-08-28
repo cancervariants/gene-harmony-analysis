@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000211633
+  gene_symbol: IGKV1D-42
+- ensg_id: ENSG00000116251
+  gene_symbol: ' RPL22'
+collision_symbol: L22

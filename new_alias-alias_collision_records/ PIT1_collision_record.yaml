@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000144136
+  gene_symbol: SLC20A1
+- ensg_id: ENSG00000064835
+  gene_symbol: ' POU1F1'
+collision_symbol: ' PIT1'

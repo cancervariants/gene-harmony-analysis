@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000290687
+  gene_symbol: ZNF286B
+- ensg_id: ENSG00000240445
+  gene_symbol: ' FOXO3B'
+collision_symbol: ZNF286C

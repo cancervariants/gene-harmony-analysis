@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000058085
+  gene_symbol: LAMC2
+- ensg_id: ENSG00000053747
+  gene_symbol: ' LAMA3'
+collision_symbol: BM600

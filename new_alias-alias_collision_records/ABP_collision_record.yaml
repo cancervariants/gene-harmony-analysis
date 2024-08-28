@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000002726
+  gene_symbol: AOC1
+- ensg_id: ENSG00000129214
+  gene_symbol: ' SHBG'
+collision_symbol: ABP

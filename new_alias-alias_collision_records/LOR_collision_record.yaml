@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134013
+  gene_symbol: LOXL2
+- ensg_id: ENSG00000203782
+  gene_symbol: ' LORICRIN'
+collision_symbol: LOR

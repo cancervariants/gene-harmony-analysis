@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000165623
+  gene_symbol: UCMA
+- ensg_id: ENSG00000130520
+  gene_symbol: ' LSM4'
+- ensg_id: ENSG00000119862
+  gene_symbol: ' LGALSL'
+collision_symbol: GRP

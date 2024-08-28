@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000103546
+  gene_symbol: SLC6A2
+- ensg_id: ENSG00000110321
+  gene_symbol: ' EIF4G2'
+- ensg_id: ENSG00000188338
+  gene_symbol: ' SLC38A3'
+collision_symbol: NAT1

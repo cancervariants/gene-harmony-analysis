@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000086548
+  gene_symbol: CEACAM6
+- ensg_id: ENSG00000105352
+  gene_symbol: ' CEACAM4'
+collision_symbol: NCA

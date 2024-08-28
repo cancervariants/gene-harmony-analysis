@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117569
+  gene_symbol: PTBP2
+- ensg_id: ENSG00000011304
+  gene_symbol: ' PTBP1'
+collision_symbol: ' PTB'

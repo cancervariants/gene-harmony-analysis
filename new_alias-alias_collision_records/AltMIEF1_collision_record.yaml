@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000285025
+  gene_symbol: MIURF
+- ensg_id: ENSG00000100335
+  gene_symbol: ' MIEF1'
+collision_symbol: AltMIEF1

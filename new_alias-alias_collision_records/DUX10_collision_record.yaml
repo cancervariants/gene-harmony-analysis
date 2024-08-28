@@ -1,0 +1,16 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LOC107987487
+- ensg_id: NAN
+  gene_symbol: ' LOC124906455'
+- ensg_id: NAN
+  gene_symbol: ' LOC107987486'
+- ensg_id: ENSG00000278664
+  gene_symbol: ' DUX4L10'
+- ensg_id: NAN
+  gene_symbol: ' LOC107987485'
+- ensg_id: ENSG00000280757
+  gene_symbol: ' DUX4L1'
+- ensg_id: NAN
+  gene_symbol: ' LOC107987484'
+collision_symbol: DUX10

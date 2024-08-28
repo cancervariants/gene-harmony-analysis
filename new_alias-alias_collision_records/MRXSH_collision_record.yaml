@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147274
+  gene_symbol: RBMX
+- ensg_id: ENSG00000182220
+  gene_symbol: ' ATP6AP2'
+collision_symbol: MRXSH

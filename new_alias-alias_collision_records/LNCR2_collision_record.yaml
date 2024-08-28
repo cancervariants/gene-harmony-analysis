@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169684
+  gene_symbol: CHRNA5
+- ensg_id: ENSG00000080644
+  gene_symbol: ' CHRNA3'
+collision_symbol: LNCR2

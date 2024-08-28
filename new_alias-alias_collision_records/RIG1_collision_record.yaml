@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000154134
+  gene_symbol: ROBO3
+- ensg_id: ENSG00000133321
+  gene_symbol: ' PLAAT4'
+- ensg_id: ENSG00000107201
+  gene_symbol: ' RIGI'
+collision_symbol: RIG1

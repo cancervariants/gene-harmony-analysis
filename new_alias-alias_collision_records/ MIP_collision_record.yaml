@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000083312
+  gene_symbol: TNPO1
+- ensg_id: ENSG00000274847
+  gene_symbol: ' MAFIP'
+collision_symbol: ' MIP'

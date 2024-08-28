@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132964
+  gene_symbol: CDK8
+- ensg_id: ENSG00000197079
+  gene_symbol: ' KRT35'
+collision_symbol: K35

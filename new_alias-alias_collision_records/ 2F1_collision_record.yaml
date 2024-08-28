@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000005022
+  gene_symbol: SLC25A5
+- ensg_id: ENSG00000139187
+  gene_symbol: ' KLRG1'
+collision_symbol: ' 2F1'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164896
+  gene_symbol: FASTK
+- ensg_id: ENSG00000230798
+  gene_symbol: ' FOXD3-AS1'
+collision_symbol: FAST

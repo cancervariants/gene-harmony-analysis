@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000160789
+  gene_symbol: LMNA
+- ensg_id: ENSG00000116748
+  gene_symbol: ' AMPD1'
+collision_symbol: ' MADA'

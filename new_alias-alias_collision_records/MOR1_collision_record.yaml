@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112038
+  gene_symbol: OPRM1
+- ensg_id: ENSG00000146701
+  gene_symbol: ' MDH2'
+collision_symbol: MOR1

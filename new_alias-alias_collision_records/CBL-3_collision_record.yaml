@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142273
+  gene_symbol: CBLC
+- ensg_id: ENSG00000270123
+  gene_symbol: ' VTRNA2-1'
+collision_symbol: CBL-3

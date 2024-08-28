@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171595
+  gene_symbol: DNAI2
+- ensg_id: ENSG00000122735
+  gene_symbol: ' DNAI1'
+collision_symbol: ' oda6'

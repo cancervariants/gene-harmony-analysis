@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000222036
+  gene_symbol: POTEM
+- ensg_id: ENSG00000112214
+  gene_symbol: ' FHL5'
+collision_symbol: ACT

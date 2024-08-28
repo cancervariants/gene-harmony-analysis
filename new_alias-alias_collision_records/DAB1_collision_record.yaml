@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167646
+  gene_symbol: DNAAF3
+- ensg_id: ENSG00000162600
+  gene_symbol: ' OMA1'
+collision_symbol: DAB1

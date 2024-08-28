@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138039
+  gene_symbol: LHCGR
+- ensg_id: ENSG00000109163
+  gene_symbol: ' GNRHR'
+collision_symbol: LHRHR

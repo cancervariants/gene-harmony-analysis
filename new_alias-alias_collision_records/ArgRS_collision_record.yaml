@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000146282
+  gene_symbol: RARS2
+- ensg_id: ENSG00000113643
+  gene_symbol: ' RARS1'
+collision_symbol: ArgRS

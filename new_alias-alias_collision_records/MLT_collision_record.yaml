@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172175
+  gene_symbol: MALT1
+- ensg_id: ENSG00000091436
+  gene_symbol: ' MAP3K20'
+collision_symbol: MLT

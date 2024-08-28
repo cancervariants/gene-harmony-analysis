@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000100033
+  gene_symbol: PRODH
+- ensg_id: ENSG00000008294
+  gene_symbol: ' SPAG9'
+collision_symbol: PIG6

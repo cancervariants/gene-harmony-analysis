@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000055118
+  gene_symbol: KCNH2
+- ensg_id: ENSG00000138161
+  gene_symbol: ' CUZD1'
+collision_symbol: ERG-1

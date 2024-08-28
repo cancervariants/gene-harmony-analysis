@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000111641
+  gene_symbol: NOP2
+- ensg_id: ENSG00000130305
+  gene_symbol: ' NSUN5'
+collision_symbol: NOL1

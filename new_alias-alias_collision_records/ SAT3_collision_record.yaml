@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000110080
+  gene_symbol: ST3GAL4
+- ensg_id: NAN
+  gene_symbol: ' SIAT5'
+collision_symbol: ' SAT3'

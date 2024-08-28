@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000136243
+  gene_symbol: NUP42
+- ensg_id: ENSG00000013619
+  gene_symbol: ' MAMLD1'
+- ensg_id: ENSG00000126777
+  gene_symbol: ' KTN1'
+collision_symbol: CG1

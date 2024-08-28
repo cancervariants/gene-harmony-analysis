@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000291230
+  gene_symbol: NAPSB
+- ensg_id: ENSG00000184640
+  gene_symbol: ' SEPTIN9'
+collision_symbol: NAPB

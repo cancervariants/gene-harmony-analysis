@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164022
+  gene_symbol: AIMP1
+- ensg_id: ENSG00000232466
+  gene_symbol: ' H3P31'
+collision_symbol: p43

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204267
+  gene_symbol: TAP2
+- ensg_id: ENSG00000131153
+  gene_symbol: ' GINS2'
+collision_symbol: ' PSF2'

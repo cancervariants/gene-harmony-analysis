@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172915
+  gene_symbol: NBEA
+- ensg_id: ENSG00000159733
+  gene_symbol: ' ZFYVE28'
+collision_symbol: LYST2

@@ -1,0 +1,12 @@
+collision_group:
+- ensg_id: ENSG00000175426
+  gene_symbol: PCSK1
+- ensg_id: ENSG00000141570
+  gene_symbol: ' CBX8'
+- ensg_id: ENSG00000205420
+  gene_symbol: ' KRT6A'
+- ensg_id: ENSG00000159388
+  gene_symbol: ' BTG2'
+- ensg_id: ENSG00000115073
+  gene_symbol: ' ACTR1B'
+collision_symbol: PC3

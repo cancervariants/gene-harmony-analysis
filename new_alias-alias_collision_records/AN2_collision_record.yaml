@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000007372
+  gene_symbol: PAX6
+- ensg_id: ENSG00000109911
+  gene_symbol: ' ELP4'
+collision_symbol: AN2

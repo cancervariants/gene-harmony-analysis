@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153767
+  gene_symbol: GTF2E1
+- ensg_id: ENSG00000197265
+  gene_symbol: ' GTF2E2'
+collision_symbol: ' FE'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204344
+  gene_symbol: STK19
+- ensg_id: ENSG00000166974
+  gene_symbol: ' MAPRE2'
+collision_symbol: ' RP1'

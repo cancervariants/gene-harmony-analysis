@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000196284
+  gene_symbol: SUPT3H
+- ensg_id: ENSG00000172296
+  gene_symbol: ' SPTLC3'
+collision_symbol: SPT3

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000133561
+  gene_symbol: GIMAP6
+- ensg_id: ENSG00000213203
+  gene_symbol: ' GIMAP1'
+collision_symbol: IAN2

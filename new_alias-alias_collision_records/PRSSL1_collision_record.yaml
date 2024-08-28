@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129451
+  gene_symbol: KLK10
+- ensg_id: ENSG00000185198
+  gene_symbol: ' PRSS57'
+collision_symbol: PRSSL1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000152952
+  gene_symbol: PLOD2
+- ensg_id: ENSG00000106689
+  gene_symbol: ' LHX2'
+collision_symbol: LH2

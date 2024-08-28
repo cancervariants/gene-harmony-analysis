@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151893
+  gene_symbol: CACUL1
+- ensg_id: ENSG00000121900
+  gene_symbol: ' TMEM54'
+collision_symbol: CAC1

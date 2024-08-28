@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000106526
+  gene_symbol: ACTR3C
+- ensg_id: ENSG00000133627
+  gene_symbol: ' ACTR3B'
+collision_symbol: ARP11

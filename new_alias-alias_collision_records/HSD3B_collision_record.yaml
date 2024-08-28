@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000203859
+  gene_symbol: HSD3B2
+- ensg_id: ENSG00000203857
+  gene_symbol: ' HSD3B1'
+collision_symbol: HSD3B

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000035681
+  gene_symbol: NSMAF
+- ensg_id: ENSG00000119397
+  gene_symbol: ' CNTRL'
+collision_symbol: FAN

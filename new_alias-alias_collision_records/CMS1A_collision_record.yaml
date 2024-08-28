@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000070748
+  gene_symbol: CHAT
+- ensg_id: ENSG00000138435
+  gene_symbol: ' CHRNA1'
+collision_symbol: CMS1A

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000012174
+  gene_symbol: MBTPS2
+- ensg_id: ENSG00000130066
+  gene_symbol: ' SAT1'
+collision_symbol: KFSD

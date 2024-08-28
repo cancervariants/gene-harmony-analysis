@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000089685
+  gene_symbol: BIRC5
+- ensg_id: ENSG00000163435
+  gene_symbol: ' ELF3'
+collision_symbol: EPR-1

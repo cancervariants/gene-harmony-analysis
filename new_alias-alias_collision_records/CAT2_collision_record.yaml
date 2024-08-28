@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000127412
+  gene_symbol: TRPV5
+- ensg_id: ENSG00000003989
+  gene_symbol: ' SLC7A2'
+- ensg_id: ENSG00000139436
+  gene_symbol: ' GIT2'
+collision_symbol: CAT2

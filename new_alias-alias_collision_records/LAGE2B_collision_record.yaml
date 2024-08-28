@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000184033
+  gene_symbol: CTAG1B
+- ensg_id: ENSG00000126890
+  gene_symbol: ' CTAG2'
+collision_symbol: LAGE2B

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000177575
+  gene_symbol: CD163
+- ensg_id: ENSG00000058272
+  gene_symbol: ' PPP1R12A'
+collision_symbol: M130

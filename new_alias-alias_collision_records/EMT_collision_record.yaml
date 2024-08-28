@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113263
+  gene_symbol: ITK
+- ensg_id: ENSG00000146477
+  gene_symbol: ' SLC22A3'
+collision_symbol: EMT

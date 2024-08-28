@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: ERVW-5
+- ensg_id: ENSG00000170390
+  gene_symbol: ' DCLK2'
+- ensg_id: ENSG00000091986
+  gene_symbol: ' CCDC80'
+- ensg_id: ENSG00000117114
+  gene_symbol: ' ADGRL2'
+collision_symbol: CL2

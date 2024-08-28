@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000205929
+  gene_symbol: C21orf62
+- ensg_id: ENSG00000111676
+  gene_symbol: ' ATN1'
+collision_symbol: B37

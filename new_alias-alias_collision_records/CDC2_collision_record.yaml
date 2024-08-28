@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170312
+  gene_symbol: CDK1
+- ensg_id: ENSG00000062822
+  gene_symbol: ' POLD1'
+collision_symbol: CDC2

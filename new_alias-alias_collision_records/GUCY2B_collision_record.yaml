@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113389
+  gene_symbol: NPR3
+- ensg_id: ENSG00000159899
+  gene_symbol: ' NPR2'
+collision_symbol: GUCY2B

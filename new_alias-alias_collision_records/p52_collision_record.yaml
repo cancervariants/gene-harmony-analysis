@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000271626
+  gene_symbol: H3P42
+- ensg_id: ENSG00000213780
+  gene_symbol: ' GTF2H4'
+collision_symbol: P52

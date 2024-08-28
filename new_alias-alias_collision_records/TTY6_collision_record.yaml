@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000131548
+  gene_symbol: TTTY6B
+- ensg_id: ENSG00000131538
+  gene_symbol: ' TTTY6'
+collision_symbol: TTY6

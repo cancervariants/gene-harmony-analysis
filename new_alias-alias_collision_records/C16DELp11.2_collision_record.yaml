@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: DEL16P11.2
+- ensg_id: NAN
+  gene_symbol: ' BMIQ16'
+- ensg_id: ENSG00000157613
+  gene_symbol: ' CREB3L1'
+collision_symbol: C16DELp11.2

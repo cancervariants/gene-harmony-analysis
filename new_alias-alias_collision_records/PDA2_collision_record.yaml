@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000008196
+  gene_symbol: TFAP2B
+- ensg_id: ENSG00000185615
+  gene_symbol: ' PDIA2'
+collision_symbol: PDA2

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000155966
+  gene_symbol: AFF2
+- ensg_id: ENSG00000102103
+  gene_symbol: ' PQBP1'
+collision_symbol: MRX2

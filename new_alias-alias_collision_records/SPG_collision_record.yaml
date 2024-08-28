@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: SPG16
+- ensg_id: ENSG00000163913
+  gene_symbol: ' IFT122'
+collision_symbol: SPG

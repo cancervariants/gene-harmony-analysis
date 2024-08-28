@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000145730
+  gene_symbol: PAM
+- ensg_id: ENSG00000171241
+  gene_symbol: ' SHCBP1'
+- ensg_id: ENSG00000148602
+  gene_symbol: ' LRIT1'
+collision_symbol: PAL

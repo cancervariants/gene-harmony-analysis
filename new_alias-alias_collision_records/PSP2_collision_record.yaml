@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000239306
+  gene_symbol: RBM14
+- ensg_id: ENSG00000248643
+  gene_symbol: ' RBM14-RBM4'
+collision_symbol: PSP2

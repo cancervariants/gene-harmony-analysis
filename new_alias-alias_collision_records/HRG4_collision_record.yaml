@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109103
+  gene_symbol: UNC119
+- ensg_id: ENSG00000169752
+  gene_symbol: ' NRG4'
+collision_symbol: HRG4

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117595
+  gene_symbol: IRF6
+- ensg_id: ENSG00000008118
+  gene_symbol: ' CAMK1G'
+collision_symbol: ' VWS1'

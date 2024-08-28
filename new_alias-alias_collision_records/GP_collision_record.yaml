@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113269
+  gene_symbol: RNF130
+- ensg_id: ENSG00000041982
+  gene_symbol: ' TNC'
+collision_symbol: GP

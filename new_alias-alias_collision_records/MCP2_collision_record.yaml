@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000063761
+  gene_symbol: ADCK1
+- ensg_id: ENSG00000108700
+  gene_symbol: ' CCL8'
+collision_symbol: MCP2

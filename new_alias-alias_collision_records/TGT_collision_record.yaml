@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000213339
+  gene_symbol: QTRT1
+- ensg_id: ENSG00000101557
+  gene_symbol: ' USP14'
+collision_symbol: TGT

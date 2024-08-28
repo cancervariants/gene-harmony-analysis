@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000290560
+  gene_symbol: GUSBP3
+- ensg_id: ENSG00000172062
+  gene_symbol: ' SMN1'
+- ensg_id: NAN
+  gene_symbol: ' GUSBP14'
+collision_symbol: SMA3

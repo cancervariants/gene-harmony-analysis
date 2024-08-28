@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140873
+  gene_symbol: ADAMTS18
+- ensg_id: ENSG00000180370
+  gene_symbol: ' PAK2'
+collision_symbol: KNO2

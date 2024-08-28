@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134343
+  gene_symbol: ANO3
+- ensg_id: ENSG00000148408
+  gene_symbol: ' CACNA1B'
+collision_symbol: DYT23

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000065613
+  gene_symbol: SLK
+- ensg_id: ENSG00000114904
+  gene_symbol: ' NEK4'
+collision_symbol: ' STK2'

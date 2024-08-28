@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000207500
+  gene_symbol: SNORD102
+- ensg_id: NAN
+  gene_symbol: ' SNORD74'
+collision_symbol: Z18

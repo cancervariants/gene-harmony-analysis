@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000137331
+  gene_symbol: IER3
+- ensg_id: ENSG00000117600
+  gene_symbol: ' PLPPR4'
+- ensg_id: ENSG00000122862
+  gene_symbol: ' SRGN'
+collision_symbol: PRG1

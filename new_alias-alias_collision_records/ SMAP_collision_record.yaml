@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000112983
+  gene_symbol: BRD8
+- ensg_id: ENSG00000009724
+  gene_symbol: ' MASP2'
+- ensg_id: ENSG00000075945
+  gene_symbol: ' KIFAP3'
+collision_symbol: ' SMAP'

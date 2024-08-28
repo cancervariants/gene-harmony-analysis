@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000205571
+  gene_symbol: SMN2
+- ensg_id: ENSG00000172062
+  gene_symbol: ' SMN1'
+collision_symbol: GEMIN1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000156413
+  gene_symbol: FUT6
+- ensg_id: ENSG00000196371
+  gene_symbol: ' FUT4'
+collision_symbol: FCT3A

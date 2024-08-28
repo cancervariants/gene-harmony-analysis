@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: EBR3
+- ensg_id: NAN
+  gene_symbol: ' HOAC'
+collision_symbol: ULG4

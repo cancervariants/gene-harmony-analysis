@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000167815
+  gene_symbol: PRDX2
+- ensg_id: ENSG00000069011
+  gene_symbol: ' PITX1'
+- ensg_id: ENSG00000087502
+  gene_symbol: ' ERGIC2'
+- ensg_id: ENSG00000132693
+  gene_symbol: ' CRP'
+collision_symbol: PTX1

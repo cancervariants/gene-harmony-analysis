@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000253368
+  gene_symbol: TRNP1
+- ensg_id: ENSG00000210196
+  gene_symbol: ' MT-TP'
+collision_symbol: ' TRNP'

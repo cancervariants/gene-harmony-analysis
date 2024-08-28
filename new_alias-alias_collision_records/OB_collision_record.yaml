@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174697
+  gene_symbol: LEP
+- ensg_id: ENSG00000140937
+  gene_symbol: ' CDH11'
+collision_symbol: OB

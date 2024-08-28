@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000074416
+  gene_symbol: MGLL
+- ensg_id: ENSG00000132514
+  gene_symbol: ' CLEC10A'
+collision_symbol: MGL

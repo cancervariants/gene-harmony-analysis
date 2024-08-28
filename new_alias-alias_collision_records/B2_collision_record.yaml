@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000225190
+  gene_symbol: PLEKHM1
+- ensg_id: ENSG00000211599
+  gene_symbol: ' IGKV5-2'
+collision_symbol: B2

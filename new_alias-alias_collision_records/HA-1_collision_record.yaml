@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000180448
+  gene_symbol: ARHGAP45
+- ensg_id: ENSG00000094796
+  gene_symbol: ' KRT31'
+collision_symbol: HA-1

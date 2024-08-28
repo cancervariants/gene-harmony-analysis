@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000083454
+  gene_symbol: P2RX5
+- ensg_id: ENSG00000257950
+  gene_symbol: ' P2RX5-TAX1BP3'
+collision_symbol: P2X5

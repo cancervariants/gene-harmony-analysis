@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130203
+  gene_symbol: APOE
+- ensg_id: ENSG00000219481
+  gene_symbol: ' NBPF1'
+collision_symbol: AD2

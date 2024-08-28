@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000156467
+  gene_symbol: UQCRB
+- ensg_id: ENSG00000164405
+  gene_symbol: ' UQCRQ'
+collision_symbol: ' QP-C'

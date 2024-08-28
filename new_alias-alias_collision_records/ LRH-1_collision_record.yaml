@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116833
+  gene_symbol: NR5A2
+- ensg_id: ENSG00000083454
+  gene_symbol: ' P2RX5'
+collision_symbol: ' LRH-1'

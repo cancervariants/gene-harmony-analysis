@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108106
+  gene_symbol: UBE2S
+- ensg_id: ENSG00000230081
+  gene_symbol: ' HSPE1P28'
+collision_symbol: EPF5

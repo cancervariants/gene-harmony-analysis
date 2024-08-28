@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163286
+  gene_symbol: ALPG
+- ensg_id: ENSG00000048545
+  gene_symbol: ' GUCA1A'
+collision_symbol: GCAP

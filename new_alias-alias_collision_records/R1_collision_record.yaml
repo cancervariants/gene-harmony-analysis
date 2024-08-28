@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000167325
+  gene_symbol: RRM1
+- ensg_id: ENSG00000127838
+  gene_symbol: ' PNKD'
+- ensg_id: ENSG00000164649
+  gene_symbol: ' CDCA7L'
+- ensg_id: ENSG00000158485
+  gene_symbol: ' CD1B'
+collision_symbol: R1

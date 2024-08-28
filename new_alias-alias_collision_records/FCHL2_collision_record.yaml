@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000084674
+  gene_symbol: APOB
+- ensg_id: NAN
+  gene_symbol: ' HYPLIP2'
+collision_symbol: FCHL2

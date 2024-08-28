@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163939
+  gene_symbol: PBRM1
+- ensg_id: ENSG00000073050
+  gene_symbol: ' XRCC1'
+collision_symbol: RCC

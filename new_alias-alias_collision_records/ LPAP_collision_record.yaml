@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162836
+  gene_symbol: ACP6
+- ensg_id: ENSG00000213402
+  gene_symbol: ' PTPRCAP'
+collision_symbol: ' LPAP'

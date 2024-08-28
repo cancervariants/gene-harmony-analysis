@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: PTPRZ2
+- ensg_id: ENSG00000106278
+  gene_symbol: ' PTPRZ1'
+collision_symbol: PTPRZ

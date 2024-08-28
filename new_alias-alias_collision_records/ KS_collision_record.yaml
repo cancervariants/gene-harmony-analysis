@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000151093
+  gene_symbol: OXSM
+- ensg_id: ENSG00000182871
+  gene_symbol: ' COL18A1'
+collision_symbol: ' KS'

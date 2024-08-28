@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204642
+  gene_symbol: HLA-F
+- ensg_id: ENSG00000290574
+  gene_symbol: ' HLA-J'
+collision_symbol: HLA-CDA12

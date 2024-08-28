@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000058600
+  gene_symbol: POLR3E
+- ensg_id: ENSG00000100842
+  gene_symbol: ' EFS'
+collision_symbol: SIN

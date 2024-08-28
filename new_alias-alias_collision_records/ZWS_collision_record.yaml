@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162928
+  gene_symbol: PEX13
+- ensg_id: ENSG00000127980
+  gene_symbol: ' PEX1'
+collision_symbol: ZWS

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000268447
+  gene_symbol: SSX2B
+- ensg_id: ENSG00000241476
+  gene_symbol: ' SSX2'
+collision_symbol: SSX

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129480
+  gene_symbol: DTD2
+- ensg_id: ENSG00000149311
+  gene_symbol: ' ATM'
+collision_symbol: ATD

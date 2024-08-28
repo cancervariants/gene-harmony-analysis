@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104447
+  gene_symbol: TRPS1
+- ensg_id: ENSG00000182197
+  gene_symbol: ' EXT1'
+collision_symbol: LGCR

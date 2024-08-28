@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000293296
+  gene_symbol: PFN1P2
+- ensg_id: NAN
+  gene_symbol: ' PFN1P3'
+collision_symbol: COAS3

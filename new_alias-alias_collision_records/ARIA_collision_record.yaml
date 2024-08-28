@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000157168
+  gene_symbol: NRG1
+- ensg_id: ENSG00000249751
+  gene_symbol: ' ECSCR'
+collision_symbol: ARIA

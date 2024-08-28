@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000179284
+  gene_symbol: DAND5
+- ensg_id: ENSG00000292363
+  gene_symbol: ' CRLF2'
+collision_symbol: CRL2

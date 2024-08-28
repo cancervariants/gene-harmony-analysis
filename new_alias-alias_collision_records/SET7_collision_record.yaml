@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000145391
+  gene_symbol: SETD7
+- ensg_id: NAN
+  gene_symbol: ' KMT5AP1'
+collision_symbol: SET7

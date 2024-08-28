@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000077498
+  gene_symbol: TYR
+- ensg_id: ENSG00000187098
+  gene_symbol: ' MITF'
+collision_symbol: CMM8

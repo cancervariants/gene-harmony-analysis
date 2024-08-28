@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204001
+  gene_symbol: LCN8
+- ensg_id: ENSG00000267206
+  gene_symbol: ' LCN6'
+collision_symbol: LCN5

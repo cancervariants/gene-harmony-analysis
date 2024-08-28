@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153902
+  gene_symbol: LGI4
+- ensg_id: NAN
+  gene_symbol: ' AMCN'
+collision_symbol: AMC1

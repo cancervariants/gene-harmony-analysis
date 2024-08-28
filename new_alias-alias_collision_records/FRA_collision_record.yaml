@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000177548
+  gene_symbol: RABEP2
+- ensg_id: ENSG00000175592
+  gene_symbol: ' FOSL1'
+collision_symbol: FRA

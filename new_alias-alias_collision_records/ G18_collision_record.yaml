@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114737
+  gene_symbol: CISH
+- ensg_id: ENSG00000206314
+  gene_symbol: ' GPSM3'
+collision_symbol: ' G18'

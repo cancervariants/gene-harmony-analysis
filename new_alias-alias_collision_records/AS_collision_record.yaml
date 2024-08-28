@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: LINC02605
+- ensg_id: ENSG00000114062
+  gene_symbol: ' UBE3A'
+- ensg_id: ENSG00000234745
+  gene_symbol: ' HLA-B'
+collision_symbol: AS

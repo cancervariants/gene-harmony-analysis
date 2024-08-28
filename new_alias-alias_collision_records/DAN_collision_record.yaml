@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000140694
+  gene_symbol: PARN
+- ensg_id: ENSG00000158747
+  gene_symbol: ' MICOS10-NBL1'
+- ensg_id: ENSG00000158747
+  gene_symbol: ' NBL1'
+collision_symbol: DAN

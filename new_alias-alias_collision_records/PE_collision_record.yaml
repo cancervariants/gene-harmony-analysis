@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000085377
+  gene_symbol: PREP
+- ensg_id: ENSG00000132842
+  gene_symbol: ' AP3B1'
+- ensg_id: ENSG00000181195
+  gene_symbol: ' PENK'
+collision_symbol: PE

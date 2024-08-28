@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000168539
+  gene_symbol: CHRM1
+- ensg_id: ENSG00000184209
+  gene_symbol: ' SNRNP35'
+collision_symbol: HM1

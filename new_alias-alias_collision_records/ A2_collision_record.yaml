@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000149735
+  gene_symbol: GPHA2
+- ensg_id: ENSG00000160226
+  gene_symbol: ' CFAP410'
+- ensg_id: ENSG00000108823
+  gene_symbol: ' SGCA'
+collision_symbol: ' A2'

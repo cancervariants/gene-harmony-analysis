@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116649
+  gene_symbol: SRM
+- ensg_id: ENSG00000086475
+  gene_symbol: ' SEPHS1'
+collision_symbol: SPS1

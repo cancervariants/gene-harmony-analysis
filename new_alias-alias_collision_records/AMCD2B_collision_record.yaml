@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130598
+  gene_symbol: TNNI2
+- ensg_id: ENSG00000130595
+  gene_symbol: ' TNNT3'
+collision_symbol: AMCD2B

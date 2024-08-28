@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132669
+  gene_symbol: RIN2
+- ensg_id: ENSG00000277443
+  gene_symbol: ' MARCKS'
+collision_symbol: MACS

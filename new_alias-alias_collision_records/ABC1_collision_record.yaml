@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000165029
+  gene_symbol: ABCA1
+- ensg_id: ENSG00000068097
+  gene_symbol: ' HEATR6'
+collision_symbol: ABC1

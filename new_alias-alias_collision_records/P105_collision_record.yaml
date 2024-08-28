@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140945
+  gene_symbol: CDH13
+- ensg_id: ENSG00000142186
+  gene_symbol: ' SCYL1'
+collision_symbol: P105

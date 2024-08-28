@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000250107
+  gene_symbol: CACNA1G-AS1
+- ensg_id: ENSG00000050820
+  gene_symbol: ' BCAR1'
+collision_symbol: CAS1

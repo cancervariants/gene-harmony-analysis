@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000147883
+  gene_symbol: CDKN2B
+- ensg_id: ENSG00000147889
+  gene_symbol: ' CDKN2A'
+collision_symbol: CDK4I

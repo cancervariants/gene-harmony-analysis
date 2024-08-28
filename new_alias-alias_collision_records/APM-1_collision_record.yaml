@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000181092
+  gene_symbol: ADIPOQ
+- ensg_id: ENSG00000184828
+  gene_symbol: ' ZBTB7C'
+collision_symbol: APM-1

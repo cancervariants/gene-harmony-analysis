@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105613
+  gene_symbol: MAST1
+- ensg_id: ENSG00000152463
+  gene_symbol: ' OLAH'
+collision_symbol: ' SAST'

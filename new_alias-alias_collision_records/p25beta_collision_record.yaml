@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108468
+  gene_symbol: CBX1
+- ensg_id: ENSG00000179636
+  gene_symbol: ' TPPP2'
+collision_symbol: p25beta

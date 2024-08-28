@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000169953
+  gene_symbol: HSFY2
+- ensg_id: ENSG00000172468
+  gene_symbol: ' HSFY1'
+collision_symbol: HSF2L

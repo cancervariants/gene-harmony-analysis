@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000105618
+  gene_symbol: PRPF31
+- ensg_id: ENSG00000256155
+  gene_symbol: ' LINC02598'
+collision_symbol: ' RP11'

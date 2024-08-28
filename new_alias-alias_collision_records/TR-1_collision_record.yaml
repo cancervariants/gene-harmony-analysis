@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: MSANTD3-TMEFF1
+- ensg_id: ENSG00000241697
+  gene_symbol: ' TMEFF1'
+collision_symbol: TR-1

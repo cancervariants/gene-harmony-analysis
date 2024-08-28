@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000243477
+  gene_symbol: NAA80
+- ensg_id: ENSG00000114378
+  gene_symbol: ' HYAL1'
+collision_symbol: NAT6

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140043
+  gene_symbol: PTGR2
+- ensg_id: ENSG00000257008
+  gene_symbol: ' GPR142'
+collision_symbol: PGR2

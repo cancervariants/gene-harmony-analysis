@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000188257
+  gene_symbol: PLA2G2A
+- ensg_id: ENSG00000184381
+  gene_symbol: ' PLA2G6'
+- ensg_id: ENSG00000170890
+  gene_symbol: ' PLA2G1B'
+collision_symbol: PLA2

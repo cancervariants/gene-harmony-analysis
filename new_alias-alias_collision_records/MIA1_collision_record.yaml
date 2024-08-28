@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000261857
+  gene_symbol: MIA
+- ensg_id: ENSG00000163885
+  gene_symbol: ' CFAP100'
+collision_symbol: MIA1

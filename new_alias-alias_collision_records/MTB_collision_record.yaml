@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000146918
+  gene_symbol: NCAPG2
+- ensg_id: ENSG00000290662
+  gene_symbol: ' MT1JP'
+collision_symbol: MTB

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000104044
+  gene_symbol: OCA2
+- ensg_id: ENSG00000095370
+  gene_symbol: ' SH2D3C'
+- ensg_id: ENSG00000128731
+  gene_symbol: ' HERC2'
+collision_symbol: SHEP1

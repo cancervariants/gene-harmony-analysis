@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114391
+  gene_symbol: RPL24
+- ensg_id: ENSG00000239819
+  gene_symbol: ' IGKV1D-8'
+collision_symbol: L24

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104695
+  gene_symbol: PPP2CB
+- ensg_id: ENSG00000138032
+  gene_symbol: ' PPM1B'
+collision_symbol: PP2CB

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108387
+  gene_symbol: SEPTIN4
+- ensg_id: ENSG00000077782
+  gene_symbol: ' FGFR1'
+collision_symbol: ' H5'

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000110848
+  gene_symbol: CD69
+- ensg_id: ENSG00000130816
+  gene_symbol: ' DNMT1'
+- ensg_id: ENSG00000073754
+  gene_symbol: ' CD5L'
+collision_symbol: AIM

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000124557
+  gene_symbol: BTN1A1
+- ensg_id: ENSG00000188603
+  gene_symbol: ' CLN3'
+collision_symbol: BTN1

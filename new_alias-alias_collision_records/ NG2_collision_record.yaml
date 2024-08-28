@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173546
+  gene_symbol: CSPG4
+- ensg_id: ENSG00000183574
+  gene_symbol: ' RNF5'
+collision_symbol: ' NG2'

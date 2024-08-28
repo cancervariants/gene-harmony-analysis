@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: PDIA3P1
+- ensg_id: ENSG00000167004
+  gene_symbol: ' PDIA3'
+collision_symbol: ERp60

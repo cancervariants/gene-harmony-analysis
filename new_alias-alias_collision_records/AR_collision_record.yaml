@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109321
+  gene_symbol: AREG
+- ensg_id: ENSG00000085662
+  gene_symbol: ' AKR1B1'
+collision_symbol: AR

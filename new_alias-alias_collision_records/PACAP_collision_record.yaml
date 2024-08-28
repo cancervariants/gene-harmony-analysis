@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170476
+  gene_symbol: MZB1
+- ensg_id: ENSG00000141433
+  gene_symbol: ' ADCYAP1'
+collision_symbol: PACAP

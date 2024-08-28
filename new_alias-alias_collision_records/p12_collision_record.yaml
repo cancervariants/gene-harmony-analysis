@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000115350
+  gene_symbol: POLE4
+- ensg_id: ENSG00000231712
+  gene_symbol: ' H3P5'
+- ensg_id: ENSG00000175482
+  gene_symbol: ' POLD4'
+collision_symbol: P12

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000158270
+  gene_symbol: COLEC12
+- ensg_id: ENSG00000186834
+  gene_symbol: ' HEXIM1'
+collision_symbol: CLP1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000224140
+  gene_symbol: TNXA
+- ensg_id: ENSG00000168477
+  gene_symbol: ' TNXB'
+collision_symbol: ' TNX'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000162992
+  gene_symbol: NEUROD1
+- ensg_id: ENSG00000188229
+  gene_symbol: ' TUBB4B'
+collision_symbol: BETA2

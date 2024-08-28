@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000135476
+  gene_symbol: ESPL1
+- ensg_id: ENSG00000182809
+  gene_symbol: ' CRIP2'
+collision_symbol: ' ESP1'

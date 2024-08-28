@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: MAFD4
+- ensg_id: NAN
+  gene_symbol: ' MAFD6'
+- ensg_id: NAN
+  gene_symbol: ' MAFD2'
+- ensg_id: NAN
+  gene_symbol: ' MAFD1'
+collision_symbol: BPAD

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: IGLJ3
+- ensg_id: ENSG00000211595
+  gene_symbol: ' IGKJ3'
+collision_symbol: J3

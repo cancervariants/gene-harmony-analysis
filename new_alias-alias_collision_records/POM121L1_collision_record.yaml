@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: POM121L4P
+- ensg_id: NAN
+  gene_symbol: ' POM121L1P'
+collision_symbol: POM121L1

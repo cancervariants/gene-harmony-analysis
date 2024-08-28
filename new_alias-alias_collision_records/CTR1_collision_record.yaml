@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000136868
+  gene_symbol: SLC31A1
+- ensg_id: ENSG00000004948
+  gene_symbol: ' CALCR'
+collision_symbol: CTR1

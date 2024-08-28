@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000258588
+  gene_symbol: TRIM6-TRIM34
+- ensg_id: ENSG00000258659
+  gene_symbol: ' TRIM34'
+collision_symbol: RNF21

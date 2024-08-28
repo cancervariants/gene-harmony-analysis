@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123838
+  gene_symbol: C4BPA
+- ensg_id: ENSG00000123843
+  gene_symbol: ' C4BPB'
+collision_symbol: C4BP

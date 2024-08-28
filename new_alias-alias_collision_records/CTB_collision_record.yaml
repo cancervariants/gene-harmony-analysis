@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000117151
+  gene_symbol: CTBS
+- ensg_id: ENSG00000102230
+  gene_symbol: ' PCYT1B'
+collision_symbol: CTB

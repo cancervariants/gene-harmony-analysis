@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000174775
+  gene_symbol: HRAS
+- ensg_id: ENSG00000099849
+  gene_symbol: ' RASSF7'
+collision_symbol: HRAS1

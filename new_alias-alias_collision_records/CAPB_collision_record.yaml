@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000133216
+  gene_symbol: EPHB2
+- ensg_id: ENSG00000077549
+  gene_symbol: ' CAPZB'
+collision_symbol: CAPB

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164949
+  gene_symbol: GEM
+- ensg_id: ENSG00000167633
+  gene_symbol: ' KIR3DL1'
+collision_symbol: KIR

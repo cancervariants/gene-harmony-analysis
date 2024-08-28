@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108556
+  gene_symbol: CHRNE
+- ensg_id: ENSG00000165917
+  gene_symbol: ' RAPSN'
+collision_symbol: CMS4C

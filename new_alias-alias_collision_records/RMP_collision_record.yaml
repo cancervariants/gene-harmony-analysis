@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000146535
+  gene_symbol: GNA12
+- ensg_id: ENSG00000105176
+  gene_symbol: ' URI1'
+- ensg_id: ENSG00000198691
+  gene_symbol: ' ABCA4'
+collision_symbol: RMP

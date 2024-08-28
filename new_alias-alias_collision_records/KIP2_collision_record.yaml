@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129757
+  gene_symbol: CDKN1C
+- ensg_id: ENSG00000136425
+  gene_symbol: ' CIB2'
+collision_symbol: KIP2

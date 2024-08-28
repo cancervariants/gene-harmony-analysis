@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000173273
+  gene_symbol: TNKS
+- ensg_id: ENSG00000102699
+  gene_symbol: ' PARP4'
+collision_symbol: PARPL

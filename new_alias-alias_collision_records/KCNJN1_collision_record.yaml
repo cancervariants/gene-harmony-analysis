@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: NAN
+  gene_symbol: KCNJ17
+- ensg_id: ENSG00000184185
+  gene_symbol: ' KCNJ12'
+collision_symbol: KCNJN1

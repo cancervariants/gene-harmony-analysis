@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000172922
+  gene_symbol: RNASEH2C
+- ensg_id: ENSG00000160360
+  gene_symbol: ' GPSM1'
+collision_symbol: AGS3

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000138039
+  gene_symbol: LHCGR
+- ensg_id: ENSG00000169297
+  gene_symbol: ' NR0B1'
+collision_symbol: HHG

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000071127
+  gene_symbol: WDR1
+- ensg_id: ENSG00000123165
+  gene_symbol: ' ACTRT1'
+- ensg_id: ENSG00000170540
+  gene_symbol: ' ARL6IP1'
+- ensg_id: ENSG00000170248
+  gene_symbol: ' PDCD6IP'
+collision_symbol: AIP1

@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000113387
+  gene_symbol: SUB1
+- ensg_id: ENSG00000163684
+  gene_symbol: ' RPP14'
+- ensg_id: ENSG00000270915
+  gene_symbol: ' H3P8'
+collision_symbol: P14

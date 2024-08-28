@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000181867
+  gene_symbol: FTMT
+- ensg_id: ENSG00000291105
+  gene_symbol: ' MT1L'
+collision_symbol: MTF

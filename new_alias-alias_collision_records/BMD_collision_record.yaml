@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167995
+  gene_symbol: BEST1
+- ensg_id: ENSG00000198947
+  gene_symbol: ' DMD'
+collision_symbol: BMD

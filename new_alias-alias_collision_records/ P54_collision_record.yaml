@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000147140
+  gene_symbol: NONO
+- ensg_id: ENSG00000096060
+  gene_symbol: ' FKBP5'
+- ensg_id: ENSG00000116754
+  gene_symbol: ' SRSF11'
+collision_symbol: ' P54'

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000001626
+  gene_symbol: CFTR
+- ensg_id: ENSG00000124574
+  gene_symbol: ' ABCC10'
+collision_symbol: ' MRP7'

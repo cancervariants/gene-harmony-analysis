@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000141574
+  gene_symbol: SECTM1
+- ensg_id: ENSG00000187242
+  gene_symbol: ' KRT12'
+collision_symbol: K12

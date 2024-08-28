@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000139726
+  gene_symbol: DENR
+- ensg_id: ENSG00000152818
+  gene_symbol: ' UTRN'
+collision_symbol: DRP

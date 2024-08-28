@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000116690
+  gene_symbol: PRG4
+- ensg_id: ENSG00000184640
+  gene_symbol: ' SEPTIN9'
+- ensg_id: ENSG00000115414
+  gene_symbol: ' FN1'
+collision_symbol: MSF

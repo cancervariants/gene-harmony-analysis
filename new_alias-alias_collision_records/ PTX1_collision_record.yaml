@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000069011
+  gene_symbol: PITX1
+- ensg_id: ENSG00000087502
+  gene_symbol: ' ERGIC2'
+collision_symbol: ' PTX1'

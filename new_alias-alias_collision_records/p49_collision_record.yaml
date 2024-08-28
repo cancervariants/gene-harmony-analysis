@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000198056
+  gene_symbol: PRIM1
+- ensg_id: NAN
+  gene_symbol: ' H3P39'
+collision_symbol: p49

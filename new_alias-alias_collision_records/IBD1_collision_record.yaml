@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000143891
+  gene_symbol: GALM
+- ensg_id: ENSG00000167207
+  gene_symbol: ' NOD2'
+collision_symbol: IBD1

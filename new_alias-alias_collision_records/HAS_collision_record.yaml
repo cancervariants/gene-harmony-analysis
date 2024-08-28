@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000014919
+  gene_symbol: COX15
+- ensg_id: ENSG00000105509
+  gene_symbol: ' HAS1'
+collision_symbol: HAS

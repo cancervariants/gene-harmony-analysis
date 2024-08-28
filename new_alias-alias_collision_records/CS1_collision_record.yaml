@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000026751
+  gene_symbol: SLAMF7
+- ensg_id: ENSG00000138434
+  gene_symbol: ' ITPRID2'
+collision_symbol: CS1

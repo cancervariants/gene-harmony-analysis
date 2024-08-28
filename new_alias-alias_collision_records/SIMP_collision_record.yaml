@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000163527
+  gene_symbol: STT3B
+- ensg_id: ENSG00000078098
+  gene_symbol: ' FAP'
+collision_symbol: SIMP

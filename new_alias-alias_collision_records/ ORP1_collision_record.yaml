@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000104237
+  gene_symbol: RP1
+- ensg_id: ENSG00000141447
+  gene_symbol: ' OSBPL1A'
+collision_symbol: ' ORP1'

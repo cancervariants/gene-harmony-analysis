@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000204351
+  gene_symbol: SKIC2
+- ensg_id: ENSG00000100453
+  gene_symbol: ' GZMB'
+- ensg_id: ENSG00000160868
+  gene_symbol: ' CYP3A4'
+- ensg_id: ENSG00000173805
+  gene_symbol: ' HAP1'
+collision_symbol: HLP

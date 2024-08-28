@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000129128
+  gene_symbol: SPCS3
+- ensg_id: ENSG00000175426
+  gene_symbol: ' PCSK1'
+collision_symbol: SPC3

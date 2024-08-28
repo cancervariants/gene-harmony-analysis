@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000167701
+  gene_symbol: GPT
+- ensg_id: ENSG00000183833
+  gene_symbol: ' CFAP91'
+collision_symbol: AAT1

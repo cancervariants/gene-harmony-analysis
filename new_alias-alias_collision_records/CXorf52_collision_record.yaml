@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000279245
+  gene_symbol: FAM223A
+- ensg_id: ENSG00000272681
+  gene_symbol: ' FAM223B'
+collision_symbol: CXorf52

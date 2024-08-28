@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000070915
+  gene_symbol: SLC12A3
+- ensg_id: ENSG00000165699
+  gene_symbol: ' TSC1'
+- ensg_id: ENSG00000088992
+  gene_symbol: ' TESC'
+collision_symbol: ' TSC'

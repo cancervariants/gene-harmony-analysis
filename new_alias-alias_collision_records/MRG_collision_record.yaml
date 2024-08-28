@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000204687
+  gene_symbol: MAS1L
+- ensg_id: ENSG00000164434
+  gene_symbol: ' FABP7'
+collision_symbol: MRG

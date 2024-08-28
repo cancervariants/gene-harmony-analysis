@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000003756
+  gene_symbol: RBM5
+- ensg_id: ENSG00000204310
+  gene_symbol: ' AGPAT1'
+collision_symbol: G15

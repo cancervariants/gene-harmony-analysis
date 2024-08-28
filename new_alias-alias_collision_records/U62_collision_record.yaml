@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000231587
+  gene_symbol: SNORD62B
+- ensg_id: ENSG00000235284
+  gene_symbol: ' SNORD62A'
+collision_symbol: U62

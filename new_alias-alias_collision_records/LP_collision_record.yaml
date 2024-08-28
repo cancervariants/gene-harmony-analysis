@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000109618
+  gene_symbol: SEPSECS
+- ensg_id: ENSG00000198670
+  gene_symbol: ' LPA'
+collision_symbol: LP

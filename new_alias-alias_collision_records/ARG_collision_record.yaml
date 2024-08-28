@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000142599
+  gene_symbol: RERE
+- ensg_id: ENSG00000143322
+  gene_symbol: ' ABL2'
+collision_symbol: ARG

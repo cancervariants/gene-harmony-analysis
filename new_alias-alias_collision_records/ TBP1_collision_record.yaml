@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000112592
+  gene_symbol: TBP
+- ensg_id: ENSG00000165916
+  gene_symbol: ' PSMC3'
+collision_symbol: ' TBP1'

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000181481
+  gene_symbol: RNF135
+- ensg_id: ENSG00000167526
+  gene_symbol: ' RPL13'
+- ensg_id: ENSG00000172172
+  gene_symbol: ' MRPL13'
+- ensg_id: ENSG00000253435
+  gene_symbol: ' IGKV2-4'
+collision_symbol: L13

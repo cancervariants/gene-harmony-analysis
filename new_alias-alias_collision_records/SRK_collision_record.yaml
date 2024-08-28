@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000115085
+  gene_symbol: ZAP70
+- ensg_id: ENSG00000175634
+  gene_symbol: ' RPS6KB2'
+collision_symbol: SRK

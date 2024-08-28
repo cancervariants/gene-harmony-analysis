@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000114745
+  gene_symbol: GORASP1
+- ensg_id: ENSG00000173039
+  gene_symbol: ' RELA'
+collision_symbol: ' P65'

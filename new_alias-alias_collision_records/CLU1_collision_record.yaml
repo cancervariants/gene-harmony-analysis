@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000120885
+  gene_symbol: CLU
+- ensg_id: ENSG00000132361
+  gene_symbol: ' CLUH'
+collision_symbol: CLU1

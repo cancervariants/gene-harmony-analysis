@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130283
+  gene_symbol: GDF1
+- ensg_id: ENSG00000184058
+  gene_symbol: ' TBX1'
+collision_symbol: DORV

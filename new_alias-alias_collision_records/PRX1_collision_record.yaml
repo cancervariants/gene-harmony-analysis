@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116132
+  gene_symbol: PRRX1
+- ensg_id: ENSG00000117450
+  gene_symbol: ' PRDX1'
+collision_symbol: PRX1

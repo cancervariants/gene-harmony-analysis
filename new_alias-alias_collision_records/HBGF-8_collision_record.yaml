@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000107831
+  gene_symbol: FGF8
+- ensg_id: ENSG00000105894
+  gene_symbol: ' PTN'
+collision_symbol: HBGF-8

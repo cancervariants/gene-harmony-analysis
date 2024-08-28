@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000158050
+  gene_symbol: DUSP2
+- ensg_id: ENSG00000183527
+  gene_symbol: ' PSMG1'
+collision_symbol: PAC-1

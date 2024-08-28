@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000161544
+  gene_symbol: CYGB
+- ensg_id: ENSG00000118557
+  gene_symbol: ' PMFBP1'
+collision_symbol: STAP

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000128656
+  gene_symbol: CHN1
+- ensg_id: ENSG00000119508
+  gene_symbol: ' NR4A3'
+collision_symbol: CHN

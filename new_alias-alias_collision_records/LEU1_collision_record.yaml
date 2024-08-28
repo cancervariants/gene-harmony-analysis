@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000176124
+  gene_symbol: DLEU1
+- ensg_id: ENSG00000110448
+  gene_symbol: ' CD5'
+collision_symbol: LEU1

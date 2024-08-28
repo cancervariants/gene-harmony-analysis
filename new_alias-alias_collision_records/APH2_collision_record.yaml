@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000171307
+  gene_symbol: ZDHHC16
+- ensg_id: ENSG00000162736
+  gene_symbol: ' NCSTN'
+collision_symbol: APH2

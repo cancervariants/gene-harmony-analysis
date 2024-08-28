@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000167548
+  gene_symbol: KMT2D
+- ensg_id: ENSG00000125863
+  gene_symbol: ' MKKS'
+- ensg_id: ENSG00000011201
+  gene_symbol: ' ANOS1'
+collision_symbol: KMS

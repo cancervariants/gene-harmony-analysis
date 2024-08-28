@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000137288
+  gene_symbol: UQCC2
+- ensg_id: ENSG00000196748
+  gene_symbol: ' CLPSL2'
+collision_symbol: C6orf126

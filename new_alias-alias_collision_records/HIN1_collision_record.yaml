@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164164
+  gene_symbol: OTUD4
+- ensg_id: ENSG00000161055
+  gene_symbol: ' SCGB3A1'
+collision_symbol: HIN1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000164078
+  gene_symbol: MST1R
+- ensg_id: ENSG00000100075
+  gene_symbol: ' SLC25A1'
+collision_symbol: SEA

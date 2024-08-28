@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102935
+  gene_symbol: ZNF423
+- ensg_id: ENSG00000104904
+  gene_symbol: ' OAZ1'
+collision_symbol: OAZ

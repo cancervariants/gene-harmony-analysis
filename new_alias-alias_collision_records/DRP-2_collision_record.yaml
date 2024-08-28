@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000102385
+  gene_symbol: DRP2
+- ensg_id: ENSG00000092964
+  gene_symbol: ' DPYSL2'
+collision_symbol: DRP-2

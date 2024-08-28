@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000134780
+  gene_symbol: DAGLA
+- ensg_id: ENSG00000181031
+  gene_symbol: ' RPH3AL'
+collision_symbol: NOC2

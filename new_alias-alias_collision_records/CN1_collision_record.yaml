@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000116981
+  gene_symbol: NT5C1A
+- ensg_id: ENSG00000150656
+  gene_symbol: ' CNDP1'
+collision_symbol: CN1

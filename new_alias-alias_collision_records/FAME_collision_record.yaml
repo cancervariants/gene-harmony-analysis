@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000084090
+  gene_symbol: STARD7
+- ensg_id: ENSG00000177570
+  gene_symbol: ' SAMD12'
+- ensg_id: ENSG00000100557
+  gene_symbol: ' CCDC198'
+collision_symbol: FAME

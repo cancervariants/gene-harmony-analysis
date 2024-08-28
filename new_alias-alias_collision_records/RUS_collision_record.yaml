@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000140688
+  gene_symbol: RUSF1
+- ensg_id: ENSG00000244128
+  gene_symbol: ' LINC01322'
+collision_symbol: RUS

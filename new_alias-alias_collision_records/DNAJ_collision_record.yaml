@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000069345
+  gene_symbol: DNAJA2
+- ensg_id: ENSG00000135392
+  gene_symbol: ' DNAJC14'
+collision_symbol: DNAJ

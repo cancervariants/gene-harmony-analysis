@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000130726
+  gene_symbol: TRIM28
+- ensg_id: ENSG00000100526
+  gene_symbol: ' CDKN3'
+collision_symbol: KAP1

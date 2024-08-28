@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000123496
+  gene_symbol: IL13RA2
+- ensg_id: ENSG00000131724
+  gene_symbol: ' IL13RA1'
+collision_symbol: CT19

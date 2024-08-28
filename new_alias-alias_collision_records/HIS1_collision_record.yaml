@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000186834
+  gene_symbol: HEXIM1
+- ensg_id: NAN
+  gene_symbol: ' VIS1'
+- ensg_id: ENSG00000126550
+  gene_symbol: ' HTN1'
+collision_symbol: HIS1

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000108100
+  gene_symbol: CCNY
+- ensg_id: ENSG00000154832
+  gene_symbol: ' CXXC1'
+collision_symbol: CFP1

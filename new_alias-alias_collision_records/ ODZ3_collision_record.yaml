@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000009694
+  gene_symbol: TENM1
+- ensg_id: ENSG00000218336
+  gene_symbol: ' TENM3'
+collision_symbol: ' ODZ3'

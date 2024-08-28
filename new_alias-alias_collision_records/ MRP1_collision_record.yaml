@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000113318
+  gene_symbol: MSH3
+- ensg_id: ENSG00000103222
+  gene_symbol: ' ABCC1'
+collision_symbol: ' MRP1'

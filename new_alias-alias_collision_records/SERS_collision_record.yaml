@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000031698
+  gene_symbol: SARS1
+- ensg_id: ENSG00000104835
+  gene_symbol: ' SARS2'
+collision_symbol: SERS

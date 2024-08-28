@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000143476
+  gene_symbol: DTL
+- ensg_id: ENSG00000121741
+  gene_symbol: ' ZMYM2'
+- ensg_id: ENSG00000149090
+  gene_symbol: ' PAMR1'
+collision_symbol: RAMP

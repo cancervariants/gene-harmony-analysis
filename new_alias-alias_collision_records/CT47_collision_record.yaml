@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000226685
+  gene_symbol: CT47A12
+- ensg_id: ENSG00000224089
+  gene_symbol: ' CT47A10'
+collision_symbol: CT47

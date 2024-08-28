@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000121769
+  gene_symbol: FABP3
+- ensg_id: ENSG00000147588
+  gene_symbol: ' PMP2'
+collision_symbol: M-FABP

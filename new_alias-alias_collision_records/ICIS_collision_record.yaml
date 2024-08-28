@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000132938
+  gene_symbol: MTUS2
+- ensg_id: ENSG00000129422
+  gene_symbol: ' MTUS1'
+collision_symbol: ICIS

@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000170633
+  gene_symbol: RNF34
+- ensg_id: ENSG00000139725
+  gene_symbol: ' RHOF'
+collision_symbol: ' RIF'

@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000143614
+  gene_symbol: GATAD2B
+- ensg_id: ENSG00000121774
+  gene_symbol: ' KHDRBS1'
+- ensg_id: ENSG00000197043
+  gene_symbol: ' ANXA6'
+- ensg_id: ENSG00000108654
+  gene_symbol: ' DDX5'
+collision_symbol: p68

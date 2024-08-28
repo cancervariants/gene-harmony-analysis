@@ -1,0 +1,10 @@
+collision_group:
+- ensg_id: ENSG00000215269
+  gene_symbol: GAGE12G
+- ensg_id: ENSG00000236362
+  gene_symbol: ' GAGE12F'
+- ensg_id: NAN
+  gene_symbol: ' GAGE7'
+- ensg_id: NAN
+  gene_symbol: ' GAGE12I'
+collision_symbol: AL4

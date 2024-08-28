@@ -1,0 +1,6 @@
+collision_group:
+- ensg_id: ENSG00000153904
+  gene_symbol: DDAH1
+- ensg_id: ENSG00000213722
+  gene_symbol: ' DDAH2'
+collision_symbol: DDAH

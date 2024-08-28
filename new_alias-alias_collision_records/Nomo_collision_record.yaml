@@ -1,0 +1,8 @@
+collision_group:
+- ensg_id: ENSG00000103512
+  gene_symbol: NOMO1
+- ensg_id: ENSG00000185164
+  gene_symbol: ' NOMO2'
+- ensg_id: ENSG00000103226
+  gene_symbol: ' NOMO3'
+collision_symbol: Nomo
