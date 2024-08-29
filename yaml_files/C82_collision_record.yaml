@@ -1,15 +1,26 @@
 collision_symbol: C82
-C8B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: C8B
   ENSG_ID: [ENSG00000021852]
   source: [NCBI Info]
   Chromosome: [1p32.2]
   NCBI Gene ID: [732.0]
   OMIM_ID: ['120960']
   UniProt_ID: [P07358]
-POLR3C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POLR3C
   ENSG_ID: [ENSG00000186141]
   source: [NCBI Info]
   Chromosome: [1q21.1]
   NCBI Gene ID: [10623.0]
   OMIM_ID: ['617454']
   UniProt_ID: [Q9BUI4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

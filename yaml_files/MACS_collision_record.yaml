@@ -1,15 +1,26 @@
 collision_symbol: MACS
-MARCKS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MARCKS
   ENSG_ID: [ENSG00000277443]
   source: [NCBI Info]
   Chromosome: [6q21]
   NCBI Gene ID: [4082.0]
   OMIM_ID: ['177061']
   UniProt_ID: [P29966]
-RIN2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIN2
   ENSG_ID: [ENSG00000132669]
   source: [NCBI Info]
   Chromosome: [20p11.23]
   NCBI Gene ID: [54453.0]
   OMIM_ID: ['610222']
   UniProt_ID: [Q8WYP3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: ABP-280
-FLNA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FLNA
   ENSG_ID: [ENSG00000196924]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [Xq28]
   NCBI Gene ID: [2316.0]
   OMIM_ID: ['300017']
   UniProt_ID: [P21333]
-FLNB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FLNB
   ENSG_ID: [ENSG00000136068]
   source: [NCBI Info]
   Chromosome: [3p14.3]
   NCBI Gene ID: [2317.0]
   OMIM_ID: ['603381']
   UniProt_ID: [O75369]
-FLNC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FLNC
   ENSG_ID: [ENSG00000128591]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7q32.1]
   NCBI Gene ID: [2318.0]
   OMIM_ID: ['102565']
   UniProt_ID: [Q14315]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

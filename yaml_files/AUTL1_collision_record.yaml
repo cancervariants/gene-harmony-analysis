@@ -1,15 +1,26 @@
 collision_symbol: AUTL1
-ATG4B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATG4B
   ENSG_ID: [ENSG00000168397]
   source: [NCBI Info, ENSG]
   Chromosome: [2q37.3]
   NCBI Gene ID: [23192.0]
   OMIM_ID: ['611338']
   UniProt_ID: [Q9Y4P1]
-ATG4C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATG4C
   ENSG_ID: [ENSG00000125703]
   source: [NCBI Info, ENSG]
   Chromosome: [1p31.3]
   NCBI Gene ID: [84938.0]
   OMIM_ID: ['611339']
   UniProt_ID: [Q96DT6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

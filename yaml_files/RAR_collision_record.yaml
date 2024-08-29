@@ -1,15 +1,26 @@
 collision_symbol: RAR
-RAB40B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RAB40B
   ENSG_ID: [ENSG00000141542]
   source: [NCBI Info]
   Chromosome: [17q25.3]
   NCBI Gene ID: [10966.0]
   OMIM_ID: ['619550']
   UniProt_ID: [Q12829]
-RARA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RARA
   ENSG_ID: [ENSG00000131759]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [5914.0]
   OMIM_ID: ['180240']
   UniProt_ID: [P10276]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

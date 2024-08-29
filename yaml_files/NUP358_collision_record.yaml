@@ -1,15 +1,26 @@
 collision_symbol: NUP358
-RANBP2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RANBP2
   ENSG_ID: [ENSG00000153201]
   source: [NCBI Info]
   Chromosome: [2q13]
   NCBI Gene ID: [5903.0]
   OMIM_ID: ['601181']
   UniProt_ID: [P49792]
-RGPD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RGPD2
   ENSG_ID: [ENSG00000185304]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [729857.0]
   OMIM_ID: ['612705']
   UniProt_ID: [P0DJD1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

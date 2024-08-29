@@ -1,22 +1,37 @@
 collision_symbol: GALNT15
-GALNT14:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GALNT14
   ENSG_ID: [ENSG00000158089]
   source: [NCBI Info]
   Chromosome: [2p23.1]
   NCBI Gene ID: [79623.0]
   OMIM_ID: ['608225']
   UniProt_ID: [Q96FL9]
-GALNT18:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GALNT18
   ENSG_ID: [ENSG00000110328]
   source: [NCBI Info, ENSG]
   Chromosome: [11p15.4]
   NCBI Gene ID: [374378.0]
   OMIM_ID: ['615136']
   UniProt_ID: [Q6P9A2]
-GALNTL5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GALNTL5
   ENSG_ID: [ENSG00000106648]
   source: [NCBI Info, ENSG]
   Chromosome: [7q36.1]
   NCBI Gene ID: [168391.0]
   OMIM_ID: ['615133']
   UniProt_ID: [Q7Z4T8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

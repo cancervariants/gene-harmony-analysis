@@ -1,22 +1,37 @@
 collision_symbol: MLP
-CSRP3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSRP3
   ENSG_ID: [ENSG00000129170]
   source: [NCBI Info, ENSG]
   Chromosome: [11p15.1]
   NCBI Gene ID: [8048.0]
   OMIM_ID: ['600824']
   UniProt_ID: [P50461]
-MARCKSL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MARCKSL1
   ENSG_ID: [ENSG00000175130]
   source: [NCBI Info, ENSG]
   Chromosome: [1p35.1]
   NCBI Gene ID: [65108.0]
   OMIM_ID: ['602940']
   UniProt_ID: [P49006]
-MUC2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MUC2
   ENSG_ID: [ENSG00000198788]
   source: [NCBI Info]
   Chromosome: [11p15.5]
   NCBI Gene ID: [4583.0]
   OMIM_ID: ['158370']
   UniProt_ID: [Q02817]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

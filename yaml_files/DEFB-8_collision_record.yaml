@@ -1,15 +1,26 @@
 collision_symbol: DEFB-8
-DEFB108A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEFB108A
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-DEFB108B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DEFB108B
   ENSG_ID: [ENSG00000184276]
   source: [NCBI Info]
   Chromosome: [11q13.4]
   NCBI Gene ID: [245911.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8NET1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

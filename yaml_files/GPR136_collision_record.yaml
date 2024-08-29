@@ -1,15 +1,26 @@
 collision_symbol: GPR136
-OPN5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OPN5
   ENSG_ID: [ENSG00000124818]
   source: [NCBI Info]
   Chromosome: [6p12.3]
   NCBI Gene ID: [221391.0]
   OMIM_ID: ['609042']
   UniProt_ID: [Q6U736]
-OR51E1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR51E1
   ENSG_ID: [ENSG00000180785]
   source: [NCBI Info]
   Chromosome: [11p15.4]
   NCBI Gene ID: [143503.0]
   OMIM_ID: ['611267']
   UniProt_ID: [Q8TCB6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

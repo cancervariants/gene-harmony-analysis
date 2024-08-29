@@ -1,29 +1,48 @@
 collision_symbol: CALM
-CALM2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALM2
   ENSG_ID: [ENSG00000143933]
   source: [NCBI Info]
   Chromosome: [2p21]
   NCBI Gene ID: [805.0]
   OMIM_ID: ['114182']
   UniProt_ID: [P0DP24]
-CALM3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CALM3
   ENSG_ID: [ENSG00000160014]
   source: [NCBI Info]
   Chromosome: [19q13.32]
   NCBI Gene ID: [808.0]
   OMIM_ID: ['114183']
   UniProt_ID: [P0DP25]
-PICALM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PICALM
   ENSG_ID: [ENSG00000073921]
   source: [NCBI Info]
   Chromosome: [11q14.2]
   NCBI Gene ID: [8301.0]
   OMIM_ID: ['603025']
   UniProt_ID: [Q13492]
-SNAP91:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNAP91
   ENSG_ID: [ENSG00000065609]
   source: [NCBI Info]
   Chromosome: [6q14.2]
   NCBI Gene ID: [9892.0]
   OMIM_ID: ['607923']
   UniProt_ID: [O60641]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

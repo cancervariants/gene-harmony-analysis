@@ -1,15 +1,26 @@
 collision_symbol: MRP-L15
-MRPL15:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MRPL15
   ENSG_ID: [ENSG00000137547]
   source: [NCBI Info, ENSG]
   Chromosome: [8q11.23]
   NCBI Gene ID: [29088.0]
   OMIM_ID: ['611828']
   UniProt_ID: [Q9P015]
-MRPL19:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRPL19
   ENSG_ID: [ENSG00000115364]
   source: [NCBI Info, ENSG]
   Chromosome: [2p12]
   NCBI Gene ID: [9801.0]
   OMIM_ID: ['611832']
   UniProt_ID: [P49406]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

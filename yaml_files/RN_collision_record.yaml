@@ -1,15 +1,26 @@
 collision_symbol: RN
-U2AF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: U2AF1
   ENSG_ID: [ENSG00000160201]
   source: [HGNC, NCBI Info]
   Chromosome: [21q22.3]
   NCBI Gene ID: [7307.0]
   OMIM_ID: ['191317']
   UniProt_ID: [Q01081]
-ZNF362:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF362
   ENSG_ID: [ENSG00000160094]
   source: [HGNC, NCBI Info]
   Chromosome: [1p35.1]
   NCBI Gene ID: [149076.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q5T0B9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

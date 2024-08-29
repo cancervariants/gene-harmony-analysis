@@ -1,15 +1,26 @@
 collision_symbol: SYT14L
-SYT14P1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SYT14P1
   ENSG_ID: [.nan, ENSG00000215127]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 4q13.2]
   NCBI Gene ID: [.nan, 401135.0]
   OMIM_ID: [.nan, '610892']
   UniProt_ID: [.nan, Q58G82]
-SYT16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SYT16
   ENSG_ID: [ENSG00000139973]
   source: [NCBI Info, ENSG]
   Chromosome: [14q23.2]
   NCBI Gene ID: [83851.0]
   OMIM_ID: ['610950']
   UniProt_ID: [Q17RD7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: CYPH
-PPIA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPIA
   ENSG_ID: [ENSG00000196262]
   source: [NCBI Info]
   Chromosome: [7p13]
   NCBI Gene ID: [5478.0]
   OMIM_ID: ['123840']
   UniProt_ID: [P62937]
-PPIH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPIH
   ENSG_ID: [ENSG00000171960]
   source: [NCBI Info]
   Chromosome: [1p34.2]
   NCBI Gene ID: [10465.0]
   OMIM_ID: ['606095']
   UniProt_ID: [O43447]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

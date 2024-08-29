@@ -1,15 +1,26 @@
 collision_symbol: Vma10
-ATP6V1G1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V1G1
   ENSG_ID: [ENSG00000136888]
   source: [HGNC, NCBI Info]
   Chromosome: [9q32]
   NCBI Gene ID: [9550.0]
   OMIM_ID: ['607296']
   UniProt_ID: [O75348]
-ATP6V1G3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP6V1G3
   ENSG_ID: [ENSG00000151418]
   source: [HGNC, NCBI Info]
   Chromosome: [1q31.3]
   NCBI Gene ID: [127124.0]
   OMIM_ID: ['618071']
   UniProt_ID: [Q96LB4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

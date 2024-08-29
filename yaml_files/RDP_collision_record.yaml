@@ -1,22 +1,37 @@
 collision_symbol: RDP
-ATP1A3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP1A3
   ENSG_ID: [ENSG00000105409]
   source: [NCBI Info]
   Chromosome: [19q13.2]
   NCBI Gene ID: [478.0]
   OMIM_ID: ['182350']
   UniProt_ID: [P13637]
-DPEP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DPEP1
   ENSG_ID: [ENSG00000015413]
   source: [NCBI Info]
   Chromosome: [16q24.3]
   NCBI Gene ID: [1800.0]
   OMIM_ID: ['179780']
   UniProt_ID: [P16444]
-NELFE:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NELFE
   ENSG_ID: [ENSG00000204356]
   source: [NCBI Info]
   Chromosome: [6p21.33]
   NCBI Gene ID: [7936.0]
   OMIM_ID: ['154040']
   UniProt_ID: [P18615]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: R51H3
-RAD51C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RAD51C
   ENSG_ID: [ENSG00000108384]
   source: [NCBI Info]
   Chromosome: [17q22]
   NCBI Gene ID: [5889.0]
   OMIM_ID: ['602774']
   UniProt_ID: [O43502]
-RAD51D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAD51D
   ENSG_ID: [ENSG00000185379]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [5892.0]
   OMIM_ID: ['602954']
   UniProt_ID: [O75771]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

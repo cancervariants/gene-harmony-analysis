@@ -1,15 +1,26 @@
 collision_symbol: FLIP
-CFLAR:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CFLAR
   ENSG_ID: [ENSG00000003402]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q33.1]
   NCBI Gene ID: [8837.0]
   OMIM_ID: ['603599']
   UniProt_ID: [O15519]
-FIRRM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FIRRM
   ENSG_ID: [ENSG00000000460]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q24.2]
   NCBI Gene ID: [55732.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9NSG2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

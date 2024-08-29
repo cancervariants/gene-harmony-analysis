@@ -1,15 +1,26 @@
 collision_symbol: PIP1
-ACD:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACD
   ENSG_ID: [ENSG00000102977]
   source: [NCBI Info]
   Chromosome: [16q22.1]
   NCBI Gene ID: [65057.0]
   OMIM_ID: ['609377']
   UniProt_ID: [Q96AP0]
-PAK1IP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAK1IP1
   ENSG_ID: [ENSG00000111845]
   source: [NCBI Info]
   Chromosome: [6p24.2]
   NCBI Gene ID: [55003.0]
   OMIM_ID: ['607811']
   UniProt_ID: [Q9NWT1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

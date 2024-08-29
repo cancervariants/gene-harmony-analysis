@@ -1,15 +1,26 @@
 collision_symbol: PPH3
-CAV1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CAV1
   ENSG_ID: [ENSG00000105974]
   source: [NCBI Info]
   Chromosome: [7q31.2]
   NCBI Gene ID: [857.0]
   OMIM_ID: ['601047']
   UniProt_ID: [Q03135]
-PPP4C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP4C
   ENSG_ID: [ENSG00000149923]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [5531.0]
   OMIM_ID: ['602035']
   UniProt_ID: [P60510]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,57 +1,92 @@
 collision_symbol: ACT
-ACOT7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACOT7
   ENSG_ID: [ENSG00000097021]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.31]
   NCBI Gene ID: [11332.0]
   OMIM_ID: ['602587']
   UniProt_ID: [O00154]
-ACTBL2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ACTBL2
   ENSG_ID: [ENSG00000169067]
   source: [NCBI Info]
   Chromosome: [5q11.2]
   NCBI Gene ID: [345651.0]
   OMIM_ID: ['614835']
   UniProt_ID: [Q562R1]
-ACTG1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ACTG1
   ENSG_ID: [ENSG00000184009]
   source: [NCBI Info]
   Chromosome: [17q25.3]
   NCBI Gene ID: [71.0]
   OMIM_ID: ['102560']
   UniProt_ID: [P63261]
-ACTG2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ACTG2
   ENSG_ID: [ENSG00000163017]
   source: [NCBI Info]
   Chromosome: [2p13.1]
   NCBI Gene ID: [72.0]
   OMIM_ID: ['102545']
   UniProt_ID: [P63267]
-FHL5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FHL5
   ENSG_ID: [ENSG00000112214]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q16.1]
   NCBI Gene ID: [9457.0]
   OMIM_ID: ['605126']
   UniProt_ID: [Q5TD97]
-POTEKP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POTEKP
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-POTEM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POTEM
   ENSG_ID: [ENSG00000222036]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q11.2]
   NCBI Gene ID: [641455.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A6NI47]
-SERPINA3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERPINA3
   ENSG_ID: [ENSG00000196136]
   source: [NCBI Info, ENSG]
   Chromosome: [14q32.13]
   NCBI Gene ID: [12.0]
   OMIM_ID: ['107280']
   UniProt_ID: [P01011]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

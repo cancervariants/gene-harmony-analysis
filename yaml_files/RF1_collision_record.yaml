@@ -1,15 +1,26 @@
 collision_symbol: RF1
-ETF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ETF1
   ENSG_ID: [ENSG00000120705]
   source: [NCBI Info, ENSG]
   Chromosome: [5q31.2]
   NCBI Gene ID: [2107.0]
   OMIM_ID: ['600285']
   UniProt_ID: [P62495]
-MTRF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTRF1
   ENSG_ID: [ENSG00000120662]
   source: [NCBI Info, ENSG]
   Chromosome: [13q14.11]
   NCBI Gene ID: [9617.0]
   OMIM_ID: ['604601']
   UniProt_ID: [O75570]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

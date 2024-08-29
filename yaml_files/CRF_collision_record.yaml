@@ -1,15 +1,26 @@
 collision_symbol: CRF
-C1QL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: C1QL1
   ENSG_ID: [ENSG00000131094]
   source: [HGNC, NCBI Info]
   Chromosome: [17q21.31]
   NCBI Gene ID: [10882.0]
   OMIM_ID: ['611586']
   UniProt_ID: [O75973]
-CRH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRH
   ENSG_ID: [ENSG00000147571]
   source: [HGNC, NCBI Info]
   Chromosome: [8q13.1]
   NCBI Gene ID: [1392.0]
   OMIM_ID: ['122560']
   UniProt_ID: [P06850]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: BD-5
-DEFB105A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEFB105A
   ENSG_ID: [ENSG00000186562]
   source: [NCBI Info]
   Chromosome: [8p23.1]
   NCBI Gene ID: [245908.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8NG35]
-DEFB105B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DEFB105B
   ENSG_ID: [ENSG00000186599]
   source: [NCBI Info]
   Chromosome: [8p23.1]
   NCBI Gene ID: [504180.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8NG35]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: DC7
-MOGAT3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MOGAT3
   ENSG_ID: [ENSG00000106384]
   source: [NCBI Info]
   Chromosome: [7q22.1]
   NCBI Gene ID: [346606.0]
   OMIM_ID: ['610184']
   UniProt_ID: [Q86VF5]
-VPS29:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VPS29
   ENSG_ID: [ENSG00000111237]
   source: [NCBI Info]
   Chromosome: [12q24.11]
   NCBI Gene ID: [51699.0]
   OMIM_ID: ['606932']
   UniProt_ID: [Q9UBQ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

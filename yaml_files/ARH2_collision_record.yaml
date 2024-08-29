@@ -1,15 +1,26 @@
 collision_symbol: ARH2
-ADPRHL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADPRHL1
   ENSG_ID: [ENSG00000153531]
   source: [NCBI Info]
   Chromosome: [13q34]
   NCBI Gene ID: [113622.0]
   OMIM_ID: ['610620']
   UniProt_ID: [Q8NDY3]
-LDLRAP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LDLRAP1
   ENSG_ID: [ENSG00000157978]
   source: [NCBI Info]
   Chromosome: [1p36.11]
   NCBI Gene ID: [26119.0]
   OMIM_ID: ['605747']
   UniProt_ID: [Q5SW96]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

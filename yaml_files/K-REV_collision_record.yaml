@@ -1,15 +1,26 @@
 collision_symbol: K-REV
-RAP1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RAP1B
   ENSG_ID: [ENSG00000127314]
   source: [HGNC, NCBI Info]
   Chromosome: [12q15]
   NCBI Gene ID: [5908.0]
   OMIM_ID: ['179530']
   UniProt_ID: [P61224]
-RAP2A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAP2A
   ENSG_ID: [ENSG00000125249]
   source: [HGNC, NCBI Info]
   Chromosome: [13q32.1]
   NCBI Gene ID: [5911.0]
   OMIM_ID: ['179540']
   UniProt_ID: [P10114]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

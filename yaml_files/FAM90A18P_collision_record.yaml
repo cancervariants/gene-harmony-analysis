@@ -1,15 +1,26 @@
 collision_symbol: FAM90A18P
-FAM90A18:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FAM90A18
   ENSG_ID: [ENSG00000285913]
   source: [NCBI Info]
   Chromosome: [8p23.1]
   NCBI Gene ID: [441326.0]
   OMIM_ID: ['613052']
   UniProt_ID: [P0DV75]
-FAM90A19:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM90A19
   ENSG_ID: [ENSG00000285657]
   source: [NCBI Info]
   Chromosome: [8p23.1]
   NCBI Gene ID: [728753.0]
   OMIM_ID: ['613053']
   UniProt_ID: [P0DV76]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

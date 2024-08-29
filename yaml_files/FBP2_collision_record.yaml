@@ -1,15 +1,26 @@
 collision_symbol: FBP2
-KHSRP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KHSRP
   ENSG_ID: [ENSG00000088247]
   source: [NCBI Info]
   Chromosome: [19p13.3]
   NCBI Gene ID: [8570.0]
   OMIM_ID: ['603445']
   UniProt_ID: [Q92945]
-PCNX4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCNX4
   ENSG_ID: [ENSG00000126773]
   source: [NCBI Info]
   Chromosome: [14q23.1]
   NCBI Gene ID: [64430.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q63HM2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

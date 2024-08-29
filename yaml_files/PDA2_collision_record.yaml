@@ -1,15 +1,26 @@
 collision_symbol: PDA2
-PDIA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PDIA2
   ENSG_ID: [ENSG00000185615]
   source: [NCBI Info]
   Chromosome: [16p13.3]
   NCBI Gene ID: [64714.0]
   OMIM_ID: ['608012']
   UniProt_ID: [Q13087]
-TFAP2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFAP2B
   ENSG_ID: [ENSG00000008196]
   source: [NCBI Info]
   Chromosome: [6p12.3]
   NCBI Gene ID: [7021.0]
   OMIM_ID: ['601601']
   UniProt_ID: [Q92481]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

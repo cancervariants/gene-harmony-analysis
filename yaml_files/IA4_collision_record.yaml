@@ -1,15 +1,26 @@
 collision_symbol: IA4
-CD82:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD82
   ENSG_ID: [ENSG00000085117]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [3732.0]
   OMIM_ID: ['600623']
   UniProt_ID: [P27701]
-ITGA4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ITGA4
   ENSG_ID: [ENSG00000115232]
   source: [NCBI Info]
   Chromosome: [2q31.3]
   NCBI Gene ID: [3676.0]
   OMIM_ID: ['192975']
   UniProt_ID: [P13612]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

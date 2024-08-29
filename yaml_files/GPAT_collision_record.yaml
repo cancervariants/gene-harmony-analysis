@@ -1,15 +1,26 @@
 collision_symbol: GPAT
-GPAM:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPAM
   ENSG_ID: [ENSG00000119927]
   source: [NCBI Info]
   Chromosome: [10q25.2]
   NCBI Gene ID: [57678.0]
   OMIM_ID: ['602395']
   UniProt_ID: [Q9HCL2]
-PPAT:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPAT
   ENSG_ID: [ENSG00000128059]
   source: [NCBI Info]
   Chromosome: [4q12]
   NCBI Gene ID: [5471.0]
   OMIM_ID: ['172450']
   UniProt_ID: [Q06203]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

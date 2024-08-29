@@ -1,22 +1,37 @@
 collision_symbol: GOP
-OPN1MW:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OPN1MW
   ENSG_ID: [ENSG00000268221]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [2652.0]
   OMIM_ID: ['300821']
   UniProt_ID: [P04001]
-OPN1MW2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPN1MW2
   ENSG_ID: [ENSG00000166160]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [728458.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P0DN77]
-OPN1MW3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPN1MW3
   ENSG_ID: [ENSG00000269433]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [101060233.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P0DN78]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

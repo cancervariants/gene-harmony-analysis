@@ -1,15 +1,26 @@
 collision_symbol: OR912-110
-OR7E110P:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OR7E110P
   ENSG_ID: [ENSG00000235623]
   source: [NCBI Info]
   Chromosome: [10p13]
   NCBI Gene ID: [81354.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-OR7E26P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR7E26P
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

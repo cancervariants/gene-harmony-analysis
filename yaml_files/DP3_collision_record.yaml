@@ -1,15 +1,26 @@
 collision_symbol: DP3
-APC:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APC
   ENSG_ID: [ENSG00000134982]
   source: [NCBI Info, ENSG]
   Chromosome: [5q22.2]
   NCBI Gene ID: [324.0]
   OMIM_ID: ['611731']
   UniProt_ID: [P25054]
-JUP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: JUP
   ENSG_ID: [ENSG00000173801]
   source: [NCBI Info, ENSG]
   Chromosome: [17q21.2]
   NCBI Gene ID: [3728.0]
   OMIM_ID: ['173325']
   UniProt_ID: [P14923]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

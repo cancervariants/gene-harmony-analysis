@@ -1,15 +1,26 @@
 collision_symbol: CIA
-ASF1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASF1A
   ENSG_ID: [ENSG00000111875]
   source: [HGNC, NCBI Info]
   Chromosome: [6q22.31]
   NCBI Gene ID: [25842.0]
   OMIM_ID: ['609189']
   UniProt_ID: [Q9Y294]
-NCOA5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NCOA5
   ENSG_ID: [ENSG00000124160]
   source: [HGNC, NCBI Info]
   Chromosome: [20q13.12]
   NCBI Gene ID: [57727.0]
   OMIM_ID: ['616825']
   UniProt_ID: [Q9HCD5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

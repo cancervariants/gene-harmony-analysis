@@ -1,15 +1,26 @@
 collision_symbol: TCF-3
-TCF3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TCF3
   ENSG_ID: [ENSG00000071564]
   source: [NCBI Info]
   Chromosome: [19p13.3]
   NCBI Gene ID: [6929.0]
   OMIM_ID: ['147141']
   UniProt_ID: [P15923]
-TCF7L1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCF7L1
   ENSG_ID: [ENSG00000152284]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [83439.0]
   OMIM_ID: ['604652']
   UniProt_ID: [Q9HCS4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

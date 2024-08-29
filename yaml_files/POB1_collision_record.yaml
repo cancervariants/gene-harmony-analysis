@@ -1,15 +1,26 @@
 collision_symbol: POB1
-REPS2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: REPS2
   ENSG_ID: [ENSG00000169891]
   source: [NCBI Info]
   Chromosome: [Xp22.2]
   NCBI Gene ID: [9185.0]
   OMIM_ID: ['300317']
   UniProt_ID: [Q8NFH8]
-TRIM37:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM37
   ENSG_ID: [ENSG00000108395]
   source: [NCBI Info]
   Chromosome: [17q22]
   NCBI Gene ID: [4591.0]
   OMIM_ID: ['605073']
   UniProt_ID: [O94972]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

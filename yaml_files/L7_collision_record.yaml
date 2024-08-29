@@ -1,22 +1,37 @@
 collision_symbol: L7
-IGKV2-10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV2-10
   ENSG_ID: [ENSG00000253278]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [28928.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-NPB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NPB
   ENSG_ID: [ENSG00000183979]
   source: [NCBI Info]
   Chromosome: [17q25.3]
   NCBI Gene ID: [256933.0]
   OMIM_ID: ['607996']
   UniProt_ID: [Q8NG41]
-RPL7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL7
   ENSG_ID: [ENSG00000147604]
   source: [NCBI Info]
   Chromosome: [8q21.11]
   NCBI Gene ID: [6129.0]
   OMIM_ID: ['604166']
   UniProt_ID: [P18124]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

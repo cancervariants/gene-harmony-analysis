@@ -1,15 +1,26 @@
 collision_symbol: Y4
-NPY4R:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPY4R
   ENSG_ID: [ENSG00000204174]
   source: [NCBI Info]
   Chromosome: [10q11.22]
   NCBI Gene ID: [5540.0]
   OMIM_ID: ['601790']
   UniProt_ID: [P50391]
-RNY4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNY4
   ENSG_ID: [ENSG00000252316]
   source: [NCBI Info]
   Chromosome: [7q36.1]
   NCBI Gene ID: [6086.0]
   OMIM_ID: ['601823']
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SWAP
-ITSN2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ITSN2
   ENSG_ID: [ENSG00000198399]
   source: [NCBI Info, ENSG]
   Chromosome: [2p23.3]
   NCBI Gene ID: [50618.0]
   OMIM_ID: ['604464']
   UniProt_ID: [Q9NZM3]
-SFSWAP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SFSWAP
   ENSG_ID: [ENSG00000061936]
   source: [NCBI Info, ENSG]
   Chromosome: [12q24.33]
   NCBI Gene ID: [6433.0]
   OMIM_ID: ['601945']
   UniProt_ID: [Q12872]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

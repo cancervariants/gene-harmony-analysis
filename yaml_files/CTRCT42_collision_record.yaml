@@ -1,15 +1,26 @@
 collision_symbol: CTRCT42
-CRYBA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRYBA2
   ENSG_ID: [ENSG00000163499]
   source: [NCBI Info]
   Chromosome: [2q35]
   NCBI Gene ID: [1412.0]
   OMIM_ID: ['600836']
   UniProt_ID: [P53672]
-LEMD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LEMD2
   ENSG_ID: [ENSG00000161904]
   source: [NCBI Info]
   Chromosome: [6p21.31]
   NCBI Gene ID: [221496.0]
   OMIM_ID: ['616312']
   UniProt_ID: [Q8NC56]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

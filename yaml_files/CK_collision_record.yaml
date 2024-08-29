@@ -1,22 +1,37 @@
 collision_symbol: CK
-CHKA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHKA
   ENSG_ID: [ENSG00000110721]
   source: [NCBI Info]
   Chromosome: [11q13.2]
   NCBI Gene ID: [1119.0]
   OMIM_ID: ['118491']
   UniProt_ID: [P35790]
-CHKB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHKB
   ENSG_ID: [ENSG00000100288]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [1120.0]
   OMIM_ID: ['612395']
   UniProt_ID: [Q9Y259]
-CMPK1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CMPK1
   ENSG_ID: [ENSG00000162368]
   source: [NCBI Info]
   Chromosome: [1p33]
   NCBI Gene ID: [51727.0]
   OMIM_ID: ['191710']
   UniProt_ID: [P30085]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

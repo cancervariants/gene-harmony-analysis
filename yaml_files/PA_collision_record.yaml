@@ -1,29 +1,48 @@
 collision_symbol: PA
-AMY2A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AMY2A
   ENSG_ID: [ENSG00000243480]
   source: [NCBI Info]
   Chromosome: [1p21.1]
   NCBI Gene ID: [279.0]
   OMIM_ID: ['104650']
   UniProt_ID: [P04746]
-BLOC1S6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BLOC1S6
   ENSG_ID: [ENSG00000104164]
   source: [NCBI Info, ENSG]
   Chromosome: [15q21.1]
   NCBI Gene ID: [26258.0]
   OMIM_ID: ['604310']
   UniProt_ID: [Q9UL45]
-EPB42:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EPB42
   ENSG_ID: [ENSG00000166947]
   source: [NCBI Info, ENSG]
   Chromosome: [15q15.2]
   NCBI Gene ID: [2038.0]
   OMIM_ID: ['177070']
   UniProt_ID: [P16452]
-PRH1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRH1
   ENSG_ID: [ENSG00000231887]
   source: [NCBI Info]
   Chromosome: [12p13.2]
   NCBI Gene ID: [5554.0]
   OMIM_ID: ['168730']
   UniProt_ID: [P02810]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

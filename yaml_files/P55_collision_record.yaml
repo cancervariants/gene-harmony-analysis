@@ -1,57 +1,92 @@
 collision_symbol: p55
-ERG:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ERG
   ENSG_ID: [ENSG00000157554]
   source: [NCBI Info]
   Chromosome: [21q22.2]
   NCBI Gene ID: [2078.0]
   OMIM_ID: ['165080']
   UniProt_ID: [P11308]
-FOS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FOS
   ENSG_ID: [ENSG00000170345]
   source: [NCBI Info]
   Chromosome: [14q24.3]
   NCBI Gene ID: [2353.0]
   OMIM_ID: ['164810']
   UniProt_ID: [P01100]
-FSCN1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FSCN1
   ENSG_ID: [ENSG00000075618]
   source: [HGNC, NCBI Info]
   Chromosome: [7p22.1]
   NCBI Gene ID: [6624.0]
   OMIM_ID: ['602689']
   UniProt_ID: [Q16658]
-H3P44:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3P44
   ENSG_ID: [ENSG00000226881, .nan]
   source: [HGNC, NCBI Info]
   Chromosome: [Xp11.22, .nan]
   NCBI Gene ID: [347376.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-IL2RA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IL2RA
   ENSG_ID: [ENSG00000134460]
   source: [NCBI Info]
   Chromosome: [10p15.1]
   NCBI Gene ID: [3559.0]
   OMIM_ID: ['147730']
   UniProt_ID: [P01589]
-PIK3R3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3R3
   ENSG_ID: [ENSG00000117461]
   source: [HGNC, NCBI Info]
   Chromosome: [1p34.1]
   NCBI Gene ID: [8503.0]
   OMIM_ID: ['606076']
   UniProt_ID: [Q92569]
-PSMD12:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD12
   ENSG_ID: [ENSG00000197170]
   source: [HGNC, NCBI Info]
   Chromosome: [17q24.2]
   NCBI Gene ID: [5718.0]
   OMIM_ID: ['604450']
   UniProt_ID: [O00232]
-TNFRSF1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNFRSF1A
   ENSG_ID: [ENSG00000067182]
   source: [NCBI Info]
   Chromosome: [12p13.31]
   NCBI Gene ID: [7132.0]
   OMIM_ID: ['191190']
   UniProt_ID: [P19438]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

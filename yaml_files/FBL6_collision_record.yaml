@@ -1,15 +1,26 @@
 collision_symbol: FBL6
-FBXL6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXL6
   ENSG_ID: [ENSG00000182325]
   source: [NCBI Info, ENSG]
   Chromosome: [8q24.3]
   NCBI Gene ID: [26233.0]
   OMIM_ID: ['609076']
   UniProt_ID: [Q8N531]
-FBXL7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBXL7
   ENSG_ID: [ENSG00000183580]
   source: [NCBI Info, ENSG]
   Chromosome: [5p15.1]
   NCBI Gene ID: [23194.0]
   OMIM_ID: ['605656']
   UniProt_ID: [Q9UJT9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

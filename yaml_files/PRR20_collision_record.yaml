@@ -1,36 +1,59 @@
 collision_symbol: PRR20
-PRR20A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRR20A
   ENSG_ID: [ENSG00000204919]
   source: [NCBI Info]
   Chromosome: [13q21.1]
   NCBI Gene ID: [122183.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P86496]
-PRR20B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRR20B
   ENSG_ID: [ENSG00000204918]
   source: [NCBI Info]
   Chromosome: [13q21.1]
   NCBI Gene ID: [729233.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P86481]
-PRR20C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRR20C
   ENSG_ID: [ENSG00000229665]
   source: [NCBI Info]
   Chromosome: [13q21.1]
   NCBI Gene ID: [729240.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P86479]
-PRR20D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRR20D
   ENSG_ID: [ENSG00000227151]
   source: [NCBI Info]
   Chromosome: [13q21.1]
   NCBI Gene ID: [729246.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P86480]
-PRR20E:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRR20E
   ENSG_ID: [ENSG00000234278]
   source: [NCBI Info]
   Chromosome: [13q21.1]
   NCBI Gene ID: [729250.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P86478]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

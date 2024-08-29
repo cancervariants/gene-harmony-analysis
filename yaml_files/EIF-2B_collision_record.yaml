@@ -1,29 +1,48 @@
 collision_symbol: EIF-2B
-EIF2B1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EIF2B1
   ENSG_ID: [ENSG00000111361]
   source: [HGNC, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [1967.0]
   OMIM_ID: ['606686']
   UniProt_ID: [Q14232]
-EIF2B3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF2B3
   ENSG_ID: [ENSG00000070785]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p34.1]
   NCBI Gene ID: [8891.0]
   OMIM_ID: ['606273']
   UniProt_ID: [Q9NR50]
-EIF2B4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF2B4
   ENSG_ID: [ENSG00000115211]
   source: [HGNC, NCBI Info]
   Chromosome: [2p23.3]
   NCBI Gene ID: [8890.0]
   OMIM_ID: ['606687']
   UniProt_ID: [Q9UI10]
-EIF2B5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF2B5
   ENSG_ID: [ENSG00000145191]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q27.1]
   NCBI Gene ID: [8893.0]
   OMIM_ID: ['603945']
   UniProt_ID: [Q13144]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

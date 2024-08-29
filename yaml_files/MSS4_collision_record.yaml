@@ -1,15 +1,26 @@
 collision_symbol: MSS4
-PIP5K1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PIP5K1B
   ENSG_ID: [ENSG00000107242]
   source: [NCBI Info, ENSG]
   Chromosome: [9q21.11]
   NCBI Gene ID: [8395.0]
   OMIM_ID: ['602745']
   UniProt_ID: [O14986]
-RABIF:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RABIF
   ENSG_ID: [ENSG00000183155]
   source: [NCBI Info, ENSG]
   Chromosome: [1q32.1]
   NCBI Gene ID: [5877.0]
   OMIM_ID: ['603417']
   UniProt_ID: [P47224]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

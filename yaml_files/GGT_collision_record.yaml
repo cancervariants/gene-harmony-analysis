@@ -1,36 +1,59 @@
 collision_symbol: GGT
-GGT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GGT1
   ENSG_ID: [ENSG00000100031]
   source: [NCBI Info]
   Chromosome: [22q11.23]
   NCBI Gene ID: [2678.0]
   OMIM_ID: ['612346']
   UniProt_ID: [P19440]
-GGT2P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GGT2P
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-GGTLC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GGTLC3
   ENSG_ID: [ENSG00000274252]
   source: [NCBI Info]
   Chromosome: [22q11.21]
   NCBI Gene ID: [728226.0]
   OMIM_ID: ['612340']
   UniProt_ID: [B5MD39]
-GGTLC4P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GGTLC4P
   ENSG_ID: [ENSG00000230712]
   source: [NCBI Info]
   Chromosome: [22q11.23]
   NCBI Gene ID: [729838.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-GGTLC5P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GGTLC5P
   ENSG_ID: [ENSG00000276160]
   source: [NCBI Info]
   Chromosome: [22q11.21]
   NCBI Gene ID: [653590.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: CELIAC1
-HLA-DQA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HLA-DQA1
   ENSG_ID: [ENSG00000196735]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.32]
   NCBI Gene ID: [3117.0]
   OMIM_ID: ['146880']
   UniProt_ID: [P01909]
-HLA-DQB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HLA-DQB1
   ENSG_ID: [ENSG00000179344]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.32]
   NCBI Gene ID: [3119.0]
   OMIM_ID: ['604305']
   UniProt_ID: [P01920]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

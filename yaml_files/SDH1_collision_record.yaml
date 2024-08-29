@@ -1,15 +1,26 @@
 collision_symbol: SDH1
-SDHA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SDHA
   ENSG_ID: [ENSG00000073578]
   source: [NCBI Info]
   Chromosome: [5p15.33]
   NCBI Gene ID: [6389.0]
   OMIM_ID: ['600857']
   UniProt_ID: [P31040]
-SDHB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SDHB
   ENSG_ID: [ENSG00000117118]
   source: [NCBI Info]
   Chromosome: [1p36.13]
   NCBI Gene ID: [6390.0]
   OMIM_ID: ['185470']
   UniProt_ID: [P21912]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

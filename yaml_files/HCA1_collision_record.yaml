@@ -1,15 +1,26 @@
 collision_symbol: HCA1
-HCAR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HCAR1
   ENSG_ID: [ENSG00000196917]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [27198.0]
   OMIM_ID: ['606923']
   UniProt_ID: [Q9BXC0]
-MAGEE1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGEE1
   ENSG_ID: [ENSG00000198934]
   source: [NCBI Info]
   Chromosome: [Xq13.3]
   NCBI Gene ID: [57692.0]
   OMIM_ID: ['300759']
   UniProt_ID: [Q9HCI5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

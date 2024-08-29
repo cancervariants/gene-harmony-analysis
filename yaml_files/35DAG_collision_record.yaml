@@ -1,15 +1,26 @@
 collision_symbol: 35DAG
-SGCD:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SGCD
   ENSG_ID: [ENSG00000170624]
   source: [NCBI Info]
   Chromosome: [5q33.2-q33.3]
   NCBI Gene ID: [6444.0]
   OMIM_ID: ['601411']
   UniProt_ID: [Q92629]
-SGCG:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SGCG
   ENSG_ID: [ENSG00000102683]
   source: [NCBI Info]
   Chromosome: [13q12.12]
   NCBI Gene ID: [6445.0]
   OMIM_ID: ['608896']
   UniProt_ID: [Q13326]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: AAC1
-NAT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NAT1
   ENSG_ID: [ENSG00000171428]
   source: [NCBI Info, ENSG]
   Chromosome: [8p22]
   NCBI Gene ID: [9.0]
   OMIM_ID: ['108345']
   UniProt_ID: [P18440]
-SLC25A4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A4
   ENSG_ID: [ENSG00000151729]
   source: [NCBI Info, ENSG]
   Chromosome: [4q35.1]
   NCBI Gene ID: [291.0]
   OMIM_ID: ['103220']
   UniProt_ID: [P12235]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

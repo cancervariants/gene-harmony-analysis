@@ -1,15 +1,26 @@
 collision_symbol: SCYA2
-CCL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCL2
   ENSG_ID: [ENSG00000108691]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [6347.0]
   OMIM_ID: ['158105']
   UniProt_ID: [P13500]
-CCL4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCL4
   ENSG_ID: [ENSG00000275302]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [6351.0]
   OMIM_ID: ['182284']
   UniProt_ID: [P13236]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

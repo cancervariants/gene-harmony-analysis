@@ -1,15 +1,26 @@
 collision_symbol: CAT1
-CRAT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRAT
   ENSG_ID: [ENSG00000095321]
   source: [NCBI Info, ENSG]
   Chromosome: [9q34.11]
   NCBI Gene ID: [1384.0]
   OMIM_ID: ['600184']
   UniProt_ID: [P43155]
-TRPV6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRPV6
   ENSG_ID: [ENSG00000165125]
   source: [NCBI Info, ENSG]
   Chromosome: [7q34]
   NCBI Gene ID: [55503.0]
   OMIM_ID: ['606680']
   UniProt_ID: [Q9H1D0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

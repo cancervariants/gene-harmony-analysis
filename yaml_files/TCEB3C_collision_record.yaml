@@ -1,15 +1,26 @@
 collision_symbol: TCEB3C
-ELOA3BP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ELOA3BP
   ENSG_ID: [ENSG00000288607]
   source: [NCBI Info]
   Chromosome: [18q21.1]
   NCBI Gene ID: [728929.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-ELOA3P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ELOA3P
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: NBS1
-NBN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NBN
   ENSG_ID: [ENSG00000104320]
   source: [NCBI Info, ENSG]
   Chromosome: [8q21.3]
   NCBI Gene ID: [4683.0]
   OMIM_ID: ['602667']
   UniProt_ID: [O60934]
-NLRP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NLRP2
   ENSG_ID: [ENSG00000022556]
   source: [NCBI Info, ENSG]
   Chromosome: [19q13.42]
   NCBI Gene ID: [55655.0]
   OMIM_ID: ['609364']
   UniProt_ID: [Q9NX02]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

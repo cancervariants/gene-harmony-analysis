@@ -1,15 +1,26 @@
 collision_symbol: ERIS
-CISD2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CISD2
   ENSG_ID: [ENSG00000145354]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [4q24]
   NCBI Gene ID: [493856.0]
   OMIM_ID: ['611507']
   UniProt_ID: [Q8N5K1]
-STING1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STING1
   ENSG_ID: [ENSG00000184584]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q31.2]
   NCBI Gene ID: [340061.0]
   OMIM_ID: ['612374']
   UniProt_ID: [Q86WV6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

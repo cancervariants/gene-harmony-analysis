@@ -1,15 +1,26 @@
 collision_symbol: CDG1P
-ALG11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALG11
   ENSG_ID: [ENSG00000253710]
   source: [NCBI Info]
   Chromosome: [13q14.3]
   NCBI Gene ID: [440138.0]
   OMIM_ID: ['613666']
   UniProt_ID: [Q2TAA5]
-SRD5A3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRD5A3
   ENSG_ID: [ENSG00000128039]
   source: [NCBI Info]
   Chromosome: [4q12]
   NCBI Gene ID: [79644.0]
   OMIM_ID: ['611715']
   UniProt_ID: [Q9H8P0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

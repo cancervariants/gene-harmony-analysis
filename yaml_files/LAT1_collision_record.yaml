@@ -1,15 +1,26 @@
 collision_symbol: LAT1
-LAT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LAT
   ENSG_ID: [ENSG00000213658]
   source: [HGNC, NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [27040.0]
   OMIM_ID: ['602354']
   UniProt_ID: [O43561]
-SLC7A5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A5
   ENSG_ID: [ENSG00000103257]
   source: [HGNC, NCBI Info]
   Chromosome: [16q24.2]
   NCBI Gene ID: [8140.0]
   OMIM_ID: ['600182']
   UniProt_ID: [Q01650]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

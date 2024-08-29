@@ -1,22 +1,37 @@
 collision_symbol: L5
-KNCN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KNCN
   ENSG_ID: [ENSG00000162456]
   source: [NCBI Info]
   Chromosome: [1p33]
   NCBI Gene ID: [148930.0]
   OMIM_ID: ['611455']
   UniProt_ID: [A6PVL3]
-PCLAF:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCLAF
   ENSG_ID: [ENSG00000166803]
   source: [NCBI Info]
   Chromosome: [15q22.31]
   NCBI Gene ID: [9768.0]
   OMIM_ID: ['610696']
   UniProt_ID: [Q15004]
-RPL5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL5
   ENSG_ID: [ENSG00000122406]
   source: [NCBI Info]
   Chromosome: [1p22.1]
   NCBI Gene ID: [6125.0]
   OMIM_ID: ['603634']
   UniProt_ID: [P46777]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

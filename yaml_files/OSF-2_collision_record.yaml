@@ -1,15 +1,26 @@
 collision_symbol: OSF-2
-POSTN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POSTN
   ENSG_ID: [ENSG00000133110]
   source: [NCBI Info]
   Chromosome: [13q13.3]
   NCBI Gene ID: [10631.0]
   OMIM_ID: ['608777']
   UniProt_ID: [Q15063]
-RUNX2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUNX2
   ENSG_ID: [ENSG00000124813]
   source: [NCBI Info]
   Chromosome: [6p21.1]
   NCBI Gene ID: [860.0]
   OMIM_ID: ['600211']
   UniProt_ID: [Q13950]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: ATG8
-GABARAPL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GABARAPL1
   ENSG_ID: [ENSG00000139112]
   source: [NCBI Info]
   Chromosome: [12p13.2]
   NCBI Gene ID: [23710.0]
   OMIM_ID: ['607420']
   UniProt_ID: [Q9H0R8]
-GABARAPL2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GABARAPL2
   ENSG_ID: [ENSG00000034713]
   source: [NCBI Info]
   Chromosome: [16q23.1]
   NCBI Gene ID: [11345.0]
   OMIM_ID: ['607452']
   UniProt_ID: [P60520]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

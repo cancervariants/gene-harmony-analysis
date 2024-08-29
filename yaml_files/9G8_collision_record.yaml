@@ -1,15 +1,26 @@
 collision_symbol: 9G8
-SLU7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLU7
   ENSG_ID: [ENSG00000164609]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q33.3]
   NCBI Gene ID: [10569.0]
   OMIM_ID: ['605974']
   UniProt_ID: [O95391]
-SRSF7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRSF7
   ENSG_ID: [ENSG00000115875]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p22.1]
   NCBI Gene ID: [6432.0]
   OMIM_ID: ['600572']
   UniProt_ID: [Q16629]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

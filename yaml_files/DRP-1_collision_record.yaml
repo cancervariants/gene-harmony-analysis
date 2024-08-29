@@ -1,15 +1,26 @@
 collision_symbol: DRP-1
-CRMP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRMP1
   ENSG_ID: [ENSG00000072832]
   source: [HGNC, NCBI Info]
   Chromosome: [4p16.2]
   NCBI Gene ID: [1400.0]
   OMIM_ID: ['602462']
   UniProt_ID: [Q14194]
-DAPK2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DAPK2
   ENSG_ID: [ENSG00000035664]
   source: [HGNC, NCBI Info]
   Chromosome: [15q22.31]
   NCBI Gene ID: [23604.0]
   OMIM_ID: ['616567']
   UniProt_ID: [Q9UIK4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

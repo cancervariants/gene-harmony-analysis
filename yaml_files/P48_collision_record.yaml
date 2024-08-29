@@ -1,22 +1,37 @@
 collision_symbol: p48
-H3P38:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H3P38
   ENSG_ID: [ENSG00000259389, .nan]
   source: [HGNC, NCBI Info]
   Chromosome: [15q15.1, .nan]
   NCBI Gene ID: [654505.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-IRF9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IRF9
   ENSG_ID: [ENSG00000213928]
   source: [NCBI Info]
   Chromosome: [14q12]
   NCBI Gene ID: [10379.0]
   OMIM_ID: ['147574']
   UniProt_ID: [Q00978]
-PTF1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTF1A
   ENSG_ID: [ENSG00000168267]
   source: [HGNC, NCBI Info]
   Chromosome: [10p12.2]
   NCBI Gene ID: [256297.0]
   OMIM_ID: ['607194']
   UniProt_ID: [Q7RTS3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

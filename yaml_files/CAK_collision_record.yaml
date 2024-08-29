@@ -1,22 +1,37 @@
 collision_symbol: CAK
-CCNH:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCNH
   ENSG_ID: [ENSG00000134480]
   source: [NCBI Info]
   Chromosome: [5q14.3]
   NCBI Gene ID: [902.0]
   OMIM_ID: ['601953']
   UniProt_ID: [P51946]
-CDK7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDK7
   ENSG_ID: [ENSG00000134058]
   source: [NCBI Info, ENSG]
   Chromosome: [5q13.2]
   NCBI Gene ID: [1022.0]
   OMIM_ID: ['601955']
   UniProt_ID: [P50613]
-DDR1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DDR1
   ENSG_ID: [ENSG00000204580, ENSG00000137332]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.33, .nan]
   NCBI Gene ID: [780.0, .nan]
   OMIM_ID: ['600408', .nan]
   UniProt_ID: [Q08345, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

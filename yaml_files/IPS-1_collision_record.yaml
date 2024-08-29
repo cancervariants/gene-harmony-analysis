@@ -1,15 +1,26 @@
 collision_symbol: IPS-1
-ISYNA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ISYNA1
   ENSG_ID: [ENSG00000105655]
   source: [NCBI Info]
   Chromosome: [19p13.11]
   NCBI Gene ID: [51477.0]
   OMIM_ID: ['611670']
   UniProt_ID: [Q9NPH2]
-MAVS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAVS
   ENSG_ID: [ENSG00000088888]
   source: [NCBI Info]
   Chromosome: [20p13]
   NCBI Gene ID: [57506.0]
   OMIM_ID: ['609676']
   UniProt_ID: [Q7Z434]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

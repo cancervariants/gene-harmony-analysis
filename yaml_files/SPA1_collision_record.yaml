@@ -1,15 +1,26 @@
 collision_symbol: SPA1
-SFTPA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SFTPA1
   ENSG_ID: [ENSG00000122852]
   source: [NCBI Info]
   Chromosome: [10q22.3]
   NCBI Gene ID: [653509.0]
   OMIM_ID: ['178630']
   UniProt_ID: [Q8IWL2]
-SIPA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SIPA1
   ENSG_ID: [ENSG00000213445]
   source: [NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [6494.0]
   OMIM_ID: ['602180']
   UniProt_ID: [Q96FS4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

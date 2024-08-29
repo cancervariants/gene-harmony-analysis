@@ -1,15 +1,26 @@
 collision_symbol: AGC1
-ACAN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACAN
   ENSG_ID: [ENSG00000157766]
   source: [NCBI Info, ENSG]
   Chromosome: [15q26.1]
   NCBI Gene ID: [176.0]
   OMIM_ID: ['155760']
   UniProt_ID: [P16112]
-SLC25A12:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A12
   ENSG_ID: [ENSG00000115840]
   source: [NCBI Info, ENSG]
   Chromosome: [2q31.1]
   NCBI Gene ID: [8604.0]
   OMIM_ID: ['603667']
   UniProt_ID: [O75746]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

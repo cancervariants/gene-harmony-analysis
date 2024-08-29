@@ -1,15 +1,26 @@
 collision_symbol: RFP2
-DLEU2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DLEU2
   ENSG_ID: [ENSG00000231607]
   source: [NCBI Info]
   Chromosome: [13q14.2]
   NCBI Gene ID: [8847.0]
   OMIM_ID: ['605766']
   UniProt_ID: [.nan]
-TRIM13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM13
   ENSG_ID: [ENSG00000204977]
   source: [NCBI Info]
   Chromosome: [13q14.2]
   NCBI Gene ID: [10206.0]
   OMIM_ID: ['605661']
   UniProt_ID: [O60858]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

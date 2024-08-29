@@ -1,15 +1,26 @@
 collision_symbol: TFI
-TFF3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TFF3
   ENSG_ID: [ENSG00000160180]
   source: [NCBI Info]
   Chromosome: [21q22.3]
   NCBI Gene ID: [7033.0]
   OMIM_ID: ['600633']
   UniProt_ID: [Q07654]
-TFPI:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFPI
   ENSG_ID: [ENSG00000003436]
   source: [NCBI Info]
   Chromosome: [2q32.1]
   NCBI Gene ID: [7035.0]
   OMIM_ID: ['152310']
   UniProt_ID: [P10646]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

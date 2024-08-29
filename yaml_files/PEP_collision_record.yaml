@@ -1,22 +1,37 @@
 collision_symbol: PEP
-PAEP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PAEP
   ENSG_ID: [ENSG00000122133]
   source: [NCBI Info]
   Chromosome: [9q34.3]
   NCBI Gene ID: [5047.0]
   OMIM_ID: ['173310']
   UniProt_ID: [P09466]
-PREP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PREP
   ENSG_ID: [ENSG00000085377]
   source: [NCBI Info]
   Chromosome: [6q21]
   NCBI Gene ID: [5550.0]
   OMIM_ID: ['600400']
   UniProt_ID: [P48147]
-PTPN22:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTPN22
   ENSG_ID: [ENSG00000134242]
   source: [NCBI Info]
   Chromosome: [1p13.2]
   NCBI Gene ID: [26191.0]
   OMIM_ID: ['600716']
   UniProt_ID: [Q9Y2R2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

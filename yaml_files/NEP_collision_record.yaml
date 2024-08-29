@@ -1,15 +1,26 @@
 collision_symbol: NEP
-DDR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DDR1
   ENSG_ID: [ENSG00000204580, ENSG00000137332]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.33, .nan]
   NCBI Gene ID: [780.0, .nan]
   OMIM_ID: ['600408', .nan]
   UniProt_ID: [Q08345, .nan]
-MME:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MME
   ENSG_ID: [ENSG00000196549]
   source: [NCBI Info, ENSG]
   Chromosome: [3q25.2]
   NCBI Gene ID: [4311.0]
   OMIM_ID: ['120520']
   UniProt_ID: [P08473]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

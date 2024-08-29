@@ -1,36 +1,59 @@
 collision_symbol: TR2
-DEPDC7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEPDC7
   ENSG_ID: [ENSG00000121690]
   source: [NCBI Info]
   Chromosome: [11p13]
   NCBI Gene ID: [91614.0]
   OMIM_ID: ['612294']
   UniProt_ID: [Q96QD5]
-NR2C1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NR2C1
   ENSG_ID: [ENSG00000120798]
   source: [NCBI Info]
   Chromosome: [12q22]
   NCBI Gene ID: [7181.0]
   OMIM_ID: ['601529']
   UniProt_ID: [P13056]
-TAS1R2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAS1R2
   ENSG_ID: [ENSG00000179002]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.13]
   NCBI Gene ID: [80834.0]
   OMIM_ID: ['606226']
   UniProt_ID: [Q8TE23]
-TNFRSF14:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNFRSF14
   ENSG_ID: [ENSG00000157873]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.32]
   NCBI Gene ID: [8764.0]
   OMIM_ID: ['602746']
   UniProt_ID: [Q92956]
-TXNRD3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TXNRD3
   ENSG_ID: [ENSG00000197763]
   source: [NCBI Info, ENSG]
   Chromosome: [3q21.3]
   NCBI Gene ID: [114112.0]
   OMIM_ID: ['606235']
   UniProt_ID: [Q86VQ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

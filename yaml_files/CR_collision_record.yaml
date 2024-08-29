@@ -1,50 +1,81 @@
 collision_symbol: CR
-CALB2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALB2
   ENSG_ID: [ENSG00000172137]
   source: [NCBI Info]
   Chromosome: [16q22.2]
   NCBI Gene ID: [794.0]
   OMIM_ID: ['114051']
   UniProt_ID: [P22676]
-CD55:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD55
   ENSG_ID: [ENSG00000196352]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q32.2]
   NCBI Gene ID: [1604.0]
   OMIM_ID: ['125240']
   UniProt_ID: [P08174]
-CR2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CR2
   ENSG_ID: [ENSG00000117322]
   source: [NCBI Info]
   Chromosome: [1q32.2]
   NCBI Gene ID: [1380.0]
   OMIM_ID: ['120650']
   UniProt_ID: [P20023]
-CRIPTO:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRIPTO
   ENSG_ID: [ENSG00000241186]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3p21.31]
   NCBI Gene ID: [6997.0]
   OMIM_ID: ['187395']
   UniProt_ID: [P13385]
-DHRS4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DHRS4
   ENSG_ID: [ENSG00000157326]
   source: [NCBI Info]
   Chromosome: [14q11.2]
   NCBI Gene ID: [10901.0]
   OMIM_ID: ['611596']
   UniProt_ID: [Q9BTZ2]
-EDARADD:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EDARADD
   ENSG_ID: [ENSG00000186197]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q42.3-q43]
   NCBI Gene ID: [128178.0]
   OMIM_ID: ['606603']
   UniProt_ID: [Q8WWZ3]
-PPHLN1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPHLN1
   ENSG_ID: [ENSG00000134283]
   source: [NCBI Info]
   Chromosome: [12q12]
   NCBI Gene ID: [51535.0]
   OMIM_ID: ['608150']
   UniProt_ID: [Q8NEY8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

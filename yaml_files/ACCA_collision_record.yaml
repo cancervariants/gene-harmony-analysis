@@ -1,15 +1,26 @@
 collision_symbol: ACCA
-ACACA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACACA
   ENSG_ID: [ENSG00000278540]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [31.0]
   OMIM_ID: ['200350']
   UniProt_ID: [Q13085]
-GPR3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GPR3
   ENSG_ID: [ENSG00000181773]
   source: [NCBI Info]
   Chromosome: [1p36.11]
   NCBI Gene ID: [2827.0]
   OMIM_ID: ['600241']
   UniProt_ID: [P46089]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

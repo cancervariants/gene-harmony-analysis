@@ -1,15 +1,26 @@
 collision_symbol: CAC
-CA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CA2
   ENSG_ID: [ENSG00000104267]
   source: [NCBI Info]
   Chromosome: [8q21.2]
   NCBI Gene ID: [760.0]
   OMIM_ID: ['611492']
   UniProt_ID: [P00918]
-SLC25A20:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A20
   ENSG_ID: [ENSG00000178537]
   source: [NCBI Info]
   Chromosome: [3p21.31]
   NCBI Gene ID: [788.0]
   OMIM_ID: ['613698']
   UniProt_ID: [O43772]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

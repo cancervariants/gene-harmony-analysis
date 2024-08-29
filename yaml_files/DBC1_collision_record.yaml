@@ -1,15 +1,26 @@
 collision_symbol: DBC1
-BRINP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRINP1
   ENSG_ID: [ENSG00000078725]
   source: [NCBI Info]
   Chromosome: [9q33.1]
   NCBI Gene ID: [1620.0]
   OMIM_ID: ['602865']
   UniProt_ID: [O60477]
-CCAR2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCAR2
   ENSG_ID: [ENSG00000158941]
   source: [NCBI Info]
   Chromosome: [8p21.3]
   NCBI Gene ID: [57805.0]
   OMIM_ID: ['607359']
   UniProt_ID: [Q8N163]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

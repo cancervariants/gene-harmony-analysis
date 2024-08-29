@@ -1,15 +1,26 @@
 collision_symbol: CT45-4
-CT45A3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CT45A3
   ENSG_ID: [ENSG00000269096]
   source: [NCBI Info]
   Chromosome: [Xq26.3]
   NCBI Gene ID: [441519.0]
   OMIM_ID: ['300794']
   UniProt_ID: [Q8NHU0]
-CT45A5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CT45A5
   ENSG_ID: [ENSG00000228836]
   source: [NCBI Info]
   Chromosome: [Xq26.3]
   NCBI Gene ID: [441521.0]
   OMIM_ID: ['300796']
   UniProt_ID: [P0DMU8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

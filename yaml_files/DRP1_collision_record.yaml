@@ -1,36 +1,59 @@
 collision_symbol: DRP1
-CRMP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRMP1
   ENSG_ID: [ENSG00000072832]
   source: [NCBI Info]
   Chromosome: [4p16.2]
   NCBI Gene ID: [1400.0]
   OMIM_ID: ['602462']
   UniProt_ID: [Q14194]
-DAPK2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DAPK2
   ENSG_ID: [ENSG00000035664]
   source: [NCBI Info]
   Chromosome: [15q22.31]
   NCBI Gene ID: [23604.0]
   OMIM_ID: ['616567']
   UniProt_ID: [Q9UIK4]
-DENR:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DENR
   ENSG_ID: [ENSG00000139726]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [8562.0]
   OMIM_ID: ['604550']
   UniProt_ID: [O43583]
-DNM1L:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNM1L
   ENSG_ID: [ENSG00000087470]
   source: [NCBI Info]
   Chromosome: [12p11.21]
   NCBI Gene ID: [10059.0]
   OMIM_ID: ['603850']
   UniProt_ID: [O00429]
-UTRN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UTRN
   ENSG_ID: [ENSG00000152818]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q24.2]
   NCBI Gene ID: [7402.0]
   OMIM_ID: ['128240']
   UniProt_ID: [P46939]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

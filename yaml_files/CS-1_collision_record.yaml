@@ -1,22 +1,37 @@
 collision_symbol: CS-1
-CSH1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSH1
   ENSG_ID: [ENSG00000136488]
   source: [NCBI Info]
   Chromosome: [17q23.3]
   NCBI Gene ID: [1442.0]
   OMIM_ID: ['150200']
   UniProt_ID: [P0DML2]
-ITPRID2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ITPRID2
   ENSG_ID: [ENSG00000138434]
   source: [HGNC, NCBI Info]
   Chromosome: [2q31.3]
   NCBI Gene ID: [6744.0]
   OMIM_ID: ['118990']
   UniProt_ID: [P28290]
-MYOZ2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYOZ2
   ENSG_ID: [ENSG00000172399]
   source: [HGNC, NCBI Info]
   Chromosome: [4q26]
   NCBI Gene ID: [51778.0]
   OMIM_ID: ['605602']
   UniProt_ID: [Q9NPC6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

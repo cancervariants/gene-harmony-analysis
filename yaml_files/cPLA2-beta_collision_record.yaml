@@ -1,15 +1,26 @@
 collision_symbol: cPLA2-beta
-JMJD7-PLA2G4B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: JMJD7-PLA2G4B
   ENSG_ID: [ENSG00000168970]
   source: [NCBI Info]
   Chromosome: [15q15.1]
   NCBI Gene ID: [8681.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PLA2G4B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLA2G4B
   ENSG_ID: [ENSG00000243708]
   source: [NCBI Info]
   Chromosome: [15q15.1]
   NCBI Gene ID: [100137049.0]
   OMIM_ID: ['606088']
   UniProt_ID: [P0C869]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SSA
-CALR:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALR
   ENSG_ID: [ENSG00000179218]
   source: [NCBI Info]
   Chromosome: [19p13.13]
   NCBI Gene ID: [811.0]
   OMIM_ID: ['109091']
   UniProt_ID: [P27797]
-TRIM21:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM21
   ENSG_ID: [ENSG00000132109]
   source: [NCBI Info]
   Chromosome: [11p15.4]
   NCBI Gene ID: [6737.0]
   OMIM_ID: ['109092']
   UniProt_ID: [P19474]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

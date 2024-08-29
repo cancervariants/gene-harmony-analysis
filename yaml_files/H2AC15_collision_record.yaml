@@ -1,29 +1,48 @@
 collision_symbol: H2AC15
-H2AC11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H2AC11
   ENSG_ID: [ENSG00000196787]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8969.0]
   OMIM_ID: ['615012']
   UniProt_ID: [P0C0S8]
-H2AC13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2AC13
   ENSG_ID: [ENSG00000196747]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8329.0]
   OMIM_ID: ['602787']
   UniProt_ID: [P0C0S8]
-H2AC16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2AC16
   ENSG_ID: [ENSG00000276903]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8332.0]
   OMIM_ID: ['602793']
   UniProt_ID: [P0C0S8]
-H2AC17:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2AC17
   ENSG_ID: [ENSG00000278677]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8336.0]
   OMIM_ID: ['602796']
   UniProt_ID: [P0C0S8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

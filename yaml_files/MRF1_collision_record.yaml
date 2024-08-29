@@ -1,22 +1,37 @@
 collision_symbol: MRF1
-ARID5A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARID5A
   ENSG_ID: [ENSG00000196843]
   source: [NCBI Info]
   Chromosome: [2q11.2]
   NCBI Gene ID: [10865.0]
   OMIM_ID: ['611583']
   UniProt_ID: [Q03989]
-MTRF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTRF1
   ENSG_ID: [ENSG00000120662]
   source: [NCBI Info]
   Chromosome: [13q14.11]
   NCBI Gene ID: [9617.0]
   OMIM_ID: ['604601']
   UniProt_ID: [O75570]
-TRIM59:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM59
   ENSG_ID: [ENSG00000213186]
   source: [NCBI Info]
   Chromosome: [3q25.33]
   NCBI Gene ID: [286827.0]
   OMIM_ID: ['616148']
   UniProt_ID: [Q8IWR1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

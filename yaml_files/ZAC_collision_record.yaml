@@ -1,15 +1,26 @@
 collision_symbol: ZAC
-PLAGL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLAGL1
   ENSG_ID: [ENSG00000118495]
   source: [NCBI Info, ENSG]
   Chromosome: [6q24.2]
   NCBI Gene ID: [5325.0]
   OMIM_ID: ['603044']
   UniProt_ID: [Q9UM63]
-ZACN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZACN
   ENSG_ID: [ENSG00000186919]
   source: [NCBI Info, ENSG]
   Chromosome: [17q25.1]
   NCBI Gene ID: [353174.0]
   OMIM_ID: ['610935']
   UniProt_ID: [Q401N2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

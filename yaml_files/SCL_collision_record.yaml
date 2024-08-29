@@ -1,22 +1,37 @@
 collision_symbol: SCL
-KRT7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KRT7
   ENSG_ID: [ENSG00000135480]
   source: [NCBI Info, ENSG]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3855.0]
   OMIM_ID: ['148059']
   UniProt_ID: [P08729]
-SCLY:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCLY
   ENSG_ID: [ENSG00000132330]
   source: [HGNC, NCBI Info]
   Chromosome: [2q37.3]
   NCBI Gene ID: [51540.0]
   OMIM_ID: ['611056']
   UniProt_ID: [Q96I15]
-TAL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAL1
   ENSG_ID: [ENSG00000162367]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p33]
   NCBI Gene ID: [6886.0]
   OMIM_ID: ['187040']
   UniProt_ID: [P17542]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

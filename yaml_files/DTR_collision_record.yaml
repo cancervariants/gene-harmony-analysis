@@ -1,15 +1,26 @@
 collision_symbol: DTR
-HBEGF:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HBEGF
   ENSG_ID: [ENSG00000113070]
   source: [ENSG]
   Chromosome: [5q31.3]
   NCBI Gene ID: [1839.0]
   OMIM_ID: ['126150']
   UniProt_ID: [Q99075]
-PPP1R42:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP1R42
   ENSG_ID: [ENSG00000178125]
   source: [ENSG]
   Chromosome: [8q13.1]
   NCBI Gene ID: [286187.0]
   OMIM_ID: ['617720']
   UniProt_ID: [Q7Z4L9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: COX1
-MT-CO1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MT-CO1
   ENSG_ID: [ENSG00000198804]
   source: [HGNC]
   Chromosome: [mitochondria]
   NCBI Gene ID: [4512.0]
   OMIM_ID: ['516030']
   UniProt_ID: [P00395]
-PTGS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTGS1
   ENSG_ID: [ENSG00000095303]
   source: [HGNC]
   Chromosome: [9q33.2]
   NCBI Gene ID: [5742.0]
   OMIM_ID: ['176805']
   UniProt_ID: [P23219]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

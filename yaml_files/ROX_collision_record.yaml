@@ -1,22 +1,37 @@
 collision_symbol: ROX
-MNT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MNT
   ENSG_ID: [ENSG00000070444]
   source: [NCBI Info]
   Chromosome: [17p13.3]
   NCBI Gene ID: [4335.0]
   OMIM_ID: ['603039']
   UniProt_ID: [Q99583]
-RIOX1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIOX1
   ENSG_ID: [ENSG00000170468]
   source: [NCBI Info]
   Chromosome: [14q24.3]
   NCBI Gene ID: [79697.0]
   OMIM_ID: ['611919']
   UniProt_ID: [Q9H6W3]
-RIOX2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIOX2
   ENSG_ID: [ENSG00000170854]
   source: [NCBI Info]
   Chromosome: [3q11.2]
   NCBI Gene ID: [84864.0]
   OMIM_ID: ['612049']
   UniProt_ID: [Q8IUF8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

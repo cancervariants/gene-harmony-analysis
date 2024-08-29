@@ -1,15 +1,26 @@
 collision_symbol: NLS1
-MFSD2A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MFSD2A
   ENSG_ID: [ENSG00000168389]
   source: [NCBI Info]
   Chromosome: [1p34.2]
   NCBI Gene ID: [84879.0]
   OMIM_ID: ['614397']
   UniProt_ID: [Q8NA29]
-PHGDH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PHGDH
   ENSG_ID: [ENSG00000092621]
   source: [NCBI Info]
   Chromosome: [1p12]
   NCBI Gene ID: [26227.0]
   OMIM_ID: ['606879']
   UniProt_ID: [O43175]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

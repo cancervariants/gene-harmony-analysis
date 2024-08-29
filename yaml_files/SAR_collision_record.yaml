@@ -1,22 +1,37 @@
 collision_symbol: SAR
-NR1I2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NR1I2
   ENSG_ID: [ENSG00000144852]
   source: [NCBI Info]
   Chromosome: [3q13.33]
   NCBI Gene ID: [8856.0]
   OMIM_ID: ['603065']
   UniProt_ID: [O75469]
-SARDH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SARDH
   ENSG_ID: [ENSG00000123453]
   source: [NCBI Info]
   Chromosome: [9q34.2]
   NCBI Gene ID: [1757.0]
   OMIM_ID: ['604455']
   UniProt_ID: [Q9UL12]
-SRL:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRL
   ENSG_ID: [ENSG00000185739]
   source: [NCBI Info]
   Chromosome: [16p13.3]
   NCBI Gene ID: [6345.0]
   OMIM_ID: ['604992']
   UniProt_ID: [Q86TD4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

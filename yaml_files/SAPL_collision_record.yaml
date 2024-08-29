@@ -1,15 +1,26 @@
 collision_symbol: SAPL
-NUSAP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NUSAP1
   ENSG_ID: [ENSG00000137804]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q14]
   NCBI Gene ID: [51203.0]
   OMIM_ID: ['612818']
   UniProt_ID: [Q9BXS6]
-PPP6R3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP6R3
   ENSG_ID: [ENSG00000110075]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11q13]
   NCBI Gene ID: [55291.0]
   OMIM_ID: ['610879']
   UniProt_ID: [Q5H9R7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

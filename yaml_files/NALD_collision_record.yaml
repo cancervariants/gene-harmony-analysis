@@ -1,15 +1,26 @@
 collision_symbol: NALD
-PEX10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PEX10
   ENSG_ID: [ENSG00000157911]
   source: [NCBI Info]
   Chromosome: [1p36.32]
   NCBI Gene ID: [5192.0]
   OMIM_ID: ['602859']
   UniProt_ID: [O60683]
-PEX13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PEX13
   ENSG_ID: [ENSG00000162928]
   source: [NCBI Info]
   Chromosome: [2p15]
   NCBI Gene ID: [5194.0]
   OMIM_ID: ['601789']
   UniProt_ID: [Q92968]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

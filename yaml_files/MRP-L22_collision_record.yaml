@@ -1,15 +1,26 @@
 collision_symbol: MRP-L22
-MRPL22:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MRPL22
   ENSG_ID: [ENSG00000082515]
   source: [NCBI Info]
   Chromosome: [5q33.2]
   NCBI Gene ID: [29093.0]
   OMIM_ID: ['611835']
   UniProt_ID: [Q9NWU5]
-MRPL40:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRPL40
   ENSG_ID: [ENSG00000185608]
   source: [NCBI Info]
   Chromosome: [22q11.21]
   NCBI Gene ID: [64976.0]
   OMIM_ID: ['605089']
   UniProt_ID: [Q9NQ50]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

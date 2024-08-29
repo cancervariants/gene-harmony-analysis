@@ -1,15 +1,26 @@
 collision_symbol: VMA4
-ATP6V1E1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V1E1
   ENSG_ID: [ENSG00000131100]
   source: [ENSG]
   Chromosome: [22q11.21]
   NCBI Gene ID: [529.0]
   OMIM_ID: ['108746']
   UniProt_ID: [P36543]
-ATP6V1E2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP6V1E2
   ENSG_ID: [ENSG00000250565]
   source: [ENSG]
   Chromosome: [2p21]
   NCBI Gene ID: [90423.0]
   OMIM_ID: ['617385']
   UniProt_ID: [Q96A05]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

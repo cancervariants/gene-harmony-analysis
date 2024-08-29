@@ -1,15 +1,26 @@
 collision_symbol: C10orf101
-CATSPERE:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CATSPERE
   ENSG_ID: [ENSG00000179397]
   source: [NCBI Info]
   Chromosome: [1q44]
   NCBI Gene ID: [257044.0]
   OMIM_ID: ['617510']
   UniProt_ID: [Q5SY80]
-LINC00595:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LINC00595
   ENSG_ID: [ENSG00000230417]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

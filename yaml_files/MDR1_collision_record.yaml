@@ -1,15 +1,26 @@
 collision_symbol: MDR1
-ABCB1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCB1
   ENSG_ID: [ENSG00000085563]
   source: [NCBI Info, ENSG]
   Chromosome: [7q21.12]
   NCBI Gene ID: [5243.0]
   OMIM_ID: ['171050']
   UniProt_ID: [P08183]
-TBC1D9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TBC1D9
   ENSG_ID: [ENSG00000109436]
   source: [NCBI Info, ENSG]
   Chromosome: [4q31.21]
   NCBI Gene ID: [23158.0]
   OMIM_ID: ['618035']
   UniProt_ID: [Q6ZT07]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

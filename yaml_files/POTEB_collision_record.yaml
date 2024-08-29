@@ -1,15 +1,26 @@
 collision_symbol: POTEB
-POTEB2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POTEB2
   ENSG_ID: [ENSG00000230031]
   source: [NCBI Info]
   Chromosome: [15q11.2]
   NCBI Gene ID: [100287399.0]
   OMIM_ID: [.nan]
   UniProt_ID: [H3BUK9]
-POTEB3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POTEB3
   ENSG_ID: [ENSG00000278522]
   source: [NCBI Info]
   Chromosome: [15q11.2]
   NCBI Gene ID: [102724631.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0JP26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

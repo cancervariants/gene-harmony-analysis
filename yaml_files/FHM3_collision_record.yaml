@@ -1,15 +1,26 @@
 collision_symbol: FHM3
-MGR6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MGR6
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-SCN1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCN1A
   ENSG_ID: [ENSG00000144285]
   source: [NCBI Info]
   Chromosome: [2q24.3]
   NCBI Gene ID: [6323.0]
   OMIM_ID: ['182389']
   UniProt_ID: [P35498]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

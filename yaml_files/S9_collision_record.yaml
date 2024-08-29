@@ -1,15 +1,26 @@
 collision_symbol: S9
-PSMD11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PSMD11
   ENSG_ID: [ENSG00000108671]
   source: [HGNC, NCBI Info]
   Chromosome: [17q11.2]
   NCBI Gene ID: [5717.0]
   OMIM_ID: ['604449']
   UniProt_ID: [O00231]
-RPS9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPS9
   ENSG_ID: [ENSG00000170889]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.42]
   NCBI Gene ID: [6203.0]
   OMIM_ID: ['603631']
   UniProt_ID: [P46781]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

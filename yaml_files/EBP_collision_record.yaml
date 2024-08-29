@@ -1,15 +1,26 @@
 collision_symbol: EBP
-GLB1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLB1
   ENSG_ID: [ENSG00000170266]
   source: [NCBI Info]
   Chromosome: [3p22.3]
   NCBI Gene ID: [2720.0]
   OMIM_ID: ['611458']
   UniProt_ID: [P16278]
-SH3D19:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SH3D19
   ENSG_ID: [ENSG00000109686]
   source: [NCBI Info]
   Chromosome: [4q31.3]
   NCBI Gene ID: [152503.0]
   OMIM_ID: ['608674']
   UniProt_ID: [Q5HYK7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

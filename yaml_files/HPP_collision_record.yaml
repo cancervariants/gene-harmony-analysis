@@ -1,15 +1,26 @@
 collision_symbol: HPP
-HPP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HPP1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [19pter-p13.1]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-SPTA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPTA1
   ENSG_ID: [ENSG00000163554]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [6708.0]
   OMIM_ID: ['182860']
   UniProt_ID: [P02549]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: OX2R
-CD200R1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD200R1
   ENSG_ID: [ENSG00000163606]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q13.2]
   NCBI Gene ID: [131450.0]
   OMIM_ID: ['607546']
   UniProt_ID: [Q8TD46]
-HCRTR2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HCRTR2
   ENSG_ID: [ENSG00000137252]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p12.1]
   NCBI Gene ID: [3062.0]
   OMIM_ID: ['602393']
   UniProt_ID: [O43614]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

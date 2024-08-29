@@ -1,29 +1,48 @@
 collision_symbol: ATP5A
-ATP5F1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP5F1A
   ENSG_ID: [ENSG00000152234]
   source: [NCBI Info]
   Chromosome: [18q21.1]
   NCBI Gene ID: [498.0]
   OMIM_ID: ['164360']
   UniProt_ID: [P25705]
-ATP5MC1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP5MC1
   ENSG_ID: [ENSG00000159199]
   source: [NCBI Info]
   Chromosome: [17q21.32]
   NCBI Gene ID: [516.0]
   OMIM_ID: ['603192']
   UniProt_ID: [P05496]
-ATP5MC2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP5MC2
   ENSG_ID: [ENSG00000135390]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [517.0]
   OMIM_ID: ['603193']
   UniProt_ID: [Q06055]
-ATP5PF:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP5PF
   ENSG_ID: [ENSG00000154723]
   source: [NCBI Info]
   Chromosome: [21q21.3]
   NCBI Gene ID: [522.0]
   OMIM_ID: ['603152']
   UniProt_ID: [P18859]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

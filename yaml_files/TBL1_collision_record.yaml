@@ -1,15 +1,26 @@
 collision_symbol: TBL1
-TBL1X:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TBL1X
   ENSG_ID: [ENSG00000101849]
   source: [NCBI Info]
   Chromosome: [Xp22.31-p22.2]
   NCBI Gene ID: [6907.0]
   OMIM_ID: ['300196']
   UniProt_ID: [O60907]
-TBL1Y:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TBL1Y
   ENSG_ID: [ENSG00000092377]
   source: [NCBI Info]
   Chromosome: [Yp11.2]
   NCBI Gene ID: [90665.0]
   OMIM_ID: ['400033']
   UniProt_ID: [Q9BQ87]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

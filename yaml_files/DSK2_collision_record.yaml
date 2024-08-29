@@ -1,15 +1,26 @@
 collision_symbol: DSK2
-UBQLN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: UBQLN1
   ENSG_ID: [ENSG00000135018]
   source: [NCBI Info, ENSG]
   Chromosome: [9q21.32]
   NCBI Gene ID: [29979.0]
   OMIM_ID: ['605046']
   UniProt_ID: [Q9UMX0]
-UBQLN2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UBQLN2
   ENSG_ID: [ENSG00000188021]
   source: [NCBI Info, ENSG]
   Chromosome: [Xp11.21]
   NCBI Gene ID: [29978.0]
   OMIM_ID: ['300264']
   UniProt_ID: [Q9UHD9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: RNU1-5
-RNU1-5P:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNU1-5P
   ENSG_ID: [ENSG00000277234]
   source: [NCBI Info]
   Chromosome: [1p36.13]
   NCBI Gene ID: [107105261.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNVU1-18:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNVU1-18
   ENSG_ID: [ENSG00000206737]
   source: [NCBI Info]
   Chromosome: [1q21.2]
   NCBI Gene ID: [26863.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

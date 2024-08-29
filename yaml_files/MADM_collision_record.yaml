@@ -1,15 +1,26 @@
 collision_symbol: MADM
-ADAM10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADAM10
   ENSG_ID: [ENSG00000137845]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q21.3]
   NCBI Gene ID: [102.0]
   OMIM_ID: ['602192']
   UniProt_ID: [O14672]
-NRBP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NRBP1
   ENSG_ID: [ENSG00000115216]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p23.3]
   NCBI Gene ID: [29959.0]
   OMIM_ID: ['606010']
   UniProt_ID: [Q9UHY1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

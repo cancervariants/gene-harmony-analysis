@@ -1,15 +1,26 @@
 collision_symbol: EEG1
-CAPRIN2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CAPRIN2
   ENSG_ID: [ENSG00000110888]
   source: [NCBI Info, ENSG]
   Chromosome: [12p11.21]
   NCBI Gene ID: [65981.0]
   OMIM_ID: ['610375']
   UniProt_ID: [Q6IMN6]
-SLC43A3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC43A3
   ENSG_ID: [ENSG00000134802]
   source: [NCBI Info, ENSG]
   Chromosome: [11q12.1]
   NCBI Gene ID: [29015.0]
   OMIM_ID: ['618034']
   UniProt_ID: [Q8NBI5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

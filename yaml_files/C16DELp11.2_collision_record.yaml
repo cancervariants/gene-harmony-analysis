@@ -1,22 +1,37 @@
 collision_symbol: C16DELp11.2
-BMIQ16:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BMIQ16
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-CREB3L1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CREB3L1
   ENSG_ID: [ENSG00000157613]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [90993.0]
   OMIM_ID: ['616215']
   UniProt_ID: [Q96BA8]
-DEL16P11.2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DEL16P11.2
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: M33
-CBX2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CBX2
   ENSG_ID: [ENSG00000173894]
   source: [NCBI Info]
   Chromosome: [17q25.3]
   NCBI Gene ID: [84733.0]
   OMIM_ID: ['602770']
   UniProt_ID: [Q14781]
-TUSC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TUSC3
   ENSG_ID: [ENSG00000104723]
   source: [NCBI Info]
   Chromosome: [8p22]
   NCBI Gene ID: [7991.0]
   OMIM_ID: ['601385']
   UniProt_ID: [Q13454]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

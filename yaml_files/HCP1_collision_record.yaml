@@ -1,29 +1,48 @@
 collision_symbol: HCP1
-CYCSP51:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYCSP51
   ENSG_ID: [ENSG00000229357, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q21.3, .nan]
   NCBI Gene ID: [343045.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PDE7A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PDE7A
   ENSG_ID: [ENSG00000205268]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [8q13.1]
   NCBI Gene ID: [5150.0]
   OMIM_ID: ['171885']
   UniProt_ID: [Q13946]
-PRMT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRMT1
   ENSG_ID: [ENSG00000126457]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.33]
   NCBI Gene ID: [3276.0]
   OMIM_ID: ['602950']
   UniProt_ID: [Q99873]
-SLC46A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC46A1
   ENSG_ID: [ENSG00000076351]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [17q11.2]
   NCBI Gene ID: [113235.0]
   OMIM_ID: ['611672']
   UniProt_ID: [Q96NT5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

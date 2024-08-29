@@ -1,15 +1,26 @@
 collision_symbol: GLUT10
-SLC2A10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC2A10
   ENSG_ID: [ENSG00000197496]
   source: [NCBI Info]
   Chromosome: [20q13.12]
   NCBI Gene ID: [81031.0]
   OMIM_ID: ['606145']
   UniProt_ID: [O95528]
-SLC2A11:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC2A11
   ENSG_ID: [ENSG00000133460]
   source: [NCBI Info]
   Chromosome: [22q11.23]
   NCBI Gene ID: [66035.0]
   OMIM_ID: ['610367']
   UniProt_ID: [Q9BYW1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

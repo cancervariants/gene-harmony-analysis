@@ -1,15 +1,26 @@
 collision_symbol: PUR1
-MAZ:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAZ
   ENSG_ID: [ENSG00000103495]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [4150.0]
   OMIM_ID: ['600999']
   UniProt_ID: [P56270]
-PURA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PURA
   ENSG_ID: [ENSG00000185129]
   source: [NCBI Info]
   Chromosome: [5q31.3]
   NCBI Gene ID: [5813.0]
   OMIM_ID: ['600473']
   UniProt_ID: [Q00577]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

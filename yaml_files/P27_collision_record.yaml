@@ -1,36 +1,59 @@
 collision_symbol: p27
-DCTN6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCTN6
   ENSG_ID: [ENSG00000104671]
   source: [NCBI Info]
   Chromosome: [8p12]
   NCBI Gene ID: [10671.0]
   OMIM_ID: ['612963']
   UniProt_ID: [O00399]
-H3P23:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3P23
   ENSG_ID: [ENSG00000250705, .nan]
   source: [HGNC, NCBI Info]
   Chromosome: [5q14.3, .nan]
   NCBI Gene ID: [115482696.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PSMD9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD9
   ENSG_ID: [ENSG00000110801]
   source: [HGNC, NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [5715.0]
   OMIM_ID: ['603146']
   UniProt_ID: [O00233]
-TMED7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMED7
   ENSG_ID: [ENSG00000134970]
   source: [NCBI Info]
   Chromosome: [5q22.3]
   NCBI Gene ID: [51014.0]
   OMIM_ID: ['619990']
   UniProt_ID: [Q9Y3B3]
-ZNRD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNRD2
   ENSG_ID: [ENSG00000173465]
   source: [HGNC, NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [10534.0]
   OMIM_ID: ['606044']
   UniProt_ID: [O60232]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

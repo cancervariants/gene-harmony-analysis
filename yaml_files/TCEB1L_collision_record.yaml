@@ -1,15 +1,26 @@
 collision_symbol: TCEB1L
-SKP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SKP1
   ENSG_ID: [ENSG00000113558]
   source: [NCBI Info, ENSG]
   Chromosome: [5q31.1]
   NCBI Gene ID: [6500.0]
   OMIM_ID: ['601434']
   UniProt_ID: [P63208]
-SKP1P1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SKP1P1
   ENSG_ID: [.nan, ENSG00000231234]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 7q11.21]
   NCBI Gene ID: [.nan, 6922.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

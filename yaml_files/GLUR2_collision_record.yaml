@@ -1,15 +1,26 @@
 collision_symbol: GLUR2
-GRIA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GRIA2
   ENSG_ID: [ENSG00000120251]
   source: [NCBI Info]
   Chromosome: [4q32.1]
   NCBI Gene ID: [2891.0]
   OMIM_ID: ['138247']
   UniProt_ID: [P42262]
-GRM2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GRM2
   ENSG_ID: [ENSG00000164082]
   source: [NCBI Info]
   Chromosome: [3p21.2]
   NCBI Gene ID: [2912.0]
   OMIM_ID: ['604099']
   UniProt_ID: [Q14416]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

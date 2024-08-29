@@ -1,15 +1,26 @@
 collision_symbol: DRG-1
-NDRG1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NDRG1
   ENSG_ID: [ENSG00000104419]
   source: [NCBI Info]
   Chromosome: [8q24.22]
   NCBI Gene ID: [10397.0]
   OMIM_ID: ['605262']
   UniProt_ID: [Q92597]
-VTA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VTA1
   ENSG_ID: [ENSG00000009844]
   source: [NCBI Info]
   Chromosome: [6q24.1-q24.2]
   NCBI Gene ID: [51534.0]
   OMIM_ID: ['610902']
   UniProt_ID: [Q9NP79]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

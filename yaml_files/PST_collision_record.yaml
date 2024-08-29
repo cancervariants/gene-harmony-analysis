@@ -1,15 +1,26 @@
 collision_symbol: PST
-ST8SIA4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ST8SIA4
   ENSG_ID: [ENSG00000113532]
   source: [NCBI Info]
   Chromosome: [5q21.1]
   NCBI Gene ID: [7903.0]
   OMIM_ID: ['602547']
   UniProt_ID: [Q92187]
-SULT1A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SULT1A1
   ENSG_ID: [ENSG00000196502]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [6817.0]
   OMIM_ID: ['171150']
   UniProt_ID: [P50225]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

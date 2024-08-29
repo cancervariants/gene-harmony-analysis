@@ -1,15 +1,26 @@
 collision_symbol: CD97
-ADGRE2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADGRE2
   ENSG_ID: [ENSG00000127507]
   source: [NCBI Info]
   Chromosome: [19p13.12]
   NCBI Gene ID: [30817.0]
   OMIM_ID: ['606100']
   UniProt_ID: [Q9UHX3]
-ADGRE5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ADGRE5
   ENSG_ID: [ENSG00000123146]
   source: [NCBI Info]
   Chromosome: [19p13.12]
   NCBI Gene ID: [976.0]
   OMIM_ID: ['601211']
   UniProt_ID: [P48960]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

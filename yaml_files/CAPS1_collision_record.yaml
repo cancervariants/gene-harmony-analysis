@@ -1,15 +1,26 @@
 collision_symbol: CAPS1
-CADPS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CADPS
   ENSG_ID: [ENSG00000163618]
   source: [NCBI Info]
   Chromosome: [3p14.2]
   NCBI Gene ID: [8618.0]
   OMIM_ID: ['604667']
   UniProt_ID: [Q9ULU8]
-CAPS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAPS
   ENSG_ID: [ENSG00000105519]
   source: [NCBI Info]
   Chromosome: [19p13.3]
   NCBI Gene ID: [828.0]
   OMIM_ID: ['114212']
   UniProt_ID: [Q13938]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

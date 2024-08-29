@@ -1,15 +1,26 @@
 collision_symbol: SPT3
-SPTLC3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPTLC3
   ENSG_ID: [ENSG00000172296]
   source: [NCBI Info]
   Chromosome: [20p12.1]
   NCBI Gene ID: [55304.0]
   OMIM_ID: ['611120']
   UniProt_ID: [Q9NUV7]
-SUPT3H:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SUPT3H
   ENSG_ID: [ENSG00000196284]
   source: [NCBI Info]
   Chromosome: [6p21.1]
   NCBI Gene ID: [8464.0]
   OMIM_ID: ['602947']
   UniProt_ID: [O75486]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

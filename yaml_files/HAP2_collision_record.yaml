@@ -1,15 +1,26 @@
 collision_symbol: HAP2
-HAP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HAP1
   ENSG_ID: [ENSG00000173805]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [9001.0]
   OMIM_ID: ['600947']
   UniProt_ID: [P54257]
-NFYA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NFYA
   ENSG_ID: [ENSG00000001167]
   source: [NCBI Info]
   Chromosome: [6p21.1]
   NCBI Gene ID: [4800.0]
   OMIM_ID: ['189903']
   UniProt_ID: [P23511]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

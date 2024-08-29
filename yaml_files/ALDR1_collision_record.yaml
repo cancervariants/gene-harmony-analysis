@@ -1,15 +1,26 @@
 collision_symbol: ALDR1
-AKR1A1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AKR1A1
   ENSG_ID: [ENSG00000117448]
   source: [NCBI Info]
   Chromosome: [1p34.1]
   NCBI Gene ID: [10327.0]
   OMIM_ID: ['103830']
   UniProt_ID: [P14550]
-AKR1B1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AKR1B1
   ENSG_ID: [ENSG00000085662]
   source: [NCBI Info]
   Chromosome: [7q33]
   NCBI Gene ID: [231.0]
   OMIM_ID: ['103880']
   UniProt_ID: [P15121]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

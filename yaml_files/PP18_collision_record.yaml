@@ -1,15 +1,26 @@
 collision_symbol: PP18
-BCAT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCAT1
   ENSG_ID: [ENSG00000060982]
   source: [NCBI Info]
   Chromosome: [12p12.1]
   NCBI Gene ID: [586.0]
   OMIM_ID: ['113520']
   UniProt_ID: [P54687]
-BCAT2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BCAT2
   ENSG_ID: [ENSG00000105552]
   source: [NCBI Info]
   Chromosome: [19q13.33]
   NCBI Gene ID: [587.0]
   OMIM_ID: ['113530']
   UniProt_ID: [O15382]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

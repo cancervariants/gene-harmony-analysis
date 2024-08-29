@@ -1,15 +1,26 @@
 collision_symbol: GLYT2
-GGTA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GGTA1
   ENSG_ID: [ENSG00000204136]
   source: [NCBI Info, ENSG]
   Chromosome: [9q33.2]
   NCBI Gene ID: [2681.0]
   OMIM_ID: ['104175']
   UniProt_ID: [Q4G0N0]
-SLC6A5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC6A5
   ENSG_ID: [ENSG00000165970]
   source: [NCBI Info, ENSG]
   Chromosome: [11p15.1]
   NCBI Gene ID: [9152.0]
   OMIM_ID: ['604159']
   UniProt_ID: [Q9Y345]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

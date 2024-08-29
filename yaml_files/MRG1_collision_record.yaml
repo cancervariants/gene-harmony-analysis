@@ -1,29 +1,48 @@
 collision_symbol: MRG1
-CITED2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CITED2
   ENSG_ID: [ENSG00000164442]
   source: [HGNC, NCBI Info]
   Chromosome: [6q24.1]
   NCBI Gene ID: [10370.0]
   OMIM_ID: ['602937']
   UniProt_ID: [Q99967]
-MEIS2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MEIS2
   ENSG_ID: [ENSG00000134138]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q14]
   NCBI Gene ID: [4212.0]
   OMIM_ID: ['601740']
   UniProt_ID: [O14770]
-MORF4L1P1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MORF4L1P1
   ENSG_ID: [ENSG00000218283, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q41, .nan]
   NCBI Gene ID: [326591.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MPP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MPP1
   ENSG_ID: [ENSG00000130830]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [4354.0]
   OMIM_ID: ['305360']
   UniProt_ID: [Q00013]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

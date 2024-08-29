@@ -1,15 +1,26 @@
 collision_symbol: RUS
-LINC01322:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LINC01322
   ENSG_ID: [ENSG00000244128]
   source: [NCBI Info]
   Chromosome: [3q26.1]
   NCBI Gene ID: [103695433.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RUSF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUSF1
   ENSG_ID: [ENSG00000140688]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [64755.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q96GQ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

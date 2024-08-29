@@ -1,15 +1,26 @@
 collision_symbol: PPT
-PPP5C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPP5C
   ENSG_ID: [ENSG00000011485]
   source: [NCBI Info]
   Chromosome: [19q13.32]
   NCBI Gene ID: [5536.0]
   OMIM_ID: ['600658']
   UniProt_ID: [P53041]
-PPT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPT1
   ENSG_ID: [ENSG00000131238]
   source: [NCBI Info]
   Chromosome: [1p34.2]
   NCBI Gene ID: [5538.0]
   OMIM_ID: ['600722']
   UniProt_ID: [P50897]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

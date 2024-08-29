@@ -1,15 +1,26 @@
 collision_symbol: FRP1
-ATR:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATR
   ENSG_ID: [ENSG00000175054]
   source: [NCBI Info]
   Chromosome: [3q23]
   NCBI Gene ID: [545.0]
   OMIM_ID: ['601215']
   UniProt_ID: [Q13535]
-SFRP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SFRP1
   ENSG_ID: [ENSG00000104332]
   source: [NCBI Info]
   Chromosome: [8p11.21]
   NCBI Gene ID: [6422.0]
   OMIM_ID: ['604156']
   UniProt_ID: [Q8N474]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

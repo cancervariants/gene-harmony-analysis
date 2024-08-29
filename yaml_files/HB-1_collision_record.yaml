@@ -1,22 +1,37 @@
 collision_symbol: HB-1
-HMHB1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HMHB1
   ENSG_ID: [ENSG00000158497]
   source: [NCBI Info, ENSG]
   Chromosome: [5q31.3]
   NCBI Gene ID: [57824.0]
   OMIM_ID: ['609961']
   UniProt_ID: [O97980]
-KRT81:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT81
   ENSG_ID: [ENSG00000205426]
   source: [ENSG]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3887.0]
   OMIM_ID: ['602153']
   UniProt_ID: [Q14533]
-PEG10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PEG10
   ENSG_ID: [ENSG00000242265]
   source: [NCBI Info, ENSG]
   Chromosome: [7q21.3]
   NCBI Gene ID: [23089.0]
   OMIM_ID: ['609810']
   UniProt_ID: [Q86TG7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

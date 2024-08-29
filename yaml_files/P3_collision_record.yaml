@@ -1,22 +1,37 @@
 collision_symbol: P3
-ATP5MC3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP5MC3
   ENSG_ID: [ENSG00000154518]
   source: [NCBI Info]
   Chromosome: [2q31.1]
   NCBI Gene ID: [518.0]
   OMIM_ID: ['602736']
   UniProt_ID: [P48201]
-EXOSC10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EXOSC10
   ENSG_ID: [ENSG00000171824]
   source: [ENSG]
   Chromosome: [1p36.22]
   NCBI Gene ID: [5394.0]
   OMIM_ID: ['605960']
   UniProt_ID: [Q01780]
-SLC10A3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC10A3
   ENSG_ID: [ENSG00000126903]
   source: [NCBI Info, ENSG]
   Chromosome: [Xq28]
   NCBI Gene ID: [8273.0]
   OMIM_ID: ['312090']
   UniProt_ID: [P09131]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

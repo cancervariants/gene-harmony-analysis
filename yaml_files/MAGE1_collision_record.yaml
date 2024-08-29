@@ -1,15 +1,26 @@
 collision_symbol: MAGE1
-MAGEA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAGEA1
   ENSG_ID: [ENSG00000198681]
   source: [NCBI Info, ENSG]
   Chromosome: [Xq28]
   NCBI Gene ID: [4100.0]
   OMIM_ID: ['300016']
   UniProt_ID: [P43355]
-MAGED4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGED4
   ENSG_ID: [ENSG00000154545]
   source: [NCBI Info, ENSG]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [728239.0]
   OMIM_ID: ['300702']
   UniProt_ID: [Q96JG8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

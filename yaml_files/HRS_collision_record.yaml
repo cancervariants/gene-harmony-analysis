@@ -1,29 +1,48 @@
 collision_symbol: HRS
-ATN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATN1
   ENSG_ID: [ENSG00000111676]
   source: [NCBI Info]
   Chromosome: [12p13.31]
   NCBI Gene ID: [1822.0]
   OMIM_ID: ['607462']
   UniProt_ID: [P54259]
-HARS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HARS1
   ENSG_ID: [ENSG00000170445]
   source: [NCBI Info]
   Chromosome: [5q31.3]
   NCBI Gene ID: [3035.0]
   OMIM_ID: ['142810']
   UniProt_ID: [P12081]
-HGS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HGS
   ENSG_ID: [ENSG00000185359]
   source: [NCBI Info, ENSG]
   Chromosome: [17q25.3]
   NCBI Gene ID: [9146.0]
   OMIM_ID: ['604375']
   UniProt_ID: [O14964]
-SRSF5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRSF5
   ENSG_ID: [ENSG00000100650]
   source: [NCBI Info, ENSG]
   Chromosome: [14q24]
   NCBI Gene ID: [6430.0]
   OMIM_ID: ['600914']
   UniProt_ID: [Q13243]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

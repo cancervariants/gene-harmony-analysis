@@ -1,15 +1,26 @@
 collision_symbol: CRT2
-CALR3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALR3
   ENSG_ID: [ENSG00000269058]
   source: [NCBI Info, ENSG]
   Chromosome: [19p13.11]
   NCBI Gene ID: [125972.0]
   OMIM_ID: ['611414']
   UniProt_ID: [Q96L12]
-SLC16A12:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC16A12
   ENSG_ID: [ENSG00000152779]
   source: [NCBI Info, ENSG]
   Chromosome: [10q23.31]
   NCBI Gene ID: [387700.0]
   OMIM_ID: ['611910']
   UniProt_ID: [Q6ZSM3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

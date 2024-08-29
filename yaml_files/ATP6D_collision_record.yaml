@@ -1,15 +1,26 @@
 collision_symbol: ATP6D
-ATP6V0D1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V0D1
   ENSG_ID: [ENSG00000159720]
   source: [NCBI Info]
   Chromosome: [16q22.1]
   NCBI Gene ID: [9114.0]
   OMIM_ID: ['607028']
   UniProt_ID: [P61421]
-ATP6V1C1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP6V1C1
   ENSG_ID: [ENSG00000155097]
   source: [NCBI Info]
   Chromosome: [8q22.3]
   NCBI Gene ID: [528.0]
   OMIM_ID: ['603097']
   UniProt_ID: [P21283]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

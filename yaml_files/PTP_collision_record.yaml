@@ -1,22 +1,37 @@
 collision_symbol: PTP
-PTPRU:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PTPRU
   ENSG_ID: [ENSG00000060656]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p35.3]
   NCBI Gene ID: [10076.0]
   OMIM_ID: ['602454']
   UniProt_ID: [Q92729]
-REG1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: REG1A
   ENSG_ID: [ENSG00000115386]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p12]
   NCBI Gene ID: [5967.0]
   OMIM_ID: ['167770']
   UniProt_ID: [P05451]
-SLC25A3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A3
   ENSG_ID: [ENSG00000075415]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12q23.1]
   NCBI Gene ID: [5250.0]
   OMIM_ID: ['600370']
   UniProt_ID: [Q00325]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

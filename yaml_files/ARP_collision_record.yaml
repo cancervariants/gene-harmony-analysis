@@ -1,29 +1,48 @@
 collision_symbol: ARP
-ARFRP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARFRP1
   ENSG_ID: [ENSG00000101246]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [20q13.33]
   NCBI Gene ID: [10139.0]
   OMIM_ID: ['604699']
   UniProt_ID: [Q13795]
-CRISP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRISP1
   ENSG_ID: [ENSG00000124812]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p12.3]
   NCBI Gene ID: [167.0]
   OMIM_ID: ['601193']
   UniProt_ID: [P54107]
-MANF:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MANF
   ENSG_ID: [ENSG00000145050]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3p21.2]
   NCBI Gene ID: [7873.0]
   OMIM_ID: ['601916']
   UniProt_ID: [P55145]
-RERE:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RERE
   ENSG_ID: [ENSG00000142599]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.23]
   NCBI Gene ID: [473.0]
   OMIM_ID: ['605226']
   UniProt_ID: [Q9P2R6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: PTX2
-APCS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APCS
   ENSG_ID: [ENSG00000132703]
   source: [NCBI Info]
   Chromosome: [1q23.2]
   NCBI Gene ID: [325.0]
   OMIM_ID: ['104770']
   UniProt_ID: [P02743]
-PITX2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PITX2
   ENSG_ID: [ENSG00000164093]
   source: [NCBI Info]
   Chromosome: [4q25]
   NCBI Gene ID: [5308.0]
   OMIM_ID: ['601542']
   UniProt_ID: [Q99697]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

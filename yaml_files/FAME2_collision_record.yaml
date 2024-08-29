@@ -1,15 +1,26 @@
 collision_symbol: FAME2
-ADRA2B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADRA2B
   ENSG_ID: [ENSG00000274286]
   source: [NCBI Info]
   Chromosome: [2q11.2]
   NCBI Gene ID: [151.0]
   OMIM_ID: ['104260']
   UniProt_ID: [P18089]
-STARD7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STARD7
   ENSG_ID: [ENSG00000084090]
   source: [NCBI Info]
   Chromosome: [2q11.2]
   NCBI Gene ID: [56910.0]
   OMIM_ID: ['616712']
   UniProt_ID: [Q9NQZ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: OR7-21
-OR4F16:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OR4F16
   ENSG_ID: [ENSG00000284662]
   source: [NCBI Info]
   Chromosome: [1p36.33]
   NCBI Gene ID: [81399.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q6IEY1]
-OR4F29:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR4F29
   ENSG_ID: [ENSG00000284733]
   source: [NCBI Info]
   Chromosome: [1p36.33]
   NCBI Gene ID: [729759.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q6IEY1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

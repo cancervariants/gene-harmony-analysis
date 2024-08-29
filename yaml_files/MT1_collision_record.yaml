@@ -1,85 +1,136 @@
 collision_symbol: MT1
-MT1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MT1A
   ENSG_ID: [ENSG00000205362]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4489.0]
   OMIM_ID: ['156350']
   UniProt_ID: [P04731]
-MT1B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1B
   ENSG_ID: [ENSG00000169688]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4490.0]
   OMIM_ID: ['156349']
   UniProt_ID: [P07438]
-MT1E:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1E
   ENSG_ID: [ENSG00000169715]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4493.0]
   OMIM_ID: ['156351']
   UniProt_ID: [P04732]
-MT1F:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1F
   ENSG_ID: [ENSG00000198417]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4494.0]
   OMIM_ID: ['156352']
   UniProt_ID: [P04733]
-MT1G:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1G
   ENSG_ID: [ENSG00000125144]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4495.0]
   OMIM_ID: ['156353']
   UniProt_ID: [P13640]
-MT1H:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1H
   ENSG_ID: [ENSG00000205358]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4496.0]
   OMIM_ID: ['156354']
   UniProt_ID: [P80294]
-MT1IP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1IP
   ENSG_ID: [.nan, ENSG00000275691]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 16q13]
   NCBI Gene ID: [.nan, 644314.0]
   OMIM_ID: [.nan, '156355']
   UniProt_ID: [.nan]
-MT1JP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1JP
   ENSG_ID: [ENSG00000290662, ENSG00000255986]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 16q13]
   NCBI Gene ID: [.nan, 4498.0]
   OMIM_ID: [.nan, '156356']
   UniProt_ID: [.nan]
-MT1L:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1L
   ENSG_ID: [ENSG00000291105, ENSG00000260549]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 16q13]
   NCBI Gene ID: [.nan, 4500.0]
   OMIM_ID: [.nan, '156358']
   UniProt_ID: [.nan, Q93083]
-MT1M:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1M
   ENSG_ID: [ENSG00000205364]
   source: [NCBI Info, ENSG]
   Chromosome: [16q13]
   NCBI Gene ID: [4499.0]
   OMIM_ID: ['156357']
   UniProt_ID: [Q8N339]
-MT1X:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1X
   ENSG_ID: [ENSG00000187193]
   source: [NCBI Info]
   Chromosome: [16q13]
   NCBI Gene ID: [4501.0]
   OMIM_ID: ['156359']
   UniProt_ID: [P80297]
-MTNR1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTNR1A
   ENSG_ID: [ENSG00000168412]
   source: [NCBI Info]
   Chromosome: [4q35.2]
   NCBI Gene ID: [4543.0]
   OMIM_ID: ['600665']
   UniProt_ID: [P48039]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

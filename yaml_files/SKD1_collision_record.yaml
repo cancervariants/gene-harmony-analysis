@@ -1,15 +1,26 @@
 collision_symbol: SKD1
-VPS4A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: VPS4A
   ENSG_ID: [ENSG00000132612]
   source: [NCBI Info]
   Chromosome: [16q23.1]
   NCBI Gene ID: [27183.0]
   OMIM_ID: ['609982']
   UniProt_ID: [Q9UN37]
-VPS4B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VPS4B
   ENSG_ID: [ENSG00000119541]
   source: [NCBI Info]
   Chromosome: [18q21.33]
   NCBI Gene ID: [9525.0]
   OMIM_ID: ['609983']
   UniProt_ID: [O75351]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

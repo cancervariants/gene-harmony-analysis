@@ -1,15 +1,26 @@
 collision_symbol: NPH2
-INVS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: INVS
   ENSG_ID: [ENSG00000119509]
   source: [NCBI Info]
   Chromosome: [9q31.1]
   NCBI Gene ID: [27130.0]
   OMIM_ID: ['243305']
   UniProt_ID: [Q9Y283]
-NXPH2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NXPH2
   ENSG_ID: [ENSG00000144227]
   source: [NCBI Info]
   Chromosome: [2q22.1]
   NCBI Gene ID: [11249.0]
   OMIM_ID: ['604635']
   UniProt_ID: [O95156]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

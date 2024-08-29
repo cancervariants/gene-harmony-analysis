@@ -1,22 +1,37 @@
 collision_symbol: THG1
-RHOXF2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RHOXF2
   ENSG_ID: [ENSG00000131721]
   source: [NCBI Info]
   Chromosome: [Xq24]
   NCBI Gene ID: [84528.0]
   OMIM_ID: ['300447']
   UniProt_ID: [Q9BQY4]
-THG1L:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THG1L
   ENSG_ID: [ENSG00000113272]
   source: [NCBI Info]
   Chromosome: [5q33.3]
   NCBI Gene ID: [54974.0]
   OMIM_ID: ['618802']
   UniProt_ID: [Q9NWX6]
-TSC22D4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSC22D4
   ENSG_ID: [ENSG00000166925]
   source: [NCBI Info]
   Chromosome: [7q22.1]
   NCBI Gene ID: [81628.0]
   OMIM_ID: ['611914']
   UniProt_ID: [Q9Y3Q8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

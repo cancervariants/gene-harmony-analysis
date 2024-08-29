@@ -1,15 +1,26 @@
 collision_symbol: dJ353E16.2
-MN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MN1
   ENSG_ID: [ENSG00000169184]
   source: [NCBI Info]
   Chromosome: [22q12.1]
   NCBI Gene ID: [4330.0]
   OMIM_ID: ['156100']
   UniProt_ID: [Q10571]
-TTC28-AS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TTC28-AS1
   ENSG_ID: [ENSG00000235954]
   source: [NCBI Info]
   Chromosome: [22q12.1]
   NCBI Gene ID: [284900.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

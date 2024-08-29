@@ -1,15 +1,26 @@
 collision_symbol: COD1
-COG4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COG4
   ENSG_ID: [ENSG00000103051]
   source: [NCBI Info, ENSG]
   Chromosome: [16q22.1]
   NCBI Gene ID: [25839.0]
   OMIM_ID: ['606976']
   UniProt_ID: [Q9H9E3]
-RPGR:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPGR
   ENSG_ID: [ENSG00000156313]
   source: [NCBI Info, ENSG]
   Chromosome: [Xp11.4]
   NCBI Gene ID: [6103.0]
   OMIM_ID: ['312610']
   UniProt_ID: [Q92834]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: AGT1
-AGXT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AGXT
   ENSG_ID: [ENSG00000172482]
   source: [NCBI Info]
   Chromosome: [2q37.3]
   NCBI Gene ID: [189.0]
   OMIM_ID: ['604285']
   UniProt_ID: [P21549]
-SLC7A13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A13
   ENSG_ID: [ENSG00000164893]
   source: [NCBI Info]
   Chromosome: [8q21.3]
   NCBI Gene ID: [157724.0]
   OMIM_ID: ['617256']
   UniProt_ID: [Q8TCU3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

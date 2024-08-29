@@ -1,15 +1,26 @@
 collision_symbol: F5F8D
-LMAN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LMAN1
   ENSG_ID: [ENSG00000074695]
   source: [NCBI Info]
   Chromosome: [18q21.32]
   NCBI Gene ID: [3998.0]
   OMIM_ID: ['601567']
   UniProt_ID: [P49257]
-MCFD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MCFD2
   ENSG_ID: [ENSG00000180398]
   source: [NCBI Info]
   Chromosome: [2p21]
   NCBI Gene ID: [90411.0]
   OMIM_ID: ['607788']
   UniProt_ID: [Q8NI22]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

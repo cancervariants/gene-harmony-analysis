@@ -1,15 +1,26 @@
 collision_symbol: BAM
-BCL2L11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCL2L11
   ENSG_ID: [ENSG00000153094]
   source: [NCBI Info]
   Chromosome: [2q13]
   NCBI Gene ID: [10018.0]
   OMIM_ID: ['603827']
   UniProt_ID: [O43521]
-SMC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMC3
   ENSG_ID: [ENSG00000108055]
   source: [NCBI Info]
   Chromosome: [10q25.2]
   NCBI Gene ID: [9126.0]
   OMIM_ID: ['606062']
   UniProt_ID: [Q9UQE7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

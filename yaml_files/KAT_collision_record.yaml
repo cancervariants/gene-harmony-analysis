@@ -1,22 +1,37 @@
 collision_symbol: KAT
-F11R:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: F11R
   ENSG_ID: [ENSG00000158769]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [50848.0]
   OMIM_ID: ['605721']
   UniProt_ID: [Q9Y624]
-KATNB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KATNB1
   ENSG_ID: [ENSG00000140854]
   source: [NCBI Info]
   Chromosome: [16q21]
   NCBI Gene ID: [10300.0]
   OMIM_ID: ['602703']
   UniProt_ID: [Q9BVA0]
-TSTD1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSTD1
   ENSG_ID: [ENSG00000215845]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [100131187.0]
   OMIM_ID: ['616041']
   UniProt_ID: [Q8NFU3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

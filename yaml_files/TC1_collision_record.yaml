@@ -1,29 +1,48 @@
 collision_symbol: TC1
-PPBP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPBP
   ENSG_ID: [ENSG00000163736]
   source: [NCBI Info]
   Chromosome: [4q13.3]
   NCBI Gene ID: [5473.0]
   OMIM_ID: ['121010']
   UniProt_ID: [P02775]
-SLC19A2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC19A2
   ENSG_ID: [ENSG00000117479]
   source: [NCBI Info]
   Chromosome: [1q24.2]
   NCBI Gene ID: [10560.0]
   OMIM_ID: ['603941']
   UniProt_ID: [O60779]
-TCIM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCIM
   ENSG_ID: [ENSG00000176907]
   source: [HGNC, NCBI Info]
   Chromosome: [8p11.21]
   NCBI Gene ID: [56892.0]
   OMIM_ID: ['607702']
   UniProt_ID: [Q9NR00]
-TCN1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN1
   ENSG_ID: [ENSG00000134827]
   source: [HGNC, NCBI Info]
   Chromosome: [11q12.1]
   NCBI Gene ID: [6947.0]
   OMIM_ID: ['189905']
   UniProt_ID: [P20061]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: PRO1
-LMNA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LMNA
   ENSG_ID: [ENSG00000160789]
   source: [NCBI Info, ENSG]
   Chromosome: [1q22]
   NCBI Gene ID: [4000.0]
   OMIM_ID: ['150330']
   UniProt_ID: [P02545]
-ZMPSTE24:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZMPSTE24
   ENSG_ID: [ENSG00000084073]
   source: [NCBI Info, ENSG]
   Chromosome: [1p34.2]
   NCBI Gene ID: [10269.0]
   OMIM_ID: ['606480']
   UniProt_ID: [O75844]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

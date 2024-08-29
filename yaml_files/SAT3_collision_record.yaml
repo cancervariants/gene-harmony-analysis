@@ -1,15 +1,26 @@
 collision_symbol: SAT3
-SIAT5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SIAT5
   ENSG_ID: [.nan]
   source: [HGNC]
   Chromosome: [reserved]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-ST3GAL4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ST3GAL4
   ENSG_ID: [ENSG00000110080]
   source: [HGNC]
   Chromosome: [11q24.2]
   NCBI Gene ID: [6484.0]
   OMIM_ID: ['104240']
   UniProt_ID: [Q11206]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: VPS24
-CHMP3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHMP3
   ENSG_ID: [ENSG00000115561]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [51652.0]
   OMIM_ID: ['610052']
   UniProt_ID: [Q9Y3E7]
-RNF103-CHMP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNF103-CHMP3
   ENSG_ID: [ENSG00000249884]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [100526767.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

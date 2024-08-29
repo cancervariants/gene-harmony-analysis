@@ -1,15 +1,26 @@
 collision_symbol: NS3TP1
-ASDURF:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASDURF
   ENSG_ID: [ENSG00000286053]
   source: [NCBI Info]
   Chromosome: [2q32]
   NCBI Gene ID: [110599588.0]
   OMIM_ID: ['619740']
   UniProt_ID: [L0R819]
-ASNSD1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ASNSD1
   ENSG_ID: [ENSG00000138381]
   source: [NCBI Info]
   Chromosome: [2q32.2]
   NCBI Gene ID: [54529.0]
   OMIM_ID: ['619739']
   UniProt_ID: [Q9NWL6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: TRN2
-TNPO2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TNPO2
   ENSG_ID: [ENSG00000105576]
   source: [NCBI Info]
   Chromosome: [19p13.13]
   NCBI Gene ID: [30000.0]
   OMIM_ID: ['603002']
   UniProt_ID: [O14787]
-TRN-GTT4-1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRN-GTT4-1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [1p36.13]
   NCBI Gene ID: [791226.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

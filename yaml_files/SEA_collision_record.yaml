@@ -1,15 +1,26 @@
 collision_symbol: SEA
-MST1R:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MST1R
   ENSG_ID: [ENSG00000164078]
   source: [NCBI Info]
   Chromosome: [3p21.31]
   NCBI Gene ID: [4486.0]
   OMIM_ID: ['600168']
   UniProt_ID: [Q04912]
-SLC25A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A1
   ENSG_ID: [ENSG00000100075]
   source: [NCBI Info]
   Chromosome: [22q11.21]
   NCBI Gene ID: [6576.0]
   OMIM_ID: ['190315']
   UniProt_ID: [P53007]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

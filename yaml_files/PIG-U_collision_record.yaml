@@ -1,15 +1,26 @@
 collision_symbol: PIG-U
-PIGU:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PIGU
   ENSG_ID: [ENSG00000101464]
   source: [NCBI Info]
   Chromosome: [20q11.22]
   NCBI Gene ID: [128869.0]
   OMIM_ID: ['608528']
   UniProt_ID: [Q9H490]
-TP53INP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TP53INP2
   ENSG_ID: [ENSG00000078804]
   source: [NCBI Info]
   Chromosome: [20q11.22]
   NCBI Gene ID: [58476.0]
   OMIM_ID: ['617549']
   UniProt_ID: [Q8IXH6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

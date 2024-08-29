@@ -1,15 +1,26 @@
 collision_symbol: OB
-CDH11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDH11
   ENSG_ID: [ENSG00000140937]
   source: [NCBI Info]
   Chromosome: [16q21]
   NCBI Gene ID: [1009.0]
   OMIM_ID: ['600023']
   UniProt_ID: [P55287]
-LEP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LEP
   ENSG_ID: [ENSG00000174697]
   source: [NCBI Info]
   Chromosome: [7q32.1]
   NCBI Gene ID: [3952.0]
   OMIM_ID: ['164160']
   UniProt_ID: [P41159]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: LRH-1
-NR5A2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NR5A2
   ENSG_ID: [ENSG00000116833]
   source: [HGNC, NCBI Info]
   Chromosome: [1q32.1]
   NCBI Gene ID: [2494.0]
   OMIM_ID: ['604453']
   UniProt_ID: [O00482]
-P2RX5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: P2RX5
   ENSG_ID: [ENSG00000083454]
   source: [HGNC, NCBI Info]
   Chromosome: [17p13.2]
   NCBI Gene ID: [5026.0]
   OMIM_ID: ['602836']
   UniProt_ID: [Q93086]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: CDC25L
-RASGRF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RASGRF1
   ENSG_ID: [ENSG00000058335]
   source: [NCBI Info]
   Chromosome: [15q25.1]
   NCBI Gene ID: [5923.0]
   OMIM_ID: ['606600']
   UniProt_ID: [Q13972]
-RASGRP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RASGRP2
   ENSG_ID: [ENSG00000068831]
   source: [NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [10235.0]
   OMIM_ID: ['605577']
   UniProt_ID: [Q7LDG7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

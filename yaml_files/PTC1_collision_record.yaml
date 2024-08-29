@@ -1,15 +1,26 @@
 collision_symbol: PTC1
-CCDC6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC6
   ENSG_ID: [ENSG00000108091]
   source: [NCBI Info]
   Chromosome: [10q21.2]
   NCBI Gene ID: [8030.0]
   OMIM_ID: ['601985']
   UniProt_ID: [Q16204]
-PTCH1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTCH1
   ENSG_ID: [ENSG00000185920]
   source: [NCBI Info]
   Chromosome: [9q22.32]
   NCBI Gene ID: [5727.0]
   OMIM_ID: ['601309']
   UniProt_ID: [Q13635]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

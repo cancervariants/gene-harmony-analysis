@@ -1,15 +1,26 @@
 collision_symbol: BTR
-GPR148:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPR148
   ENSG_ID: [ENSG00000173302]
   source: [NCBI Info]
   Chromosome: [2q21.1]
   NCBI Gene ID: [344561.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8TDV2]
-SKAP1-AS2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SKAP1-AS2
   ENSG_ID: [ENSG00000235300]
   source: [NCBI Info]
   Chromosome: [17q21.32]
   NCBI Gene ID: [105371807.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

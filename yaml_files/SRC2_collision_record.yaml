@@ -1,15 +1,26 @@
 collision_symbol: SRC2
-FGR:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGR
   ENSG_ID: [ENSG00000000938]
   source: [NCBI Info]
   Chromosome: [1p35.3]
   NCBI Gene ID: [2268.0]
   OMIM_ID: ['164940']
   UniProt_ID: [P09769]
-NCOA2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NCOA2
   ENSG_ID: [ENSG00000140396]
   source: [NCBI Info]
   Chromosome: [8q13.3]
   NCBI Gene ID: [10499.0]
   OMIM_ID: ['601993']
   UniProt_ID: [Q15596]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

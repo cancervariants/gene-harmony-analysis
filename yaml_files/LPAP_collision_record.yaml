@@ -1,15 +1,26 @@
 collision_symbol: LPAP
-ACP6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACP6
   ENSG_ID: [ENSG00000162836]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q21.2]
   NCBI Gene ID: [51205.0]
   OMIM_ID: ['611471']
   UniProt_ID: [Q9NPH0]
-PTPRCAP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTPRCAP
   ENSG_ID: [ENSG00000213402]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11q13.2]
   NCBI Gene ID: [5790.0]
   OMIM_ID: ['601577']
   UniProt_ID: [Q14761]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

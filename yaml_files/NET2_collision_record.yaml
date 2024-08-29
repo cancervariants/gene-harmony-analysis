@@ -1,15 +1,26 @@
 collision_symbol: NET2
-SRSF11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SRSF11
   ENSG_ID: [ENSG00000116754]
   source: [NCBI Info]
   Chromosome: [1p31.1]
   NCBI Gene ID: [9295.0]
   OMIM_ID: ['602010']
   UniProt_ID: [Q05519]
-TSPAN12:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSPAN12
   ENSG_ID: [ENSG00000106025]
   source: [NCBI Info]
   Chromosome: [7q31.31]
   NCBI Gene ID: [23554.0]
   OMIM_ID: ['613138']
   UniProt_ID: [O95859]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

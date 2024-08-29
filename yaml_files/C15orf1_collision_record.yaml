@@ -1,15 +1,26 @@
 collision_symbol: C15orf1
-ANP32A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANP32A
   ENSG_ID: [ENSG00000140350]
   source: [NCBI Info]
   Chromosome: [15q23]
   NCBI Gene ID: [8125.0]
   OMIM_ID: ['600832']
   UniProt_ID: [P39687]
-BTBD1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BTBD1
   ENSG_ID: [ENSG00000064726]
   source: [NCBI Info]
   Chromosome: [15q25.2]
   NCBI Gene ID: [53339.0]
   OMIM_ID: ['608530']
   UniProt_ID: [Q9H0C5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: PIG2
-GAMT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GAMT
   ENSG_ID: [ENSG00000130005]
   source: [NCBI Info]
   Chromosome: [19p13.3]
   NCBI Gene ID: [2593.0]
   OMIM_ID: ['601240']
   UniProt_ID: [Q14353]
-GREM1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GREM1
   ENSG_ID: [ENSG00000166923]
   source: [NCBI Info]
   Chromosome: [15q13.3]
   NCBI Gene ID: [26585.0]
   OMIM_ID: ['603054']
   UniProt_ID: [O60565]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: IFNA
-IFN1@:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFN1@
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [9p22]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-IFNA17:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IFNA17
   ENSG_ID: [ENSG00000234829]
   source: [NCBI Info]
   Chromosome: [9p21.3]
   NCBI Gene ID: [3451.0]
   OMIM_ID: ['147583']
   UniProt_ID: [P01571]
-IFNA2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IFNA2
   ENSG_ID: [ENSG00000188379]
   source: [NCBI Info]
   Chromosome: [9p21.3]
   NCBI Gene ID: [3440.0]
   OMIM_ID: ['147562']
   UniProt_ID: [P01563]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

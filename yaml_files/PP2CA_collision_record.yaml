@@ -1,15 +1,26 @@
 collision_symbol: PP2CA
-PPM1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPM1A
   ENSG_ID: [ENSG00000100614]
   source: [NCBI Info]
   Chromosome: [14q23.1]
   NCBI Gene ID: [5494.0]
   OMIM_ID: ['606108']
   UniProt_ID: [P35813]
-PPP2CA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP2CA
   ENSG_ID: [ENSG00000113575]
   source: [NCBI Info]
   Chromosome: [5q31.1]
   NCBI Gene ID: [5515.0]
   OMIM_ID: ['176915']
   UniProt_ID: [P67775]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

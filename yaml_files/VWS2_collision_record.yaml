@@ -1,15 +1,26 @@
 collision_symbol: VWS2
-CFAP57:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CFAP57
   ENSG_ID: [ENSG00000243710]
   source: [NCBI Info]
   Chromosome: [1p34.2]
   NCBI Gene ID: [149465.0]
   OMIM_ID: ['614259']
   UniProt_ID: [Q96MR6]
-GRHL3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GRHL3
   ENSG_ID: [ENSG00000158055]
   source: [NCBI Info]
   Chromosome: [1p36.11]
   NCBI Gene ID: [57822.0]
   OMIM_ID: ['608317']
   UniProt_ID: [Q8TE85]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

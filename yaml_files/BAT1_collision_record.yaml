@@ -1,22 +1,37 @@
 collision_symbol: BAT1
-DDX39A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DDX39A
   ENSG_ID: [ENSG00000123136]
   source: [NCBI Info]
   Chromosome: [19p13.12]
   NCBI Gene ID: [10212.0]
   OMIM_ID: ['619906']
   UniProt_ID: [O00148]
-DDX39B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DDX39B
   ENSG_ID: [ENSG00000198563]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.33]
   NCBI Gene ID: [7919.0]
   OMIM_ID: ['142560']
   UniProt_ID: [Q13838]
-SLC7A9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A9
   ENSG_ID: [ENSG00000021488]
   source: [NCBI Info, ENSG]
   Chromosome: [19q13.11]
   NCBI Gene ID: [11136.0]
   OMIM_ID: ['604144']
   UniProt_ID: [P82251]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

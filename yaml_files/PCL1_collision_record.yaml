@@ -1,15 +1,26 @@
 collision_symbol: PCL1
-PCYOX1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PCYOX1
   ENSG_ID: [ENSG00000116005]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p13.3]
   NCBI Gene ID: [51449.0]
   OMIM_ID: ['610995']
   UniProt_ID: [Q9UHG3]
-PHF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PHF1
   ENSG_ID: [ENSG00000112511]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p21.32]
   NCBI Gene ID: [5252.0]
   OMIM_ID: ['602881']
   UniProt_ID: [O43189]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

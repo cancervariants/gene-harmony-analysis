@@ -1,15 +1,26 @@
 collision_symbol: DADR
-DAD1P1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DAD1P1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [12p12.1]
   NCBI Gene ID: [56286.0]
   OMIM_ID: ['609860']
   UniProt_ID: [.nan]
-DRD1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DRD1
   ENSG_ID: [ENSG00000184845]
   source: [NCBI Info]
   Chromosome: [5q35.2]
   NCBI Gene ID: [1812.0]
   OMIM_ID: ['126449']
   UniProt_ID: [P21728]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

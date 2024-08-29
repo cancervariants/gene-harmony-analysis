@@ -1,15 +1,26 @@
 collision_symbol: CBWD3
-ZNG1C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZNG1C
   ENSG_ID: [ENSG00000196873]
   source: [NCBI Info]
   Chromosome: [9q21.11]
   NCBI Gene ID: [445571.0]
   OMIM_ID: ['611080']
   UniProt_ID: [Q5JTY5]
-ZNG1E:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNG1E
   ENSG_ID: [ENSG00000147996]
   source: [NCBI Info]
   Chromosome: [9q21.11]
   NCBI Gene ID: [220869.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q5RIA9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

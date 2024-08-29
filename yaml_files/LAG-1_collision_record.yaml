@@ -1,15 +1,26 @@
 collision_symbol: LAG-1
-CCL4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCL4
   ENSG_ID: [ENSG00000275302]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [6351.0]
   OMIM_ID: ['182284']
   UniProt_ID: [P13236]
-CCL4L1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCL4L1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [17q12 alternate reference locus]
   NCBI Gene ID: [388372.0]
   OMIM_ID: ['603782']
   UniProt_ID: [Q8NHW4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

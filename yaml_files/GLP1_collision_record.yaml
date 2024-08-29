@@ -1,22 +1,37 @@
 collision_symbol: GLP1
-EHMT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EHMT1
   ENSG_ID: [ENSG00000181090]
   source: [NCBI Info]
   Chromosome: [9q34.3]
   NCBI Gene ID: [79813.0]
   OMIM_ID: ['607001']
   UniProt_ID: [Q9H9B1]
-GCG:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GCG
   ENSG_ID: [ENSG00000115263]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q24.2]
   NCBI Gene ID: [2641.0]
   OMIM_ID: ['138030']
   UniProt_ID: [P01275]
-ZGLP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZGLP1
   ENSG_ID: [ENSG00000220201]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19p13.2]
   NCBI Gene ID: [100125288.0]
   OMIM_ID: ['611639']
   UniProt_ID: [P0C6A0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

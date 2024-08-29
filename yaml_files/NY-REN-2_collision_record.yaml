@@ -1,15 +1,26 @@
 collision_symbol: NY-REN-2
-YTHDF2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: YTHDF2
   ENSG_ID: [ENSG00000198492]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p35.3]
   NCBI Gene ID: [51441.0]
   OMIM_ID: ['610640']
   UniProt_ID: [Q9Y5A9]
-YTHDF2P1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: YTHDF2P1
   ENSG_ID: [ENSG00000270503, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q21.1, .nan]
   NCBI Gene ID: [400209.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: NOL1
-NOP2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NOP2
   ENSG_ID: [ENSG00000111641]
   source: [NCBI Info]
   Chromosome: [12p13.31]
   NCBI Gene ID: [4839.0]
   OMIM_ID: ['164031']
   UniProt_ID: [P46087]
-NSUN5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NSUN5
   ENSG_ID: [ENSG00000130305]
   source: [NCBI Info]
   Chromosome: [7q11.23]
   NCBI Gene ID: [55695.0]
   OMIM_ID: ['615732']
   UniProt_ID: [Q96P11]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

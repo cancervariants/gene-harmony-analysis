@@ -1,15 +1,26 @@
 collision_symbol: HRG4
-NRG4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NRG4
   ENSG_ID: [ENSG00000169752]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q24.2]
   NCBI Gene ID: [145957.0]
   OMIM_ID: ['610894']
   UniProt_ID: [Q8WWG1]
-UNC119:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UNC119
   ENSG_ID: [ENSG00000109103]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [17q11.2]
   NCBI Gene ID: [9094.0]
   OMIM_ID: ['604011']
   UniProt_ID: [Q13432]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

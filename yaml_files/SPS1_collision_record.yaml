@@ -1,15 +1,26 @@
 collision_symbol: SPS1
-SEPHS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SEPHS1
   ENSG_ID: [ENSG00000086475]
   source: [NCBI Info]
   Chromosome: [10p13]
   NCBI Gene ID: [22929.0]
   OMIM_ID: ['600902']
   UniProt_ID: [P49903]
-SRM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRM
   ENSG_ID: [ENSG00000116649]
   source: [NCBI Info]
   Chromosome: [1p36.22]
   NCBI Gene ID: [6723.0]
   OMIM_ID: ['182891']
   UniProt_ID: [P19623]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

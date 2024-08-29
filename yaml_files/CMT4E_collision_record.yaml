@@ -1,15 +1,26 @@
 collision_symbol: CMT4E
-EGR2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EGR2
   ENSG_ID: [ENSG00000122877]
   source: [NCBI Info]
   Chromosome: [10q21.3]
   NCBI Gene ID: [1959.0]
   OMIM_ID: ['129010']
   UniProt_ID: [P11161]
-MPZ:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MPZ
   ENSG_ID: [ENSG00000158887]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [4359.0]
   OMIM_ID: ['159440']
   UniProt_ID: [P25189]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

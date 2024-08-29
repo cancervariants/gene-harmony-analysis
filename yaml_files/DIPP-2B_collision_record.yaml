@@ -1,15 +1,26 @@
 collision_symbol: DIPP-2B
-NUDT4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NUDT4
   ENSG_ID: [ENSG00000173598]
   source: [NCBI Info]
   Chromosome: [12q22]
   NCBI Gene ID: [11163.0]
   OMIM_ID: ['609229']
   UniProt_ID: [Q9NZJ9]
-NUDT4B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NUDT4B
   ENSG_ID: [ENSG00000177144]
   source: [NCBI Info]
   Chromosome: [1q21.2]
   NCBI Gene ID: [440672.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A024RBG1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

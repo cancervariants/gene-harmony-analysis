@@ -1,15 +1,26 @@
 collision_symbol: MTR1
-CMTR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CMTR1
   ENSG_ID: [ENSG00000137200]
   source: [ENSG]
   Chromosome: [6p21.2]
   NCBI Gene ID: [23070.0]
   OMIM_ID: ['616189']
   UniProt_ID: [Q8N1G2]
-TRPM5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRPM5
   ENSG_ID: [ENSG00000070985]
   source: [ENSG]
   Chromosome: [11p15.5]
   NCBI Gene ID: [29850.0]
   OMIM_ID: ['604600']
   UniProt_ID: [Q9NZQ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

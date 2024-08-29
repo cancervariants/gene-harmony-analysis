@@ -1,15 +1,26 @@
 collision_symbol: DAGK5
-DGKE:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DGKE
   ENSG_ID: [ENSG00000153933]
   source: [NCBI Info]
   Chromosome: [17q22]
   NCBI Gene ID: [8526.0]
   OMIM_ID: ['601440']
   UniProt_ID: [P52429]
-DGKZ:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DGKZ
   ENSG_ID: [ENSG00000149091]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [8525.0]
   OMIM_ID: ['601441']
   UniProt_ID: [Q13574]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: RLP1
-PLAAT5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLAAT5
   ENSG_ID: [ENSG00000168004]
   source: [NCBI Info]
   Chromosome: [11q12.3]
   NCBI Gene ID: [117245.0]
   OMIM_ID: ['611474']
   UniProt_ID: [Q96KN8]
-RILPL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RILPL1
   ENSG_ID: [ENSG00000188026]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [353116.0]
   OMIM_ID: ['614092']
   UniProt_ID: [Q5EBL4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

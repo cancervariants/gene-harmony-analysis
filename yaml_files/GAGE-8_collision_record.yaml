@@ -1,22 +1,37 @@
 collision_symbol: GAGE-8
-GAGE12F:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GAGE12F
   ENSG_ID: [ENSG00000236362]
   source: [NCBI Info]
   Chromosome: [Xp11.23]
   NCBI Gene ID: [100008586.0]
   OMIM_ID: ['300730']
   UniProt_ID: [P0CL80]
-GAGE2D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE2D
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [Xp11.23 not on reference assembly]
   NCBI Gene ID: [729408.0]
   OMIM_ID: ['300735']
   UniProt_ID: [Q9UEU5]
-GAGE8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE8
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [Xp11 not on reference assembly]
   NCBI Gene ID: [100101629.0]
   OMIM_ID: ['300638']
   UniProt_ID: [Q9UEU5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

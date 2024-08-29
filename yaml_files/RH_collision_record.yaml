@@ -1,22 +1,37 @@
 collision_symbol: RH
-DDX21:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DDX21
   ENSG_ID: [ENSG00000165732]
   source: [NCBI Info]
   Chromosome: [10q22.1]
   NCBI Gene ID: [9188.0]
   OMIM_ID: ['606357']
   UniProt_ID: [Q9NR30]
-RHCE:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RHCE
   ENSG_ID: [ENSG00000188672]
   source: [NCBI Info, ENSG]
   Chromosome: [1p36.11]
   NCBI Gene ID: [6006.0]
   OMIM_ID: ['111700']
   UniProt_ID: [P18577]
-RHD:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RHD
   ENSG_ID: [ENSG00000187010]
   source: [NCBI Info, ENSG]
   Chromosome: [1p36.11]
   NCBI Gene ID: [6007.0]
   OMIM_ID: ['111680']
   UniProt_ID: [Q02161]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: PEHO
-CCDC88A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC88A
   ENSG_ID: [ENSG00000115355]
   source: [NCBI Info]
   Chromosome: [2p16.1]
   NCBI Gene ID: [55704.0]
   OMIM_ID: ['609736']
   UniProt_ID: [Q3V6T2]
-ZNHIT3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNHIT3
   ENSG_ID: [ENSG00000273611]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [9326.0]
   OMIM_ID: ['604500']
   UniProt_ID: [Q15649]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

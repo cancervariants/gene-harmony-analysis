@@ -1,15 +1,26 @@
 collision_symbol: NL2
-ANGPTL4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANGPTL4
   ENSG_ID: [ENSG00000167772]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19p13.2]
   NCBI Gene ID: [51129.0]
   OMIM_ID: ['605910']
   UniProt_ID: [Q9BY76]
-MMEL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MMEL1
   ENSG_ID: [ENSG00000142606]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.32]
   NCBI Gene ID: [79258.0]
   OMIM_ID: ['618104']
   UniProt_ID: [Q495T6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

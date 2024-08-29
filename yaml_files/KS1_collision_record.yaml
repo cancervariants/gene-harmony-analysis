@@ -1,15 +1,26 @@
 collision_symbol: KS1
-CXCL14:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCL14
   ENSG_ID: [ENSG00000145824]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q31.1]
   NCBI Gene ID: [9547.0]
   OMIM_ID: ['604186']
   UniProt_ID: [O95715]
-ZNF382:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF382
   ENSG_ID: [ENSG00000161298]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19q13.12]
   NCBI Gene ID: [84911.0]
   OMIM_ID: ['609516']
   UniProt_ID: [Q96SR6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

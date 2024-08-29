@@ -1,15 +1,26 @@
 collision_symbol: MSPS
-CKAP5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CKAP5
   ENSG_ID: [ENSG00000175216]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [9793.0]
   OMIM_ID: ['611142']
   UniProt_ID: [Q14008]
-TMPRSS13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMPRSS13
   ENSG_ID: [ENSG00000137747]
   source: [NCBI Info]
   Chromosome: [11q23.3]
   NCBI Gene ID: [84000.0]
   OMIM_ID: ['610050']
   UniProt_ID: [Q9BYE2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

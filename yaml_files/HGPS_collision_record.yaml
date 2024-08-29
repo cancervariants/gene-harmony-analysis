@@ -1,22 +1,37 @@
 collision_symbol: HGPS
-LMNA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LMNA
   ENSG_ID: [ENSG00000160789]
   source: [NCBI Info, ENSG]
   Chromosome: [1q22]
   NCBI Gene ID: [4000.0]
   OMIM_ID: ['150330']
   UniProt_ID: [P02545]
-ROBO3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ROBO3
   ENSG_ID: [ENSG00000154134]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11q24.2]
   NCBI Gene ID: [64221.0]
   OMIM_ID: ['608630']
   UniProt_ID: [Q96MS0]
-ZMPSTE24:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZMPSTE24
   ENSG_ID: [ENSG00000084073]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p34.2]
   NCBI Gene ID: [10269.0]
   OMIM_ID: ['606480']
   UniProt_ID: [O75844]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

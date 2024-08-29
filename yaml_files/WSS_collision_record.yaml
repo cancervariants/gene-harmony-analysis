@@ -1,15 +1,26 @@
 collision_symbol: WSS
-ATP6V0A2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V0A2
   ENSG_ID: [ENSG00000185344]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [23545.0]
   OMIM_ID: ['611716']
   UniProt_ID: [Q9Y487]
-NF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NF1
   ENSG_ID: [ENSG00000196712]
   source: [NCBI Info]
   Chromosome: [17q11.2]
   NCBI Gene ID: [4763.0]
   OMIM_ID: ['613113']
   UniProt_ID: [P21359]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

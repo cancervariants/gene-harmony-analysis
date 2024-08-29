@@ -1,15 +1,26 @@
 collision_symbol: EIF4A
-EIF4A1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EIF4A1
   ENSG_ID: [ENSG00000161960]
   source: [NCBI Info, ENSG]
   Chromosome: [17p13.1]
   NCBI Gene ID: [1973.0]
   OMIM_ID: ['602641']
   UniProt_ID: [P60842]
-EIF4A2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF4A2
   ENSG_ID: [ENSG00000156976]
   source: [NCBI Info, ENSG]
   Chromosome: [3q27.3]
   NCBI Gene ID: [1974.0]
   OMIM_ID: ['601102']
   UniProt_ID: [Q14240]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: C12orf2
-CSRNP2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSRNP2
   ENSG_ID: [ENSG00000110925]
   source: [NCBI Info]
   Chromosome: [12q13.12]
   NCBI Gene ID: [81566.0]
   OMIM_ID: ['620404']
   UniProt_ID: [Q9H175]
-RASSF8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RASSF8
   ENSG_ID: [ENSG00000123094]
   source: [NCBI Info]
   Chromosome: [12p12.1]
   NCBI Gene ID: [11228.0]
   OMIM_ID: ['608231']
   UniProt_ID: [Q8NHQ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

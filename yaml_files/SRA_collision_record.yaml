@@ -1,22 +1,37 @@
 collision_symbol: SRA
-APBB3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APBB3
   ENSG_ID: [ENSG00000113108]
   source: [NCBI Info]
   Chromosome: [5q31.3]
   NCBI Gene ID: [10307.0]
   OMIM_ID: ['602711']
   UniProt_ID: [O95704]
-MSR1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MSR1
   ENSG_ID: [ENSG00000038945]
   source: [NCBI Info]
   Chromosome: [8p22]
   NCBI Gene ID: [4481.0]
   OMIM_ID: ['153622']
   UniProt_ID: [P21757]
-SRA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRA1
   ENSG_ID: [ENSG00000213523]
   source: [NCBI Info]
   Chromosome: [5q31.3]
   NCBI Gene ID: [10011.0]
   OMIM_ID: ['603819']
   UniProt_ID: [Q9HD15]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

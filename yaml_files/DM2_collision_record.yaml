@@ -1,15 +1,26 @@
 collision_symbol: DM2
-CNBP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CNBP
   ENSG_ID: [ENSG00000169714]
   source: [NCBI Info]
   Chromosome: [3q21.3]
   NCBI Gene ID: [7555.0]
   OMIM_ID: ['116955']
   UniProt_ID: [P62633]
-IGHD1-14:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHD1-14
   ENSG_ID: [ENSG00000227108]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28508.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

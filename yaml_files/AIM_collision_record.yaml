@@ -1,22 +1,37 @@
 collision_symbol: AIM
-CD5L:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD5L
   ENSG_ID: [ENSG00000073754]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [922.0]
   OMIM_ID: ['602592']
   UniProt_ID: [O43866]
-CD69:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD69
   ENSG_ID: [ENSG00000110848]
   source: [NCBI Info]
   Chromosome: [12p13.31]
   NCBI Gene ID: [969.0]
   OMIM_ID: ['107273']
   UniProt_ID: [Q07108]
-DNMT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNMT1
   ENSG_ID: [ENSG00000130816]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [1786.0]
   OMIM_ID: ['126375']
   UniProt_ID: [P26358]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

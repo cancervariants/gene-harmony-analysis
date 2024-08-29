@@ -1,22 +1,37 @@
 collision_symbol: MIP2A
-CXCL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCL2
   ENSG_ID: [ENSG00000081041]
   source: [NCBI Info]
   Chromosome: [4q13.3]
   NCBI Gene ID: [2920.0]
   OMIM_ID: ['139110']
   UniProt_ID: [P19875]
-TRAPPC2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAPPC2
   ENSG_ID: [ENSG00000196459]
   source: [NCBI Info]
   Chromosome: [Xp22.2]
   NCBI Gene ID: [6399.0]
   OMIM_ID: ['300202']
   UniProt_ID: [P0DI81]
-TRAPPC2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAPPC2B
   ENSG_ID: [ENSG00000256060]
   source: [NCBI Info]
   Chromosome: [19q13.43]
   NCBI Gene ID: [10597.0]
   OMIM_ID: ['620472']
   UniProt_ID: [P0DI82]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

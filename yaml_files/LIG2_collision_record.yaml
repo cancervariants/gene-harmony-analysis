@@ -1,15 +1,26 @@
 collision_symbol: LIG2
-LIG3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LIG3
   ENSG_ID: [ENSG00000005156]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [3980.0]
   OMIM_ID: ['600940']
   UniProt_ID: [P49916]
-LRIG2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LRIG2
   ENSG_ID: [ENSG00000198799]
   source: [NCBI Info]
   Chromosome: [1p13.2]
   NCBI Gene ID: [9860.0]
   OMIM_ID: ['608869']
   UniProt_ID: [O94898]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

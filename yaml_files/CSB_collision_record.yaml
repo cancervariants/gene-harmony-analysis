@@ -1,15 +1,26 @@
 collision_symbol: CSB
-CSH2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSH2
   ENSG_ID: [ENSG00000213218]
   source: [NCBI Info, ENSG]
   Chromosome: [17q23.3]
   NCBI Gene ID: [1443.0]
   OMIM_ID: ['118820']
   UniProt_ID: [P0DML3]
-ERCC6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ERCC6
   ENSG_ID: [ENSG00000225830]
   source: [NCBI Info, ENSG]
   Chromosome: [10q11.23]
   NCBI Gene ID: [2074.0]
   OMIM_ID: ['609413']
   UniProt_ID: ['P0DP91, Q03468']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

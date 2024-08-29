@@ -1,15 +1,26 @@
 collision_symbol: PRGA
-PLGLA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLGLA
   ENSG_ID: [ENSG00000291125]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PLGLB2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLGLB2
   ENSG_ID: [ENSG00000125551]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [5342.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q02325]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

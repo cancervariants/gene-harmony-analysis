@@ -1,15 +1,26 @@
 collision_symbol: TCF-1
-HNF1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HNF1A
   ENSG_ID: [ENSG00000135100]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [6927.0]
   OMIM_ID: ['142410']
   UniProt_ID: [P20823]
-TCF7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCF7
   ENSG_ID: [ENSG00000081059]
   source: [NCBI Info]
   Chromosome: [5q31.1]
   NCBI Gene ID: [6932.0]
   OMIM_ID: ['189908']
   UniProt_ID: [P36402]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

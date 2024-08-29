@@ -1,15 +1,26 @@
 collision_symbol: SEP1
-SEPTIN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SEPTIN1
   ENSG_ID: [ENSG00000180096]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [1731.0]
   OMIM_ID: ['612897']
   UniProt_ID: [Q8WYJ6]
-XRN1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: XRN1
   ENSG_ID: [ENSG00000114127]
   source: [NCBI Info]
   Chromosome: [3q23]
   NCBI Gene ID: [54464.0]
   OMIM_ID: ['607994']
   UniProt_ID: [Q8IZH2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

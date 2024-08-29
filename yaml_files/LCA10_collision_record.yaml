@@ -1,15 +1,26 @@
 collision_symbol: LCA10
-CEP290:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEP290
   ENSG_ID: [ENSG00000198707]
   source: [NCBI Info]
   Chromosome: [12q21.32]
   NCBI Gene ID: [80184.0]
   OMIM_ID: ['610142']
   UniProt_ID: [O15078]
-L1CAM-AS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: L1CAM-AS1
   ENSG_ID: [ENSG00000273769]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [100996465.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

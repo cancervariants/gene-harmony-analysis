@@ -1,29 +1,48 @@
 collision_symbol: GCP2
-CXCL6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCL6
   ENSG_ID: [ENSG00000124875]
   source: [NCBI Info]
   Chromosome: [4q13.3]
   NCBI Gene ID: [6372.0]
   OMIM_ID: ['138965']
   UniProt_ID: [P80162]
-FOLH1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FOLH1
   ENSG_ID: [ENSG00000086205]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11p11.12]
   NCBI Gene ID: [2346.0]
   OMIM_ID: ['600934']
   UniProt_ID: [Q04609]
-GOLGA4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GOLGA4
   ENSG_ID: [ENSG00000144674]
   source: [HGNC, NCBI Info]
   Chromosome: [3p22.2]
   NCBI Gene ID: [2803.0]
   OMIM_ID: ['602509']
   UniProt_ID: [Q13439]
-TUBGCP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TUBGCP2
   ENSG_ID: [ENSG00000130640]
   source: [NCBI Info, ENSG]
   Chromosome: [10q26.3]
   NCBI Gene ID: [10844.0]
   OMIM_ID: ['617817']
   UniProt_ID: [Q9BSJ2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

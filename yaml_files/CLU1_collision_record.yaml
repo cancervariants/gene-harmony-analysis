@@ -1,15 +1,26 @@
 collision_symbol: CLU1
-CLU:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLU
   ENSG_ID: [ENSG00000120885]
   source: [NCBI Info]
   Chromosome: [8p21.1]
   NCBI Gene ID: [1191.0]
   OMIM_ID: ['185430']
   UniProt_ID: [P10909]
-CLUH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CLUH
   ENSG_ID: [ENSG00000132361]
   source: [NCBI Info]
   Chromosome: [17p13.3]
   NCBI Gene ID: [23277.0]
   OMIM_ID: ['616184']
   UniProt_ID: [O75153]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

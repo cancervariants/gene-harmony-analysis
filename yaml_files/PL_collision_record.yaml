@@ -1,29 +1,48 @@
 collision_symbol: PL
-CSH1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSH1
   ENSG_ID: [ENSG00000136488]
   source: [NCBI Info]
   Chromosome: [17q23.3]
   NCBI Gene ID: [1442.0]
   OMIM_ID: ['150200']
   UniProt_ID: [P0DML2]
-CSH2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CSH2
   ENSG_ID: [ENSG00000213218]
   source: [NCBI Info]
   Chromosome: [17q23.3]
   NCBI Gene ID: [1443.0]
   OMIM_ID: ['118820']
   UniProt_ID: [P0DML3]
-HOXA10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA10
   ENSG_ID: [ENSG00000253293]
   source: [NCBI Info]
   Chromosome: [7p15.2]
   NCBI Gene ID: [3206.0]
   OMIM_ID: ['142957']
   UniProt_ID: [P31260]
-PNLIP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PNLIP
   ENSG_ID: [ENSG00000175535]
   source: [NCBI Info]
   Chromosome: [10q25.3]
   NCBI Gene ID: [5406.0]
   OMIM_ID: ['246600']
   UniProt_ID: [P16233]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

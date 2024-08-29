@@ -1,15 +1,26 @@
 collision_symbol: AST
-GOT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GOT1
   ENSG_ID: [ENSG00000120053]
   source: [NCBI Info, ENSG]
   Chromosome: [10q24.2]
   NCBI Gene ID: [2805.0]
   OMIM_ID: ['138180']
   UniProt_ID: [P17174]
-SLC17A5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC17A5
   ENSG_ID: [ENSG00000119899]
   source: [NCBI Info, ENSG]
   Chromosome: [6q13]
   NCBI Gene ID: [26503.0]
   OMIM_ID: ['604322']
   UniProt_ID: [Q9NRA2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

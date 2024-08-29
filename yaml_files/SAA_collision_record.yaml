@@ -1,15 +1,26 @@
 collision_symbol: SAA
-SAA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SAA1
   ENSG_ID: [ENSG00000173432]
   source: [NCBI Info]
   Chromosome: [11p15.1]
   NCBI Gene ID: [6288.0]
   OMIM_ID: ['104750']
   UniProt_ID: [P0DJI8]
-SAA2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SAA2
   ENSG_ID: [ENSG00000134339]
   source: [NCBI Info]
   Chromosome: [11p15.1]
   NCBI Gene ID: [6289.0]
   OMIM_ID: ['104751']
   UniProt_ID: [P0DJI9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: T2R56
-TAS2R20:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TAS2R20
   ENSG_ID: [ENSG00000255837]
   source: [NCBI Info]
   Chromosome: [12p13.2]
   NCBI Gene ID: [259295.0]
   OMIM_ID: ['613962']
   UniProt_ID: [P59543]
-TAS2R60:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAS2R60
   ENSG_ID: [ENSG00000185899]
   source: [NCBI Info]
   Chromosome: [7q35]
   NCBI Gene ID: [338398.0]
   OMIM_ID: ['613968']
   UniProt_ID: [P59551]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

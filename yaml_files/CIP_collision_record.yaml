@@ -1,15 +1,26 @@
 collision_symbol: CIP
-AK6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AK6
   ENSG_ID: [ENSG00000085231]
   source: [NCBI Info]
   Chromosome: [5q13.2]
   NCBI Gene ID: [102157402.0]
   OMIM_ID: ['619357']
   UniProt_ID: [Q9Y3D8]
-MLIP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MLIP
   ENSG_ID: [ENSG00000146147]
   source: [NCBI Info]
   Chromosome: [6p12.1]
   NCBI Gene ID: [90523.0]
   OMIM_ID: ['614106']
   UniProt_ID: [Q5VWP3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

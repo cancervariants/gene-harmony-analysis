@@ -1,15 +1,26 @@
 collision_symbol: LAT
-ORC3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ORC3
   ENSG_ID: [ENSG00000135336]
   source: [NCBI Info]
   Chromosome: [6q15]
   NCBI Gene ID: [23595.0]
   OMIM_ID: ['604972']
   UniProt_ID: [Q9UBD5]
-SPNS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPNS1
   ENSG_ID: [ENSG00000169682]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [83985.0]
   OMIM_ID: ['612583']
   UniProt_ID: [Q9H2V7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

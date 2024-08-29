@@ -1,15 +1,26 @@
 collision_symbol: IMP
-BRAP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRAP
   ENSG_ID: [ENSG00000089234]
   source: [NCBI Info]
   Chromosome: [12q24.12]
   NCBI Gene ID: [8315.0]
   OMIM_ID: ['604986']
   UniProt_ID: [Q7Z569]
-IMPA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IMPA1
   ENSG_ID: [ENSG00000133731]
   source: [NCBI Info]
   Chromosome: [8q21.13]
   NCBI Gene ID: [3612.0]
   OMIM_ID: ['602064']
   UniProt_ID: [P29218]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

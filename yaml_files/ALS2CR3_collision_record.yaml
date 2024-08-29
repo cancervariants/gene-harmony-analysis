@@ -1,43 +1,70 @@
 collision_symbol: ALS2CR3
-MTATP6P16:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MTATP6P16
   ENSG_ID: [ENSG00000224299]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [107075158.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MTCO2P16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTCO2P16
   ENSG_ID: [ENSG00000234842]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [107075148.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MTCO3P16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTCO3P16
   ENSG_ID: [ENSG00000227736]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [107075155.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MTND3P16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTND3P16
   ENSG_ID: [ENSG00000224590]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [107075278.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MTND4LP16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTND4LP16
   ENSG_ID: [ENSG00000234731]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-TRAK2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAK2
   ENSG_ID: [ENSG00000115993]
   source: [NCBI Info]
   Chromosome: [2q33.1]
   NCBI Gene ID: [66008.0]
   OMIM_ID: ['607334']
   UniProt_ID: [O60296]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

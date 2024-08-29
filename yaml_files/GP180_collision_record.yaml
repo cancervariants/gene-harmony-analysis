@@ -1,15 +1,26 @@
 collision_symbol: GP180
-CPD:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CPD
   ENSG_ID: [ENSG00000108582]
   source: [NCBI Info]
   Chromosome: [17q11.2]
   NCBI Gene ID: [1362.0]
   OMIM_ID: ['603102']
   UniProt_ID: [O75976]
-PTPRC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTPRC
   ENSG_ID: [ENSG00000081237]
   source: [NCBI Info]
   Chromosome: [1q31.3-q32.1]
   NCBI Gene ID: [5788.0]
   OMIM_ID: ['151460']
   UniProt_ID: [P08575]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

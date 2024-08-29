@@ -1,15 +1,26 @@
 collision_symbol: IHG1
-FOXC1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FOXC1
   ENSG_ID: [ENSG00000054598]
   source: [NCBI Info]
   Chromosome: [6p25.3]
   NCBI Gene ID: [2296.0]
   OMIM_ID: ['601090']
   UniProt_ID: [Q12948]
-THG1L:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THG1L
   ENSG_ID: [ENSG00000113272]
   source: [NCBI Info]
   Chromosome: [5q33.3]
   NCBI Gene ID: [54974.0]
   OMIM_ID: ['618802']
   UniProt_ID: [Q9NWX6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

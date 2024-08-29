@@ -1,15 +1,26 @@
 collision_symbol: IPS1
-MAVS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAVS
   ENSG_ID: [ENSG00000088888]
   source: [NCBI Info]
   Chromosome: [20p13]
   NCBI Gene ID: [57506.0]
   OMIM_ID: ['609676']
   UniProt_ID: [Q7Z434]
-PPIP5K1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPIP5K1
   ENSG_ID: [ENSG00000168781]
   source: [NCBI Info]
   Chromosome: [15q15.3]
   NCBI Gene ID: [9677.0]
   OMIM_ID: ['610979']
   UniProt_ID: [Q6PFW1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

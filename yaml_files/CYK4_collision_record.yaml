@@ -1,15 +1,26 @@
 collision_symbol: CYK4
-KRT4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KRT4
   ENSG_ID: [ENSG00000170477]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3851.0]
   OMIM_ID: ['123940']
   UniProt_ID: [P19013]
-RACGAP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RACGAP1
   ENSG_ID: [ENSG00000161800]
   source: [NCBI Info]
   Chromosome: [12q13.12]
   NCBI Gene ID: [29127.0]
   OMIM_ID: ['604980']
   UniProt_ID: [Q9H0H5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

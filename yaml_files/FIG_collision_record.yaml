@@ -1,15 +1,26 @@
 collision_symbol: FIG
-DEPP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEPP1
   ENSG_ID: [ENSG00000165507]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [10q11.21]
   NCBI Gene ID: [11067.0]
   OMIM_ID: ['611309']
   UniProt_ID: [Q9NTK1]
-GOPC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GOPC
   ENSG_ID: [ENSG00000047932]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q22.1]
   NCBI Gene ID: [57120.0]
   OMIM_ID: ['606845']
   UniProt_ID: [Q9HD26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

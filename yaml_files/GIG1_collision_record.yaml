@@ -1,29 +1,48 @@
 collision_symbol: GIG1
-CCN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCN1
   ENSG_ID: [ENSG00000142871]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p22.3]
   NCBI Gene ID: [3491.0]
   OMIM_ID: ['602369']
   UniProt_ID: [O00622]
-NKG7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NKG7
   ENSG_ID: [ENSG00000105374]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.41]
   NCBI Gene ID: [4818.0]
   OMIM_ID: ['606008']
   UniProt_ID: [Q16617]
-TPP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPP1
   ENSG_ID: [ENSG00000166340]
   source: [NCBI Info]
   Chromosome: [11p15.4]
   NCBI Gene ID: [1200.0]
   OMIM_ID: ['607998']
   UniProt_ID: [O14773]
-ZNF704:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF704
   ENSG_ID: [ENSG00000164684]
   source: [ENSG]
   Chromosome: [8q21.13]
   NCBI Gene ID: [619279.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q6ZNC4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

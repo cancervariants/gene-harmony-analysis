@@ -1,15 +1,26 @@
 collision_symbol: OM
-OCM:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OCM
   ENSG_ID: [ENSG00000122543]
   source: [NCBI Info]
   Chromosome: [7p22.1]
   NCBI Gene ID: [654231.0]
   OMIM_ID: ['164795']
   UniProt_ID: [P0CE72]
-OCM2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OCM2
   ENSG_ID: [ENSG00000135175]
   source: [NCBI Info]
   Chromosome: [7q21.3]
   NCBI Gene ID: [4951.0]
   OMIM_ID: ['620522']
   UniProt_ID: [P0CE71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

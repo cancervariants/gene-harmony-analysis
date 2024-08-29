@@ -1,15 +1,26 @@
 collision_symbol: CLMF
-IL12A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IL12A
   ENSG_ID: [ENSG00000168811]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q25.33]
   NCBI Gene ID: [3592.0]
   OMIM_ID: ['161560']
   UniProt_ID: [P29459]
-IL12B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IL12B
   ENSG_ID: [ENSG00000113302]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q33.3]
   NCBI Gene ID: [3593.0]
   OMIM_ID: ['161561']
   UniProt_ID: [P29460]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

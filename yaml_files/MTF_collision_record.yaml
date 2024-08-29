@@ -1,22 +1,37 @@
 collision_symbol: MTF
-FTMT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FTMT
   ENSG_ID: [ENSG00000181867]
   source: [NCBI Info]
   Chromosome: [5q23.1]
   NCBI Gene ID: [94033.0]
   OMIM_ID: ['608847']
   UniProt_ID: [Q8N4E7]
-MELTF:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MELTF
   ENSG_ID: [ENSG00000163975]
   source: [ENSG]
   Chromosome: [3q29]
   NCBI Gene ID: [4241.0]
   OMIM_ID: ['155750']
   UniProt_ID: [P08582]
-MT1L:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MT1L
   ENSG_ID: [ENSG00000291105, ENSG00000260549]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 16q13]
   NCBI Gene ID: [.nan, 4500.0]
   OMIM_ID: [.nan, '156358']
   UniProt_ID: [.nan, Q93083]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

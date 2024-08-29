@@ -1,15 +1,26 @@
 collision_symbol: CHS1
-LYST:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LYST
   ENSG_ID: [ENSG00000143669]
   source: [NCBI Info, ENSG]
   Chromosome: [1q42.3]
   NCBI Gene ID: [1130.0]
   OMIM_ID: ['606897']
   UniProt_ID: [Q99698]
-VPS13B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VPS13B
   ENSG_ID: [ENSG00000132549]
   source: [NCBI Info, ENSG]
   Chromosome: [8q22.2]
   NCBI Gene ID: [157680.0]
   OMIM_ID: ['607817']
   UniProt_ID: [Q7Z7G8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

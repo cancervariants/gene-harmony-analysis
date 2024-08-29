@@ -1,15 +1,26 @@
 collision_symbol: C6orf126
-CLPSL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLPSL2
   ENSG_ID: [ENSG00000196748]
   source: [NCBI Info]
   Chromosome: [6p21.31]
   NCBI Gene ID: [389383.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q6UWE3]
-UQCC2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UQCC2
   ENSG_ID: [ENSG00000137288]
   source: [NCBI Info]
   Chromosome: [6p21.31]
   NCBI Gene ID: [84300.0]
   OMIM_ID: ['614461']
   UniProt_ID: [Q9BRT2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

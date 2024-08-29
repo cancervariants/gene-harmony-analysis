@@ -1,15 +1,26 @@
 collision_symbol: BCAP
-PHF11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHF11
   ENSG_ID: [ENSG00000136147]
   source: [NCBI Info, ENSG]
   Chromosome: [13q14.2]
   NCBI Gene ID: [51131.0]
   OMIM_ID: ['607796']
   UniProt_ID: [Q9UIL8]
-PIK3AP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3AP1
   ENSG_ID: [ENSG00000155629]
   source: [NCBI Info, ENSG]
   Chromosome: [10q24.1]
   NCBI Gene ID: [118788.0]
   OMIM_ID: ['607942']
   UniProt_ID: [Q6ZUJ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

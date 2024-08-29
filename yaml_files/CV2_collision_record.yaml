@@ -1,15 +1,26 @@
 collision_symbol: CV2
-BMPER:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BMPER
   ENSG_ID: [ENSG00000164619]
   source: [NCBI Info, ENSG]
   Chromosome: [7p14.3]
   NCBI Gene ID: [168667.0]
   OMIM_ID: ['608699']
   UniProt_ID: [Q8N8U9]
-DPYSL5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DPYSL5
   ENSG_ID: [ENSG00000157851]
   source: [NCBI Info, ENSG]
   Chromosome: [2p23.3]
   NCBI Gene ID: [56896.0]
   OMIM_ID: ['608383']
   UniProt_ID: [Q9BPU6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

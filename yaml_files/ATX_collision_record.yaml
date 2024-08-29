@@ -1,22 +1,37 @@
 collision_symbol: ATX
-DMBX1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DMBX1
   ENSG_ID: [ENSG00000197587]
   source: [ENSG]
   Chromosome: [1p33]
   NCBI Gene ID: [127343.0]
   OMIM_ID: ['607410']
   UniProt_ID: [Q8NFW5]
-ENPP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ENPP2
   ENSG_ID: [ENSG00000136960]
   source: [NCBI Info, ENSG]
   Chromosome: [8q24.12]
   NCBI Gene ID: [5168.0]
   OMIM_ID: ['601060']
   UniProt_ID: [Q13822]
-SMG1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMG1
   ENSG_ID: [ENSG00000157106]
   source: [NCBI Info, ENSG]
   Chromosome: [16p12.3]
   NCBI Gene ID: [23049.0]
   OMIM_ID: ['607032']
   UniProt_ID: [Q96Q15]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

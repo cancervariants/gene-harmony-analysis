@@ -1,15 +1,26 @@
 collision_symbol: CMG1
-IFT74:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFT74
   ENSG_ID: [ENSG00000096872]
   source: [ENSG]
   Chromosome: [9p21.2]
   NCBI Gene ID: [80173.0]
   OMIM_ID: ['608040']
   UniProt_ID: [Q96LB3]
-ZFP36L1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZFP36L1
   ENSG_ID: [ENSG00000185650]
   source: [ENSG]
   Chromosome: [14q24.1]
   NCBI Gene ID: [677.0]
   OMIM_ID: ['601064']
   UniProt_ID: [Q07352]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

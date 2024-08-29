@@ -1,15 +1,26 @@
 collision_symbol: GS2
-PNPLA4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PNPLA4
   ENSG_ID: [ENSG00000006757]
   source: [HGNC, NCBI Info]
   Chromosome: [Xp22.31]
   NCBI Gene ID: [8228.0]
   OMIM_ID: ['300102']
   UniProt_ID: [P41247]
-RAB27A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAB27A
   ENSG_ID: [ENSG00000069974]
   source: [HGNC, NCBI Info]
   Chromosome: [15q21.3]
   NCBI Gene ID: [5873.0]
   OMIM_ID: ['603868']
   UniProt_ID: [P51159]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: TCRAV4S1
-TRAV26-2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRAV26-2
   ENSG_ID: [ENSG00000211812]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q11.2]
   NCBI Gene ID: [28656.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J265]
-TRAV4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAV4
   ENSG_ID: [ENSG00000211778]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q11.2]
   NCBI Gene ID: [28689.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J268]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

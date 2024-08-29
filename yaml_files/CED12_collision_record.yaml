@@ -1,22 +1,37 @@
 collision_symbol: CED12
-ELMO1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ELMO1
   ENSG_ID: [ENSG00000155849]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7p14.2-p14.1]
   NCBI Gene ID: [9844.0]
   OMIM_ID: ['606420']
   UniProt_ID: [Q92556]
-ELMO2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ELMO2
   ENSG_ID: [ENSG00000062598]
   source: [NCBI Info, ENSG]
   Chromosome: [20q13.12]
   NCBI Gene ID: [63916.0]
   OMIM_ID: ['606421']
   UniProt_ID: [Q96JJ3]
-ELMO3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ELMO3
   ENSG_ID: [ENSG00000102890]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [16q22.1]
   NCBI Gene ID: [79767.0]
   OMIM_ID: ['606422']
   UniProt_ID: [Q96BJ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: FAT
-CD36:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD36
   ENSG_ID: [ENSG00000135218]
   source: [NCBI Info]
   Chromosome: [7q21.11]
   NCBI Gene ID: [948.0]
   OMIM_ID: ['173510']
   UniProt_ID: [P16671]
-FAT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAT1
   ENSG_ID: [ENSG00000083857]
   source: [NCBI Info]
   Chromosome: [4q35.2]
   NCBI Gene ID: [2195.0]
   OMIM_ID: ['600976']
   UniProt_ID: [Q14517]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: AN2
-ELP4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ELP4
   ENSG_ID: [ENSG00000109911]
   source: [NCBI Info]
   Chromosome: [11p13]
   NCBI Gene ID: [26610.0]
   OMIM_ID: ['606985']
   UniProt_ID: [Q96EB1]
-PAX6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAX6
   ENSG_ID: [ENSG00000007372]
   source: [NCBI Info]
   Chromosome: [11p13]
   NCBI Gene ID: [5080.0]
   OMIM_ID: ['607108']
   UniProt_ID: [P26367]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

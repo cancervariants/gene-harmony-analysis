@@ -1,15 +1,26 @@
 collision_symbol: CILD28
-SPAG1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPAG1
   ENSG_ID: [ENSG00000104450]
   source: [NCBI Info]
   Chromosome: [8q22.2]
   NCBI Gene ID: [6674.0]
   OMIM_ID: ['603395']
   UniProt_ID: [Q07617]
-SPAG8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPAG8
   ENSG_ID: [ENSG00000137098]
   source: [NCBI Info]
   Chromosome: [9p13.3]
   NCBI Gene ID: [26206.0]
   OMIM_ID: ['605731']
   UniProt_ID: [Q99932]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: RHBDL4
-RHBDD1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RHBDD1
   ENSG_ID: [ENSG00000144468]
   source: [NCBI Info]
   Chromosome: [2q36.3]
   NCBI Gene ID: [84236.0]
   OMIM_ID: ['617515']
   UniProt_ID: [Q8TEB9]
-RHBDL3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RHBDL3
   ENSG_ID: [ENSG00000141314]
   source: [NCBI Info]
   Chromosome: [17q11.2]
   NCBI Gene ID: [162494.0]
   OMIM_ID: ['619017']
   UniProt_ID: [P58872]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

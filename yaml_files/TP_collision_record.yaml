@@ -1,29 +1,48 @@
 collision_symbol: TP
-LCN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LCN1
   ENSG_ID: [ENSG00000160349]
   source: [NCBI Info, ENSG]
   Chromosome: [9q34.3]
   NCBI Gene ID: [3933.0]
   OMIM_ID: ['151675']
   UniProt_ID: [P31025]
-SCO2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCO2
   ENSG_ID: [ENSG00000284194]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [9997.0]
   OMIM_ID: ['604272']
   UniProt_ID: [O43819]
-TMPO:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMPO
   ENSG_ID: [ENSG00000120802]
   source: [NCBI Info, ENSG]
   Chromosome: [12q23.1]
   NCBI Gene ID: [7112.0]
   OMIM_ID: ['188380']
   UniProt_ID: ['P42166, P42167']
-TYMP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TYMP
   ENSG_ID: [ENSG00000025708]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [1890.0]
   OMIM_ID: ['131222']
   UniProt_ID: [P19971]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

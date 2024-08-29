@@ -1,15 +1,26 @@
 collision_symbol: SPG
-IFT122:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFT122
   ENSG_ID: [ENSG00000163913]
   source: [NCBI Info]
   Chromosome: [3q21.3-q22.1]
   NCBI Gene ID: [55764.0]
   OMIM_ID: ['606045']
   UniProt_ID: [Q9HBG6]
-SPG16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPG16
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [Xq11.2]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

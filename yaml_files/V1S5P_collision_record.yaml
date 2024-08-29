@@ -1,15 +1,26 @@
 collision_symbol: V1S5P
-TRGV5P:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRGV5P
   ENSG_ID: [ENSG00000228668]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7p14.1]
   NCBI Gene ID: [6979.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-TRGV6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRGV6
   ENSG_ID: [ENSG00000226212, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7p14.1, .nan]
   NCBI Gene ID: [6980.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

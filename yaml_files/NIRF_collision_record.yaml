@@ -1,15 +1,26 @@
 collision_symbol: NIRF
-IL17B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IL17B
   ENSG_ID: [ENSG00000127743]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q32]
   NCBI Gene ID: [27190.0]
   OMIM_ID: ['604627']
   UniProt_ID: [Q9UHF5]
-UHRF2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UHRF2
   ENSG_ID: [ENSG00000147854]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [9p24.1]
   NCBI Gene ID: [115426.0]
   OMIM_ID: ['615211']
   UniProt_ID: [Q96PU4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

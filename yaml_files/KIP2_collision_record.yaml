@@ -1,15 +1,26 @@
 collision_symbol: KIP2
-CDKN1C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDKN1C
   ENSG_ID: [ENSG00000129757]
   source: [NCBI Info, ENSG]
   Chromosome: [11p15.4]
   NCBI Gene ID: [1028.0]
   OMIM_ID: ['600856']
   UniProt_ID: [P49918]
-CIB2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CIB2
   ENSG_ID: [ENSG00000136425]
   source: [NCBI Info, ENSG]
   Chromosome: [15q25.1]
   NCBI Gene ID: [10518.0]
   OMIM_ID: ['605564']
   UniProt_ID: [O75838]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

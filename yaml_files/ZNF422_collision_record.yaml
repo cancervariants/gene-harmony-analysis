@@ -1,15 +1,26 @@
 collision_symbol: ZNF422
-PHF8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHF8
   ENSG_ID: [ENSG00000172943]
   source: [NCBI Info, ENSG]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [23133.0]
   OMIM_ID: ['300560']
   UniProt_ID: [Q9UPP1]
-ZNF22:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF22
   ENSG_ID: [ENSG00000165512]
   source: [NCBI Info, ENSG]
   Chromosome: [10q11.21]
   NCBI Gene ID: [7570.0]
   OMIM_ID: ['194529']
   UniProt_ID: [P17026]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: MPP
-MPHOSPH6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MPHOSPH6
   ENSG_ID: [ENSG00000135698]
   source: [NCBI Info]
   Chromosome: [16q23.3]
   NCBI Gene ID: [10200.0]
   OMIM_ID: ['605500']
   UniProt_ID: [Q99547]
-MPZ:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MPZ
   ENSG_ID: [ENSG00000158887]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [4359.0]
   OMIM_ID: ['159440']
   UniProt_ID: [P25189]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

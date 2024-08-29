@@ -1,15 +1,26 @@
 collision_symbol: DAND1
-MICOS10-NBL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MICOS10-NBL1
   ENSG_ID: [ENSG00000158747]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-NBL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NBL1
   ENSG_ID: [ENSG00000158747]
   source: [NCBI Info]
   Chromosome: [1p36.13]
   NCBI Gene ID: [4681.0]
   OMIM_ID: ['600613']
   UniProt_ID: [P41271]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: NDPP1
-CARD8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CARD8
   ENSG_ID: [ENSG00000105483]
   source: [NCBI Info]
   Chromosome: [19q13.33]
   NCBI Gene ID: [22900.0]
   OMIM_ID: ['609051']
   UniProt_ID: [Q9Y2G2]
-ENAH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ENAH
   ENSG_ID: [ENSG00000154380]
   source: [NCBI Info]
   Chromosome: [1q42.12]
   NCBI Gene ID: [55740.0]
   OMIM_ID: ['609061']
   UniProt_ID: [Q8N8S7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

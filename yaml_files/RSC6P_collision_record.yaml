@@ -1,22 +1,37 @@
 collision_symbol: Rsc6p
-SMARCD1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SMARCD1
   ENSG_ID: [ENSG00000066117]
   source: [HGNC, NCBI Info]
   Chromosome: [12q13.12]
   NCBI Gene ID: [6602.0]
   OMIM_ID: ['601735']
   UniProt_ID: [Q96GM5]
-SMARCD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMARCD2
   ENSG_ID: [ENSG00000108604]
   source: [HGNC, NCBI Info]
   Chromosome: [17q23.3]
   NCBI Gene ID: [6603.0]
   OMIM_ID: ['601736']
   UniProt_ID: [Q92925]
-SMARCD3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMARCD3
   ENSG_ID: [ENSG00000082014]
   source: [HGNC, NCBI Info]
   Chromosome: [7q36.1]
   NCBI Gene ID: [6604.0]
   OMIM_ID: ['601737']
   UniProt_ID: [Q6STE5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

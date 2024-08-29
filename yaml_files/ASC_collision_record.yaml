@@ -1,15 +1,26 @@
 collision_symbol: ASC
-PYCARD:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PYCARD
   ENSG_ID: [ENSG00000103490]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [29108.0]
   OMIM_ID: ['606838']
   UniProt_ID: [Q9ULZ3]
-STS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STS
   ENSG_ID: [ENSG00000101846]
   source: [NCBI Info]
   Chromosome: [Xp22.31]
   NCBI Gene ID: [412.0]
   OMIM_ID: ['300747']
   UniProt_ID: [P08842]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SMILE
-CREBZF:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CREBZF
   ENSG_ID: [ENSG00000137504]
   source: [HGNC, NCBI Info]
   Chromosome: [11q14.1]
   NCBI Gene ID: [58487.0]
   OMIM_ID: ['606444']
   UniProt_ID: [Q9NS37]
-TMTC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMTC3
   ENSG_ID: [ENSG00000139324]
   source: [HGNC, NCBI Info]
   Chromosome: [12q21.32]
   NCBI Gene ID: [160418.0]
   OMIM_ID: ['617218']
   UniProt_ID: [Q6ZXV5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

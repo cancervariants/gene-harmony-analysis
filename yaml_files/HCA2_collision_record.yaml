@@ -1,22 +1,37 @@
 collision_symbol: HCA2
-ADCY10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADCY10
   ENSG_ID: [ENSG00000143199]
   source: [NCBI Info]
   Chromosome: [1q24.2]
   NCBI Gene ID: [55811.0]
   OMIM_ID: ['605205']
   UniProt_ID: [Q96PN6]
-HCAR2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HCAR2
   ENSG_ID: [ENSG00000182782]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [338442.0]
   OMIM_ID: ['609163']
   UniProt_ID: [Q8TDS4]
-MAGEC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGEC3
   ENSG_ID: [ENSG00000165509]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [Xq27.2]
   NCBI Gene ID: [139081.0]
   OMIM_ID: ['300469']
   UniProt_ID: [Q8TD91]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

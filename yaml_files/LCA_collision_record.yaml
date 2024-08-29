@@ -1,22 +1,37 @@
 collision_symbol: LCA
-CLTA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLTA
   ENSG_ID: [ENSG00000122705]
   source: [NCBI Info]
   Chromosome: [9p13.3]
   NCBI Gene ID: [1211.0]
   OMIM_ID: ['118960']
   UniProt_ID: [P09496]
-GUCY2D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GUCY2D
   ENSG_ID: [ENSG00000132518]
   source: [NCBI Info, ENSG]
   Chromosome: [17p13.1]
   NCBI Gene ID: [3000.0]
   OMIM_ID: ['600179']
   UniProt_ID: [Q02846]
-PTPRC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTPRC
   ENSG_ID: [ENSG00000081237]
   source: [NCBI Info, ENSG]
   Chromosome: [1q31.3-q32.1]
   NCBI Gene ID: [5788.0]
   OMIM_ID: ['151460']
   UniProt_ID: [P08575]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

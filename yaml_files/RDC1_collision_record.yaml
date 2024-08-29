@@ -1,15 +1,26 @@
 collision_symbol: RDC1
-ACKR3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACKR3
   ENSG_ID: [ENSG00000144476]
   source: [NCBI Info, ENSG]
   Chromosome: [2q37.3]
   NCBI Gene ID: [57007.0]
   OMIM_ID: ['610376']
   UniProt_ID: [P25106]
-VIPR1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VIPR1
   ENSG_ID: [ENSG00000114812]
   source: [NCBI Info, ENSG]
   Chromosome: [3p22.1]
   NCBI Gene ID: [7433.0]
   OMIM_ID: ['192321']
   UniProt_ID: [P32241]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

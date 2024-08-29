@@ -1,15 +1,26 @@
 collision_symbol: ILFS2
-MARS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MARS1
   ENSG_ID: [ENSG00000166986]
   source: [NCBI Info]
   Chromosome: [12q13.3]
   NCBI Gene ID: [4141.0]
   OMIM_ID: ['156560']
   UniProt_ID: [P56192]
-NBAS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NBAS
   ENSG_ID: [ENSG00000151779]
   source: [NCBI Info]
   Chromosome: [2p24.3]
   NCBI Gene ID: [51594.0]
   OMIM_ID: ['608025']
   UniProt_ID: [A2RRP1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

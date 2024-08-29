@@ -1,15 +1,26 @@
 collision_symbol: CPTI-M
-CHKB-CPT1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHKB-CPT1B
   ENSG_ID: [ENSG00000254413]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [386593.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-CPT1B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CPT1B
   ENSG_ID: [ENSG00000205560]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [1375.0]
   OMIM_ID: ['601987']
   UniProt_ID: [Q92523]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: LST-1
-LST1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LST1
   ENSG_ID: [ENSG00000204482]
   source: [NCBI Info]
   Chromosome: [6p21.33]
   NCBI Gene ID: [7940.0]
   OMIM_ID: ['109170']
   UniProt_ID: [O00453]
-SLCO1B1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLCO1B1
   ENSG_ID: [ENSG00000134538]
   source: [NCBI Info]
   Chromosome: [12p12.1]
   NCBI Gene ID: [10599.0]
   OMIM_ID: ['604843']
   UniProt_ID: [Q9Y6L6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

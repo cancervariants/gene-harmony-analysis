@@ -1,15 +1,26 @@
 collision_symbol: FAP
-CEL:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEL
   ENSG_ID: [ENSG00000170835]
   source: [NCBI Info]
   Chromosome: [9q34.13]
   NCBI Gene ID: [1056.0]
   OMIM_ID: ['114840']
   UniProt_ID: [P19835]
-GLMN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GLMN
   ENSG_ID: [ENSG00000174842]
   source: [NCBI Info]
   Chromosome: [1p22.1]
   NCBI Gene ID: [11146.0]
   OMIM_ID: ['601749']
   UniProt_ID: [Q92990]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

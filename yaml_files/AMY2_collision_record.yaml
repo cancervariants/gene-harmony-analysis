@@ -1,15 +1,26 @@
 collision_symbol: AMY2
-AMY2A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AMY2A
   ENSG_ID: [ENSG00000243480]
   source: [NCBI Info, ENSG]
   Chromosome: [1p21.1]
   NCBI Gene ID: [279.0]
   OMIM_ID: ['104650']
   UniProt_ID: [P04746]
-AMY2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AMY2B
   ENSG_ID: [ENSG00000240038]
   source: [NCBI Info, ENSG]
   Chromosome: [1p21.1]
   NCBI Gene ID: [280.0]
   OMIM_ID: ['104660']
   UniProt_ID: [P19961]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

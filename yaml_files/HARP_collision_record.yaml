@@ -1,43 +1,70 @@
 collision_symbol: HARP
-ANGPTL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANGPTL2
   ENSG_ID: [ENSG00000136859]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [9q33.3]
   NCBI Gene ID: [23452.0]
   OMIM_ID: ['605001']
   UniProt_ID: [Q9UKU9]
-ANGPTL4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ANGPTL4
   ENSG_ID: [ENSG00000167772]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [51129.0]
   OMIM_ID: ['605910']
   UniProt_ID: [Q9BY76]
-ANKS4B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ANKS4B
   ENSG_ID: [ENSG00000175311]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [16p12.2]
   NCBI Gene ID: [257629.0]
   OMIM_ID: ['609901']
   UniProt_ID: [Q8N8V4]
-PANK2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PANK2
   ENSG_ID: [ENSG00000125779]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [20p13]
   NCBI Gene ID: [80025.0]
   OMIM_ID: ['606157']
   UniProt_ID: [Q9BZ23]
-PTN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTN
   ENSG_ID: [ENSG00000105894]
   source: [NCBI Info]
   Chromosome: [7q33]
   NCBI Gene ID: [5764.0]
   OMIM_ID: ['162095']
   UniProt_ID: [P21246]
-SMARCAL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMARCAL1
   ENSG_ID: [ENSG00000138375]
   source: [HGNC, NCBI Info]
   Chromosome: [2q35]
   NCBI Gene ID: [50485.0]
   OMIM_ID: ['606622']
   UniProt_ID: [Q9NZC9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

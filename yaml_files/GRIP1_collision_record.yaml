@@ -1,15 +1,26 @@
 collision_symbol: GRIP1
-LGALS12:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LGALS12
   ENSG_ID: [ENSG00000133317]
   source: [NCBI Info]
   Chromosome: [11q12.3]
   NCBI Gene ID: [85329.0]
   OMIM_ID: ['606096']
   UniProt_ID: [Q96DT0]
-NCOA2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NCOA2
   ENSG_ID: [ENSG00000140396]
   source: [NCBI Info]
   Chromosome: [8q13.3]
   NCBI Gene ID: [10499.0]
   OMIM_ID: ['601993']
   UniProt_ID: [Q15596]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

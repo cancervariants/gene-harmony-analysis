@@ -1,15 +1,26 @@
 collision_symbol: TCRAV31S1
-TRAV31:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRAV31
   ENSG_ID: [ENSG00000249048]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q11.2]
   NCBI Gene ID: [28651.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-TRAV40:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAV40
   ENSG_ID: [ENSG00000211819]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [14q11.2]
   NCBI Gene ID: [28641.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J280]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

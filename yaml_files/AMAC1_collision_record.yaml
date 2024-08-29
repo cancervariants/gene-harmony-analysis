@@ -1,15 +1,26 @@
 collision_symbol: AMAC1
-CCL18:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCL18
   ENSG_ID: [ENSG00000275385]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [6362.0]
   OMIM_ID: ['603757']
   UniProt_ID: [P55774]
-SLC35G3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC35G3
   ENSG_ID: [ENSG00000164729]
   source: [NCBI Info]
   Chromosome: [17q12]
   NCBI Gene ID: [146861.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8N808]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

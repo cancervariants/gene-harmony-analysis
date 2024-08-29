@@ -1,15 +1,26 @@
 collision_symbol: CARF
-CDKN2AIP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDKN2AIP
   ENSG_ID: [ENSG00000168564]
   source: [ENSG]
   Chromosome: [4q35.1]
   NCBI Gene ID: [55602.0]
   OMIM_ID: ['615914']
   UniProt_ID: [Q9NXV6]
-PEDS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PEDS1
   ENSG_ID: [ENSG00000240849]
   source: [ENSG]
   Chromosome: [20q13.13]
   NCBI Gene ID: [387521.0]
   OMIM_ID: ['610994']
   UniProt_ID: [A5PLL7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

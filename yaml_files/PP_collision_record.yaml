@@ -1,15 +1,26 @@
 collision_symbol: PP
-PPA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPA1
   ENSG_ID: [ENSG00000180817]
   source: [NCBI Info]
   Chromosome: [10q22.1]
   NCBI Gene ID: [5464.0]
   OMIM_ID: ['179030']
   UniProt_ID: [Q15181]
-PPY:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPY
   ENSG_ID: [ENSG00000108849]
   source: [NCBI Info]
   Chromosome: [17q21.31]
   NCBI Gene ID: [5539.0]
   OMIM_ID: ['167780']
   UniProt_ID: [P01298]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

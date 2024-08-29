@@ -1,15 +1,26 @@
 collision_symbol: C11orf4
-GPR137:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPR137
   ENSG_ID: [ENSG00000173264]
   source: [NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [56834.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q96N19]
-MRPL49:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRPL49
   ENSG_ID: [ENSG00000149792]
   source: [NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [740.0]
   OMIM_ID: ['606866']
   UniProt_ID: [Q13405]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: FH
-CFH:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CFH
   ENSG_ID: [ENSG00000000971]
   source: [NCBI Info]
   Chromosome: [1q31.3]
   NCBI Gene ID: [3075.0]
   OMIM_ID: ['134370']
   UniProt_ID: [P08603]
-LDLR:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LDLR
   ENSG_ID: [ENSG00000130164]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [3949.0]
   OMIM_ID: ['606945']
   UniProt_ID: [P01130]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

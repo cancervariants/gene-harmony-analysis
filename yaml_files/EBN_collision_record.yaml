@@ -1,15 +1,26 @@
 collision_symbol: EBN
-CHRNA4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHRNA4
   ENSG_ID: [ENSG00000101204]
   source: [NCBI Info, ENSG]
   Chromosome: [20q13.33]
   NCBI Gene ID: [1137.0]
   OMIM_ID: ['118504']
   UniProt_ID: [P43681]
-KCNQ2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNQ2
   ENSG_ID: [ENSG00000075043]
   source: [NCBI Info, ENSG]
   Chromosome: [20q13.33]
   NCBI Gene ID: [3785.0]
   OMIM_ID: ['602235']
   UniProt_ID: [O43526]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

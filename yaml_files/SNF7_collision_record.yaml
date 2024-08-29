@@ -1,15 +1,26 @@
 collision_symbol: SNF7
-CHMP4A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHMP4A
   ENSG_ID: [ENSG00000254505]
   source: [NCBI Info]
   Chromosome: [14q12]
   NCBI Gene ID: [29082.0]
   OMIM_ID: ['610051']
   UniProt_ID: [Q9BY43]
-CHMP4B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHMP4B
   ENSG_ID: [ENSG00000101421]
   source: [NCBI Info]
   Chromosome: [20q11.22]
   NCBI Gene ID: [128866.0]
   OMIM_ID: ['610897']
   UniProt_ID: [Q9H444]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: NAPOR
-CELF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CELF1
   ENSG_ID: [ENSG00000149187]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [10658.0]
   OMIM_ID: ['601074']
   UniProt_ID: [Q92879]
-CELF2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CELF2
   ENSG_ID: [ENSG00000048740]
   source: [NCBI Info]
   Chromosome: [10p14]
   NCBI Gene ID: [10659.0]
   OMIM_ID: ['602538']
   UniProt_ID: [O95319]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

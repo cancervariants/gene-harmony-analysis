@@ -1,43 +1,70 @@
 collision_symbol: p23
-CDK5R1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDK5R1
   ENSG_ID: [ENSG00000176749]
   source: [NCBI Info]
   Chromosome: [17q11.2]
   NCBI Gene ID: [8851.0]
   OMIM_ID: ['603460']
   UniProt_ID: [Q15078]
-H3P17:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3P17
   ENSG_ID: [ENSG00000248205, .nan]
   source: [HGNC, NCBI Info]
   Chromosome: [5p15.1, .nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PTGES3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTGES3
   ENSG_ID: [ENSG00000110958]
   source: [HGNC]
   Chromosome: [12q13.3]
   NCBI Gene ID: [10728.0]
   OMIM_ID: ['607061']
   UniProt_ID: [Q15185]
-TMED10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMED10
   ENSG_ID: [ENSG00000170348]
   source: [NCBI Info]
   Chromosome: [14q24.3]
   NCBI Gene ID: [10972.0]
   OMIM_ID: ['605406']
   UniProt_ID: [P49755]
-TMED10P1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMED10P1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-TPT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPT1
   ENSG_ID: [ENSG00000133112]
   source: [NCBI Info]
   Chromosome: [13q14.13]
   NCBI Gene ID: [7178.0]
   OMIM_ID: ['600763']
   UniProt_ID: [P13693]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: HC5
-CYCSP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYCSP1
   ENSG_ID: [.nan, ENSG00000271423]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan, 14q24.3]
   NCBI Gene ID: [.nan, 122950.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-PSMB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMB1
   ENSG_ID: [ENSG00000008018]
   source: [NCBI Info, ENSG]
   Chromosome: [6q27]
   NCBI Gene ID: [5689.0]
   OMIM_ID: ['602017']
   UniProt_ID: [P20618]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

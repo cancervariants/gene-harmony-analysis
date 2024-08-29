@@ -1,15 +1,26 @@
 collision_symbol: CMPD2
-SCN5A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SCN5A
   ENSG_ID: [ENSG00000183873]
   source: [NCBI Info, ENSG]
   Chromosome: [3p22.2]
   NCBI Gene ID: [6331.0]
   OMIM_ID: ['600163']
   UniProt_ID: [Q14524]
-TNNT2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNNT2
   ENSG_ID: [ENSG00000118194]
   source: [NCBI Info, ENSG]
   Chromosome: [1q32.1]
   NCBI Gene ID: [7139.0]
   OMIM_ID: ['191045']
   UniProt_ID: [P45379]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

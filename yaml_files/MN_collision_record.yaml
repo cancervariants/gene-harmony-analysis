@@ -1,15 +1,26 @@
 collision_symbol: MN
-CA9:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CA9
   ENSG_ID: [ENSG00000107159]
   source: [NCBI Info, ENSG]
   Chromosome: [9p13.3]
   NCBI Gene ID: [768.0]
   OMIM_ID: ['603179']
   UniProt_ID: [Q16790]
-GYPA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GYPA
   ENSG_ID: [ENSG00000170180]
   source: [NCBI Info, ENSG]
   Chromosome: [4q31.21]
   NCBI Gene ID: [2993.0]
   OMIM_ID: ['617922']
   UniProt_ID: [P02724]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

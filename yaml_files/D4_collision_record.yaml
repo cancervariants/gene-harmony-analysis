@@ -1,15 +1,26 @@
 collision_symbol: D4
-ARHGDIB:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARHGDIB
   ENSG_ID: [ENSG00000111348]
   source: [NCBI Info]
   Chromosome: [12p12.3]
   NCBI Gene ID: [397.0]
   OMIM_ID: ['602843']
   UniProt_ID: [P52566]
-CGAS:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CGAS
   ENSG_ID: [ENSG00000164430]
   source: [NCBI Info]
   Chromosome: [6q13]
   NCBI Gene ID: [115004.0]
   OMIM_ID: ['613973']
   UniProt_ID: [Q8N884]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

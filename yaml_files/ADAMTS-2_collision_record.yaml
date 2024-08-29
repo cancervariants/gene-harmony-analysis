@@ -1,15 +1,26 @@
 collision_symbol: ADAMTS-2
-ADAMTS2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADAMTS2
   ENSG_ID: [ENSG00000087116]
   source: [NCBI Info]
   Chromosome: [5q35.3]
   NCBI Gene ID: [9509.0]
   OMIM_ID: ['604539']
   UniProt_ID: [O95450]
-ADAMTS4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ADAMTS4
   ENSG_ID: [ENSG00000158859]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [9507.0]
   OMIM_ID: ['603876']
   UniProt_ID: [O75173]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

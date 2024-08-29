@@ -1,22 +1,37 @@
 collision_symbol: p90
-CCDC8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC8
   ENSG_ID: [ENSG00000169515]
   source: [NCBI Info]
   Chromosome: [19q13.32]
   NCBI Gene ID: [83987.0]
   OMIM_ID: ['614145']
   UniProt_ID: [Q9H0W5]
-CIP2A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CIP2A
   ENSG_ID: [ENSG00000163507]
   source: [NCBI Info]
   Chromosome: [3q13.13]
   NCBI Gene ID: [57650.0]
   OMIM_ID: ['610643']
   UniProt_ID: [Q8TCG1]
-TFRC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFRC
   ENSG_ID: [ENSG00000072274]
   source: [NCBI Info]
   Chromosome: [3q29]
   NCBI Gene ID: [7037.0]
   OMIM_ID: ['190010']
   UniProt_ID: [P02786]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

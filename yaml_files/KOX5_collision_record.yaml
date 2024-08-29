@@ -1,15 +1,26 @@
 collision_symbol: KOX5
-ZNF33A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZNF33A
   ENSG_ID: [ENSG00000189180]
   source: [NCBI Info]
   Chromosome: [10p11.1]
   NCBI Gene ID: [7581.0]
   OMIM_ID: ['194521']
   UniProt_ID: [Q06730]
-ZNF45:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF45
   ENSG_ID: [ENSG00000124459]
   source: [NCBI Info]
   Chromosome: [19q13.31]
   NCBI Gene ID: [7596.0]
   OMIM_ID: ['194554']
   UniProt_ID: [Q02386]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

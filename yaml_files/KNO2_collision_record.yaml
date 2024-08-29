@@ -1,15 +1,26 @@
 collision_symbol: KNO2
-ADAMTS18:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADAMTS18
   ENSG_ID: [ENSG00000140873]
   source: [NCBI Info]
   Chromosome: [16q23.1]
   NCBI Gene ID: [170692.0]
   OMIM_ID: ['607512']
   UniProt_ID: [Q8TE60]
-PAK2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAK2
   ENSG_ID: [ENSG00000180370]
   source: [NCBI Info]
   Chromosome: [3q29]
   NCBI Gene ID: [5062.0]
   OMIM_ID: ['605022']
   UniProt_ID: [Q13177]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

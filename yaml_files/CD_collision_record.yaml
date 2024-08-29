@@ -1,22 +1,37 @@
 collision_symbol: CD
-CELIAC2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CELIAC2
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [5q31-q33]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-CTLA4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTLA4
   ENSG_ID: [ENSG00000163599]
   source: [HGNC, NCBI Info]
   Chromosome: [2q33.2]
   NCBI Gene ID: [1493.0]
   OMIM_ID: ['123890']
   UniProt_ID: [P16410]
-NOD2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NOD2
   ENSG_ID: [ENSG00000167207]
   source: [HGNC, NCBI Info]
   Chromosome: [16q12.1]
   NCBI Gene ID: [64127.0]
   OMIM_ID: ['605956']
   UniProt_ID: [Q9HC29]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

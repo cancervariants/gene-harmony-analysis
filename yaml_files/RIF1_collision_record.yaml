@@ -1,15 +1,26 @@
 collision_symbol: RIF1
-INSL6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: INSL6
   ENSG_ID: [ENSG00000120210]
   source: [HGNC, NCBI Info]
   Chromosome: [9p24.1]
   NCBI Gene ID: [11172.0]
   OMIM_ID: ['606414']
   UniProt_ID: [Q9Y581]
-LRIF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LRIF1
   ENSG_ID: [ENSG00000121931]
   source: [HGNC, NCBI Info]
   Chromosome: [1p13.3]
   NCBI Gene ID: [55791.0]
   OMIM_ID: ['615354']
   UniProt_ID: [Q5T3J3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

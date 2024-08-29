@@ -1,15 +1,26 @@
 collision_symbol: PAD1
-PADI1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PADI1
   ENSG_ID: [ENSG00000142623]
   source: [NCBI Info]
   Chromosome: [1p36.13]
   NCBI Gene ID: [29943.0]
   OMIM_ID: ['607934']
   UniProt_ID: [Q9ULC6]
-PSMD14:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD14
   ENSG_ID: [ENSG00000115233]
   source: [NCBI Info]
   Chromosome: [2q24.2]
   NCBI Gene ID: [10213.0]
   OMIM_ID: ['607173']
   UniProt_ID: [O00487]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

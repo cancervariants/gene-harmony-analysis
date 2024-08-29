@@ -1,22 +1,37 @@
 collision_symbol: CHD5
-CHD6:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHD6
   ENSG_ID: [ENSG00000124177]
   source: [NCBI Info, ENSG]
   Chromosome: [20q12]
   NCBI Gene ID: [84181.0]
   OMIM_ID: ['616114']
   UniProt_ID: [Q8TD26]
-GET1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GET1
   ENSG_ID: [ENSG00000182093]
   source: [NCBI Info, ENSG]
   Chromosome: [21q22.2]
   NCBI Gene ID: [7485.0]
   OMIM_ID: ['602915']
   UniProt_ID: [O00258]
-KALRN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KALRN
   ENSG_ID: [ENSG00000160145]
   source: [NCBI Info]
   Chromosome: [3q21.1-q21.2]
   NCBI Gene ID: [8997.0]
   OMIM_ID: ['604605']
   UniProt_ID: [O60229]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: CDR
-AKR1C4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AKR1C4
   ENSG_ID: [ENSG00000198610]
   source: [NCBI Info, ENSG]
   Chromosome: [10p15.1]
   NCBI Gene ID: [1109.0]
   OMIM_ID: ['600451']
   UniProt_ID: [P17516]
-CDR1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDR1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RUNX1T1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUNX1T1
   ENSG_ID: [ENSG00000079102]
   source: [NCBI Info, ENSG]
   Chromosome: [8q21.3]
   NCBI Gene ID: [862.0]
   OMIM_ID: ['133435']
   UniProt_ID: [Q06455]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

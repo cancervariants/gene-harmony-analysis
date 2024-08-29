@@ -1,15 +1,26 @@
 collision_symbol: OR19-5
-OR1M1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OR1M1
   ENSG_ID: [ENSG00000170929]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [125963.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8NGA1]
-OR7C1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR7C1
   ENSG_ID: [ENSG00000127530]
   source: [NCBI Info]
   Chromosome: [19p13.1]
   NCBI Gene ID: [26664.0]
   OMIM_ID: [.nan]
   UniProt_ID: [O76099]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SA
-ACSM3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACSM3
   ENSG_ID: [ENSG00000005187]
   source: [NCBI Info]
   Chromosome: [16p12.3]
   NCBI Gene ID: [6296.0]
   OMIM_ID: ['145505']
   UniProt_ID: [Q53FZ2]
-RPSA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPSA
   ENSG_ID: [ENSG00000168028]
   source: [NCBI Info]
   Chromosome: [3p22.1]
   NCBI Gene ID: [3921.0]
   OMIM_ID: ['150370']
   UniProt_ID: [P08865]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

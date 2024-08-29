@@ -1,15 +1,26 @@
 collision_symbol: PXMP1
-ABCD3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCD3
   ENSG_ID: [ENSG00000117528]
   source: [NCBI Info, ENSG]
   Chromosome: [1p21.3]
   NCBI Gene ID: [5825.0]
   OMIM_ID: ['170995']
   UniProt_ID: [P28288]
-PEX19:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PEX19
   ENSG_ID: [ENSG00000162735]
   source: [NCBI Info, ENSG]
   Chromosome: [1q23.2]
   NCBI Gene ID: [5824.0]
   OMIM_ID: ['600279']
   UniProt_ID: [P40855]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

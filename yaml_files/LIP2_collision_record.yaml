@@ -1,22 +1,37 @@
 collision_symbol: LIP2
-ANXA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANXA2
   ENSG_ID: [ENSG00000182718]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q22.2]
   NCBI Gene ID: [302.0]
   OMIM_ID: ['151740']
   UniProt_ID: [P07355]
-ANXA2P3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ANXA2P3
   ENSG_ID: [ENSG00000216740, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [10q21.3, .nan]
   NCBI Gene ID: [305.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-MRPL17:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRPL17
   ENSG_ID: [ENSG00000158042]
   source: [NCBI Info]
   Chromosome: [11p15.4]
   NCBI Gene ID: [63875.0]
   OMIM_ID: ['611830']
   UniProt_ID: [Q9NRX2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

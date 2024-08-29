@@ -1,15 +1,26 @@
 collision_symbol: SCN1
-ELANE:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ELANE
   ENSG_ID: [ENSG00000197561]
   source: [NCBI Info]
   Chromosome: [19p13.3]
   NCBI Gene ID: [1991.0]
   OMIM_ID: ['130130']
   UniProt_ID: [P08246]
-SCN1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCN1A
   ENSG_ID: [ENSG00000144285]
   source: [NCBI Info]
   Chromosome: [2q24.3]
   NCBI Gene ID: [6323.0]
   OMIM_ID: ['182389']
   UniProt_ID: [P35498]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

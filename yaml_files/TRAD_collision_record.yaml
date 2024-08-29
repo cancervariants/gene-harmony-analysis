@@ -1,15 +1,26 @@
 collision_symbol: TRAD
-KALRN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KALRN
   ENSG_ID: [ENSG00000160145]
   source: [NCBI Info, ENSG]
   Chromosome: [3q21.1-q21.2]
   NCBI Gene ID: [8997.0]
   OMIM_ID: ['604605']
   UniProt_ID: [O60229]
-RAD51D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAD51D
   ENSG_ID: [ENSG00000185379]
   source: [NCBI Info, ENSG]
   Chromosome: [17q12]
   NCBI Gene ID: [5892.0]
   OMIM_ID: ['602954']
   UniProt_ID: [O75771]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

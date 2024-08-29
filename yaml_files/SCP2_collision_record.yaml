@@ -1,15 +1,26 @@
 collision_symbol: SCP2
-CTDSP2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTDSP2
   ENSG_ID: [ENSG00000175215]
   source: [NCBI Info]
   Chromosome: [12q14.1]
   NCBI Gene ID: [10106.0]
   OMIM_ID: ['608711']
   UniProt_ID: [O14595]
-SYCP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SYCP2
   ENSG_ID: [ENSG00000196074]
   source: [NCBI Info]
   Chromosome: [20q13.33]
   NCBI Gene ID: [10388.0]
   OMIM_ID: ['604105']
   UniProt_ID: [Q9BX26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

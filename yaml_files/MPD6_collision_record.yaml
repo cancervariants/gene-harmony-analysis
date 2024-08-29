@@ -1,15 +1,26 @@
 collision_symbol: MPD6
-ACTN2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACTN2
   ENSG_ID: [ENSG00000077522]
   source: [NCBI Info]
   Chromosome: [1q43]
   NCBI Gene ID: [88.0]
   OMIM_ID: ['102573']
   UniProt_ID: [P35609]
-LUZP6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LUZP6
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [7q33]
   NCBI Gene ID: [767558.0]
   OMIM_ID: ['611050']
   UniProt_ID: [Q538Z0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

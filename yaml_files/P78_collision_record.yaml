@@ -1,15 +1,26 @@
 collision_symbol: P78
-MCRS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MCRS1
   ENSG_ID: [ENSG00000187778]
   source: [NCBI Info]
   Chromosome: [12q13.12]
   NCBI Gene ID: [10445.0]
   OMIM_ID: ['609504']
   UniProt_ID: [Q96EZ8]
-MED25:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MED25
   ENSG_ID: [ENSG00000104973]
   source: [NCBI Info]
   Chromosome: [19q13.33]
   NCBI Gene ID: [81857.0]
   OMIM_ID: ['610197']
   UniProt_ID: [Q71SY5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

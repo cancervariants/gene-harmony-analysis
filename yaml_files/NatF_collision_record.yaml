@@ -1,15 +1,26 @@
 collision_symbol: NatF
-NAA60:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NAA60
   ENSG_ID: [ENSG00000122390]
   source: [NCBI Info]
   Chromosome: [16p13.3]
   NCBI Gene ID: [79903.0]
   OMIM_ID: ['614246']
   UniProt_ID: [Q9H7X0]
-ZNF644:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF644
   ENSG_ID: [ENSG00000122482]
   source: [NCBI Info]
   Chromosome: [1p22.2]
   NCBI Gene ID: [84146.0]
   OMIM_ID: ['614159']
   UniProt_ID: [Q9H582]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

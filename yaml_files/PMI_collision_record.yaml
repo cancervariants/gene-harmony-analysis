@@ -1,22 +1,37 @@
 collision_symbol: PMI
-MPI:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MPI
   ENSG_ID: [ENSG00000178802]
   source: [NCBI Info]
   Chromosome: [15q24.1]
   NCBI Gene ID: [4351.0]
   OMIM_ID: ['154550']
   UniProt_ID: [P34949]
-PMM2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PMM2
   ENSG_ID: [ENSG00000140650]
   source: [NCBI Info, ENSG]
   Chromosome: [16p13.2]
   NCBI Gene ID: [5373.0]
   OMIM_ID: ['601785']
   UniProt_ID: [O15305]
-TMEM11:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM11
   ENSG_ID: [ENSG00000178307]
   source: [NCBI Info, ENSG]
   Chromosome: [17p11.2]
   NCBI Gene ID: [8834.0]
   OMIM_ID: ['618817']
   UniProt_ID: [P17152]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

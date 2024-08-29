@@ -1,15 +1,26 @@
 collision_symbol: FBX30
-FBXO44:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXO44
   ENSG_ID: [ENSG00000132879]
   source: [NCBI Info, ENSG]
   Chromosome: [1p36.22]
   NCBI Gene ID: [93611.0]
   OMIM_ID: ['609111']
   UniProt_ID: [Q9H4M3]
-FBXW7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBXW7
   ENSG_ID: [ENSG00000109670]
   source: [NCBI Info, ENSG]
   Chromosome: [4q31.3]
   NCBI Gene ID: [55294.0]
   OMIM_ID: ['606278']
   UniProt_ID: [Q969H0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

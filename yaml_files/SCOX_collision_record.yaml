@@ -1,15 +1,26 @@
 collision_symbol: SCOX
-ACOX1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACOX1
   ENSG_ID: [ENSG00000161533]
   source: [NCBI Info]
   Chromosome: [17q25.1]
   NCBI Gene ID: [51.0]
   OMIM_ID: ['609751']
   UniProt_ID: [Q15067]
-SCP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCP2
   ENSG_ID: [ENSG00000116171]
   source: [NCBI Info]
   Chromosome: [1p32.3]
   NCBI Gene ID: [6342.0]
   OMIM_ID: ['184755']
   UniProt_ID: [P22307]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

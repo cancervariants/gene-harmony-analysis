@@ -1,15 +1,26 @@
 collision_symbol: NR6
-CLCF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLCF1
   ENSG_ID: [ENSG00000175505]
   source: [NCBI Info]
   Chromosome: [11q13.2]
   NCBI Gene ID: [23529.0]
   OMIM_ID: ['607672']
   UniProt_ID: [Q9UBD9]
-CRLF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRLF1
   ENSG_ID: [ENSG00000006016]
   source: [NCBI Info]
   Chromosome: [19p12]
   NCBI Gene ID: [9244.0]
   OMIM_ID: ['604237']
   UniProt_ID: [O75462]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

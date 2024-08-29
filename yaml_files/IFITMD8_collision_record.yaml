@@ -1,15 +1,26 @@
 collision_symbol: IFITMD8
-PRRT1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRRT1B
   ENSG_ID: [ENSG00000283526]
   source: [NCBI Info]
   Chromosome: [9q34.13]
   NCBI Gene ID: [642515.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A1B0GWB2]
-TMEM265:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM265
   ENSG_ID: [ENSG00000281991]
   source: [NCBI Info]
   Chromosome: [16p11.2]
   NCBI Gene ID: [100862671.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A087WTH1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

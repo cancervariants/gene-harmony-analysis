@@ -1,15 +1,26 @@
 collision_symbol: HPR1
-HPSE:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HPSE
   ENSG_ID: [ENSG00000173083]
   source: [NCBI Info]
   Chromosome: [4q21.23]
   NCBI Gene ID: [10855.0]
   OMIM_ID: ['604724']
   UniProt_ID: [Q9Y251]
-THOC1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THOC1
   ENSG_ID: [ENSG00000079134]
   source: [NCBI Info]
   Chromosome: [18p11.32]
   NCBI Gene ID: [9984.0]
   OMIM_ID: ['606930']
   UniProt_ID: [Q96FV9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

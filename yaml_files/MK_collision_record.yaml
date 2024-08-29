@@ -1,22 +1,37 @@
 collision_symbol: MK
-ATP7A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP7A
   ENSG_ID: [ENSG00000165240]
   source: [NCBI Info]
   Chromosome: [Xq21.1]
   NCBI Gene ID: [538.0]
   OMIM_ID: ['300011']
   UniProt_ID: [Q04656]
-MDK:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MDK
   ENSG_ID: [ENSG00000110492]
   source: [NCBI Info, ENSG]
   Chromosome: [11p11.2]
   NCBI Gene ID: [4192.0]
   OMIM_ID: ['162096']
   UniProt_ID: [P21741]
-MVK:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MVK
   ENSG_ID: [ENSG00000110921]
   source: [NCBI Info, ENSG]
   Chromosome: [12q24.11]
   NCBI Gene ID: [4598.0]
   OMIM_ID: ['251170']
   UniProt_ID: [Q03426]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

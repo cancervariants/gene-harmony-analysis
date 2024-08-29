@@ -1,15 +1,26 @@
 collision_symbol: PACER
-PACERR:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PACERR
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RUBCNL:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUBCNL
   ENSG_ID: [ENSG00000102445]
   source: [NCBI Info]
   Chromosome: [13q14.13]
   NCBI Gene ID: [80183.0]
   OMIM_ID: ['620175']
   UniProt_ID: [Q9H714]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: NPYR
-CXCR4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCR4
   ENSG_ID: [ENSG00000121966]
   source: [NCBI Info]
   Chromosome: [2q22.1]
   NCBI Gene ID: [7852.0]
   OMIM_ID: ['162643']
   UniProt_ID: [P61073]
-NPY1R:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NPY1R
   ENSG_ID: [ENSG00000164128]
   source: [NCBI Info]
   Chromosome: [4q32.2]
   NCBI Gene ID: [4886.0]
   OMIM_ID: ['162641']
   UniProt_ID: [P25929]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

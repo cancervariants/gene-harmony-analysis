@@ -1,15 +1,26 @@
 collision_symbol: PSBG-11
-PSG11:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PSG11
   ENSG_ID: [ENSG00000243130]
   source: [NCBI Info]
   Chromosome: [19q13.31]
   NCBI Gene ID: [5680.0]
   OMIM_ID: ['176401']
   UniProt_ID: [Q9UQ72]
-PSG9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSG9
   ENSG_ID: [ENSG00000183668]
   source: [NCBI Info]
   Chromosome: [19q13.31]
   NCBI Gene ID: [5678.0]
   OMIM_ID: ['176398']
   UniProt_ID: [Q00887]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

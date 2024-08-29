@@ -1,15 +1,26 @@
 collision_symbol: KAT1
-HAT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HAT1
   ENSG_ID: [ENSG00000128708]
   source: [NCBI Info]
   Chromosome: [2q31.1]
   NCBI Gene ID: [8520.0]
   OMIM_ID: ['603053']
   UniProt_ID: [O14929]
-KYAT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KYAT1
   ENSG_ID: [ENSG00000171097]
   source: [NCBI Info]
   Chromosome: [9q34.11]
   NCBI Gene ID: [883.0]
   OMIM_ID: ['600547']
   UniProt_ID: [Q16773]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

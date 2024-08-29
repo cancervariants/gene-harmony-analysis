@@ -1,22 +1,37 @@
 collision_symbol: CDD
-CDA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDA
   ENSG_ID: [ENSG00000158825]
   source: [NCBI Info]
   Chromosome: [1p36.12]
   NCBI Gene ID: [978.0]
   OMIM_ID: ['123920']
   UniProt_ID: [P32320]
-NPPA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NPPA
   ENSG_ID: [ENSG00000175206]
   source: [NCBI Info]
   Chromosome: [1p36.22]
   NCBI Gene ID: [4878.0]
   OMIM_ID: ['108780']
   UniProt_ID: [P01160]
-SOST:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SOST
   ENSG_ID: [ENSG00000167941]
   source: [NCBI Info]
   Chromosome: [17q21.31]
   NCBI Gene ID: [50964.0]
   OMIM_ID: ['605740']
   UniProt_ID: [Q9BQB4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

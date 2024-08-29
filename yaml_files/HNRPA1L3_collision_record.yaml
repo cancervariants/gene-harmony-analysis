@@ -1,15 +1,26 @@
 collision_symbol: HNRPA1L3
-HNRNPA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HNRNPA1
   ENSG_ID: [ENSG00000135486]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3178.0]
   OMIM_ID: ['164017']
   UniProt_ID: [P09651]
-HNRNPA1P7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HNRNPA1P7
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

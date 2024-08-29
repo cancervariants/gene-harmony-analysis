@@ -1,15 +1,26 @@
 collision_symbol: LASS1
-CERS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CERS1
   ENSG_ID: [ENSG00000223802]
   source: [NCBI Info]
   Chromosome: [19p13.11]
   NCBI Gene ID: [10715.0]
   OMIM_ID: ['606919']
   UniProt_ID: [P27544]
-GDF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GDF1
   ENSG_ID: [ENSG00000130283]
   source: [NCBI Info]
   Chromosome: [19p13.11]
   NCBI Gene ID: [2657.0]
   OMIM_ID: ['602880']
   UniProt_ID: [P27539]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

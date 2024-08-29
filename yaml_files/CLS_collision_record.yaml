@@ -1,15 +1,26 @@
 collision_symbol: CLS
-CRLS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRLS1
   ENSG_ID: [ENSG00000088766]
   source: [NCBI Info]
   Chromosome: [20p12.3]
   NCBI Gene ID: [54675.0]
   OMIM_ID: ['608188']
   UniProt_ID: [Q9UJA2]
-RPS6KA3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPS6KA3
   ENSG_ID: [ENSG00000177189]
   source: [NCBI Info]
   Chromosome: [Xp22.12]
   NCBI Gene ID: [6197.0]
   OMIM_ID: ['300075']
   UniProt_ID: [P51812]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

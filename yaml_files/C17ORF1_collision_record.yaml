@@ -1,15 +1,26 @@
 collision_symbol: C17ORF1
-FBXW10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXW10
   ENSG_ID: [ENSG00000171931]
   source: [ENSG]
   Chromosome: [17p11.2]
   NCBI Gene ID: [10517.0]
   OMIM_ID: ['611679']
   UniProt_ID: [Q5XX13]
-FMNL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FMNL1
   ENSG_ID: [ENSG00000184922]
   source: [ENSG]
   Chromosome: [17q21.31]
   NCBI Gene ID: [752.0]
   OMIM_ID: ['604656']
   UniProt_ID: [O95466]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

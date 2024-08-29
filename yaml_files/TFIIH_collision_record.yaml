@@ -1,50 +1,81 @@
 collision_symbol: TFIIH
-ERCC2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ERCC2
   ENSG_ID: [ENSG00000104884]
   source: [NCBI Info]
   Chromosome: [19q13.32]
   NCBI Gene ID: [2068.0]
   OMIM_ID: ['126340']
   UniProt_ID: [P18074]
-ERCC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ERCC3
   ENSG_ID: [ENSG00000163161]
   source: [NCBI Info]
   Chromosome: [2q14.3]
   NCBI Gene ID: [2071.0]
   OMIM_ID: ['133510']
   UniProt_ID: [P19447]
-GTF2H1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2H1
   ENSG_ID: [ENSG00000110768]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11p15.1]
   NCBI Gene ID: [2965.0]
   OMIM_ID: ['189972']
   UniProt_ID: [P32780]
-GTF2H2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2H2
   ENSG_ID: [ENSG00000145736]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q13.2]
   NCBI Gene ID: [2966.0]
   OMIM_ID: ['601748']
   UniProt_ID: [Q13888]
-GTF2H3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2H3
   ENSG_ID: [ENSG00000111358]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [2967.0]
   OMIM_ID: ['601750']
   UniProt_ID: [Q13889]
-GTF2H4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2H4
   ENSG_ID: [ENSG00000213780]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p21.33]
   NCBI Gene ID: [2968.0]
   OMIM_ID: ['601760']
   UniProt_ID: [Q92759]
-GTF2H5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2H5
   ENSG_ID: [ENSG00000272047]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q25.3]
   NCBI Gene ID: [404672.0]
   OMIM_ID: ['608780']
   UniProt_ID: [Q6ZYL4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

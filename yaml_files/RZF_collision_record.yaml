@@ -1,15 +1,26 @@
 collision_symbol: RZF
-RNF13:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNF13
   ENSG_ID: [ENSG00000082996]
   source: [NCBI Info]
   Chromosome: [3q25.1]
   NCBI Gene ID: [11342.0]
   OMIM_ID: ['609247']
   UniProt_ID: [O43567]
-ZNF385A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF385A
   ENSG_ID: [ENSG00000161642]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [25946.0]
   OMIM_ID: ['609124']
   UniProt_ID: [Q96PM9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

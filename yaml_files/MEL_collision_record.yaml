@@ -1,15 +1,26 @@
 collision_symbol: MEL
-MAP2K1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAP2K1
   ENSG_ID: [ENSG00000169032]
   source: [NCBI Info]
   Chromosome: [15q22.31]
   NCBI Gene ID: [5604.0]
   OMIM_ID: ['176872']
   UniProt_ID: [Q02750]
-RAB8A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAB8A
   ENSG_ID: [ENSG00000167461]
   source: [NCBI Info]
   Chromosome: [19p13.11]
   NCBI Gene ID: [4218.0]
   OMIM_ID: ['165040']
   UniProt_ID: [P61006]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

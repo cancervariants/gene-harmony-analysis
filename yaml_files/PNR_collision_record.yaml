@@ -1,15 +1,26 @@
 collision_symbol: PNR
-NR2E3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NR2E3
   ENSG_ID: [ENSG00000278570]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q23]
   NCBI Gene ID: [10002.0]
   OMIM_ID: ['604485']
   UniProt_ID: [Q9Y5X4]
-TAAR5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAAR5
   ENSG_ID: [ENSG00000135569]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q23.2]
   NCBI Gene ID: [9038.0]
   OMIM_ID: ['607405']
   UniProt_ID: [O14804]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

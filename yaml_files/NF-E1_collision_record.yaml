@@ -1,15 +1,26 @@
 collision_symbol: NF-E1
-GATA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GATA1
   ENSG_ID: [ENSG00000102145]
   source: [NCBI Info, ENSG]
   Chromosome: [Xp11.23]
   NCBI Gene ID: [2623.0]
   OMIM_ID: ['305371']
   UniProt_ID: [P15976]
-YY1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: YY1
   ENSG_ID: [ENSG00000100811]
   source: [NCBI Info, ENSG]
   Chromosome: [14q32.2]
   NCBI Gene ID: [7528.0]
   OMIM_ID: ['600013']
   UniProt_ID: [P25490]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

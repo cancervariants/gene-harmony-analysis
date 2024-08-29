@@ -1,15 +1,26 @@
 collision_symbol: PIT-1
-POU1F1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POU1F1
   ENSG_ID: [ENSG00000064835]
   source: [ENSG]
   Chromosome: [3p11.2]
   NCBI Gene ID: [5449.0]
   OMIM_ID: ['173110']
   UniProt_ID: [P28069]
-SLC20A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC20A1
   ENSG_ID: [ENSG00000144136]
   source: [ENSG]
   Chromosome: [2q14.1]
   NCBI Gene ID: [6574.0]
   OMIM_ID: ['137570']
   UniProt_ID: [Q8WUM9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: CAV
-CA5A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CA5A
   ENSG_ID: [ENSG00000174990]
   source: [HGNC, NCBI Info]
   Chromosome: [16q24.2]
   NCBI Gene ID: [763.0]
   OMIM_ID: ['114761']
   UniProt_ID: [P35218]
-CAV1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAV1
   ENSG_ID: [ENSG00000105974]
   source: [ENSG]
   Chromosome: [7q31.2]
   NCBI Gene ID: [857.0]
   OMIM_ID: ['601047']
   UniProt_ID: [Q03135]
-CAV2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAV2
   ENSG_ID: [ENSG00000105971]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7q31.2]
   NCBI Gene ID: [858.0]
   OMIM_ID: ['601048']
   UniProt_ID: [P51636]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

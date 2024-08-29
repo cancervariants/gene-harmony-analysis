@@ -1,15 +1,26 @@
 collision_symbol: AVP
-IFNAR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFNAR1
   ENSG_ID: [ENSG00000142166]
   source: [NCBI Info]
   Chromosome: [21q22.11]
   NCBI Gene ID: [3454.0]
   OMIM_ID: ['107450']
   UniProt_ID: [P17181]
-NLRP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NLRP3
   ENSG_ID: [ENSG00000162711]
   source: [NCBI Info]
   Chromosome: [1q44]
   NCBI Gene ID: [114548.0]
   OMIM_ID: ['606416']
   UniProt_ID: [Q96P20]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

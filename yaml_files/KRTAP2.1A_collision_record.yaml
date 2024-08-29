@@ -1,15 +1,26 @@
 collision_symbol: KRTAP2.1A
-KRTAP2-1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KRTAP2-1
   ENSG_ID: [ENSG00000212725]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [81872.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9BYU5]
-KRTAP2-2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRTAP2-2
   ENSG_ID: [ENSG00000214518]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [728279.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9BYT5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

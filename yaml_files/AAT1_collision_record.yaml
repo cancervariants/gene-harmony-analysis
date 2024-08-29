@@ -1,15 +1,26 @@
 collision_symbol: AAT1
-CFAP91:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CFAP91
   ENSG_ID: [ENSG00000183833]
   source: [NCBI Info]
   Chromosome: [3q13.33]
   NCBI Gene ID: [89876.0]
   OMIM_ID: ['609910']
   UniProt_ID: [Q7Z4T9]
-GPT:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GPT
   ENSG_ID: [ENSG00000167701]
   source: [NCBI Info]
   Chromosome: [8q24.3]
   NCBI Gene ID: [2875.0]
   OMIM_ID: ['138200']
   UniProt_ID: [P24298]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

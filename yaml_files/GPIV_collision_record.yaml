@@ -1,15 +1,26 @@
 collision_symbol: GPIV
-CD36:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD36
   ENSG_ID: [ENSG00000135218]
   source: [NCBI Info]
   Chromosome: [7q21.11]
   NCBI Gene ID: [948.0]
   OMIM_ID: ['173510']
   UniProt_ID: [P16671]
-GP6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GP6
   ENSG_ID: [ENSG00000088053]
   source: [NCBI Info]
   Chromosome: [19q13.42]
   NCBI Gene ID: [51206.0]
   OMIM_ID: ['605546']
   UniProt_ID: [Q9HCN6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

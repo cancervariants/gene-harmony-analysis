@@ -1,15 +1,26 @@
 collision_symbol: TCI
-LXN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LXN
   ENSG_ID: [ENSG00000079257]
   source: [NCBI Info]
   Chromosome: [3q25.32]
   NCBI Gene ID: [56925.0]
   OMIM_ID: ['609305']
   UniProt_ID: [Q9BS40]
-TCN1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN1
   ENSG_ID: [ENSG00000134827]
   source: [NCBI Info]
   Chromosome: [11q12.1]
   NCBI Gene ID: [6947.0]
   OMIM_ID: ['189905']
   UniProt_ID: [P20061]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

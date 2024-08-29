@@ -1,15 +1,26 @@
 collision_symbol: CT1.2
-MAGEA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAGEA2
   ENSG_ID: [ENSG00000268606]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [4101.0]
   OMIM_ID: ['300173']
   UniProt_ID: [P43356]
-MAGEA2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGEA2B
   ENSG_ID: [ENSG00000183305]
   source: [NCBI Info]
   Chromosome: [Xq28]
   NCBI Gene ID: [266740.0]
   OMIM_ID: ['300549']
   UniProt_ID: [P43356]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

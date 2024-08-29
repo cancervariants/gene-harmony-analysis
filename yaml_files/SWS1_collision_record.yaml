@@ -1,15 +1,26 @@
 collision_symbol: SWS1
-EFHD2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EFHD2
   ENSG_ID: [ENSG00000142634]
   source: [NCBI Info]
   Chromosome: [1p36.21]
   NCBI Gene ID: [79180.0]
   OMIM_ID: ['616450']
   UniProt_ID: [Q96C19]
-ZSWIM7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZSWIM7
   ENSG_ID: [ENSG00000214941]
   source: [NCBI Info]
   Chromosome: [17p12]
   NCBI Gene ID: [125150.0]
   OMIM_ID: ['614535']
   UniProt_ID: [Q19AV6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

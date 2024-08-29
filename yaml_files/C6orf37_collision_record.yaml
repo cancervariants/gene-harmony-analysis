@@ -1,15 +1,26 @@
 collision_symbol: C6orf37
-MUCL3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MUCL3
   ENSG_ID: [ENSG00000168631]
   source: [NCBI Info]
   Chromosome: [6p21.33]
   NCBI Gene ID: [135656.0]
   OMIM_ID: ['613928']
   UniProt_ID: [Q3MIW9]
-TENT5A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TENT5A
   ENSG_ID: [ENSG00000112773]
   source: [NCBI Info]
   Chromosome: [6q14.1]
   NCBI Gene ID: [55603.0]
   OMIM_ID: ['611357']
   UniProt_ID: [Q96IP4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

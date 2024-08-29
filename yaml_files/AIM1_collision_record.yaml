@@ -1,22 +1,37 @@
 collision_symbol: AIM1
-AURKB:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AURKB
   ENSG_ID: [ENSG00000178999]
   source: [NCBI Info]
   Chromosome: [17p13.1]
   NCBI Gene ID: [9212.0]
   OMIM_ID: ['604970']
   UniProt_ID: [Q96GD4]
-CRYBG1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRYBG1
   ENSG_ID: [ENSG00000112297]
   source: [NCBI Info]
   Chromosome: [6q21]
   NCBI Gene ID: [202.0]
   OMIM_ID: ['601797']
   UniProt_ID: [Q9Y4K1]
-SLC45A2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC45A2
   ENSG_ID: [ENSG00000164175]
   source: [NCBI Info]
   Chromosome: [5p13.2]
   NCBI Gene ID: [51151.0]
   OMIM_ID: ['606202']
   UniProt_ID: [Q9UMX9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

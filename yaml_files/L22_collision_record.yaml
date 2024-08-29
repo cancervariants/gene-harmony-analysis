@@ -1,15 +1,26 @@
 collision_symbol: L22
-IGKV1D-42:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV1D-42
   ENSG_ID: [ENSG00000211633]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [28892.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A075B6H8]
-RPL22:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL22
   ENSG_ID: [ENSG00000116251]
   source: [NCBI Info]
   Chromosome: [1p36.31]
   NCBI Gene ID: [6146.0]
   OMIM_ID: ['180474']
   UniProt_ID: [P35268]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

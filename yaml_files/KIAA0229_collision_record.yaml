@@ -1,15 +1,26 @@
 collision_symbol: KIAA0229
-ANKS1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANKS1A
   ENSG_ID: [ENSG00000064999]
   source: [HGNC, ENSG]
   Chromosome: [6p21.31]
   NCBI Gene ID: [23294.0]
   OMIM_ID: ['608994']
   UniProt_ID: [Q92625]
-TCP11:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCP11
   ENSG_ID: [ENSG00000124678]
   source: [HGNC, ENSG]
   Chromosome: [6p21.31]
   NCBI Gene ID: [6954.0]
   OMIM_ID: ['186982']
   UniProt_ID: [Q8WWU5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

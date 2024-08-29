@@ -1,43 +1,70 @@
 collision_symbol: F379
-FAM138A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FAM138A
   ENSG_ID: [ENSG00000237613]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.33]
   NCBI Gene ID: [645520.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-FAM138B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM138B
   ENSG_ID: [ENSG00000226516]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q14.1]
   NCBI Gene ID: [654412.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-FAM138C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM138C
   ENSG_ID: [ENSG00000218839]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [9p24.3]
   NCBI Gene ID: [654835.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-FAM138D:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM138D
   ENSG_ID: [ENSG00000249054]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12p13.33]
   NCBI Gene ID: [677784.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-FAM138E:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM138E
   ENSG_ID: [ENSG00000248893]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q26.3]
   NCBI Gene ID: [100124412.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-FAM138F:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAM138F
   ENSG_ID: [ENSG00000282591]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19p13.3]
   NCBI Gene ID: [641702.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: MRX
-ABCG2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCG2
   ENSG_ID: [ENSG00000118777]
   source: [NCBI Info]
   Chromosome: [4q22.1]
   NCBI Gene ID: [9429.0]
   OMIM_ID: ['603756']
   UniProt_ID: [Q9UNQ0]
-DLG3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DLG3
   ENSG_ID: [ENSG00000082458]
   source: [NCBI Info]
   Chromosome: [Xq13.1]
   NCBI Gene ID: [1741.0]
   OMIM_ID: ['300189']
   UniProt_ID: [Q92796]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

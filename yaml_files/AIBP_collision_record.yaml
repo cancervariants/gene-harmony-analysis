@@ -1,15 +1,26 @@
 collision_symbol: AIBP
-AUNIP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AUNIP
   ENSG_ID: [ENSG00000127423]
   source: [NCBI Info, ENSG]
   Chromosome: [1p36.11]
   NCBI Gene ID: [79000.0]
   OMIM_ID: ['620397']
   UniProt_ID: [Q9H7T9]
-NAXE:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAXE
   ENSG_ID: [ENSG00000163382]
   source: [NCBI Info, ENSG]
   Chromosome: [1q22]
   NCBI Gene ID: [128240.0]
   OMIM_ID: ['608862']
   UniProt_ID: [Q8NCW5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

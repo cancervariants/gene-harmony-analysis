@@ -1,15 +1,26 @@
 collision_symbol: ABP
-AOC1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AOC1
   ENSG_ID: [ENSG00000002726]
   source: [NCBI Info, ENSG]
   Chromosome: [7q36.1]
   NCBI Gene ID: [26.0]
   OMIM_ID: ['104610']
   UniProt_ID: [P19801]
-SHBG:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SHBG
   ENSG_ID: [ENSG00000129214]
   source: [NCBI Info, ENSG]
   Chromosome: [17p13.1]
   NCBI Gene ID: [6462.0]
   OMIM_ID: ['182205']
   UniProt_ID: [P04278]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: GTF2IRD2A
-GTF2IRD2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GTF2IRD2
   ENSG_ID: [ENSG00000196275]
   source: [NCBI Info]
   Chromosome: [7q11.23]
   NCBI Gene ID: [84163.0]
   OMIM_ID: ['608899']
   UniProt_ID: [Q86UP8]
-GTF2IRD2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2IRD2B
   ENSG_ID: [ENSG00000174428]
   source: [NCBI Info]
   Chromosome: [7q11.23]
   NCBI Gene ID: [389524.0]
   OMIM_ID: ['608900']
   UniProt_ID: [Q6EKJ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

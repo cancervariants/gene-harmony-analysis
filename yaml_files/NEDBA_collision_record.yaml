@@ -1,15 +1,26 @@
 collision_symbol: NEDBA
-MAPK8IP3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAPK8IP3
   ENSG_ID: [ENSG00000138834]
   source: [NCBI Info]
   Chromosome: [16p13.3]
   NCBI Gene ID: [23162.0]
   OMIM_ID: ['605431']
   UniProt_ID: [Q9UPT6]
-ODC1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ODC1
   ENSG_ID: [ENSG00000115758]
   source: [NCBI Info]
   Chromosome: [2p25.1]
   NCBI Gene ID: [4953.0]
   OMIM_ID: ['165640']
   UniProt_ID: [P11926]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

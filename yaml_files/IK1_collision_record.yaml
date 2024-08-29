@@ -1,15 +1,26 @@
 collision_symbol: IK1
-IKZF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IKZF1
   ENSG_ID: [ENSG00000185811]
   source: [NCBI Info]
   Chromosome: [7p12.2]
   NCBI Gene ID: [10320.0]
   OMIM_ID: ['603023']
   UniProt_ID: [Q13422]
-KCNN4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNN4
   ENSG_ID: [ENSG00000104783]
   source: [NCBI Info]
   Chromosome: [19q13.31]
   NCBI Gene ID: [3783.0]
   OMIM_ID: ['602754']
   UniProt_ID: [O15554]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

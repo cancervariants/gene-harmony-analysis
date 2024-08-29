@@ -1,15 +1,26 @@
 collision_symbol: MLD
-ARSA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARSA
   ENSG_ID: [ENSG00000100299]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [410.0]
   OMIM_ID: ['607574']
   UniProt_ID: [P15289]
-DEGS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DEGS1
   ENSG_ID: [ENSG00000143753]
   source: [NCBI Info]
   Chromosome: [1q42.11]
   NCBI Gene ID: [8560.0]
   OMIM_ID: ['615843']
   UniProt_ID: [O15121]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

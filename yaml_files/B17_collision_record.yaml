@@ -1,15 +1,26 @@
 collision_symbol: B17
-DONSON:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DONSON
   ENSG_ID: [ENSG00000159147]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [21q22.11]
   NCBI Gene ID: [29980.0]
   OMIM_ID: ['611428']
   UniProt_ID: [Q9NYP3]
-NDUFB6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NDUFB6
   ENSG_ID: [ENSG00000165264]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [9p21.1]
   NCBI Gene ID: [4712.0]
   OMIM_ID: ['603322']
   UniProt_ID: [O95139]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

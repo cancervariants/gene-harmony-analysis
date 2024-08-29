@@ -1,15 +1,26 @@
 collision_symbol: PheRS
-FARS2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FARS2
   ENSG_ID: [ENSG00000145982]
   source: [NCBI Info]
   Chromosome: [6p25.1]
   NCBI Gene ID: [10667.0]
   OMIM_ID: ['611592']
   UniProt_ID: [O95363]
-FARSB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FARSB
   ENSG_ID: [ENSG00000116120]
   source: [NCBI Info]
   Chromosome: [2q36.1]
   NCBI Gene ID: [10056.0]
   OMIM_ID: ['609690']
   UniProt_ID: [Q9NSD9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

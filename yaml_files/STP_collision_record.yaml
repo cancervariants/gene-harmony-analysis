@@ -1,15 +1,26 @@
 collision_symbol: STP
-SULT1A1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SULT1A1
   ENSG_ID: [ENSG00000196502]
   source: [NCBI Info, ENSG]
   Chromosome: [16p11.2]
   NCBI Gene ID: [6817.0]
   OMIM_ID: ['171150']
   UniProt_ID: [P50225]
-TRIP10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIP10
   ENSG_ID: [ENSG00000125733]
   source: [NCBI Info, ENSG]
   Chromosome: [19p13.3]
   NCBI Gene ID: [9322.0]
   OMIM_ID: ['604504']
   UniProt_ID: [Q15642]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

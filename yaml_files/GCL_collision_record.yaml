@@ -1,29 +1,48 @@
 collision_symbol: GCL
-GCA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GCA
   ENSG_ID: [ENSG00000115271]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q24.2]
   NCBI Gene ID: [25801.0]
   OMIM_ID: ['607030']
   UniProt_ID: [P28676]
-GCLC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GCLC
   ENSG_ID: [ENSG00000001084]
   source: [NCBI Info]
   Chromosome: [6p12.1]
   NCBI Gene ID: [2729.0]
   OMIM_ID: ['606857']
   UniProt_ID: [P48506]
-GMCL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GMCL1
   ENSG_ID: [ENSG00000087338]
   source: [NCBI Info]
   Chromosome: [2p13.3]
   NCBI Gene ID: [64395.0]
   OMIM_ID: ['618627']
   UniProt_ID: [Q96IK5]
-GMCL2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GMCL2
   ENSG_ID: [ENSG00000244234]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q35.3]
   NCBI Gene ID: [64396.0]
   OMIM_ID: ['618629']
   UniProt_ID: [Q8NEA9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

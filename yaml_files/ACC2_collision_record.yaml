@@ -1,15 +1,26 @@
 collision_symbol: ACC2
-ACACB:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACACB
   ENSG_ID: [ENSG00000076555]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12q24.11]
   NCBI Gene ID: [32.0]
   OMIM_ID: ['601557']
   UniProt_ID: [O00763]
-BCL2A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BCL2A1
   ENSG_ID: [ENSG00000140379]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [15q25.1]
   NCBI Gene ID: [597.0]
   OMIM_ID: ['601056']
   UniProt_ID: [Q16548]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: TAK1
-MAP3K7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAP3K7
   ENSG_ID: [ENSG00000135341]
   source: [NCBI Info, ENSG]
   Chromosome: [6q15]
   NCBI Gene ID: [6885.0]
   OMIM_ID: ['602614']
   UniProt_ID: [O43318]
-NR2C2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NR2C2
   ENSG_ID: [ENSG00000177463]
   source: [NCBI Info, ENSG]
   Chromosome: [3p25.1]
   NCBI Gene ID: [7182.0]
   OMIM_ID: ['601426']
   UniProt_ID: [P49116]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

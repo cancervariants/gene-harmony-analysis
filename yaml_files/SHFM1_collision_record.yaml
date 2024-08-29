@@ -1,15 +1,26 @@
 collision_symbol: SHFM1
-DLX5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DLX5
   ENSG_ID: [ENSG00000105880]
   source: [NCBI Info]
   Chromosome: [7q21.3]
   NCBI Gene ID: [1749.0]
   OMIM_ID: ['600028']
   UniProt_ID: [P56178]
-SEM1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEM1
   ENSG_ID: [ENSG00000127922]
   source: [NCBI Info]
   Chromosome: [7q21.3]
   NCBI Gene ID: [7979.0]
   OMIM_ID: ['601285']
   UniProt_ID: ['P60896, Q6ZVN7']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

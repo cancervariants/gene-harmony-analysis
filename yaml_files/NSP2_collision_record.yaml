@@ -1,15 +1,26 @@
 collision_symbol: NSP2
-BCAR3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCAR3
   ENSG_ID: [ENSG00000137936]
   source: [HGNC, NCBI Info]
   Chromosome: [1p22.1]
   NCBI Gene ID: [8412.0]
   OMIM_ID: ['604704']
   UniProt_ID: [O75815]
-RTN2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RTN2
   ENSG_ID: [ENSG00000125744]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.32]
   NCBI Gene ID: [6253.0]
   OMIM_ID: ['603183']
   UniProt_ID: [O75298]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

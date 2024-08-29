@@ -1,15 +1,26 @@
 collision_symbol: H2BFH
-H2BC5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H2BC5
   ENSG_ID: [ENSG00000158373]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [3017.0]
   OMIM_ID: ['602799']
   UniProt_ID: [P58876]
-H2BC6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2BC6
   ENSG_ID: [ENSG00000274290]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8344.0]
   OMIM_ID: ['602805']
   UniProt_ID: [P62807]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: IGH@
-IGH:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGH
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [3492.0]
   OMIM_ID: ['146910, 147010, 147070']
   UniProt_ID: [.nan]
-LOC102723407:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LOC102723407
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-LOC102724971:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LOC102724971
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

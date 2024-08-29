@@ -1,15 +1,26 @@
 collision_symbol: TCRAV5S1
-TRAV5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRAV5
   ENSG_ID: [ENSG00000211779]
   source: [NCBI Info]
   Chromosome: [14q11.2]
   NCBI Gene ID: [28688.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J249]
-TRAV6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAV6
   ENSG_ID: [ENSG00000211780]
   source: [NCBI Info]
   Chromosome: [14q11.2]
   NCBI Gene ID: [6956.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A075B6T7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

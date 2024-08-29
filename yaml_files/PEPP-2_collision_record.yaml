@@ -1,15 +1,26 @@
 collision_symbol: PEPP-2
-PLEKHA5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLEKHA5
   ENSG_ID: [ENSG00000052126]
   source: [NCBI Info]
   Chromosome: [12p12.3]
   NCBI Gene ID: [54477.0]
   OMIM_ID: ['607770']
   UniProt_ID: [Q9HAU0]
-RHOXF2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RHOXF2
   ENSG_ID: [ENSG00000131721]
   source: [NCBI Info]
   Chromosome: [Xq24]
   NCBI Gene ID: [84528.0]
   OMIM_ID: ['300447']
   UniProt_ID: [Q9BQY4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

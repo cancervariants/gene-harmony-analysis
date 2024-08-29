@@ -1,15 +1,26 @@
 collision_symbol: ACP
-CPAT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CPAT1
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [9p12-q12]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-NDUFAB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NDUFAB1
   ENSG_ID: [ENSG00000004779]
   source: [NCBI Info]
   Chromosome: [16p12.2]
   NCBI Gene ID: [4706.0]
   OMIM_ID: ['603836']
   UniProt_ID: [O14561]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: DSEP
-DCD:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCD
   ENSG_ID: [ENSG00000161634]
   source: [NCBI Info]
   Chromosome: [12q13.2]
   NCBI Gene ID: [117159.0]
   OMIM_ID: ['606634']
   UniProt_ID: [P81605]
-DSE:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DSE
   ENSG_ID: [ENSG00000111817]
   source: [NCBI Info]
   Chromosome: [6q22.1]
   NCBI Gene ID: [29940.0]
   OMIM_ID: ['605942']
   UniProt_ID: [Q9UL01]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

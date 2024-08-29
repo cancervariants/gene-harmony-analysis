@@ -1,15 +1,26 @@
 collision_symbol: TTF-1
-NKX2-1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NKX2-1
   ENSG_ID: [ENSG00000136352]
   source: [NCBI Info]
   Chromosome: [14q13.3]
   NCBI Gene ID: [7080.0]
   OMIM_ID: ['600635']
   UniProt_ID: [P43699]
-TTF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TTF1
   ENSG_ID: [ENSG00000125482]
   source: [NCBI Info]
   Chromosome: [9q34.13]
   NCBI Gene ID: [7270.0]
   OMIM_ID: ['600777']
   UniProt_ID: [Q15361]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

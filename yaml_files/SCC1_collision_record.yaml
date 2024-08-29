@@ -1,15 +1,26 @@
 collision_symbol: SCC1
-PTPRJ:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PTPRJ
   ENSG_ID: [ENSG00000149177]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [5795.0]
   OMIM_ID: ['600925']
   UniProt_ID: [Q12913]
-RAD21:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAD21
   ENSG_ID: [ENSG00000164754]
   source: [NCBI Info]
   Chromosome: [8q24.11]
   NCBI Gene ID: [5885.0]
   OMIM_ID: ['606462']
   UniProt_ID: [O60216]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

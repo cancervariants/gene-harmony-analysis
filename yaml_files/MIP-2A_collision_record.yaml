@@ -1,29 +1,48 @@
 collision_symbol: MIP-2A
-CXCL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCL2
   ENSG_ID: [ENSG00000081041]
   source: [ENSG]
   Chromosome: [4q13.3]
   NCBI Gene ID: [2920.0]
   OMIM_ID: ['139110']
   UniProt_ID: [P19875]
-TRAPPC2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAPPC2
   ENSG_ID: [ENSG00000196459]
   source: [HGNC, ENSG]
   Chromosome: [Xp22.2]
   NCBI Gene ID: [6399.0]
   OMIM_ID: ['300202']
   UniProt_ID: [P0DI81]
-TRAPPC2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAPPC2B
   ENSG_ID: [ENSG00000256060]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.43]
   NCBI Gene ID: [10597.0]
   OMIM_ID: ['620472']
   UniProt_ID: [P0DI82]
-ZNF547:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF547
   ENSG_ID: [ENSG00000152433]
   source: [NCBI Info]
   Chromosome: [19q13.43]
   NCBI Gene ID: [284306.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8IVP9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

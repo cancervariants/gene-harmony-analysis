@@ -1,15 +1,26 @@
 collision_symbol: CLECSF13
-CLEC10A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLEC10A
   ENSG_ID: [ENSG00000132514]
   source: [NCBI Info]
   Chromosome: [17p13.1]
   NCBI Gene ID: [10462.0]
   OMIM_ID: ['605999']
   UniProt_ID: [Q8IUN9]
-CLEC4F:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CLEC4F
   ENSG_ID: [ENSG00000152672]
   source: [NCBI Info]
   Chromosome: [2p13.3]
   NCBI Gene ID: [165530.0]
   OMIM_ID: ['620105']
   UniProt_ID: [Q8N1N0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

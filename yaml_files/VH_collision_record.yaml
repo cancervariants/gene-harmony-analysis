@@ -1,253 +1,400 @@
 collision_symbol: VH
-IGHM:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGHM
   ENSG_ID: [ENSG00000211899]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [3507.0]
   OMIM_ID: ['147020']
   UniProt_ID: [P01871]
-IGHV1-24:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV1-24
   ENSG_ID: [ENSG00000211950]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28467.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH33]
-IGHV1-45:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV1-45
   ENSG_ID: [ENSG00000211961]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28466.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0A0MS14]
-IGHV1-58:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV1-58
   ENSG_ID: [ENSG00000211968]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28464.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH39]
-IGHV2-26:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV2-26
   ENSG_ID: [ENSG00000211951]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28455.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1V2]
-IGHV2-5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV2-5
   ENSG_ID: [ENSG00000211937]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28457.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01817]
-IGHV2-70:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV2-70
   ENSG_ID: [ENSG00000274576]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28454.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01814]
-IGHV3-11:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-11
   ENSG_ID: [ENSG00000211941]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28450.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01762]
-IGHV3-15:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-15
   ENSG_ID: [ENSG00000211943]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28448.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1V0]
-IGHV3-16:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-16
   ENSG_ID: [ENSG00000211944]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28447.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH30]
-IGHV3-20:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-20
   ENSG_ID: [ENSG00000211946]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28445.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH32]
-IGHV3-21:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-21
   ENSG_ID: [ENSG00000211947]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28444.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1V1]
-IGHV3-30:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-30
   ENSG_ID: [ENSG00000270550]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28439.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01768]
-IGHV3-33:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-33
   ENSG_ID: [ENSG00000211955]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28434.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01772]
-IGHV3-35:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-35
   ENSG_ID: [ENSG00000211957]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28432.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH35]
-IGHV3-38:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-38
   ENSG_ID: [ENSG00000211958]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28429.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH36]
-IGHV3-43:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-43
   ENSG_ID: [ENSG00000232216]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28426.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1X8]
-IGHV3-48:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-48
   ENSG_ID: [ENSG00000211964]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28424.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01763]
-IGHV3-49:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-49
   ENSG_ID: [ENSG00000211965]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28423.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0A0MS15]
-IGHV3-53:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-53
   ENSG_ID: [ENSG00000211967]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28420.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01767]
-IGHV3-64:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-64
   ENSG_ID: [ENSG00000223648]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28414.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A075B6Q5]
-IGHV3-66:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-66
   ENSG_ID: [ENSG00000211972]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28412.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH42]
-IGHV3-7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-7
   ENSG_ID: [ENSG00000211938]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28452.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01780]
-IGHV3-72:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-72
   ENSG_ID: [ENSG00000225698]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28410.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1Y9]
-IGHV3-73:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-73
   ENSG_ID: [ENSG00000211976]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28409.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1V6]
-IGHV3-74:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-74
   ENSG_ID: [ENSG00000224650]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28408.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1X5]
-IGHV3-9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV3-9
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28451.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01782]
-IGHV4-28:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-28
   ENSG_ID: [ENSG00000211952]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28400.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH34]
-IGHV4-34:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-34
   ENSG_ID: [ENSG00000211956]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28395.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P06331]
-IGHV4-39:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-39
   ENSG_ID: [ENSG00000211959]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28394.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01824]
-IGHV4-4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-4
   ENSG_ID: [ENSG00000276775]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28401.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A075B6R2]
-IGHV4-59:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-59
   ENSG_ID: [ENSG00000224373]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28392.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P01825]
-IGHV4-61:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-61
   ENSG_ID: [ENSG00000211970]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28391.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH41]
-IGHV5-51:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV5-51
   ENSG_ID: [ENSG00000211966]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28388.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH38]
-IGHV6-1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV6-1
   ENSG_ID: [ENSG00000211933]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [28385.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J1U7]
-SLC7A4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A4
   ENSG_ID: [ENSG00000099960]
   source: [NCBI Info]
   Chromosome: [22q11.21]
   NCBI Gene ID: [6545.0]
   OMIM_ID: ['603752']
   UniProt_ID: [O43246]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

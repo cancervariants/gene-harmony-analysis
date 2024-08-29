@@ -1,15 +1,26 @@
 collision_symbol: TFIIIB90
-BDP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BDP1
   ENSG_ID: [ENSG00000145734]
   source: [NCBI Info, ENSG]
   Chromosome: [5q13.2]
   NCBI Gene ID: [55814.0]
   OMIM_ID: ['607012']
   UniProt_ID: [A6H8Y1]
-BRF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BRF1
   ENSG_ID: [ENSG00000185024]
   source: [NCBI Info, ENSG]
   Chromosome: [14q32.33]
   NCBI Gene ID: [2972.0]
   OMIM_ID: ['604902']
   UniProt_ID: [Q92994]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: K13
-KCNG1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KCNG1
   ENSG_ID: [ENSG00000026559]
   source: [NCBI Info]
   Chromosome: [20q13.13]
   NCBI Gene ID: [3755.0]
   OMIM_ID: ['603788']
   UniProt_ID: [Q9UIX4]
-KRT13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT13
   ENSG_ID: [ENSG00000171401]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [3860.0]
   OMIM_ID: ['148065']
   UniProt_ID: [P13646]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

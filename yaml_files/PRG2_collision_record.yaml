@@ -1,15 +1,26 @@
 collision_symbol: PRG2
-PLPPR3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLPPR3
   ENSG_ID: [ENSG00000129951]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19p13.3]
   NCBI Gene ID: [79948.0]
   OMIM_ID: ['610391']
   UniProt_ID: [Q6T4P5]
-PXDN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PXDN
   ENSG_ID: [ENSG00000130508]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p25.3]
   NCBI Gene ID: [7837.0]
   OMIM_ID: ['605158']
   UniProt_ID: [Q92626]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

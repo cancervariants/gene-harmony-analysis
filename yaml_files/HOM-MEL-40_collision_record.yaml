@@ -1,15 +1,26 @@
 collision_symbol: HOM-MEL-40
-SSX2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SSX2
   ENSG_ID: [ENSG00000241476]
   source: [NCBI Info]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [6757.0]
   OMIM_ID: ['300192']
   UniProt_ID: [Q16385]
-SSX2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SSX2B
   ENSG_ID: [ENSG00000268447]
   source: [NCBI Info]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [727837.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q16385]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

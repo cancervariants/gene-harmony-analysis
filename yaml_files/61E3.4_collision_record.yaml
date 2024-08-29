@@ -1,15 +1,26 @@
 collision_symbol: 61E3.4
-NPIPB4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPIPB4
   ENSG_ID: [ENSG00000185864]
   source: [NCBI Info]
   Chromosome: [16p12.2]
   NCBI Gene ID: [440345.0]
   OMIM_ID: [.nan]
   UniProt_ID: [C9JG80]
-SMG1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMG1
   ENSG_ID: [ENSG00000157106]
   source: [NCBI Info]
   Chromosome: [16p12.3]
   NCBI Gene ID: [23049.0]
   OMIM_ID: ['607032']
   UniProt_ID: [Q96Q15]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

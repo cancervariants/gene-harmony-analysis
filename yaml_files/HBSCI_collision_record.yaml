@@ -1,15 +1,26 @@
 collision_symbol: HBSCI
-SCN1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SCN1A
   ENSG_ID: [ENSG00000144285]
   source: [HGNC, NCBI Info]
   Chromosome: [2q24.3]
   NCBI Gene ID: [6323.0]
   OMIM_ID: ['182389']
   UniProt_ID: [P35498]
-SCN2A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCN2A
   ENSG_ID: [ENSG00000136531]
   source: [HGNC, NCBI Info]
   Chromosome: [2q24.3]
   NCBI Gene ID: [6326.0]
   OMIM_ID: ['182390']
   UniProt_ID: [Q99250]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SIGLECP2
-SIGLEC17P:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SIGLEC17P
   ENSG_ID: [ENSG00000291114]
   source: [NCBI Info, ENSG]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-SIGLEC7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SIGLEC7
   ENSG_ID: [ENSG00000168995]
   source: [NCBI Info, ENSG]
   Chromosome: [19q13.41]
   NCBI Gene ID: [27036.0]
   OMIM_ID: ['604410']
   UniProt_ID: [Q9Y286]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

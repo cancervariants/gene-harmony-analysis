@@ -1,50 +1,81 @@
 collision_symbol: U4
-RNU4-1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNU4-1
   ENSG_ID: [ENSG00000200795]
   source: [NCBI Info, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [26835.0]
   OMIM_ID: ['620822']
   UniProt_ID: [.nan]
-RNU4-3P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-3P
   ENSG_ID: [.nan]
   source: [HGNC, NCBI Info]
   Chromosome: [18q12.2]
   NCBI Gene ID: [26841.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNU4-4P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-4P
   ENSG_ID: [ENSG00000201458, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q26.31, .nan]
   NCBI Gene ID: [26840.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNU4-5P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-5P
   ENSG_ID: [ENSG00000272160, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [10q25.1, .nan]
   NCBI Gene ID: [26839.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNU4-6P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-6P
   ENSG_ID: [ENSG00000222736, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [Xp22.22, .nan]
   NCBI Gene ID: [26838.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNU4-7P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-7P
   ENSG_ID: [ENSG00000201628, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q25.1, .nan]
   NCBI Gene ID: [6069.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RNU4-8P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU4-8P
   ENSG_ID: [ENSG00000201806, .nan]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q11.2, .nan]
   NCBI Gene ID: [6070.0, .nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

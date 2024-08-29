@@ -1,22 +1,37 @@
 collision_symbol: L9
-IGKV1-8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV1-8
   ENSG_ID: [ENSG00000240671]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [28942.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0C4DH67]
-PDLIM5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PDLIM5
   ENSG_ID: [ENSG00000163110]
   source: [NCBI Info]
   Chromosome: [4q22.3]
   NCBI Gene ID: [10611.0]
   OMIM_ID: ['605904']
   UniProt_ID: [Q96HC4]
-RPL9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL9
   ENSG_ID: [ENSG00000163682]
   source: [NCBI Info]
   Chromosome: [4p14]
   NCBI Gene ID: [6133.0]
   OMIM_ID: ['603686']
   UniProt_ID: [P32969]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

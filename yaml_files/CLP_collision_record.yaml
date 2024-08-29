@@ -1,22 +1,37 @@
 collision_symbol: CLP
-CALML3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALML3
   ENSG_ID: [ENSG00000178363]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [10p15.1]
   NCBI Gene ID: [810.0]
   OMIM_ID: ['114184']
   UniProt_ID: [P27482]
-COTL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: COTL1
   ENSG_ID: [ENSG00000103187]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [16q24.1]
   NCBI Gene ID: [23406.0]
   OMIM_ID: ['606748']
   UniProt_ID: [Q14019]
-CSRP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CSRP3
   ENSG_ID: [ENSG00000129170]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [11p15.1]
   NCBI Gene ID: [8048.0]
   OMIM_ID: ['600824']
   UniProt_ID: [P50461]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

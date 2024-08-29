@@ -1,15 +1,26 @@
 collision_symbol: GCAP
-ALPG:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALPG
   ENSG_ID: [ENSG00000163286]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q37.1]
   NCBI Gene ID: [251.0]
   OMIM_ID: ['171810']
   UniProt_ID: [P10696]
-GUCA1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GUCA1A
   ENSG_ID: [ENSG00000048545]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p21.1]
   NCBI Gene ID: [2978.0]
   OMIM_ID: ['600364']
   UniProt_ID: [P43080]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

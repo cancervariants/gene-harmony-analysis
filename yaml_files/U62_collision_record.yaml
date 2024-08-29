@@ -1,15 +1,26 @@
 collision_symbol: U62
-SNORD62A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SNORD62A
   ENSG_ID: [ENSG00000235284]
   source: [HGNC, NCBI Info]
   Chromosome: [9q34.13]
   NCBI Gene ID: [26786.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-SNORD62B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNORD62B
   ENSG_ID: [ENSG00000231587]
   source: [HGNC, NCBI Info]
   Chromosome: [9q34.13]
   NCBI Gene ID: [692093.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

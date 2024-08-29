@@ -1,22 +1,37 @@
 collision_symbol: FHC
-FTH1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FTH1
   ENSG_ID: [ENSG00000167996]
   source: [NCBI Info]
   Chromosome: [11q12.3]
   NCBI Gene ID: [2495.0]
   OMIM_ID: ['134770']
   UniProt_ID: [P02794]
-LDLR:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LDLR
   ENSG_ID: [ENSG00000130164]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [3949.0]
   OMIM_ID: ['606945']
   UniProt_ID: [P01130]
-MYBPC3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYBPC3
   ENSG_ID: [ENSG00000134571]
   source: [NCBI Info]
   Chromosome: [11p11.2]
   NCBI Gene ID: [4607.0]
   OMIM_ID: ['600958']
   UniProt_ID: [Q14896]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

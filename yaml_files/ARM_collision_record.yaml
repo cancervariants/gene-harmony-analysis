@@ -1,15 +1,26 @@
 collision_symbol: ARM
-AKR1A1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AKR1A1
   ENSG_ID: [ENSG00000117448]
   source: [NCBI Info]
   Chromosome: [1p34.1]
   NCBI Gene ID: [10327.0]
   OMIM_ID: ['103830']
   UniProt_ID: [P14550]
-ARMC9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARMC9
   ENSG_ID: [ENSG00000135931]
   source: [NCBI Info]
   Chromosome: [2q37.1]
   NCBI Gene ID: [80210.0]
   OMIM_ID: ['617612']
   UniProt_ID: [Q7Z3E5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

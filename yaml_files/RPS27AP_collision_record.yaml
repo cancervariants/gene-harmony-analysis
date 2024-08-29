@@ -1,15 +1,26 @@
 collision_symbol: RPS27AP
-RPS27AP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RPS27AP1
   ENSG_ID: [ENSG00000242692]
   source: [NCBI Info]
   Chromosome: [17p13.1]
   NCBI Gene ID: [103911.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-RPS27AP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPS27AP3
   ENSG_ID: [ENSG00000226144]
   source: [NCBI Info]
   Chromosome: [20q11.23]
   NCBI Gene ID: [140714.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

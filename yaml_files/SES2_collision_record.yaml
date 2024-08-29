@@ -1,15 +1,26 @@
 collision_symbol: Ses2
-PHETA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHETA2
   ENSG_ID: [ENSG00000177096]
   source: [NCBI Info]
   Chromosome: [22q13.2]
   NCBI Gene ID: [150368.0]
   OMIM_ID: ['614240']
   UniProt_ID: [Q6ICB4]
-SCRN2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCRN2
   ENSG_ID: [ENSG00000141295]
   source: [NCBI Info]
   Chromosome: [17q21.32]
   NCBI Gene ID: [90507.0]
   OMIM_ID: ['614966']
   UniProt_ID: [Q96FV2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

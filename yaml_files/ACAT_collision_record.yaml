@@ -1,22 +1,37 @@
 collision_symbol: ACAT
-ACAT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACAT1
   ENSG_ID: [ENSG00000075239]
   source: [NCBI Info, ENSG]
   Chromosome: [11q22.3]
   NCBI Gene ID: [38.0]
   OMIM_ID: ['607809']
   UniProt_ID: [P24752]
-CES1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CES1
   ENSG_ID: [ENSG00000198848]
   source: [NCBI Info]
   Chromosome: [16q12.2]
   NCBI Gene ID: [1066.0]
   OMIM_ID: ['114835']
   UniProt_ID: [P23141]
-SOAT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SOAT1
   ENSG_ID: [ENSG00000057252]
   source: [NCBI Info, ENSG]
   Chromosome: [1q25.2]
   NCBI Gene ID: [6646.0]
   OMIM_ID: ['102642']
   UniProt_ID: [P35610]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

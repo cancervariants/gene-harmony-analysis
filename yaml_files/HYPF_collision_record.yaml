@@ -1,15 +1,26 @@
 collision_symbol: HYPF
-FGF23:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGF23
   ENSG_ID: [ENSG00000118972]
   source: [NCBI Info]
   Chromosome: [12p13.32]
   NCBI Gene ID: [8074.0]
   OMIM_ID: ['605380']
   UniProt_ID: [Q9GZV9]
-PSMD8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD8
   ENSG_ID: [ENSG00000099341]
   source: [NCBI Info]
   Chromosome: [19q13.2]
   NCBI Gene ID: [5714.0]
   OMIM_ID: ['617844']
   UniProt_ID: [P48556]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

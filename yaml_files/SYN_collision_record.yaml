@@ -1,15 +1,26 @@
 collision_symbol: SYN
-FYN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FYN
   ENSG_ID: [ENSG00000010810]
   source: [NCBI Info, ENSG]
   Chromosome: [6q21]
   NCBI Gene ID: [2534.0]
   OMIM_ID: ['137025']
   UniProt_ID: [P06241]
-SYNM:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SYNM
   ENSG_ID: [ENSG00000182253]
   source: [NCBI Info, ENSG]
   Chromosome: [15q26.3]
   NCBI Gene ID: [23336.0]
   OMIM_ID: ['606087']
   UniProt_ID: [O15061]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

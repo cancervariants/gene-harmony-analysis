@@ -1,15 +1,26 @@
 collision_symbol: ULG4
-EBR3:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EBR3
   ENSG_ID: [.nan]
   source: [HGNC]
   Chromosome: [reserved]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-HOAC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOAC
   ENSG_ID: [.nan]
   source: [HGNC]
   Chromosome: [reserved]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: AD1
-APP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APP
   ENSG_ID: [ENSG00000142192]
   source: [NCBI Info, ENSG]
   Chromosome: [21q21.3]
   NCBI Gene ID: [351.0]
   OMIM_ID: ['104760']
   UniProt_ID: [P05067]
-CD63:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD63
   ENSG_ID: [ENSG00000135404]
   source: [NCBI Info, ENSG]
   Chromosome: [12q13.2]
   NCBI Gene ID: [967.0]
   OMIM_ID: ['155740']
   UniProt_ID: [P08962]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

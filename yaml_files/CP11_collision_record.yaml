@@ -1,15 +1,26 @@
 collision_symbol: CP11
-CYP1A1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYP1A1
   ENSG_ID: [ENSG00000140465]
   source: [NCBI Info]
   Chromosome: [15q24.1]
   NCBI Gene ID: [1543.0]
   OMIM_ID: ['108330']
   UniProt_ID: [P04798]
-HOXC5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXC5
   ENSG_ID: [ENSG00000172789]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3222.0]
   OMIM_ID: ['142973']
   UniProt_ID: [Q00444]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

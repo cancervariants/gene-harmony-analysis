@@ -1,15 +1,26 @@
 collision_symbol: MTC
-MT1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MT1A
   ENSG_ID: [ENSG00000205362]
   source: [NCBI Info]
   Chromosome: [16q13]
   NCBI Gene ID: [4489.0]
   OMIM_ID: ['156350']
   UniProt_ID: [P04731]
-NTRK1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NTRK1
   ENSG_ID: [ENSG00000198400]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [4914.0]
   OMIM_ID: ['191315']
   UniProt_ID: [P04629]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

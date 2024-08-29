@@ -1,29 +1,48 @@
 collision_symbol: OCT3
-POU5F1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POU5F1
   ENSG_ID: [ENSG00000204531]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6p21.33]
   NCBI Gene ID: [5460.0]
   OMIM_ID: ['164177']
   UniProt_ID: [Q01860]
-POU5F1P3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POU5F1P3
   ENSG_ID: [ENSG00000235602]
   source: [NCBI Info]
   Chromosome: [12p13.31]
   NCBI Gene ID: [642559.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-POU5F1P4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POU5F1P4
   ENSG_ID: [ENSG00000237872]
   source: [NCBI Info]
   Chromosome: [1q22]
   NCBI Gene ID: [645682.0]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-SLC22A3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC22A3
   ENSG_ID: [ENSG00000146477]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [6q25.3]
   NCBI Gene ID: [6581.0]
   OMIM_ID: ['604842']
   UniProt_ID: [O75751]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

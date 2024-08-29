@@ -1,15 +1,26 @@
 collision_symbol: CT1
-CTF1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTF1
   ENSG_ID: [ENSG00000150281]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [16p11.2]
   NCBI Gene ID: [1489.0]
   OMIM_ID: ['600435']
   UniProt_ID: [Q16619]
-SLC6A8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC6A8
   ENSG_ID: [ENSG00000130821]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [Xq28]
   NCBI Gene ID: [6535.0]
   OMIM_ID: ['300036']
   UniProt_ID: [P48029]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

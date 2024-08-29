@@ -1,15 +1,26 @@
 collision_symbol: PGAM-B
-PGAM1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PGAM1
   ENSG_ID: [ENSG00000171314]
   source: [NCBI Info]
   Chromosome: [10q24.1]
   NCBI Gene ID: [5223.0]
   OMIM_ID: ['172250']
   UniProt_ID: [P18669]
-PGAM4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PGAM4
   ENSG_ID: [ENSG00000226784]
   source: [NCBI Info]
   Chromosome: [Xq21.1]
   NCBI Gene ID: [441531.0]
   OMIM_ID: ['300567']
   UniProt_ID: [Q8N0Y7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

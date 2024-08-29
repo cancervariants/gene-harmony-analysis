@@ -1,22 +1,37 @@
 collision_symbol: P84
-PPP1R12C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPP1R12C
   ENSG_ID: [ENSG00000125503]
   source: [ENSG]
   Chromosome: [19q13.42]
   NCBI Gene ID: [54776.0]
   OMIM_ID: ['613245']
   UniProt_ID: [Q9BZL4]
-SIRPA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SIRPA
   ENSG_ID: [ENSG00000198053]
   source: [NCBI Info, ENSG]
   Chromosome: [20p13]
   NCBI Gene ID: [140885.0]
   OMIM_ID: ['602461']
   UniProt_ID: [P78324]
-THOC1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THOC1
   ENSG_ID: [ENSG00000079134]
   source: [NCBI Info, ENSG]
   Chromosome: [18p11.32]
   NCBI Gene ID: [9984.0]
   OMIM_ID: ['606930']
   UniProt_ID: [Q96FV9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

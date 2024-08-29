@@ -1,22 +1,37 @@
 collision_symbol: SEP
-MMEL1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MMEL1
   ENSG_ID: [ENSG00000142606]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1p36.32]
   NCBI Gene ID: [79258.0]
   OMIM_ID: ['618104']
   UniProt_ID: [Q495T6]
-PLXNB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLXNB1
   ENSG_ID: [ENSG00000164050]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3p21.31]
   NCBI Gene ID: [5364.0]
   OMIM_ID: ['601053']
   UniProt_ID: [O43157]
-SELENOP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SELENOP
   ENSG_ID: [ENSG00000250722]
   source: [ENSG]
   Chromosome: [5p12]
   NCBI Gene ID: [6414.0]
   OMIM_ID: ['601484']
   UniProt_ID: [P49908]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

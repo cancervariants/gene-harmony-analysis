@@ -1,15 +1,26 @@
 collision_symbol: EVA
-MPZL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MPZL2
   ENSG_ID: [ENSG00000149573]
   source: [NCBI Info]
   Chromosome: [11q23.3]
   NCBI Gene ID: [10205.0]
   OMIM_ID: ['604873']
   UniProt_ID: [O60487]
-SLC26A4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC26A4
   ENSG_ID: [ENSG00000091137]
   source: [NCBI Info]
   Chromosome: [7q22.3]
   NCBI Gene ID: [5172.0]
   OMIM_ID: ['605646']
   UniProt_ID: [O43511]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

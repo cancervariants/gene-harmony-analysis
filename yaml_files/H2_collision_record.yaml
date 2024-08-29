@@ -1,15 +1,26 @@
 collision_symbol: H2
-FGFR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGFR1
   ENSG_ID: [ENSG00000077782]
   source: [HGNC, ENSG]
   Chromosome: [8p11.23]
   NCBI Gene ID: [2260.0]
   OMIM_ID: ['136350']
   UniProt_ID: [P11362]
-RLN2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RLN2
   ENSG_ID: [ENSG00000107014]
   source: [HGNC, ENSG]
   Chromosome: [9p24.1]
   NCBI Gene ID: [6019.0]
   OMIM_ID: ['179740']
   UniProt_ID: [P04090]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

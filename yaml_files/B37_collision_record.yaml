@@ -1,22 +1,37 @@
 collision_symbol: B37
-ATN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATN1
   ENSG_ID: [ENSG00000111676]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [12p13.31]
   NCBI Gene ID: [1822.0]
   OMIM_ID: ['607462']
   UniProt_ID: [P54259]
-C21orf62:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: C21orf62
   ENSG_ID: [ENSG00000205929]
   source: [ENSG]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-EPCIP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EPCIP
   ENSG_ID: [ENSG00000205929]
   source: [HGNC, NCBI Info]
   Chromosome: [21q22.11]
   NCBI Gene ID: [56245.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9NYP8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

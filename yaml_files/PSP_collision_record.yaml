@@ -1,50 +1,81 @@
 collision_symbol: PSP
-BPIFA2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BPIFA2
   ENSG_ID: [ENSG00000131050]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [20q11.21]
   NCBI Gene ID: [140683.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q96DR5]
-MSMB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MSMB
   ENSG_ID: [ENSG00000263639]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [10q11.22]
   NCBI Gene ID: [4477.0]
   OMIM_ID: ['157145']
   UniProt_ID: [P08118]
-PSPH:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSPH
   ENSG_ID: [ENSG00000146733]
   source: [NCBI Info, ENSG]
   Chromosome: [7p11.2]
   NCBI Gene ID: [5723.0]
   OMIM_ID: ['172480']
   UniProt_ID: [P78330]
-PSPN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSPN
   ENSG_ID: [ENSG00000125650]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19p13.3]
   NCBI Gene ID: [5623.0]
   OMIM_ID: ['602921']
   UniProt_ID: [O60542]
-REG1A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: REG1A
   ENSG_ID: [ENSG00000115386]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p12]
   NCBI Gene ID: [5967.0]
   OMIM_ID: ['167770']
   UniProt_ID: [P05451]
-RIDA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIDA
   ENSG_ID: [ENSG00000132541]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [8q22.2]
   NCBI Gene ID: [10247.0]
   OMIM_ID: ['602487']
   UniProt_ID: [P52758]
-STXBP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STXBP3
   ENSG_ID: [ENSG00000116266]
   source: [NCBI Info]
   Chromosome: [1p13.3]
   NCBI Gene ID: [6814.0]
   OMIM_ID: ['608339']
   UniProt_ID: [O00186]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

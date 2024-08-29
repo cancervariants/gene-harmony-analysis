@@ -1,15 +1,26 @@
 collision_symbol: MTP
-MT1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MT1B
   ENSG_ID: [ENSG00000169688]
   source: [NCBI Info]
   Chromosome: [16q13]
   NCBI Gene ID: [4490.0]
   OMIM_ID: ['156349']
   UniProt_ID: [P07438]
-MTTP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MTTP
   ENSG_ID: [ENSG00000138823]
   source: [NCBI Info]
   Chromosome: [4q23]
   NCBI Gene ID: [4547.0]
   OMIM_ID: ['157147']
   UniProt_ID: [P55157]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

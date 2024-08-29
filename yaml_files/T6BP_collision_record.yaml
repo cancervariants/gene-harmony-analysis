@@ -1,15 +1,26 @@
 collision_symbol: T6BP
-TAX1BP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TAX1BP1
   ENSG_ID: [ENSG00000106052]
   source: [NCBI Info]
   Chromosome: [7p15.2]
   NCBI Gene ID: [8887.0]
   OMIM_ID: ['605326']
   UniProt_ID: [Q86VP1]
-TIFA:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TIFA
   ENSG_ID: [ENSG00000145365]
   source: [NCBI Info]
   Chromosome: [4q25]
   NCBI Gene ID: [92610.0]
   OMIM_ID: ['609028']
   UniProt_ID: [Q96CG3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: HB2
-KRT82:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KRT82
   ENSG_ID: [ENSG00000161850]
   source: [NCBI Info]
   Chromosome: [12q13.13]
   NCBI Gene ID: [3888.0]
   OMIM_ID: ['601078']
   UniProt_ID: [Q9NSB4]
-SCN5A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCN5A
   ENSG_ID: [ENSG00000183873]
   source: [NCBI Info]
   Chromosome: [3p22.2]
   NCBI Gene ID: [6331.0]
   OMIM_ID: ['600163']
   UniProt_ID: [Q14524]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

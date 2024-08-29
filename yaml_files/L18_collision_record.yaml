@@ -1,22 +1,37 @@
 collision_symbol: L18
-IGKV1-13:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV1-13
   ENSG_ID: [ENSG00000253497]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [28939.0]
   OMIM_ID: [.nan]
   UniProt_ID: [P0DP09]
-IGKV1D-13:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGKV1D-13
   ENSG_ID: [ENSG00000276566]
   source: [NCBI Info]
   Chromosome: [2p11.2]
   NCBI Gene ID: [28902.0]
   OMIM_ID: [.nan]
   UniProt_ID: [A0A0B4J2D9]
-RPL18:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL18
   ENSG_ID: [ENSG00000063177]
   source: [NCBI Info]
   Chromosome: [19q13.33]
   NCBI Gene ID: [6141.0]
   OMIM_ID: ['604179']
   UniProt_ID: [Q07020]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

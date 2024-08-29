@@ -1,15 +1,26 @@
 collision_symbol: KGA
-GLS:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLS
   ENSG_ID: [ENSG00000115419]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q32.2]
   NCBI Gene ID: [2744.0]
   OMIM_ID: ['138280']
   UniProt_ID: [O94925]
-KCNJ3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNJ3
   ENSG_ID: [ENSG00000162989]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q24.1]
   NCBI Gene ID: [3760.0]
   OMIM_ID: ['601534']
   UniProt_ID: [P48549]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

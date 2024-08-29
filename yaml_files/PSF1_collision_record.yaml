@@ -1,15 +1,26 @@
 collision_symbol: PSF1
-GINS1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GINS1
   ENSG_ID: [ENSG00000101003]
   source: [NCBI Info, ENSG]
   Chromosome: [20p11.21]
   NCBI Gene ID: [9837.0]
   OMIM_ID: ['610608']
   UniProt_ID: [Q14691]
-TAP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAP1
   ENSG_ID: [ENSG00000168394]
   source: [NCBI Info, ENSG]
   Chromosome: [6p21.32]
   NCBI Gene ID: [6890.0]
   OMIM_ID: ['170260']
   UniProt_ID: [Q03518]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

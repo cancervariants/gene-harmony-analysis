@@ -1,15 +1,26 @@
 collision_symbol: FAM28A
-RWDD4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RWDD4
   ENSG_ID: [ENSG00000182552]
   source: [NCBI Info]
   Chromosome: [4q35.1]
   NCBI Gene ID: [201965.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q6NW29]
-RWDD4P2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RWDD4P2
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

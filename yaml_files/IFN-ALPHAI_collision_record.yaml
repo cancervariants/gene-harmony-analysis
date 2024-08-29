@@ -1,15 +1,26 @@
 collision_symbol: IFN-alphaI
-IFNA17:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFNA17
   ENSG_ID: [ENSG00000234829]
   source: [NCBI Info]
   Chromosome: [9p21.3]
   NCBI Gene ID: [3451.0]
   OMIM_ID: ['147583']
   UniProt_ID: [P01571]
-IFNA21:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IFNA21
   ENSG_ID: [ENSG00000137080]
   source: [NCBI Info]
   Chromosome: [9p21.3]
   NCBI Gene ID: [3452.0]
   OMIM_ID: ['147584']
   UniProt_ID: [P01568]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

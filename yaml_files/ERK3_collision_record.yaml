@@ -1,15 +1,26 @@
 collision_symbol: ERK3
-MAPK12:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAPK12
   ENSG_ID: [ENSG00000188130]
   source: [NCBI Info]
   Chromosome: [22q13.33]
   NCBI Gene ID: [6300.0]
   OMIM_ID: ['602399']
   UniProt_ID: [P53778]
-MAPK6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAPK6
   ENSG_ID: [ENSG00000069956]
   source: [NCBI Info]
   Chromosome: [15q21.2]
   NCBI Gene ID: [5597.0]
   OMIM_ID: ['602904']
   UniProt_ID: [Q16659]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: P160
-MYBBP1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MYBBP1A
   ENSG_ID: [ENSG00000132382]
   source: [NCBI Info]
   Chromosome: [17p13.2]
   NCBI Gene ID: [10514.0]
   OMIM_ID: ['604885']
   UniProt_ID: [Q9BQG0]
-PELP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PELP1
   ENSG_ID: [ENSG00000141456]
   source: [NCBI Info]
   Chromosome: [17p13.2]
   NCBI Gene ID: [27043.0]
   OMIM_ID: ['609455']
   UniProt_ID: [Q8IZL8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

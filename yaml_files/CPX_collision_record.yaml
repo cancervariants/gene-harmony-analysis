@@ -1,22 +1,37 @@
 collision_symbol: CPX
-CPOX:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CPOX
   ENSG_ID: [ENSG00000080819]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q11.2]
   NCBI Gene ID: [1371.0]
   OMIM_ID: ['612732']
   UniProt_ID: [P36551]
-EBP:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EBP
   ENSG_ID: [ENSG00000147155]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [Xp11.23]
   NCBI Gene ID: [10682.0]
   OMIM_ID: ['300205']
   UniProt_ID: [Q15125]
-TBX22:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TBX22
   ENSG_ID: [ENSG00000122145]
   source: [NCBI Info, ENSG]
   Chromosome: [Xq21.1]
   NCBI Gene ID: [50945.0]
   OMIM_ID: ['300307']
   UniProt_ID: [Q9Y458]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: LAK
-ALPK1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALPK1
   ENSG_ID: [ENSG00000073331]
   source: [NCBI Info, ENSG]
   Chromosome: [4q25]
   NCBI Gene ID: [80216.0]
   OMIM_ID: ['607347']
   UniProt_ID: [Q96QP1]
-ARL4C:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARL4C
   ENSG_ID: [ENSG00000188042]
   source: [NCBI Info, ENSG]
   Chromosome: [2q37.1]
   NCBI Gene ID: [10123.0]
   OMIM_ID: ['604787']
   UniProt_ID: [P56559]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

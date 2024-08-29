@@ -1,22 +1,37 @@
 collision_symbol: UPP
-MRFAP1L2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MRFAP1L2
   ENSG_ID: [ENSG00000170846]
   source: [NCBI Info]
   Chromosome: [4p16.1]
   NCBI Gene ID: [93622.0]
   OMIM_ID: [.nan]
   UniProt_ID: [B2RBV5]
-UPP1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UPP1
   ENSG_ID: [ENSG00000183696]
   source: [NCBI Info]
   Chromosome: [7p12.3]
   NCBI Gene ID: [7378.0]
   OMIM_ID: ['191730']
   UniProt_ID: [Q16831]
-UPRT:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UPRT
   ENSG_ID: [ENSG00000094841]
   source: [NCBI Info]
   Chromosome: [Xq13.3]
   NCBI Gene ID: [139596.0]
   OMIM_ID: ['300656']
   UniProt_ID: [Q96BW1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: HK1
-HOOK1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HOOK1
   ENSG_ID: [ENSG00000134709]
   source: [NCBI Info, ENSG]
   Chromosome: [1p32.1]
   NCBI Gene ID: [51361.0]
   OMIM_ID: ['607820']
   UniProt_ID: [Q9UJC3]
-KCNA4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNA4
   ENSG_ID: [ENSG00000182255]
   source: [NCBI Info, ENSG]
   Chromosome: [11p14.1]
   NCBI Gene ID: [3739.0]
   OMIM_ID: ['176266']
   UniProt_ID: [P22459]
-TAC4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAC4
   ENSG_ID: [ENSG00000176358]
   source: [NCBI Info]
   Chromosome: [17q21.33]
   NCBI Gene ID: [255061.0]
   OMIM_ID: ['607833']
   UniProt_ID: [Q86UU9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

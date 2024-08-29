@@ -1,15 +1,26 @@
 collision_symbol: CRIP
-CRIP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRIP1
   ENSG_ID: [ENSG00000213145]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [1396.0]
   OMIM_ID: ['123875']
   UniProt_ID: [P50238]
-CRIP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRIP2
   ENSG_ID: [ENSG00000182809]
   source: [NCBI Info]
   Chromosome: [14q32.33]
   NCBI Gene ID: [1397.0]
   OMIM_ID: ['601183']
   UniProt_ID: [P52943]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

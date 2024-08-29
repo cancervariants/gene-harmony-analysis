@@ -1,15 +1,26 @@
 collision_symbol: NRF2
-GABPA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GABPA
   ENSG_ID: [ENSG00000154727]
   source: [NCBI Info, ENSG]
   Chromosome: [21q21.3]
   NCBI Gene ID: [2551.0]
   OMIM_ID: ['600609']
   UniProt_ID: [Q06546]
-NFE2L2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NFE2L2
   ENSG_ID: [ENSG00000116044]
   source: [NCBI Info, ENSG]
   Chromosome: [2q31.2]
   NCBI Gene ID: [4780.0]
   OMIM_ID: ['600492']
   UniProt_ID: [Q16236]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

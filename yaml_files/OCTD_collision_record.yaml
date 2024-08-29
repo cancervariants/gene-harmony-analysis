@@ -1,15 +1,26 @@
 collision_symbol: OCTD
-FBN1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBN1
   ENSG_ID: [ENSG00000166147]
   source: [NCBI Info]
   Chromosome: [15q21.1]
   NCBI Gene ID: [2200.0]
   OMIM_ID: ['134797']
   UniProt_ID: [P35555]
-OTC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OTC
   ENSG_ID: [ENSG00000036473]
   source: [NCBI Info]
   Chromosome: [Xp11.4]
   NCBI Gene ID: [5009.0]
   OMIM_ID: ['300461']
   UniProt_ID: [P00480]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

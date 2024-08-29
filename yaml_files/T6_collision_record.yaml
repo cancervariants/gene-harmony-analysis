@@ -1,15 +1,26 @@
 collision_symbol: T6
-CD1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD1A
   ENSG_ID: [ENSG00000158477]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [909.0]
   OMIM_ID: ['188370']
   UniProt_ID: [P06126]
-PRSS3P2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRSS3P2
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [7q34 alternate reference locus]
   NCBI Gene ID: [154754.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q8NHM4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

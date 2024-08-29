@@ -1,15 +1,26 @@
 collision_symbol: K35
-CDK8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDK8
   ENSG_ID: [ENSG00000132964]
   source: [NCBI Info]
   Chromosome: [13q12.13]
   NCBI Gene ID: [1024.0]
   OMIM_ID: ['603184']
   UniProt_ID: [P49336]
-KRT35:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT35
   ENSG_ID: [ENSG00000197079]
   source: [NCBI Info]
   Chromosome: [17q21.2]
   NCBI Gene ID: [3886.0]
   OMIM_ID: ['602764']
   UniProt_ID: [Q92764]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

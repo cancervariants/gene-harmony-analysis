@@ -1,15 +1,26 @@
 collision_symbol: CLA1
-PMPCA:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PMPCA
   ENSG_ID: [ENSG00000165688]
   source: [NCBI Info, ENSG]
   Chromosome: [9q34.3]
   NCBI Gene ID: [23203.0]
   OMIM_ID: ['613036']
   UniProt_ID: [Q10713]
-SCARB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCARB1
   ENSG_ID: [ENSG00000073060]
   source: [NCBI Info, ENSG]
   Chromosome: [12q24.31]
   NCBI Gene ID: [949.0]
   OMIM_ID: ['601040']
   UniProt_ID: [Q8WTV0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

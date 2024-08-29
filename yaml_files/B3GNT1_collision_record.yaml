@@ -1,15 +1,26 @@
 collision_symbol: B3GNT1
-B3GNT2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: B3GNT2
   ENSG_ID: [ENSG00000170340]
   source: [NCBI Info, ENSG]
   Chromosome: [2p15]
   NCBI Gene ID: [10678.0]
   OMIM_ID: ['605581']
   UniProt_ID: [Q9NY97]
-B4GAT1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: B4GAT1
   ENSG_ID: [ENSG00000174684]
   source: [NCBI Info, ENSG]
   Chromosome: [11q13.2]
   NCBI Gene ID: [11041.0]
   OMIM_ID: ['605517']
   UniProt_ID: [O43505]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

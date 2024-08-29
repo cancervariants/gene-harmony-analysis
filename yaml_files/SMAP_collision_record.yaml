@@ -1,29 +1,48 @@
 collision_symbol: SMAP
-BRD8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRD8
   ENSG_ID: [ENSG00000112983]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [5q31.2]
   NCBI Gene ID: [10902.0]
   OMIM_ID: ['602848']
   UniProt_ID: [Q9H0E9]
-C11orf58:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: C11orf58
   ENSG_ID: [ENSG00000110696]
   source: [HGNC, NCBI Info]
   Chromosome: [11p15.2]
   NCBI Gene ID: [10944.0]
   OMIM_ID: ['619625']
   UniProt_ID: [O00193]
-KIFAP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KIFAP3
   ENSG_ID: [ENSG00000075945]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q24.2]
   NCBI Gene ID: [22920.0]
   OMIM_ID: ['601836']
   UniProt_ID: [Q92845]
-MASP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MASP2
   ENSG_ID: [ENSG00000009724]
   source: [ENSG]
   Chromosome: [1p36.22]
   NCBI Gene ID: [10747.0]
   OMIM_ID: ['605102']
   UniProt_ID: [O00187]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

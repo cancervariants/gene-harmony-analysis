@@ -1,15 +1,26 @@
 collision_symbol: NET4
-TMEM53:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TMEM53
   ENSG_ID: [ENSG00000126106]
   source: [NCBI Info]
   Chromosome: [1p34.1]
   NCBI Gene ID: [79639.0]
   OMIM_ID: ['619722']
   UniProt_ID: [Q6P2H8]
-TSPAN5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSPAN5
   ENSG_ID: [ENSG00000168785]
   source: [NCBI Info]
   Chromosome: [4q23]
   NCBI Gene ID: [10098.0]
   OMIM_ID: ['613136']
   UniProt_ID: [P62079]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

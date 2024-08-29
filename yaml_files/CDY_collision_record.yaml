@@ -1,29 +1,48 @@
 collision_symbol: CDY
-CDY1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDY1
   ENSG_ID: [ENSG00000172288]
   source: [NCBI Info]
   Chromosome: [Yq11.23]
   NCBI Gene ID: [9085.0]
   OMIM_ID: ['400016']
   UniProt_ID: [Q9Y6F8]
-CDY1B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDY1B
   ENSG_ID: [ENSG00000172352]
   source: [NCBI Info]
   Chromosome: [Yq11.23]
   NCBI Gene ID: [253175.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9Y6F8]
-CDY2A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDY2A
   ENSG_ID: [ENSG00000182415]
   source: [NCBI Info]
   Chromosome: [Yq11.222]
   NCBI Gene ID: [9426.0]
   OMIM_ID: ['400018']
   UniProt_ID: [Q9Y6F7]
-CDY2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDY2B
   ENSG_ID: [ENSG00000129873]
   source: [NCBI Info]
   Chromosome: [Yq11.222]
   NCBI Gene ID: [203611.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9Y6F7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

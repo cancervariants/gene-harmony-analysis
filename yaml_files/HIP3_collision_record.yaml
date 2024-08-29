@@ -1,15 +1,26 @@
 collision_symbol: HIP3
-HIP1R:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HIP1R
   ENSG_ID: [ENSG00000130787]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [9026.0]
   OMIM_ID: ['605613']
   UniProt_ID: [O75146]
-ZDHHC17:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZDHHC17
   ENSG_ID: [ENSG00000186908]
   source: [NCBI Info]
   Chromosome: [12q21.2]
   NCBI Gene ID: [23390.0]
   OMIM_ID: ['607799']
   UniProt_ID: [Q8IUH5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: ALURBP
-SRP14:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SRP14
   ENSG_ID: [ENSG00000140319]
   source: [NCBI Info]
   Chromosome: [15q22]
   NCBI Gene ID: [6727.0]
   OMIM_ID: ['600708']
   UniProt_ID: [P37108]
-SRP9:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SRP9
   ENSG_ID: [ENSG00000143742]
   source: [NCBI Info]
   Chromosome: [1q42.12]
   NCBI Gene ID: [6726.0]
   OMIM_ID: ['600707']
   UniProt_ID: [P49458]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

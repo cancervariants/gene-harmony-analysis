@@ -1,22 +1,37 @@
 collision_symbol: GT1
-B4GALT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: B4GALT1
   ENSG_ID: [ENSG00000086062]
   source: [NCBI Info]
   Chromosome: [9p21.1]
   NCBI Gene ID: [2683.0]
   OMIM_ID: ['137060']
   UniProt_ID: [P15291]
-ITGA2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ITGA2B
   ENSG_ID: [ENSG00000005961]
   source: [NCBI Info]
   Chromosome: [17q21.31]
   NCBI Gene ID: [3674.0]
   OMIM_ID: ['607759']
   UniProt_ID: [P08514]
-MYL4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYL4
   ENSG_ID: [ENSG00000198336]
   source: [NCBI Info]
   Chromosome: [17q21.32]
   NCBI Gene ID: [4635.0]
   OMIM_ID: ['160770']
   UniProt_ID: [P12829]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

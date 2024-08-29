@@ -1,43 +1,70 @@
 collision_symbol: MIRH1
-MIR17HG:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MIR17HG
   ENSG_ID: [ENSG00000215417]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [407975.0]
   OMIM_ID: ['609415']
   UniProt_ID: [Q75NE6]
-MIR18A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR18A
   ENSG_ID: [ENSG00000283815]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [406953.0]
   OMIM_ID: ['609417']
   UniProt_ID: [.nan]
-MIR19A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR19A
   ENSG_ID: [ENSG00000284204]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [406979.0]
   OMIM_ID: ['609418']
   UniProt_ID: [.nan]
-MIR19B1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR19B1
   ENSG_ID: [ENSG00000284375]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [406980.0]
   OMIM_ID: ['609419']
   UniProt_ID: [.nan]
-MIR20A:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR20A
   ENSG_ID: [ENSG00000283762]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [406982.0]
   OMIM_ID: ['609420']
   UniProt_ID: [.nan]
-MIR92A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR92A1
   ENSG_ID: [ENSG00000283705]
   source: [NCBI Info]
   Chromosome: [13q31.3]
   NCBI Gene ID: [407048.0]
   OMIM_ID: ['609422']
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

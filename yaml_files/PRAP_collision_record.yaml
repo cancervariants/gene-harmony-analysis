@@ -1,15 +1,26 @@
 collision_symbol: PRAP
-HSD17B7:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HSD17B7
   ENSG_ID: [ENSG00000132196]
   source: [NCBI Info]
   Chromosome: [1q23.3]
   NCBI Gene ID: [51478.0]
   OMIM_ID: ['606756']
   UniProt_ID: [P56937]
-SKAP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SKAP2
   ENSG_ID: [ENSG00000005020]
   source: [NCBI Info]
   Chromosome: [7p15.2]
   NCBI Gene ID: [8935.0]
   OMIM_ID: ['605215']
   UniProt_ID: [O75563]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: SAE2
-RBBP8:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RBBP8
   ENSG_ID: [ENSG00000101773]
   source: [NCBI Info]
   Chromosome: [18q11.2]
   NCBI Gene ID: [5932.0]
   OMIM_ID: ['604124']
   UniProt_ID: [Q99708]
-UBA2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UBA2
   ENSG_ID: [ENSG00000126261]
   source: [NCBI Info]
   Chromosome: [19q13.11]
   NCBI Gene ID: [10054.0]
   OMIM_ID: ['613295']
   UniProt_ID: [Q9UBT2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

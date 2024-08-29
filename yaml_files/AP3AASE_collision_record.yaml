@@ -1,15 +1,26 @@
 collision_symbol: AP3Aase
-ENPP4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ENPP4
   ENSG_ID: [ENSG00000001561]
   source: [HGNC]
   Chromosome: [6p21.1]
   NCBI Gene ID: [22875.0]
   OMIM_ID: ['617000']
   UniProt_ID: [Q9Y6X5]
-FHIT:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FHIT
   ENSG_ID: [ENSG00000189283]
   source: [HGNC]
   Chromosome: [3p14.2]
   NCBI Gene ID: [2272.0]
   OMIM_ID: ['601153']
   UniProt_ID: [P49789]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

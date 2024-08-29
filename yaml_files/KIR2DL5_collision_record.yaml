@@ -1,15 +1,26 @@
 collision_symbol: KIR2DL5
-KIR2DL5A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KIR2DL5A
   ENSG_ID: [ENSG00000274143, .nan]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.4 alternate reference locus, .nan]
   NCBI Gene ID: [57292.0, .nan]
   OMIM_ID: ['605305', .nan]
   UniProt_ID: [Q8N109, .nan]
-KIR2DL5B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KIR2DL5B
   ENSG_ID: [.nan]
   source: [HGNC, NCBI Info]
   Chromosome: [19q13.4 alternate reference locus]
   NCBI Gene ID: [553128.0]
   OMIM_ID: ['615727']
   UniProt_ID: [Q8NHK3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

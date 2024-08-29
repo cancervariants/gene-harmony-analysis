@@ -1,29 +1,48 @@
 collision_symbol: HS1
-EEF1A2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EEF1A2
   ENSG_ID: [ENSG00000101210]
   source: [NCBI Info, ENSG]
   Chromosome: [20q13.33]
   NCBI Gene ID: [1917.0]
   OMIM_ID: ['602959']
   UniProt_ID: [Q05639]
-HCLS1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HCLS1
   ENSG_ID: [ENSG00000180353]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [3q13.33]
   NCBI Gene ID: [3059.0]
   OMIM_ID: ['601306']
   UniProt_ID: [P14317]
-YWHAB:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: YWHAB
   ENSG_ID: [ENSG00000166913]
   source: [NCBI Info]
   Chromosome: [20q13.12]
   NCBI Gene ID: [7529.0]
   OMIM_ID: ['601289']
   UniProt_ID: [P31946]
-YWHAQ:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: YWHAQ
   ENSG_ID: [ENSG00000134308]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2p25.1]
   NCBI Gene ID: [10971.0]
   OMIM_ID: ['609009']
   UniProt_ID: [P27348]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

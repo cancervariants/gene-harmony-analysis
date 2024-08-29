@@ -1,15 +1,26 @@
 collision_symbol: RPP20
-POP5:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POP5
   ENSG_ID: [ENSG00000167272]
   source: [NCBI Info]
   Chromosome: [12q24.31]
   NCBI Gene ID: [51367.0]
   OMIM_ID: ['609992']
   UniProt_ID: [Q969H6]
-POP7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POP7
   ENSG_ID: [ENSG00000172336]
   source: [NCBI Info]
   Chromosome: [7q22.1]
   NCBI Gene ID: [10248.0]
   OMIM_ID: ['606113']
   UniProt_ID: [O75817]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

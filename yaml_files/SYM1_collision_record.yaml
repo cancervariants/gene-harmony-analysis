@@ -1,15 +1,26 @@
 collision_symbol: SYM1
-MPV17:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MPV17
   ENSG_ID: [ENSG00000115204]
   source: [NCBI Info, ENSG]
   Chromosome: [2p23.3]
   NCBI Gene ID: [4358.0]
   OMIM_ID: ['137960']
   UniProt_ID: [P39210]
-NOG:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NOG
   ENSG_ID: [ENSG00000183691]
   source: [NCBI Info, ENSG]
   Chromosome: [17q22]
   NCBI Gene ID: [9241.0]
   OMIM_ID: ['602991']
   UniProt_ID: [Q13253]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

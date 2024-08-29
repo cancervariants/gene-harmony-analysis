@@ -1,15 +1,26 @@
 collision_symbol: SPAP1
-FCRL2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FCRL2
   ENSG_ID: [ENSG00000132704]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [79368.0]
   OMIM_ID: ['606509']
   UniProt_ID: [Q96LA5]
-SPATA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPATA1
   ENSG_ID: [ENSG00000122432]
   source: [NCBI Info]
   Chromosome: [1p22.3]
   NCBI Gene ID: [100505741.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q5VX52]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

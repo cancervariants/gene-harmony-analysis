@@ -1,15 +1,26 @@
 collision_symbol: TRK1
-NTRK1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NTRK1
   ENSG_ID: [ENSG00000198400]
   source: [NCBI Info]
   Chromosome: [1q23.1]
   NCBI Gene ID: [4914.0]
   OMIM_ID: ['191315']
   UniProt_ID: [P04629]
-TRK-TTT3-5:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRK-TTT3-5
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [17p13.1]
   NCBI Gene ID: [7206.0]
   OMIM_ID: ['189918']
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

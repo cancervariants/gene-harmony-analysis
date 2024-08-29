@@ -1,22 +1,37 @@
 collision_symbol: LAP2
-ERBIN:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ERBIN
   ENSG_ID: [ENSG00000112851]
   source: [NCBI Info]
   Chromosome: [5q12.3]
   NCBI Gene ID: [55914.0]
   OMIM_ID: ['606944']
   UniProt_ID: [Q96RT1]
-HSP90AA1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HSP90AA1
   ENSG_ID: [ENSG00000080824]
   source: [NCBI Info]
   Chromosome: [14q32.31]
   NCBI Gene ID: [3320.0]
   OMIM_ID: ['140571']
   UniProt_ID: [P07900]
-TMPO:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMPO
   ENSG_ID: [ENSG00000120802]
   source: [NCBI Info]
   Chromosome: [12q23.1]
   NCBI Gene ID: [7112.0]
   OMIM_ID: ['188380']
   UniProt_ID: ['P42166, P42167']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

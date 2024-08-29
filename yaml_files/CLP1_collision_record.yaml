@@ -1,15 +1,26 @@
 collision_symbol: CLP1
-COLEC12:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COLEC12
   ENSG_ID: [ENSG00000158270]
   source: [NCBI Info]
   Chromosome: [18p11.32]
   NCBI Gene ID: [81035.0]
   OMIM_ID: ['607621']
   UniProt_ID: [Q5KU26]
-HEXIM1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HEXIM1
   ENSG_ID: [ENSG00000186834]
   source: [NCBI Info]
   Chromosome: [17q21.31]
   NCBI Gene ID: [10614.0]
   OMIM_ID: ['607328']
   UniProt_ID: [O94992]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

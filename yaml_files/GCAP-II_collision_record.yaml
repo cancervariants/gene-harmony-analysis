@@ -1,15 +1,26 @@
 collision_symbol: GCAP-II
-GUCA1B:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GUCA1B
   ENSG_ID: [ENSG00000112599]
   source: [NCBI Info]
   Chromosome: [6p21.1]
   NCBI Gene ID: [2979.0]
   OMIM_ID: ['602275']
   UniProt_ID: [Q9UMX6]
-GUCA2B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GUCA2B
   ENSG_ID: [ENSG00000044012]
   source: [NCBI Info]
   Chromosome: [1p34.2]
   NCBI Gene ID: [2981.0]
   OMIM_ID: ['601271']
   UniProt_ID: [Q16661]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: RHA
-DHX9:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DHX9
   ENSG_ID: [ENSG00000135829]
   source: [NCBI Info]
   Chromosome: [1q25.3]
   NCBI Gene ID: [1660.0]
   OMIM_ID: ['603115']
   UniProt_ID: [Q08211]
-HCL2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HCL2
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [4q28-q31]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

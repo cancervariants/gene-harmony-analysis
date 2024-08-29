@@ -1,64 +1,103 @@
 collision_symbol: H3C2
-H3C1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H3C1
   ENSG_ID: [ENSG00000275714]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8350.0]
   OMIM_ID: ['602810']
   UniProt_ID: [P68431]
-H3C10:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C10
   ENSG_ID: [ENSG00000278828]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8357.0]
   OMIM_ID: ['602818']
   UniProt_ID: [P68431]
-H3C11:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C11
   ENSG_ID: [ENSG00000275379]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8354.0]
   OMIM_ID: ['602814']
   UniProt_ID: [P68431]
-H3C12:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C12
   ENSG_ID: [ENSG00000197153]
   source: [NCBI Info]
   Chromosome: [6p22.1]
   NCBI Gene ID: [8356.0]
   OMIM_ID: ['602817']
   UniProt_ID: [P68431]
-H3C3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C3
   ENSG_ID: [ENSG00000287080]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8352.0]
   OMIM_ID: ['602812']
   UniProt_ID: [P68431]
-H3C4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C4
   ENSG_ID: [ENSG00000197409]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8351.0]
   OMIM_ID: ['602811']
   UniProt_ID: [P68431]
-H3C6:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C6
   ENSG_ID: [ENSG00000274750]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8353.0]
   OMIM_ID: ['602813']
   UniProt_ID: [P68431]
-H3C7:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C7
   ENSG_ID: [ENSG00000277775]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8968.0]
   OMIM_ID: ['602816']
   UniProt_ID: [P68431]
-H3C8:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3C8
   ENSG_ID: [ENSG00000273983]
   source: [NCBI Info]
   Chromosome: [6p22.2]
   NCBI Gene ID: [8355.0]
   OMIM_ID: ['602815']
   UniProt_ID: [P68431]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

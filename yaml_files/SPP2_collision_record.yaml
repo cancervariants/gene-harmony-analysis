@@ -1,15 +1,26 @@
 collision_symbol: SPP2
-GPKOW:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPKOW
   ENSG_ID: [ENSG00000068394]
   source: [ENSG]
   Chromosome: [Xp11.23]
   NCBI Gene ID: [27238.0]
   OMIM_ID: ['301003']
   UniProt_ID: [Q92917]
-SGPP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SGPP2
   ENSG_ID: [ENSG00000163082]
   source: [ENSG]
   Chromosome: [2q36.1]
   NCBI Gene ID: [130367.0]
   OMIM_ID: ['612827']
   UniProt_ID: [Q8IWX5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

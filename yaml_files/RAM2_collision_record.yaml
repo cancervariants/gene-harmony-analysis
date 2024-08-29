@@ -1,15 +1,26 @@
 collision_symbol: RAM2
-CDCA7L:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDCA7L
   ENSG_ID: [ENSG00000164649]
   source: [NCBI Info]
   Chromosome: [7p15.3]
   NCBI Gene ID: [55536.0]
   OMIM_ID: ['609685']
   UniProt_ID: [Q96GN5]
-EDDM3B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EDDM3B
   ENSG_ID: [ENSG00000181552]
   source: [NCBI Info]
   Chromosome: [14q11.2]
   NCBI Gene ID: [64184.0]
   OMIM_ID: ['611582']
   UniProt_ID: [P56851]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

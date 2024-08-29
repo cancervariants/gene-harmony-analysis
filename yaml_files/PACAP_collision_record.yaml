@@ -1,15 +1,26 @@
 collision_symbol: PACAP
-ADCYAP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADCYAP1
   ENSG_ID: [ENSG00000141433]
   source: [HGNC, NCBI Info]
   Chromosome: [18p11.32]
   NCBI Gene ID: [116.0]
   OMIM_ID: ['102980']
   UniProt_ID: [P18509]
-MZB1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MZB1
   ENSG_ID: [ENSG00000170476]
   source: [HGNC, NCBI Info]
   Chromosome: [5q31.2]
   NCBI Gene ID: [51237.0]
   OMIM_ID: ['609447']
   UniProt_ID: [Q8WU39]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

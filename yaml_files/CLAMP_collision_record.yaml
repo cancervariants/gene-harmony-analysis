@@ -1,15 +1,26 @@
 collision_symbol: CLAMP
-PDZK1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PDZK1
   ENSG_ID: [ENSG00000174827]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q21.1]
   NCBI Gene ID: [5174.0]
   OMIM_ID: ['603831']
   UniProt_ID: [Q5T2W1]
-SPEF1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPEF1
   ENSG_ID: [ENSG00000101222]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [20p13]
   NCBI Gene ID: [25876.0]
   OMIM_ID: ['610674']
   UniProt_ID: [Q9Y4P9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

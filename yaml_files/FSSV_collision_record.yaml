@@ -1,15 +1,26 @@
 collision_symbol: FSSV
-TNNI2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TNNI2
   ENSG_ID: [ENSG00000130598]
   source: [ENSG]
   Chromosome: [11p15.5]
   NCBI Gene ID: [7136.0]
   OMIM_ID: ['191043']
   UniProt_ID: [P48788]
-TNNT3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNNT3
   ENSG_ID: [ENSG00000130595]
   source: [ENSG]
   Chromosome: [11p15.5]
   NCBI Gene ID: [7140.0]
   OMIM_ID: ['600692']
   UniProt_ID: [P45378]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

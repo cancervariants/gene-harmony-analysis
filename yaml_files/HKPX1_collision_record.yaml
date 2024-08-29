@@ -1,15 +1,26 @@
 collision_symbol: HKPX1
-GLRA1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLRA1
   ENSG_ID: [ENSG00000145888]
   source: [NCBI Info]
   Chromosome: [5q33.1]
   NCBI Gene ID: [2741.0]
   OMIM_ID: ['138491']
   UniProt_ID: [P23415]
-GPHN:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GPHN
   ENSG_ID: [ENSG00000171723]
   source: [NCBI Info]
   Chromosome: [14q23.3]
   NCBI Gene ID: [10243.0]
   OMIM_ID: ['603930']
   UniProt_ID: [Q9NQX3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,15 +1,26 @@
 collision_symbol: CTP9
-XAGE1A:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: XAGE1A
   ENSG_ID: [ENSG00000204379]
   source: [NCBI Info]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [653220.0]
   OMIM_ID: ['300742']
   UniProt_ID: [Q9HD64]
-XAGE1B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: XAGE1B
   ENSG_ID: [ENSG00000204382]
   source: [NCBI Info]
   Chromosome: [Xp11.22]
   NCBI Gene ID: [653067.0]
   OMIM_ID: ['300289']
   UniProt_ID: [Q9HD64]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

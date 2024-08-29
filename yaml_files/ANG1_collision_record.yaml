@@ -1,15 +1,26 @@
 collision_symbol: ANG1
-ANGPT1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANGPT1
   ENSG_ID: [ENSG00000154188]
   source: [NCBI Info]
   Chromosome: [8q23.1]
   NCBI Gene ID: [284.0]
   OMIM_ID: ['601667']
   UniProt_ID: [Q15389]
-TM7SF2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TM7SF2
   ENSG_ID: [ENSG00000149809]
   source: [NCBI Info]
   Chromosome: [11q13.1]
   NCBI Gene ID: [7108.0]
   OMIM_ID: ['603414']
   UniProt_ID: [O76062]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,22 +1,37 @@
 collision_symbol: CART1
-ALX1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALX1
   ENSG_ID: [ENSG00000180318]
   source: [NCBI Info, ENSG]
   Chromosome: [12q21.31]
   NCBI Gene ID: [8092.0]
   OMIM_ID: ['601527']
   UniProt_ID: [Q15699]
-RAB11FIP3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAB11FIP3
   ENSG_ID: [ENSG00000090565]
   source: [NCBI Info]
   Chromosome: [16p13.3]
   NCBI Gene ID: [9727.0]
   OMIM_ID: ['608738']
   UniProt_ID: [O75154]
-TRAF4:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAF4
   ENSG_ID: [ENSG00000076604]
   source: [NCBI Info, ENSG]
   Chromosome: [17q11.2]
   NCBI Gene ID: [9618.0]
   OMIM_ID: ['602464']
   UniProt_ID: [Q9BUZ4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

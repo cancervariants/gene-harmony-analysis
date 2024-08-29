@@ -1,22 +1,37 @@
 collision_symbol: OR19-18
-OR7A10:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OR7A10
   ENSG_ID: [ENSG00000127515]
   source: [NCBI Info]
   Chromosome: [19p13.12]
   NCBI Gene ID: [390892.0]
   OMIM_ID: [.nan]
   UniProt_ID: [O76100]
-OR7A2P:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR7A2P
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
-OR7C2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OR7C2
   ENSG_ID: [ENSG00000127529]
   source: [NCBI Info]
   Chromosome: [19p13.12]
   NCBI Gene ID: [26658.0]
   OMIM_ID: [.nan]
   UniProt_ID: [O60412]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

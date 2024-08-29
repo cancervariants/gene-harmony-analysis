@@ -1,15 +1,26 @@
 collision_symbol: PP5
-PPP5C:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPP5C
   ENSG_ID: [ENSG00000011485]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [19q13.32]
   NCBI Gene ID: [5536.0]
   OMIM_ID: ['600658']
   UniProt_ID: [P53041]
-TFPI2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFPI2
   ENSG_ID: [ENSG00000105825]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [7q21.3]
   NCBI Gene ID: [7980.0]
   OMIM_ID: ['600033']
   UniProt_ID: [P48307]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

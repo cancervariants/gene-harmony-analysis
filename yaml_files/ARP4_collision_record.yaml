@@ -1,15 +1,26 @@
 collision_symbol: ARP4
-ANGPTL4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANGPTL4
   ENSG_ID: [ENSG00000167772]
   source: [NCBI Info]
   Chromosome: [19p13.2]
   NCBI Gene ID: [51129.0]
   OMIM_ID: ['605910']
   UniProt_ID: [Q9BY76]
-APOBEC3B:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: APOBEC3B
   ENSG_ID: [ENSG00000179750]
   source: [NCBI Info]
   Chromosome: [22q13.1]
   NCBI Gene ID: [9582.0]
   OMIM_ID: ['607110']
   UniProt_ID: [Q9UH17]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

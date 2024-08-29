@@ -1,22 +1,37 @@
 collision_symbol: MCT
-MCAT:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MCAT
   ENSG_ID: [ENSG00000100294]
   source: [NCBI Info]
   Chromosome: [22q13.2]
   NCBI Gene ID: [27349.0]
   OMIM_ID: ['614479']
   UniProt_ID: [Q8IVS2]
-MCPH1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MCPH1
   ENSG_ID: [ENSG00000147316]
   source: [NCBI Info]
   Chromosome: [8p23.1]
   NCBI Gene ID: [79648.0]
   OMIM_ID: ['607117']
   UniProt_ID: [Q8NEM0]
-SLC16A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC16A1
   ENSG_ID: [ENSG00000155380]
   source: [NCBI Info]
   Chromosome: [1p13.2]
   NCBI Gene ID: [6566.0]
   OMIM_ID: ['600682']
   UniProt_ID: [P53985]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

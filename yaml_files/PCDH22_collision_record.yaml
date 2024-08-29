@@ -1,15 +1,26 @@
 collision_symbol: PCDH22
-PCDH11X:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PCDH11X
   ENSG_ID: [ENSG00000102290]
   source: [NCBI Info]
   Chromosome: [Xq21.31]
   NCBI Gene ID: [27328.0]
   OMIM_ID: ['300246']
   UniProt_ID: [Q9BZA7]
-PCDH11Y:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCDH11Y
   ENSG_ID: [ENSG00000099715]
   source: [NCBI Info]
   Chromosome: [Yp11.2]
   NCBI Gene ID: [83259.0]
   OMIM_ID: ['400022']
   UniProt_ID: [Q9BZA8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

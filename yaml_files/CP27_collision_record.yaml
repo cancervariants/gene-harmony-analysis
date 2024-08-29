@@ -1,15 +1,26 @@
 collision_symbol: CP27
-CFDP1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CFDP1
   ENSG_ID: [ENSG00000153774]
   source: [HGNC, NCBI Info]
   Chromosome: [16q23.1]
   NCBI Gene ID: [10428.0]
   OMIM_ID: ['608108']
   UniProt_ID: [Q9UEE9]
-CYP27A1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CYP27A1
   ENSG_ID: [ENSG00000135929]
   source: [HGNC, NCBI Info]
   Chromosome: [2q35]
   NCBI Gene ID: [1593.0]
   OMIM_ID: ['606530']
   UniProt_ID: [Q02318]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

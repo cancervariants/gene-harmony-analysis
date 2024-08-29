@@ -1,15 +1,26 @@
 collision_symbol: C17
-CRCP:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRCP
   ENSG_ID: [ENSG00000241258]
   source: [NCBI Info, ENSG]
   Chromosome: [7q11.21]
   NCBI Gene ID: [27297.0]
   OMIM_ID: ['606121']
   UniProt_ID: [O75575]
-CYTL1:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CYTL1
   ENSG_ID: [ENSG00000170891]
   source: [NCBI Info, ENSG]
   Chromosome: [4p16.2]
   NCBI Gene ID: [54360.0]
   OMIM_ID: ['607930']
   UniProt_ID: [Q9NRR1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

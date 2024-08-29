@@ -1,15 +1,26 @@
 collision_symbol: GPD
-ACKR1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACKR1
   ENSG_ID: [ENSG00000213088]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [1q23.2]
   NCBI Gene ID: [2532.0]
   OMIM_ID: ['613665']
   UniProt_ID: [Q16570]
-GYPC:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GYPC
   ENSG_ID: [ENSG00000136732]
   source: [HGNC, NCBI Info, ENSG]
   Chromosome: [2q14.3]
   NCBI Gene ID: [2995.0]
   OMIM_ID: ['110750']
   UniProt_ID: [P04921]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

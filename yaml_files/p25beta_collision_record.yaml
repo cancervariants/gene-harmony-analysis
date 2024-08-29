@@ -1,15 +1,26 @@
 collision_symbol: p25beta
-CBX1:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CBX1
   ENSG_ID: [ENSG00000108468]
   source: [NCBI Info]
   Chromosome: [17q21.32]
   NCBI Gene ID: [10951.0]
   OMIM_ID: ['604511']
   UniProt_ID: [P83916]
-TPPP2:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPPP2
   ENSG_ID: [ENSG00000179636]
   source: [NCBI Info]
   Chromosome: [14q11.2]
   NCBI Gene ID: [122664.0]
   OMIM_ID: ['616956']
   UniProt_ID: [P59282]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

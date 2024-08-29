@@ -1,15 +1,26 @@
 collision_symbol: EFA6R
-BDH2:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BDH2
   ENSG_ID: [ENSG00000164039]
   source: [NCBI Info]
   Chromosome: [4q24]
   NCBI Gene ID: [56898.0]
   OMIM_ID: [.nan]
   UniProt_ID: [Q9BUT1]
-PSD3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSD3
   ENSG_ID: [ENSG00000156011]
   source: [NCBI Info]
   Chromosome: [8p22]
   NCBI Gene ID: [23362.0]
   OMIM_ID: ['614440']
   UniProt_ID: [Q9NYI0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

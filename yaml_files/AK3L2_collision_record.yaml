@@ -1,15 +1,26 @@
 collision_symbol: AK3L2
-AK4:
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AK4
   ENSG_ID: [ENSG00000162433]
   source: [NCBI Info]
   Chromosome: [1p31.3]
   NCBI Gene ID: [205.0]
   OMIM_ID: ['103030']
   UniProt_ID: [P27144]
-AK4P3:
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AK4P3
   ENSG_ID: [.nan]
   source: [NCBI Info]
   Chromosome: [.nan]
   NCBI Gene ID: [.nan]
   OMIM_ID: [.nan]
   UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
