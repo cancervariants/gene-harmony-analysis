@@ -1,0 +1,15 @@
+collision_symbol: AGS3
+GPSM1:
+  ENSG_ID: [ENSG00000160360]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [26086.0]
+  OMIM_ID: ['609491']
+  UniProt_ID: [Q86YR5]
+RNASEH2C:
+  ENSG_ID: [ENSG00000172922]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [84153.0]
+  OMIM_ID: ['610330']
+  UniProt_ID: [Q8TDP1]

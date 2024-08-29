@@ -1,0 +1,15 @@
+collision_symbol: SP-A
+SFTPA1:
+  ENSG_ID: [ENSG00000122852]
+  source: [NCBI Info]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [653509.0]
+  OMIM_ID: ['178630']
+  UniProt_ID: [Q8IWL2]
+SFTPA2:
+  ENSG_ID: [ENSG00000185303]
+  source: [NCBI Info]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [729238.0]
+  OMIM_ID: ['178642']
+  UniProt_ID: [Q8IWL1]

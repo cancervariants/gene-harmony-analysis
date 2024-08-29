@@ -1,0 +1,15 @@
+collision_symbol: ZNF705C
+ZNF705CP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ZNF705D:
+  ENSG_ID: [ENSG00000215343]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [728957.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CH99]

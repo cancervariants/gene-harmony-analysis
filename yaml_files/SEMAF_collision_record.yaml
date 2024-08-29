@@ -1,0 +1,15 @@
+collision_symbol: SEMAF
+SEMA4C:
+  ENSG_ID: [ENSG00000168758]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [54910.0]
+  OMIM_ID: ['604462']
+  UniProt_ID: [Q9C0C4]
+SEMA5A:
+  ENSG_ID: [ENSG00000112902]
+  source: [NCBI Info]
+  Chromosome: [5p15.31]
+  NCBI Gene ID: [9037.0]
+  OMIM_ID: ['609297']
+  UniProt_ID: [Q13591]

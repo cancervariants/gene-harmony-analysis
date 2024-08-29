@@ -1,0 +1,15 @@
+collision_symbol: PAP-II
+ANXA4:
+  ENSG_ID: [ENSG00000196975]
+  source: [NCBI Info]
+  Chromosome: [2p13.3]
+  NCBI Gene ID: [307.0]
+  OMIM_ID: ['106491']
+  UniProt_ID: [P09525]
+TRHDE:
+  ENSG_ID: [ENSG00000072657]
+  source: [NCBI Info]
+  Chromosome: [12q21.1]
+  NCBI Gene ID: [29953.0]
+  OMIM_ID: ['606950']
+  UniProt_ID: [Q9UKU6]

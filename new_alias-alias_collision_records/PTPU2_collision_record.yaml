@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151490
-  gene_symbol: PTPRO
-- ensg_id: ENSG00000060656
-  gene_symbol: ' PTPRU'
-collision_symbol: PTPU2

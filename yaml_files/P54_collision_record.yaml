@@ -1,0 +1,22 @@
+collision_symbol: p54
+ETS1:
+  ENSG_ID: [ENSG00000134954]
+  source: [NCBI Info]
+  Chromosome: [11q24.3]
+  NCBI Gene ID: [2113.0]
+  OMIM_ID: ['164720']
+  UniProt_ID: [P14921]
+H3P43:
+  ENSG_ID: [ENSG00000226436]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp21.3]
+  NCBI Gene ID: [100506811.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SRSF11:
+  ENSG_ID: [ENSG00000116754]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [9295.0]
+  OMIM_ID: ['602010']
+  UniProt_ID: [Q05519]

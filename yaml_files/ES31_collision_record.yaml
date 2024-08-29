@@ -1,0 +1,15 @@
+collision_symbol: ES31
+CES3:
+  ENSG_ID: [ENSG00000172828]
+  source: [ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [23491.0]
+  OMIM_ID: ['605279']
+  UniProt_ID: [Q6UWW8]
+RPS27A:
+  ENSG_ID: [ENSG00000143947]
+  source: [ENSG]
+  Chromosome: [2p16.1]
+  NCBI Gene ID: [6233.0]
+  OMIM_ID: ['191343']
+  UniProt_ID: [P62979]

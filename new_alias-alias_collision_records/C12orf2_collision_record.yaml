@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000123094
-  gene_symbol: RASSF8
-- ensg_id: ENSG00000110925
-  gene_symbol: ' CSRNP2'
-collision_symbol: C12ORF2

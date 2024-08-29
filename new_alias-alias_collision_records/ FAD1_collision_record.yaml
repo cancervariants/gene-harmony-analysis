@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139618
-  gene_symbol: BRCA2
-- ensg_id: ENSG00000160688
-  gene_symbol: ' FLAD1'
-collision_symbol: ' FAD1'

@@ -1,0 +1,15 @@
+collision_symbol: CLPSMCR
+COTL1P1:
+  ENSG_ID: [.nan, ENSG00000229749]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 17p11.2]
+  NCBI Gene ID: [.nan, 27170.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+COTL1P2:
+  ENSG_ID: [.nan, ENSG00000235323]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 17p11.2]
+  NCBI Gene ID: [.nan, 347720.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

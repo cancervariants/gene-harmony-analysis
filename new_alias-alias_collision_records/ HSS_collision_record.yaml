@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000008294
-  gene_symbol: SPAG9
-- ensg_id: ENSG00000125779
-  gene_symbol: ' PANK2'
-- ensg_id: ENSG00000127554
-  gene_symbol: ' GFER'
-collision_symbol: ' HSS'

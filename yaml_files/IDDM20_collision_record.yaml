@@ -1,0 +1,15 @@
+collision_symbol: IDDM20
+HNF1A:
+  ENSG_ID: [ENSG00000135100]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [6927.0]
+  OMIM_ID: ['142410']
+  UniProt_ID: [P20823]
+SH2B3:
+  ENSG_ID: [ENSG00000111252]
+  source: [NCBI Info]
+  Chromosome: [12q24.12]
+  NCBI Gene ID: [10019.0]
+  OMIM_ID: ['605093']
+  UniProt_ID: [Q9UQQ2]

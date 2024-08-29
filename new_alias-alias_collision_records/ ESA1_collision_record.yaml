@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172977
-  gene_symbol: KAT5
-- ensg_id: ENSG00000132589
-  gene_symbol: ' FLOT2'
-collision_symbol: ' ESA1'

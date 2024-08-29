@@ -1,0 +1,15 @@
+collision_symbol: MAM2
+MAML2:
+  ENSG_ID: [ENSG00000184384]
+  source: [NCBI Info]
+  Chromosome: [11q21]
+  NCBI Gene ID: [84441.0]
+  OMIM_ID: ['607537']
+  UniProt_ID: [Q8IZL2]
+MAML3:
+  ENSG_ID: [ENSG00000196782]
+  source: [NCBI Info]
+  Chromosome: [4q31.1]
+  NCBI Gene ID: [55534.0]
+  OMIM_ID: ['608991']
+  UniProt_ID: [Q96JK9]

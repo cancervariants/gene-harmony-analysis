@@ -1,0 +1,15 @@
+collision_symbol: L31
+LGALS3:
+  ENSG_ID: [ENSG00000131981]
+  source: [NCBI Info]
+  Chromosome: [14q22.3]
+  NCBI Gene ID: [3958.0]
+  OMIM_ID: ['153619']
+  UniProt_ID: [P17931]
+RPL31:
+  ENSG_ID: [ENSG00000071082]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [6160.0]
+  OMIM_ID: ['617415']
+  UniProt_ID: [P62899]

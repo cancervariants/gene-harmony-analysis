@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000073578
-  gene_symbol: SDHA
-- ensg_id: ENSG00000117118
-  gene_symbol: ' SDHB'
-collision_symbol: SDH1

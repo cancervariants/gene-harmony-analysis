@@ -1,0 +1,15 @@
+collision_symbol: MPP11
+DNAJC2:
+  ENSG_ID: [ENSG00000105821]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [27000.0]
+  OMIM_ID: ['605502']
+  UniProt_ID: [Q99543]
+PMPCB:
+  ENSG_ID: [ENSG00000105819]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [9512.0]
+  OMIM_ID: ['603131']
+  UniProt_ID: [O75439]

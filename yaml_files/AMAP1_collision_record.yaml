@@ -1,0 +1,15 @@
+collision_symbol: AMAP1
+ASAP1:
+  ENSG_ID: [ENSG00000153317]
+  source: [NCBI Info]
+  Chromosome: [8q24.21-q24.22]
+  NCBI Gene ID: [50807.0]
+  OMIM_ID: ['605953']
+  UniProt_ID: [Q9ULH1]
+MYCBPAP:
+  ENSG_ID: [ENSG00000136449]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [84073.0]
+  OMIM_ID: ['609835']
+  UniProt_ID: [Q8TBZ2]

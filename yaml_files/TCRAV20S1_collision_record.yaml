@@ -1,0 +1,15 @@
+collision_symbol: TCRAV20S1
+TRAV20:
+  ENSG_ID: [ENSG00000211800]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28663.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J274]
+TRAV4:
+  ENSG_ID: [ENSG00000211778]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28689.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J268]

@@ -1,0 +1,15 @@
+collision_symbol: SPH2
+ANK1:
+  ENSG_ID: [ENSG00000029534]
+  source: [NCBI Info]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [286.0]
+  OMIM_ID: ['612641']
+  UniProt_ID: [P16157]
+SPTB:
+  ENSG_ID: [ENSG00000070182]
+  source: [NCBI Info]
+  Chromosome: [14q23.3]
+  NCBI Gene ID: [6710.0]
+  OMIM_ID: ['182870']
+  UniProt_ID: [P11277]

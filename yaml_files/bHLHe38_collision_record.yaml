@@ -1,0 +1,15 @@
+collision_symbol: bHLHe38
+MYCL:
+  ENSG_ID: [ENSG00000116990]
+  source: [NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [4610.0]
+  OMIM_ID: ['164850']
+  UniProt_ID: [P12524]
+MYCLP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

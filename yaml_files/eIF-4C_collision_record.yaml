@@ -1,0 +1,15 @@
+collision_symbol: eIF-4C
+EIF1AX:
+  ENSG_ID: [ENSG00000173674]
+  source: [NCBI Info]
+  Chromosome: [Xp22.12]
+  NCBI Gene ID: [1964.0]
+  OMIM_ID: ['300186']
+  UniProt_ID: [P47813]
+EIF1AY:
+  ENSG_ID: [ENSG00000198692]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [9086.0]
+  OMIM_ID: ['400014']
+  UniProt_ID: [O14602]

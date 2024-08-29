@@ -1,0 +1,15 @@
+collision_symbol: DMC
+CXCL17:
+  ENSG_ID: [ENSG00000189377]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [284340.0]
+  OMIM_ID: ['611387']
+  UniProt_ID: [Q6UXB2]
+DYM:
+  ENSG_ID: [ENSG00000141627]
+  source: [HGNC, NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [54808.0]
+  OMIM_ID: ['607461']
+  UniProt_ID: [Q7RTS9]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107968
-  gene_symbol: MAP3K8
-- ensg_id: ENSG00000005469
-  gene_symbol: ' CROT'
-collision_symbol: COT

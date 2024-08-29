@@ -1,0 +1,29 @@
+collision_symbol: PAR1
+F2R:
+  ENSG_ID: [ENSG00000181104]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q13.3]
+  NCBI Gene ID: [2149.0]
+  OMIM_ID: ['187930']
+  UniProt_ID: [P25116]
+NR1I2:
+  ENSG_ID: [ENSG00000144852]
+  source: [NCBI Info]
+  Chromosome: [3q13.33]
+  NCBI Gene ID: [8856.0]
+  OMIM_ID: ['603065']
+  UniProt_ID: [O75469]
+PWAR1:
+  ENSG_ID: [ENSG00000279050]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [145624.0]
+  OMIM_ID: ['600161']
+  UniProt_ID: [.nan]
+SLC52A2:
+  ENSG_ID: [ENSG00000185803]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [79581.0]
+  OMIM_ID: ['607882']
+  UniProt_ID: [Q9HAB3]

@@ -1,0 +1,15 @@
+collision_symbol: SOSS-B1
+NABP2:
+  ENSG_ID: [ENSG00000139579]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [79035.0]
+  OMIM_ID: ['612104']
+  UniProt_ID: [Q9BQ15]
+SSBP1:
+  ENSG_ID: [ENSG00000106028]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [6742.0]
+  OMIM_ID: ['600439']
+  UniProt_ID: [Q04837]

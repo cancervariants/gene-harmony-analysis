@@ -1,0 +1,15 @@
+collision_symbol: SST2
+CORT:
+  ENSG_ID: [ENSG00000241563]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [1325.0]
+  OMIM_ID: ['602784']
+  UniProt_ID: [O00230]
+SSTR2:
+  ENSG_ID: [ENSG00000180616]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [6752.0]
+  OMIM_ID: ['182452']
+  UniProt_ID: [P30874]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111252
-  gene_symbol: SH2B3
-- ensg_id: ENSG00000135100
-  gene_symbol: ' HNF1A'
-collision_symbol: IDDM20

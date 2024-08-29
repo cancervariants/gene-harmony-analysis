@@ -1,0 +1,15 @@
+collision_symbol: CT
+CALCA:
+  ENSG_ID: [ENSG00000110680]
+  source: [NCBI Info]
+  Chromosome: [11p15.2]
+  NCBI Gene ID: [796.0]
+  OMIM_ID: ['114130']
+  UniProt_ID: ['P01258, P06881']
+PCYT1A:
+  ENSG_ID: [ENSG00000161217]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [5130.0]
+  OMIM_ID: ['123695']
+  UniProt_ID: [P49585]

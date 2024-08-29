@@ -1,0 +1,22 @@
+collision_symbol: RBM1
+RBMXL1:
+  ENSG_ID: [ENSG00000213516]
+  source: [NCBI Info]
+  Chromosome: [1p22.2]
+  NCBI Gene ID: [494115.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96E39]
+RBMY1A1:
+  ENSG_ID: [ENSG00000234414]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [5940.0]
+  OMIM_ID: ['400006']
+  UniProt_ID: [P0DJD3]
+RBMY1D:
+  ENSG_ID: [ENSG00000244395]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [378949.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0C7P1]

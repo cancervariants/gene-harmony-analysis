@@ -1,0 +1,15 @@
+collision_symbol: CMPD1
+CMD1B:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [9q13-q22]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SOX9:
+  ENSG_ID: [ENSG00000125398]
+  source: [NCBI Info]
+  Chromosome: [17q24.3]
+  NCBI Gene ID: [6662.0]
+  OMIM_ID: ['608160']
+  UniProt_ID: [P48436]

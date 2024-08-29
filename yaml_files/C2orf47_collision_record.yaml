@@ -1,0 +1,15 @@
+collision_symbol: C2orf47
+ERGIC3:
+  ENSG_ID: [ENSG00000125991]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [51614.0]
+  OMIM_ID: ['616971']
+  UniProt_ID: [Q9Y282]
+MAIP1:
+  ENSG_ID: [ENSG00000162972]
+  source: [NCBI Info]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [79568.0]
+  OMIM_ID: ['617267']
+  UniProt_ID: [Q8WWC4]

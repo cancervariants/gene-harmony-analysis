@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122786
-  gene_symbol: CALD1
-- ensg_id: ENSG00000115361
-  gene_symbol: ' ACADL'
-collision_symbol: LCAD

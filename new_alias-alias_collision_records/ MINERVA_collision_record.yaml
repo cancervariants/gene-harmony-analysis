@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136830
-  gene_symbol: NIBAN2
-- ensg_id: ENSG00000118855
-  gene_symbol: ' MFSD1'
-collision_symbol: ' MINERVA'

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165280
-  gene_symbol: VCP
-- ensg_id: ENSG00000139146
-  gene_symbol: ' SINHCAF'
-collision_symbol: TERA

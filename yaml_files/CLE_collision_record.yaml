@@ -1,0 +1,15 @@
+collision_symbol: CLE
+EIF2B5:
+  ENSG_ID: [ENSG00000145191]
+  source: [NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [8893.0]
+  OMIM_ID: ['603945']
+  UniProt_ID: [Q13144]
+RTRAF:
+  ENSG_ID: [ENSG00000087302]
+  source: [NCBI Info]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [51637.0]
+  OMIM_ID: ['610858']
+  UniProt_ID: [Q9Y224]

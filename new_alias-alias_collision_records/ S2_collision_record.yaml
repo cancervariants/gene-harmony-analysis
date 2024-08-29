@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000140988
-  gene_symbol: RPS2
-- ensg_id: ENSG00000175166
-  gene_symbol: ' PSMD2'
-collision_symbol: ' S2'

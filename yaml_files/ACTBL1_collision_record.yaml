@@ -1,0 +1,15 @@
+collision_symbol: ACTBL1
+POTEG:
+  ENSG_ID: [ENSG00000187537]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [404785.0]
+  OMIM_ID: ['608916']
+  UniProt_ID: [Q6S5H5]
+POTEH:
+  ENSG_ID: [ENSG00000198062]
+  source: [NCBI Info]
+  Chromosome: [22q11.1]
+  NCBI Gene ID: [23784.0]
+  OMIM_ID: ['608913']
+  UniProt_ID: [Q6S545]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165521
-  gene_symbol: EML5
-- ensg_id: ENSG00000164022
-  gene_symbol: ' AIMP1'
-collision_symbol: EMAP-2

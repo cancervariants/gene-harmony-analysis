@@ -1,0 +1,15 @@
+collision_symbol: ALDRP
+ABCD2:
+  ENSG_ID: [ENSG00000173208]
+  source: [NCBI Info]
+  Chromosome: [12q12]
+  NCBI Gene ID: [225.0]
+  OMIM_ID: ['601081']
+  UniProt_ID: [Q9UBJ2]
+AKR1B1P2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

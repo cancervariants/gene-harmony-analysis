@@ -1,0 +1,15 @@
+collision_symbol: DOC-1
+CDK2AP1:
+  ENSG_ID: [ENSG00000111328]
+  source: [ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [8099.0]
+  OMIM_ID: ['602198']
+  UniProt_ID: [O14519]
+FILIP1L:
+  ENSG_ID: [ENSG00000168386]
+  source: [ENSG]
+  Chromosome: [3q12.1]
+  NCBI Gene ID: [11259.0]
+  OMIM_ID: ['612993']
+  UniProt_ID: [Q4L180]

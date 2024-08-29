@@ -1,0 +1,15 @@
+collision_symbol: TRNP
+MT-TP:
+  ENSG_ID: [ENSG00000210196]
+  source: [ENSG]
+  Chromosome: [mitochondria]
+  NCBI Gene ID: [4571.0]
+  OMIM_ID: ['590075']
+  UniProt_ID: [.nan]
+TRNP1:
+  ENSG_ID: [ENSG00000253368]
+  source: [ENSG]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [388610.0]
+  OMIM_ID: ['616824']
+  UniProt_ID: [Q6NT89]

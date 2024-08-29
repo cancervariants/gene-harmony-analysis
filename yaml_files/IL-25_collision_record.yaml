@@ -1,0 +1,15 @@
+collision_symbol: IL-25
+IL25:
+  ENSG_ID: [ENSG00000166090]
+  source: [ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [64806.0]
+  OMIM_ID: ['605658']
+  UniProt_ID: [Q9H293]
+MYDGF:
+  ENSG_ID: [ENSG00000074842]
+  source: [ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [56005.0]
+  OMIM_ID: ['606746']
+  UniProt_ID: [Q969H8]

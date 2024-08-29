@@ -1,0 +1,36 @@
+collision_symbol: AP-1
+FOS:
+  ENSG_ID: [ENSG00000170345]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [2353.0]
+  OMIM_ID: ['164810']
+  UniProt_ID: [P01100]
+FOSB:
+  ENSG_ID: [ENSG00000125740]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [2354.0]
+  OMIM_ID: ['164772']
+  UniProt_ID: [P53539]
+JUN:
+  ENSG_ID: [ENSG00000177606]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p32.1]
+  NCBI Gene ID: [3725.0]
+  OMIM_ID: ['165160']
+  UniProt_ID: [P05412]
+JUNB:
+  ENSG_ID: [ENSG00000171223]
+  source: [NCBI Info]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [3726.0]
+  OMIM_ID: ['165161']
+  UniProt_ID: [P17275]
+JUND:
+  ENSG_ID: [ENSG00000130522]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [3727.0]
+  OMIM_ID: ['165162']
+  UniProt_ID: [P17535]

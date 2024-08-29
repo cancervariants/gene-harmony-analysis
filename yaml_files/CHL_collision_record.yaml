@@ -1,0 +1,15 @@
+collision_symbol: CHL
+CHRDL1:
+  ENSG_ID: [ENSG00000101938]
+  source: [NCBI Info]
+  Chromosome: [Xq23]
+  NCBI Gene ID: [91851.0]
+  OMIM_ID: ['300350']
+  UniProt_ID: [Q9BU40]
+KLHDC8B:
+  ENSG_ID: [ENSG00000185909]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [200942.0]
+  OMIM_ID: ['613169']
+  UniProt_ID: [Q8IXV7]

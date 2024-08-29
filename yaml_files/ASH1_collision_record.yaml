@@ -1,0 +1,15 @@
+collision_symbol: ASH1
+ASCL1:
+  ENSG_ID: [ENSG00000139352]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [429.0]
+  OMIM_ID: ['100790']
+  UniProt_ID: [P50553]
+ASH1L:
+  ENSG_ID: [ENSG00000116539]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [55870.0]
+  OMIM_ID: ['607999']
+  UniProt_ID: [Q9NR48]

@@ -1,0 +1,15 @@
+collision_symbol: CD33L2
+SIGLEC5:
+  ENSG_ID: [ENSG00000268500]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SIGLEC6:
+  ENSG_ID: [ENSG00000105492]
+  source: [NCBI Info]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [946.0]
+  OMIM_ID: ['604405']
+  UniProt_ID: [O43699]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204386
-  gene_symbol: NEU1
-- ensg_id: ENSG00000141736
-  gene_symbol: ' ERBB2'
-collision_symbol: NEU

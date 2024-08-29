@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108379
-  gene_symbol: WNT3
-- ensg_id: ENSG00000149262
-  gene_symbol: ' INTS4'
-collision_symbol: INT4

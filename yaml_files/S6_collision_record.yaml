@@ -1,0 +1,15 @@
+collision_symbol: S6
+PSMC4:
+  ENSG_ID: [ENSG00000013275]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.11-q13.13]
+  NCBI Gene ID: [5704.0]
+  OMIM_ID: ['602707']
+  UniProt_ID: [P43686]
+RPS6:
+  ENSG_ID: [ENSG00000137154]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p22.1]
+  NCBI Gene ID: [6194.0]
+  OMIM_ID: ['180460']
+  UniProt_ID: [P62753]

@@ -1,0 +1,15 @@
+collision_symbol: NR1
+GRIN1:
+  ENSG_ID: [ENSG00000176884]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [2902.0]
+  OMIM_ID: ['138249']
+  UniProt_ID: [Q05586]
+NDOR1:
+  ENSG_ID: [ENSG00000188566]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [27158.0]
+  OMIM_ID: ['606073']
+  UniProt_ID: [Q9UHB4]

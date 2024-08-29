@@ -1,0 +1,15 @@
+collision_symbol: SSF1
+PPAN:
+  ENSG_ID: [ENSG00000130810]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [56342.0]
+  OMIM_ID: ['607793']
+  UniProt_ID: [Q9NQ55]
+PPAN-P2RY11:
+  ENSG_ID: [ENSG00000243207]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [692312.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

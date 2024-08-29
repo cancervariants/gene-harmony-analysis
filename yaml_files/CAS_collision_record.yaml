@@ -1,0 +1,29 @@
+collision_symbol: CAS
+BCAR1:
+  ENSG_ID: [ENSG00000050820]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [9564.0]
+  OMIM_ID: ['602941']
+  UniProt_ID: [P56945]
+CSE1L:
+  ENSG_ID: [ENSG00000124207]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [1434.0]
+  OMIM_ID: ['601342']
+  UniProt_ID: [P55060]
+CTNND1:
+  ENSG_ID: [ENSG00000198561]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [1500.0]
+  OMIM_ID: ['601045']
+  UniProt_ID: [O60716]
+TMX2-CTNND1:
+  ENSG_ID: [ENSG00000288534]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

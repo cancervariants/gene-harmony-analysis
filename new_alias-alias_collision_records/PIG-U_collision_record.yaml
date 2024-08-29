@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000078804
-  gene_symbol: TP53INP2
-- ensg_id: ENSG00000101464
-  gene_symbol: ' PIGU'
-collision_symbol: PIG-U

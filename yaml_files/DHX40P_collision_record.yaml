@@ -1,0 +1,15 @@
+collision_symbol: DHX40P
+DHX40P1:
+  ENSG_ID: [ENSG00000266992]
+  source: [NCBI Info]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [107133522.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TBC1D3P1-DHX40P1:
+  ENSG_ID: [ENSG00000267104]
+  source: [NCBI Info]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [653645.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

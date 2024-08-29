@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196693
-  gene_symbol: ZNF33B
-- ensg_id: ENSG00000189180
-  gene_symbol: ' ZNF33A'
-collision_symbol: ' KOX31'

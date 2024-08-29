@@ -1,0 +1,15 @@
+collision_symbol: LEURS
+LARS1:
+  ENSG_ID: [ENSG00000133706]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [51520.0]
+  OMIM_ID: ['151350']
+  UniProt_ID: [Q9P2J5]
+LARS2:
+  ENSG_ID: [ENSG00000011376]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [23395.0]
+  OMIM_ID: ['604544']
+  UniProt_ID: [Q15031]

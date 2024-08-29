@@ -1,0 +1,15 @@
+collision_symbol: ZWS
+PEX1:
+  ENSG_ID: [ENSG00000127980]
+  source: [NCBI Info]
+  Chromosome: [7q21.2]
+  NCBI Gene ID: [5189.0]
+  OMIM_ID: ['602136']
+  UniProt_ID: [O43933]
+PEX13:
+  ENSG_ID: [ENSG00000162928]
+  source: [NCBI Info]
+  Chromosome: [2p15]
+  NCBI Gene ID: [5194.0]
+  OMIM_ID: ['601789']
+  UniProt_ID: [Q92968]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000144579
-  gene_symbol: CTDSP1
-- ensg_id: ENSG00000198765
-  gene_symbol: ' SYCP1'
-collision_symbol: ' SCP1'

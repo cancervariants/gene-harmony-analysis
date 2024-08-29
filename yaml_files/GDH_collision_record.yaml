@@ -1,0 +1,29 @@
+collision_symbol: GDH
+CRYL1:
+  ENSG_ID: [ENSG00000165475]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [51084.0]
+  OMIM_ID: ['609877']
+  UniProt_ID: [Q9Y2S2]
+GLUD1:
+  ENSG_ID: [ENSG00000148672]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q23.2]
+  NCBI Gene ID: [2746.0]
+  OMIM_ID: ['138130']
+  UniProt_ID: [P00367]
+H6PD:
+  ENSG_ID: [ENSG00000049239]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [9563.0]
+  OMIM_ID: ['138090']
+  UniProt_ID: [O95479]
+UGDH:
+  ENSG_ID: [ENSG00000109814]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4p14]
+  NCBI Gene ID: [7358.0]
+  OMIM_ID: ['603370']
+  UniProt_ID: [O60701]

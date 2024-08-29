@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000178999
-  gene_symbol: AURKB
-- ensg_id: ENSG00000112297
-  gene_symbol: ' CRYBG1'
-- ensg_id: ENSG00000164175
-  gene_symbol: ' SLC45A2'
-collision_symbol: AIM1

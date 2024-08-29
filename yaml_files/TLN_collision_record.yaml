@@ -1,0 +1,15 @@
+collision_symbol: TLN
+ICAM5:
+  ENSG_ID: [ENSG00000105376]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [7087.0]
+  OMIM_ID: ['601852']
+  UniProt_ID: [Q9UMF0]
+TLN1:
+  ENSG_ID: [ENSG00000137076]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [7094.0]
+  OMIM_ID: ['186745']
+  UniProt_ID: [Q9Y490]

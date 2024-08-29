@@ -1,0 +1,15 @@
+collision_symbol: STD
+SULT2A1:
+  ENSG_ID: [ENSG00000105398]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [6822.0]
+  OMIM_ID: ['125263']
+  UniProt_ID: [Q06520]
+ZAP70:
+  ENSG_ID: [ENSG00000115085]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [7535.0]
+  OMIM_ID: ['176947']
+  UniProt_ID: [P43403]

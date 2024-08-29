@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101752
-  gene_symbol: MIB1
-- ensg_id: ENSG00000213672
-  gene_symbol: ' NCKIPSD'
-- ensg_id: ENSG00000166946
-  gene_symbol: ' CCNDBP1'
-collision_symbol: DIP1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171227
-  gene_symbol: TMEM37
-- ensg_id: ENSG00000134551
-  gene_symbol: ' PRH2'
-collision_symbol: PR

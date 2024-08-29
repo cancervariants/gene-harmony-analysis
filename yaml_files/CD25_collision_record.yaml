@@ -1,0 +1,15 @@
+collision_symbol: CD25
+IL2RA:
+  ENSG_ID: [ENSG00000134460]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p15.1]
+  NCBI Gene ID: [3559.0]
+  OMIM_ID: ['147730']
+  UniProt_ID: [P01589]
+ISG20:
+  ENSG_ID: [ENSG00000172183]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [3669.0]
+  OMIM_ID: ['604533']
+  UniProt_ID: [Q96AZ6]

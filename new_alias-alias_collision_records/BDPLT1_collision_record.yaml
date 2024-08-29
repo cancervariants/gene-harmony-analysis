@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203618
-  gene_symbol: GP1BB
-- ensg_id: ENSG00000185245
-  gene_symbol: ' GP1BA'
-collision_symbol: BDPLT1

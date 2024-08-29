@@ -1,0 +1,15 @@
+collision_symbol: CALDAG-GEFI
+RASGRP1:
+  ENSG_ID: [ENSG00000172575]
+  source: [NCBI Info]
+  Chromosome: [15q14]
+  NCBI Gene ID: [10125.0]
+  OMIM_ID: ['603962']
+  UniProt_ID: [O95267]
+RASGRP2:
+  ENSG_ID: [ENSG00000068831]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10235.0]
+  OMIM_ID: ['605577']
+  UniProt_ID: [Q7LDG7]

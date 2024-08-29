@@ -1,0 +1,29 @@
+collision_symbol: p97
+CFDP1:
+  ENSG_ID: [ENSG00000153774]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [10428.0]
+  OMIM_ID: ['608108']
+  UniProt_ID: [Q9UEE9]
+EIF4G2:
+  ENSG_ID: [ENSG00000110321]
+  source: [HGNC]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [1982.0]
+  OMIM_ID: ['602325']
+  UniProt_ID: [P78344]
+GEMIN4:
+  ENSG_ID: [ENSG00000179409]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [50628.0]
+  OMIM_ID: ['606969']
+  UniProt_ID: [P57678]
+VCP:
+  ENSG_ID: [ENSG00000165280]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [7415.0]
+  OMIM_ID: ['601023']
+  UniProt_ID: [P55072]

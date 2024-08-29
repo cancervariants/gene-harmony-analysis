@@ -1,0 +1,15 @@
+collision_symbol: SGN1
+ASCL3:
+  ENSG_ID: [ENSG00000176009]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [56676.0]
+  OMIM_ID: ['609154']
+  UniProt_ID: [Q9NQ33]
+GPS1:
+  ENSG_ID: [ENSG00000169727]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [2873.0]
+  OMIM_ID: ['601934']
+  UniProt_ID: [Q13098]

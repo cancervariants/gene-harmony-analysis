@@ -1,0 +1,15 @@
+collision_symbol: C7orf70
+FAM220A:
+  ENSG_ID: [ENSG00000178397]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [84792.0]
+  OMIM_ID: ['616628']
+  UniProt_ID: [Q7Z4H9]
+SMIM10L3:
+  ENSG_ID: [ENSG00000286075]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [122526779.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0C4DGP1]

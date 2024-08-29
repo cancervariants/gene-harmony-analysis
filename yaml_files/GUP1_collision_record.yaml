@@ -1,0 +1,15 @@
+collision_symbol: GUP1
+HHATL:
+  ENSG_ID: [ENSG00000010282]
+  source: [ENSG]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [57467.0]
+  OMIM_ID: ['608116']
+  UniProt_ID: [Q9HCP6]
+MYZAP:
+  ENSG_ID: [ENSG00000263155]
+  source: [ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [100820829.0]
+  OMIM_ID: ['614071']
+  UniProt_ID: [P0CAP1]

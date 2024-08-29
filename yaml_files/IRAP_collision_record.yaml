@@ -1,0 +1,15 @@
+collision_symbol: IRAP
+IL1RN:
+  ENSG_ID: [ENSG00000136689]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q14.1]
+  NCBI Gene ID: [3557.0]
+  OMIM_ID: ['147679']
+  UniProt_ID: [P18510]
+LNPEP:
+  ENSG_ID: [ENSG00000113441]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q15]
+  NCBI Gene ID: [4012.0]
+  OMIM_ID: ['151300']
+  UniProt_ID: [Q9UIQ6]

@@ -1,0 +1,15 @@
+collision_symbol: NECC1
+HOPX:
+  ENSG_ID: [ENSG00000171476]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [84525.0]
+  OMIM_ID: ['607275']
+  UniProt_ID: [Q9BPY8]
+JAKMIP2:
+  ENSG_ID: [ENSG00000176049]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [9832.0]
+  OMIM_ID: ['611197']
+  UniProt_ID: [Q96AA8]

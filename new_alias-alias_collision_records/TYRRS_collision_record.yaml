@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134684
-  gene_symbol: YARS1
-- ensg_id: ENSG00000139131
-  gene_symbol: ' YARS2'
-collision_symbol: TYRRS

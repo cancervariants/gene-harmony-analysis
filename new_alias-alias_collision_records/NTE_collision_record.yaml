@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000032444
-  gene_symbol: PNPLA6
-- ensg_id: ENSG00000135318
-  gene_symbol: ' NT5E'
-collision_symbol: NTE

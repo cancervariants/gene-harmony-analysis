@@ -1,0 +1,15 @@
+collision_symbol: CSE
+CTH:
+  ENSG_ID: [ENSG00000116761]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [1491.0]
+  OMIM_ID: ['607657']
+  UniProt_ID: [P32929]
+SLC2A1:
+  ENSG_ID: [ENSG00000117394]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [6513.0]
+  OMIM_ID: ['138140']
+  UniProt_ID: [P11166]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108091
-  gene_symbol: CCDC6
-- ensg_id: ENSG00000185920
-  gene_symbol: ' PTCH1'
-collision_symbol: PTC1

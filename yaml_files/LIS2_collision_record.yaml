@@ -1,0 +1,22 @@
+collision_symbol: LIS2
+PAFAH1B1:
+  ENSG_ID: [ENSG00000007168]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [5048.0]
+  OMIM_ID: ['601545']
+  UniProt_ID: [P43034]
+PAFAH1B1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RELN:
+  ENSG_ID: [ENSG00000189056]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [5649.0]
+  OMIM_ID: ['600514']
+  UniProt_ID: [P78509]

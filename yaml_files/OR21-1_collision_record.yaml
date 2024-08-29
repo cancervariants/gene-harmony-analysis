@@ -1,0 +1,15 @@
+collision_symbol: OR21-1
+OR4K11P:
+  ENSG_ID: [ENSG00000179381]
+  source: [NCBI Info]
+  Chromosome: [21q11.2]
+  NCBI Gene ID: [81079.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR7E23P:
+  ENSG_ID: [ENSG00000228433]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [391279.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

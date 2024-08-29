@@ -1,0 +1,15 @@
+collision_symbol: C1orf175
+MROH7:
+  ENSG_ID: [ENSG00000184313]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [374977.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q68CQ1]
+MROH7-TTC4:
+  ENSG_ID: [ENSG00000271723]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [100527960.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

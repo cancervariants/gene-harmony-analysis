@@ -1,0 +1,22 @@
+collision_symbol: GASP
+GPRASP1:
+  ENSG_ID: [ENSG00000198932]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [9737.0]
+  OMIM_ID: ['300417']
+  UniProt_ID: [Q5JY77]
+THEMIS:
+  ENSG_ID: [ENSG00000172673]
+  source: [NCBI Info]
+  Chromosome: [6q22.33]
+  NCBI Gene ID: [387357.0]
+  OMIM_ID: ['613607']
+  UniProt_ID: [Q8N1K5]
+VOPP1:
+  ENSG_ID: [ENSG00000154978]
+  source: [NCBI Info]
+  Chromosome: [7p11.2]
+  NCBI Gene ID: [81552.0]
+  OMIM_ID: ['611915']
+  UniProt_ID: [Q96AW1]

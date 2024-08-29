@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000126903
-  gene_symbol: SLC10A3
-- ensg_id: ENSG00000171824
-  gene_symbol: ' EXOSC10'
-collision_symbol: ' P3'

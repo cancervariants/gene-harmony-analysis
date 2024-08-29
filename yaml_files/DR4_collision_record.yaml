@@ -1,0 +1,15 @@
+collision_symbol: DR4
+HLA-DRB4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TNFRSF10A:
+  ENSG_ID: [ENSG00000104689]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [8797.0]
+  OMIM_ID: ['603611']
+  UniProt_ID: [O00220]

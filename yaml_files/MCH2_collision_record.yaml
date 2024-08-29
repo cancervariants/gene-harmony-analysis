@@ -1,0 +1,15 @@
+collision_symbol: MCH2
+CASP6:
+  ENSG_ID: [ENSG00000138794]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q25]
+  NCBI Gene ID: [839.0]
+  OMIM_ID: ['601532']
+  UniProt_ID: [P55212]
+MCHR2:
+  ENSG_ID: [ENSG00000152034]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q16.2]
+  NCBI Gene ID: [84539.0]
+  OMIM_ID: ['606111']
+  UniProt_ID: [Q969V1]

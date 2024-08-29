@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136689
-  gene_symbol: IL1RN
-- ensg_id: ENSG00000115594
-  gene_symbol: ' IL1R1'
-collision_symbol: IL1RA

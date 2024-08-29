@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000256671
-  gene_symbol: LIMS4
-- ensg_id: ENSG00000256977
-  gene_symbol: ' LIMS3'
-collision_symbol: LIMS3L

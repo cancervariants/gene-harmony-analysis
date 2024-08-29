@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131323
-  gene_symbol: TRAF3
-- ensg_id: ENSG00000052344
-  gene_symbol: ' PRSS8'
-collision_symbol: CAP1

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110455
-  gene_symbol: ACCS
-- ensg_id: ENSG00000103066
-  gene_symbol: ' PLA2G15'
-- ensg_id: ENSG00000131069
-  gene_symbol: ' ACSS2'
-collision_symbol: ACS

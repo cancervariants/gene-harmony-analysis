@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: CNC2
-- ensg_id: ENSG00000108946
-  gene_symbol: ' PRKAR1A'
-collision_symbol: CNC

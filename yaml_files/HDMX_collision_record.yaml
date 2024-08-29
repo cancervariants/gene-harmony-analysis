@@ -1,0 +1,15 @@
+collision_symbol: HDMX
+MDM2:
+  ENSG_ID: [ENSG00000135679]
+  source: [NCBI Info]
+  Chromosome: [12q15]
+  NCBI Gene ID: [4193.0]
+  OMIM_ID: ['164785']
+  UniProt_ID: [Q00987]
+MDM4:
+  ENSG_ID: [ENSG00000198625]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [4194.0]
+  OMIM_ID: ['602704']
+  UniProt_ID: [O15151]

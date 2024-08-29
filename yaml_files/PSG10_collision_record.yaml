@@ -1,0 +1,15 @@
+collision_symbol: PSG10
+PSG10P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PSG6:
+  ENSG_ID: [ENSG00000170848]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5675.0]
+  OMIM_ID: ['176395']
+  UniProt_ID: [Q00889]

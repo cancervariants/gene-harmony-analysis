@@ -1,0 +1,15 @@
+collision_symbol: COL6A4
+COL6A4P1:
+  ENSG_ID: [ENSG00000291281, ENSG00000230524]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 3p25.1]
+  NCBI Gene ID: [.nan, 344875.0]
+  OMIM_ID: [.nan, '612397']
+  UniProt_ID: [.nan]
+COL6A4P2:
+  ENSG_ID: [.nan, ENSG00000228252]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 3q22.1]
+  NCBI Gene ID: [.nan, 646300.0]
+  OMIM_ID: [.nan, '616612']
+  UniProt_ID: [.nan]

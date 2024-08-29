@@ -1,0 +1,15 @@
+collision_symbol: RNA28S5
+RNA28SN4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22 unplaced]
+  NCBI Gene ID: [109864272.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA28SN5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [unplaced]
+  NCBI Gene ID: [100008589.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

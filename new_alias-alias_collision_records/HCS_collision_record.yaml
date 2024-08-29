@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159267
-  gene_symbol: HLCS
-- ensg_id: ENSG00000172115
-  gene_symbol: ' CYCS'
-collision_symbol: HCS

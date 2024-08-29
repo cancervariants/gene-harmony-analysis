@@ -1,0 +1,15 @@
+collision_symbol: GDH2
+GLUD2:
+  ENSG_ID: [ENSG00000182890]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [2747.0]
+  OMIM_ID: ['300144']
+  UniProt_ID: [P49448]
+GPD2:
+  ENSG_ID: [ENSG00000115159]
+  source: [NCBI Info]
+  Chromosome: [2q24.1]
+  NCBI Gene ID: [2820.0]
+  OMIM_ID: ['138430']
+  UniProt_ID: [P43304]

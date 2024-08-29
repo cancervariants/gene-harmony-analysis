@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110944
-  gene_symbol: IL23A
-- ensg_id: ENSG00000125571
-  gene_symbol: ' IL37'
-collision_symbol: IL-23

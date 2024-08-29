@@ -1,0 +1,15 @@
+collision_symbol: BAP
+PHB2:
+  ENSG_ID: [ENSG00000215021]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [11331.0]
+  OMIM_ID: ['610704']
+  UniProt_ID: [Q99623]
+SIL1:
+  ENSG_ID: [ENSG00000120725]
+  source: [NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [64374.0]
+  OMIM_ID: ['608005']
+  UniProt_ID: [Q9H173]

@@ -1,0 +1,15 @@
+collision_symbol: SLP1
+SUCO:
+  ENSG_ID: [ENSG00000094975]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q24.3]
+  NCBI Gene ID: [51430.0]
+  OMIM_ID: ['619434']
+  UniProt_ID: [Q9UBS9]
+SYTL1:
+  ENSG_ID: [ENSG00000142765]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [84958.0]
+  OMIM_ID: ['608042']
+  UniProt_ID: [Q8IYJ3]

@@ -1,0 +1,15 @@
+collision_symbol: ATPM
+ATP5F1A:
+  ENSG_ID: [ENSG00000152234]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [498.0]
+  OMIM_ID: ['164360']
+  UniProt_ID: [P25705]
+ATP5PF:
+  ENSG_ID: [ENSG00000154723]
+  source: [NCBI Info, ENSG]
+  Chromosome: [21q21.3]
+  NCBI Gene ID: [522.0]
+  OMIM_ID: ['603152']
+  UniProt_ID: [P18859]

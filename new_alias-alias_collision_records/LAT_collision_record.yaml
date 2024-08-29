@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169682
-  gene_symbol: SPNS1
-- ensg_id: ENSG00000135336
-  gene_symbol: ' ORC3'
-collision_symbol: LAT

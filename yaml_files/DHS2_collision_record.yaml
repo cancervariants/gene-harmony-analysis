@@ -1,0 +1,15 @@
+collision_symbol: DHS2
+KCNN4:
+  ENSG_ID: [ENSG00000104783]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [3783.0]
+  OMIM_ID: ['602754']
+  UniProt_ID: [O15554]
+LOC113664106:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

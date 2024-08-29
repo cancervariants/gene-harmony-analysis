@@ -1,0 +1,15 @@
+collision_symbol: RhoGAP2
+ARHGAP22:
+  ENSG_ID: [ENSG00000128805]
+  source: [HGNC]
+  Chromosome: [10q11.22-q11.23]
+  NCBI Gene ID: [58504.0]
+  OMIM_ID: ['610585']
+  UniProt_ID: [Q7Z5H3]
+CHN1:
+  ENSG_ID: [ENSG00000128656]
+  source: [HGNC]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1123.0]
+  OMIM_ID: ['118423']
+  UniProt_ID: [P15882]

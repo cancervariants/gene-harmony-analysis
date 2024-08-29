@@ -1,0 +1,15 @@
+collision_symbol: ELK2
+ELK2AP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+KCNH3:
+  ENSG_ID: [ENSG00000135519]
+  source: [NCBI Info]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [23416.0]
+  OMIM_ID: ['604527']
+  UniProt_ID: [Q9ULD8]

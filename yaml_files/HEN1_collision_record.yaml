@@ -1,0 +1,15 @@
+collision_symbol: HEN1
+HENMT1:
+  ENSG_ID: [ENSG00000162639]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [113802.0]
+  OMIM_ID: ['612178']
+  UniProt_ID: [Q5T8I9]
+NHLH1:
+  ENSG_ID: [ENSG00000171786]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [4807.0]
+  OMIM_ID: ['162360']
+  UniProt_ID: [Q02575]

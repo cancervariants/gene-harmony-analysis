@@ -1,0 +1,15 @@
+collision_symbol: Z18
+SNORD102:
+  ENSG_ID: [ENSG00000207500]
+  source: [NCBI Info]
+  Chromosome: [13q12.2]
+  NCBI Gene ID: [26771.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORD74:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q25.1]
+  NCBI Gene ID: [619498.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: IL-7
+IL7:
+  ENSG_ID: [ENSG00000104432]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [3574.0]
+  OMIM_ID: ['146660']
+  UniProt_ID: [P13232]
+LINC02605:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

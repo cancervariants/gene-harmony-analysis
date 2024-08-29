@@ -1,0 +1,15 @@
+collision_symbol: BS
+BLM:
+  ENSG_ID: [ENSG00000197299]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [641.0]
+  OMIM_ID: ['604610']
+  UniProt_ID: [P54132]
+GP1BB:
+  ENSG_ID: [ENSG00000203618]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [2812.0]
+  OMIM_ID: ['138720']
+  UniProt_ID: [P13224]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196132
-  gene_symbol: MYT1
-- ensg_id: ENSG00000163975
-  gene_symbol: ' MELTF'
-collision_symbol: MTF1

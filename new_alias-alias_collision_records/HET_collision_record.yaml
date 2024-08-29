@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160633
-  gene_symbol: SAFB
-- ensg_id: ENSG00000110628
-  gene_symbol: ' SLC22A18'
-collision_symbol: HET

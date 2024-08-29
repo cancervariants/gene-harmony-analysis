@@ -1,0 +1,15 @@
+collision_symbol: DFNB102
+CLIC5:
+  ENSG_ID: [ENSG00000112782]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [53405.0]
+  OMIM_ID: ['607293']
+  UniProt_ID: [Q9NZA1]
+EPS8:
+  ENSG_ID: [ENSG00000151491]
+  source: [NCBI Info]
+  Chromosome: [12p12.3]
+  NCBI Gene ID: [2059.0]
+  OMIM_ID: ['600206']
+  UniProt_ID: [Q12929]

@@ -1,0 +1,15 @@
+collision_symbol: COMT2
+LRTOMT:
+  ENSG_ID: [ENSG00000284922]
+  source: [HGNC]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [220074.0]
+  OMIM_ID: ['612414']
+  UniProt_ID: [.nan]
+TOMT:
+  ENSG_ID: [ENSG00000284844]
+  source: [HGNC]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [120356740.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8WZ04]

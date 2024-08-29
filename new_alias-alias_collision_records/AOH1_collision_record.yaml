@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138356
-  gene_symbol: AOX1
-- ensg_id: ENSG00000290905
-  gene_symbol: ' AOX3P'
-collision_symbol: AOH1

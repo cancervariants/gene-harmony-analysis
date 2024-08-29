@@ -1,0 +1,15 @@
+collision_symbol: Gx
+RAC2:
+  ENSG_ID: [ENSG00000128340]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [5880.0]
+  OMIM_ID: ['602049']
+  UniProt_ID: [P15153]
+SMO:
+  ENSG_ID: [ENSG00000128602]
+  source: [NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [6608.0]
+  OMIM_ID: ['601500']
+  UniProt_ID: [Q99835]

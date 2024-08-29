@@ -1,0 +1,15 @@
+collision_symbol: TERA
+SINHCAF:
+  ENSG_ID: [ENSG00000139146]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p11.21]
+  NCBI Gene ID: [58516.0]
+  OMIM_ID: ['615027']
+  UniProt_ID: [Q9NP50]
+VCP:
+  ENSG_ID: [ENSG00000165280]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [7415.0]
+  OMIM_ID: ['601023']
+  UniProt_ID: [P55072]

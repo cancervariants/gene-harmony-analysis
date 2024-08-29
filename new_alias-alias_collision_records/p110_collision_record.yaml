@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000257923
-  gene_symbol: CUX1
-- ensg_id: ENSG00000075856
-  gene_symbol: ' SART3'
-collision_symbol: p110

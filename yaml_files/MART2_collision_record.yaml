@@ -1,0 +1,15 @@
+collision_symbol: MART2
+HHAT:
+  ENSG_ID: [ENSG00000054392]
+  source: [ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [55733.0]
+  OMIM_ID: ['605743']
+  UniProt_ID: [Q5VTY9]
+PEG10:
+  ENSG_ID: [ENSG00000242265]
+  source: [ENSG]
+  Chromosome: [7q21.3]
+  NCBI Gene ID: [23089.0]
+  OMIM_ID: ['609810']
+  UniProt_ID: [Q86TG7]

@@ -1,0 +1,15 @@
+collision_symbol: COX7AL
+COX7A2:
+  ENSG_ID: [ENSG00000112695]
+  source: [NCBI Info]
+  Chromosome: [6q14.1]
+  NCBI Gene ID: [1347.0]
+  OMIM_ID: ['123996']
+  UniProt_ID: [P14406]
+COX7A2P2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

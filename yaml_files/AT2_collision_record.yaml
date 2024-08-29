@@ -1,0 +1,15 @@
+collision_symbol: AT2
+AGTR2:
+  ENSG_ID: [ENSG00000180772]
+  source: [NCBI Info]
+  Chromosome: [Xq23]
+  NCBI Gene ID: [186.0]
+  OMIM_ID: ['300034']
+  UniProt_ID: [P50052]
+PGR-AS1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

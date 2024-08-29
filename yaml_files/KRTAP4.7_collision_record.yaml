@@ -1,0 +1,15 @@
+collision_symbol: KRTAP4.7
+KRTAP4-7:
+  ENSG_ID: [ENSG00000240871]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [100132476.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9BYR0]
+LOC100996750:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: UBC6
+UBE2J1:
+  ENSG_ID: [ENSG00000198833]
+  source: [NCBI Info]
+  Chromosome: [6q15]
+  NCBI Gene ID: [51465.0]
+  OMIM_ID: ['616175']
+  UniProt_ID: [Q9Y385]
+UBE2J2:
+  ENSG_ID: [ENSG00000160087]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [118424.0]
+  OMIM_ID: ['619756']
+  UniProt_ID: [Q8N2K1]

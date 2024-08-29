@@ -1,0 +1,15 @@
+collision_symbol: ARP5
+ANGPTL6:
+  ENSG_ID: [ENSG00000130812]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [83854.0]
+  OMIM_ID: ['609336']
+  UniProt_ID: [Q8NI99]
+APOBEC3C:
+  ENSG_ID: [ENSG00000244509]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [27350.0]
+  OMIM_ID: ['607750']
+  UniProt_ID: [Q9NRW3]

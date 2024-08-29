@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162409
-  gene_symbol: PRKAA2
-- ensg_id: ENSG00000111725
-  gene_symbol: ' PRKAB1'
-- ensg_id: ENSG00000132356
-  gene_symbol: ' PRKAA1'
-collision_symbol: AMPK

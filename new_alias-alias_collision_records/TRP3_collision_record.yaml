@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138741
-  gene_symbol: TRPC3
-- ensg_id: NAN
-  gene_symbol: ' TRP-TGG3-1'
-collision_symbol: TRP3

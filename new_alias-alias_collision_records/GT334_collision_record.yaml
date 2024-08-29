@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160218
-  gene_symbol: TRAPPC10
-- ensg_id: NAN
-  gene_symbol: ' H2AZP1'
-collision_symbol: GT334

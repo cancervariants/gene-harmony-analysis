@@ -1,0 +1,15 @@
+collision_symbol: Mar1
+RTL1:
+  ENSG_ID: [ENSG00000254656]
+  source: [NCBI Info]
+  Chromosome: [14q32.2]
+  NCBI Gene ID: [388015.0]
+  OMIM_ID: ['611896']
+  UniProt_ID: [A6NKG5]
+SETMAR:
+  ENSG_ID: [ENSG00000170364]
+  source: [NCBI Info]
+  Chromosome: [3p26.1]
+  NCBI Gene ID: [6419.0]
+  OMIM_ID: ['609834']
+  UniProt_ID: [Q53H47]

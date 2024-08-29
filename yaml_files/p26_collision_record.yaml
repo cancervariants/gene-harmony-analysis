@@ -1,0 +1,15 @@
+collision_symbol: p26
+H3P22:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TMED3:
+  ENSG_ID: [ENSG00000166557]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [23423.0]
+  OMIM_ID: ['620437']
+  UniProt_ID: [Q9Y3Q3]

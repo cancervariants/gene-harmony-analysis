@@ -1,0 +1,15 @@
+collision_symbol: AE2
+NBPF3:
+  ENSG_ID: [ENSG00000142794]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [84224.0]
+  OMIM_ID: ['612992']
+  UniProt_ID: [Q9H094]
+SLC4A2:
+  ENSG_ID: [ENSG00000164889]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [6522.0]
+  OMIM_ID: ['109280']
+  UniProt_ID: [P04920]

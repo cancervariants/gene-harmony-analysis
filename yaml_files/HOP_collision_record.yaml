@@ -1,0 +1,22 @@
+collision_symbol: HOP
+HOPX:
+  ENSG_ID: [ENSG00000171476]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q12]
+  NCBI Gene ID: [84525.0]
+  OMIM_ID: ['607275']
+  UniProt_ID: [Q9BPY8]
+ST13:
+  ENSG_ID: [ENSG00000100380]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [6767.0]
+  OMIM_ID: ['606796']
+  UniProt_ID: [P50502]
+STIP1:
+  ENSG_ID: [ENSG00000168439]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10963.0]
+  OMIM_ID: ['605063']
+  UniProt_ID: [P31948]

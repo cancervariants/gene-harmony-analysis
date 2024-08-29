@@ -1,0 +1,22 @@
+collision_symbol: SHEP1
+HERC2:
+  ENSG_ID: [ENSG00000128731]
+  source: [NCBI Info]
+  Chromosome: [15q13.1]
+  NCBI Gene ID: [8924.0]
+  OMIM_ID: ['605837']
+  UniProt_ID: [O95714]
+OCA2:
+  ENSG_ID: [ENSG00000104044]
+  source: [NCBI Info]
+  Chromosome: [15q12-q13.1]
+  NCBI Gene ID: [4948.0]
+  OMIM_ID: ['611409']
+  UniProt_ID: [Q04671]
+SH2D3C:
+  ENSG_ID: [ENSG00000095370]
+  source: [NCBI Info]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [10044.0]
+  OMIM_ID: ['604722']
+  UniProt_ID: [Q8N5H7]

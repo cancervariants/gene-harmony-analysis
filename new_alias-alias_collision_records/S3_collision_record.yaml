@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: LOC107228318
-- ensg_id: ENSG00000149273
-  gene_symbol: ' RPS3'
-- ensg_id: ENSG00000108344
-  gene_symbol: ' PSMD3'
-collision_symbol: S3

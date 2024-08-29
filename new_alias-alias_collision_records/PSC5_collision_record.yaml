@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143106
-  gene_symbol: PSMA5
-- ensg_id: ENSG00000008018
-  gene_symbol: ' PSMB1'
-collision_symbol: PSC5

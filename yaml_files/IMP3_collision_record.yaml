@@ -1,0 +1,15 @@
+collision_symbol: IMP3
+IGF2BP3:
+  ENSG_ID: [ENSG00000136231]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [10643.0]
+  OMIM_ID: ['608259']
+  UniProt_ID: [O00425]
+SPPL2A:
+  ENSG_ID: [ENSG00000138600]
+  source: [NCBI Info]
+  Chromosome: [15q21.2]
+  NCBI Gene ID: [84888.0]
+  OMIM_ID: ['608238']
+  UniProt_ID: [Q8TCT8]

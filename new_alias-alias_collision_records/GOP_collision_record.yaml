@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000268221
-  gene_symbol: OPN1MW
-- ensg_id: ENSG00000269433
-  gene_symbol: ' OPN1MW3'
-- ensg_id: ENSG00000166160
-  gene_symbol: ' OPN1MW2'
-collision_symbol: GOP

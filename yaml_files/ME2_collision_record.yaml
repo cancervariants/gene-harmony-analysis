@@ -1,0 +1,15 @@
+collision_symbol: ME2
+CELSR1:
+  ENSG_ID: [ENSG00000075275]
+  source: [NCBI Info]
+  Chromosome: [22q13.31]
+  NCBI Gene ID: [9620.0]
+  OMIM_ID: ['604523']
+  UniProt_ID: [Q9NYQ6]
+PCDHB11:
+  ENSG_ID: [ENSG00000197479]
+  source: [NCBI Info]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [56125.0]
+  OMIM_ID: ['606337']
+  UniProt_ID: [Q9Y5F2]

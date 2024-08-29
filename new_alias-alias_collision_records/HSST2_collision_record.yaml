@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166507
-  gene_symbol: NDST2
-- ensg_id: ENSG00000088002
-  gene_symbol: ' SULT2B1'
-collision_symbol: HSST2

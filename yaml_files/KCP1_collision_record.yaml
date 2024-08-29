@@ -1,0 +1,15 @@
+collision_symbol: KCP1
+KCP:
+  ENSG_ID: [ENSG00000135253]
+  source: [NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [375616.0]
+  OMIM_ID: ['609344']
+  UniProt_ID: [Q6ZWJ8]
+PERP:
+  ENSG_ID: [ENSG00000112378]
+  source: [NCBI Info]
+  Chromosome: [6q23.3]
+  NCBI Gene ID: [64065.0]
+  OMIM_ID: ['609301']
+  UniProt_ID: [Q96FX8]

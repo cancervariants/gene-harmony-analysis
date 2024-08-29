@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153561
-  gene_symbol: RMND5A
-- ensg_id: ENSG00000145916
-  gene_symbol: ' RMND5B'
-collision_symbol: GID2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000009844
-  gene_symbol: VTA1
-- ensg_id: ENSG00000104419
-  gene_symbol: ' NDRG1'
-collision_symbol: DRG-1

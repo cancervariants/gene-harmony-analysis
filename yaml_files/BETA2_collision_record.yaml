@@ -1,0 +1,15 @@
+collision_symbol: BETA2
+NEUROD1:
+  ENSG_ID: [ENSG00000162992]
+  source: [ENSG]
+  Chromosome: [2q31.3]
+  NCBI Gene ID: [4760.0]
+  OMIM_ID: ['601724']
+  UniProt_ID: [Q13562]
+TUBB4B:
+  ENSG_ID: [ENSG00000188229]
+  source: [ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [10383.0]
+  OMIM_ID: ['602660']
+  UniProt_ID: [P68371]

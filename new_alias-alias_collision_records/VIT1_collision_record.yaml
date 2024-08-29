@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138081
-  gene_symbol: FBXO11
-- ensg_id: ENSG00000205221
-  gene_symbol: ' VIT'
-collision_symbol: VIT1

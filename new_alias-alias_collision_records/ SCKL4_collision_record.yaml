@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151849
-  gene_symbol: CENPJ
-- ensg_id: ENSG00000160299
-  gene_symbol: ' PCNT'
-collision_symbol: ' SCKL4'

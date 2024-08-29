@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000157181
-  gene_symbol: ODR4
-- ensg_id: ENSG00000166407
-  gene_symbol: ' LMO1'
-collision_symbol: ' TTG1'

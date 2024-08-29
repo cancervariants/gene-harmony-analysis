@@ -1,0 +1,15 @@
+collision_symbol: STY
+CLK1:
+  ENSG_ID: [ENSG00000013441]
+  source: [NCBI Info]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [1195.0]
+  OMIM_ID: ['601951']
+  UniProt_ID: [P49759]
+ST6GALNAC3:
+  ENSG_ID: [ENSG00000184005]
+  source: [NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [256435.0]
+  OMIM_ID: ['610133']
+  UniProt_ID: [Q8NDV1]

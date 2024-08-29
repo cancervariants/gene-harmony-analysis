@@ -1,0 +1,15 @@
+collision_symbol: P76
+PLBD2:
+  ENSG_ID: [ENSG00000151176]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [196463.0]
+  OMIM_ID: ['620097']
+  UniProt_ID: [Q8NHP8]
+TM9SF2:
+  ENSG_ID: [ENSG00000125304]
+  source: [NCBI Info]
+  Chromosome: [13q32.3]
+  NCBI Gene ID: [9375.0]
+  OMIM_ID: ['604678']
+  UniProt_ID: [Q99805]

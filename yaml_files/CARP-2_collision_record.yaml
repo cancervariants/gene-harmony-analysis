@@ -1,0 +1,15 @@
+collision_symbol: CARP-2
+CA11:
+  ENSG_ID: [ENSG00000063180]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [770.0]
+  OMIM_ID: ['604644']
+  UniProt_ID: [O75493]
+RFFL:
+  ENSG_ID: [ENSG00000092871]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [117584.0]
+  OMIM_ID: ['609735']
+  UniProt_ID: [Q8WZ73]

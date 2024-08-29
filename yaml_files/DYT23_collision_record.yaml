@@ -1,0 +1,15 @@
+collision_symbol: DYT23
+ANO3:
+  ENSG_ID: [ENSG00000134343]
+  source: [NCBI Info]
+  Chromosome: [11p14.2]
+  NCBI Gene ID: [63982.0]
+  OMIM_ID: ['610110']
+  UniProt_ID: [Q9BYT9]
+CACNA1B:
+  ENSG_ID: [ENSG00000148408]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [774.0]
+  OMIM_ID: ['601012']
+  UniProt_ID: [Q00975]

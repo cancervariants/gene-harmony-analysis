@@ -1,0 +1,29 @@
+collision_symbol: p180
+CD109:
+  ENSG_ID: [ENSG00000156535]
+  source: [NCBI Info]
+  Chromosome: [6q13]
+  NCBI Gene ID: [135228.0]
+  OMIM_ID: ['608859']
+  UniProt_ID: [Q6YHK3]
+EIF3A:
+  ENSG_ID: [ENSG00000107581]
+  source: [NCBI Info]
+  Chromosome: [10q26.11]
+  NCBI Gene ID: [8661.0]
+  OMIM_ID: ['602039']
+  UniProt_ID: [Q14152]
+POLA1:
+  ENSG_ID: [ENSG00000101868]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11-p21.3]
+  NCBI Gene ID: [5422.0]
+  OMIM_ID: ['312040']
+  UniProt_ID: [P09884]
+RRBP1:
+  ENSG_ID: [ENSG00000125844]
+  source: [NCBI Info]
+  Chromosome: [20p12.1]
+  NCBI Gene ID: [6238.0]
+  OMIM_ID: ['601418']
+  UniProt_ID: [Q9P2E9]

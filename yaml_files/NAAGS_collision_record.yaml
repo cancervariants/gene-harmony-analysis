@@ -1,0 +1,15 @@
+collision_symbol: NAAGS
+RIMKLA:
+  ENSG_ID: [ENSG00000177181]
+  source: [NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [284716.0]
+  OMIM_ID: ['618949']
+  UniProt_ID: [Q8IXN7]
+RIMKLB:
+  ENSG_ID: [ENSG00000166532]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [57494.0]
+  OMIM_ID: ['614054']
+  UniProt_ID: [Q9ULI2]

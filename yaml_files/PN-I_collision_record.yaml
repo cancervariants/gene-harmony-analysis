@@ -1,0 +1,15 @@
+collision_symbol: PN-I
+NT5C:
+  ENSG_ID: [ENSG00000125458]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q25]
+  NCBI Gene ID: [30833.0]
+  OMIM_ID: ['191720']
+  UniProt_ID: [Q8TCD5]
+NT5C3A:
+  ENSG_ID: [ENSG00000122643]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [51251.0]
+  OMIM_ID: ['606224']
+  UniProt_ID: [Q9H0P0]

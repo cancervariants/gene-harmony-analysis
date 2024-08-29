@@ -1,0 +1,15 @@
+collision_symbol: HH
+FUT1:
+  ENSG_ID: [ENSG00000174951]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [2523.0]
+  OMIM_ID: ['211100']
+  UniProt_ID: [P19526]
+HFE:
+  ENSG_ID: [ENSG00000010704]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [3077.0]
+  OMIM_ID: ['613609']
+  UniProt_ID: [Q30201]

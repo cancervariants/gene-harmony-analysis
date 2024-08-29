@@ -1,0 +1,15 @@
+collision_symbol: PK1
+PKLR:
+  ENSG_ID: [ENSG00000143627]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [5313.0]
+  OMIM_ID: ['609712']
+  UniProt_ID: [P30613]
+PROK1:
+  ENSG_ID: [ENSG00000143125]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [84432.0]
+  OMIM_ID: ['606233']
+  UniProt_ID: [P58294]

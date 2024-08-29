@@ -1,0 +1,15 @@
+collision_symbol: HCS
+CYCS:
+  ENSG_ID: [ENSG00000172115]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [54205.0]
+  OMIM_ID: ['123970']
+  UniProt_ID: [P99999]
+HLCS:
+  ENSG_ID: [ENSG00000159267]
+  source: [HGNC, NCBI Info]
+  Chromosome: [21q22.13]
+  NCBI Gene ID: [3141.0]
+  OMIM_ID: ['609018']
+  UniProt_ID: [P50747]

@@ -1,0 +1,15 @@
+collision_symbol: NOD
+ATN1:
+  ENSG_ID: [ENSG00000111676]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [1822.0]
+  OMIM_ID: ['607462']
+  UniProt_ID: [P54259]
+CYGB:
+  ENSG_ID: [ENSG00000161544]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [114757.0]
+  OMIM_ID: ['608759']
+  UniProt_ID: [Q8WWM9]

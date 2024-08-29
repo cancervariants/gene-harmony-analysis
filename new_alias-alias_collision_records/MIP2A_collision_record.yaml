@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196459
-  gene_symbol: TRAPPC2
-- ensg_id: ENSG00000081041
-  gene_symbol: ' CXCL2'
-- ensg_id: ENSG00000256060
-  gene_symbol: ' TRAPPC2B'
-collision_symbol: MIP2A

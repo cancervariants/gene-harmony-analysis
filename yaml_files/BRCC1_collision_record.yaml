@@ -1,0 +1,15 @@
+collision_symbol: BRCC1
+BRCA1:
+  ENSG_ID: [ENSG00000012048]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [672.0]
+  OMIM_ID: ['113705']
+  UniProt_ID: [P38398]
+ICE2:
+  ENSG_ID: [ENSG00000128915]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q22.2]
+  NCBI Gene ID: [79664.0]
+  OMIM_ID: ['610835']
+  UniProt_ID: [Q659A1]

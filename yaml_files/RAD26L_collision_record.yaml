@@ -1,0 +1,15 @@
+collision_symbol: RAD26L
+ERCC6L:
+  ENSG_ID: [ENSG00000186871]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [54821.0]
+  OMIM_ID: ['300687']
+  UniProt_ID: [Q2NKX8]
+ERCC6L2:
+  ENSG_ID: [ENSG00000182150]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q22.32]
+  NCBI Gene ID: [375748.0]
+  OMIM_ID: ['615667']
+  UniProt_ID: [Q5T890]

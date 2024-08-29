@@ -1,0 +1,15 @@
+collision_symbol: 3-alpha-HSD
+AKR1C4:
+  ENSG_ID: [ENSG00000198610]
+  source: [NCBI Info]
+  Chromosome: [10p15.1]
+  NCBI Gene ID: [1109.0]
+  OMIM_ID: ['600451']
+  UniProt_ID: [P17516]
+DHRS9:
+  ENSG_ID: [ENSG00000073737]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [10170.0]
+  OMIM_ID: ['612131']
+  UniProt_ID: [Q9BPW9]

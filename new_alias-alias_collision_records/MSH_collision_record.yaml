@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115138
-  gene_symbol: POMC
-- ensg_id: ENSG00000120149
-  gene_symbol: ' MSX2'
-collision_symbol: MSH

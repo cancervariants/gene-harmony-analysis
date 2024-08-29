@@ -1,0 +1,15 @@
+collision_symbol: MTF1
+MELTF:
+  ENSG_ID: [ENSG00000163975]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [4241.0]
+  OMIM_ID: ['155750']
+  UniProt_ID: [P08582]
+MYT1:
+  ENSG_ID: [ENSG00000196132]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [4661.0]
+  OMIM_ID: ['600379']
+  UniProt_ID: [Q01538]

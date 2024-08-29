@@ -1,0 +1,22 @@
+collision_symbol: TR1
+TAS1R1:
+  ENSG_ID: [ENSG00000173662]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [80835.0]
+  OMIM_ID: ['606225']
+  UniProt_ID: [Q7RTX1]
+TNFRSF11B:
+  ENSG_ID: [ENSG00000164761]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.12]
+  NCBI Gene ID: [4982.0]
+  OMIM_ID: ['602643']
+  UniProt_ID: [O00300]
+TXNRD1:
+  ENSG_ID: [ENSG00000198431]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [7296.0]
+  OMIM_ID: ['601112']
+  UniProt_ID: [Q16881]

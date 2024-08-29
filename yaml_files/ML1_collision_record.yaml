@@ -1,0 +1,15 @@
+collision_symbol: ML1
+IL17F:
+  ENSG_ID: [ENSG00000112116]
+  source: [NCBI Info]
+  Chromosome: [6p12.2]
+  NCBI Gene ID: [112744.0]
+  OMIM_ID: ['606496']
+  UniProt_ID: [Q96PD4]
+MCOLN1:
+  ENSG_ID: [ENSG00000090674]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [57192.0]
+  OMIM_ID: ['605248']
+  UniProt_ID: [Q9GZU1]

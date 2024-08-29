@@ -1,0 +1,15 @@
+collision_symbol: CELL
+CEL:
+  ENSG_ID: [ENSG00000170835]
+  source: [NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [1056.0]
+  OMIM_ID: ['114840']
+  UniProt_ID: [P19835]
+CELP:
+  ENSG_ID: [ENSG00000170827]
+  source: [NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [1057.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

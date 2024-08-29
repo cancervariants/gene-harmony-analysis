@@ -1,0 +1,15 @@
+collision_symbol: FDH
+ADH5:
+  ENSG_ID: [ENSG00000197894]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q23]
+  NCBI Gene ID: [128.0]
+  OMIM_ID: ['103710']
+  UniProt_ID: [P11766]
+ALDH1L1:
+  ENSG_ID: [ENSG00000144908]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q21.3]
+  NCBI Gene ID: [10840.0]
+  OMIM_ID: ['600249']
+  UniProt_ID: [O75891]

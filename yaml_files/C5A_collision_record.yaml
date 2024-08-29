@@ -1,0 +1,15 @@
+collision_symbol: C5A
+C5:
+  ENSG_ID: [ENSG00000106804]
+  source: [ENSG]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [727.0]
+  OMIM_ID: ['120900']
+  UniProt_ID: [P01031]
+C5AR1:
+  ENSG_ID: [ENSG00000197405]
+  source: [ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [728.0]
+  OMIM_ID: ['113995']
+  UniProt_ID: [P21730]

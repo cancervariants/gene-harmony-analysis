@@ -1,0 +1,15 @@
+collision_symbol: PLAP-1
+ALPP:
+  ENSG_ID: [ENSG00000163283]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [250.0]
+  OMIM_ID: ['171800']
+  UniProt_ID: [P05187]
+ASPN:
+  ENSG_ID: [ENSG00000106819]
+  source: [NCBI Info]
+  Chromosome: [9q22.31]
+  NCBI Gene ID: [54829.0]
+  OMIM_ID: ['608135']
+  UniProt_ID: [Q9BXN1]

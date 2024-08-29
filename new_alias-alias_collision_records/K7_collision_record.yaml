@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135480
-  gene_symbol: KRT7
-- ensg_id: NAN
-  gene_symbol: ' RBPJP4'
-collision_symbol: K7

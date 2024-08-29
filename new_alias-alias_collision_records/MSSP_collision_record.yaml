@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153250
-  gene_symbol: RBMS1
-- ensg_id: ENSG00000176225
-  gene_symbol: ' RTTN'
-collision_symbol: MSSP

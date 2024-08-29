@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213218
-  gene_symbol: CSH2
-- ensg_id: ENSG00000177791
-  gene_symbol: ' MYOZ1'
-collision_symbol: ' CS-2'

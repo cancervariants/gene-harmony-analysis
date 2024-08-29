@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160294
-  gene_symbol: MCM3AP
-- ensg_id: ENSG00000112367
-  gene_symbol: ' FIG4'
-collision_symbol: SAC3

@@ -1,0 +1,15 @@
+collision_symbol: CT-2
+CD5L:
+  ENSG_ID: [ENSG00000073754]
+  source: [NCBI Info]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [922.0]
+  OMIM_ID: ['602592']
+  UniProt_ID: [O43866]
+SLC6A10P:
+  ENSG_ID: [ENSG00000290985]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

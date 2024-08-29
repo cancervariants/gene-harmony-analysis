@@ -1,0 +1,15 @@
+collision_symbol: IPS
+ISYNA1:
+  ENSG_ID: [ENSG00000105655]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [51477.0]
+  OMIM_ID: ['611670']
+  UniProt_ID: [Q9NPH2]
+SLC27A4:
+  ENSG_ID: [ENSG00000167114]
+  source: [NCBI Info]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [10999.0]
+  OMIM_ID: ['604194']
+  UniProt_ID: [Q6P1M0]

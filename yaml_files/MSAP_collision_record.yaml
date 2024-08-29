@@ -1,0 +1,15 @@
+collision_symbol: MSAP
+CNPY2:
+  ENSG_ID: [ENSG00000257727]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [10330.0]
+  OMIM_ID: ['605861']
+  UniProt_ID: [Q9Y2B0]
+MTAP:
+  ENSG_ID: [ENSG00000099810]
+  source: [NCBI Info]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [4507.0]
+  OMIM_ID: ['156540']
+  UniProt_ID: [Q13126]

@@ -1,0 +1,15 @@
+collision_symbol: L4
+RPL4:
+  ENSG_ID: [ENSG00000174444]
+  source: [NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [6124.0]
+  OMIM_ID: ['180479']
+  UniProt_ID: [P36578]
+SINHCAF:
+  ENSG_ID: [ENSG00000139146]
+  source: [NCBI Info]
+  Chromosome: [12p11.21]
+  NCBI Gene ID: [58516.0]
+  OMIM_ID: ['615027']
+  UniProt_ID: [Q9NP50]

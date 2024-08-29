@@ -1,0 +1,15 @@
+collision_symbol: SLEB6
+ITGAM:
+  ENSG_ID: [ENSG00000169896]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3684.0]
+  OMIM_ID: ['120980']
+  UniProt_ID: [P11215]
+ITGAX:
+  ENSG_ID: [ENSG00000140678]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3687.0]
+  OMIM_ID: ['151510']
+  UniProt_ID: [P20702]

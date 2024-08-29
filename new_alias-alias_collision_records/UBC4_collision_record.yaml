@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131508
-  gene_symbol: UBE2D2
-- ensg_id: NAN
-  gene_symbol: ' UBE2L1'
-collision_symbol: UBC4

@@ -1,0 +1,15 @@
+collision_symbol: IGL
+BMS1P20:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+IGLL5:
+  ENSG_ID: [ENSG00000254709]
+  source: [NCBI Info]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [100423062.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [B9A064]

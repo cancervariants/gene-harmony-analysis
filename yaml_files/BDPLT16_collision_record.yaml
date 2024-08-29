@@ -1,0 +1,15 @@
+collision_symbol: BDPLT16
+ITGA2B:
+  ENSG_ID: [ENSG00000005961]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [3674.0]
+  OMIM_ID: ['607759']
+  UniProt_ID: [P08514]
+ITGB3:
+  ENSG_ID: [ENSG00000259207]
+  source: [NCBI Info]
+  Chromosome: [17q21.32]
+  NCBI Gene ID: [3690.0]
+  OMIM_ID: ['173470']
+  UniProt_ID: [P05106]

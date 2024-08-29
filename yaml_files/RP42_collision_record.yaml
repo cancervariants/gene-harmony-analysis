@@ -1,0 +1,15 @@
+collision_symbol: RP42
+DCUN1D1:
+  ENSG_ID: [ENSG00000043093]
+  source: [ENSG]
+  Chromosome: [3q26.33]
+  NCBI Gene ID: [54165.0]
+  OMIM_ID: ['605905']
+  UniProt_ID: [Q96GG9]
+KLHL7:
+  ENSG_ID: [ENSG00000122550]
+  source: [ENSG]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [55975.0]
+  OMIM_ID: ['611119']
+  UniProt_ID: [Q8IXQ5]

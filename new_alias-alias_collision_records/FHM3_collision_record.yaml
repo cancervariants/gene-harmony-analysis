@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000144285
-  gene_symbol: SCN1A
-- ensg_id: NAN
-  gene_symbol: ' MGR6'
-collision_symbol: FHM3

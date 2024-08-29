@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151014
-  gene_symbol: NOCT
-- ensg_id: ENSG00000126464
-  gene_symbol: ' PRR12'
-collision_symbol: NOC

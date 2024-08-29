@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112739
-  gene_symbol: PRP4K
-- ensg_id: ENSG00000136875
-  gene_symbol: ' PRPF4'
-collision_symbol: PRP4

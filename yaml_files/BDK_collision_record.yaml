@@ -1,0 +1,15 @@
+collision_symbol: BDK
+BCKDK:
+  ENSG_ID: [ENSG00000103507]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [10295.0]
+  OMIM_ID: ['614901']
+  UniProt_ID: [O14874]
+KNG1:
+  ENSG_ID: [ENSG00000113889]
+  source: [NCBI Info]
+  Chromosome: [3q27.3]
+  NCBI Gene ID: [3827.0]
+  OMIM_ID: ['612358']
+  UniProt_ID: [P01042]

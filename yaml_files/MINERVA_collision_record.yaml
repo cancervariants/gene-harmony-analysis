@@ -1,0 +1,15 @@
+collision_symbol: MINERVA
+MFSD1:
+  ENSG_ID: [ENSG00000118855]
+  source: [ENSG]
+  Chromosome: [3q25.32]
+  NCBI Gene ID: [64747.0]
+  OMIM_ID: ['619976']
+  UniProt_ID: [Q9H3U5]
+NIBAN2:
+  ENSG_ID: [ENSG00000136830]
+  source: [ENSG]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [64855.0]
+  OMIM_ID: ['614045']
+  UniProt_ID: [Q96TA1]

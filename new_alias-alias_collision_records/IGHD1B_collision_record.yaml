@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000259384
-  gene_symbol: GH1
-- ensg_id: ENSG00000106128
-  gene_symbol: ' GHRHR'
-collision_symbol: IGHD1B

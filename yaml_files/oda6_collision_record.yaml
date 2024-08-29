@@ -1,0 +1,15 @@
+collision_symbol: oda6
+DNAI1:
+  ENSG_ID: [ENSG00000122735]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [27019.0]
+  OMIM_ID: ['604366']
+  UniProt_ID: [Q9UI46]
+DNAI2:
+  ENSG_ID: [ENSG00000171595]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [64446.0]
+  OMIM_ID: ['605483']
+  UniProt_ID: [Q9GZS0]

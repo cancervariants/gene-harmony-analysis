@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131100
-  gene_symbol: ATP6V1E1
-- ensg_id: ENSG00000250565
-  gene_symbol: ' ATP6V1E2'
-collision_symbol: ' VMA4'

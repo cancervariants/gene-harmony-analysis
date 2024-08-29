@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000149809
-  gene_symbol: TM7SF2
-- ensg_id: ENSG00000143815
-  gene_symbol: ' LBR'
-collision_symbol: C14SR

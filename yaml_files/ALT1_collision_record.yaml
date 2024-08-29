@@ -1,0 +1,15 @@
+collision_symbol: ALT1
+DLEU2:
+  ENSG_ID: [ENSG00000231607]
+  source: [NCBI Info]
+  Chromosome: [13q14.2]
+  NCBI Gene ID: [8847.0]
+  OMIM_ID: ['605766']
+  UniProt_ID: [.nan]
+GPT:
+  ENSG_ID: [ENSG00000167701]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [2875.0]
+  OMIM_ID: ['138200']
+  UniProt_ID: [P24298]

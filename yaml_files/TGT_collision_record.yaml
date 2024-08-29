@@ -1,0 +1,15 @@
+collision_symbol: TGT
+QTRT1:
+  ENSG_ID: [ENSG00000213339]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [81890.0]
+  OMIM_ID: ['609615']
+  UniProt_ID: [Q9BXR0]
+USP14:
+  ENSG_ID: [ENSG00000101557]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [18p11.32]
+  NCBI Gene ID: [9097.0]
+  OMIM_ID: ['607274']
+  UniProt_ID: [P54578]

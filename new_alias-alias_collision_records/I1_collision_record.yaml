@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000089486
-  gene_symbol: CDIP1
-- ensg_id: ENSG00000135447
-  gene_symbol: ' PPP1R1A'
-collision_symbol: I1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167186
-  gene_symbol: COQ7
-- ensg_id: ENSG00000248333
-  gene_symbol: ' CDK11B'
-collision_symbol: CLK-1

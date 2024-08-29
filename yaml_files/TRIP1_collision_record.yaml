@@ -1,0 +1,15 @@
+collision_symbol: TRIP1
+EIF3I:
+  ENSG_ID: [ENSG00000084623]
+  source: [NCBI Info]
+  Chromosome: [1p35.2]
+  NCBI Gene ID: [8668.0]
+  OMIM_ID: ['603911']
+  UniProt_ID: [Q13347]
+PSMC5:
+  ENSG_ID: [ENSG00000087191]
+  source: [NCBI Info]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [5705.0]
+  OMIM_ID: ['601681']
+  UniProt_ID: [P62195]

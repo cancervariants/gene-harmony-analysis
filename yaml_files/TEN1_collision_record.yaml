@@ -1,0 +1,15 @@
+collision_symbol: TEN1
+TEN1-CDK3:
+  ENSG_ID: [ENSG00000261408]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [100529145.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TENM1:
+  ENSG_ID: [ENSG00000009694]
+  source: [NCBI Info]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [10178.0]
+  OMIM_ID: ['300588']
+  UniProt_ID: [Q9UKZ4]

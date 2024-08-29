@@ -1,0 +1,15 @@
+collision_symbol: JP2
+JPH2:
+  ENSG_ID: [ENSG00000149596]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [57158.0]
+  OMIM_ID: ['605267']
+  UniProt_ID: [Q9BR39]
+TRGJP2:
+  ENSG_ID: [ENSG00000211688]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [6972.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

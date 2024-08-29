@@ -1,0 +1,29 @@
+collision_symbol: p28
+H3P24:
+  ENSG_ID: [ENSG00000251118, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q22.3, .nan]
+  NCBI Gene ID: [115482697.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+IL27:
+  ENSG_ID: [ENSG00000197272]
+  source: [NCBI Info]
+  Chromosome: [16p12.1-p11.2]
+  NCBI Gene ID: [246778.0]
+  OMIM_ID: ['608273']
+  UniProt_ID: [Q8NEV9]
+PSMD10:
+  ENSG_ID: [ENSG00000101843]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq22.3]
+  NCBI Gene ID: [5716.0]
+  OMIM_ID: ['300880']
+  UniProt_ID: [O75832]
+TMED5:
+  ENSG_ID: [ENSG00000117500]
+  source: [NCBI Info]
+  Chromosome: [1p22.1]
+  NCBI Gene ID: [50999.0]
+  OMIM_ID: ['616876']
+  UniProt_ID: [Q9Y3A6]

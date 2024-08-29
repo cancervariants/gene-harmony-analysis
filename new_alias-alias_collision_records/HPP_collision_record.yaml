@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HPP1
-- ensg_id: ENSG00000163554
-  gene_symbol: ' SPTA1'
-collision_symbol: HPP

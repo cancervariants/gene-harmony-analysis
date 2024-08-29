@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165125
-  gene_symbol: TRPV6
-- ensg_id: ENSG00000095321
-  gene_symbol: ' CRAT'
-collision_symbol: CAT1

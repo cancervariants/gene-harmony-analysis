@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145715
-  gene_symbol: RASA1
-- ensg_id: ENSG00000182732
-  gene_symbol: ' RGS6'
-collision_symbol: GAP

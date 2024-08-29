@@ -1,0 +1,15 @@
+collision_symbol: CACC
+CLCA1:
+  ENSG_ID: [ENSG00000016490]
+  source: [NCBI Info]
+  Chromosome: [1p22.3]
+  NCBI Gene ID: [1179.0]
+  OMIM_ID: ['603906']
+  UniProt_ID: [A8K7I4]
+CLCA2:
+  ENSG_ID: [ENSG00000137975]
+  source: [NCBI Info]
+  Chromosome: [1p22.3]
+  NCBI Gene ID: [9635.0]
+  OMIM_ID: ['604003']
+  UniProt_ID: [Q9UQC9]

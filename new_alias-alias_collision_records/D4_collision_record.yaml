@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164430
-  gene_symbol: CGAS
-- ensg_id: ENSG00000111348
-  gene_symbol: ' ARHGDIB'
-collision_symbol: D4

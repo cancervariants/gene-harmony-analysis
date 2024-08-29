@@ -1,0 +1,36 @@
+collision_symbol: p24
+CHP1:
+  ENSG_ID: [ENSG00000187446]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [11261.0]
+  OMIM_ID: ['606988']
+  UniProt_ID: [Q99653]
+H3P19:
+  ENSG_ID: [ENSG00000271296]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5p15.1]
+  NCBI Gene ID: [115482709.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NRSN1:
+  ENSG_ID: [ENSG00000152954]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [140767.0]
+  OMIM_ID: ['616630']
+  UniProt_ID: [Q8IZ57]
+TMED2:
+  ENSG_ID: [ENSG00000086598]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [10959.0]
+  OMIM_ID: ['619642']
+  UniProt_ID: [Q15363]
+TPPP:
+  ENSG_ID: [ENSG00000171368]
+  source: [NCBI Info]
+  Chromosome: [5p15.33]
+  NCBI Gene ID: [11076.0]
+  OMIM_ID: ['608773']
+  UniProt_ID: [O94811]

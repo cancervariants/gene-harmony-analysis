@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167768
-  gene_symbol: KRT1
-- ensg_id: ENSG00000180138
-  gene_symbol: ' CSNK1A1L'
-- ensg_id: ENSG00000113712
-  gene_symbol: ' CSNK1A1'
-collision_symbol: CK1

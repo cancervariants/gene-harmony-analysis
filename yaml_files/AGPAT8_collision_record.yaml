@@ -1,0 +1,15 @@
+collision_symbol: AGPAT8
+GPAT3:
+  ENSG_ID: [ENSG00000138678]
+  source: [NCBI Info]
+  Chromosome: [4q21.23]
+  NCBI Gene ID: [84803.0]
+  OMIM_ID: ['610958']
+  UniProt_ID: [Q53EU6]
+LCLAT1:
+  ENSG_ID: [ENSG00000172954]
+  source: [NCBI Info]
+  Chromosome: [2p23.1]
+  NCBI Gene ID: [253558.0]
+  OMIM_ID: ['614241']
+  UniProt_ID: [Q6UWP7]

@@ -1,0 +1,22 @@
+collision_symbol: PLAP
+ALPP:
+  ENSG_ID: [ENSG00000163283]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [250.0]
+  OMIM_ID: ['171800']
+  UniProt_ID: [P05187]
+LNPEP:
+  ENSG_ID: [ENSG00000113441]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q15]
+  NCBI Gene ID: [4012.0]
+  OMIM_ID: ['151300']
+  UniProt_ID: [Q9UIQ6]
+PLAA:
+  ENSG_ID: [ENSG00000137055]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p21.2]
+  NCBI Gene ID: [9373.0]
+  OMIM_ID: ['603873']
+  UniProt_ID: [Q9Y263]

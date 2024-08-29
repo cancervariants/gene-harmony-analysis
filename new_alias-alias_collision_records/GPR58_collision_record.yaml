@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000290584
-  gene_symbol: TAAR3P
-- ensg_id: ENSG00000146378
-  gene_symbol: ' TAAR2'
-collision_symbol: GPR58

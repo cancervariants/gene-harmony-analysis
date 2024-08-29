@@ -1,0 +1,15 @@
+collision_symbol: Rh4
+RHCE:
+  ENSG_ID: [ENSG00000188672]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [6006.0]
+  OMIM_ID: ['111700']
+  UniProt_ID: [P18577]
+RHD:
+  ENSG_ID: [ENSG00000187010]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [6007.0]
+  OMIM_ID: ['111680']
+  UniProt_ID: [Q02161]

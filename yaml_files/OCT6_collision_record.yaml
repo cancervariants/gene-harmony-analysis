@@ -1,0 +1,15 @@
+collision_symbol: OCT6
+POU3F1:
+  ENSG_ID: [ENSG00000185668]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [5453.0]
+  OMIM_ID: ['602479']
+  UniProt_ID: [Q03052]
+SLC22A16:
+  ENSG_ID: [ENSG00000004809]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [85413.0]
+  OMIM_ID: ['608276']
+  UniProt_ID: [Q86VW1]

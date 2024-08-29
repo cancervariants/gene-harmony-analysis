@@ -1,0 +1,15 @@
+collision_symbol: HMS
+CTSC:
+  ENSG_ID: [ENSG00000109861]
+  source: [NCBI Info]
+  Chromosome: [11q14.2]
+  NCBI Gene ID: [1075.0]
+  OMIM_ID: ['602365']
+  UniProt_ID: [P53634]
+LINC02381:
+  ENSG_ID: [ENSG00000250742]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [400043.0]
+  OMIM_ID: ['620723']
+  UniProt_ID: [.nan]

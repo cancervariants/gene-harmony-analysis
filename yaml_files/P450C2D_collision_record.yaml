@@ -1,0 +1,15 @@
+collision_symbol: P450C2D
+CYP2D6:
+  ENSG_ID: [ENSG00000100197]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [1565.0]
+  OMIM_ID: ['124030']
+  UniProt_ID: [P10635]
+CYP2D7:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

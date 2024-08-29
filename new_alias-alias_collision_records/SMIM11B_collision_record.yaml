@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000205670
-  gene_symbol: SMIM11
-- ensg_id: ENSG00000273590
-  gene_symbol: ' LOC102723553'
-collision_symbol: SMIM11B

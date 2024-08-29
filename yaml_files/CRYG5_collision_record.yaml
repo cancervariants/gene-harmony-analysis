@@ -1,0 +1,15 @@
+collision_symbol: CRYG5
+CRYGA:
+  ENSG_ID: [ENSG00000168582]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q33.3]
+  NCBI Gene ID: [1418.0]
+  OMIM_ID: ['123660']
+  UniProt_ID: [P11844]
+CRYGEP:
+  ENSG_ID: [ENSG00000290929, ENSG00000229150]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 2q33.3]
+  NCBI Gene ID: [.nan, 200575.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

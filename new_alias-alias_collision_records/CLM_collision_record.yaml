@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000091136
-  gene_symbol: LAMB1
-- ensg_id: ENSG00000173335
-  gene_symbol: ' CST9'
-collision_symbol: CLM

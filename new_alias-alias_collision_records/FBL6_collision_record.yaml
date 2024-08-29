@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182325
-  gene_symbol: FBXL6
-- ensg_id: ENSG00000183580
-  gene_symbol: ' FBXL7'
-collision_symbol: FBL6

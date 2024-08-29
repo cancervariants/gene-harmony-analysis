@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127554
-  gene_symbol: GFER
-- ensg_id: ENSG00000174600
-  gene_symbol: ' CMKLR1'
-collision_symbol: ERV1

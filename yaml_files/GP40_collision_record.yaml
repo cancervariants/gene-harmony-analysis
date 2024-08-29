@@ -1,0 +1,15 @@
+collision_symbol: GP40
+CD7:
+  ENSG_ID: [ENSG00000173762]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [924.0]
+  OMIM_ID: ['186820']
+  UniProt_ID: [P09564]
+PDPN:
+  ENSG_ID: [ENSG00000162493]
+  source: [NCBI Info]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [10630.0]
+  OMIM_ID: ['608863']
+  UniProt_ID: [Q86YL7]

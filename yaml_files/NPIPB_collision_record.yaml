@@ -1,0 +1,15 @@
+collision_symbol: NPIPB
+NPIPB3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NPIPB6:
+  ENSG_ID: [ENSG00000198156]
+  source: [NCBI Info]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [728741.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [E9PJ23]

@@ -1,0 +1,15 @@
+collision_symbol: XPE
+DDB1:
+  ENSG_ID: [ENSG00000167986]
+  source: [NCBI Info]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [1642.0]
+  OMIM_ID: ['600045']
+  UniProt_ID: [Q16531]
+DDB2:
+  ENSG_ID: [ENSG00000134574]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [1643.0]
+  OMIM_ID: ['600811']
+  UniProt_ID: [Q92466]

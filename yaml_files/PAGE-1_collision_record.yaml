@@ -1,0 +1,15 @@
+collision_symbol: PAGE-1
+PAGE1:
+  ENSG_ID: [ENSG00000068985]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [8712.0]
+  OMIM_ID: ['300288']
+  UniProt_ID: [O75459]
+PAGE4:
+  ENSG_ID: [ENSG00000101951]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [9506.0]
+  OMIM_ID: ['300287']
+  UniProt_ID: [O60829]

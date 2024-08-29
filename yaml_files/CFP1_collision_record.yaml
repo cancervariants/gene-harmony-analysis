@@ -1,0 +1,15 @@
+collision_symbol: CFP1
+CCNY:
+  ENSG_ID: [ENSG00000108100]
+  source: [NCBI Info]
+  Chromosome: [10p11.21]
+  NCBI Gene ID: [219771.0]
+  OMIM_ID: ['612786']
+  UniProt_ID: [Q8ND76]
+CXXC1:
+  ENSG_ID: [ENSG00000154832]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [30827.0]
+  OMIM_ID: ['609150']
+  UniProt_ID: [Q9P0U4]

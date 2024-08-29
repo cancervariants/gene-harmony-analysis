@@ -1,0 +1,22 @@
+collision_symbol: B29
+BCAP29:
+  ENSG_ID: [ENSG00000075790]
+  source: [NCBI Info]
+  Chromosome: [7q22.3]
+  NCBI Gene ID: [55973.0]
+  OMIM_ID: ['619612']
+  UniProt_ID: [Q9UHQ4]
+CD79B:
+  ENSG_ID: [ENSG00000007312]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [974.0]
+  OMIM_ID: ['147245']
+  UniProt_ID: [P40259]
+MRO:
+  ENSG_ID: [ENSG00000134042]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [18q21.2]
+  NCBI Gene ID: [83876.0]
+  OMIM_ID: ['608080']
+  UniProt_ID: [Q9BYG7]

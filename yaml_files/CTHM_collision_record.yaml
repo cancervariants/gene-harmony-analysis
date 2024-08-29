@@ -1,0 +1,15 @@
+collision_symbol: CTHM
+NKX2-6:
+  ENSG_ID: [ENSG00000180053]
+  source: [NCBI Info]
+  Chromosome: [8p21.2]
+  NCBI Gene ID: [137814.0]
+  OMIM_ID: ['611770']
+  UniProt_ID: [A6NCS4]
+TBX1:
+  ENSG_ID: [ENSG00000184058]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [6899.0]
+  OMIM_ID: ['602054']
+  UniProt_ID: [O43435]

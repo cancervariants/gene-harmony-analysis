@@ -1,0 +1,15 @@
+collision_symbol: ESP
+PTPRVP:
+  ENSG_ID: [ENSG00000293457]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SPESP1:
+  ENSG_ID: [ENSG00000258484]
+  source: [NCBI Info]
+  Chromosome: [15q23]
+  NCBI Gene ID: [246777.0]
+  OMIM_ID: ['609399']
+  UniProt_ID: [Q6UW49]

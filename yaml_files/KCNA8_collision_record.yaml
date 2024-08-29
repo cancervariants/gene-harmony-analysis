@@ -1,0 +1,15 @@
+collision_symbol: KCNA8
+KCNA4:
+  ENSG_ID: [ENSG00000182255]
+  source: [NCBI Info]
+  Chromosome: [11p14.1]
+  NCBI Gene ID: [3739.0]
+  OMIM_ID: ['176266']
+  UniProt_ID: [P22459]
+KCNQ1:
+  ENSG_ID: [ENSG00000053918]
+  source: [NCBI Info]
+  Chromosome: [11p15.5-p15.4]
+  NCBI Gene ID: [3784.0]
+  OMIM_ID: ['607542']
+  UniProt_ID: [P51787]

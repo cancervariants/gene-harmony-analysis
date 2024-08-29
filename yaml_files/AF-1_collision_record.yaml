@@ -1,0 +1,15 @@
+collision_symbol: AF-1
+IFNGR2:
+  ENSG_ID: [ENSG00000159128]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [3460.0]
+  OMIM_ID: ['147569']
+  UniProt_ID: [P38484]
+PSMD4:
+  ENSG_ID: [ENSG00000159352]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [5710.0]
+  OMIM_ID: ['601648']
+  UniProt_ID: [P55036]

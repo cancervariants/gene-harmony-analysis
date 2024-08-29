@@ -1,0 +1,29 @@
+collision_symbol: MSP
+LMLN:
+  ENSG_ID: [ENSG00000185621]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q29]
+  NCBI Gene ID: [89782.0]
+  OMIM_ID: ['609380']
+  UniProt_ID: [Q96KR4]
+MSMB:
+  ENSG_ID: [ENSG00000263639]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [4477.0]
+  OMIM_ID: ['157145']
+  UniProt_ID: [P08118]
+MST1:
+  ENSG_ID: [ENSG00000173531]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [4485.0]
+  OMIM_ID: ['142408']
+  UniProt_ID: [P26927]
+TMPRSS13:
+  ENSG_ID: [ENSG00000137747]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [84000.0]
+  OMIM_ID: ['610050']
+  UniProt_ID: [Q9BYE2]

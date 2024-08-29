@@ -1,0 +1,15 @@
+collision_symbol: OR11-11a
+OR7E4P:
+  ENSG_ID: [ENSG00000255261]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [8585.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR7E8P:
+  ENSG_ID: [ENSG00000177400]
+  source: [HGNC, NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [346708.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

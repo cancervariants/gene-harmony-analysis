@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114779
-  gene_symbol: ABHD14B
-- ensg_id: ENSG00000185043
-  gene_symbol: ' CIB1'
-collision_symbol: CIB

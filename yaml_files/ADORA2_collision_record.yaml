@@ -1,0 +1,15 @@
+collision_symbol: ADORA2
+ADORA2A:
+  ENSG_ID: [ENSG00000128271]
+  source: [NCBI Info]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [135.0]
+  OMIM_ID: ['102776']
+  UniProt_ID: [P29274]
+ADORA2B:
+  ENSG_ID: [ENSG00000170425]
+  source: [NCBI Info]
+  Chromosome: [17p12]
+  NCBI Gene ID: [136.0]
+  OMIM_ID: ['600446']
+  UniProt_ID: [P29275]

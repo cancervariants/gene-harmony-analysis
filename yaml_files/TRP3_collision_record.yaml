@@ -1,0 +1,15 @@
+collision_symbol: TRP3
+TRP-TGG3-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [7219.0]
+  OMIM_ID: ['189912']
+  UniProt_ID: [.nan]
+TRPC3:
+  ENSG_ID: [ENSG00000138741]
+  source: [NCBI Info]
+  Chromosome: [4q27]
+  NCBI Gene ID: [7222.0]
+  OMIM_ID: ['602345']
+  UniProt_ID: [Q13507]

@@ -1,0 +1,15 @@
+collision_symbol: PAD
+DHX40:
+  ENSG_ID: [ENSG00000108406]
+  source: [NCBI Info]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [79665.0]
+  OMIM_ID: ['607570']
+  UniProt_ID: [Q8IX18]
+PADI4:
+  ENSG_ID: [ENSG00000159339]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [23569.0]
+  OMIM_ID: ['605347']
+  UniProt_ID: [Q9UM07]

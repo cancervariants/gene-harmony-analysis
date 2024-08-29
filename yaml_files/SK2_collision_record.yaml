@@ -1,0 +1,15 @@
+collision_symbol: SK2
+KCNN2:
+  ENSG_ID: [ENSG00000080709]
+  source: [NCBI Info]
+  Chromosome: [5q22.3]
+  NCBI Gene ID: [3781.0]
+  OMIM_ID: ['605879']
+  UniProt_ID: [Q9H2S1]
+PAPSS2:
+  ENSG_ID: [ENSG00000198682]
+  source: [NCBI Info]
+  Chromosome: [10q23.2-q23.31]
+  NCBI Gene ID: [9060.0]
+  OMIM_ID: ['603005']
+  UniProt_ID: [O95340]

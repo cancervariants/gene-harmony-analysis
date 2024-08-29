@@ -1,0 +1,15 @@
+collision_symbol: MAP-1
+MASP1:
+  ENSG_ID: [ENSG00000127241]
+  source: [NCBI Info]
+  Chromosome: [3q27.3]
+  NCBI Gene ID: [5648.0]
+  OMIM_ID: ['600521']
+  UniProt_ID: [P48740]
+MOAP1:
+  ENSG_ID: [ENSG00000165943]
+  source: [NCBI Info]
+  Chromosome: [14q32.12]
+  NCBI Gene ID: [64112.0]
+  OMIM_ID: ['609485']
+  UniProt_ID: [Q96BY2]

@@ -1,0 +1,15 @@
+collision_symbol: OP-2
+BMP8A:
+  ENSG_ID: [ENSG00000183682]
+  source: [HGNC]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [353500.0]
+  OMIM_ID: ['620847']
+  UniProt_ID: [Q7Z5Y6]
+BMP8B:
+  ENSG_ID: [ENSG00000116985]
+  source: [HGNC]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [656.0]
+  OMIM_ID: ['602284']
+  UniProt_ID: [P34820]

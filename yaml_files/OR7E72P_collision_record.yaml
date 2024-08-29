@@ -1,0 +1,15 @@
+collision_symbol: OR7E72P
+OR7E110P:
+  ENSG_ID: [ENSG00000235623]
+  source: [NCBI Info]
+  Chromosome: [10p13]
+  NCBI Gene ID: [81354.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR7E26P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

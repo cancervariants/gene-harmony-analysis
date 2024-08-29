@@ -1,0 +1,15 @@
+collision_symbol: SAC3
+FIG4:
+  ENSG_ID: [ENSG00000112367]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [9896.0]
+  OMIM_ID: ['609390']
+  UniProt_ID: [Q92562]
+MCM3AP:
+  ENSG_ID: [ENSG00000160294]
+  source: [NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [8888.0]
+  OMIM_ID: ['603294']
+  UniProt_ID: [O60318]

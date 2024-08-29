@@ -1,0 +1,15 @@
+collision_symbol: PAK5
+BUB1B-PAK6:
+  ENSG_ID: [ENSG00000137843]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PAK6:
+  ENSG_ID: [ENSG00000137843]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [56924.0]
+  OMIM_ID: ['608110']
+  UniProt_ID: [Q9NQU5]

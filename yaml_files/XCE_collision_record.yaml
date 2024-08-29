@@ -1,0 +1,15 @@
+collision_symbol: XCE
+ECEL1:
+  ENSG_ID: [ENSG00000171551]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [9427.0]
+  OMIM_ID: ['605896']
+  UniProt_ID: [O95672]
+XIC:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xq12-q13]
+  NCBI Gene ID: [7502.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

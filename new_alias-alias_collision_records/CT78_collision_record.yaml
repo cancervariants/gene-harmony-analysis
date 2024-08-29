@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000228927
-  gene_symbol: TSPY3
-- ensg_id: ENSG00000258992
-  gene_symbol: ' TSPY1'
-collision_symbol: CT78

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138696
-  gene_symbol: BMPR1B
-- ensg_id: ENSG00000125845
-  gene_symbol: ' BMP2'
-collision_symbol: BDA2

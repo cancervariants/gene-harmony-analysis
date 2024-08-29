@@ -1,0 +1,22 @@
+collision_symbol: L12
+IGKV1-5:
+  ENSG_ID: [ENSG00000243466]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28299.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P01602]
+RPL12:
+  ENSG_ID: [ENSG00000197958]
+  source: [NCBI Info]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [6136.0]
+  OMIM_ID: ['180475']
+  UniProt_ID: [P30050]
+RSL1D1:
+  ENSG_ID: [ENSG00000171490]
+  source: [NCBI Info]
+  Chromosome: [16p13.13]
+  NCBI Gene ID: [26156.0]
+  OMIM_ID: ['615874']
+  UniProt_ID: [O76021]

@@ -1,0 +1,15 @@
+collision_symbol: ZNT8
+SLC30A10:
+  ENSG_ID: [ENSG00000196660]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q41]
+  NCBI Gene ID: [55532.0]
+  OMIM_ID: ['611146']
+  UniProt_ID: [Q6XR72]
+SLC30A8:
+  ENSG_ID: [ENSG00000164756]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.11]
+  NCBI Gene ID: [169026.0]
+  OMIM_ID: ['611145']
+  UniProt_ID: [Q8IWU4]

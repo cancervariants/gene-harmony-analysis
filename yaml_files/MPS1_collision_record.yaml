@@ -1,0 +1,29 @@
+collision_symbol: MPS1
+IDUA:
+  ENSG_ID: [ENSG00000127415]
+  source: [HGNC, NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [3425.0]
+  OMIM_ID: ['252800']
+  UniProt_ID: [P35475]
+MPEG1:
+  ENSG_ID: [ENSG00000197629]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [219972.0]
+  OMIM_ID: ['610390']
+  UniProt_ID: [Q2M385]
+RPS27:
+  ENSG_ID: [ENSG00000177954]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6232.0]
+  OMIM_ID: ['603702']
+  UniProt_ID: [P42677]
+TTK:
+  ENSG_ID: [ENSG00000112742]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q14.1]
+  NCBI Gene ID: [7272.0]
+  OMIM_ID: ['604092']
+  UniProt_ID: [P33981]

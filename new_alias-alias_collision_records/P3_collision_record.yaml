@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000154518
-  gene_symbol: ATP5MC3
-- ensg_id: ENSG00000126903
-  gene_symbol: ' SLC10A3'
-collision_symbol: P3

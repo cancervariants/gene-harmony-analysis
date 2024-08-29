@@ -1,0 +1,22 @@
+collision_symbol: SS
+FDFT1:
+  ENSG_ID: [ENSG00000079459]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [2222.0]
+  OMIM_ID: ['184420']
+  UniProt_ID: [P37268]
+GYPB:
+  ENSG_ID: [ENSG00000250361]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2994.0]
+  OMIM_ID: ['617923']
+  UniProt_ID: [P06028]
+SHOX:
+  ENSG_ID: [ENSG00000185960, ENSG00000292354]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xp22.33 and Yp11.32, .nan]
+  NCBI Gene ID: [6473.0, .nan]
+  OMIM_ID: ['312865, 400020', .nan]
+  UniProt_ID: [O15266, .nan]

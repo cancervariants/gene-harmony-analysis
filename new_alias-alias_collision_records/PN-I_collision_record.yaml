@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125458
-  gene_symbol: NT5C
-- ensg_id: ENSG00000122643
-  gene_symbol: ' NT5C3A'
-collision_symbol: PN-I

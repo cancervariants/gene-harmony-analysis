@@ -1,0 +1,15 @@
+collision_symbol: SNF2
+SMARCA2:
+  ENSG_ID: [ENSG00000080503]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p24.3]
+  NCBI Gene ID: [6595.0]
+  OMIM_ID: ['600014']
+  UniProt_ID: [P51531]
+SMARCA4:
+  ENSG_ID: [ENSG00000127616]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [6597.0]
+  OMIM_ID: ['603254']
+  UniProt_ID: [P51532]

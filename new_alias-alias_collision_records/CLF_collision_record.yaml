@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: CLQTL1
-- ensg_id: ENSG00000101343
-  gene_symbol: ' CRNKL1'
-- ensg_id: ENSG00000006016
-  gene_symbol: ' CRLF1'
-collision_symbol: CLF

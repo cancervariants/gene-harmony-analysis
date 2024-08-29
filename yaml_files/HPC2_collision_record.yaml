@@ -1,0 +1,15 @@
+collision_symbol: HPC2
+ELAC2:
+  ENSG_ID: [ENSG00000006744]
+  source: [NCBI Info]
+  Chromosome: [17p12]
+  NCBI Gene ID: [60528.0]
+  OMIM_ID: ['605367']
+  UniProt_ID: [Q9BQ52]
+PCAP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q42.2-q43]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

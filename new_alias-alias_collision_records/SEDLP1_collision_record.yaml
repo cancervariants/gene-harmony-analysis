@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000152433
-  gene_symbol: ZNF547
-- ensg_id: ENSG00000256060
-  gene_symbol: ' TRAPPC2B'
-collision_symbol: SEDLP1

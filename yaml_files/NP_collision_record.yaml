@@ -1,0 +1,29 @@
+collision_symbol: NP
+CTF2P:
+  ENSG_ID: [ENSG00000230447]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [100289419.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+KLK8:
+  ENSG_ID: [ENSG00000129455]
+  source: [NCBI Info]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [11202.0]
+  OMIM_ID: ['605644']
+  UniProt_ID: [O60259]
+PNP:
+  ENSG_ID: [ENSG00000198805]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [4860.0]
+  OMIM_ID: ['164050']
+  UniProt_ID: [P00491]
+ZNF384:
+  ENSG_ID: [ENSG00000126746]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [171017.0]
+  OMIM_ID: ['609951']
+  UniProt_ID: [Q8TF68]

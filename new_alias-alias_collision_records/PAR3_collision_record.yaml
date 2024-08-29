@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000148498
-  gene_symbol: PARD3
-- ensg_id: ENSG00000164220
-  gene_symbol: ' F2RL2'
-collision_symbol: PAR3

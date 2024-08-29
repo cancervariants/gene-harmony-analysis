@@ -1,0 +1,15 @@
+collision_symbol: HL
+HMGCL:
+  ENSG_ID: [ENSG00000117305]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [3155.0]
+  OMIM_ID: ['613898']
+  UniProt_ID: [P35914]
+LIPC:
+  ENSG_ID: [ENSG00000166035]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [3990.0]
+  OMIM_ID: ['151670']
+  UniProt_ID: [P11150]

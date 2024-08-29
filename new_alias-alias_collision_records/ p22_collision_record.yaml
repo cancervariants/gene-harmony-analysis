@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000215021
-  gene_symbol: PHB2
-- ensg_id: ENSG00000197102
-  gene_symbol: ' DYNC1H1'
-- ensg_id: ENSG00000187446
-  gene_symbol: ' CHP1'
-collision_symbol: ' P22'

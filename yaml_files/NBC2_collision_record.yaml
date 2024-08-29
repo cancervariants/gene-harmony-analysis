@@ -1,0 +1,15 @@
+collision_symbol: NBC2
+SLC4A4:
+  ENSG_ID: [ENSG00000080493]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [8671.0]
+  OMIM_ID: ['603345']
+  UniProt_ID: [Q9Y6R1]
+SLC4A7:
+  ENSG_ID: [ENSG00000033867]
+  source: [NCBI Info]
+  Chromosome: [3p24.1]
+  NCBI Gene ID: [9497.0]
+  OMIM_ID: ['603353']
+  UniProt_ID: [Q9Y6M7]

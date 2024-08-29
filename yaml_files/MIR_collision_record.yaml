@@ -1,0 +1,22 @@
+collision_symbol: MIR
+MARCHF8:
+  ENSG_ID: [ENSG00000165406]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q11.21-q11.22]
+  NCBI Gene ID: [220972.0]
+  OMIM_ID: ['613335']
+  UniProt_ID: [Q5T0T0]
+MLXIP:
+  ENSG_ID: [ENSG00000175727]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q21.31]
+  NCBI Gene ID: [22877.0]
+  OMIM_ID: ['608090']
+  UniProt_ID: [Q9HAP2]
+MYLIP:
+  ENSG_ID: [ENSG00000007944]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [29116.0]
+  OMIM_ID: ['610082']
+  UniProt_ID: [Q8WY64]

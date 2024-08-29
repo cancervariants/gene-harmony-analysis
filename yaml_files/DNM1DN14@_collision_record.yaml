@@ -1,0 +1,15 @@
+collision_symbol: DNM1DN14@
+DNM1P46:
+  ENSG_ID: [ENSG00000290767, ENSG00000182397]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q26.3]
+  NCBI Gene ID: [.nan, 196968.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan, Q6ZS02]
+DNM1P47:
+  ENSG_ID: [.nan, ENSG00000259660]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q26.3]
+  NCBI Gene ID: [.nan, 100216544.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

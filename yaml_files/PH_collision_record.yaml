@@ -1,0 +1,15 @@
+collision_symbol: PH
+PAH:
+  ENSG_ID: [ENSG00000171759]
+  source: [NCBI Info]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [5053.0]
+  OMIM_ID: ['612349']
+  UniProt_ID: [P00439]
+PPY:
+  ENSG_ID: [ENSG00000108849]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [5539.0]
+  OMIM_ID: ['167780']
+  UniProt_ID: [P01298]

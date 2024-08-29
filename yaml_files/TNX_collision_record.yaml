@@ -1,0 +1,15 @@
+collision_symbol: TNX
+TNXA:
+  ENSG_ID: [.nan, ENSG00000224140]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TNXB:
+  ENSG_ID: [ENSG00000168477]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.33-p21.32]
+  NCBI Gene ID: [7148.0]
+  OMIM_ID: ['600985']
+  UniProt_ID: [P22105]

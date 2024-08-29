@@ -1,0 +1,15 @@
+collision_symbol: ACS3
+ACSL3:
+  ENSG_ID: [ENSG00000123983]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q36.1]
+  NCBI Gene ID: [2181.0]
+  OMIM_ID: ['602371']
+  UniProt_ID: [O95573]
+TWIST1:
+  ENSG_ID: [ENSG00000122691]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p21.1]
+  NCBI Gene ID: [7291.0]
+  OMIM_ID: ['601622']
+  UniProt_ID: [Q15672]

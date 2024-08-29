@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000006071
-  gene_symbol: ABCC8
-- ensg_id: ENSG00000147081
-  gene_symbol: ' AKAP4'
-collision_symbol: ' HI'

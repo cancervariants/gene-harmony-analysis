@@ -1,0 +1,15 @@
+collision_symbol: MMDS3
+IBA57:
+  ENSG_ID: [ENSG00000181873]
+  source: [NCBI Info]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [200205.0]
+  OMIM_ID: ['615316']
+  UniProt_ID: [Q5T440]
+VTI1A:
+  ENSG_ID: [ENSG00000151532]
+  source: [NCBI Info]
+  Chromosome: [10q25.2]
+  NCBI Gene ID: [143187.0]
+  OMIM_ID: ['614316']
+  UniProt_ID: [Q96AJ9]

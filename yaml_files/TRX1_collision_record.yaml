@@ -1,0 +1,15 @@
+collision_symbol: TRX1
+KMT2A:
+  ENSG_ID: [ENSG00000118058]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [4297.0]
+  OMIM_ID: ['159555']
+  UniProt_ID: [Q03164]
+TXN:
+  ENSG_ID: [ENSG00000136810]
+  source: [NCBI Info]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [7295.0]
+  OMIM_ID: ['187700']
+  UniProt_ID: [P10599]

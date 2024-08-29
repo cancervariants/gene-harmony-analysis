@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000154545
-  gene_symbol: MAGED4
-- ensg_id: ENSG00000046774
-  gene_symbol: ' MAGEC2'
-collision_symbol: MAGEE1

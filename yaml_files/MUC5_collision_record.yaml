@@ -1,0 +1,15 @@
+collision_symbol: MUC5
+MUC5AC:
+  ENSG_ID: [ENSG00000215182]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [4586.0]
+  OMIM_ID: ['158373']
+  UniProt_ID: [P98088]
+MUC5B:
+  ENSG_ID: [ENSG00000117983]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [727897.0]
+  OMIM_ID: ['600770']
+  UniProt_ID: [Q9HC84]

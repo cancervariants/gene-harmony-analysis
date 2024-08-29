@@ -1,0 +1,15 @@
+collision_symbol: LQT5
+KCNE1:
+  ENSG_ID: [ENSG00000180509]
+  source: [NCBI Info]
+  Chromosome: [21q22.12]
+  NCBI Gene ID: [3753.0]
+  OMIM_ID: ['176261']
+  UniProt_ID: [P15382]
+KCNE2:
+  ENSG_ID: [ENSG00000159197]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [9992.0]
+  OMIM_ID: ['603796']
+  UniProt_ID: [Q9Y6J6]

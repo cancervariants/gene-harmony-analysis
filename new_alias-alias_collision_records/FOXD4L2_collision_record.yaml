@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184659
-  gene_symbol: FOXD4L4
-- ensg_id: ENSG00000187559
-  gene_symbol: ' FOXD4L3'
-collision_symbol: FOXD4L2

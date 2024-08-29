@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137975
-  gene_symbol: CLCA2
-- ensg_id: ENSG00000016490
-  gene_symbol: ' CLCA1'
-collision_symbol: CACC

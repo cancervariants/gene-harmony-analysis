@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130766
-  gene_symbol: SESN2
-- ensg_id: ENSG00000177096
-  gene_symbol: ' PHETA2'
-collision_symbol: ' SES2'

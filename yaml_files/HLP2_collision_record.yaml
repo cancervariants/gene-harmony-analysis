@@ -1,0 +1,15 @@
+collision_symbol: HLP2
+DDX3X:
+  ENSG_ID: [ENSG00000215301]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [1654.0]
+  OMIM_ID: ['300160']
+  UniProt_ID: [O00571]
+HPCAL1:
+  ENSG_ID: [ENSG00000115756]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [3241.0]
+  OMIM_ID: ['600207']
+  UniProt_ID: [P37235]

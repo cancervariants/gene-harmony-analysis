@@ -1,0 +1,15 @@
+collision_symbol: PIG5
+ANO9:
+  ENSG_ID: [ENSG00000185101]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [338440.0]
+  OMIM_ID: ['619963']
+  UniProt_ID: [A1A5B4]
+MAEA:
+  ENSG_ID: [ENSG00000090316]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [10296.0]
+  OMIM_ID: ['606801']
+  UniProt_ID: [Q7L5Y9]

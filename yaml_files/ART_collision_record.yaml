@@ -1,0 +1,15 @@
+collision_symbol: ART
+AGRP:
+  ENSG_ID: [ENSG00000159723]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [181.0]
+  OMIM_ID: ['602311']
+  UniProt_ID: [O00253]
+ARTN:
+  ENSG_ID: [ENSG00000117407]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [9048.0]
+  OMIM_ID: ['603886']
+  UniProt_ID: [Q5T4W7]

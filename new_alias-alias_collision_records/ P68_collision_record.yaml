@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108654
-  gene_symbol: DDX5
-- ensg_id: ENSG00000077514
-  gene_symbol: ' POLD3'
-collision_symbol: ' P68'

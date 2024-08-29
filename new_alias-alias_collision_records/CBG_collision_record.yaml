@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000249948
-  gene_symbol: GBA3
-- ensg_id: ENSG00000170099
-  gene_symbol: ' SERPINA6'
-collision_symbol: CBG

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151065
-  gene_symbol: DCP1B
-- ensg_id: ENSG00000159640
-  gene_symbol: ' ACE'
-collision_symbol: DCP1

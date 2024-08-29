@@ -1,0 +1,15 @@
+collision_symbol: PRR2
+NECTIN2:
+  ENSG_ID: [ENSG00000130202]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [5819.0]
+  OMIM_ID: ['600798']
+  UniProt_ID: [Q92692]
+PNRC1:
+  ENSG_ID: [ENSG00000146278]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q15]
+  NCBI Gene ID: [10957.0]
+  OMIM_ID: ['606714']
+  UniProt_ID: [Q12796]

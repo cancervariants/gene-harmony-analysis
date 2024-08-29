@@ -1,0 +1,15 @@
+collision_symbol: RNA45S5
+RNA45SN4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22 unplaced]
+  NCBI Gene ID: [109864271.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA45SN5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [unplaced]
+  NCBI Gene ID: [100861532.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: EDA3
+EDAR:
+  ENSG_ID: [ENSG00000135960]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [10913.0]
+  OMIM_ID: ['604095']
+  UniProt_ID: [Q9UNE0]
+EDARADD:
+  ENSG_ID: [ENSG00000186197]
+  source: [NCBI Info]
+  Chromosome: [1q42.3-q43]
+  NCBI Gene ID: [128178.0]
+  OMIM_ID: ['606603']
+  UniProt_ID: [Q8WWZ3]

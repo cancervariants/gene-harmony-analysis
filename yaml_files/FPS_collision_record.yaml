@@ -1,0 +1,15 @@
+collision_symbol: FPS
+FDPS:
+  ENSG_ID: [ENSG00000160752]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [2224.0]
+  OMIM_ID: ['134629']
+  UniProt_ID: [P14324]
+FES:
+  ENSG_ID: [ENSG00000182511]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [2242.0]
+  OMIM_ID: ['190030']
+  UniProt_ID: [P07332]

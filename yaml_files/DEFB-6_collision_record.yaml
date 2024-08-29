@@ -1,0 +1,15 @@
+collision_symbol: DEFB-6
+DEFB106A:
+  ENSG_ID: [ENSG00000186579]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [245909.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8N104]
+DEFB106B:
+  ENSG_ID: [ENSG00000187082]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [503841.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8N104]

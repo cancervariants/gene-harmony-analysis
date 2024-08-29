@@ -1,0 +1,15 @@
+collision_symbol: NRXN4
+CNTNAP1:
+  ENSG_ID: [ENSG00000108797]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [8506.0]
+  OMIM_ID: ['602346']
+  UniProt_ID: [P78357]
+CNTNAP2:
+  ENSG_ID: [ENSG00000174469]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q35-q36.1]
+  NCBI Gene ID: [26047.0]
+  OMIM_ID: ['604569']
+  UniProt_ID: [Q9UHC6]

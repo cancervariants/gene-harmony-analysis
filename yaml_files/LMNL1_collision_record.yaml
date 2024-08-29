@@ -1,0 +1,15 @@
+collision_symbol: LMNL1
+LMLN:
+  ENSG_ID: [ENSG00000185621]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q29]
+  NCBI Gene ID: [89782.0]
+  OMIM_ID: ['609380']
+  UniProt_ID: [Q96KR4]
+LMNA:
+  ENSG_ID: [ENSG00000160789]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [4000.0]
+  OMIM_ID: ['150330']
+  UniProt_ID: [P02545]

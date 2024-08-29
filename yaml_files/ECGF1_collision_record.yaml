@@ -1,0 +1,22 @@
+collision_symbol: ECGF1
+S1PR1:
+  ENSG_ID: [ENSG00000170989]
+  source: [NCBI Info]
+  Chromosome: [1p21.2]
+  NCBI Gene ID: [1901.0]
+  OMIM_ID: ['601974']
+  UniProt_ID: [P21453]
+SCO2:
+  ENSG_ID: [ENSG00000284194]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [9997.0]
+  OMIM_ID: ['604272']
+  UniProt_ID: [O43819]
+TYMP:
+  ENSG_ID: [ENSG00000025708]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [1890.0]
+  OMIM_ID: ['131222']
+  UniProt_ID: [P19971]

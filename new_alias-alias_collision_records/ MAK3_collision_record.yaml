@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139977
-  gene_symbol: NAA30
-- ensg_id: ENSG00000121579
-  gene_symbol: ' NAA50'
-collision_symbol: ' MAK3'

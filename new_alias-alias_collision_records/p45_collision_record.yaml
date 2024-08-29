@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000123405
-  gene_symbol: NFE2
-- ensg_id: ENSG00000145604
-  gene_symbol: ' SKP2'
-- ensg_id: ENSG00000087191
-  gene_symbol: ' PSMC5'
-collision_symbol: p45

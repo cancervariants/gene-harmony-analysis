@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131721
-  gene_symbol: RHOXF2
-- ensg_id: ENSG00000052126
-  gene_symbol: ' PLEKHA5'
-collision_symbol: ' PEPP2'

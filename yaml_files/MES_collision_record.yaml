@@ -1,0 +1,15 @@
+collision_symbol: MES
+ME1:
+  ENSG_ID: [ENSG00000065833]
+  source: [NCBI Info]
+  Chromosome: [6q14.2]
+  NCBI Gene ID: [4199.0]
+  OMIM_ID: ['154250']
+  UniProt_ID: [P48163]
+MKS1:
+  ENSG_ID: [ENSG00000011143]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [54903.0]
+  OMIM_ID: ['609883']
+  UniProt_ID: [Q9NXB0]

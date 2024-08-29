@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138039
-  gene_symbol: LHCGR
-- ensg_id: ENSG00000026508
-  gene_symbol: ' CD44'
-collision_symbol: LHR

@@ -1,0 +1,15 @@
+collision_symbol: PCGF4
+BMI1:
+  ENSG_ID: [ENSG00000168283]
+  source: [NCBI Info]
+  Chromosome: [10p12.2]
+  NCBI Gene ID: [648.0]
+  OMIM_ID: ['164831']
+  UniProt_ID: [P35226]
+COMMD3-BMI1:
+  ENSG_ID: [ENSG00000269897]
+  source: [NCBI Info]
+  Chromosome: [10p12.2]
+  NCBI Gene ID: [100532731.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

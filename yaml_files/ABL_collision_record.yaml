@@ -1,0 +1,22 @@
+collision_symbol: ABL
+ABL1:
+  ENSG_ID: [ENSG00000097007]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.12]
+  NCBI Gene ID: [25.0]
+  OMIM_ID: ['189980']
+  UniProt_ID: [P00519]
+DSP-AS1:
+  ENSG_ID: [ENSG00000261189]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p24.3]
+  NCBI Gene ID: [101928076.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MTTP:
+  ENSG_ID: [ENSG00000138823]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q23]
+  NCBI Gene ID: [4547.0]
+  OMIM_ID: ['157147']
+  UniProt_ID: [P55157]

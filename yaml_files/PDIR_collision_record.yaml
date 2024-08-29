@@ -1,0 +1,15 @@
+collision_symbol: PDIR
+PDIA2:
+  ENSG_ID: [ENSG00000185615]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [64714.0]
+  OMIM_ID: ['608012']
+  UniProt_ID: [Q13087]
+PDIA5:
+  ENSG_ID: [ENSG00000065485]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q21.1]
+  NCBI Gene ID: [10954.0]
+  OMIM_ID: ['616942']
+  UniProt_ID: [Q14554]

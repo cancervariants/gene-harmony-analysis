@@ -1,0 +1,15 @@
+collision_symbol: REX1
+REXO1:
+  ENSG_ID: [ENSG00000079313]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [57455.0]
+  OMIM_ID: ['609614']
+  UniProt_ID: [Q8N1G1]
+ZFP42:
+  ENSG_ID: [ENSG00000179059]
+  source: [NCBI Info]
+  Chromosome: [4q35.2]
+  NCBI Gene ID: [132625.0]
+  OMIM_ID: ['614572']
+  UniProt_ID: [Q96MM3]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131910
-  gene_symbol: NR0B2
-- ensg_id: ENSG00000111679
-  gene_symbol: ' PTPN6'
-collision_symbol: SHP1

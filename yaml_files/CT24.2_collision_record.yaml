@@ -1,0 +1,15 @@
+collision_symbol: CT24.2
+CSAG2:
+  ENSG_ID: [ENSG00000268902]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [102723547.0]
+  OMIM_ID: ['301096']
+  UniProt_ID: [Q9Y5P2]
+CSAG3:
+  ENSG_ID: [ENSG00000268916]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [389903.0]
+  OMIM_ID: ['301097']
+  UniProt_ID: [Q9Y5P2]

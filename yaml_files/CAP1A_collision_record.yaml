@@ -1,0 +1,15 @@
+collision_symbol: CAP1A
+RNGTT:
+  ENSG_ID: [ENSG00000111880]
+  source: [NCBI Info]
+  Chromosome: [6q15]
+  NCBI Gene ID: [8732.0]
+  OMIM_ID: ['603512']
+  UniProt_ID: [O60942]
+SCLT1:
+  ENSG_ID: [ENSG00000151466]
+  source: [NCBI Info]
+  Chromosome: [4q28.2]
+  NCBI Gene ID: [132320.0]
+  OMIM_ID: ['611399']
+  UniProt_ID: [Q96NL6]

@@ -1,0 +1,15 @@
+collision_symbol: ULG4
+EBR3:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [reserved]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+HOAC:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [reserved]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110841
-  gene_symbol: PPFIBP1
-- ensg_id: ENSG00000197860
-  gene_symbol: ' SGTB'
-collision_symbol: SGT2

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000208024
-  gene_symbol: MIR199A2
-- ensg_id: ENSG00000207752
-  gene_symbol: ' MIR199A1'
-collision_symbol: MIR-199-s

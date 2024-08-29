@@ -1,0 +1,15 @@
+collision_symbol: HCCR-2
+BRI3BP:
+  ENSG_ID: [ENSG00000184992]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [140707.0]
+  OMIM_ID: ['615627']
+  UniProt_ID: [Q8WY22]
+LETMD1:
+  ENSG_ID: [ENSG00000050426]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [25875.0]
+  OMIM_ID: ['619070']
+  UniProt_ID: [Q6P1Q0]

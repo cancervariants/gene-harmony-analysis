@@ -1,0 +1,15 @@
+collision_symbol: NEDSMBA
+PPFIBP1:
+  ENSG_ID: [ENSG00000110841]
+  source: [NCBI Info]
+  Chromosome: [12p11.23-p11.22]
+  NCBI Gene ID: [8496.0]
+  OMIM_ID: ['603141']
+  UniProt_ID: [Q86W92]
+UBE3C:
+  ENSG_ID: [ENSG00000009335]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [9690.0]
+  OMIM_ID: ['614454']
+  UniProt_ID: [Q15386]

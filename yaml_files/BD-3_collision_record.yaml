@@ -1,0 +1,15 @@
+collision_symbol: BD-3
+DEFB103A:
+  ENSG_ID: [ENSG00000176797]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [414325.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P81534]
+DEFB103B:
+  ENSG_ID: [ENSG00000177243]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [55894.0]
+  OMIM_ID: ['606611']
+  UniProt_ID: [P81534]

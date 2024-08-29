@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103005
-  gene_symbol: USB1
-- ensg_id: ENSG00000133110
-  gene_symbol: ' POSTN'
-collision_symbol: PN

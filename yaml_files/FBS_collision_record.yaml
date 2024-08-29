@@ -1,0 +1,15 @@
+collision_symbol: FBS
+FBRS:
+  ENSG_ID: [ENSG00000156860]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [64319.0]
+  OMIM_ID: ['608601']
+  UniProt_ID: [Q9HAH7]
+FBXO8:
+  ENSG_ID: [ENSG00000164117]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q34.1]
+  NCBI Gene ID: [26269.0]
+  OMIM_ID: ['605649']
+  UniProt_ID: [Q9NRD0]

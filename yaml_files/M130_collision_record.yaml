@@ -1,0 +1,15 @@
+collision_symbol: M130
+CD163:
+  ENSG_ID: [ENSG00000177575]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [9332.0]
+  OMIM_ID: ['605545']
+  UniProt_ID: [Q86VB7]
+PPP1R12A:
+  ENSG_ID: [ENSG00000058272]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q21.2-q21.31]
+  NCBI Gene ID: [4659.0]
+  OMIM_ID: ['602021']
+  UniProt_ID: [O14974]

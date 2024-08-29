@@ -1,0 +1,15 @@
+collision_symbol: CBG
+GBA3:
+  ENSG_ID: [ENSG00000249948]
+  source: [NCBI Info]
+  Chromosome: [4p15.2]
+  NCBI Gene ID: [57733.0]
+  OMIM_ID: ['606619']
+  UniProt_ID: [Q9H227]
+SERPINA6:
+  ENSG_ID: [ENSG00000170099]
+  source: [NCBI Info]
+  Chromosome: [14q32.13]
+  NCBI Gene ID: [866.0]
+  OMIM_ID: ['122500']
+  UniProt_ID: [P08185]

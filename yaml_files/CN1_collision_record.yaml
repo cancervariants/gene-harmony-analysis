@@ -1,0 +1,15 @@
+collision_symbol: CN1
+CNDP1:
+  ENSG_ID: [ENSG00000150656]
+  source: [HGNC, NCBI Info]
+  Chromosome: [18q22.3]
+  NCBI Gene ID: [84735.0]
+  OMIM_ID: ['609064']
+  UniProt_ID: [Q96KN2]
+NT5C1A:
+  ENSG_ID: [ENSG00000116981]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [84618.0]
+  OMIM_ID: ['610525']
+  UniProt_ID: [Q9BXI3]

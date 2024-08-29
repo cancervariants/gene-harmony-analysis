@@ -1,0 +1,15 @@
+collision_symbol: EDF
+IL5:
+  ENSG_ID: [ENSG00000113525]
+  source: [NCBI Info]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [3567.0]
+  OMIM_ID: ['147850']
+  UniProt_ID: [P05113]
+INHBA:
+  ENSG_ID: [ENSG00000122641]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [3624.0]
+  OMIM_ID: ['147290']
+  UniProt_ID: [P08476]

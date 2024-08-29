@@ -1,0 +1,15 @@
+collision_symbol: G15
+AGPAT1:
+  ENSG_ID: [ENSG00000204310]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [10554.0]
+  OMIM_ID: ['603099']
+  UniProt_ID: [Q99943]
+RBM5:
+  ENSG_ID: [ENSG00000003756]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10181.0]
+  OMIM_ID: ['606884']
+  UniProt_ID: [P52756]

@@ -1,0 +1,15 @@
+collision_symbol: MD1
+LY86:
+  ENSG_ID: [ENSG00000112799]
+  source: [NCBI Info]
+  Chromosome: [6p25.1]
+  NCBI Gene ID: [9450.0]
+  OMIM_ID: ['605241']
+  UniProt_ID: [O95711]
+MAFD1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [18p]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: MADH6
+SMAD6:
+  ENSG_ID: [ENSG00000137834]
+  source: [NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [4091.0]
+  OMIM_ID: ['602931']
+  UniProt_ID: [O43541]
+SMAD9:
+  ENSG_ID: [ENSG00000120693]
+  source: [NCBI Info]
+  Chromosome: [13q13.3]
+  NCBI Gene ID: [4093.0]
+  OMIM_ID: ['603295']
+  UniProt_ID: [O15198]

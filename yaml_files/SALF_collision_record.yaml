@@ -1,0 +1,15 @@
+collision_symbol: SALF
+STON1:
+  ENSG_ID: [ENSG00000243244]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [11037.0]
+  OMIM_ID: ['605357']
+  UniProt_ID: [Q9Y6Q2]
+STON1-GTF2A1L:
+  ENSG_ID: [ENSG00000068781]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [286749.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

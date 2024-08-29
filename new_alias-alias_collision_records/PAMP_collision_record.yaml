@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000148926
-  gene_symbol: ADM
-- ensg_id: ENSG00000136758
-  gene_symbol: ' YME1L1'
-collision_symbol: PAMP

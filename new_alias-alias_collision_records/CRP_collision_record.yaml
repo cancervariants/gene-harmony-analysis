@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159176
-  gene_symbol: CSRP1
-- ensg_id: ENSG00000224530
-  gene_symbol: ' PPIAP10'
-collision_symbol: CRP

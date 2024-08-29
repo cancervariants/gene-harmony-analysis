@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137168
-  gene_symbol: PPIL1
-- ensg_id: ENSG00000001630
-  gene_symbol: ' CYP51A1'
-collision_symbol: CYPL1

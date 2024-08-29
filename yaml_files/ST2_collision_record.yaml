@@ -1,0 +1,22 @@
+collision_symbol: ST2
+IL1RL1:
+  ENSG_ID: [ENSG00000115602]
+  source: [NCBI Info]
+  Chromosome: [2q12.1]
+  NCBI Gene ID: [9173.0]
+  OMIM_ID: ['601203']
+  UniProt_ID: [Q01638]
+SDCBP2:
+  ENSG_ID: [ENSG00000125775]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [27111.0]
+  OMIM_ID: ['617358']
+  UniProt_ID: [Q9H190]
+SULT2A1:
+  ENSG_ID: [ENSG00000105398]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [6822.0]
+  OMIM_ID: ['125263']
+  UniProt_ID: [Q06520]

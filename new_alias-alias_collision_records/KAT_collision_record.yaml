@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158769
-  gene_symbol: F11R
-- ensg_id: ENSG00000215845
-  gene_symbol: ' TSTD1'
-- ensg_id: ENSG00000140854
-  gene_symbol: ' KATNB1'
-collision_symbol: KAT

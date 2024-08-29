@@ -1,0 +1,15 @@
+collision_symbol: PDIP1
+HELZ2:
+  ENSG_ID: [ENSG00000130589]
+  source: [HGNC, ENSG]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [85441.0]
+  OMIM_ID: ['611265']
+  UniProt_ID: [Q9BYK8]
+KCTD13:
+  ENSG_ID: [ENSG00000174943]
+  source: [HGNC, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [253980.0]
+  OMIM_ID: ['608947']
+  UniProt_ID: [Q8WZ19]

@@ -1,0 +1,15 @@
+collision_symbol: CBL-3
+CBLC:
+  ENSG_ID: [ENSG00000142273]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [23624.0]
+  OMIM_ID: ['608453']
+  UniProt_ID: [Q9ULV8]
+VTRNA2-1:
+  ENSG_ID: [ENSG00000270123]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [100126299.0]
+  OMIM_ID: ['614938']
+  UniProt_ID: [.nan]

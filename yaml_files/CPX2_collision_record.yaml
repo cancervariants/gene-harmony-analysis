@@ -1,0 +1,15 @@
+collision_symbol: CPX2
+CPLX2:
+  ENSG_ID: [ENSG00000145920]
+  source: [NCBI Info]
+  Chromosome: [5q35.2]
+  NCBI Gene ID: [10814.0]
+  OMIM_ID: ['605033']
+  UniProt_ID: [Q6PUV4]
+CPXM2:
+  ENSG_ID: [ENSG00000121898]
+  source: [NCBI Info]
+  Chromosome: [10q26.13]
+  NCBI Gene ID: [119587.0]
+  OMIM_ID: ['617348']
+  UniProt_ID: [Q8N436]

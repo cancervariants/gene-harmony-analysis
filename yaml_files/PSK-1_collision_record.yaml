@@ -1,0 +1,15 @@
+collision_symbol: PSK-1
+SEZ6L2:
+  ENSG_ID: [ENSG00000174938]
+  source: [ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [26470.0]
+  OMIM_ID: ['616667']
+  UniProt_ID: [Q6UXD5]
+TAOK2:
+  ENSG_ID: [ENSG00000149930]
+  source: [ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [9344.0]
+  OMIM_ID: ['613199']
+  UniProt_ID: [Q9UL54]

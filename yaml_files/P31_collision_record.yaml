@@ -1,0 +1,22 @@
+collision_symbol: P31
+ATP6V1E1:
+  ENSG_ID: [ENSG00000131100]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [529.0]
+  OMIM_ID: ['108746']
+  UniProt_ID: [P36543]
+PSMD8:
+  ENSG_ID: [ENSG00000099341]
+  source: [ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [5714.0]
+  OMIM_ID: ['617844']
+  UniProt_ID: [P48556]
+USE1:
+  ENSG_ID: [ENSG00000053501]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [55850.0]
+  OMIM_ID: ['610675']
+  UniProt_ID: [Q9NZ43]

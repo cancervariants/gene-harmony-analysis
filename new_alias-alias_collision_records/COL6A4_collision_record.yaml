@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000230524
-  gene_symbol: COL6A4P1
-- ensg_id: ENSG00000228252
-  gene_symbol: ' COL6A4P2'
-collision_symbol: COL6A4

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000149792
-  gene_symbol: MRPL49
-- ensg_id: ENSG00000173264
-  gene_symbol: ' GPR137'
-collision_symbol: C11ORF4

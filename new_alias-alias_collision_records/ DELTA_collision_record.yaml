@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100811
-  gene_symbol: YY1
-- ensg_id: ENSG00000142507
-  gene_symbol: ' PSMB6'
-collision_symbol: ' DELTA'

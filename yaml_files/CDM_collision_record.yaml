@@ -1,0 +1,15 @@
+collision_symbol: CDM
+BCAP31:
+  ENSG_ID: [ENSG00000185825]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [10134.0]
+  OMIM_ID: ['300398']
+  UniProt_ID: [P51572]
+CALD1:
+  ENSG_ID: [ENSG00000122786]
+  source: [NCBI Info]
+  Chromosome: [7q33]
+  NCBI Gene ID: [800.0]
+  OMIM_ID: ['114213']
+  UniProt_ID: [Q05682]

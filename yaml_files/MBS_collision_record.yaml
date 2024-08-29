@@ -1,0 +1,15 @@
+collision_symbol: MBS
+MBS1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [13q12.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PPP1R12A:
+  ENSG_ID: [ENSG00000058272]
+  source: [NCBI Info]
+  Chromosome: [12q21.2-q21.31]
+  NCBI Gene ID: [4659.0]
+  OMIM_ID: ['602021']
+  UniProt_ID: [O14974]

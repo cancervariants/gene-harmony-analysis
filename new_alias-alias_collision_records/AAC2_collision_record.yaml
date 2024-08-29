@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156006
-  gene_symbol: NAT2
-- ensg_id: ENSG00000005022
-  gene_symbol: ' SLC25A5'
-collision_symbol: AAC2

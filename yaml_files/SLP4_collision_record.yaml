@@ -1,0 +1,15 @@
+collision_symbol: SLP4
+S1PR4:
+  ENSG_ID: [ENSG00000125910]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [8698.0]
+  OMIM_ID: ['603751']
+  UniProt_ID: [O95977]
+SYTL4:
+  ENSG_ID: [ENSG00000102362]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [94121.0]
+  OMIM_ID: ['300723']
+  UniProt_ID: [Q96C24]

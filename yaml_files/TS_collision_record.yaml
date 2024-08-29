@@ -1,0 +1,29 @@
+collision_symbol: TS
+CACNA1C:
+  ENSG_ID: [ENSG00000151067]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [775.0]
+  OMIM_ID: ['114205']
+  UniProt_ID: [Q13936]
+GCY:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Yq11]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TBXAS1:
+  ENSG_ID: [ENSG00000059377]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [6916.0]
+  OMIM_ID: ['274180']
+  UniProt_ID: [P24557]
+TYMS:
+  ENSG_ID: [ENSG00000176890]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18p11.32]
+  NCBI Gene ID: [7298.0]
+  OMIM_ID: ['188350']
+  UniProt_ID: [P04818]

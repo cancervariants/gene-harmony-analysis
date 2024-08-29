@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129170
-  gene_symbol: CSRP3
-- ensg_id: ENSG00000103187
-  gene_symbol: ' COTL1'
-- ensg_id: ENSG00000178363
-  gene_symbol: ' CALML3'
-collision_symbol: CLP

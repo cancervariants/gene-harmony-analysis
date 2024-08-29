@@ -1,0 +1,15 @@
+collision_symbol: CSBS
+CLMP:
+  ENSG_ID: [ENSG00000166250]
+  source: [NCBI Info]
+  Chromosome: [11q24.1]
+  NCBI Gene ID: [79827.0]
+  OMIM_ID: ['611693']
+  UniProt_ID: [Q9H6B4]
+FLNA:
+  ENSG_ID: [ENSG00000196924]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [2316.0]
+  OMIM_ID: ['300017']
+  UniProt_ID: [P21333]

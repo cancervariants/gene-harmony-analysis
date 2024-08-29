@@ -1,0 +1,15 @@
+collision_symbol: EPAC
+RAPGEF3:
+  ENSG_ID: [ENSG00000079337]
+  source: [NCBI Info]
+  Chromosome: [12q13.11]
+  NCBI Gene ID: [10411.0]
+  OMIM_ID: ['606057']
+  UniProt_ID: [O95398]
+RAPGEF4:
+  ENSG_ID: [ENSG00000091428]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [11069.0]
+  OMIM_ID: ['606058']
+  UniProt_ID: [Q8WZA2]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162604
-  gene_symbol: TM2D1
-- ensg_id: ENSG00000168066
-  gene_symbol: ' SF1'
-collision_symbol: BBP

@@ -1,0 +1,22 @@
+collision_symbol: DP2
+APC:
+  ENSG_ID: [ENSG00000134982]
+  source: [NCBI Info]
+  Chromosome: [5q22.2]
+  NCBI Gene ID: [324.0]
+  OMIM_ID: ['611731']
+  UniProt_ID: [P25054]
+PTGDR2:
+  ENSG_ID: [ENSG00000183134]
+  source: [NCBI Info]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [11251.0]
+  OMIM_ID: ['604837']
+  UniProt_ID: [Q9Y5Y4]
+TFDP2:
+  ENSG_ID: [ENSG00000114126]
+  source: [NCBI Info]
+  Chromosome: [3q23]
+  NCBI Gene ID: [7029.0]
+  OMIM_ID: ['602160']
+  UniProt_ID: [Q14188]

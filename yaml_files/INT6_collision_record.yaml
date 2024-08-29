@@ -1,0 +1,15 @@
+collision_symbol: INT6
+EIF3E:
+  ENSG_ID: [ENSG00000104408]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q23.1]
+  NCBI Gene ID: [3646.0]
+  OMIM_ID: ['602210']
+  UniProt_ID: [P60228]
+INTS6:
+  ENSG_ID: [ENSG00000102786]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q14.3]
+  NCBI Gene ID: [26512.0]
+  OMIM_ID: ['604331']
+  UniProt_ID: [Q9UL03]

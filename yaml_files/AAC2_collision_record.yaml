@@ -1,0 +1,15 @@
+collision_symbol: AAC2
+NAT2:
+  ENSG_ID: [ENSG00000156006]
+  source: [NCBI Info]
+  Chromosome: [8p22]
+  NCBI Gene ID: [10.0]
+  OMIM_ID: ['612182']
+  UniProt_ID: [P11245]
+SLC25A5:
+  ENSG_ID: [ENSG00000005022]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [292.0]
+  OMIM_ID: ['300150']
+  UniProt_ID: [P05141]

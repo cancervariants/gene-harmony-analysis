@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132259
-  gene_symbol: CNGA4
-- ensg_id: ENSG00000070729
-  gene_symbol: ' CNGB1'
-collision_symbol: CNG4

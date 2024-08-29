@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131378
-  gene_symbol: RFTN1
-- ensg_id: ENSG00000073712
-  gene_symbol: ' FERMT2'
-collision_symbol: MIG2

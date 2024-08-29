@@ -1,0 +1,15 @@
+collision_symbol: NCRNA00086
+SMIM10L2A:
+  ENSG_ID: [ENSG00000178947]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [399668.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMW4]
+SMIM10L2B:
+  ENSG_ID: [ENSG00000196972]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [644596.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMW5]

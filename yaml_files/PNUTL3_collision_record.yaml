@@ -1,0 +1,15 @@
+collision_symbol: PNUTL3
+SEPTIN1:
+  ENSG_ID: [ENSG00000180096]
+  source: [ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [1731.0]
+  OMIM_ID: ['612897']
+  UniProt_ID: [Q8WYJ6]
+SEPTIN2:
+  ENSG_ID: [ENSG00000168385]
+  source: [ENSG]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [4735.0]
+  OMIM_ID: ['601506']
+  UniProt_ID: [Q15019]

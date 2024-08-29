@@ -1,0 +1,15 @@
+collision_symbol: RNU1-8
+RNU1-28P:
+  ENSG_ID: [ENSG00000206588]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q13.1]
+  NCBI Gene ID: [26866.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU1-8P:
+  ENSG_ID: [ENSG00000207056]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.23]
+  NCBI Gene ID: [106481604.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

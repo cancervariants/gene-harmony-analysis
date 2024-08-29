@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160180
-  gene_symbol: TFF3
-- ensg_id: ENSG00000003436
-  gene_symbol: ' TFPI'
-collision_symbol: TFI

@@ -1,0 +1,22 @@
+collision_symbol: CLF
+CLQTL1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+CRLF1:
+  ENSG_ID: [ENSG00000006016]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p12]
+  NCBI Gene ID: [9244.0]
+  OMIM_ID: ['604237']
+  UniProt_ID: [O75462]
+CRNKL1:
+  ENSG_ID: [ENSG00000101343]
+  source: [HGNC, NCBI Info]
+  Chromosome: [20p11.23]
+  NCBI Gene ID: [51340.0]
+  OMIM_ID: ['610952']
+  UniProt_ID: [Q9BZJ0]

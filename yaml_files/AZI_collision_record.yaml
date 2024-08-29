@@ -1,0 +1,15 @@
+collision_symbol: AZI
+AZIN1:
+  ENSG_ID: [ENSG00000155096]
+  source: [NCBI Info]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [51582.0]
+  OMIM_ID: ['607909']
+  UniProt_ID: [O14977]
+OAZ1:
+  ENSG_ID: [ENSG00000104904]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [4946.0]
+  OMIM_ID: ['601579']
+  UniProt_ID: [P54368]

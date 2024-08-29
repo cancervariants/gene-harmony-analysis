@@ -1,0 +1,15 @@
+collision_symbol: D3F15S2
+APEH:
+  ENSG_ID: [ENSG00000164062]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [327.0]
+  OMIM_ID: ['102645']
+  UniProt_ID: [P13798]
+MST1:
+  ENSG_ID: [ENSG00000173531]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [4485.0]
+  OMIM_ID: ['142408']
+  UniProt_ID: [P26927]

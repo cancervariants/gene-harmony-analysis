@@ -1,0 +1,15 @@
+collision_symbol: DORV
+GDF1:
+  ENSG_ID: [ENSG00000130283]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [2657.0]
+  OMIM_ID: ['602880']
+  UniProt_ID: [P27539]
+TBX1:
+  ENSG_ID: [ENSG00000184058]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [6899.0]
+  OMIM_ID: ['602054']
+  UniProt_ID: [O43435]

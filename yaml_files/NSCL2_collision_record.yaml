@@ -1,0 +1,15 @@
+collision_symbol: NSCL2
+NHLH2:
+  ENSG_ID: [ENSG00000177551]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.1]
+  NCBI Gene ID: [4808.0]
+  OMIM_ID: ['162361']
+  UniProt_ID: [Q02577]
+TAF1:
+  ENSG_ID: [ENSG00000147133]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [6872.0]
+  OMIM_ID: ['313650']
+  UniProt_ID: [P21675]

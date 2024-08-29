@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102076
-  gene_symbol: OPN1LW
-- ensg_id: ENSG00000268221
-  gene_symbol: ' OPN1MW'
-collision_symbol: CBBM

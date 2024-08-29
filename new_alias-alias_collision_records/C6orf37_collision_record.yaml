@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112773
-  gene_symbol: TENT5A
-- ensg_id: ENSG00000168631
-  gene_symbol: ' MUCL3'
-collision_symbol: C6orf37

@@ -1,0 +1,15 @@
+collision_symbol: AU
+BCAM:
+  ENSG_ID: [ENSG00000187244]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [4059.0]
+  OMIM_ID: ['612773']
+  UniProt_ID: [P50895]
+HR:
+  ENSG_ID: [ENSG00000168453]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [55806.0]
+  OMIM_ID: ['602302']
+  UniProt_ID: [O43593]

@@ -1,0 +1,15 @@
+collision_symbol: PRAAS3
+PSMB4:
+  ENSG_ID: [ENSG00000159377]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [5692.0]
+  OMIM_ID: ['602177']
+  UniProt_ID: [P28070]
+PSMB9:
+  ENSG_ID: [ENSG00000240065]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [5698.0]
+  OMIM_ID: ['177045']
+  UniProt_ID: [P28065]

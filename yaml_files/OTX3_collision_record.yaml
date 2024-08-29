@@ -1,0 +1,15 @@
+collision_symbol: OTX3
+CRX:
+  ENSG_ID: [ENSG00000105392]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [1406.0]
+  OMIM_ID: ['602225']
+  UniProt_ID: [O43186]
+DMBX1:
+  ENSG_ID: [ENSG00000197587]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p33]
+  NCBI Gene ID: [127343.0]
+  OMIM_ID: ['607410']
+  UniProt_ID: [Q8NFW5]

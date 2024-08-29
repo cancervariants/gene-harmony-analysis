@@ -1,0 +1,15 @@
+collision_symbol: ATF
+GDNF:
+  ENSG_ID: [ENSG00000168621]
+  source: [NCBI Info]
+  Chromosome: [5p13.2]
+  NCBI Gene ID: [2668.0]
+  OMIM_ID: ['600837']
+  UniProt_ID: [P39905]
+PLAU:
+  ENSG_ID: [ENSG00000122861]
+  source: [NCBI Info]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [5328.0]
+  OMIM_ID: ['191840']
+  UniProt_ID: [P00749]

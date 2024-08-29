@@ -1,0 +1,15 @@
+collision_symbol: CLAC
+ATCAY:
+  ENSG_ID: [ENSG00000167654]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [85300.0]
+  OMIM_ID: ['608179']
+  UniProt_ID: [Q86WG3]
+COL25A1:
+  ENSG_ID: [ENSG00000188517]
+  source: [NCBI Info]
+  Chromosome: [4q25]
+  NCBI Gene ID: [84570.0]
+  OMIM_ID: ['610004']
+  UniProt_ID: [Q9BXS0]

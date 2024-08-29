@@ -1,0 +1,15 @@
+collision_symbol: OB1
+HOPX:
+  ENSG_ID: [ENSG00000171476]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [84525.0]
+  OMIM_ID: ['607275']
+  UniProt_ID: [Q9BPY8]
+ZNF717:
+  ENSG_ID: [ENSG00000227124]
+  source: [NCBI Info]
+  Chromosome: [3p12.3]
+  NCBI Gene ID: [100131827.0]
+  OMIM_ID: ['618405']
+  UniProt_ID: [Q9BY31]

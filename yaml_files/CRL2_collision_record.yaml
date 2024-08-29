@@ -1,0 +1,15 @@
+collision_symbol: CRL2
+CRLF2:
+  ENSG_ID: [ENSG00000292363]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DAND5:
+  ENSG_ID: [ENSG00000179284]
+  source: [NCBI Info]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [199699.0]
+  OMIM_ID: ['609068']
+  UniProt_ID: [Q8N907]

@@ -1,0 +1,15 @@
+collision_symbol: S2
+PSMD2:
+  ENSG_ID: [ENSG00000175166]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [5708.0]
+  OMIM_ID: ['606223']
+  UniProt_ID: [Q13200]
+RPS2:
+  ENSG_ID: [ENSG00000140988]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [6187.0]
+  OMIM_ID: ['603624']
+  UniProt_ID: [P15880]

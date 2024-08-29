@@ -1,0 +1,22 @@
+collision_symbol: SIII
+ELOA:
+  ENSG_ID: [ENSG00000011007]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [6924.0]
+  OMIM_ID: ['600786']
+  UniProt_ID: [Q14241]
+ELOB:
+  ENSG_ID: [ENSG00000103363]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [6923.0]
+  OMIM_ID: ['600787']
+  UniProt_ID: [Q15370]
+ELOC:
+  ENSG_ID: [ENSG00000154582]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q21.11]
+  NCBI Gene ID: [6921.0]
+  OMIM_ID: ['600788']
+  UniProt_ID: [Q15369]

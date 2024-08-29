@@ -1,0 +1,15 @@
+collision_symbol: SCCA1
+SERPINB3:
+  ENSG_ID: [ENSG00000057149]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q21.33]
+  NCBI Gene ID: [6317.0]
+  OMIM_ID: ['600517']
+  UniProt_ID: [P29508]
+SERPINB4:
+  ENSG_ID: [ENSG00000206073]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q21.33]
+  NCBI Gene ID: [6318.0]
+  OMIM_ID: ['600518']
+  UniProt_ID: [P48594]

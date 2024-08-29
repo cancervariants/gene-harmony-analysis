@@ -1,0 +1,15 @@
+collision_symbol: U5B1
+RNU5A-1:
+  ENSG_ID: [ENSG00000199568]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [26831.0]
+  OMIM_ID: ['180691']
+  UniProt_ID: [.nan]
+RNU5B-1:
+  ENSG_ID: [ENSG00000200156]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q22]
+  NCBI Gene ID: [26832.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: U6
+RNU6-1:
+  ENSG_ID: [ENSG00000206625]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q23]
+  NCBI Gene ID: [26827.0]
+  OMIM_ID: ['180692']
+  UniProt_ID: [.nan]
+RNU6-50P:
+  ENSG_ID: [ENSG00000199226, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xp11.3, .nan]
+  NCBI Gene ID: [26825.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

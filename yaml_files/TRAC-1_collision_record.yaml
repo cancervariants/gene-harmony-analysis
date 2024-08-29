@@ -1,0 +1,15 @@
+collision_symbol: TRAC-1
+NCOR2:
+  ENSG_ID: [ENSG00000196498]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [9612.0]
+  OMIM_ID: ['600848']
+  UniProt_ID: [Q9Y618]
+RNF125:
+  ENSG_ID: [ENSG00000101695]
+  source: [NCBI Info]
+  Chromosome: [18q12.1]
+  NCBI Gene ID: [54941.0]
+  OMIM_ID: ['610432']
+  UniProt_ID: [Q96EQ8]

@@ -1,0 +1,15 @@
+collision_symbol: T2
+ACAT1:
+  ENSG_ID: [ENSG00000075239]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [38.0]
+  OMIM_ID: ['607809']
+  UniProt_ID: [P24752]
+SLC25A5:
+  ENSG_ID: [ENSG00000005022]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [292.0]
+  OMIM_ID: ['300150']
+  UniProt_ID: [P05141]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120210
-  gene_symbol: INSL6
-- ensg_id: ENSG00000121931
-  gene_symbol: ' LRIF1'
-collision_symbol: RIF1

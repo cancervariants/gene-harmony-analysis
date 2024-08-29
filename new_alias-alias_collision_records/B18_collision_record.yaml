@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000099795
-  gene_symbol: NDUFB7
-- ensg_id: ENSG00000166979
-  gene_symbol: ' EVA1C'
-collision_symbol: B18

@@ -1,0 +1,15 @@
+collision_symbol: KMT3G
+NSD2:
+  ENSG_ID: [ENSG00000109685]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [7468.0]
+  OMIM_ID: ['602952']
+  UniProt_ID: [O96028]
+NSD3:
+  ENSG_ID: [ENSG00000147548]
+  source: [NCBI Info]
+  Chromosome: [8p11.23]
+  NCBI Gene ID: [54904.0]
+  OMIM_ID: ['607083']
+  UniProt_ID: [Q9BZ95]

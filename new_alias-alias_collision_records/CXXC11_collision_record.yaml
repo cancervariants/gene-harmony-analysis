@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188011
-  gene_symbol: RTP5
-- ensg_id: ENSG00000099364
-  gene_symbol: ' FBXL19'
-collision_symbol: CXXC11

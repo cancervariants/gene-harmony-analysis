@@ -1,0 +1,29 @@
+collision_symbol: WASH
+LOC124906931:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LOC124908102:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+WASH6P:
+  ENSG_ID: [ENSG00000292372]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+WASHC1:
+  ENSG_ID: [ENSG00000181404]
+  source: [NCBI Info]
+  Chromosome: [9p24.3]
+  NCBI Gene ID: [100287171.0]
+  OMIM_ID: ['613632']
+  UniProt_ID: [A8K0Z3]

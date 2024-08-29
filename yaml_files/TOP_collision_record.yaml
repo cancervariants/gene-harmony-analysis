@@ -1,0 +1,15 @@
+collision_symbol: TOP
+LINC00273:
+  ENSG_ID: [ENSG00000256642]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [649159.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+THOP1:
+  ENSG_ID: [ENSG00000172009]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [7064.0]
+  OMIM_ID: ['601117']
+  UniProt_ID: [P52888]

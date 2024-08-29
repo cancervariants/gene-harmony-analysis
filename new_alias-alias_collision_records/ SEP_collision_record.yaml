@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164050
-  gene_symbol: PLXNB1
-- ensg_id: ENSG00000250722
-  gene_symbol: ' SELENOP'
-- ensg_id: ENSG00000142606
-  gene_symbol: ' MMEL1'
-collision_symbol: ' SEP'

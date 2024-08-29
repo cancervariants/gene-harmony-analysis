@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100603
-  gene_symbol: SNW1
-- ensg_id: ENSG00000173334
-  gene_symbol: ' TRIB1'
-collision_symbol: SKIP1

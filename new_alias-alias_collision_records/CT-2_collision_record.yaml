@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000290985
-  gene_symbol: SLC6A10P
-- ensg_id: ENSG00000073754
-  gene_symbol: ' CD5L'
-collision_symbol: CT-2

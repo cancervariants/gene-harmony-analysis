@@ -1,0 +1,15 @@
+collision_symbol: M-ABC1
+ABCB8:
+  ENSG_ID: [ENSG00000197150]
+  source: [HGNC, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [11194.0]
+  OMIM_ID: ['605464']
+  UniProt_ID: [Q9NUT2]
+ABCF2:
+  ENSG_ID: [ENSG00000033050]
+  source: [HGNC, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [10061.0]
+  OMIM_ID: ['612510']
+  UniProt_ID: [Q9UG63]

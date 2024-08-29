@@ -1,0 +1,15 @@
+collision_symbol: HIST2H2BD
+H2BC19P:
+  ENSG_ID: [ENSG00000220323]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [337874.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6DRA6]
+H2BC20P:
+  ENSG_ID: [ENSG00000261716]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [337873.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6DN03]

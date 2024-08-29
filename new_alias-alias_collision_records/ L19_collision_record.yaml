@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160584
-  gene_symbol: SIK3
-- ensg_id: ENSG00000108298
-  gene_symbol: ' RPL19'
-- ensg_id: ENSG00000243290
-  gene_symbol: ' IGKV1-12'
-collision_symbol: ' L19'

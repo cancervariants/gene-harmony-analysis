@@ -1,0 +1,15 @@
+collision_symbol: BCDS1
+BRCD1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+CDH1:
+  ENSG_ID: [ENSG00000039068]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [999.0]
+  OMIM_ID: ['192090']
+  UniProt_ID: [P12830]

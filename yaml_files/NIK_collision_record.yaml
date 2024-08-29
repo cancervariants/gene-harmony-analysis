@@ -1,0 +1,15 @@
+collision_symbol: NIK
+MAP3K14:
+  ENSG_ID: [ENSG00000006062]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [9020.0]
+  OMIM_ID: ['604655']
+  UniProt_ID: [Q99558]
+MAP4K4:
+  ENSG_ID: [ENSG00000071054]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [9448.0]
+  OMIM_ID: ['604666']
+  UniProt_ID: [O95819]

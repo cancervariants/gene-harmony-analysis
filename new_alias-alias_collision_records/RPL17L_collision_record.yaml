@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158042
-  gene_symbol: MRPL17
-- ensg_id: ENSG00000244716
-  gene_symbol: ' RPL17P7'
-collision_symbol: RPL17L

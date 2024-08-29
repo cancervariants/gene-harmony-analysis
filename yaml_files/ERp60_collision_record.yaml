@@ -1,0 +1,15 @@
+collision_symbol: ERp60
+PDIA3:
+  ENSG_ID: [ENSG00000167004]
+  source: [NCBI Info]
+  Chromosome: [15q15.3]
+  NCBI Gene ID: [2923.0]
+  OMIM_ID: ['602046']
+  UniProt_ID: [P30101]
+PDIA3P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

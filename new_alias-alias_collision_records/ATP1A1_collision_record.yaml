@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105409
-  gene_symbol: ATP1A3
-- ensg_id: ENSG00000132681
-  gene_symbol: ' ATP1A4'
-collision_symbol: ATP1A1

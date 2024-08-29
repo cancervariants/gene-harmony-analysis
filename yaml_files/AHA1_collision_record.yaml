@@ -1,0 +1,15 @@
+collision_symbol: AHA1
+AHSA1:
+  ENSG_ID: [ENSG00000100591]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [10598.0]
+  OMIM_ID: ['608466']
+  UniProt_ID: [O95433]
+AHSA2P:
+  ENSG_ID: [ENSG00000293434, ENSG00000173209]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 2p15]
+  NCBI Gene ID: [.nan, 130872.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan, Q719I0]

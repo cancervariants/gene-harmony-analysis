@@ -1,0 +1,15 @@
+collision_symbol: ORM
+ATP5F1A:
+  ENSG_ID: [ENSG00000152234]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [498.0]
+  OMIM_ID: ['164360']
+  UniProt_ID: [P25705]
+ORM1:
+  ENSG_ID: [ENSG00000229314]
+  source: [NCBI Info]
+  Chromosome: [9q32]
+  NCBI Gene ID: [5004.0]
+  OMIM_ID: ['138600']
+  UniProt_ID: [P02763]

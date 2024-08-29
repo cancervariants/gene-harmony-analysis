@@ -1,0 +1,15 @@
+collision_symbol: RanBP2L2
+RGPD1:
+  ENSG_ID: [ENSG00000187627]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [400966.0]
+  OMIM_ID: ['612704']
+  UniProt_ID: [P0DJD0]
+RGPD6:
+  ENSG_ID: [ENSG00000183054]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [729540.0]
+  OMIM_ID: ['612709']
+  UniProt_ID: [Q99666]

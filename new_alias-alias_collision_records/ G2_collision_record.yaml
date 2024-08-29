@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110427
-  gene_symbol: KIAA1549L
-- ensg_id: ENSG00000229150
-  gene_symbol: ' CRYGEP'
-- ensg_id: ENSG00000204469
-  gene_symbol: ' PRRC2A'
-collision_symbol: ' G2'

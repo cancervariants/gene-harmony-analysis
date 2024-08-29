@@ -1,0 +1,15 @@
+collision_symbol: SSAO
+AOC2:
+  ENSG_ID: [ENSG00000131480]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [314.0]
+  OMIM_ID: ['602268']
+  UniProt_ID: [O75106]
+AOC3:
+  ENSG_ID: [ENSG00000131471]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [8639.0]
+  OMIM_ID: ['603735']
+  UniProt_ID: [Q16853]

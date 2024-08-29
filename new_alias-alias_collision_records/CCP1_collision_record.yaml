@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135049
-  gene_symbol: AGTPBP1
-- ensg_id: ENSG00000136710
-  gene_symbol: ' CCDC115'
-collision_symbol: CCP1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198467
-  gene_symbol: TPM2
-- ensg_id: ENSG00000232543
-  gene_symbol: ' IGHD4-11'
-collision_symbol: DA1

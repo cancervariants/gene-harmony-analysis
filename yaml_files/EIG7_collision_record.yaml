@@ -1,0 +1,15 @@
+collision_symbol: EIG7
+DEL15Q13.3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+EJM2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [15q14]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

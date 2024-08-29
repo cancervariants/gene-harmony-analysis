@@ -1,0 +1,15 @@
+collision_symbol: SHMT
+SHMT1:
+  ENSG_ID: [ENSG00000176974]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [6470.0]
+  OMIM_ID: ['182144']
+  UniProt_ID: [P34896]
+SHMT2:
+  ENSG_ID: [ENSG00000182199]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [6472.0]
+  OMIM_ID: ['138450']
+  UniProt_ID: [P34897]

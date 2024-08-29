@@ -1,0 +1,15 @@
+collision_symbol: MRP-L32
+MRPL14:
+  ENSG_ID: [ENSG00000180992]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [64928.0]
+  OMIM_ID: ['611827']
+  UniProt_ID: [Q6P1L8]
+MRPL32:
+  ENSG_ID: [ENSG00000106591]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [64983.0]
+  OMIM_ID: ['611839']
+  UniProt_ID: [Q9BYC8]

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164985
-  gene_symbol: PSIP1
-- ensg_id: ENSG00000028137
-  gene_symbol: ' TNFRSF1B'
-- ensg_id: ENSG00000071564
-  gene_symbol: ' TCF3'
-collision_symbol: ' P75'

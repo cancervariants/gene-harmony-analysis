@@ -1,0 +1,15 @@
+collision_symbol: U19
+EAF2:
+  ENSG_ID: [ENSG00000145088]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q13.33]
+  NCBI Gene ID: [55840.0]
+  OMIM_ID: ['607659']
+  UniProt_ID: [Q96CJ1]
+SNORA74A:
+  ENSG_ID: [ENSG00000200959]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [26821.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

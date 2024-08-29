@@ -1,0 +1,15 @@
+collision_symbol: HEPIS
+C17orf49:
+  ENSG_ID: [ENSG00000258315]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [124944.0]
+  OMIM_ID: ['617215']
+  UniProt_ID: [Q8IXM2]
+IFTAP:
+  ENSG_ID: [ENSG00000166352]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p12]
+  NCBI Gene ID: [119710.0]
+  OMIM_ID: ['619270']
+  UniProt_ID: [Q86VG3]

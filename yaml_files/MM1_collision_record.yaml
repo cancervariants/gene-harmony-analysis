@@ -1,0 +1,15 @@
+collision_symbol: MM1
+PFDN5:
+  ENSG_ID: [ENSG00000123349]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [5204.0]
+  OMIM_ID: ['604899']
+  UniProt_ID: [Q99471]
+PLXNB2:
+  ENSG_ID: [ENSG00000196576]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [23654.0]
+  OMIM_ID: ['604293']
+  UniProt_ID: [O15031]

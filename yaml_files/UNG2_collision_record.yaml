@@ -1,0 +1,15 @@
+collision_symbol: UNG2
+CCNO:
+  ENSG_ID: [ENSG00000152669]
+  source: [HGNC, ENSG]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [10309.0]
+  OMIM_ID: ['607752']
+  UniProt_ID: [P22674]
+UNG:
+  ENSG_ID: [ENSG00000076248]
+  source: [HGNC, ENSG]
+  Chromosome: [12q24.11]
+  NCBI Gene ID: [7374.0]
+  OMIM_ID: ['191525']
+  UniProt_ID: [P13051]

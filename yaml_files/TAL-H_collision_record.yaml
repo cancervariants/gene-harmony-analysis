@@ -1,0 +1,15 @@
+collision_symbol: TAL-H
+TALDO1:
+  ENSG_ID: [ENSG00000177156]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [6888.0]
+  OMIM_ID: ['602063']
+  UniProt_ID: [P37837]
+TALDO1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [6889.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

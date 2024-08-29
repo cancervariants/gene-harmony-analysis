@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175166
-  gene_symbol: PSMD2
-- ensg_id: ENSG00000203914
-  gene_symbol: ' HSP90B3P'
-collision_symbol: TRAP2

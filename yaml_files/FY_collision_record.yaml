@@ -1,0 +1,15 @@
+collision_symbol: FY
+ACKR1:
+  ENSG_ID: [ENSG00000213088]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [2532.0]
+  OMIM_ID: ['613665']
+  UniProt_ID: [Q16570]
+FUZ:
+  ENSG_ID: [ENSG00000010361]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [80199.0]
+  OMIM_ID: ['610622']
+  UniProt_ID: [Q9BT04]

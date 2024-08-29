@@ -1,0 +1,22 @@
+collision_symbol: ATR1
+AGTR1:
+  ENSG_ID: [ENSG00000144891]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3q24]
+  NCBI Gene ID: [185.0]
+  OMIM_ID: ['106165']
+  UniProt_ID: [P30556]
+HBHR:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SLC3A1:
+  ENSG_ID: [ENSG00000138079]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [6519.0]
+  OMIM_ID: ['104614']
+  UniProt_ID: [Q07837]

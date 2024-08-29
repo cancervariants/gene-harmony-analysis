@@ -1,0 +1,15 @@
+collision_symbol: C4BP
+C4BPA:
+  ENSG_ID: [ENSG00000123838]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [722.0]
+  OMIM_ID: ['120830']
+  UniProt_ID: [P04003]
+C4BPB:
+  ENSG_ID: [ENSG00000123843]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [725.0]
+  OMIM_ID: ['120831']
+  UniProt_ID: [P20851]

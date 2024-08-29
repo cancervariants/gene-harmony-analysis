@@ -1,0 +1,15 @@
+collision_symbol: UGT2
+SLC35A2:
+  ENSG_ID: [ENSG00000102100]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [7355.0]
+  OMIM_ID: ['314375']
+  UniProt_ID: [P78381]
+UGGT2:
+  ENSG_ID: [ENSG00000102595]
+  source: [NCBI Info]
+  Chromosome: [13q32.1]
+  NCBI Gene ID: [55757.0]
+  OMIM_ID: ['605898']
+  UniProt_ID: [Q9NYU1]

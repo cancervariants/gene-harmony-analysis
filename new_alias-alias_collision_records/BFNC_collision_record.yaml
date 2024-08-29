@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101204
-  gene_symbol: CHRNA4
-- ensg_id: ENSG00000075043
-  gene_symbol: ' KCNQ2'
-collision_symbol: BFNC

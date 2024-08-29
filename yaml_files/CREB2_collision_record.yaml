@@ -1,0 +1,15 @@
+collision_symbol: CREB2
+ATF2:
+  ENSG_ID: [ENSG00000115966]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1386.0]
+  OMIM_ID: ['123811']
+  UniProt_ID: [P15336]
+ATF4:
+  ENSG_ID: [ENSG00000128272]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [468.0]
+  OMIM_ID: ['604064']
+  UniProt_ID: [P18848]

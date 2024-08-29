@@ -1,0 +1,15 @@
+collision_symbol: TDGF2
+CRIPTO3:
+  ENSG_ID: [ENSG00000225366]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq23]
+  NCBI Gene ID: [6998.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P51864]
+CRIPTOP2:
+  ENSG_ID: [.nan, ENSG00000183514]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 2q36.3]
+  NCBI Gene ID: [.nan, 22816.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

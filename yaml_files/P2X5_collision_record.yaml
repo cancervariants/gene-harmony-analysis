@@ -1,0 +1,15 @@
+collision_symbol: P2X5
+P2RX5:
+  ENSG_ID: [ENSG00000083454]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [5026.0]
+  OMIM_ID: ['602836']
+  UniProt_ID: [Q93086]
+P2RX5-TAX1BP3:
+  ENSG_ID: [ENSG00000257950]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [100533970.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

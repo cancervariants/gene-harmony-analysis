@@ -1,0 +1,15 @@
+collision_symbol: FANCD
+BRCA2:
+  ENSG_ID: [ENSG00000139618]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q13.1]
+  NCBI Gene ID: [675.0]
+  OMIM_ID: ['600185']
+  UniProt_ID: [P51587]
+FANCD2:
+  ENSG_ID: [ENSG00000144554]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [2177.0]
+  OMIM_ID: ['613984']
+  UniProt_ID: [Q9BXW9]

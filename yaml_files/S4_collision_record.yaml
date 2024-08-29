@@ -1,0 +1,22 @@
+collision_symbol: S4
+PSMC1:
+  ENSG_ID: [ENSG00000100764]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.11]
+  NCBI Gene ID: [5700.0]
+  OMIM_ID: ['602706']
+  UniProt_ID: [P62191]
+RPS4X:
+  ENSG_ID: [ENSG00000198034]
+  source: [NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [6191.0]
+  OMIM_ID: ['312760']
+  UniProt_ID: [P62701]
+RPS4Y1:
+  ENSG_ID: [ENSG00000129824]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Yp11.2]
+  NCBI Gene ID: [6192.0]
+  OMIM_ID: ['470000']
+  UniProt_ID: [P22090]

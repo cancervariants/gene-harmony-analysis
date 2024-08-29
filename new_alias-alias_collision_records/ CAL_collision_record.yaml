@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000047932
-  gene_symbol: GOPC
-- ensg_id: ENSG00000162458
-  gene_symbol: ' FBLIM1'
-collision_symbol: ' CAL'

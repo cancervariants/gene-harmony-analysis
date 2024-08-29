@@ -1,0 +1,15 @@
+collision_symbol: C20orf36
+MYT1:
+  ENSG_ID: [ENSG00000196132]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [4661.0]
+  OMIM_ID: ['600379']
+  UniProt_ID: [Q01538]
+PCMTD2:
+  ENSG_ID: [ENSG00000203880]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [55251.0]
+  OMIM_ID: ['620077']
+  UniProt_ID: [Q9NV79]

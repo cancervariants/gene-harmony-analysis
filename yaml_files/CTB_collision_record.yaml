@@ -1,0 +1,15 @@
+collision_symbol: CTB
+CTBS:
+  ENSG_ID: [ENSG00000117151]
+  source: [NCBI Info]
+  Chromosome: [1p22.3]
+  NCBI Gene ID: [1486.0]
+  OMIM_ID: ['600873']
+  UniProt_ID: [Q01459]
+PCYT1B:
+  ENSG_ID: [ENSG00000102230]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [9468.0]
+  OMIM_ID: ['300948']
+  UniProt_ID: [Q9Y5K3]

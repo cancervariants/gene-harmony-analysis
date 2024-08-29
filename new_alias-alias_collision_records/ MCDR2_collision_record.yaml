@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151632
-  gene_symbol: AKR1C2
-- ensg_id: ENSG00000007062
-  gene_symbol: ' PROM1'
-collision_symbol: ' MCDR2'

@@ -1,0 +1,15 @@
+collision_symbol: NF1HHS
+NF1P1:
+  ENSG_ID: [ENSG00000270831]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [100419006.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NF1P2:
+  ENSG_ID: [.nan, ENSG00000290539]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

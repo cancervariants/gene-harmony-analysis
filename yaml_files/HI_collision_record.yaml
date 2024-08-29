@@ -1,0 +1,15 @@
+collision_symbol: HI
+ABCC8:
+  ENSG_ID: [ENSG00000006071]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [6833.0]
+  OMIM_ID: ['600509']
+  UniProt_ID: [Q09428]
+AKAP4:
+  ENSG_ID: [ENSG00000147081]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [8852.0]
+  OMIM_ID: ['300185']
+  UniProt_ID: [Q5JQC9]

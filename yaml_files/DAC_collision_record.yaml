@@ -1,0 +1,15 @@
+collision_symbol: DAC
+AADAC:
+  ENSG_ID: [ENSG00000114771]
+  source: [NCBI Info]
+  Chromosome: [3q25.1]
+  NCBI Gene ID: [13.0]
+  OMIM_ID: ['600338']
+  UniProt_ID: [P22760]
+FBXW4:
+  ENSG_ID: [ENSG00000107829]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [6468.0]
+  OMIM_ID: ['608071']
+  UniProt_ID: [P57775]

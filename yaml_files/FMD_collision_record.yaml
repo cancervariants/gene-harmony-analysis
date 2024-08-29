@@ -1,0 +1,15 @@
+collision_symbol: FMD
+FLNA:
+  ENSG_ID: [ENSG00000196924]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [2316.0]
+  OMIM_ID: ['300017']
+  UniProt_ID: [P21333]
+FSHMD1A:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [4q35]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: PIX1
+POC1B:
+  ENSG_ID: [ENSG00000139323]
+  source: [NCBI Info]
+  Chromosome: [12q21.33]
+  NCBI Gene ID: [282809.0]
+  OMIM_ID: ['614784']
+  UniProt_ID: [Q8TC44]
+UBE3A:
+  ENSG_ID: [ENSG00000114062]
+  source: [NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [7337.0]
+  OMIM_ID: ['601623']
+  UniProt_ID: [Q05086]

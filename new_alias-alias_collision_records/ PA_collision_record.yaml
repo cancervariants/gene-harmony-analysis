@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166947
-  gene_symbol: EPB42
-- ensg_id: ENSG00000104164
-  gene_symbol: ' BLOC1S6'
-collision_symbol: ' PA'

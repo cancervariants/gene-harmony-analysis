@@ -1,0 +1,22 @@
+collision_symbol: SL1
+TAF1A:
+  ENSG_ID: [ENSG00000143498]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q41]
+  NCBI Gene ID: [9015.0]
+  OMIM_ID: ['604903']
+  UniProt_ID: [Q15573]
+TAF1B:
+  ENSG_ID: [ENSG00000115750]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [9014.0]
+  OMIM_ID: ['604904']
+  UniProt_ID: [Q53T94]
+TAF1C:
+  ENSG_ID: [ENSG00000103168]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q24.1]
+  NCBI Gene ID: [9013.0]
+  OMIM_ID: ['604905']
+  UniProt_ID: [Q15572]

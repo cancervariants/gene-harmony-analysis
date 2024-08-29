@@ -1,0 +1,15 @@
+collision_symbol: SCA8
+ATXN8OS:
+  ENSG_ID: [ENSG00000230223]
+  source: [NCBI Info]
+  Chromosome: [13q21.33]
+  NCBI Gene ID: [6315.0]
+  OMIM_ID: ['603680']
+  UniProt_ID: [P0DMR3]
+TWNK:
+  ENSG_ID: [ENSG00000107815]
+  source: [NCBI Info]
+  Chromosome: [10q24.31]
+  NCBI Gene ID: [56652.0]
+  OMIM_ID: ['606075']
+  UniProt_ID: [Q96RR1]

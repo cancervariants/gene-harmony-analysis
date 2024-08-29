@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000079435
-  gene_symbol: LIPE
-- ensg_id: ENSG00000142615
-  gene_symbol: ' CELA2A'
-collision_symbol: AOMS4

@@ -1,0 +1,22 @@
+collision_symbol: DD3
+AKR1A1:
+  ENSG_ID: [ENSG00000117448]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [10327.0]
+  OMIM_ID: ['103830']
+  UniProt_ID: [P14550]
+AKR1C3:
+  ENSG_ID: [ENSG00000196139]
+  source: [NCBI Info]
+  Chromosome: [10p15.1]
+  NCBI Gene ID: [8644.0]
+  OMIM_ID: ['603966']
+  UniProt_ID: [P42330]
+PCA3:
+  ENSG_ID: [ENSG00000225937]
+  source: [NCBI Info]
+  Chromosome: [9q21.2]
+  NCBI Gene ID: [50652.0]
+  OMIM_ID: ['604845']
+  UniProt_ID: [.nan]

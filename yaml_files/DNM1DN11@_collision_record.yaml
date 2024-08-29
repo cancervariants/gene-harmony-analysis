@@ -1,0 +1,43 @@
+collision_symbol: DNM1DN11@
+DNM1P36:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [100216515.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P38:
+  ENSG_ID: [.nan, ENSG00000259637]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q25.2]
+  NCBI Gene ID: [.nan, 100216517.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P40:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [400433.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P41:
+  ENSG_ID: [.nan, ENSG00000280038]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q25.2]
+  NCBI Gene ID: [.nan, 440299.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P43:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [100216466.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P44:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [440303.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

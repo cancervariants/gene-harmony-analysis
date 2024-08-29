@@ -1,0 +1,15 @@
+collision_symbol: NET5
+TMEM201:
+  ENSG_ID: [ENSG00000188807]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [199953.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5SNT2]
+TSPAN9:
+  ENSG_ID: [ENSG00000011105]
+  source: [NCBI Info]
+  Chromosome: [12p13.33-p13.32]
+  NCBI Gene ID: [10867.0]
+  OMIM_ID: ['613137']
+  UniProt_ID: [O75954]

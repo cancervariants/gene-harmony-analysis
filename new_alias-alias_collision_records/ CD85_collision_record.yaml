@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187116
-  gene_symbol: LILRA5
-- ensg_id: ENSG00000104972
-  gene_symbol: ' LILRB1'
-collision_symbol: ' CD85'

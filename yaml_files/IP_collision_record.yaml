@@ -1,0 +1,29 @@
+collision_symbol: IP
+ATP5IF1:
+  ENSG_ID: [ENSG00000130770]
+  source: [NCBI Info]
+  Chromosome: [1p35.3]
+  NCBI Gene ID: [93974.0]
+  OMIM_ID: ['614981']
+  UniProt_ID: [Q9UII2]
+IKBKG:
+  ENSG_ID: [ENSG00000269335]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [8517.0]
+  OMIM_ID: ['300248']
+  UniProt_ID: [Q9Y6K9]
+PTGIR:
+  ENSG_ID: [ENSG00000160013]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [5739.0]
+  OMIM_ID: ['600022']
+  UniProt_ID: [P43119]
+SDHB:
+  ENSG_ID: [ENSG00000117118]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [6390.0]
+  OMIM_ID: ['185470']
+  UniProt_ID: [P21912]

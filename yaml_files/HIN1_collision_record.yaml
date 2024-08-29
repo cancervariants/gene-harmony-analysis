@@ -1,0 +1,15 @@
+collision_symbol: HIN1
+OTUD4:
+  ENSG_ID: [ENSG00000164164]
+  source: [NCBI Info]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [54726.0]
+  OMIM_ID: ['611744']
+  UniProt_ID: [Q01804]
+SCGB3A1:
+  ENSG_ID: [ENSG00000161055]
+  source: [NCBI Info]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [92304.0]
+  OMIM_ID: ['606500']
+  UniProt_ID: [Q96QR1]

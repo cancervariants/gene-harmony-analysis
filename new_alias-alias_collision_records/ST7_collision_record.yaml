@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000147650
-  gene_symbol: LRP12
-- ensg_id: ENSG00000004866
-  gene_symbol: ' ST7-OT3'
-collision_symbol: ST7

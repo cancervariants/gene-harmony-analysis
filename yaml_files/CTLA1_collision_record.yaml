@@ -1,0 +1,15 @@
+collision_symbol: CTLA1
+GZMB:
+  ENSG_ID: [ENSG00000100453]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q12]
+  NCBI Gene ID: [3002.0]
+  OMIM_ID: ['123910']
+  UniProt_ID: [P10144]
+GZMH:
+  ENSG_ID: [ENSG00000100450]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q12]
+  NCBI Gene ID: [2999.0]
+  OMIM_ID: ['116831']
+  UniProt_ID: [P20718]

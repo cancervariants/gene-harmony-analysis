@@ -1,0 +1,15 @@
+collision_symbol: LAMP
+LAMP3:
+  ENSG_ID: [ENSG00000078081]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [27074.0]
+  OMIM_ID: ['605883']
+  UniProt_ID: [Q9UQV4]
+LSAMP:
+  ENSG_ID: [ENSG00000185565]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q13.31]
+  NCBI Gene ID: [4045.0]
+  OMIM_ID: ['603241']
+  UniProt_ID: [Q13449]

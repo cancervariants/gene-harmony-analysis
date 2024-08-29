@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000087995
-  gene_symbol: METTL2A
-- ensg_id: ENSG00000165055
-  gene_symbol: ' METTL2B'
-collision_symbol: METTL2

@@ -1,0 +1,15 @@
+collision_symbol: Tyr-tRNA
+TRY-GTA5-4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [100009602.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRY-GTA7-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [100009601.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

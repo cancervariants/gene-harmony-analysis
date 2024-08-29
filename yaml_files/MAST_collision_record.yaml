@@ -1,0 +1,15 @@
+collision_symbol: MAST
+SPACA9:
+  ENSG_ID: [ENSG00000165698]
+  source: [ENSG]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [11092.0]
+  OMIM_ID: ['618552']
+  UniProt_ID: [Q96E40]
+SPG21:
+  ENSG_ID: [ENSG00000090487]
+  source: [ENSG]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [51324.0]
+  OMIM_ID: ['608181']
+  UniProt_ID: [Q9NZD8]

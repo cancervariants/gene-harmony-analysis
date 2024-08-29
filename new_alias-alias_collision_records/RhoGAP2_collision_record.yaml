@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000128805
-  gene_symbol: ARHGAP22
-- ensg_id: ENSG00000128656
-  gene_symbol: ' CHN1'
-collision_symbol: RhoGAP2

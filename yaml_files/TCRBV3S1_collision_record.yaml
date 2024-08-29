@@ -1,0 +1,15 @@
+collision_symbol: TCRBV3S1
+TRBV28:
+  ENSG_ID: [ENSG00000211753]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28559.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A5B6]
+TRBV3-1:
+  ENSG_ID: [ENSG00000237702]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28619.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A576]

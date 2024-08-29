@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113088
-  gene_symbol: GZMK
-- ensg_id: ENSG00000275896
-  gene_symbol: ' PRSS2'
-collision_symbol: TRYP2

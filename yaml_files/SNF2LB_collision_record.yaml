@@ -1,0 +1,15 @@
+collision_symbol: SNF2LB
+SMARCA1:
+  ENSG_ID: [ENSG00000102038]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq25-q26.1]
+  NCBI Gene ID: [6594.0]
+  OMIM_ID: ['300012']
+  UniProt_ID: [P28370]
+SMARCA4:
+  ENSG_ID: [ENSG00000127616]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [6597.0]
+  OMIM_ID: ['603254']
+  UniProt_ID: [P51532]

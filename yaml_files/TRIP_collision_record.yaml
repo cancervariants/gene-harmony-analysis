@@ -1,0 +1,22 @@
+collision_symbol: TRIP
+LRRFIP1:
+  ENSG_ID: [ENSG00000124831]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [9208.0]
+  OMIM_ID: ['603256']
+  UniProt_ID: [Q32MZ4]
+PIK3IP1:
+  ENSG_ID: [ENSG00000100100]
+  source: [ENSG]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [113791.0]
+  OMIM_ID: ['619158']
+  UniProt_ID: [Q96FE7]
+TRAIP:
+  ENSG_ID: [ENSG00000183763]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10293.0]
+  OMIM_ID: ['605958']
+  UniProt_ID: [Q9BWF2]

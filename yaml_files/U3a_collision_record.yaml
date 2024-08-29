@@ -1,0 +1,15 @@
+collision_symbol: U3a
+RNU3A3:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORD3B-1:
+  ENSG_ID: [ENSG00000265185]
+  source: [HGNC]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [26851.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

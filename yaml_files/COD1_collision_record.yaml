@@ -1,0 +1,15 @@
+collision_symbol: COD1
+COG4:
+  ENSG_ID: [ENSG00000103051]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [25839.0]
+  OMIM_ID: ['606976']
+  UniProt_ID: [Q9H9E3]
+RPGR:
+  ENSG_ID: [ENSG00000156313]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [6103.0]
+  OMIM_ID: ['312610']
+  UniProt_ID: [Q92834]

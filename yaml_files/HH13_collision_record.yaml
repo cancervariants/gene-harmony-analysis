@@ -1,0 +1,15 @@
+collision_symbol: HH13
+KISS1:
+  ENSG_ID: [ENSG00000170498]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [3814.0]
+  OMIM_ID: ['603286']
+  UniProt_ID: [Q15726]
+PTP4A2:
+  ENSG_ID: [ENSG00000184007]
+  source: [NCBI Info]
+  Chromosome: [1p35.2]
+  NCBI Gene ID: [8073.0]
+  OMIM_ID: ['601584']
+  UniProt_ID: [Q12974]

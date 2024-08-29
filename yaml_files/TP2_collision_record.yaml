@@ -1,0 +1,15 @@
+collision_symbol: TP2
+TERT:
+  ENSG_ID: [ENSG00000164362]
+  source: [NCBI Info]
+  Chromosome: [5p15.33]
+  NCBI Gene ID: [7015.0]
+  OMIM_ID: ['187270']
+  UniProt_ID: [O14746]
+TNP2:
+  ENSG_ID: [ENSG00000178279]
+  source: [NCBI Info]
+  Chromosome: [16p13.13]
+  NCBI Gene ID: [7142.0]
+  OMIM_ID: ['190232']
+  UniProt_ID: [Q05952]

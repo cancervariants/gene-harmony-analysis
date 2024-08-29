@@ -1,0 +1,15 @@
+collision_symbol: HMCS
+MKKS:
+  ENSG_ID: [ENSG00000125863]
+  source: [NCBI Info]
+  Chromosome: [20p12.2]
+  NCBI Gene ID: [8195.0]
+  OMIM_ID: ['604896']
+  UniProt_ID: [Q9NPJ1]
+MOCOS:
+  ENSG_ID: [ENSG00000075643]
+  source: [NCBI Info]
+  Chromosome: [18q12.2]
+  NCBI Gene ID: [55034.0]
+  OMIM_ID: ['613274']
+  UniProt_ID: [Q96EN8]

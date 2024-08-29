@@ -1,0 +1,15 @@
+collision_symbol: PAO
+PAOX:
+  ENSG_ID: [ENSG00000148832]
+  source: [NCBI Info]
+  Chromosome: [10q26.3]
+  NCBI Gene ID: [196743.0]
+  OMIM_ID: ['615853']
+  UniProt_ID: [Q6QHF9]
+SMOX:
+  ENSG_ID: [ENSG00000088826]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [54498.0]
+  OMIM_ID: ['615854']
+  UniProt_ID: [Q9NWM0]

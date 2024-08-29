@@ -1,0 +1,15 @@
+collision_symbol: PheRS
+FARS2:
+  ENSG_ID: [ENSG00000145982]
+  source: [NCBI Info]
+  Chromosome: [6p25.1]
+  NCBI Gene ID: [10667.0]
+  OMIM_ID: ['611592']
+  UniProt_ID: [O95363]
+FARSB:
+  ENSG_ID: [ENSG00000116120]
+  source: [NCBI Info]
+  Chromosome: [2q36.1]
+  NCBI Gene ID: [10056.0]
+  OMIM_ID: ['609690']
+  UniProt_ID: [Q9NSD9]

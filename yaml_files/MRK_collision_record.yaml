@@ -1,0 +1,15 @@
+collision_symbol: MRK
+CILK1:
+  ENSG_ID: [ENSG00000112144]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p12.1]
+  NCBI Gene ID: [22858.0]
+  OMIM_ID: ['612325']
+  UniProt_ID: [Q9UPZ9]
+MAP3K20:
+  ENSG_ID: [ENSG00000091436]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [51776.0]
+  OMIM_ID: ['609479']
+  UniProt_ID: [Q9NYL2]

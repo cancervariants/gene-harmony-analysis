@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114867
-  gene_symbol: EIF4G1
-- ensg_id: ENSG00000149308
-  gene_symbol: ' NPAT'
-collision_symbol: ' P220'

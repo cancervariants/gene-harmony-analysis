@@ -1,0 +1,15 @@
+collision_symbol: NACHRA7
+CHRFAM7A:
+  ENSG_ID: [ENSG00000166664]
+  source: [NCBI Info]
+  Chromosome: [15q13.2]
+  NCBI Gene ID: [89832.0]
+  OMIM_ID: ['609756']
+  UniProt_ID: [Q494W8]
+CHRNA7:
+  ENSG_ID: [ENSG00000175344]
+  source: [NCBI Info]
+  Chromosome: [15q13.3]
+  NCBI Gene ID: [1139.0]
+  OMIM_ID: ['118511']
+  UniProt_ID: [P36544]

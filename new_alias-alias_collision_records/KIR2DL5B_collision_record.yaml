@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000242019
-  gene_symbol: KIR3DL3
-- ensg_id: ENSG00000167633
-  gene_symbol: ' KIR3DL1'
-collision_symbol: KIR2DL5B

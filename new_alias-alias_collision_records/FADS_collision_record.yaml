@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000030304
-  gene_symbol: MUSK
-- ensg_id: ENSG00000160688
-  gene_symbol: ' FLAD1'
-- ensg_id: ENSG00000165917
-  gene_symbol: ' RAPSN'
-collision_symbol: FADS

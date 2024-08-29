@@ -1,0 +1,15 @@
+collision_symbol: APS
+KLK3:
+  ENSG_ID: [ENSG00000142515]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [354.0]
+  OMIM_ID: ['176820']
+  UniProt_ID: [P07288]
+SH2B2:
+  ENSG_ID: [ENSG00000160999]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [10603.0]
+  OMIM_ID: ['605300']
+  UniProt_ID: [O14492]

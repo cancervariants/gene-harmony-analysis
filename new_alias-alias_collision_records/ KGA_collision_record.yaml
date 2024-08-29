@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162989
-  gene_symbol: KCNJ3
-- ensg_id: ENSG00000115419
-  gene_symbol: ' GLS'
-collision_symbol: ' KGA'

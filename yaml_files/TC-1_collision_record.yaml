@@ -1,0 +1,15 @@
+collision_symbol: TC-1
+TCIM:
+  ENSG_ID: [ENSG00000176907]
+  source: [NCBI Info]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [56892.0]
+  OMIM_ID: ['607702']
+  UniProt_ID: [Q9NR00]
+TCN1:
+  ENSG_ID: [ENSG00000134827]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [6947.0]
+  OMIM_ID: ['189905']
+  UniProt_ID: [P20061]

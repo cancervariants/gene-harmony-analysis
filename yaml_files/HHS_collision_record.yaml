@@ -1,0 +1,15 @@
+collision_symbol: HHS
+APCDD1:
+  ENSG_ID: [ENSG00000154856]
+  source: [NCBI Info]
+  Chromosome: [18p11.22]
+  NCBI Gene ID: [147495.0]
+  OMIM_ID: ['607479']
+  UniProt_ID: [Q8J025]
+GALNT3:
+  ENSG_ID: [ENSG00000115339]
+  source: [NCBI Info]
+  Chromosome: [2q24.3]
+  NCBI Gene ID: [2591.0]
+  OMIM_ID: ['601756']
+  UniProt_ID: [Q14435]

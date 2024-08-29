@@ -1,0 +1,15 @@
+collision_symbol: SPT3
+SPTLC3:
+  ENSG_ID: [ENSG00000172296]
+  source: [NCBI Info]
+  Chromosome: [20p12.1]
+  NCBI Gene ID: [55304.0]
+  OMIM_ID: ['611120']
+  UniProt_ID: [Q9NUV7]
+SUPT3H:
+  ENSG_ID: [ENSG00000196284]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [8464.0]
+  OMIM_ID: ['602947']
+  UniProt_ID: [O75486]

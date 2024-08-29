@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116754
-  gene_symbol: SRSF11
-- ensg_id: ENSG00000134954
-  gene_symbol: ' ETS1'
-- ensg_id: ENSG00000226436
-  gene_symbol: ' H3P43'
-collision_symbol: p54

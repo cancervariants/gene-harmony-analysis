@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000022267
-  gene_symbol: FHL1
-- ensg_id: ENSG00000244414
-  gene_symbol: ' CFHR1'
-collision_symbol: FHL-1

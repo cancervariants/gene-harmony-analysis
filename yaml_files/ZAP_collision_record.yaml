@@ -1,0 +1,15 @@
+collision_symbol: ZAP
+YLPM1:
+  ENSG_ID: [ENSG00000119596]
+  source: [HGNC, ENSG]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [56252.0]
+  OMIM_ID: ['619766']
+  UniProt_ID: [P49750]
+ZC3HAV1:
+  ENSG_ID: [ENSG00000105939]
+  source: [HGNC, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [56829.0]
+  OMIM_ID: ['607312']
+  UniProt_ID: [Q7Z2W4]

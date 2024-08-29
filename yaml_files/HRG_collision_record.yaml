@@ -1,0 +1,15 @@
+collision_symbol: HRG
+NRG1:
+  ENSG_ID: [ENSG00000157168]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [3084.0]
+  OMIM_ID: ['142445']
+  UniProt_ID: [Q02297]
+SLC48A1:
+  ENSG_ID: [ENSG00000211584]
+  source: [NCBI Info]
+  Chromosome: [12q13.11]
+  NCBI Gene ID: [55652.0]
+  OMIM_ID: ['612187']
+  UniProt_ID: [Q6P1K1]

@@ -1,0 +1,15 @@
+collision_symbol: MDSP
+DUSP13A:
+  ENSG_ID: [ENSG00000293543]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DUSP13B:
+  ENSG_ID: [ENSG00000079393]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [51207.0]
+  OMIM_ID: ['613191']
+  UniProt_ID: [Q9UII6]

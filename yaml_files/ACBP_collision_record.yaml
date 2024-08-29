@@ -1,0 +1,15 @@
+collision_symbol: ACBP
+CPN2:
+  ENSG_ID: [ENSG00000178772]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [1370.0]
+  OMIM_ID: ['603104']
+  UniProt_ID: [P22792]
+DBI:
+  ENSG_ID: [ENSG00000155368]
+  source: [NCBI Info]
+  Chromosome: [2q14.2]
+  NCBI Gene ID: [1622.0]
+  OMIM_ID: ['125950']
+  UniProt_ID: [P07108]

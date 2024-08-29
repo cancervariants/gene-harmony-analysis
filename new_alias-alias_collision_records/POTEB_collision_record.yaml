@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000230031
-  gene_symbol: POTEB2
-- ensg_id: ENSG00000278522
-  gene_symbol: ' POTEB3'
-collision_symbol: POTEB

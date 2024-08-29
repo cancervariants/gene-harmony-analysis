@@ -1,0 +1,22 @@
+collision_symbol: CBF-A
+NFYA:
+  ENSG_ID: [ENSG00000001167]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [4800.0]
+  OMIM_ID: ['189903']
+  UniProt_ID: [P23511]
+NFYB:
+  ENSG_ID: [ENSG00000120837]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [4801.0]
+  OMIM_ID: ['189904']
+  UniProt_ID: [P25208]
+YBX1:
+  ENSG_ID: [ENSG00000065978]
+  source: [NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [4904.0]
+  OMIM_ID: ['154030']
+  UniProt_ID: [P67809]

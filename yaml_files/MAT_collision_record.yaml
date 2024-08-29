@@ -1,0 +1,15 @@
+collision_symbol: MAT
+ACAT1:
+  ENSG_ID: [ENSG00000075239]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [38.0]
+  OMIM_ID: ['607809']
+  UniProt_ID: [P24752]
+MAT1A:
+  ENSG_ID: [ENSG00000151224]
+  source: [NCBI Info]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [4143.0]
+  OMIM_ID: ['610550']
+  UniProt_ID: [Q00266]

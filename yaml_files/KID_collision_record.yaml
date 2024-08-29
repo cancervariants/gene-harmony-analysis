@@ -1,0 +1,22 @@
+collision_symbol: KID
+AQP6:
+  ENSG_ID: [ENSG00000086159]
+  source: [NCBI Info]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [363.0]
+  OMIM_ID: ['601383']
+  UniProt_ID: [Q13520]
+GJB2:
+  ENSG_ID: [ENSG00000165474]
+  source: [NCBI Info]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [2706.0]
+  OMIM_ID: ['121011']
+  UniProt_ID: [P29033]
+KIF22:
+  ENSG_ID: [ENSG00000079616]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3835.0]
+  OMIM_ID: ['603213']
+  UniProt_ID: [Q14807]

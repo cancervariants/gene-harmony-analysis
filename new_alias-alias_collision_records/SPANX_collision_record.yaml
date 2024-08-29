@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203926
-  gene_symbol: SPANXA2
-- ensg_id: ENSG00000198021
-  gene_symbol: ' SPANXA1'
-collision_symbol: SPANX

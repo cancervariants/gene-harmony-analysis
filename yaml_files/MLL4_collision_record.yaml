@@ -1,0 +1,15 @@
+collision_symbol: MLL4
+KMT2B:
+  ENSG_ID: [ENSG00000272333]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.12]
+  NCBI Gene ID: [9757.0]
+  OMIM_ID: ['606834']
+  UniProt_ID: [Q9UMN6]
+KMT2D:
+  ENSG_ID: [ENSG00000167548]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [8085.0]
+  OMIM_ID: ['602113']
+  UniProt_ID: [O14686]

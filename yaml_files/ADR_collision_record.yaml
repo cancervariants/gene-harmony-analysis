@@ -1,0 +1,15 @@
+collision_symbol: ADR
+AKR1B1:
+  ENSG_ID: [ENSG00000085662]
+  source: [NCBI Info]
+  Chromosome: [7q33]
+  NCBI Gene ID: [231.0]
+  OMIM_ID: ['103880']
+  UniProt_ID: [P15121]
+FDXR:
+  ENSG_ID: [ENSG00000161513]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [2232.0]
+  OMIM_ID: ['103270']
+  UniProt_ID: [P22570]

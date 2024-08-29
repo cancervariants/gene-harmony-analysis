@@ -1,0 +1,15 @@
+collision_symbol: TYRRS
+YARS1:
+  ENSG_ID: [ENSG00000134684]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [8565.0]
+  OMIM_ID: ['603623']
+  UniProt_ID: [P54577]
+YARS2:
+  ENSG_ID: [ENSG00000139131]
+  source: [NCBI Info]
+  Chromosome: [12p11.21]
+  NCBI Gene ID: [51067.0]
+  OMIM_ID: ['610957']
+  UniProt_ID: [Q9Y2Z4]

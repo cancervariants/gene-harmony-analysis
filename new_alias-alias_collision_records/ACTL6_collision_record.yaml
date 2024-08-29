@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000077080
-  gene_symbol: ACTL6B
-- ensg_id: ENSG00000136518
-  gene_symbol: ' ACTL6A'
-collision_symbol: ACTL6

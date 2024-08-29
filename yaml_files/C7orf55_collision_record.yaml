@@ -1,0 +1,15 @@
+collision_symbol: C7orf55
+FMC1:
+  ENSG_ID: [ENSG00000164898]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [154791.0]
+  OMIM_ID: ['620766']
+  UniProt_ID: [Q96HJ9]
+FMC1-LUC7L2:
+  ENSG_ID: [ENSG00000269955]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [100996928.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

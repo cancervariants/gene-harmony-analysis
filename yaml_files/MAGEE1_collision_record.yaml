@@ -1,0 +1,15 @@
+collision_symbol: MAGEE1
+MAGEC2:
+  ENSG_ID: [ENSG00000046774]
+  source: [NCBI Info]
+  Chromosome: [Xq27.2]
+  NCBI Gene ID: [51438.0]
+  OMIM_ID: ['300468']
+  UniProt_ID: [Q9UBF1]
+MAGED4:
+  ENSG_ID: [ENSG00000154545]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [728239.0]
+  OMIM_ID: ['300702']
+  UniProt_ID: [Q96JG8]

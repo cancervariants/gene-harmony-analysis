@@ -1,0 +1,15 @@
+collision_symbol: PFD
+CFD:
+  ENSG_ID: [ENSG00000197766]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [1675.0]
+  OMIM_ID: ['134350']
+  UniProt_ID: [P00746]
+CFP:
+  ENSG_ID: [ENSG00000126759]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [5199.0]
+  OMIM_ID: ['300383']
+  UniProt_ID: [P27918]

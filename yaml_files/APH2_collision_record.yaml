@@ -1,0 +1,15 @@
+collision_symbol: APH2
+NCSTN:
+  ENSG_ID: [ENSG00000162736]
+  source: [ENSG]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [23385.0]
+  OMIM_ID: ['605254']
+  UniProt_ID: [Q92542]
+ZDHHC16:
+  ENSG_ID: [ENSG00000171307]
+  source: [ENSG]
+  Chromosome: [10q24.1]
+  NCBI Gene ID: [84287.0]
+  OMIM_ID: ['616750']
+  UniProt_ID: [Q969W1]

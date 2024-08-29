@@ -1,0 +1,36 @@
+collision_symbol: IGH
+IGHV3-38-3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q32.33 not on reference assembly]
+  NCBI Gene ID: [28404.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DTE1]
+IGHV3-69-1:
+  ENSG_ID: [ENSG00000282600]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [28402.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+IGHV3OR16-7:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LOC102723407:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LOC102724971:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

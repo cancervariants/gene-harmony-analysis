@@ -1,0 +1,15 @@
+collision_symbol: OR6-31
+OR10C1:
+  ENSG_ID: [ENSG00000206474]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [442194.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96KK4]
+OR2B6:
+  ENSG_ID: [ENSG00000124657]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [26212.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P58173]

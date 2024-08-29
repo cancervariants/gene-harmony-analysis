@@ -1,0 +1,15 @@
+collision_symbol: CHIF
+DBF4:
+  ENSG_ID: [ENSG00000006634]
+  source: [NCBI Info]
+  Chromosome: [7q21.12]
+  NCBI Gene ID: [10926.0]
+  OMIM_ID: ['604281']
+  UniProt_ID: [Q9UBU7]
+FXYD4:
+  ENSG_ID: [ENSG00000150201]
+  source: [NCBI Info]
+  Chromosome: [10q11.21]
+  NCBI Gene ID: [53828.0]
+  OMIM_ID: ['616926']
+  UniProt_ID: [P59646]

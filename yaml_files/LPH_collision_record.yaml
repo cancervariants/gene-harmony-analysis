@@ -1,0 +1,15 @@
+collision_symbol: LPH
+LCT:
+  ENSG_ID: [ENSG00000115850]
+  source: [NCBI Info]
+  Chromosome: [2q21.3]
+  NCBI Gene ID: [3938.0]
+  OMIM_ID: ['603202']
+  UniProt_ID: [P09848]
+POMC:
+  ENSG_ID: [ENSG00000115138]
+  source: [NCBI Info]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [5443.0]
+  OMIM_ID: ['176830']
+  UniProt_ID: [P01189]

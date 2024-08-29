@@ -1,0 +1,15 @@
+collision_symbol: PP2C-DELTA
+ILKAP:
+  ENSG_ID: [ENSG00000132323]
+  source: [NCBI Info]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [80895.0]
+  OMIM_ID: ['618909']
+  UniProt_ID: [Q9H0C8]
+PPM1D:
+  ENSG_ID: [ENSG00000170836]
+  source: [NCBI Info]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [8493.0]
+  OMIM_ID: ['605100']
+  UniProt_ID: [O15297]

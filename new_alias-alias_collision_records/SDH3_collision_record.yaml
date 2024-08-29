@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: LOC642502
-- ensg_id: ENSG00000143252
-  gene_symbol: ' SDHC'
-collision_symbol: SDH3

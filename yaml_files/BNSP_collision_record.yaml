@@ -1,0 +1,15 @@
+collision_symbol: BNSP
+IBSP:
+  ENSG_ID: [ENSG00000029559]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [3381.0]
+  OMIM_ID: ['147563']
+  UniProt_ID: [P21815]
+SPP1:
+  ENSG_ID: [ENSG00000118785]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [6696.0]
+  OMIM_ID: ['166490']
+  UniProt_ID: [P10451]

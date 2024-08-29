@@ -1,0 +1,15 @@
+collision_symbol: JP
+CTSC:
+  ENSG_ID: [ENSG00000109861]
+  source: [NCBI Info]
+  Chromosome: [11q14.2]
+  NCBI Gene ID: [1075.0]
+  OMIM_ID: ['602365']
+  UniProt_ID: [P53634]
+TRGJP:
+  ENSG_ID: [ENSG00000211691]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [6970.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,22 @@
+collision_symbol: GL
+LIPF:
+  ENSG_ID: [ENSG00000182333]
+  source: [NCBI Info]
+  Chromosome: [10q23.31]
+  NCBI Gene ID: [8513.0]
+  OMIM_ID: ['601980']
+  UniProt_ID: [P07098]
+OSTM1:
+  ENSG_ID: [ENSG00000081087]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [28962.0]
+  OMIM_ID: ['607649']
+  UniProt_ID: [Q86WC4]
+PPP1R3B:
+  ENSG_ID: [ENSG00000173281]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [79660.0]
+  OMIM_ID: ['610541']
+  UniProt_ID: [Q86XI6]

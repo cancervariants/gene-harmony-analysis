@@ -1,0 +1,15 @@
+collision_symbol: HZF2
+ZNF126:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [11q13.3-q13.4]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ZNF267:
+  ENSG_ID: [ENSG00000185947]
+  source: [HGNC]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [10308.0]
+  OMIM_ID: ['604752']
+  UniProt_ID: [Q14586]

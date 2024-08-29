@@ -1,0 +1,15 @@
+collision_symbol: U3b2
+SNORD3B-1:
+  ENSG_ID: [ENSG00000265185, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17p11.2, .nan]
+  NCBI Gene ID: [26851.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORD3B-2:
+  ENSG_ID: [ENSG00000262074, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17p11.2, .nan]
+  NCBI Gene ID: [780852.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

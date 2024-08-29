@@ -1,0 +1,15 @@
+collision_symbol: CRAM
+CCRL2:
+  ENSG_ID: [ENSG00000121797]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [9034.0]
+  OMIM_ID: ['608379']
+  UniProt_ID: [O00421]
+DPYSL5:
+  ENSG_ID: [ENSG00000157851]
+  source: [NCBI Info]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [56896.0]
+  OMIM_ID: ['608383']
+  UniProt_ID: [Q9BPU6]

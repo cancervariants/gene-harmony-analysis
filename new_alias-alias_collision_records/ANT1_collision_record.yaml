@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151729
-  gene_symbol: SLC25A4
-- ensg_id: ENSG00000101161
-  gene_symbol: ' PRPF6'
-collision_symbol: ANT1

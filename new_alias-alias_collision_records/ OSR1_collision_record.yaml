@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172939
-  gene_symbol: OXSR1
-- ensg_id: ENSG00000132823
-  gene_symbol: ' OSER1'
-collision_symbol: ' OSR1'

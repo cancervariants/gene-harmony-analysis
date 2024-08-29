@@ -1,0 +1,22 @@
+collision_symbol: HP1
+CBX5:
+  ENSG_ID: [ENSG00000094916]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [23468.0]
+  OMIM_ID: ['604478']
+  UniProt_ID: [P45973]
+DEFA1:
+  ENSG_ID: [ENSG00000206047]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1667.0]
+  OMIM_ID: ['125220']
+  UniProt_ID: [P59665]
+DEFA1B:
+  ENSG_ID: [ENSG00000240247]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [728358.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P59665]

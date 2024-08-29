@@ -1,0 +1,15 @@
+collision_symbol: SEN1
+MORF4:
+  ENSG_ID: [ENSG00000234801]
+  source: [ENSG]
+  Chromosome: [4q34.1]
+  NCBI Gene ID: [10934.0]
+  OMIM_ID: ['116960']
+  UniProt_ID: [.nan]
+SETX:
+  ENSG_ID: [ENSG00000107290]
+  source: [ENSG]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [23064.0]
+  OMIM_ID: ['608465']
+  UniProt_ID: [Q7Z333]

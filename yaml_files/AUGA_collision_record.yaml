@@ -1,0 +1,15 @@
+collision_symbol: AUGA
+ALKAL1:
+  ENSG_ID: [ENSG00000196711]
+  source: [NCBI Info]
+  Chromosome: [8q11.23]
+  NCBI Gene ID: [389658.0]
+  OMIM_ID: ['619670']
+  UniProt_ID: [Q6UXT8]
+ALKAL2:
+  ENSG_ID: [ENSG00000189292]
+  source: [NCBI Info]
+  Chromosome: [2p25.3]
+  NCBI Gene ID: [285016.0]
+  OMIM_ID: ['619671']
+  UniProt_ID: [Q6UX46]

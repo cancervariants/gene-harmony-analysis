@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134262
-  gene_symbol: AP4B1
-- ensg_id: ENSG00000258947
-  gene_symbol: ' TUBB3'
-collision_symbol: BETA-4

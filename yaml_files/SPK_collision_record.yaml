@@ -1,0 +1,15 @@
+collision_symbol: SPK
+PBK:
+  ENSG_ID: [ENSG00000168078]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p21.1]
+  NCBI Gene ID: [55872.0]
+  OMIM_ID: ['611210']
+  UniProt_ID: [Q96KB5]
+SYMPK:
+  ENSG_ID: [ENSG00000125755]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [8189.0]
+  OMIM_ID: ['602388']
+  UniProt_ID: [Q92797]

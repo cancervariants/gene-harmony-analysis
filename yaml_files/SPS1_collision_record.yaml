@@ -1,0 +1,15 @@
+collision_symbol: SPS1
+SEPHS1:
+  ENSG_ID: [ENSG00000086475]
+  source: [NCBI Info]
+  Chromosome: [10p13]
+  NCBI Gene ID: [22929.0]
+  OMIM_ID: ['600902']
+  UniProt_ID: [P49903]
+SRM:
+  ENSG_ID: [ENSG00000116649]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [6723.0]
+  OMIM_ID: ['182891']
+  UniProt_ID: [P19623]

@@ -1,0 +1,15 @@
+collision_symbol: TRNAMI2
+TRX-CAT1-2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [7210.0]
+  OMIM_ID: ['180621']
+  UniProt_ID: [.nan]
+TRX-CAT2-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [7212.0]
+  OMIM_ID: ['180620']
+  UniProt_ID: [.nan]

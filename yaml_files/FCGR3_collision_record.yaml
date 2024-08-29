@@ -1,0 +1,15 @@
+collision_symbol: FCGR3
+FCGR3A:
+  ENSG_ID: [ENSG00000203747]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [2214.0]
+  OMIM_ID: ['146740']
+  UniProt_ID: [P08637]
+FCGR3B:
+  ENSG_ID: [ENSG00000162747]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [2215.0]
+  OMIM_ID: ['610665']
+  UniProt_ID: [O75015]

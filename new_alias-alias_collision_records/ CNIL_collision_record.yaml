@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000174871
-  gene_symbol: CNIH2
-- ensg_id: ENSG00000100528
-  gene_symbol: ' CNIH1'
-collision_symbol: ' CNIL'

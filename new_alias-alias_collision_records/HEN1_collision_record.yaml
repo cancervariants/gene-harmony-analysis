@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162639
-  gene_symbol: HENMT1
-- ensg_id: ENSG00000171786
-  gene_symbol: ' NHLH1'
-collision_symbol: HEN1

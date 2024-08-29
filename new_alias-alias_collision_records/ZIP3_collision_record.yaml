@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000161011
-  gene_symbol: SQSTM1
-- ensg_id: ENSG00000141873
-  gene_symbol: ' SLC39A3'
-collision_symbol: ZIP3

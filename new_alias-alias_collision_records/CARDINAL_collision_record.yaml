@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179136
-  gene_symbol: LINC00670
-- ensg_id: ENSG00000105483
-  gene_symbol: ' CARD8'
-collision_symbol: CARDINAL

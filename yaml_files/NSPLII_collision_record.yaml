@@ -1,0 +1,15 @@
+collision_symbol: NSPLII
+RTN3:
+  ENSG_ID: [ENSG00000133318]
+  source: [NCBI Info]
+  Chromosome: [11q13]
+  NCBI Gene ID: [10313.0]
+  OMIM_ID: ['604249']
+  UniProt_ID: [O95197]
+RTN3P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

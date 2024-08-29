@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000004534
-  gene_symbol: RBM6
-- ensg_id: ENSG00000239839
-  gene_symbol: ' DEFA3'
-collision_symbol: DEF3

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000178125
-  gene_symbol: PPP1R42
-- ensg_id: ENSG00000113070
-  gene_symbol: ' HBEGF'
-collision_symbol: DTR

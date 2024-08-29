@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130844
-  gene_symbol: ZNF331
-- ensg_id: ENSG00000139405
-  gene_symbol: ' RITA1'
-collision_symbol: RITA

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129910
-  gene_symbol: CDH15
-- ensg_id: ENSG00000117054
-  gene_symbol: ' ACADM'
-collision_symbol: MCAD

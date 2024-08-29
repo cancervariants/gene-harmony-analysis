@@ -1,0 +1,22 @@
+collision_symbol: RAD1
+ERCC4:
+  ENSG_ID: [ENSG00000175595]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p13.12]
+  NCBI Gene ID: [2072.0]
+  OMIM_ID: ['133520']
+  UniProt_ID: [Q92889]
+RNASE6:
+  ENSG_ID: [ENSG00000169413]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [6039.0]
+  OMIM_ID: ['601981']
+  UniProt_ID: [Q93091]
+RRAD:
+  ENSG_ID: [ENSG00000166592]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [6236.0]
+  OMIM_ID: ['179503']
+  UniProt_ID: [P55042]

@@ -1,0 +1,15 @@
+collision_symbol: TM
+MCL1:
+  ENSG_ID: [ENSG00000143384]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [4170.0]
+  OMIM_ID: ['159552']
+  UniProt_ID: [Q07820]
+THBD:
+  ENSG_ID: [ENSG00000178726]
+  source: [NCBI Info]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [7056.0]
+  OMIM_ID: ['188040']
+  UniProt_ID: [P07204]

@@ -1,0 +1,29 @@
+collision_symbol: U7
+RNU7-24P:
+  ENSG_ID: [ENSG00000239081]
+  source: [NCBI Info]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [6074.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU7-55P:
+  ENSG_ID: [ENSG00000239078]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [6075.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU7-68P:
+  ENSG_ID: [ENSG00000251707]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU7-86P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [6073.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

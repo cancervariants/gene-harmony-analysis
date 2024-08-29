@@ -1,0 +1,15 @@
+collision_symbol: HOKPP
+CACNA1S:
+  ENSG_ID: [ENSG00000081248]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [779.0]
+  OMIM_ID: ['114208']
+  UniProt_ID: [Q13698]
+KCNE3:
+  ENSG_ID: [ENSG00000175538]
+  source: [NCBI Info]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [10008.0]
+  OMIM_ID: ['604433']
+  UniProt_ID: [Q9Y6H6]

@@ -1,0 +1,15 @@
+collision_symbol: EDG2
+BUD31:
+  ENSG_ID: [ENSG00000106245]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [8896.0]
+  OMIM_ID: ['603477']
+  UniProt_ID: [P41223]
+LPAR1:
+  ENSG_ID: [ENSG00000198121]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [1902.0]
+  OMIM_ID: ['602282']
+  UniProt_ID: [Q92633]

@@ -1,0 +1,15 @@
+collision_symbol: CAS1
+BCAR1:
+  ENSG_ID: [ENSG00000050820]
+  source: [NCBI Info]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [9564.0]
+  OMIM_ID: ['602941']
+  UniProt_ID: [P56945]
+CACNA1G-AS1:
+  ENSG_ID: [ENSG00000250107]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [253962.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

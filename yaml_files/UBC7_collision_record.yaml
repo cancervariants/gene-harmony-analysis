@@ -1,0 +1,15 @@
+collision_symbol: UBC7
+UBE2G1:
+  ENSG_ID: [ENSG00000132388]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [7326.0]
+  OMIM_ID: ['601569']
+  UniProt_ID: [P62253]
+UBE2G2:
+  ENSG_ID: [ENSG00000184787]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [7327.0]
+  OMIM_ID: ['603124']
+  UniProt_ID: [P60604]

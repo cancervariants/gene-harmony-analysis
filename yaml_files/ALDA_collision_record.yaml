@@ -1,0 +1,15 @@
+collision_symbol: ALDA
+ALDOA:
+  ENSG_ID: [ENSG00000149925]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [226.0]
+  OMIM_ID: ['103850']
+  UniProt_ID: [P04075]
+LOC112694756:
+  ENSG_ID: [ENSG00000285043]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

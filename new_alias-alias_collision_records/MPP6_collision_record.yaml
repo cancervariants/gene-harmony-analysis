@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135698
-  gene_symbol: MPHOSPH6
-- ensg_id: ENSG00000105926
-  gene_symbol: ' PALS2'
-collision_symbol: MPP6

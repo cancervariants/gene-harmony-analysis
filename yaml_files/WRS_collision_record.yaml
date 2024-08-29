@@ -1,0 +1,15 @@
+collision_symbol: WRS
+EIF2AK3:
+  ENSG_ID: [ENSG00000172071]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [9451.0]
+  OMIM_ID: ['604032']
+  UniProt_ID: [Q9NZJ5]
+KCNQ1:
+  ENSG_ID: [ENSG00000053918]
+  source: [NCBI Info]
+  Chromosome: [11p15.5-p15.4]
+  NCBI Gene ID: [3784.0]
+  OMIM_ID: ['607542']
+  UniProt_ID: [P51787]

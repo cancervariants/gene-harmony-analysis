@@ -1,0 +1,15 @@
+collision_symbol: PXR1
+PEX5:
+  ENSG_ID: [ENSG00000139197]
+  source: [ENSG]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [5830.0]
+  OMIM_ID: ['600414']
+  UniProt_ID: [P50542]
+PINX1:
+  ENSG_ID: [ENSG00000254093]
+  source: [ENSG]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [54984.0]
+  OMIM_ID: ['606505']
+  UniProt_ID: [Q96BK5]

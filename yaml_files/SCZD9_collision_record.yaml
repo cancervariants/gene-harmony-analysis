@@ -1,0 +1,15 @@
+collision_symbol: SCZD9
+DISC1:
+  ENSG_ID: [ENSG00000162946]
+  source: [NCBI Info]
+  Chromosome: [1q42.2]
+  NCBI Gene ID: [27185.0]
+  OMIM_ID: ['605210']
+  UniProt_ID: [Q9NRI5]
+RGS4:
+  ENSG_ID: [ENSG00000117152]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [5999.0]
+  OMIM_ID: ['602516']
+  UniProt_ID: [P49798]

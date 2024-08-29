@@ -1,0 +1,15 @@
+collision_symbol: TOF
+FEZF2:
+  ENSG_ID: [ENSG00000153266]
+  source: [NCBI Info]
+  Chromosome: [3p14.2]
+  NCBI Gene ID: [55079.0]
+  OMIM_ID: ['607414']
+  UniProt_ID: [Q8TBJ5]
+GATA4:
+  ENSG_ID: [ENSG00000136574]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [2626.0]
+  OMIM_ID: ['600576']
+  UniProt_ID: [P43694]

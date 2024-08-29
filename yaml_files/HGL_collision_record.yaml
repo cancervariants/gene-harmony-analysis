@@ -1,0 +1,22 @@
+collision_symbol: HGL
+LIPF:
+  ENSG_ID: [ENSG00000182333]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q23.31]
+  NCBI Gene ID: [8513.0]
+  OMIM_ID: ['601980']
+  UniProt_ID: [P07098]
+LLGL2:
+  ENSG_ID: [ENSG00000073350]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [3993.0]
+  OMIM_ID: ['618483']
+  UniProt_ID: [Q6P1M3]
+NRG1:
+  ENSG_ID: [ENSG00000157168]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [3084.0]
+  OMIM_ID: ['142445']
+  UniProt_ID: [Q02297]

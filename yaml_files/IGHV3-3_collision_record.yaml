@@ -1,0 +1,15 @@
+collision_symbol: IGHV3-3
+IGHV3-30-3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q32.33 not on reference assembly]
+  NCBI Gene ID: [57290.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DP02]
+IGHV3-30-5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q32.33 not on reference assembly]
+  NCBI Gene ID: [89770.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DP03]

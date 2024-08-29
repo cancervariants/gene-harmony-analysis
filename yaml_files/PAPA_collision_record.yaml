@@ -1,0 +1,15 @@
+collision_symbol: PAPA
+GLI3:
+  ENSG_ID: [ENSG00000106571]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [2737.0]
+  OMIM_ID: ['165240']
+  UniProt_ID: [P10071]
+PAPPA:
+  ENSG_ID: [ENSG00000182752]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q33.1]
+  NCBI Gene ID: [5069.0]
+  OMIM_ID: ['176385']
+  UniProt_ID: [Q13219]

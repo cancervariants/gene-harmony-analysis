@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182197
-  gene_symbol: EXT1
-- ensg_id: ENSG00000146166
-  gene_symbol: ' LGSN'
-collision_symbol: ' LGS'

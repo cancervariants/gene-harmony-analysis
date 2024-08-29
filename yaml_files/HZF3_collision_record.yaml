@@ -1,0 +1,15 @@
+collision_symbol: HZF3
+ZNF125:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [11q23.1-q23.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ZNF268:
+  ENSG_ID: [ENSG00000090612]
+  source: [HGNC]
+  Chromosome: [12q24.33]
+  NCBI Gene ID: [10795.0]
+  OMIM_ID: ['604753']
+  UniProt_ID: [Q14587]

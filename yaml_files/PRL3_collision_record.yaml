@@ -1,0 +1,15 @@
+collision_symbol: PRL3
+PTP4A3:
+  ENSG_ID: [ENSG00000184489]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [11156.0]
+  OMIM_ID: ['606449']
+  UniProt_ID: [O75365]
+SMR3B:
+  ENSG_ID: [ENSG00000171201]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [10879.0]
+  OMIM_ID: ['611593']
+  UniProt_ID: [P02814]

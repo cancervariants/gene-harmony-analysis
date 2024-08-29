@@ -1,0 +1,15 @@
+collision_symbol: TSBP
+CTR9:
+  ENSG_ID: [ENSG00000198730]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [9646.0]
+  OMIM_ID: ['609366']
+  UniProt_ID: [Q6PD62]
+TSBP1:
+  ENSG_ID: [ENSG00000204296]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [10665.0]
+  OMIM_ID: ['618151']
+  UniProt_ID: [Q5SRN2]

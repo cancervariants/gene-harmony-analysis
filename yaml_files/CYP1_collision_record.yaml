@@ -1,0 +1,15 @@
+collision_symbol: CYP1
+CYP1A1:
+  ENSG_ID: [ENSG00000140465]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [1543.0]
+  OMIM_ID: ['108330']
+  UniProt_ID: [P04798]
+CYP27B1:
+  ENSG_ID: [ENSG00000111012]
+  source: [NCBI Info]
+  Chromosome: [12q14.1]
+  NCBI Gene ID: [1594.0]
+  OMIM_ID: ['609506']
+  UniProt_ID: [O15528]

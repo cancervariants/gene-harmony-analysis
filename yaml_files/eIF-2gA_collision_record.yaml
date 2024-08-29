@@ -1,0 +1,15 @@
+collision_symbol: eIF-2gA
+EIF2S3:
+  ENSG_ID: [ENSG00000130741]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [1968.0]
+  OMIM_ID: ['300161']
+  UniProt_ID: [P41091]
+EIF2S3B:
+  ENSG_ID: [ENSG00000180574]
+  source: [NCBI Info]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [255308.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q2VIR3]

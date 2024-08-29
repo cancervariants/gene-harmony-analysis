@@ -1,0 +1,15 @@
+collision_symbol: OR6-1
+OR2B2:
+  ENSG_ID: [ENSG00000168131]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [81697.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9GZK3]
+OR2I1P:
+  ENSG_ID: [ENSG00000237988]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [442197.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGU4]

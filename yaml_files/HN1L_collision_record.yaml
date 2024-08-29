@@ -1,0 +1,15 @@
+collision_symbol: HN1L
+CRAMP1:
+  ENSG_ID: [ENSG00000007545]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [57585.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96RY5]
+JPT2:
+  ENSG_ID: [ENSG00000206053]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [90861.0]
+  OMIM_ID: ['619241']
+  UniProt_ID: [Q9H910]

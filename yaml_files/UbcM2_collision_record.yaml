@@ -1,0 +1,15 @@
+collision_symbol: UbcM2
+UBE2E3:
+  ENSG_ID: [ENSG00000170035]
+  source: [NCBI Info]
+  Chromosome: [2q31.3]
+  NCBI Gene ID: [10477.0]
+  OMIM_ID: ['604151']
+  UniProt_ID: [Q969T4]
+UBE2E4P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

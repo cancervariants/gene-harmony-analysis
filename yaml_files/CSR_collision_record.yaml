@@ -1,0 +1,15 @@
+collision_symbol: CSR
+MORF4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SCARA3:
+  ENSG_ID: [ENSG00000168077]
+  source: [NCBI Info]
+  Chromosome: [8p21.1]
+  NCBI Gene ID: [51435.0]
+  OMIM_ID: ['602728']
+  UniProt_ID: [Q6AZY7]

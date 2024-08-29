@@ -1,0 +1,15 @@
+collision_symbol: IFI-4
+ADAR:
+  ENSG_ID: [ENSG00000160710]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [103.0]
+  OMIM_ID: ['146920']
+  UniProt_ID: [P55265]
+OAS1:
+  ENSG_ID: [ENSG00000089127]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [4938.0]
+  OMIM_ID: ['164350']
+  UniProt_ID: [P00973]

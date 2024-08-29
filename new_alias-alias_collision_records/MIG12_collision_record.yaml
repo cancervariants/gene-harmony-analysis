@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165175
-  gene_symbol: MID1IP1
-- ensg_id: ENSG00000034510
-  gene_symbol: ' TMSB10'
-collision_symbol: MIG12

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000248905
-  gene_symbol: FMN1
-- ensg_id: ENSG00000176692
-  gene_symbol: ' FOXC2'
-collision_symbol: LD

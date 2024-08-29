@@ -1,0 +1,22 @@
+collision_symbol: TBP1
+PSMC3:
+  ENSG_ID: [ENSG00000165916]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [5702.0]
+  OMIM_ID: ['186852']
+  UniProt_ID: [P17980]
+TBP:
+  ENSG_ID: [ENSG00000112592]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q27]
+  NCBI Gene ID: [6908.0]
+  OMIM_ID: ['600075']
+  UniProt_ID: [P20226]
+TNFRSF1A:
+  ENSG_ID: [ENSG00000067182]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [7132.0]
+  OMIM_ID: ['191190']
+  UniProt_ID: [P19438]

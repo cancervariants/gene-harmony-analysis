@@ -1,0 +1,15 @@
+collision_symbol: CAK1
+CDK7:
+  ENSG_ID: [ENSG00000134058]
+  source: [HGNC]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [1022.0]
+  OMIM_ID: ['601955']
+  UniProt_ID: [P50613]
+MSLN:
+  ENSG_ID: [ENSG00000102854]
+  source: [HGNC]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [10232.0]
+  OMIM_ID: ['601051']
+  UniProt_ID: [Q13421]

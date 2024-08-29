@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000268009
-  gene_symbol: SSX4
-- ensg_id: ENSG00000269791
-  gene_symbol: ' SSX4B'
-collision_symbol: CT5.4

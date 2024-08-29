@@ -1,0 +1,15 @@
+collision_symbol: MAD2
+MAD2L1:
+  ENSG_ID: [ENSG00000164109]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q27]
+  NCBI Gene ID: [4085.0]
+  OMIM_ID: ['601467']
+  UniProt_ID: [Q13257]
+MXI1:
+  ENSG_ID: [ENSG00000119950]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q25.2]
+  NCBI Gene ID: [4601.0]
+  OMIM_ID: ['600020']
+  UniProt_ID: [P50539]

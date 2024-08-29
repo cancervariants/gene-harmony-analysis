@@ -1,0 +1,15 @@
+collision_symbol: CDG2T
+GALNT2:
+  ENSG_ID: [ENSG00000143641]
+  source: [NCBI Info]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [2590.0]
+  OMIM_ID: ['602274']
+  UniProt_ID: [Q10471]
+TCF4:
+  ENSG_ID: [ENSG00000196628]
+  source: [NCBI Info]
+  Chromosome: [18q21.2]
+  NCBI Gene ID: [6925.0]
+  OMIM_ID: ['602272']
+  UniProt_ID: [P15884]

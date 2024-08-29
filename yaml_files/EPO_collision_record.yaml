@@ -1,0 +1,15 @@
+collision_symbol: EPO
+EPX:
+  ENSG_ID: [ENSG00000121053]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [8288.0]
+  OMIM_ID: ['131399']
+  UniProt_ID: [P11678]
+TIMP1:
+  ENSG_ID: [ENSG00000102265]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp11.3]
+  NCBI Gene ID: [7076.0]
+  OMIM_ID: ['305370']
+  UniProt_ID: [P01033]

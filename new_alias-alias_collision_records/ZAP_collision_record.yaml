@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105939
-  gene_symbol: ZC3HAV1
-- ensg_id: ENSG00000119596
-  gene_symbol: ' YLPM1'
-collision_symbol: ZAP

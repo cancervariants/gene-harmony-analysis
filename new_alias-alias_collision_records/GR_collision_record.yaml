@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113580
-  gene_symbol: NR3C1
-- ensg_id: ENSG00000104687
-  gene_symbol: ' GSR'
-collision_symbol: GR

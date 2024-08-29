@@ -1,0 +1,15 @@
+collision_symbol: 10q23del
+BMPR1A:
+  ENSG_ID: [ENSG00000107779]
+  source: [NCBI Info]
+  Chromosome: [10q23.2]
+  NCBI Gene ID: [657.0]
+  OMIM_ID: ['601299']
+  UniProt_ID: [P36894]
+PTEN:
+  ENSG_ID: [ENSG00000171862]
+  source: [NCBI Info]
+  Chromosome: [10q23.31]
+  NCBI Gene ID: [5728.0]
+  OMIM_ID: ['601728']
+  UniProt_ID: [P60484]

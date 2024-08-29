@@ -1,0 +1,15 @@
+collision_symbol: PRG
+PRB3:
+  ENSG_ID: [ENSG00000197870]
+  source: [NCBI Info]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [5544.0]
+  OMIM_ID: ['168840']
+  UniProt_ID: [Q04118]
+SRGN:
+  ENSG_ID: [ENSG00000122862]
+  source: [NCBI Info]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5552.0]
+  OMIM_ID: ['177040']
+  UniProt_ID: [P10124]

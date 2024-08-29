@@ -1,0 +1,15 @@
+collision_symbol: C7
+CXCL10:
+  ENSG_ID: [ENSG00000169245]
+  source: [NCBI Info]
+  Chromosome: [4q21.1]
+  NCBI Gene ID: [3627.0]
+  OMIM_ID: ['147310']
+  UniProt_ID: [P02778]
+IGLC7:
+  ENSG_ID: [ENSG00000211685]
+  source: [NCBI Info]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [28834.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0M8Q6]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000069956
-  gene_symbol: MAPK6
-- ensg_id: ENSG00000188130
-  gene_symbol: ' MAPK12'
-collision_symbol: ERK3

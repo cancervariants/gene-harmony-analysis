@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129355
-  gene_symbol: CDKN2D
-- ensg_id: ENSG00000243977
-  gene_symbol: ' H3P13'
-collision_symbol: p19

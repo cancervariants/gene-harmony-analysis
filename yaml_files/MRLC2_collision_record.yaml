@@ -1,0 +1,15 @@
+collision_symbol: MRLC2
+MYL11:
+  ENSG_ID: [ENSG00000180209]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [29895.0]
+  OMIM_ID: ['617378']
+  UniProt_ID: [Q96A32]
+MYL12B:
+  ENSG_ID: [ENSG00000118680]
+  source: [HGNC, NCBI Info]
+  Chromosome: [18p11.31]
+  NCBI Gene ID: [103910.0]
+  OMIM_ID: ['609211']
+  UniProt_ID: [O14950]

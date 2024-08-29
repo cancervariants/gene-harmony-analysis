@@ -1,0 +1,15 @@
+collision_symbol: KOX21
+ZNF37A:
+  ENSG_ID: [ENSG00000075407]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10p11.1]
+  NCBI Gene ID: [7587.0]
+  OMIM_ID: ['616085']
+  UniProt_ID: [P17032]
+ZNF37BP:
+  ENSG_ID: [ENSG00000234420, ENSG00000293313]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10q11.21, .nan]
+  NCBI Gene ID: [100129482.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

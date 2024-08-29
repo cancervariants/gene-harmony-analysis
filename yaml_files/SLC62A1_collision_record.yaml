@@ -1,0 +1,15 @@
+collision_symbol: SLC62A1
+ANKH:
+  ENSG_ID: [ENSG00000154122]
+  source: [NCBI Info]
+  Chromosome: [5p15.2]
+  NCBI Gene ID: [56172.0]
+  OMIM_ID: ['605145']
+  UniProt_ID: [Q9HCJ1]
+SPNS1:
+  ENSG_ID: [ENSG00000169682]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [83985.0]
+  OMIM_ID: ['612583']
+  UniProt_ID: [Q9H2V7]

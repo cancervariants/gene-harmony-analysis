@@ -1,0 +1,15 @@
+collision_symbol: D14S1460
+BANF1:
+  ENSG_ID: [ENSG00000175334]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [8815.0]
+  OMIM_ID: ['603811']
+  UniProt_ID: [O75531]
+BANF1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

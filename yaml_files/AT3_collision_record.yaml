@@ -1,0 +1,22 @@
+collision_symbol: AT3
+ATXN3:
+  ENSG_ID: [ENSG00000066427]
+  source: [NCBI Info]
+  Chromosome: [14q32.12]
+  NCBI Gene ID: [4287.0]
+  OMIM_ID: ['607047']
+  UniProt_ID: [P54252]
+PGR-AS1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SERPINC1:
+  ENSG_ID: [ENSG00000117601]
+  source: [NCBI Info]
+  Chromosome: [1q25.1]
+  NCBI Gene ID: [462.0]
+  OMIM_ID: ['107300']
+  UniProt_ID: [P01008]

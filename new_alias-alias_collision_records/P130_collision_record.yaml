@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115839
-  gene_symbol: RAB3GAP1
-- ensg_id: ENSG00000166197
-  gene_symbol: ' NOLC1'
-- ensg_id: ENSG00000103479
-  gene_symbol: ' RBL2'
-collision_symbol: P130

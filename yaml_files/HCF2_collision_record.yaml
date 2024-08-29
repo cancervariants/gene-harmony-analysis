@@ -1,0 +1,15 @@
+collision_symbol: HCF2
+HCFC2:
+  ENSG_ID: [ENSG00000111727]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [29915.0]
+  OMIM_ID: ['607926']
+  UniProt_ID: [Q9Y5Z7]
+SERPIND1:
+  ENSG_ID: [ENSG00000099937]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [3053.0]
+  OMIM_ID: ['142360']
+  UniProt_ID: [P05546]

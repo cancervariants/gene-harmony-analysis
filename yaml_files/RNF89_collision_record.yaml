@@ -1,0 +1,15 @@
+collision_symbol: RNF89
+TRIM6:
+  ENSG_ID: [ENSG00000121236]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [117854.0]
+  OMIM_ID: ['607564']
+  UniProt_ID: [Q9C030]
+TRIM6-TRIM34:
+  ENSG_ID: [ENSG00000258588]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [445372.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

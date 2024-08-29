@@ -1,0 +1,15 @@
+collision_symbol: OR11-104
+OR4X1:
+  ENSG_ID: [ENSG00000176567]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [390113.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NH49]
+OR5G1P:
+  ENSG_ID: [ENSG00000181296]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [8591.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

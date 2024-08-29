@@ -1,0 +1,15 @@
+collision_symbol: ODC
+ODC1:
+  ENSG_ID: [ENSG00000115758]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [4953.0]
+  OMIM_ID: ['165640']
+  UniProt_ID: [P11926]
+SLC25A21:
+  ENSG_ID: [ENSG00000183032]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q13.3]
+  NCBI Gene ID: [89874.0]
+  OMIM_ID: ['607571']
+  UniProt_ID: [Q9BQT8]

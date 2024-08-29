@@ -1,0 +1,15 @@
+collision_symbol: SPC1
+FURIN:
+  ENSG_ID: [ENSG00000140564]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [5045.0]
+  OMIM_ID: ['136950']
+  UniProt_ID: [P09958]
+SPCS1:
+  ENSG_ID: [ENSG00000114902]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [28972.0]
+  OMIM_ID: ['610358']
+  UniProt_ID: [Q9Y6A9]

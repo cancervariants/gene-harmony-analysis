@@ -1,0 +1,15 @@
+collision_symbol: p240
+RALGAPA1:
+  ENSG_ID: [ENSG00000174373]
+  source: [NCBI Info]
+  Chromosome: [14q13.2]
+  NCBI Gene ID: [253959.0]
+  OMIM_ID: ['608884']
+  UniProt_ID: [Q6GYQ0]
+TEP1:
+  ENSG_ID: [ENSG00000129566]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7011.0]
+  OMIM_ID: ['601686']
+  UniProt_ID: [Q99973]

@@ -1,0 +1,15 @@
+collision_symbol: SAR1
+IQGAP1:
+  ENSG_ID: [ENSG00000140575]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [8826.0]
+  OMIM_ID: ['603379']
+  UniProt_ID: [P46940]
+SAR1A:
+  ENSG_ID: [ENSG00000079332]
+  source: [NCBI Info]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [56681.0]
+  OMIM_ID: ['607691']
+  UniProt_ID: [Q9NR31]

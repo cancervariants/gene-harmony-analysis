@@ -1,0 +1,15 @@
+collision_symbol: HPIP
+HCFC1R1:
+  ENSG_ID: [ENSG00000103145]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [54985.0]
+  OMIM_ID: ['618818']
+  UniProt_ID: [Q9NWW0]
+PBXIP1:
+  ENSG_ID: [ENSG00000163346]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [57326.0]
+  OMIM_ID: ['618819']
+  UniProt_ID: [Q96AQ6]

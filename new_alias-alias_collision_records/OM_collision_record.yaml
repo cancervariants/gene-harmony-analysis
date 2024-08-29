@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122543
-  gene_symbol: OCM
-- ensg_id: ENSG00000135175
-  gene_symbol: ' OCM2'
-collision_symbol: OM

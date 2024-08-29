@@ -1,0 +1,15 @@
+collision_symbol: OR1-25
+OR10J3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR2T1:
+  ENSG_ID: [ENSG00000175143]
+  source: [NCBI Info]
+  Chromosome: [1q44]
+  NCBI Gene ID: [26696.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [O43869]

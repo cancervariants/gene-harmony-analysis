@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166035
-  gene_symbol: LIPC
-- ensg_id: ENSG00000117305
-  gene_symbol: ' HMGCL'
-collision_symbol: HL

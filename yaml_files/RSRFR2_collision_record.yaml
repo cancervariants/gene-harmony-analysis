@@ -1,0 +1,15 @@
+collision_symbol: RSRFR2
+BORCS8-MEF2B:
+  ENSG_ID: [ENSG00000213999]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MEF2B:
+  ENSG_ID: [ENSG00000213999]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [100271849.0]
+  OMIM_ID: ['600661']
+  UniProt_ID: [Q02080]

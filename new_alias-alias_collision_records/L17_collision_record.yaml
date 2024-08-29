@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000265681
-  gene_symbol: RPL17
-- ensg_id: ENSG00000134779
-  gene_symbol: ' TPGS2'
-- ensg_id: NAN
-  gene_symbol: ' IGKV2D-14'
-collision_symbol: L17

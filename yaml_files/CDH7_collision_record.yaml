@@ -1,0 +1,15 @@
+collision_symbol: CDH7
+CDH19:
+  ENSG_ID: [ENSG00000071991]
+  source: [ENSG]
+  Chromosome: [18q22.1]
+  NCBI Gene ID: [28513.0]
+  OMIM_ID: ['603016']
+  UniProt_ID: [Q9H159]
+CDH20:
+  ENSG_ID: [ENSG00000101542]
+  source: [ENSG]
+  Chromosome: [18q21.33]
+  NCBI Gene ID: [28316.0]
+  OMIM_ID: ['605807']
+  UniProt_ID: [Q9HBT6]

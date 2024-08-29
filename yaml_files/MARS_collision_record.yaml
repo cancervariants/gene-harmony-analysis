@@ -1,0 +1,15 @@
+collision_symbol: MARS
+MARS1:
+  ENSG_ID: [ENSG00000166986]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [4141.0]
+  OMIM_ID: ['156560']
+  UniProt_ID: [P56192]
+SLA2:
+  ENSG_ID: [ENSG00000101082]
+  source: [NCBI Info]
+  Chromosome: [20q11.23]
+  NCBI Gene ID: [84174.0]
+  OMIM_ID: ['606577']
+  UniProt_ID: [Q9H6Q3]

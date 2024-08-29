@@ -1,0 +1,15 @@
+collision_symbol: POD1
+CORO7:
+  ENSG_ID: [ENSG00000262246]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [79585.0]
+  OMIM_ID: ['611668']
+  UniProt_ID: [P57737]
+TCF21:
+  ENSG_ID: [ENSG00000118526]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [6943.0]
+  OMIM_ID: ['603306']
+  UniProt_ID: [O43680]

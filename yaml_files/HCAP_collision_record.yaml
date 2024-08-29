@@ -1,0 +1,15 @@
+collision_symbol: HCAP
+DCD:
+  ENSG_ID: [ENSG00000161634]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [117159.0]
+  OMIM_ID: ['606634']
+  UniProt_ID: [P81605]
+SMC3:
+  ENSG_ID: [ENSG00000108055]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q25.2]
+  NCBI Gene ID: [9126.0]
+  OMIM_ID: ['606062']
+  UniProt_ID: [Q9UQE7]

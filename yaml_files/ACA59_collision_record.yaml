@@ -1,0 +1,15 @@
+collision_symbol: ACA59
+SNORA59A:
+  ENSG_ID: [ENSG00000239149]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [677885.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORA59B:
+  ENSG_ID: [ENSG00000266079, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p11.2, .nan]
+  NCBI Gene ID: [677882.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

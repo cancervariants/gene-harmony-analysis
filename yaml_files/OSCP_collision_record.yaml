@@ -1,0 +1,15 @@
+collision_symbol: OSCP
+ATP5PO:
+  ENSG_ID: [ENSG00000241837]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [539.0]
+  OMIM_ID: ['600828']
+  UniProt_ID: [P48047]
+ITGBL1:
+  ENSG_ID: [ENSG00000198542]
+  source: [NCBI Info]
+  Chromosome: [13q33.1]
+  NCBI Gene ID: [9358.0]
+  OMIM_ID: ['604234']
+  UniProt_ID: [O95965]

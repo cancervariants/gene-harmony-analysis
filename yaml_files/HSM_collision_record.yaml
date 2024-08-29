@@ -1,0 +1,15 @@
+collision_symbol: HSM
+LRRC4B:
+  ENSG_ID: [ENSG00000131409]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [94030.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NT99]
+NFYC:
+  ENSG_ID: [ENSG00000066136]
+  source: [NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [4802.0]
+  OMIM_ID: ['605344']
+  UniProt_ID: [Q13952]

@@ -1,0 +1,15 @@
+collision_symbol: CDK11
+CDK11B:
+  ENSG_ID: [ENSG00000248333]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [984.0]
+  OMIM_ID: ['176873']
+  UniProt_ID: [P21127]
+CDK19:
+  ENSG_ID: [ENSG00000155111]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [23097.0]
+  OMIM_ID: ['614720']
+  UniProt_ID: [Q9BWU1]

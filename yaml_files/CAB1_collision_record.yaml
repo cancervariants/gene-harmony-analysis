@@ -1,0 +1,22 @@
+collision_symbol: CAB1
+CACNB1:
+  ENSG_ID: [ENSG00000067191]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [782.0]
+  OMIM_ID: ['114207']
+  UniProt_ID: [Q02641]
+NPDC1:
+  ENSG_ID: [ENSG00000107281]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [56654.0]
+  OMIM_ID: ['605798']
+  UniProt_ID: [Q9NQX5]
+STARD3:
+  ENSG_ID: [ENSG00000131748]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [10948.0]
+  OMIM_ID: ['607048']
+  UniProt_ID: [Q14849]

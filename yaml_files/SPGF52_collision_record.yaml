@@ -1,0 +1,15 @@
+collision_symbol: SPGF52
+C14orf39:
+  ENSG_ID: [ENSG00000179008]
+  source: [NCBI Info]
+  Chromosome: [14q23.1]
+  NCBI Gene ID: [317761.0]
+  OMIM_ID: ['617307']
+  UniProt_ID: [Q8N1H7]
+CFAP47:
+  ENSG_ID: [ENSG00000165164]
+  source: [NCBI Info]
+  Chromosome: [Xp21.1]
+  NCBI Gene ID: [286464.0]
+  OMIM_ID: ['301057']
+  UniProt_ID: [Q6ZTR5]

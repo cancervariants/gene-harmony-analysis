@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000243244
-  gene_symbol: STON1
-- ensg_id: ENSG00000068781
-  gene_symbol: ' STON1-GTF2A1L'
-collision_symbol: SALF

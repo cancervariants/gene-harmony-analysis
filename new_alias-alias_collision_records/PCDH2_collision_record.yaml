@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: PCDHG@
-- ensg_id: ENSG00000240184
-  gene_symbol: ' PCDHGC3'
-collision_symbol: PCDH2

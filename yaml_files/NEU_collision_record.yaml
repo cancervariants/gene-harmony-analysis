@@ -1,0 +1,15 @@
+collision_symbol: NEU
+ERBB2:
+  ENSG_ID: [ENSG00000141736]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [2064.0]
+  OMIM_ID: ['164870']
+  UniProt_ID: [P04626]
+NEU1:
+  ENSG_ID: [ENSG00000204386]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [4758.0]
+  OMIM_ID: ['608272']
+  UniProt_ID: [Q99519]

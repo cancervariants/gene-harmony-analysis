@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160145
-  gene_symbol: KALRN
-- ensg_id: ENSG00000185379
-  gene_symbol: ' RAD51D'
-collision_symbol: TRAD

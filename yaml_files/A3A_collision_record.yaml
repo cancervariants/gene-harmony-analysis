@@ -1,0 +1,15 @@
+collision_symbol: A3A
+APOBEC3A:
+  ENSG_ID: [ENSG00000128383]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [200315.0]
+  OMIM_ID: ['607109']
+  UniProt_ID: [P31941]
+APOBEC3A_B:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22q13 alternate reference locus]
+  NCBI Gene ID: [100913187.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

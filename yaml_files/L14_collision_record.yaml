@@ -1,0 +1,15 @@
+collision_symbol: L14
+IGKV1D-17:
+  ENSG_ID: [ENSG00000242766]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28900.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B6S4]
+RPL14:
+  ENSG_ID: [ENSG00000188846]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [9045.0]
+  OMIM_ID: ['617414']
+  UniProt_ID: [P50914]

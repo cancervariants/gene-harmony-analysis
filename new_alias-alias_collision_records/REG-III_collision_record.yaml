@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143954
-  gene_symbol: REG3G
-- ensg_id: ENSG00000172016
-  gene_symbol: ' REG3A'
-collision_symbol: REG-III

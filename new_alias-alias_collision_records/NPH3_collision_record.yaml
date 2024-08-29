@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000113971
-  gene_symbol: NPHP3
-- ensg_id: ENSG00000182575
-  gene_symbol: ' NXPH3'
-collision_symbol: NPH3

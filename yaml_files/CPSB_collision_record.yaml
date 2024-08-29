@@ -1,0 +1,15 @@
+collision_symbol: CPSB
+CTSB:
+  ENSG_ID: [ENSG00000164733]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1508.0]
+  OMIM_ID: ['116810']
+  UniProt_ID: [P07858]
+CTSH:
+  ENSG_ID: [ENSG00000103811]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [1512.0]
+  OMIM_ID: ['116820']
+  UniProt_ID: [P09668]

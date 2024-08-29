@@ -1,0 +1,15 @@
+collision_symbol: APRIL
+ANP32B:
+  ENSG_ID: [ENSG00000136938]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [10541.0]
+  OMIM_ID: ['619823']
+  UniProt_ID: [Q92688]
+TNFSF13:
+  ENSG_ID: [ENSG00000161955]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [8741.0]
+  OMIM_ID: ['604472']
+  UniProt_ID: [O75888]

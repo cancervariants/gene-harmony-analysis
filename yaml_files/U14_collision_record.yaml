@@ -1,0 +1,15 @@
+collision_symbol: U14
+SNORD14A:
+  ENSG_ID: [ENSG00000272034]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [26822.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORD14B:
+  ENSG_ID: [ENSG00000201403]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [85388.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

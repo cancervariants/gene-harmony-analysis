@@ -1,0 +1,15 @@
+collision_symbol: HSST2
+NDST2:
+  ENSG_ID: [ENSG00000166507]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [8509.0]
+  OMIM_ID: ['603268']
+  UniProt_ID: [P52849]
+SULT2B1:
+  ENSG_ID: [ENSG00000088002]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [6820.0]
+  OMIM_ID: ['604125']
+  UniProt_ID: [O00204]

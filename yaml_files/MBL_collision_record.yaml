@@ -1,0 +1,15 @@
+collision_symbol: MBL
+MBL2:
+  ENSG_ID: [ENSG00000165471]
+  source: [NCBI Info]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [4153.0]
+  OMIM_ID: ['154545']
+  UniProt_ID: [P11226]
+MBL3P:
+  ENSG_ID: [ENSG00000219430]
+  source: [NCBI Info]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [50639.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

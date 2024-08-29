@@ -1,0 +1,15 @@
+collision_symbol: MGC15397
+GLYATL1:
+  ENSG_ID: [ENSG00000166840]
+  source: [HGNC]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [92292.0]
+  OMIM_ID: ['614761']
+  UniProt_ID: [Q969I3]
+TMEM41A:
+  ENSG_ID: [ENSG00000163900]
+  source: [HGNC]
+  Chromosome: [3q27.2]
+  NCBI Gene ID: [90407.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96HV5]

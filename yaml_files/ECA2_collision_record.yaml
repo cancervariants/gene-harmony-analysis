@@ -1,0 +1,15 @@
+collision_symbol: ECA2
+CLCN2:
+  ENSG_ID: [ENSG00000114859]
+  source: [NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [1181.0]
+  OMIM_ID: ['600570']
+  UniProt_ID: [P51788]
+GABRG2:
+  ENSG_ID: [ENSG00000113327]
+  source: [NCBI Info]
+  Chromosome: [5q34]
+  NCBI Gene ID: [2566.0]
+  OMIM_ID: ['137164']
+  UniProt_ID: [P18507]

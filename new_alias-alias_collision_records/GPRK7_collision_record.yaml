@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114124
-  gene_symbol: GRK7
-- ensg_id: ENSG00000099875
-  gene_symbol: ' MKNK2'
-collision_symbol: GPRK7

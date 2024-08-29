@@ -1,0 +1,15 @@
+collision_symbol: Puma-g
+HCAR2:
+  ENSG_ID: [ENSG00000182782]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [338442.0]
+  OMIM_ID: ['609163']
+  UniProt_ID: [Q8TDS4]
+HCAR3:
+  ENSG_ID: [ENSG00000255398]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [8843.0]
+  OMIM_ID: ['606039']
+  UniProt_ID: [P49019]

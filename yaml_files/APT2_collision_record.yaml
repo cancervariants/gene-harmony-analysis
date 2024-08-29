@@ -1,0 +1,15 @@
+collision_symbol: APT2
+LYPLA2:
+  ENSG_ID: [ENSG00000011009]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [11313.0]
+  OMIM_ID: ['616143']
+  UniProt_ID: [O95372]
+TAP2:
+  ENSG_ID: [ENSG00000204267]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [6891.0]
+  OMIM_ID: ['170261']
+  UniProt_ID: [Q03519]

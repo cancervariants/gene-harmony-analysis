@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136574
-  gene_symbol: GATA4
-- ensg_id: NAN
-  gene_symbol: ' AVSD1'
-collision_symbol: VSD1

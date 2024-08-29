@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162992
-  gene_symbol: NEUROD1
-- ensg_id: ENSG00000275410
-  gene_symbol: ' HNF1B'
-collision_symbol: T2D

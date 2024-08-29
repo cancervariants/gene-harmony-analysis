@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136244
-  gene_symbol: IL6
-- ensg_id: ENSG00000128342
-  gene_symbol: ' LIF'
-collision_symbol: CDF

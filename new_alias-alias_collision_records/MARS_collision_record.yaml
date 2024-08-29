@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101082
-  gene_symbol: SLA2
-- ensg_id: ENSG00000166986
-  gene_symbol: ' MARS1'
-collision_symbol: MARS

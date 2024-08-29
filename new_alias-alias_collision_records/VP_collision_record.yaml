@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101200
-  gene_symbol: AVP
-- ensg_id: ENSG00000143224
-  gene_symbol: ' PPOX'
-collision_symbol: VP

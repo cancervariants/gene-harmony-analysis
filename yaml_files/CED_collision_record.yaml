@@ -1,0 +1,15 @@
+collision_symbol: CED
+IFT122:
+  ENSG_ID: [ENSG00000163913]
+  source: [NCBI Info]
+  Chromosome: [3q21.3-q22.1]
+  NCBI Gene ID: [55764.0]
+  OMIM_ID: ['606045']
+  UniProt_ID: [Q9HBG6]
+TGFB1:
+  ENSG_ID: [ENSG00000105329]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [7040.0]
+  OMIM_ID: ['190180']
+  UniProt_ID: [P01137]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153147
-  gene_symbol: SMARCA5
-- ensg_id: ENSG00000102038
-  gene_symbol: ' SMARCA1'
-collision_symbol: ISWI

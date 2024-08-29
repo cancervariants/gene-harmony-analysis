@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: AKR1B1P2
-- ensg_id: ENSG00000173208
-  gene_symbol: ' ABCD2'
-collision_symbol: ALDRP

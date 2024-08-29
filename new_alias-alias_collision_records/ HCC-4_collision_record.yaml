@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000275095
-  gene_symbol: CCL16
-- ensg_id: ENSG00000153250
-  gene_symbol: ' RBMS1'
-collision_symbol: ' HCC-4'

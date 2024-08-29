@@ -1,0 +1,15 @@
+collision_symbol: DTR
+HBEGF:
+  ENSG_ID: [ENSG00000113070]
+  source: [ENSG]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [1839.0]
+  OMIM_ID: ['126150']
+  UniProt_ID: [Q99075]
+PPP1R42:
+  ENSG_ID: [ENSG00000178125]
+  source: [ENSG]
+  Chromosome: [8q13.1]
+  NCBI Gene ID: [286187.0]
+  OMIM_ID: ['617720']
+  UniProt_ID: [Q7Z4L9]

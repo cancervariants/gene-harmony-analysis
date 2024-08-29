@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182208
-  gene_symbol: MOB2
-- ensg_id: ENSG00000163374
-  gene_symbol: ' YY1AP1'
-collision_symbol: HCCA2

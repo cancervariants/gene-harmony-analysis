@@ -1,0 +1,15 @@
+collision_symbol: PRO1068
+SLC38A2:
+  ENSG_ID: [ENSG00000134294]
+  source: [NCBI Info]
+  Chromosome: [12q13.11]
+  NCBI Gene ID: [54407.0]
+  OMIM_ID: ['605180']
+  UniProt_ID: [Q96QD8]
+UTS2:
+  ENSG_ID: [ENSG00000049247]
+  source: [NCBI Info]
+  Chromosome: [1p36.23]
+  NCBI Gene ID: [10911.0]
+  OMIM_ID: ['604097']
+  UniProt_ID: [O95399]

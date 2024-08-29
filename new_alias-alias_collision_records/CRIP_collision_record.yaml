@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213145
-  gene_symbol: CRIP1
-- ensg_id: ENSG00000182809
-  gene_symbol: ' CRIP2'
-collision_symbol: CRIP

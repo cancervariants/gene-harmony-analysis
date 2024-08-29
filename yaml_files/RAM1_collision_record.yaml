@@ -1,0 +1,15 @@
+collision_symbol: RAM1
+EDDM3A:
+  ENSG_ID: [ENSG00000181562]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10876.0]
+  OMIM_ID: ['611580']
+  UniProt_ID: [Q14507]
+SLC20A2:
+  ENSG_ID: [ENSG00000168575]
+  source: [NCBI Info]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [6575.0]
+  OMIM_ID: ['158378']
+  UniProt_ID: [Q08357]

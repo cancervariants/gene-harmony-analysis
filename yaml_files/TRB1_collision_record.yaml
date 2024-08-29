@@ -1,0 +1,15 @@
+collision_symbol: TRB1
+TAS2R14:
+  ENSG_ID: [ENSG00000212127]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [50840.0]
+  OMIM_ID: ['604790']
+  UniProt_ID: [Q9NYV8]
+TRIB1:
+  ENSG_ID: [ENSG00000173334]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.13]
+  NCBI Gene ID: [10221.0]
+  OMIM_ID: ['609461']
+  UniProt_ID: [Q96RU8]

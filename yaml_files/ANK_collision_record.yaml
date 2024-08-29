@@ -1,0 +1,15 @@
+collision_symbol: ANK
+ANK1:
+  ENSG_ID: [ENSG00000029534]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [286.0]
+  OMIM_ID: ['612641']
+  UniProt_ID: [P16157]
+ANKH:
+  ENSG_ID: [ENSG00000154122]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5p15.2]
+  NCBI Gene ID: [56172.0]
+  OMIM_ID: ['605145']
+  UniProt_ID: [Q9HCJ1]

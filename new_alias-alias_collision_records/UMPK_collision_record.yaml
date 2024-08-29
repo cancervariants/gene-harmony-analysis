@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162368
-  gene_symbol: CMPK1
-- ensg_id: ENSG00000143179
-  gene_symbol: ' UCK2'
-collision_symbol: UMPK

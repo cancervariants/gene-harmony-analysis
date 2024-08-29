@@ -1,0 +1,15 @@
+collision_symbol: PP5
+PPP5C:
+  ENSG_ID: [ENSG00000011485]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [5536.0]
+  OMIM_ID: ['600658']
+  UniProt_ID: [P53041]
+TFPI2:
+  ENSG_ID: [ENSG00000105825]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q21.3]
+  NCBI Gene ID: [7980.0]
+  OMIM_ID: ['600033']
+  UniProt_ID: [P48307]

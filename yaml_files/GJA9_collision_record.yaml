@@ -1,0 +1,15 @@
+collision_symbol: GJA9
+GJA9-MYCBP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+GJD2:
+  ENSG_ID: [ENSG00000159248]
+  source: [NCBI Info]
+  Chromosome: [15q14]
+  NCBI Gene ID: [57369.0]
+  OMIM_ID: ['607058']
+  UniProt_ID: [Q9UKL4]

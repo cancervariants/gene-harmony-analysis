@@ -1,0 +1,15 @@
+collision_symbol: DGS
+DGCR:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22q11.21-q11.23]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TBX1:
+  ENSG_ID: [ENSG00000184058]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [6899.0]
+  OMIM_ID: ['602054']
+  UniProt_ID: [O43435]

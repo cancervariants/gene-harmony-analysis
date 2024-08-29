@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179950
-  gene_symbol: PUF60
-- ensg_id: ENSG00000006607
-  gene_symbol: ' FARP2'
-collision_symbol: FIR

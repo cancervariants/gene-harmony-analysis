@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165568
-  gene_symbol: AKR1E2
-- ensg_id: NAN
-  gene_symbol: ' AKR1C6P'
-collision_symbol: TAKR

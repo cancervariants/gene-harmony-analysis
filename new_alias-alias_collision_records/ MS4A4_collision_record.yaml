@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166959
-  gene_symbol: MS4A8
-- ensg_id: ENSG00000110079
-  gene_symbol: ' MS4A4A'
-collision_symbol: ' MS4A4'

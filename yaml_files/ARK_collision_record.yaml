@@ -1,0 +1,15 @@
+collision_symbol: ARK
+AXL:
+  ENSG_ID: [ENSG00000167601]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [558.0]
+  OMIM_ID: ['109135']
+  UniProt_ID: [P30530]
+RNF111:
+  ENSG_ID: [ENSG00000157450]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q22.1-q22.2]
+  NCBI Gene ID: [54778.0]
+  OMIM_ID: ['605840']
+  UniProt_ID: [Q6ZNA4]

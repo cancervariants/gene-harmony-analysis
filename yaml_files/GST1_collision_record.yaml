@@ -1,0 +1,15 @@
+collision_symbol: GST1
+GSPT1:
+  ENSG_ID: [ENSG00000103342]
+  source: [NCBI Info]
+  Chromosome: [16p13.13]
+  NCBI Gene ID: [2935.0]
+  OMIM_ID: ['139259']
+  UniProt_ID: [P15170]
+GSTM1:
+  ENSG_ID: [ENSG00000134184]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [2944.0]
+  OMIM_ID: ['138350']
+  UniProt_ID: [P09488]

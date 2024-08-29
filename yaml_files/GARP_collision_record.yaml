@@ -1,0 +1,15 @@
+collision_symbol: GARP
+CNGB1:
+  ENSG_ID: [ENSG00000070729]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q21]
+  NCBI Gene ID: [1258.0]
+  OMIM_ID: ['600724']
+  UniProt_ID: [Q14028]
+LRRC32:
+  ENSG_ID: [ENSG00000137507]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.5]
+  NCBI Gene ID: [2615.0]
+  OMIM_ID: ['137207']
+  UniProt_ID: [Q14392]

@@ -1,0 +1,15 @@
+collision_symbol: PN
+POSTN:
+  ENSG_ID: [ENSG00000133110]
+  source: [NCBI Info]
+  Chromosome: [13q13.3]
+  NCBI Gene ID: [10631.0]
+  OMIM_ID: ['608777']
+  UniProt_ID: [Q15063]
+USB1:
+  ENSG_ID: [ENSG00000103005]
+  source: [NCBI Info]
+  Chromosome: [16q21]
+  NCBI Gene ID: [79650.0]
+  OMIM_ID: ['613276']
+  UniProt_ID: [Q9BQ65]

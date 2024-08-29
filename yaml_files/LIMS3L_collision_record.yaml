@@ -1,0 +1,15 @@
+collision_symbol: LIMS3L
+LIMS3:
+  ENSG_ID: [ENSG00000256977]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [96626.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CW19]
+LIMS4:
+  ENSG_ID: [ENSG00000256671]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [100288695.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CW20]

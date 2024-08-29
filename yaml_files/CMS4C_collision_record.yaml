@@ -1,0 +1,15 @@
+collision_symbol: CMS4C
+CHRNE:
+  ENSG_ID: [ENSG00000108556]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [1145.0]
+  OMIM_ID: ['100725']
+  UniProt_ID: [Q04844]
+RAPSN:
+  ENSG_ID: [ENSG00000165917]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [5913.0]
+  OMIM_ID: ['601592']
+  UniProt_ID: [Q13702]

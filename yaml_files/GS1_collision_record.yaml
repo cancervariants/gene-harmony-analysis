@@ -1,0 +1,15 @@
+collision_symbol: GS1
+MYO5A:
+  ENSG_ID: [ENSG00000197535]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q21.2]
+  NCBI Gene ID: [4644.0]
+  OMIM_ID: ['160777']
+  UniProt_ID: [Q9Y4I1]
+PUDP:
+  ENSG_ID: [ENSG00000130021]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp22.31]
+  NCBI Gene ID: [8226.0]
+  OMIM_ID: ['306480']
+  UniProt_ID: [Q08623]

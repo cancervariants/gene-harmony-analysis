@@ -1,0 +1,15 @@
+collision_symbol: TNT
+C16orf82:
+  ENSG_ID: [ENSG00000234186]
+  source: [NCBI Info]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [162083.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q7Z2V1]
+TNNT1:
+  ENSG_ID: [ENSG00000105048]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [7138.0]
+  OMIM_ID: ['191041']
+  UniProt_ID: [P13805]

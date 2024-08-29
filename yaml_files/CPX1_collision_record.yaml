@@ -1,0 +1,15 @@
+collision_symbol: CPX1
+CPLX1:
+  ENSG_ID: [ENSG00000168993]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [10815.0]
+  OMIM_ID: ['605032']
+  UniProt_ID: [O14810]
+CPXM1:
+  ENSG_ID: [ENSG00000088882]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [56265.0]
+  OMIM_ID: ['609555']
+  UniProt_ID: [Q96SM3]

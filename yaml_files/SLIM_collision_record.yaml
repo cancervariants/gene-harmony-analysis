@@ -1,0 +1,15 @@
+collision_symbol: SLIM
+FHL1:
+  ENSG_ID: [ENSG00000022267]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [2273.0]
+  OMIM_ID: ['300163']
+  UniProt_ID: [Q13642]
+PDLIM2:
+  ENSG_ID: [ENSG00000120913]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [64236.0]
+  OMIM_ID: ['609722']
+  UniProt_ID: [Q96JY6]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162923
-  gene_symbol: WDR26
-- ensg_id: ENSG00000081041
-  gene_symbol: ' CXCL2'
-collision_symbol: MIP2

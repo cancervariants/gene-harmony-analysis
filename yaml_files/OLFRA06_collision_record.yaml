@@ -1,0 +1,15 @@
+collision_symbol: OLFRA06
+OR3A4P:
+  ENSG_ID: [ENSG00000290820]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR3A5P:
+  ENSG_ID: [ENSG00000285760]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

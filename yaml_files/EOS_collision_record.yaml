@@ -1,0 +1,15 @@
+collision_symbol: EOS
+IKZF4:
+  ENSG_ID: [ENSG00000123411]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [64375.0]
+  OMIM_ID: ['606239']
+  UniProt_ID: [Q9H2S9]
+PRSS33:
+  ENSG_ID: [ENSG00000103355]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [260429.0]
+  OMIM_ID: ['613797']
+  UniProt_ID: [Q8NF86]

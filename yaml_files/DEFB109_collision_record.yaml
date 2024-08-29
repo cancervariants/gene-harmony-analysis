@@ -1,0 +1,22 @@
+collision_symbol: DEFB109
+DEFB109A:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DEFB109B:
+  ENSG_ID: [ENSG00000206034]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [641517.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q30KR1]
+DEFB109C:
+  ENSG_ID: [ENSG00000205989]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [100286963.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

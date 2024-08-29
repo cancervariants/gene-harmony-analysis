@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115896
-  gene_symbol: PLCL1
-- ensg_id: ENSG00000138193
-  gene_symbol: ' PLCE1'
-collision_symbol: ' PLCE'

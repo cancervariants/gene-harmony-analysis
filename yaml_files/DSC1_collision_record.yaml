@@ -1,0 +1,15 @@
+collision_symbol: DSC1
+DSC3:
+  ENSG_ID: [ENSG00000134762]
+  source: [NCBI Info]
+  Chromosome: [18q12.1]
+  NCBI Gene ID: [1825.0]
+  OMIM_ID: ['600271']
+  UniProt_ID: [Q14574]
+RCAN1:
+  ENSG_ID: [ENSG00000159200]
+  source: [NCBI Info]
+  Chromosome: [21q22.12]
+  NCBI Gene ID: [1827.0]
+  OMIM_ID: ['602917']
+  UniProt_ID: [P53805]

@@ -1,0 +1,15 @@
+collision_symbol: MIR-199-s
+MIR199A1:
+  ENSG_ID: [ENSG00000207752]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [406976.0]
+  OMIM_ID: ['610719']
+  UniProt_ID: [.nan]
+MIR199A2:
+  ENSG_ID: [ENSG00000208024]
+  source: [NCBI Info]
+  Chromosome: [1q24.3]
+  NCBI Gene ID: [406977.0]
+  OMIM_ID: ['610720']
+  UniProt_ID: [.nan]

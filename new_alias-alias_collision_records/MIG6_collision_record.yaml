@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241343
-  gene_symbol: RPL36A
-- ensg_id: ENSG00000116285
-  gene_symbol: ' ERRFI1'
-collision_symbol: MIG6

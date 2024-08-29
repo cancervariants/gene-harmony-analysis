@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184992
-  gene_symbol: BRI3BP
-- ensg_id: ENSG00000050426
-  gene_symbol: ' LETMD1'
-collision_symbol: HCCR-2

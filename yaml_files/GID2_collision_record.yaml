@@ -1,0 +1,15 @@
+collision_symbol: GID2
+RMND5A:
+  ENSG_ID: [ENSG00000153561]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [64795.0]
+  OMIM_ID: ['618964']
+  UniProt_ID: [Q9H871]
+RMND5B:
+  ENSG_ID: [ENSG00000145916]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [64777.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96G75]

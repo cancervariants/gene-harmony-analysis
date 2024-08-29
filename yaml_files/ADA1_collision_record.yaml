@@ -1,0 +1,15 @@
+collision_symbol: ADA1
+ADA:
+  ENSG_ID: [ENSG00000196839]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [100.0]
+  OMIM_ID: ['608958']
+  UniProt_ID: [P00813]
+TADA1:
+  ENSG_ID: [ENSG00000152382]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q24.1]
+  NCBI Gene ID: [117143.0]
+  OMIM_ID: ['612763']
+  UniProt_ID: [Q96BN2]

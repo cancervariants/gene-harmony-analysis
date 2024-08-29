@@ -1,0 +1,15 @@
+collision_symbol: CXDELq22.3
+AMMEC:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+COL4A6:
+  ENSG_ID: [ENSG00000197565]
+  source: [NCBI Info]
+  Chromosome: [Xq22.3]
+  NCBI Gene ID: [1288.0]
+  OMIM_ID: ['303631']
+  UniProt_ID: [Q14031]

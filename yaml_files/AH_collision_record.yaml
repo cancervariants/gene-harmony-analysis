@@ -1,0 +1,15 @@
+collision_symbol: AH
+HCA1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LIPH:
+  ENSG_ID: [ENSG00000163898]
+  source: [NCBI Info]
+  Chromosome: [3q27.2]
+  NCBI Gene ID: [200879.0]
+  OMIM_ID: ['607365']
+  UniProt_ID: [Q8WWY8]

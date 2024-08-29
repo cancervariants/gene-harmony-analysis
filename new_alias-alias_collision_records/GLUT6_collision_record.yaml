@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: SLC2A3P1
-- ensg_id: ENSG00000160326
-  gene_symbol: ' SLC2A6'
-collision_symbol: GLUT6

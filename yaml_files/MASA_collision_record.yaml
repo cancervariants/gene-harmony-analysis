@@ -1,0 +1,15 @@
+collision_symbol: MASA
+ENOPH1:
+  ENSG_ID: [ENSG00000145293]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q21.22]
+  NCBI Gene ID: [58478.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9UHY7]
+L1CAM:
+  ENSG_ID: [ENSG00000198910]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [3897.0]
+  OMIM_ID: ['308840']
+  UniProt_ID: [P32004]

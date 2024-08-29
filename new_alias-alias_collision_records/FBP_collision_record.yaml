@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162613
-  gene_symbol: FUBP1
-- ensg_id: ENSG00000119396
-  gene_symbol: ' RAB14'
-- ensg_id: ENSG00000165140
-  gene_symbol: ' FBP1'
-collision_symbol: FBP

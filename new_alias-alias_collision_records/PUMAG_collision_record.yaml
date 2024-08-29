@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000255398
-  gene_symbol: HCAR3
-- ensg_id: ENSG00000182782
-  gene_symbol: ' HCAR2'
-collision_symbol: PUMAG

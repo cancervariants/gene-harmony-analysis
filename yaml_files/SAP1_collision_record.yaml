@@ -1,0 +1,29 @@
+collision_symbol: SAP1
+DEFB4A:
+  ENSG_ID: [ENSG00000171711]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1673.0]
+  OMIM_ID: ['602215']
+  UniProt_ID: [O15263]
+ELK4:
+  ENSG_ID: [ENSG00000158711]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [2005.0]
+  OMIM_ID: ['600246']
+  UniProt_ID: [P28324]
+PSAP:
+  ENSG_ID: [ENSG00000197746]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5660.0]
+  OMIM_ID: ['176801']
+  UniProt_ID: [P07602]
+PTPRH:
+  ENSG_ID: [ENSG00000080031]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [5794.0]
+  OMIM_ID: ['602510']
+  UniProt_ID: [Q9HD43]

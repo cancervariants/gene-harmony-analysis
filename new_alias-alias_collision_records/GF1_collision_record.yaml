@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115904
-  gene_symbol: SOS1
-- ensg_id: ENSG00000102145
-  gene_symbol: ' GATA1'
-collision_symbol: GF1

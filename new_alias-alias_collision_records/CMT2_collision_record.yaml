@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000054523
-  gene_symbol: KIF1B
-- ensg_id: ENSG00000124688
-  gene_symbol: ' MAD2L1BP'
-collision_symbol: CMT2

@@ -1,0 +1,15 @@
+collision_symbol: ABP1
+AOC1:
+  ENSG_ID: [ENSG00000002726]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [26.0]
+  OMIM_ID: ['104610']
+  UniProt_ID: [P19801]
+DBNL:
+  ENSG_ID: [ENSG00000136279]
+  source: [NCBI Info]
+  Chromosome: [7p13]
+  NCBI Gene ID: [28988.0]
+  OMIM_ID: ['610106']
+  UniProt_ID: [Q9UJU6]

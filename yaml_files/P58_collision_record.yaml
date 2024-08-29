@@ -1,0 +1,36 @@
+collision_symbol: p58
+CDK11B:
+  ENSG_ID: [ENSG00000248333]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [984.0]
+  OMIM_ID: ['176873']
+  UniProt_ID: [P21127]
+H3P20:
+  ENSG_ID: [ENSG00000250351]
+  source: [NCBI Info]
+  Chromosome: [5p15.1]
+  NCBI Gene ID: [100289141.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+KIR2DL3:
+  ENSG_ID: [ENSG00000243772]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [3804.0]
+  OMIM_ID: ['604938']
+  UniProt_ID: [P43628]
+PKM:
+  ENSG_ID: [ENSG00000067225]
+  source: [NCBI Info]
+  Chromosome: [15q23]
+  NCBI Gene ID: [5315.0]
+  OMIM_ID: ['179050']
+  UniProt_ID: [P14618]
+PRIM2:
+  ENSG_ID: [ENSG00000146143]
+  source: [NCBI Info]
+  Chromosome: [6p11.2]
+  NCBI Gene ID: [5558.0]
+  OMIM_ID: ['176636']
+  UniProt_ID: [P49643]

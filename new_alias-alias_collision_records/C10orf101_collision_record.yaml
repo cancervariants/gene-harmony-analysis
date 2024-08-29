@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000230417
-  gene_symbol: LINC00595
-- ensg_id: ENSG00000179397
-  gene_symbol: ' CATSPERE'
-collision_symbol: C10orf101

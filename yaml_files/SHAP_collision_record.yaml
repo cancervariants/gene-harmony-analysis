@@ -1,0 +1,29 @@
+collision_symbol: SHAP
+ITIH1:
+  ENSG_ID: [ENSG00000055957]
+  source: [NCBI Info]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [3697.0]
+  OMIM_ID: ['147270']
+  UniProt_ID: [P19827]
+ITIH2:
+  ENSG_ID: [ENSG00000151655]
+  source: [NCBI Info]
+  Chromosome: [10p14]
+  NCBI Gene ID: [3698.0]
+  OMIM_ID: ['146640']
+  UniProt_ID: [P19823]
+ITIH3:
+  ENSG_ID: [ENSG00000162267]
+  source: [NCBI Info]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [3699.0]
+  OMIM_ID: ['146650']
+  UniProt_ID: [Q06033]
+SHROOM4:
+  ENSG_ID: [ENSG00000158352]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [57477.0]
+  OMIM_ID: ['300579']
+  UniProt_ID: [Q9ULL8]

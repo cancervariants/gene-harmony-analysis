@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185499
-  gene_symbol: MUC1
-- ensg_id: ENSG00000129152
-  gene_symbol: ' MYOD1'
-collision_symbol: PUM

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111711
-  gene_symbol: GOLT1B
-- ensg_id: ENSG00000174567
-  gene_symbol: ' GOLT1A'
-collision_symbol: ' GOT1'

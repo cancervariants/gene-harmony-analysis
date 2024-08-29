@@ -1,0 +1,15 @@
+collision_symbol: BCOX
+ACOX2:
+  ENSG_ID: [ENSG00000168306]
+  source: [NCBI Info]
+  Chromosome: [3p14.3]
+  NCBI Gene ID: [8309.0]
+  OMIM_ID: ['601641']
+  UniProt_ID: [Q99424]
+BLTP2:
+  ENSG_ID: [ENSG00000007202]
+  source: [NCBI Info]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [9703.0]
+  OMIM_ID: ['610664']
+  UniProt_ID: [Q14667]

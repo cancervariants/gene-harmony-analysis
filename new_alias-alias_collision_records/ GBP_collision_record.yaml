@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000033800
-  gene_symbol: PIAS1
-- ensg_id: ENSG00000006118
-  gene_symbol: ' TMEM132A'
-collision_symbol: ' GBP'

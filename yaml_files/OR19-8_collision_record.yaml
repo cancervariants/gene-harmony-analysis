@@ -1,0 +1,15 @@
+collision_symbol: OR19-8
+OR7E24:
+  ENSG_ID: [ENSG00000237521]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [26648.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6IFN5]
+OR7G1:
+  ENSG_ID: [ENSG00000161807]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [125962.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGA0]

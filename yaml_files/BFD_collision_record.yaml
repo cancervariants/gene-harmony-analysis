@@ -1,0 +1,15 @@
+collision_symbol: BFD
+CFB:
+  ENSG_ID: [ENSG00000243649]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [629.0]
+  OMIM_ID: ['138470']
+  UniProt_ID: [P00751]
+CFP:
+  ENSG_ID: [ENSG00000126759]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [5199.0]
+  OMIM_ID: ['300383']
+  UniProt_ID: [P27918]

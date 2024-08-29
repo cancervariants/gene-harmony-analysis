@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160789
-  gene_symbol: LMNA
-- ensg_id: ENSG00000084073
-  gene_symbol: ' ZMPSTE24'
-- ensg_id: ENSG00000154134
-  gene_symbol: ' ROBO3'
-collision_symbol: HGPS

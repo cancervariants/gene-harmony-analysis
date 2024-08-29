@@ -1,0 +1,15 @@
+collision_symbol: MCD
+MLYCD:
+  ENSG_ID: [ENSG00000103150]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q23.3]
+  NCBI Gene ID: [23417.0]
+  OMIM_ID: ['606761']
+  UniProt_ID: [O95822]
+MUC1:
+  ENSG_ID: [ENSG00000185499]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [4582.0]
+  OMIM_ID: ['158340']
+  UniProt_ID: [P15941]

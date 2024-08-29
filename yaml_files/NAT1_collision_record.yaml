@@ -1,0 +1,22 @@
+collision_symbol: NAT1
+EIF4G2:
+  ENSG_ID: [ENSG00000110321]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [1982.0]
+  OMIM_ID: ['602325']
+  UniProt_ID: [P78344]
+SLC38A3:
+  ENSG_ID: [ENSG00000188338]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10991.0]
+  OMIM_ID: ['604437']
+  UniProt_ID: [Q99624]
+SLC6A2:
+  ENSG_ID: [ENSG00000103546]
+  source: [NCBI Info]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [6530.0]
+  OMIM_ID: ['163970']
+  UniProt_ID: [P23975]

@@ -1,0 +1,15 @@
+collision_symbol: MELF2
+EPM2A:
+  ENSG_ID: [ENSG00000112425]
+  source: [NCBI Info]
+  Chromosome: [6q24.3]
+  NCBI Gene ID: [7957.0]
+  OMIM_ID: ['607566']
+  UniProt_ID: ['B3EWF7, O95278']
+NHLRC1:
+  ENSG_ID: [ENSG00000187566]
+  source: [NCBI Info]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [378884.0]
+  OMIM_ID: ['608072']
+  UniProt_ID: [Q6VVB1]

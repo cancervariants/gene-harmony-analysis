@@ -1,0 +1,15 @@
+collision_symbol: NG23
+MSH5:
+  ENSG_ID: [ENSG00000204410]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [4439.0]
+  OMIM_ID: ['603382']
+  UniProt_ID: [O43196]
+SAPCD1:
+  ENSG_ID: [ENSG00000228727]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [401251.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5SSQ6]

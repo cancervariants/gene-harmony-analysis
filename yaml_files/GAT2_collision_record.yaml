@@ -1,0 +1,15 @@
+collision_symbol: GAT2
+SLC6A12:
+  ENSG_ID: [ENSG00000111181]
+  source: [NCBI Info]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [6539.0]
+  OMIM_ID: ['603080']
+  UniProt_ID: [P48065]
+SLC6A13:
+  ENSG_ID: [ENSG00000010379]
+  source: [NCBI Info]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [6540.0]
+  OMIM_ID: ['615097']
+  UniProt_ID: [Q9NSD5]

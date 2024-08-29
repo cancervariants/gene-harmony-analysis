@@ -1,0 +1,22 @@
+collision_symbol: HSP70-2
+HSPA1A:
+  ENSG_ID: [ENSG00000204389]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [3303.0]
+  OMIM_ID: ['140550']
+  UniProt_ID: [P0DMV8]
+HSPA1B:
+  ENSG_ID: [ENSG00000204388]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [3304.0]
+  OMIM_ID: ['603012']
+  UniProt_ID: [P0DMV9]
+HSPA2:
+  ENSG_ID: [ENSG00000126803]
+  source: [NCBI Info]
+  Chromosome: [14q23.3]
+  NCBI Gene ID: [3306.0]
+  OMIM_ID: ['140560']
+  UniProt_ID: [P54652]

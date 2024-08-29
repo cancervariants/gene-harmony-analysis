@@ -1,0 +1,15 @@
+collision_symbol: RMD1
+RMDN1:
+  ENSG_ID: [ENSG00000176623]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q21.3]
+  NCBI Gene ID: [51115.0]
+  OMIM_ID: ['611871']
+  UniProt_ID: [Q96DB5]
+RMND1:
+  ENSG_ID: [ENSG00000155906]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [55005.0]
+  OMIM_ID: ['614917']
+  UniProt_ID: [Q9NWS8]

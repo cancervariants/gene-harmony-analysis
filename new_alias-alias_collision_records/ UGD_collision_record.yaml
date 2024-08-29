@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109814
-  gene_symbol: UGDH
-- ensg_id: ENSG00000115652
-  gene_symbol: ' UXS1'
-collision_symbol: ' UGD'

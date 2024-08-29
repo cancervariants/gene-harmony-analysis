@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000256040
-  gene_symbol: PAPPA-AS1
-- ensg_id: ENSG00000121075
-  gene_symbol: ' TBX4'
-collision_symbol: PAPPAS

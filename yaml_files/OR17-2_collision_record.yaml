@@ -1,0 +1,15 @@
+collision_symbol: OR17-2
+OR1D5:
+  ENSG_ID: [ENSG00000262628]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [8386.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P58170]
+OR1E1:
+  ENSG_ID: [ENSG00000180016]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [8387.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P30953]

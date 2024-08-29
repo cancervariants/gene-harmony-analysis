@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000085662
-  gene_symbol: AKR1B1
-- ensg_id: ENSG00000161513
-  gene_symbol: ' FDXR'
-collision_symbol: ADR

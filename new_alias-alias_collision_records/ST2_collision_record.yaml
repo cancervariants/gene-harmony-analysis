@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125775
-  gene_symbol: SDCBP2
-- ensg_id: ENSG00000115602
-  gene_symbol: ' IL1RL1'
-- ensg_id: ENSG00000105398
-  gene_symbol: ' SULT2A1'
-collision_symbol: ST2

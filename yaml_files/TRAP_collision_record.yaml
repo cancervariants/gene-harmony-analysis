@@ -1,0 +1,36 @@
+collision_symbol: TRAP
+ACP5:
+  ENSG_ID: [ENSG00000102575]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [54.0]
+  OMIM_ID: ['171640']
+  UniProt_ID: [P13686]
+CD40LG:
+  ENSG_ID: [ENSG00000102245]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [959.0]
+  OMIM_ID: ['300386']
+  UniProt_ID: [P29965]
+SCYL1:
+  ENSG_ID: [ENSG00000142186]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [57410.0]
+  OMIM_ID: ['607982']
+  UniProt_ID: [Q96KG9]
+TDRD7:
+  ENSG_ID: [ENSG00000196116]
+  source: [NCBI Info]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [23424.0]
+  OMIM_ID: ['611258']
+  UniProt_ID: [Q8NHU6]
+TRAF2:
+  ENSG_ID: [ENSG00000127191]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [7186.0]
+  OMIM_ID: ['601895']
+  UniProt_ID: [Q12933]

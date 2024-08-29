@@ -1,0 +1,15 @@
+collision_symbol: GBBB2
+OGS2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SPECC1L:
+  ENSG_ID: [ENSG00000100014]
+  source: [NCBI Info]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [23384.0]
+  OMIM_ID: ['614140']
+  UniProt_ID: [Q69YQ0]

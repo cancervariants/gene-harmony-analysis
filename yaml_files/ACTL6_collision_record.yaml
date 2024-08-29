@@ -1,0 +1,15 @@
+collision_symbol: ACTL6
+ACTL6A:
+  ENSG_ID: [ENSG00000136518]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q26.33]
+  NCBI Gene ID: [86.0]
+  OMIM_ID: ['604958']
+  UniProt_ID: [O96019]
+ACTL6B:
+  ENSG_ID: [ENSG00000077080]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [51412.0]
+  OMIM_ID: ['612458']
+  UniProt_ID: [O94805]

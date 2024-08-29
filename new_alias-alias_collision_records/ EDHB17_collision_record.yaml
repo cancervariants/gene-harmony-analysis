@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108785
-  gene_symbol: HSD17B1P1
-- ensg_id: ENSG00000108786
-  gene_symbol: ' HSD17B1'
-collision_symbol: ' EDHB17'

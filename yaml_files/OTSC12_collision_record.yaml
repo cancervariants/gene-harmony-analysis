@@ -1,0 +1,15 @@
+collision_symbol: OTSC12
+KIF3B:
+  ENSG_ID: [ENSG00000101350]
+  source: [NCBI Info]
+  Chromosome: [20q11.21]
+  NCBI Gene ID: [9371.0]
+  OMIM_ID: ['603754']
+  UniProt_ID: [O15066]
+SMARCA4:
+  ENSG_ID: [ENSG00000127616]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [6597.0]
+  OMIM_ID: ['603254']
+  UniProt_ID: [P51532]

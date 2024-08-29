@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198610
-  gene_symbol: AKR1C4
-- ensg_id: ENSG00000073737
-  gene_symbol: ' DHRS9'
-collision_symbol: 3-alpha-HSD

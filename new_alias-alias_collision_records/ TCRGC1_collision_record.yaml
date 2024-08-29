@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000211689
-  gene_symbol: TRGC1
-- ensg_id: ENSG00000289746
-  gene_symbol: ' TARP'
-collision_symbol: ' TCRGC1'

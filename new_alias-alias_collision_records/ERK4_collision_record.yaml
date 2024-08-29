@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141639
-  gene_symbol: MAPK4
-- ensg_id: ENSG00000166484
-  gene_symbol: ' MAPK7'
-collision_symbol: ERK4

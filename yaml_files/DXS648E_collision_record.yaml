@@ -1,0 +1,15 @@
+collision_symbol: DXS648E
+RPL10:
+  ENSG_ID: [ENSG00000147403]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [6134.0]
+  OMIM_ID: ['312173']
+  UniProt_ID: [P27635]
+SNORA70:
+  ENSG_ID: [ENSG00000207165]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [26778.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: OCC-1
+C12orf75:
+  ENSG_ID: [ENSG00000235162]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [387882.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8TAD7]
+FSTL1:
+  ENSG_ID: [ENSG00000163430]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q13.33]
+  NCBI Gene ID: [11167.0]
+  OMIM_ID: ['605547']
+  UniProt_ID: [Q12841]

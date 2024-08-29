@@ -1,0 +1,22 @@
+collision_symbol: RAP1
+RABGEF1:
+  ENSG_ID: [ENSG00000154710]
+  source: [NCBI Info]
+  Chromosome: [7q11.21]
+  NCBI Gene ID: [27342.0]
+  OMIM_ID: ['609700']
+  UniProt_ID: [Q9UJ41]
+RAP1A:
+  ENSG_ID: [ENSG00000116473]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [5906.0]
+  OMIM_ID: ['179520']
+  UniProt_ID: [P62834]
+TERF2IP:
+  ENSG_ID: [ENSG00000166848]
+  source: [NCBI Info]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [54386.0]
+  OMIM_ID: ['605061']
+  UniProt_ID: [Q9NYB0]

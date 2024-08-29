@@ -1,0 +1,15 @@
+collision_symbol: PN-II
+APP:
+  ENSG_ID: [ENSG00000142192]
+  source: [NCBI Info]
+  Chromosome: [21q21.3]
+  NCBI Gene ID: [351.0]
+  OMIM_ID: ['104760']
+  UniProt_ID: [P05067]
+NT5C:
+  ENSG_ID: [ENSG00000125458]
+  source: [NCBI Info]
+  Chromosome: [17q25]
+  NCBI Gene ID: [30833.0]
+  OMIM_ID: ['191720']
+  UniProt_ID: [Q8TCD5]

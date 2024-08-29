@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000237178
-  gene_symbol: H3P7
-- ensg_id: ENSG00000161011
-  gene_symbol: ' SQSTM1'
-- ensg_id: ENSG00000067182
-  gene_symbol: ' TNFRSF1A'
-collision_symbol: p60

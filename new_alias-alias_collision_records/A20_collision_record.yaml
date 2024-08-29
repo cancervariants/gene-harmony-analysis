@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000244575
-  gene_symbol: IGKV1-27
-- ensg_id: ENSG00000118503
-  gene_symbol: ' TNFAIP3'
-collision_symbol: A20

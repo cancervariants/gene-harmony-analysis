@@ -1,0 +1,15 @@
+collision_symbol: GCP-2
+CXCL6:
+  ENSG_ID: [ENSG00000124875]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [6372.0]
+  OMIM_ID: ['138965']
+  UniProt_ID: [P80162]
+TUBGCP2:
+  ENSG_ID: [ENSG00000130640]
+  source: [NCBI Info]
+  Chromosome: [10q26.3]
+  NCBI Gene ID: [10844.0]
+  OMIM_ID: ['617817']
+  UniProt_ID: [Q9BSJ2]

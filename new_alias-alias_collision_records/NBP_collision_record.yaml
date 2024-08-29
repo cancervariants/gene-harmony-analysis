@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000073282
-  gene_symbol: TP63
-- ensg_id: ENSG00000068120
-  gene_symbol: ' COASY'
-- ensg_id: ENSG00000103274
-  gene_symbol: ' NUBP1'
-collision_symbol: NBP

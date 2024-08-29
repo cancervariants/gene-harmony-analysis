@@ -1,0 +1,15 @@
+collision_symbol: ODC1L
+AZIN1:
+  ENSG_ID: [ENSG00000155096]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [51582.0]
+  OMIM_ID: ['607909']
+  UniProt_ID: [O14977]
+AZIN2:
+  ENSG_ID: [ENSG00000142920]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [113451.0]
+  OMIM_ID: ['608353']
+  UniProt_ID: [Q96A70]

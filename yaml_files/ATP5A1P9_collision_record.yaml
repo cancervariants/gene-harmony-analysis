@@ -1,0 +1,15 @@
+collision_symbol: ATP5A1P9
+ATP5F1AP7:
+  ENSG_ID: [ENSG00000241571]
+  source: [NCBI Info]
+  Chromosome: [9q13]
+  NCBI Gene ID: [442415.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ATP5F1AP8:
+  ENSG_ID: [ENSG00000234720]
+  source: [NCBI Info]
+  Chromosome: [9p12]
+  NCBI Gene ID: [392322.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

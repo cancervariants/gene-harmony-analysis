@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150337
-  gene_symbol: FCGR1A
-- ensg_id: ENSG00000291135
-  gene_symbol: ' FCGR1BP'
-collision_symbol: FCG1

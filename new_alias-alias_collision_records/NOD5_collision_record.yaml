@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158077
-  gene_symbol: NLRP14
-- ensg_id: ENSG00000160703
-  gene_symbol: ' NLRX1'
-collision_symbol: NOD5

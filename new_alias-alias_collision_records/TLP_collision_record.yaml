@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166887
-  gene_symbol: VPS39
-- ensg_id: ENSG00000028839
-  gene_symbol: ' TBPL1'
-- ensg_id: ENSG00000146215
-  gene_symbol: ' CRIP3'
-collision_symbol: TLP

@@ -1,0 +1,15 @@
+collision_symbol: MKS
+MKKS:
+  ENSG_ID: [ENSG00000125863]
+  source: [NCBI Info]
+  Chromosome: [20p12.2]
+  NCBI Gene ID: [8195.0]
+  OMIM_ID: ['604896']
+  UniProt_ID: [Q9NPJ1]
+MKS1:
+  ENSG_ID: [ENSG00000011143]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [54903.0]
+  OMIM_ID: ['609883']
+  UniProt_ID: [Q9NXB0]

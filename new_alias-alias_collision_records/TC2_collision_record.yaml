@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185339
-  gene_symbol: TCN2
-- ensg_id: ENSG00000163736
-  gene_symbol: ' PPBP'
-collision_symbol: TC2

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000239855
-  gene_symbol: IGKV1-6
-- ensg_id: ENSG00000206053
-  gene_symbol: ' JPT2'
-- ensg_id: ENSG00000142676
-  gene_symbol: ' RPL11'
-collision_symbol: L11

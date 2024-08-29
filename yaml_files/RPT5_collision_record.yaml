@@ -1,0 +1,15 @@
+collision_symbol: RPT5
+PSMC3:
+  ENSG_ID: [ENSG00000165916]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [5702.0]
+  OMIM_ID: ['186852']
+  UniProt_ID: [P17980]
+PSMC6:
+  ENSG_ID: [ENSG00000100519]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [5706.0]
+  OMIM_ID: ['602708']
+  UniProt_ID: [P62333]

@@ -1,0 +1,15 @@
+collision_symbol: CT45A2
+CT45A8:
+  ENSG_ID: [ENSG00000278085]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [102723737.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMV1]
+CT45A9:
+  ENSG_ID: [ENSG00000270946]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [102723680.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMV2]

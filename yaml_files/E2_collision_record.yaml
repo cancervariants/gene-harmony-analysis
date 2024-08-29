@@ -1,0 +1,36 @@
+collision_symbol: E2
+CST12P:
+  ENSG_ID: [ENSG00000226344]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DBT:
+  ENSG_ID: [ENSG00000137992]
+  source: [NCBI Info]
+  Chromosome: [1p21.2]
+  NCBI Gene ID: [1629.0]
+  OMIM_ID: ['248610']
+  UniProt_ID: [P11182]
+DLAT:
+  ENSG_ID: [ENSG00000150768]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q23.1]
+  NCBI Gene ID: [1737.0]
+  OMIM_ID: ['608770']
+  UniProt_ID: [P10515]
+SNORA62:
+  ENSG_ID: [ENSG00000202363]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [6044.0]
+  OMIM_ID: ['180646']
+  UniProt_ID: [.nan]
+SNORD12C:
+  ENSG_ID: [ENSG00000209042]
+  source: [NCBI Info]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [26765.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

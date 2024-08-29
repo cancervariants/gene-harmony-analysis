@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136732
-  gene_symbol: GYPC
-- ensg_id: ENSG00000197561
-  gene_symbol: ' ELANE'
-collision_symbol: GE

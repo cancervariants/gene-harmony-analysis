@@ -1,0 +1,15 @@
+collision_symbol: AC079630.2
+LINC02471:
+  ENSG_ID: [ENSG00000223914]
+  source: [HGNC, ENSG]
+  Chromosome: [12q12]
+  NCBI Gene ID: [105369734.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LINC02555:
+  ENSG_ID: [ENSG00000260943]
+  source: [HGNC, ENSG]
+  Chromosome: [12q12]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

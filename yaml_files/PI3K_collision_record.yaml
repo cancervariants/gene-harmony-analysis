@@ -1,0 +1,29 @@
+collision_symbol: PI3K
+PIK3CA:
+  ENSG_ID: [ENSG00000121879]
+  source: [NCBI Info]
+  Chromosome: [3q26.32]
+  NCBI Gene ID: [5290.0]
+  OMIM_ID: ['171834']
+  UniProt_ID: [P42336]
+PIK3CB:
+  ENSG_ID: [ENSG00000051382]
+  source: [NCBI Info]
+  Chromosome: [3q22.3]
+  NCBI Gene ID: [5291.0]
+  OMIM_ID: ['602925']
+  UniProt_ID: [P42338]
+PIK3CD:
+  ENSG_ID: [ENSG00000171608]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [5293.0]
+  OMIM_ID: ['602839']
+  UniProt_ID: [O00329]
+PIK3CG:
+  ENSG_ID: [ENSG00000105851]
+  source: [NCBI Info]
+  Chromosome: [7q22.3]
+  NCBI Gene ID: [5294.0]
+  OMIM_ID: ['601232']
+  UniProt_ID: [P48736]

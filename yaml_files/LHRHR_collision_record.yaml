@@ -1,0 +1,15 @@
+collision_symbol: LHRHR
+GNRHR:
+  ENSG_ID: [ENSG00000109163]
+  source: [NCBI Info]
+  Chromosome: [4q13.2]
+  NCBI Gene ID: [2798.0]
+  OMIM_ID: ['138850']
+  UniProt_ID: [P30968]
+LHCGR:
+  ENSG_ID: [ENSG00000138039]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [3973.0]
+  OMIM_ID: ['152790']
+  UniProt_ID: [P22888]

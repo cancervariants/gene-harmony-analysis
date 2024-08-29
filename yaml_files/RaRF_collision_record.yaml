@@ -1,0 +1,15 @@
+collision_symbol: RaRF
+CCDC137:
+  ENSG_ID: [ENSG00000185298]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [339230.0]
+  OMIM_ID: ['614271']
+  UniProt_ID: [Q6PK04]
+MASP1:
+  ENSG_ID: [ENSG00000127241]
+  source: [NCBI Info]
+  Chromosome: [3q27.3]
+  NCBI Gene ID: [5648.0]
+  OMIM_ID: ['600521']
+  UniProt_ID: [P48740]

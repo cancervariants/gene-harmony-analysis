@@ -1,0 +1,15 @@
+collision_symbol: FBL3
+FBXL2:
+  ENSG_ID: [ENSG00000153558]
+  source: [NCBI Info]
+  Chromosome: [3p22.3]
+  NCBI Gene ID: [25827.0]
+  OMIM_ID: ['605652']
+  UniProt_ID: [Q9UKC9]
+FBXL3:
+  ENSG_ID: [ENSG00000005812]
+  source: [NCBI Info]
+  Chromosome: [13q22.3]
+  NCBI Gene ID: [26224.0]
+  OMIM_ID: ['605653']
+  UniProt_ID: [Q9UKT7]

@@ -1,0 +1,15 @@
+collision_symbol: NET7
+NOC2L:
+  ENSG_ID: [ENSG00000188976]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [26155.0]
+  OMIM_ID: ['610770']
+  UniProt_ID: [Q9Y3T9]
+TSPAN15:
+  ENSG_ID: [ENSG00000099282]
+  source: [NCBI Info]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [23555.0]
+  OMIM_ID: ['613140']
+  UniProt_ID: [O95858]

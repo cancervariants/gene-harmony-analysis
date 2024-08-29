@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115657
-  gene_symbol: ABCB6
-- ensg_id: ENSG00000070413
-  gene_symbol: ' DGCR2'
-collision_symbol: LAN

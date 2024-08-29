@@ -1,0 +1,15 @@
+collision_symbol: DBS
+LRP2:
+  ENSG_ID: [ENSG00000081479]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [4036.0]
+  OMIM_ID: ['600073']
+  UniProt_ID: [P98164]
+MCF2L:
+  ENSG_ID: [ENSG00000126217]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [23263.0]
+  OMIM_ID: ['609499']
+  UniProt_ID: [O15068]

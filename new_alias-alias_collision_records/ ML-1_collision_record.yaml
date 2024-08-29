@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112116
-  gene_symbol: IL17F
-- ensg_id: ENSG00000132932
-  gene_symbol: ' ATP8A2'
-collision_symbol: ' ML-1'

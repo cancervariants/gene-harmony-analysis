@@ -1,0 +1,22 @@
+collision_symbol: GP130
+IL6ST:
+  ENSG_ID: [ENSG00000134352]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [3572.0]
+  OMIM_ID: ['600694']
+  UniProt_ID: [P40189]
+LRPPRC:
+  ENSG_ID: [ENSG00000138095]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [10128.0]
+  OMIM_ID: ['607544']
+  UniProt_ID: [P42704]
+NM:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7q22-qter]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

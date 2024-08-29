@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108691
-  gene_symbol: CCL2
-- ensg_id: ENSG00000171681
-  gene_symbol: ' ATF7IP'
-collision_symbol: ' MCAF'

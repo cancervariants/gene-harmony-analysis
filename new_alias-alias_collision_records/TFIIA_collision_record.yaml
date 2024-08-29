@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165417
-  gene_symbol: GTF2A1
-- ensg_id: ENSG00000140307
-  gene_symbol: ' GTF2A2'
-collision_symbol: TFIIA

@@ -1,0 +1,22 @@
+collision_symbol: p37
+CCNH:
+  ENSG_ID: [ENSG00000134480]
+  source: [NCBI Info]
+  Chromosome: [5q14.3]
+  NCBI Gene ID: [902.0]
+  OMIM_ID: ['601953']
+  UniProt_ID: [P51946]
+NUP37:
+  ENSG_ID: [ENSG00000075188]
+  source: [NCBI Info]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [79023.0]
+  OMIM_ID: ['609264']
+  UniProt_ID: [Q8NFH4]
+UBXN2B:
+  ENSG_ID: [ENSG00000215114]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [137886.0]
+  OMIM_ID: ['610686']
+  UniProt_ID: [Q14CS0]

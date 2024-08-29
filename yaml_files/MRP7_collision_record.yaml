@@ -1,0 +1,15 @@
+collision_symbol: MRP7
+ABCC10:
+  ENSG_ID: [ENSG00000124574]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [89845.0]
+  OMIM_ID: ['612509']
+  UniProt_ID: [Q5T3U5]
+CFTR:
+  ENSG_ID: [ENSG00000001626]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [1080.0]
+  OMIM_ID: ['602421']
+  UniProt_ID: [P13569]

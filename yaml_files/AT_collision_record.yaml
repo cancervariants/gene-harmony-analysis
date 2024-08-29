@@ -1,0 +1,15 @@
+collision_symbol: AT
+BTK:
+  ENSG_ID: [ENSG00000010671]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [695.0]
+  OMIM_ID: ['300300']
+  UniProt_ID: [Q06187]
+GATM:
+  ENSG_ID: [ENSG00000171766]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [2628.0]
+  OMIM_ID: ['602360']
+  UniProt_ID: [P50440]

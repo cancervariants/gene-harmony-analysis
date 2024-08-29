@@ -1,0 +1,22 @@
+collision_symbol: NIP1
+BNIP1:
+  ENSG_ID: [ENSG00000113734]
+  source: [NCBI Info]
+  Chromosome: [5q35.1]
+  NCBI Gene ID: [662.0]
+  OMIM_ID: ['603291']
+  UniProt_ID: [Q12981]
+NCBP2:
+  ENSG_ID: [ENSG00000114503]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q29]
+  NCBI Gene ID: [22916.0]
+  OMIM_ID: ['605133']
+  UniProt_ID: [P52298]
+NECAB3:
+  ENSG_ID: [ENSG00000125967]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [63941.0]
+  OMIM_ID: ['612478']
+  UniProt_ID: [Q96P71]

@@ -1,0 +1,15 @@
+collision_symbol: CDC25
+CDC25C:
+  ENSG_ID: [ENSG00000158402]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [995.0]
+  OMIM_ID: ['157680']
+  UniProt_ID: [P30307]
+RASGRF1:
+  ENSG_ID: [ENSG00000058335]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [5923.0]
+  OMIM_ID: ['606600']
+  UniProt_ID: [Q13972]

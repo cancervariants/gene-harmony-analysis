@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000152804
-  gene_symbol: HHEX
-- ensg_id: ENSG00000071677
-  gene_symbol: ' PRLH'
-collision_symbol: PRH

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109929
-  gene_symbol: SC5D
-- ensg_id: ENSG00000184611
-  gene_symbol: ' KCNH7'
-collision_symbol: ERG3

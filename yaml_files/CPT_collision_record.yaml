@@ -1,0 +1,15 @@
+collision_symbol: CPT
+CHPT1:
+  ENSG_ID: [ENSG00000111666]
+  source: [NCBI Info]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [56994.0]
+  OMIM_ID: ['616747']
+  UniProt_ID: [Q8WUD6]
+DHDDS:
+  ENSG_ID: [ENSG00000117682]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [79947.0]
+  OMIM_ID: ['608172']
+  UniProt_ID: [Q86SQ9]

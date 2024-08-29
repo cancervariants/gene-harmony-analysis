@@ -1,0 +1,15 @@
+collision_symbol: ICBP90
+BLTP3A:
+  ENSG_ID: [ENSG00000065060]
+  source: [NCBI Info]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [54887.0]
+  OMIM_ID: ['619570']
+  UniProt_ID: [Q6BDS2]
+UHRF1:
+  ENSG_ID: [ENSG00000276043]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [29128.0]
+  OMIM_ID: ['607990']
+  UniProt_ID: [Q96T88]

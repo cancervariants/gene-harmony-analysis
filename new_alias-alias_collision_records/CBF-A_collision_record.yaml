@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000120837
-  gene_symbol: NFYB
-- ensg_id: ENSG00000001167
-  gene_symbol: ' NFYA'
-- ensg_id: ENSG00000065978
-  gene_symbol: ' YBX1'
-collision_symbol: CBF-A

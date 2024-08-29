@@ -1,0 +1,15 @@
+collision_symbol: RIS1
+TMEM158:
+  ENSG_ID: [ENSG00000249992]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [25907.0]
+  OMIM_ID: ['620257']
+  UniProt_ID: [Q8WZ71]
+UQCRFS1:
+  ENSG_ID: [ENSG00000169021]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q12]
+  NCBI Gene ID: [7386.0]
+  OMIM_ID: ['191327']
+  UniProt_ID: [P47985]

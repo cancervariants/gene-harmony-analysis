@@ -1,0 +1,15 @@
+collision_symbol: CCL4L
+CCL4L1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [17q12 alternate reference locus]
+  NCBI Gene ID: [388372.0]
+  OMIM_ID: ['603782']
+  UniProt_ID: [Q8NHW4]
+CCL4L2:
+  ENSG_ID: [ENSG00000276070]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [9560.0]
+  OMIM_ID: ['610757']
+  UniProt_ID: [Q8NHW4]

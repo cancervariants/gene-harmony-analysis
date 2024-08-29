@@ -1,0 +1,15 @@
+collision_symbol: C10orf77
+CHTOP:
+  ENSG_ID: [ENSG00000160679]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [26097.0]
+  OMIM_ID: ['614206']
+  UniProt_ID: [Q9Y3Y2]
+MFSD13A:
+  ENSG_ID: [ENSG00000138111]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [79847.0]
+  OMIM_ID: ['620255']
+  UniProt_ID: [Q14CX5]

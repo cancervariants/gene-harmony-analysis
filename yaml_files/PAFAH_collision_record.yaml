@@ -1,0 +1,15 @@
+collision_symbol: PAFAH
+PAFAH1B1:
+  ENSG_ID: [ENSG00000007168]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [5048.0]
+  OMIM_ID: ['601545']
+  UniProt_ID: [P43034]
+PLA2G7:
+  ENSG_ID: [ENSG00000146070]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p12.3]
+  NCBI Gene ID: [7941.0]
+  OMIM_ID: ['601690']
+  UniProt_ID: [Q13093]

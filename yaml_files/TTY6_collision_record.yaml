@@ -1,0 +1,15 @@
+collision_symbol: TTY6
+TTTY6:
+  ENSG_ID: [ENSG00000131538]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [84672.0]
+  OMIM_ID: ['400039']
+  UniProt_ID: [.nan]
+TTTY6B:
+  ENSG_ID: [ENSG00000131548]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [441543.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

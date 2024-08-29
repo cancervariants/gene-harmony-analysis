@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139734
-  gene_symbol: DIAPH3
-- ensg_id: ENSG00000007372
-  gene_symbol: ' PAX6'
-- ensg_id: ENSG00000150636
-  gene_symbol: ' CCDC102B'
-collision_symbol: ' AN'

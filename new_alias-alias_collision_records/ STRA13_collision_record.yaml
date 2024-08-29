@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169689
-  gene_symbol: CENPX
-- ensg_id: ENSG00000134107
-  gene_symbol: ' BHLHE40'
-collision_symbol: ' STRA13'

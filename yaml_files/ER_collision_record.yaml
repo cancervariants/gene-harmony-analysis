@@ -1,0 +1,22 @@
+collision_symbol: ER
+EREG:
+  ENSG_ID: [ENSG00000124882]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [2069.0]
+  OMIM_ID: ['602061']
+  UniProt_ID: [O14944]
+ESR1:
+  ENSG_ID: [ENSG00000091831]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q25.1-q25.2]
+  NCBI Gene ID: [2099.0]
+  OMIM_ID: ['133430']
+  UniProt_ID: [P03372]
+PIEZO1:
+  ENSG_ID: [ENSG00000103335]
+  source: [NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [9780.0]
+  OMIM_ID: ['611184']
+  UniProt_ID: [Q92508]

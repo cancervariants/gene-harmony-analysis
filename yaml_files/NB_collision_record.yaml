@@ -1,0 +1,15 @@
+collision_symbol: NB
+NBL1:
+  ENSG_ID: [ENSG00000158747]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [4681.0]
+  OMIM_ID: ['600613']
+  UniProt_ID: [P41271]
+NME1:
+  ENSG_ID: [ENSG00000239672]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [4830.0]
+  OMIM_ID: ['156490']
+  UniProt_ID: [P15531]

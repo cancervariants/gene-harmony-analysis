@@ -1,0 +1,15 @@
+collision_symbol: hCGB
+CGB3:
+  ENSG_ID: [ENSG00000104827]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [1082.0]
+  OMIM_ID: ['118860']
+  UniProt_ID: [P0DN86]
+CGB5:
+  ENSG_ID: [ENSG00000189052]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [93659.0]
+  OMIM_ID: ['608825']
+  UniProt_ID: [P0DN86]

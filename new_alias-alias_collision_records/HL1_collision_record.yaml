@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000039139
-  gene_symbol: DNAH5
-- ensg_id: ENSG00000179914
-  gene_symbol: ' ITLN1'
-collision_symbol: HL1

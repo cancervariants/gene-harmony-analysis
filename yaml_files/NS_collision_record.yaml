@@ -1,0 +1,22 @@
+collision_symbol: NS
+GNL3:
+  ENSG_ID: [ENSG00000163938]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [26354.0]
+  OMIM_ID: ['608011']
+  UniProt_ID: [Q9BVP2]
+KRAS:
+  ENSG_ID: [ENSG00000133703]
+  source: [NCBI Info]
+  Chromosome: [12p12.1]
+  NCBI Gene ID: [3845.0]
+  OMIM_ID: ['190070']
+  UniProt_ID: [P01116]
+SPINK5:
+  ENSG_ID: [ENSG00000133710]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q32]
+  NCBI Gene ID: [11005.0]
+  OMIM_ID: ['605010']
+  UniProt_ID: [Q9NQ38]

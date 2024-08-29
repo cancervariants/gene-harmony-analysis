@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172216
-  gene_symbol: CEBPB
-- ensg_id: ENSG00000175183
-  gene_symbol: ' CSRP2'
-collision_symbol: ' CRP2'

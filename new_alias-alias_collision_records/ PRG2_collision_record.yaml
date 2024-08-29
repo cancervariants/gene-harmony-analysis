@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130508
-  gene_symbol: PXDN
-- ensg_id: ENSG00000129951
-  gene_symbol: ' PLPPR3'
-collision_symbol: ' PRG2'

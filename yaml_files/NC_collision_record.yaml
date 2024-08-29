@@ -1,0 +1,15 @@
+collision_symbol: NC
+CHN1:
+  ENSG_ID: [ENSG00000128656]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1123.0]
+  OMIM_ID: ['118423']
+  UniProt_ID: [P15882]
+NEK9:
+  ENSG_ID: [ENSG00000119638]
+  source: [NCBI Info]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [91754.0]
+  OMIM_ID: ['609798']
+  UniProt_ID: [Q8TD19]

@@ -1,0 +1,22 @@
+collision_symbol: AIS
+AR:
+  ENSG_ID: [ENSG00000169083]
+  source: [NCBI Info]
+  Chromosome: [Xq12]
+  NCBI Gene ID: [367.0]
+  OMIM_ID: ['313700']
+  UniProt_ID: [P10275]
+IS1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TP63:
+  ENSG_ID: [ENSG00000073282]
+  source: [NCBI Info]
+  Chromosome: [3q28]
+  NCBI Gene ID: [8626.0]
+  OMIM_ID: ['603273']
+  UniProt_ID: [Q9H3D4]

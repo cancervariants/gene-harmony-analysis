@@ -1,0 +1,15 @@
+collision_symbol: PAT1
+APPBP2:
+  ENSG_ID: [ENSG00000062725]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [10513.0]
+  OMIM_ID: ['605324']
+  UniProt_ID: [Q92624]
+SLC36A1:
+  ENSG_ID: [ENSG00000123643]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [206358.0]
+  OMIM_ID: ['606561']
+  UniProt_ID: [Q7Z2H8]

@@ -1,0 +1,22 @@
+collision_symbol: TLP
+CRIP3:
+  ENSG_ID: [ENSG00000146215]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [401262.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6Q6R5]
+TBPL1:
+  ENSG_ID: [ENSG00000028839]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [9519.0]
+  OMIM_ID: ['605521']
+  UniProt_ID: [P62380]
+VPS39:
+  ENSG_ID: [ENSG00000166887]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [23339.0]
+  OMIM_ID: ['612188']
+  UniProt_ID: [Q96JC1]

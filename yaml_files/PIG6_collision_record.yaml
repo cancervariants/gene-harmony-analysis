@@ -1,0 +1,15 @@
+collision_symbol: PIG6
+PRODH:
+  ENSG_ID: [ENSG00000100033]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [5625.0]
+  OMIM_ID: ['606810']
+  UniProt_ID: [O43272]
+SPAG9:
+  ENSG_ID: [ENSG00000008294]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [9043.0]
+  OMIM_ID: ['605430']
+  UniProt_ID: [O60271]

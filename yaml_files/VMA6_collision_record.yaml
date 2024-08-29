@@ -1,0 +1,15 @@
+collision_symbol: VMA6
+ATP6V0D1:
+  ENSG_ID: [ENSG00000159720]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [9114.0]
+  OMIM_ID: ['607028']
+  UniProt_ID: [P61421]
+ATP6V0D2:
+  ENSG_ID: [ENSG00000147614]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q21.3]
+  NCBI Gene ID: [245972.0]
+  OMIM_ID: ['618072']
+  UniProt_ID: [Q8N8Y2]

@@ -1,0 +1,15 @@
+collision_symbol: MCDR2
+AKR1C2:
+  ENSG_ID: [ENSG00000151632]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p15.1]
+  NCBI Gene ID: [1646.0]
+  OMIM_ID: ['600450']
+  UniProt_ID: [P52895]
+PROM1:
+  ENSG_ID: [ENSG00000007062]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4p15.32]
+  NCBI Gene ID: [8842.0]
+  OMIM_ID: ['604365']
+  UniProt_ID: [O43490]

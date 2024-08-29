@@ -1,0 +1,15 @@
+collision_symbol: ACHRD
+CHRNA1:
+  ENSG_ID: [ENSG00000138435]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1134.0]
+  OMIM_ID: ['100690']
+  UniProt_ID: [P02708]
+CHRND:
+  ENSG_ID: [ENSG00000135902]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [1144.0]
+  OMIM_ID: ['100720']
+  UniProt_ID: [Q07001]

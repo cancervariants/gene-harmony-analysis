@@ -1,0 +1,29 @@
+collision_symbol: p42
+CDK20:
+  ENSG_ID: [ENSG00000156345]
+  source: [HGNC]
+  Chromosome: [9q22.1]
+  NCBI Gene ID: [23552.0]
+  OMIM_ID: ['610076']
+  UniProt_ID: [Q8IZL9]
+H3P30:
+  ENSG_ID: [ENSG00000227443]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [115482700.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NUP43:
+  ENSG_ID: [ENSG00000120253]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [348995.0]
+  OMIM_ID: ['608141']
+  UniProt_ID: [Q8NFH3]
+PSMC6:
+  ENSG_ID: [ENSG00000100519]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [5706.0]
+  OMIM_ID: ['602708']
+  UniProt_ID: [P62333]

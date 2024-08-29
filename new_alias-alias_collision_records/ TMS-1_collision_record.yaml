@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103490
-  gene_symbol: PYCARD
-- ensg_id: ENSG00000132824
-  gene_symbol: ' SERINC3'
-collision_symbol: ' TMS-1'

@@ -1,0 +1,15 @@
+collision_symbol: PKB
+AKT1:
+  ENSG_ID: [ENSG00000142208]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [207.0]
+  OMIM_ID: ['164730']
+  UniProt_ID: [P31749]
+PTK2B:
+  ENSG_ID: [ENSG00000120899]
+  source: [NCBI Info]
+  Chromosome: [8p21.2]
+  NCBI Gene ID: [2185.0]
+  OMIM_ID: ['601212']
+  UniProt_ID: [Q14289]

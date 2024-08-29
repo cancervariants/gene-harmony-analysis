@@ -1,0 +1,15 @@
+collision_symbol: MTCO2
+COX2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MTCO2P12:
+  ENSG_ID: [ENSG00000229344]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [107075310.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

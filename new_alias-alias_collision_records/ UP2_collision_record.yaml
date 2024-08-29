@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000110375
-  gene_symbol: UPK2
-- ensg_id: ENSG00000007001
-  gene_symbol: ' UPP2'
-collision_symbol: ' UP2'

@@ -1,0 +1,22 @@
+collision_symbol: IGFR1
+FCGR1A:
+  ENSG_ID: [ENSG00000150337]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [2209.0]
+  OMIM_ID: ['146760']
+  UniProt_ID: [P12314]
+FCGR1BP:
+  ENSG_ID: [ENSG00000291135]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FCGR1CP:
+  ENSG_ID: [ENSG00000265531]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [100132417.0]
+  OMIM_ID: ['601503']
+  UniProt_ID: [.nan]

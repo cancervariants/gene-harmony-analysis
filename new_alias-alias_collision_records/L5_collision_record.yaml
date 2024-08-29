@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162456
-  gene_symbol: KNCN
-- ensg_id: ENSG00000166803
-  gene_symbol: ' PCLAF'
-- ensg_id: ENSG00000122406
-  gene_symbol: ' RPL5'
-collision_symbol: L5

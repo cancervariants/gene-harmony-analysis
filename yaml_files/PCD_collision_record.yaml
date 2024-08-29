@@ -1,0 +1,29 @@
+collision_symbol: PCD
+DNAAF3:
+  ENSG_ID: [ENSG00000167646]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [352909.0]
+  OMIM_ID: ['614566']
+  UniProt_ID: [Q8N9W5]
+DNAH5:
+  ENSG_ID: [ENSG00000039139]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5p15.2]
+  NCBI Gene ID: [1767.0]
+  OMIM_ID: ['603335']
+  UniProt_ID: [Q8TE73]
+DNAI1:
+  ENSG_ID: [ENSG00000122735]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [27019.0]
+  OMIM_ID: ['604366']
+  UniProt_ID: [Q9UI46]
+PCBD1:
+  ENSG_ID: [ENSG00000166228]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5092.0]
+  OMIM_ID: ['126090']
+  UniProt_ID: [P61457]

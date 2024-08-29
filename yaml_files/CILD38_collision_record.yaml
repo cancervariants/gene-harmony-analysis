@@ -1,0 +1,15 @@
+collision_symbol: CILD38
+CFAP300:
+  ENSG_ID: [ENSG00000137691]
+  source: [NCBI Info]
+  Chromosome: [11q22.1]
+  NCBI Gene ID: [85016.0]
+  OMIM_ID: ['618058']
+  UniProt_ID: [Q9BRQ4]
+SPZ1:
+  ENSG_ID: [ENSG00000164299]
+  source: [NCBI Info]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [84654.0]
+  OMIM_ID: ['618068']
+  UniProt_ID: [Q9BXG8]

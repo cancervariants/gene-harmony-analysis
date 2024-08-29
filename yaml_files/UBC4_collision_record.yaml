@@ -1,0 +1,15 @@
+collision_symbol: UBC4
+UBE2D2:
+  ENSG_ID: [ENSG00000131508]
+  source: [NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [7322.0]
+  OMIM_ID: ['602962']
+  UniProt_ID: [P62837]
+UBE2L1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q22.3]
+  NCBI Gene ID: [283556.0]
+  OMIM_ID: ['600012']
+  UniProt_ID: [.nan]

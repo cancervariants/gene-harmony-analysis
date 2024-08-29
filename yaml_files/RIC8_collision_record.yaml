@@ -1,0 +1,15 @@
+collision_symbol: RIC8
+RIC8A:
+  ENSG_ID: [ENSG00000177963]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [60626.0]
+  OMIM_ID: ['609146']
+  UniProt_ID: [Q9NPQ8]
+RIC8B:
+  ENSG_ID: [ENSG00000111785]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [55188.0]
+  OMIM_ID: ['609147']
+  UniProt_ID: [Q9NVN3]

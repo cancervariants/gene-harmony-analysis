@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156313
-  gene_symbol: RPGR
-- ensg_id: ENSG00000084764
-  gene_symbol: ' MAPRE3'
-collision_symbol: ' RP3'

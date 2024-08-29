@@ -1,0 +1,15 @@
+collision_symbol: HN3
+MTRNR2L3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PSMB4:
+  ENSG_ID: [ENSG00000159377]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [5692.0]
+  OMIM_ID: ['602177']
+  UniProt_ID: [P28070]

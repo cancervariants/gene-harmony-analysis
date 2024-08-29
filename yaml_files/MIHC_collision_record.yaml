@@ -1,0 +1,15 @@
+collision_symbol: MIHC
+BIRC3:
+  ENSG_ID: [ENSG00000023445]
+  source: [NCBI Info]
+  Chromosome: [11q22.2]
+  NCBI Gene ID: [330.0]
+  OMIM_ID: ['601721']
+  UniProt_ID: [Q13489]
+MYO1A:
+  ENSG_ID: [ENSG00000166866]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [4640.0]
+  OMIM_ID: ['601478']
+  UniProt_ID: [Q9UBC5]

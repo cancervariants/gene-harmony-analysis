@@ -1,0 +1,22 @@
+collision_symbol: RCP
+CRCP:
+  ENSG_ID: [ENSG00000241258]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q11.21]
+  NCBI Gene ID: [27297.0]
+  OMIM_ID: ['606121']
+  UniProt_ID: [O75575]
+OPN1LW:
+  ENSG_ID: [ENSG00000102076]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [5956.0]
+  OMIM_ID: ['300822']
+  UniProt_ID: [P04000]
+RAB11FIP1:
+  ENSG_ID: [ENSG00000156675]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8p11.23]
+  NCBI Gene ID: [80223.0]
+  OMIM_ID: ['608737']
+  UniProt_ID: [Q6WKZ4]

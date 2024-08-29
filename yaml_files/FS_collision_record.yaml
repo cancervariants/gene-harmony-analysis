@@ -1,0 +1,15 @@
+collision_symbol: FS
+FST:
+  ENSG_ID: [ENSG00000134363]
+  source: [NCBI Info]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [10468.0]
+  OMIM_ID: ['136470']
+  UniProt_ID: [P19883]
+GBGT1:
+  ENSG_ID: [ENSG00000148288]
+  source: [NCBI Info]
+  Chromosome: [9q34.2]
+  NCBI Gene ID: [26301.0]
+  OMIM_ID: ['606074']
+  UniProt_ID: [Q8N5D6]

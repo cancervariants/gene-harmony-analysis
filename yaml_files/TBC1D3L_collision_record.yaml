@@ -1,0 +1,15 @@
+collision_symbol: TBC1D3L
+TBC1D3:
+  ENSG_ID: [ENSG00000274611]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [729873.0]
+  OMIM_ID: ['607741']
+  UniProt_ID: [Q8IZP1]
+TBC1D3B:
+  ENSG_ID: [ENSG00000274808]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [414059.0]
+  OMIM_ID: ['610144']
+  UniProt_ID: [A6NDS4]

@@ -1,0 +1,29 @@
+collision_symbol: WBS
+CDKN1C:
+  ENSG_ID: [ENSG00000129757]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [1028.0]
+  OMIM_ID: ['600856']
+  UniProt_ID: [P49918]
+ELN:
+  ENSG_ID: [ENSG00000049540]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [2006.0]
+  OMIM_ID: ['130160']
+  UniProt_ID: [P15502]
+GTF2I:
+  ENSG_ID: [ENSG00000263001]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [2969.0]
+  OMIM_ID: ['601679']
+  UniProt_ID: [P78347]
+GTF2IRD1:
+  ENSG_ID: [ENSG00000006704]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [9569.0]
+  OMIM_ID: ['604318']
+  UniProt_ID: [Q9UHL9]

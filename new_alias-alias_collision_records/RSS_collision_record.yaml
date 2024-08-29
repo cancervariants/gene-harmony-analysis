@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162430
-  gene_symbol: SELENON
-- ensg_id: ENSG00000106070
-  gene_symbol: ' GRB10'
-collision_symbol: RSS

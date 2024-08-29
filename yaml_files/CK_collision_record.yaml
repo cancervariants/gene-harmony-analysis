@@ -1,0 +1,22 @@
+collision_symbol: CK
+CHKA:
+  ENSG_ID: [ENSG00000110721]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [1119.0]
+  OMIM_ID: ['118491']
+  UniProt_ID: [P35790]
+CHKB:
+  ENSG_ID: [ENSG00000100288]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [1120.0]
+  OMIM_ID: ['612395']
+  UniProt_ID: [Q9Y259]
+CMPK1:
+  ENSG_ID: [ENSG00000162368]
+  source: [NCBI Info]
+  Chromosome: [1p33]
+  NCBI Gene ID: [51727.0]
+  OMIM_ID: ['191710']
+  UniProt_ID: [P30085]

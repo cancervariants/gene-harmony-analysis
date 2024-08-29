@@ -1,0 +1,15 @@
+collision_symbol: KAP1.6
+KRTAP1-1:
+  ENSG_ID: [ENSG00000188581]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [81851.0]
+  OMIM_ID: ['608819']
+  UniProt_ID: [Q07627]
+KRTAP1-3:
+  ENSG_ID: [ENSG00000221880]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [81850.0]
+  OMIM_ID: ['608820']
+  UniProt_ID: [Q8IUG1]

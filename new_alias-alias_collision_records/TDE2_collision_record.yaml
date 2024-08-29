@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111897
-  gene_symbol: SERINC1
-- ensg_id: ENSG00000168528
-  gene_symbol: ' SERINC2'
-collision_symbol: TDE2

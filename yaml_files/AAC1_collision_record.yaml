@@ -1,0 +1,15 @@
+collision_symbol: AAC1
+NAT1:
+  ENSG_ID: [ENSG00000171428]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8p22]
+  NCBI Gene ID: [9.0]
+  OMIM_ID: ['108345']
+  UniProt_ID: [P18440]
+SLC25A4:
+  ENSG_ID: [ENSG00000151729]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [291.0]
+  OMIM_ID: ['103220']
+  UniProt_ID: [P12235]

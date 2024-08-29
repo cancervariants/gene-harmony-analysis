@@ -1,0 +1,15 @@
+collision_symbol: BD-4
+DEFB104A:
+  ENSG_ID: [ENSG00000176782]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [140596.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8WTQ1]
+DEFB104B:
+  ENSG_ID: [ENSG00000177023]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [503618.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8WTQ1]

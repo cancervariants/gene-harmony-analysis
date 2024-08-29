@@ -1,0 +1,15 @@
+collision_symbol: UBCH8
+UBE2E2:
+  ENSG_ID: [ENSG00000182247]
+  source: [NCBI Info]
+  Chromosome: [3p24.3]
+  NCBI Gene ID: [7325.0]
+  OMIM_ID: ['602163']
+  UniProt_ID: [Q96LR5]
+UBE2L6:
+  ENSG_ID: [ENSG00000156587]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [9246.0]
+  OMIM_ID: ['603890']
+  UniProt_ID: [O14933]

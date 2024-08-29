@@ -1,0 +1,15 @@
+collision_symbol: CUPID1
+LINC01488:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [11q13.3]
+  NCBI Gene ID: [101928292.0]
+  OMIM_ID: ['617696']
+  UniProt_ID: [.nan]
+LINC02747:
+  ENSG_ID: [ENSG00000255774]
+  source: [NCBI Info]
+  Chromosome: [11q13.3]
+  NCBI Gene ID: [105379407.0]
+  OMIM_ID: ['617697']
+  UniProt_ID: [.nan]

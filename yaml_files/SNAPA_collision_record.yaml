@@ -1,0 +1,15 @@
+collision_symbol: SNAPA
+NAPA:
+  ENSG_ID: [ENSG00000105402]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [8775.0]
+  OMIM_ID: ['603215']
+  UniProt_ID: [P54920]
+NAPSA:
+  ENSG_ID: [ENSG00000131400]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [9476.0]
+  OMIM_ID: ['605631']
+  UniProt_ID: [O96009]

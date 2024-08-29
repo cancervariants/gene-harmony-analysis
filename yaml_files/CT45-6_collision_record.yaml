@@ -1,0 +1,22 @@
+collision_symbol: CT45-6
+CT45A5:
+  ENSG_ID: [ENSG00000228836]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [441521.0]
+  OMIM_ID: ['300796']
+  UniProt_ID: [P0DMU8]
+CT45A6:
+  ENSG_ID: [ENSG00000278289]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [541465.0]
+  OMIM_ID: ['300797']
+  UniProt_ID: [P0DMU7]
+CT45A7:
+  ENSG_ID: [ENSG00000273696]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [101060211.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMV0]

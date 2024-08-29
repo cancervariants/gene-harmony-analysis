@@ -1,0 +1,15 @@
+collision_symbol: CMT2A
+KIF1B:
+  ENSG_ID: [ENSG00000054523]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [23095.0]
+  OMIM_ID: ['605995']
+  UniProt_ID: [O60333]
+MFN2:
+  ENSG_ID: [ENSG00000116688]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [9927.0]
+  OMIM_ID: ['608507']
+  UniProt_ID: [O95140]

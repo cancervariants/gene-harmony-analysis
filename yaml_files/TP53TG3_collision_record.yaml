@@ -1,0 +1,43 @@
+collision_symbol: TP53TG3
+LOC102723655:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LOC102723713:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TP53TG3C:
+  ENSG_ID: [ENSG00000205457]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [653550.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9ULZ0]
+TP53TG3D:
+  ENSG_ID: [ENSG00000205456]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [729264.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9ULZ0]
+TP53TG3E:
+  ENSG_ID: [ENSG00000275034]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [102724101.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9ULZ0]
+TP53TG3F:
+  ENSG_ID: [ENSG00000278848]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [102724127.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9ULZ0]

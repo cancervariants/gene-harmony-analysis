@@ -1,0 +1,15 @@
+collision_symbol: APRO5
+TOB1:
+  ENSG_ID: [ENSG00000141232]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [10140.0]
+  OMIM_ID: ['605523']
+  UniProt_ID: [P50616]
+TOB2:
+  ENSG_ID: [ENSG00000183864]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [10766.0]
+  OMIM_ID: ['607396']
+  UniProt_ID: [Q14106]

@@ -1,0 +1,15 @@
+collision_symbol: TTMA
+TMEM200A:
+  ENSG_ID: [ENSG00000164484]
+  source: [NCBI Info]
+  Chromosome: [6q23.1]
+  NCBI Gene ID: [114801.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q86VY9]
+TMEM200C:
+  ENSG_ID: [ENSG00000206432]
+  source: [NCBI Info]
+  Chromosome: [18p11.31]
+  NCBI Gene ID: [645369.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A6NKL6]

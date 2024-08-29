@@ -1,0 +1,22 @@
+collision_symbol: ATP-PFK
+PFKL:
+  ENSG_ID: [ENSG00000141959]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [5211.0]
+  OMIM_ID: ['171860']
+  UniProt_ID: [P17858]
+PFKM:
+  ENSG_ID: [ENSG00000152556]
+  source: [NCBI Info]
+  Chromosome: [12q13.11]
+  NCBI Gene ID: [5213.0]
+  OMIM_ID: ['610681']
+  UniProt_ID: [P08237]
+PFKP:
+  ENSG_ID: [ENSG00000067057]
+  source: [NCBI Info]
+  Chromosome: [10p15.2]
+  NCBI Gene ID: [5214.0]
+  OMIM_ID: ['171840']
+  UniProt_ID: [Q01813]

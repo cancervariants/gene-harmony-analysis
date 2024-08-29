@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158055
-  gene_symbol: GRHL3
-- ensg_id: ENSG00000243710
-  gene_symbol: ' CFAP57'
-collision_symbol: VWS2

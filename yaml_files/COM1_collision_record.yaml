@@ -1,0 +1,15 @@
+collision_symbol: COM1
+NUPR1:
+  ENSG_ID: [ENSG00000176046]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [26471.0]
+  OMIM_ID: ['614812']
+  UniProt_ID: [O60356]
+RBBP8:
+  ENSG_ID: [ENSG00000101773]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [5932.0]
+  OMIM_ID: ['604124']
+  UniProt_ID: [Q99708]

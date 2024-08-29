@@ -1,0 +1,15 @@
+collision_symbol: NOC4
+EMC8:
+  ENSG_ID: [ENSG00000131148]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q24.1]
+  NCBI Gene ID: [10328.0]
+  OMIM_ID: ['604886']
+  UniProt_ID: [O43402]
+NOC4L:
+  ENSG_ID: [ENSG00000184967]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.33]
+  NCBI Gene ID: [79050.0]
+  OMIM_ID: ['612819']
+  UniProt_ID: [Q9BVI4]

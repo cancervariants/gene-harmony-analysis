@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000272968
-  gene_symbol: RBAK-RBAKDN
-- ensg_id: ENSG00000146587
-  gene_symbol: ' RBAK'
-collision_symbol: ZNF769

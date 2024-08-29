@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000267607
-  gene_symbol: ICAM4-AS1
-- ensg_id: ENSG00000284395
-  gene_symbol: ' PERCC1'
-collision_symbol: ICR

@@ -1,0 +1,15 @@
+collision_symbol: BCD1
+KLF6:
+  ENSG_ID: [ENSG00000067082]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p15.2]
+  NCBI Gene ID: [1316.0]
+  OMIM_ID: ['602053']
+  UniProt_ID: [Q99612]
+ZNHIT6:
+  ENSG_ID: [ENSG00000117174]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p22.3]
+  NCBI Gene ID: [54680.0]
+  OMIM_ID: ['620473']
+  UniProt_ID: [Q9NWK9]

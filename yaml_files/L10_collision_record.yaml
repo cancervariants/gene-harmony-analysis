@@ -1,0 +1,15 @@
+collision_symbol: L10
+IGKV3-7:
+  ENSG_ID: [ENSG00000243063]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28915.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B6H7]
+RPL10:
+  ENSG_ID: [ENSG00000147403]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [6134.0]
+  OMIM_ID: ['312173']
+  UniProt_ID: [P27635]

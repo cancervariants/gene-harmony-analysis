@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000008710
-  gene_symbol: PKD1
-- ensg_id: ENSG00000197594
-  gene_symbol: ' ENPP1'
-collision_symbol: ' PC-1'

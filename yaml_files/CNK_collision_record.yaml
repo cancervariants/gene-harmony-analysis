@@ -1,0 +1,15 @@
+collision_symbol: CNK
+CNKSR1:
+  ENSG_ID: [ENSG00000142675]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [10256.0]
+  OMIM_ID: ['603272']
+  UniProt_ID: [Q969H4]
+PLK3:
+  ENSG_ID: [ENSG00000173846]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [1263.0]
+  OMIM_ID: ['602913']
+  UniProt_ID: [Q9H4B4]

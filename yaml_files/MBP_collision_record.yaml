@@ -1,0 +1,15 @@
+collision_symbol: MBP
+MBL2:
+  ENSG_ID: [ENSG00000165471]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [4153.0]
+  OMIM_ID: ['154545']
+  UniProt_ID: [P11226]
+PRG2:
+  ENSG_ID: [ENSG00000186652]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [5553.0]
+  OMIM_ID: ['605601']
+  UniProt_ID: [P13727]

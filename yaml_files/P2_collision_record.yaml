@@ -1,0 +1,15 @@
+collision_symbol: P2
+PMP2:
+  ENSG_ID: [ENSG00000147588]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [5375.0]
+  OMIM_ID: ['170715']
+  UniProt_ID: [P02689]
+RPLP2:
+  ENSG_ID: [ENSG00000177600]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [6181.0]
+  OMIM_ID: ['180530']
+  UniProt_ID: [P05387]

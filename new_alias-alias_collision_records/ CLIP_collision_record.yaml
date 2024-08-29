@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130779
-  gene_symbol: CLIP1
-- ensg_id: ENSG00000106665
-  gene_symbol: ' CLIP2'
-- ensg_id: ENSG00000115138
-  gene_symbol: ' POMC'
-collision_symbol: ' CLIP'

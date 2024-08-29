@@ -1,0 +1,15 @@
+collision_symbol: SMRP
+ABCC5:
+  ENSG_ID: [ENSG00000114770]
+  source: [NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [10057.0]
+  OMIM_ID: ['605251']
+  UniProt_ID: [O15440]
+MSLN:
+  ENSG_ID: [ENSG00000102854]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [10232.0]
+  OMIM_ID: ['601051']
+  UniProt_ID: [Q13421]

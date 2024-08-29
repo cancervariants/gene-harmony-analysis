@@ -1,0 +1,15 @@
+collision_symbol: LRP9
+LRP10:
+  ENSG_ID: [ENSG00000197324]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [26020.0]
+  OMIM_ID: ['609921']
+  UniProt_ID: [Q7Z4F1]
+SORL1:
+  ENSG_ID: [ENSG00000137642]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q24.1]
+  NCBI Gene ID: [6653.0]
+  OMIM_ID: ['602005']
+  UniProt_ID: [Q92673]

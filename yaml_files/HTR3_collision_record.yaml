@@ -1,0 +1,15 @@
+collision_symbol: HTR3
+CCT6A:
+  ENSG_ID: [ENSG00000146731]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p11.2]
+  NCBI Gene ID: [908.0]
+  OMIM_ID: ['104613']
+  UniProt_ID: [P40227]
+HTR3A:
+  ENSG_ID: [ENSG00000166736]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q23.2]
+  NCBI Gene ID: [3359.0]
+  OMIM_ID: ['182139']
+  UniProt_ID: [P46098]

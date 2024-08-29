@@ -1,0 +1,15 @@
+collision_symbol: OR17-24
+OR3A4P:
+  ENSG_ID: [ENSG00000290820]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR4D2:
+  ENSG_ID: [ENSG00000255713]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [124538.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P58180]

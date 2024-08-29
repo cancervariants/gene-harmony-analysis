@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115840
-  gene_symbol: SLC25A12
-- ensg_id: ENSG00000157766
-  gene_symbol: ' ACAN'
-collision_symbol: AGC1

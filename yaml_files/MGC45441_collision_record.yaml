@@ -1,0 +1,15 @@
+collision_symbol: MGC45441
+CCDC24:
+  ENSG_ID: [ENSG00000159214]
+  source: [HGNC]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [149473.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8N4L8]
+SVBP:
+  ENSG_ID: [ENSG00000177868]
+  source: [HGNC]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [374969.0]
+  OMIM_ID: ['617853']
+  UniProt_ID: [Q8N300]

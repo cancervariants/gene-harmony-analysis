@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000038945
-  gene_symbol: MSR1
-- ensg_id: ENSG00000213523
-  gene_symbol: ' SRA1'
-- ensg_id: ENSG00000113108
-  gene_symbol: ' APBB3'
-collision_symbol: SRA

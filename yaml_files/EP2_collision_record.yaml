@@ -1,0 +1,15 @@
+collision_symbol: EP2
+PTGER2:
+  ENSG_ID: [ENSG00000125384]
+  source: [NCBI Info]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [5732.0]
+  OMIM_ID: ['176804']
+  UniProt_ID: [P43116]
+SPAG11B:
+  ENSG_ID: [ENSG00000164871]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [10407.0]
+  OMIM_ID: ['606560']
+  UniProt_ID: [Q08648]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115526
-  gene_symbol: CHST10
-- ensg_id: ENSG00000169105
-  gene_symbol: ' CHST14'
-collision_symbol: HNK1ST

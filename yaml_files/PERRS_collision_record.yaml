@@ -1,0 +1,15 @@
+collision_symbol: PERRS
+RGS9:
+  ENSG_ID: [ENSG00000108370]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q24.1]
+  NCBI Gene ID: [8787.0]
+  OMIM_ID: ['604067']
+  UniProt_ID: [O75916]
+RGS9BP:
+  ENSG_ID: [ENSG00000186326]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.11]
+  NCBI Gene ID: [388531.0]
+  OMIM_ID: ['607814']
+  UniProt_ID: [Q6ZS82]

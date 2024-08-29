@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000147601
-  gene_symbol: TERF1
-- ensg_id: ENSG00000113525
-  gene_symbol: ' IL5'
-- ensg_id: ENSG00000170893
-  gene_symbol: ' TRH'
-collision_symbol: TRF

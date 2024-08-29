@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000121481
-  gene_symbol: RNF2
-- ensg_id: ENSG00000112474
-  gene_symbol: ' HSD17B8'
-collision_symbol: ' RING2'

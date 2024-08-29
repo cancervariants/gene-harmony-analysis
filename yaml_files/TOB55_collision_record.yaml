@@ -1,0 +1,15 @@
+collision_symbol: TOB55
+BTG3:
+  ENSG_ID: [ENSG00000154640]
+  source: [NCBI Info, ENSG]
+  Chromosome: [21q21.1]
+  NCBI Gene ID: [10950.0]
+  OMIM_ID: ['605674']
+  UniProt_ID: [Q14201]
+SAMM50:
+  ENSG_ID: [ENSG00000100347]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q13.31]
+  NCBI Gene ID: [25813.0]
+  OMIM_ID: ['612058']
+  UniProt_ID: [Q9Y512]

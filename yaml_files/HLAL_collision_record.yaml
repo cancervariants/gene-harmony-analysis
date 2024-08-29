@@ -1,0 +1,15 @@
+collision_symbol: HLAL
+HLA-L:
+  ENSG_ID: [ENSG00000291097, ENSG00000239618]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LIPF:
+  ENSG_ID: [ENSG00000182333]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.31]
+  NCBI Gene ID: [8513.0]
+  OMIM_ID: ['601980']
+  UniProt_ID: [P07098]

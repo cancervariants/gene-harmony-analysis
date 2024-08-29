@@ -1,0 +1,15 @@
+collision_symbol: ECGP
+GPATCH1:
+  ENSG_ID: [ENSG00000076650]
+  source: [NCBI Info]
+  Chromosome: [19q13.11]
+  NCBI Gene ID: [55094.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9BRR8]
+HSP90B1:
+  ENSG_ID: [ENSG00000166598]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [7184.0]
+  OMIM_ID: ['191175']
+  UniProt_ID: [P14625]

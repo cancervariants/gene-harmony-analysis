@@ -1,0 +1,15 @@
+collision_symbol: U1P2A
+RNVU1-2:
+  ENSG_ID: [ENSG00000238825]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [26860.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNVU1-2A:
+  ENSG_ID: [ENSG00000278099]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [6063.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

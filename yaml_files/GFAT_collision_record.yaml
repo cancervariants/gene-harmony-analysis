@@ -1,0 +1,15 @@
+collision_symbol: GFAT
+GFPT1:
+  ENSG_ID: [ENSG00000198380]
+  source: [NCBI Info]
+  Chromosome: [2p13.3]
+  NCBI Gene ID: [2673.0]
+  OMIM_ID: ['138292']
+  UniProt_ID: [Q06210]
+GFPT2:
+  ENSG_ID: [ENSG00000131459]
+  source: [NCBI Info]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [9945.0]
+  OMIM_ID: ['603865']
+  UniProt_ID: [O94808]

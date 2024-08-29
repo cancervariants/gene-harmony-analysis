@@ -1,0 +1,15 @@
+collision_symbol: FB
+CFB:
+  ENSG_ID: [ENSG00000243649]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [629.0]
+  OMIM_ID: ['138470']
+  UniProt_ID: [P00751]
+DMAC2L:
+  ENSG_ID: [ENSG00000125375]
+  source: [NCBI Info]
+  Chromosome: [14q21.3]
+  NCBI Gene ID: [27109.0]
+  OMIM_ID: ['618579']
+  UniProt_ID: [Q99766]

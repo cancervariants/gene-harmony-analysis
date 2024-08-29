@@ -1,0 +1,22 @@
+collision_symbol: TIG1
+GPRC5A:
+  ENSG_ID: [ENSG00000013588]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p13.1]
+  NCBI Gene ID: [9052.0]
+  OMIM_ID: ['604138']
+  UniProt_ID: [Q8NFJ5]
+MED15:
+  ENSG_ID: [ENSG00000099917]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [51586.0]
+  OMIM_ID: ['607372']
+  UniProt_ID: [Q96RN5]
+RARRES1:
+  ENSG_ID: [ENSG00000118849]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q25.32]
+  NCBI Gene ID: [5918.0]
+  OMIM_ID: ['605090']
+  UniProt_ID: [P49788]

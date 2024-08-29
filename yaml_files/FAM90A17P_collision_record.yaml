@@ -1,0 +1,15 @@
+collision_symbol: FAM90A17P
+FAM90A16:
+  ENSG_ID: [ENSG00000285620]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [441323.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DV73]
+FAM90A17:
+  ENSG_ID: [ENSG00000285720]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [728746.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DV74]

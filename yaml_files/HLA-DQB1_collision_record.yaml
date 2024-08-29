@@ -1,0 +1,22 @@
+collision_symbol: HLA-DQB1
+GNAO1:
+  ENSG_ID: [ENSG00000087258]
+  source: [NCBI Info]
+  Chromosome: [16q13]
+  NCBI Gene ID: [2775.0]
+  OMIM_ID: ['139311']
+  UniProt_ID: [P09471]
+HLA-DQA1:
+  ENSG_ID: [ENSG00000196735]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [3117.0]
+  OMIM_ID: ['146880']
+  UniProt_ID: [P01909]
+HLA-DQB2:
+  ENSG_ID: [ENSG00000232629]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [3120.0]
+  OMIM_ID: ['615161']
+  UniProt_ID: [P05538]

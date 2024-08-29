@@ -1,0 +1,15 @@
+collision_symbol: CARDINAL
+CARD8:
+  ENSG_ID: [ENSG00000105483]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [22900.0]
+  OMIM_ID: ['609051']
+  UniProt_ID: [Q9Y2G2]
+LINC00670:
+  ENSG_ID: [ENSG00000179136]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p12]
+  NCBI Gene ID: [284034.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

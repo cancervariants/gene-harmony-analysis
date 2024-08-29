@@ -1,0 +1,15 @@
+collision_symbol: PHS
+GLI3:
+  ENSG_ID: [ENSG00000106571]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [2737.0]
+  OMIM_ID: ['165240']
+  UniProt_ID: [P10071]
+PCBD1:
+  ENSG_ID: [ENSG00000166228]
+  source: [NCBI Info]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5092.0]
+  OMIM_ID: ['126090']
+  UniProt_ID: [P61457]

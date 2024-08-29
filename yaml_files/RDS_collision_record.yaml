@@ -1,0 +1,15 @@
+collision_symbol: RDS
+PRPH2:
+  ENSG_ID: [ENSG00000112619]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [5961.0]
+  OMIM_ID: ['179605']
+  UniProt_ID: [P23942]
+TST:
+  ENSG_ID: [ENSG00000128311]
+  source: [NCBI Info]
+  Chromosome: [22q12.3]
+  NCBI Gene ID: [7263.0]
+  OMIM_ID: ['180370']
+  UniProt_ID: [Q16762]

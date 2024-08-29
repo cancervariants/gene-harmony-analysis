@@ -1,0 +1,15 @@
+collision_symbol: PABP1
+PABPC1:
+  ENSG_ID: [ENSG00000070756]
+  source: [HGNC, NCBI Info]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [26986.0]
+  OMIM_ID: ['604679']
+  UniProt_ID: [P11940]
+PABPC1P1:
+  ENSG_ID: [ENSG00000231707, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [4p14, .nan]
+  NCBI Gene ID: [26980.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

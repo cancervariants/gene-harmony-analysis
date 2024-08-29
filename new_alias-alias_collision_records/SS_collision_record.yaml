@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000079459
-  gene_symbol: FDFT1
-- ensg_id: ENSG00000292354
-  gene_symbol: ' SHOX'
-- ensg_id: ENSG00000250361
-  gene_symbol: ' GYPB'
-collision_symbol: SS

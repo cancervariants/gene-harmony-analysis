@@ -1,0 +1,15 @@
+collision_symbol: MT1K
+MT1G:
+  ENSG_ID: [ENSG00000125144]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q13]
+  NCBI Gene ID: [4495.0]
+  OMIM_ID: ['156353']
+  UniProt_ID: [P13640]
+MT1M:
+  ENSG_ID: [ENSG00000205364]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q13]
+  NCBI Gene ID: [4499.0]
+  OMIM_ID: ['156357']
+  UniProt_ID: [Q8N339]

@@ -1,0 +1,15 @@
+collision_symbol: P0
+MPZ:
+  ENSG_ID: [ENSG00000158887]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [4359.0]
+  OMIM_ID: ['159440']
+  UniProt_ID: [P25189]
+RPLP0:
+  ENSG_ID: [ENSG00000089157]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.23]
+  NCBI Gene ID: [6175.0]
+  OMIM_ID: ['180510']
+  UniProt_ID: [P05388]

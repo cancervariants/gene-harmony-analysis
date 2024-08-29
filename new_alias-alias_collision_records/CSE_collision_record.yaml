@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116761
-  gene_symbol: CTH
-- ensg_id: ENSG00000117394
-  gene_symbol: ' SLC2A1'
-collision_symbol: CSE

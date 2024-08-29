@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138413
-  gene_symbol: IDH1
-- ensg_id: ENSG00000182054
-  gene_symbol: ' IDH2'
-collision_symbol: IDH

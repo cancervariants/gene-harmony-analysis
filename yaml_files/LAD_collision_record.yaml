@@ -1,0 +1,15 @@
+collision_symbol: LAD
+DLD:
+  ENSG_ID: [ENSG00000091140]
+  source: [NCBI Info]
+  Chromosome: [7q31.1]
+  NCBI Gene ID: [1738.0]
+  OMIM_ID: ['238331']
+  UniProt_ID: [P09622]
+ITGB2:
+  ENSG_ID: [ENSG00000160255]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [3689.0]
+  OMIM_ID: ['600065']
+  UniProt_ID: [P05107]

@@ -1,0 +1,15 @@
+collision_symbol: SD
+RANGAP1:
+  ENSG_ID: [ENSG00000100401]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [5905.0]
+  OMIM_ID: ['602362']
+  UniProt_ID: [P46060]
+SLC17A5:
+  ENSG_ID: [ENSG00000119899]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q13]
+  NCBI Gene ID: [26503.0]
+  OMIM_ID: ['604322']
+  UniProt_ID: [Q9NRA2]

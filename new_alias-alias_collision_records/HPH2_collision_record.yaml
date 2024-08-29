@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135766
-  gene_symbol: EGLN1
-- ensg_id: ENSG00000134686
-  gene_symbol: ' PHC2'
-collision_symbol: HPH2

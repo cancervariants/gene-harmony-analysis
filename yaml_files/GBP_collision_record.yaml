@@ -1,0 +1,29 @@
+collision_symbol: GBP
+HADHA:
+  ENSG_ID: [ENSG00000084754]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [3030.0]
+  OMIM_ID: ['600890']
+  UniProt_ID: [P40939]
+LGALS1:
+  ENSG_ID: [ENSG00000100097]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [3956.0]
+  OMIM_ID: ['150570']
+  UniProt_ID: [P09382]
+PIAS1:
+  ENSG_ID: [ENSG00000033800]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q23]
+  NCBI Gene ID: [8554.0]
+  OMIM_ID: ['603566']
+  UniProt_ID: [O75925]
+TMEM132A:
+  ENSG_ID: [ENSG00000006118]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [54972.0]
+  OMIM_ID: ['617363']
+  UniProt_ID: [Q24JP5]

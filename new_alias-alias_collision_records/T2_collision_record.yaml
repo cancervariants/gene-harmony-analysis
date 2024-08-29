@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000075239
-  gene_symbol: ACAT1
-- ensg_id: ENSG00000005022
-  gene_symbol: ' SLC25A5'
-collision_symbol: T2

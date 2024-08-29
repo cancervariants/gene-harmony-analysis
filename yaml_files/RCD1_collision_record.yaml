@@ -1,0 +1,15 @@
+collision_symbol: RCD1
+CNOT9:
+  ENSG_ID: [ENSG00000144580]
+  source: [ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [9125.0]
+  OMIM_ID: ['612054']
+  UniProt_ID: [Q92600]
+KANSL3:
+  ENSG_ID: [ENSG00000114982]
+  source: [ENSG]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [55683.0]
+  OMIM_ID: ['617742']
+  UniProt_ID: [Q9P2N6]

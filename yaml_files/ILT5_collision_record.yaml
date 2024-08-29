@@ -1,0 +1,15 @@
+collision_symbol: ILT5
+LILRA6:
+  ENSG_ID: [ENSG00000244482]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [79168.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6PI73]
+LILRB3:
+  ENSG_ID: [ENSG00000204577]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [11025.0]
+  OMIM_ID: ['604820']
+  UniProt_ID: [O75022]

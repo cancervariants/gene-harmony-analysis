@@ -1,0 +1,15 @@
+collision_symbol: LOXL
+LOXL1:
+  ENSG_ID: [ENSG00000129038]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [4016.0]
+  OMIM_ID: ['153456']
+  UniProt_ID: [Q08397]
+LOXL3:
+  ENSG_ID: [ENSG00000115318]
+  source: [NCBI Info]
+  Chromosome: [2p13.1]
+  NCBI Gene ID: [84695.0]
+  OMIM_ID: ['607163']
+  UniProt_ID: [P58215]

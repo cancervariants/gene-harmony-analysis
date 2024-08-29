@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171368
-  gene_symbol: TPPP
-- ensg_id: ENSG00000166847
-  gene_symbol: ' DCTN5'
-collision_symbol: ' p25'

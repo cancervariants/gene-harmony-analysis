@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000010282
-  gene_symbol: HHATL
-- ensg_id: ENSG00000263155
-  gene_symbol: ' MYZAP'
-collision_symbol: ' GUP1'

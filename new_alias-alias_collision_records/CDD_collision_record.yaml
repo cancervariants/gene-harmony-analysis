@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167941
-  gene_symbol: SOST
-- ensg_id: ENSG00000175206
-  gene_symbol: ' NPPA'
-- ensg_id: ENSG00000158825
-  gene_symbol: ' CDA'
-collision_symbol: CDD

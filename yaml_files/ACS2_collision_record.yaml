@@ -1,0 +1,15 @@
+collision_symbol: ACS2
+ACSL5:
+  ENSG_ID: [ENSG00000197142]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q25.2]
+  NCBI Gene ID: [51703.0]
+  OMIM_ID: ['605677']
+  UniProt_ID: [Q9ULC5]
+ACSL6:
+  ENSG_ID: [ENSG00000164398]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [23305.0]
+  OMIM_ID: ['604443']
+  UniProt_ID: [Q9UKU0]

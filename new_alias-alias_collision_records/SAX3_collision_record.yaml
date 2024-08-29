@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169855
-  gene_symbol: ROBO1
-- ensg_id: ENSG00000185008
-  gene_symbol: ' ROBO2'
-collision_symbol: SAX3

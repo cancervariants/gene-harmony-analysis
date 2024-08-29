@@ -1,0 +1,15 @@
+collision_symbol: RT6
+ART1:
+  ENSG_ID: [ENSG00000129744]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [417.0]
+  OMIM_ID: ['601625']
+  UniProt_ID: [P52961]
+ART2P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

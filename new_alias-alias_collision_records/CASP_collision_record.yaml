@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170275
-  gene_symbol: CRTAP
-- ensg_id: ENSG00000257923
-  gene_symbol: ' CUX1'
-collision_symbol: CASP

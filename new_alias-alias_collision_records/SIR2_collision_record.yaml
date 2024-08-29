@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000096717
-  gene_symbol: SIRT1
-- ensg_id: ENSG00000068903
-  gene_symbol: ' SIRT2'
-collision_symbol: SIR2

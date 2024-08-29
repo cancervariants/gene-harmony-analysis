@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117450
-  gene_symbol: PRDX1
-- ensg_id: NAN
-  gene_symbol: ' PRDX1P1'
-collision_symbol: TDPX2

@@ -1,0 +1,15 @@
+collision_symbol: MIF2
+CENPC:
+  ENSG_ID: [ENSG00000145241]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q13.2]
+  NCBI Gene ID: [1060.0]
+  OMIM_ID: ['117141']
+  UniProt_ID: [Q03188]
+DDT:
+  ENSG_ID: [ENSG00000099977]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [1652.0]
+  OMIM_ID: ['602750']
+  UniProt_ID: [P30046]

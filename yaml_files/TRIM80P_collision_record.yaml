@@ -1,0 +1,15 @@
+collision_symbol: TRIM80P
+TRIM53AP:
+  ENSG_ID: [ENSG00000225581]
+  source: [NCBI Info]
+  Chromosome: [11q14.3]
+  NCBI Gene ID: [642569.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRIM53BP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

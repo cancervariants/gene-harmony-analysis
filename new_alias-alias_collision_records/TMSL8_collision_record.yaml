@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158427
-  gene_symbol: TMSB15B
-- ensg_id: ENSG00000158164
-  gene_symbol: ' TMSB15A'
-collision_symbol: TMSL8

@@ -1,0 +1,15 @@
+collision_symbol: C53
+CDK5RAP3:
+  ENSG_ID: [ENSG00000108465]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q21.32]
+  NCBI Gene ID: [80279.0]
+  OMIM_ID: ['608202']
+  UniProt_ID: [Q96JB5]
+POLR3D:
+  ENSG_ID: [ENSG00000168495]
+  source: [HGNC, NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [661.0]
+  OMIM_ID: ['187280']
+  UniProt_ID: [P05423]

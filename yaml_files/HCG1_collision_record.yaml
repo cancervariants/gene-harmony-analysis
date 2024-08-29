@@ -1,0 +1,15 @@
+collision_symbol: HCG1
+NUP42:
+  ENSG_ID: [ENSG00000136243]
+  source: [ENSG]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [11097.0]
+  OMIM_ID: ['619998']
+  UniProt_ID: [O15504]
+TRIM31:
+  ENSG_ID: [ENSG00000137397]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

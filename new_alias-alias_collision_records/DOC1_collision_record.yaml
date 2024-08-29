@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164162
-  gene_symbol: ANAPC10
-- ensg_id: ENSG00000168386
-  gene_symbol: ' FILIP1L'
-- ensg_id: ENSG00000111328
-  gene_symbol: ' CDK2AP1'
-collision_symbol: DOC1

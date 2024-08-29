@@ -1,0 +1,15 @@
+collision_symbol: DIM1
+DIMT1:
+  ENSG_ID: [ENSG00000086189]
+  source: [NCBI Info]
+  Chromosome: [5q12.1]
+  NCBI Gene ID: [27292.0]
+  OMIM_ID: ['612499']
+  UniProt_ID: [Q9UNQ2]
+TXNL4A:
+  ENSG_ID: [ENSG00000141759]
+  source: [NCBI Info]
+  Chromosome: [18q23]
+  NCBI Gene ID: [10907.0]
+  OMIM_ID: ['611595']
+  UniProt_ID: [P83876]

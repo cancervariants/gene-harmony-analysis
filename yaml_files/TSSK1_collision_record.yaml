@@ -1,0 +1,15 @@
+collision_symbol: TSSK1
+TSSK1A:
+  ENSG_ID: [.nan, ENSG00000231086]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 22q11.21]
+  NCBI Gene ID: [.nan, 23752.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TSSK1B:
+  ENSG_ID: [ENSG00000212122]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q22.2]
+  NCBI Gene ID: [83942.0]
+  OMIM_ID: ['610709']
+  UniProt_ID: [Q9BXA7]

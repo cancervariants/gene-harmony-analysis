@@ -1,0 +1,15 @@
+collision_symbol: L23
+IGKV1D-43:
+  ENSG_ID: [ENSG00000242580]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28891.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J1Z2]
+RPL23:
+  ENSG_ID: [ENSG00000125691]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [9349.0]
+  OMIM_ID: ['603662']
+  UniProt_ID: [P62829]

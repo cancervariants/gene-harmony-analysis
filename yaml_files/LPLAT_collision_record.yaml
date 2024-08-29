@@ -1,0 +1,15 @@
+collision_symbol: LPLAT
+MBOAT1:
+  ENSG_ID: [ENSG00000172197]
+  source: [NCBI Info]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [154141.0]
+  OMIM_ID: ['611732']
+  UniProt_ID: [Q6ZNC8]
+MBOAT7:
+  ENSG_ID: [ENSG00000125505]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [79143.0]
+  OMIM_ID: ['606048']
+  UniProt_ID: [Q96N66]

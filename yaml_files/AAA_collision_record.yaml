@@ -1,0 +1,22 @@
+collision_symbol: AAA
+AAA1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+AAAS:
+  ENSG_ID: [ENSG00000094914]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [8086.0]
+  OMIM_ID: ['605378']
+  UniProt_ID: [Q9NRG9]
+APP:
+  ENSG_ID: [ENSG00000142192]
+  source: [NCBI Info]
+  Chromosome: [21q21.3]
+  NCBI Gene ID: [351.0]
+  OMIM_ID: ['104760']
+  UniProt_ID: [P05067]

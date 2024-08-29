@@ -1,0 +1,15 @@
+collision_symbol: VIP21
+CAV1:
+  ENSG_ID: [ENSG00000105974]
+  source: [NCBI Info]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [857.0]
+  OMIM_ID: ['601047']
+  UniProt_ID: [Q03135]
+CAV3:
+  ENSG_ID: [ENSG00000182533]
+  source: [NCBI Info]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [859.0]
+  OMIM_ID: ['601253']
+  UniProt_ID: [P56539]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000081237
-  gene_symbol: PTPRC
-- ensg_id: ENSG00000108582
-  gene_symbol: ' CPD'
-collision_symbol: GP180

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111358
-  gene_symbol: GTF2H3
-- ensg_id: ENSG00000103591
-  gene_symbol: ' AAGAB'
-- ensg_id: ENSG00000134480
-  gene_symbol: ' CCNH'
-collision_symbol: ' P34'

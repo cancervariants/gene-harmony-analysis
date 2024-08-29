@@ -1,0 +1,15 @@
+collision_symbol: PIG3
+MRPL41:
+  ENSG_ID: [ENSG00000182154]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [64975.0]
+  OMIM_ID: ['611846']
+  UniProt_ID: [Q8IXM3]
+TP53I3:
+  ENSG_ID: [ENSG00000115129]
+  source: [NCBI Info]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [9540.0]
+  OMIM_ID: ['605171']
+  UniProt_ID: [Q53FA7]

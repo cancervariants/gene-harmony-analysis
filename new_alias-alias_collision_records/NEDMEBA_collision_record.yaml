@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136699
-  gene_symbol: SMPD4
-- ensg_id: ENSG00000182400
-  gene_symbol: ' TRAPPC6B'
-collision_symbol: NEDMEBA

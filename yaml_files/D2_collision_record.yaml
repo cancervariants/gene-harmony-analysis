@@ -1,0 +1,15 @@
+collision_symbol: D2
+DIO2:
+  ENSG_ID: [ENSG00000211448]
+  source: [NCBI Info]
+  Chromosome: [14q31.1]
+  NCBI Gene ID: [1734.0]
+  OMIM_ID: ['601413']
+  UniProt_ID: [Q92813]
+IGHD2-15:
+  ENSG_ID: [ENSG00000211918]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [28503.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

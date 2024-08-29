@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106541
-  gene_symbol: AGR2
-- ensg_id: ENSG00000187479
-  gene_symbol: ' C11orf96'
-collision_symbol: AG2

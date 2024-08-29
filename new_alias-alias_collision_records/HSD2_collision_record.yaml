@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176387
-  gene_symbol: HSD11B2
-- ensg_id: ENSG00000207389
-  gene_symbol: ' RNU1-4'
-collision_symbol: HSD2

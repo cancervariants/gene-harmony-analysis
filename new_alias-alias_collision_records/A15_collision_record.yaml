@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156298
-  gene_symbol: TSPAN7
-- ensg_id: NAN
-  gene_symbol: ' IGKV1-32'
-collision_symbol: A15

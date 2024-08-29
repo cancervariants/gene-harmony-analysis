@@ -1,0 +1,15 @@
+collision_symbol: GCAP-I
+GUCA1A:
+  ENSG_ID: [ENSG00000048545]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [2978.0]
+  OMIM_ID: ['600364']
+  UniProt_ID: [P43080]
+GUCA2A:
+  ENSG_ID: [ENSG00000197273]
+  source: [NCBI Info]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [2980.0]
+  OMIM_ID: ['139392']
+  UniProt_ID: [Q02747]

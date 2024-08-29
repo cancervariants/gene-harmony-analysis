@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000081479
-  gene_symbol: LRP2
-- ensg_id: ENSG00000126217
-  gene_symbol: ' MCF2L'
-collision_symbol: ' DBS'

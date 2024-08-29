@@ -1,0 +1,15 @@
+collision_symbol: C2orf27B
+CDRT15P3:
+  ENSG_ID: [ENSG00000290618]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LINC03124:
+  ENSG_ID: [ENSG00000287151]
+  source: [NCBI Info]
+  Chromosome: [2q21.2]
+  NCBI Gene ID: [29798.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

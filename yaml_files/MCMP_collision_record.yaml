@@ -1,0 +1,15 @@
+collision_symbol: MCMP
+ADAM12:
+  ENSG_ID: [ENSG00000148848]
+  source: [NCBI Info]
+  Chromosome: [10q26.2]
+  NCBI Gene ID: [8038.0]
+  OMIM_ID: ['602714']
+  UniProt_ID: [O43184]
+ADAM9:
+  ENSG_ID: [ENSG00000168615]
+  source: [NCBI Info]
+  Chromosome: [8p11.22]
+  NCBI Gene ID: [8754.0]
+  OMIM_ID: ['602713']
+  UniProt_ID: [Q13443]

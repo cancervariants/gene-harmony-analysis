@@ -1,0 +1,43 @@
+collision_symbol: RIP
+AGFG1:
+  ENSG_ID: [ENSG00000173744]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q36.3]
+  NCBI Gene ID: [3267.0]
+  OMIM_ID: ['600862']
+  UniProt_ID: [P52594]
+DCAF1:
+  ENSG_ID: [ENSG00000145041]
+  source: [NCBI Info]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [9730.0]
+  OMIM_ID: ['617259']
+  UniProt_ID: [Q9Y4B6]
+DGCR5:
+  ENSG_ID: [ENSG00000273032]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [26220.0]
+  OMIM_ID: ['618040']
+  UniProt_ID: [.nan]
+RALBP1:
+  ENSG_ID: [ENSG00000017797]
+  source: [HGNC, ENSG]
+  Chromosome: [18p11.22]
+  NCBI Gene ID: [10928.0]
+  OMIM_ID: ['605801']
+  UniProt_ID: [Q15311]
+RIPK1:
+  ENSG_ID: [ENSG00000137275]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p25.2]
+  NCBI Gene ID: [8737.0]
+  OMIM_ID: ['603453']
+  UniProt_ID: [Q13546]
+RPAIN:
+  ENSG_ID: [ENSG00000129197]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [84268.0]
+  OMIM_ID: ['617299']
+  UniProt_ID: [Q86UA6]

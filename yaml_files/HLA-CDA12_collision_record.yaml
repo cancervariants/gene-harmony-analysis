@@ -1,0 +1,15 @@
+collision_symbol: HLA-CDA12
+HLA-F:
+  ENSG_ID: [ENSG00000204642]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [3134.0]
+  OMIM_ID: ['143110']
+  UniProt_ID: [P30511]
+HLA-J:
+  ENSG_ID: [ENSG00000290574]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

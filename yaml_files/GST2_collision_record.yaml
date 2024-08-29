@@ -1,0 +1,36 @@
+collision_symbol: GST2
+CHST2:
+  ENSG_ID: [ENSG00000175040]
+  source: [NCBI Info]
+  Chromosome: [3q24]
+  NCBI Gene ID: [9435.0]
+  OMIM_ID: ['603798']
+  UniProt_ID: [Q9Y4C5]
+GSPT2:
+  ENSG_ID: [ENSG00000189369]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [23708.0]
+  OMIM_ID: ['300418']
+  UniProt_ID: [Q8IYD1]
+GSTA1:
+  ENSG_ID: [ENSG00000243955]
+  source: [NCBI Info]
+  Chromosome: [6p12.2]
+  NCBI Gene ID: [2938.0]
+  OMIM_ID: ['138359']
+  UniProt_ID: [P08263]
+GSTA2:
+  ENSG_ID: [ENSG00000244067]
+  source: [NCBI Info]
+  Chromosome: [6p12.2]
+  NCBI Gene ID: [2939.0]
+  OMIM_ID: ['138360']
+  UniProt_ID: [P09210]
+MGST2:
+  ENSG_ID: [ENSG00000085871]
+  source: [NCBI Info]
+  Chromosome: [4q31.1]
+  NCBI Gene ID: [4258.0]
+  OMIM_ID: ['601733']
+  UniProt_ID: [Q99735]

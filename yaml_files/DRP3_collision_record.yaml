@@ -1,0 +1,15 @@
+collision_symbol: DRP3
+DPYSL3:
+  ENSG_ID: [ENSG00000113657]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [1809.0]
+  OMIM_ID: ['601168']
+  UniProt_ID: [Q14195]
+DTNA:
+  ENSG_ID: [ENSG00000134769]
+  source: [NCBI Info]
+  Chromosome: [18q12.1]
+  NCBI Gene ID: [1837.0]
+  OMIM_ID: ['601239']
+  UniProt_ID: [Q9Y4J8]

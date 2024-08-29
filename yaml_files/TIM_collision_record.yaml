@@ -1,0 +1,29 @@
+collision_symbol: TIM
+ARHGEF5:
+  ENSG_ID: [ENSG00000050327]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q35]
+  NCBI Gene ID: [7984.0]
+  OMIM_ID: ['600888']
+  UniProt_ID: [Q12774]
+HAVCR1:
+  ENSG_ID: [ENSG00000113249]
+  source: [NCBI Info]
+  Chromosome: [5q33.3]
+  NCBI Gene ID: [26762.0]
+  OMIM_ID: ['606518']
+  UniProt_ID: [Q96D42]
+TIMELESS:
+  ENSG_ID: [ENSG00000111602]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [8914.0]
+  OMIM_ID: ['603887']
+  UniProt_ID: [Q9UNS1]
+TPI1:
+  ENSG_ID: [ENSG00000111669]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [7167.0]
+  OMIM_ID: ['190450']
+  UniProt_ID: [P60174]

@@ -1,0 +1,15 @@
+collision_symbol: STSL
+ABCG5:
+  ENSG_ID: [ENSG00000138075]
+  source: [NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [64240.0]
+  OMIM_ID: ['605459']
+  UniProt_ID: [Q9H222]
+ABCG8:
+  ENSG_ID: [ENSG00000143921]
+  source: [NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [64241.0]
+  OMIM_ID: ['605460']
+  UniProt_ID: [Q9H221]

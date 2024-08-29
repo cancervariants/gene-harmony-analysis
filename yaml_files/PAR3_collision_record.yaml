@@ -1,0 +1,15 @@
+collision_symbol: PAR3
+F2RL2:
+  ENSG_ID: [ENSG00000164220]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.3]
+  NCBI Gene ID: [2151.0]
+  OMIM_ID: ['601919']
+  UniProt_ID: [O00254]
+PARD3:
+  ENSG_ID: [ENSG00000148498]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10p11.22-p11.21]
+  NCBI Gene ID: [56288.0]
+  OMIM_ID: ['606745']
+  UniProt_ID: [Q8TEW0]

@@ -1,0 +1,36 @@
+collision_symbol: p14
+CDK2AP2:
+  ENSG_ID: [ENSG00000167797]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [10263.0]
+  OMIM_ID: ['620061']
+  UniProt_ID: [O75956]
+CDKN2A:
+  ENSG_ID: [ENSG00000147889]
+  source: [HGNC]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [1029.0]
+  OMIM_ID: ['600160']
+  UniProt_ID: ['P42771, Q8N726']
+H3P8:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LAMTOR2:
+  ENSG_ID: [ENSG00000116586]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [28956.0]
+  OMIM_ID: ['610389']
+  UniProt_ID: [Q9Y2Q5]
+SUB1:
+  ENSG_ID: [ENSG00000113387]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5p13.3]
+  NCBI Gene ID: [10923.0]
+  OMIM_ID: ['600503']
+  UniProt_ID: [P53999]

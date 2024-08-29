@@ -1,0 +1,15 @@
+collision_symbol: ARG
+ABL2:
+  ENSG_ID: [ENSG00000143322]
+  source: [NCBI Info]
+  Chromosome: [1q25.2]
+  NCBI Gene ID: [27.0]
+  OMIM_ID: ['164690']
+  UniProt_ID: [P42684]
+RERE:
+  ENSG_ID: [ENSG00000142599]
+  source: [NCBI Info]
+  Chromosome: [1p36.23]
+  NCBI Gene ID: [473.0]
+  OMIM_ID: ['605226']
+  UniProt_ID: [Q9P2R6]

@@ -1,0 +1,15 @@
+collision_symbol: 2F1
+KLRG1:
+  ENSG_ID: [ENSG00000139187]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [10219.0]
+  OMIM_ID: ['604874']
+  UniProt_ID: [Q96E93]
+SLC25A5:
+  ENSG_ID: [ENSG00000005022]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [292.0]
+  OMIM_ID: ['300150']
+  UniProt_ID: [P05141]

@@ -1,0 +1,15 @@
+collision_symbol: PSC5
+PSMA5:
+  ENSG_ID: [ENSG00000143106]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [5686.0]
+  OMIM_ID: ['176844']
+  UniProt_ID: [P28066]
+PSMB1:
+  ENSG_ID: [ENSG00000008018]
+  source: [NCBI Info]
+  Chromosome: [6q27]
+  NCBI Gene ID: [5689.0]
+  OMIM_ID: ['602017']
+  UniProt_ID: [P20618]

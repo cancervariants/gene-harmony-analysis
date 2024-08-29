@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213928
-  gene_symbol: IRF9
-- ensg_id: ENSG00000168267
-  gene_symbol: ' PTF1A'
-- ensg_id: NAN
-  gene_symbol: ' H3P38'
-collision_symbol: p48

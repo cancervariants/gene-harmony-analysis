@@ -1,0 +1,15 @@
+collision_symbol: HCNP
+PEBP1:
+  ENSG_ID: [ENSG00000089220]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.23]
+  NCBI Gene ID: [5037.0]
+  OMIM_ID: ['604591']
+  UniProt_ID: [P30086]
+XAB2:
+  ENSG_ID: [ENSG00000076924]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [56949.0]
+  OMIM_ID: ['610850']
+  UniProt_ID: [Q9HCS7]

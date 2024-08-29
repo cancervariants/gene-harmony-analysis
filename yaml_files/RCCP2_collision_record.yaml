@@ -1,0 +1,15 @@
+collision_symbol: RCCP2
+MET:
+  ENSG_ID: [ENSG00000105976]
+  source: [NCBI Info]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [4233.0]
+  OMIM_ID: ['164860']
+  UniProt_ID: [P08581]
+TFE3:
+  ENSG_ID: [ENSG00000068323]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [7030.0]
+  OMIM_ID: ['314310']
+  UniProt_ID: [P19532]

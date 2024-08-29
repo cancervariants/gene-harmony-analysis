@@ -1,0 +1,15 @@
+collision_symbol: C7orf28A
+CCZ1:
+  ENSG_ID: [ENSG00000122674]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [51622.0]
+  OMIM_ID: ['620660']
+  UniProt_ID: [P86791]
+CCZ1B:
+  ENSG_ID: [ENSG00000146574]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [221960.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P86790]

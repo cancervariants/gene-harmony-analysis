@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000140455
-  gene_symbol: USP3
-- ensg_id: ENSG00000162607
-  gene_symbol: ' USP1'
-collision_symbol: UBP

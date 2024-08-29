@@ -1,0 +1,15 @@
+collision_symbol: CSD
+CSAD:
+  ENSG_ID: [ENSG00000139631]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [51380.0]
+  OMIM_ID: ['616569']
+  UniProt_ID: [Q9Y600]
+TGFBI:
+  ENSG_ID: [ENSG00000120708]
+  source: [NCBI Info]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [7045.0]
+  OMIM_ID: ['601692']
+  UniProt_ID: [Q15582]

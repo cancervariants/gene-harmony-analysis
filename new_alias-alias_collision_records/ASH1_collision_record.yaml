@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116539
-  gene_symbol: ASH1L
-- ensg_id: ENSG00000139352
-  gene_symbol: ' ASCL1'
-collision_symbol: ASH1

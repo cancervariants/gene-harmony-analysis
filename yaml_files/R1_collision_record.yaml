@@ -1,0 +1,29 @@
+collision_symbol: R1
+CD1B:
+  ENSG_ID: [ENSG00000158485]
+  source: [NCBI Info]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [910.0]
+  OMIM_ID: ['188360']
+  UniProt_ID: [P29016]
+CDCA7L:
+  ENSG_ID: [ENSG00000164649]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [55536.0]
+  OMIM_ID: ['609685']
+  UniProt_ID: [Q96GN5]
+PNKD:
+  ENSG_ID: [ENSG00000127838]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [25953.0]
+  OMIM_ID: ['609023']
+  UniProt_ID: [Q8N490]
+RRM1:
+  ENSG_ID: [ENSG00000167325]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [6240.0]
+  OMIM_ID: ['180410']
+  UniProt_ID: [P23921]

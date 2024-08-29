@@ -1,0 +1,15 @@
+collision_symbol: CXXC11
+FBXL19:
+  ENSG_ID: [ENSG00000099364]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [54620.0]
+  OMIM_ID: ['609085']
+  UniProt_ID: [Q6PCT2]
+RTP5:
+  ENSG_ID: [ENSG00000188011]
+  source: [NCBI Info]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [285093.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q14D33]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000007202
-  gene_symbol: BLTP2
-- ensg_id: ENSG00000168306
-  gene_symbol: ' ACOX2'
-collision_symbol: BCOX

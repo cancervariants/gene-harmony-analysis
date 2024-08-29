@@ -1,0 +1,15 @@
+collision_symbol: LYP
+PTPN22:
+  ENSG_ID: [ENSG00000134242]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [26191.0]
+  OMIM_ID: ['600716']
+  UniProt_ID: [Q9Y2R2]
+SH2D1A:
+  ENSG_ID: [ENSG00000183918]
+  source: [NCBI Info]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [4068.0]
+  OMIM_ID: ['300490']
+  UniProt_ID: [O60880]

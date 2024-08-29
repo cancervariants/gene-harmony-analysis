@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107890
-  gene_symbol: ANKRD26
-- ensg_id: ENSG00000120539
-  gene_symbol: ' MASTL'
-collision_symbol: ' THC2'

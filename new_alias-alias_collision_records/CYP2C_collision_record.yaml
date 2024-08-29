@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138109
-  gene_symbol: CYP2C9
-- ensg_id: ENSG00000165841
-  gene_symbol: ' CYP2C19'
-- ensg_id: ENSG00000108242
-  gene_symbol: ' CYP2C18'
-collision_symbol: CYP2C

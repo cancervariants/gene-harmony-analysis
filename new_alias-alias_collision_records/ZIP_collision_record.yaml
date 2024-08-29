@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167657
-  gene_symbol: DAPK3
-- ensg_id: ENSG00000197114
-  gene_symbol: ' ZGPAT'
-collision_symbol: ZIP

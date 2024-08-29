@@ -1,0 +1,22 @@
+collision_symbol: HC2
+CYCSP38:
+  ENSG_ID: [ENSG00000259513, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q22.2, .nan]
+  NCBI Gene ID: [360184.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PSMA1:
+  ENSG_ID: [ENSG00000129084]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.2]
+  NCBI Gene ID: [5682.0]
+  OMIM_ID: ['602854']
+  UniProt_ID: [P25786]
+SERPIND1:
+  ENSG_ID: [ENSG00000099937]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [3053.0]
+  OMIM_ID: ['142360']
+  UniProt_ID: [P05546]

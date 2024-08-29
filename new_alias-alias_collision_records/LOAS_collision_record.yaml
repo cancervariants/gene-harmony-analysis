@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: ADHD3
-- ensg_id: ENSG00000012211
-  gene_symbol: ' PRICKLE3'
-collision_symbol: LOAS

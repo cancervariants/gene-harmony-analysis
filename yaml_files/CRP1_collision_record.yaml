@@ -1,0 +1,22 @@
+collision_symbol: CRP1
+CEBPE:
+  ENSG_ID: [ENSG00000092067]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [1053.0]
+  OMIM_ID: ['600749']
+  UniProt_ID: [Q15744]
+CRIP1:
+  ENSG_ID: [ENSG00000213145]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [1396.0]
+  OMIM_ID: ['123875']
+  UniProt_ID: [P50238]
+CSRP1:
+  ENSG_ID: [ENSG00000159176]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [1465.0]
+  OMIM_ID: ['123876']
+  UniProt_ID: [P21291]

@@ -1,0 +1,15 @@
+collision_symbol: MSK16
+ACAN:
+  ENSG_ID: [ENSG00000157766]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [176.0]
+  OMIM_ID: ['155760']
+  UniProt_ID: [P16112]
+CSPG4:
+  ENSG_ID: [ENSG00000173546]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q24.2]
+  NCBI Gene ID: [1464.0]
+  OMIM_ID: ['601172']
+  UniProt_ID: [Q6UVK1]

@@ -1,0 +1,15 @@
+collision_symbol: BCH
+CHN2:
+  ENSG_ID: [ENSG00000106069]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [1124.0]
+  OMIM_ID: ['602857']
+  UniProt_ID: [P52757]
+NKX2-1:
+  ENSG_ID: [ENSG00000136352]
+  source: [NCBI Info]
+  Chromosome: [14q13.3]
+  NCBI Gene ID: [7080.0]
+  OMIM_ID: ['600635']
+  UniProt_ID: [P43699]

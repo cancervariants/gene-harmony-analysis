@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000262246
-  gene_symbol: CORO7
-- ensg_id: ENSG00000118526
-  gene_symbol: ' TCF21'
-collision_symbol: ' POD1'

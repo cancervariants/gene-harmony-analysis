@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131007
-  gene_symbol: TTTY9B
-- ensg_id: ENSG00000290716
-  gene_symbol: ' TTTY9A'
-collision_symbol: TTTY9

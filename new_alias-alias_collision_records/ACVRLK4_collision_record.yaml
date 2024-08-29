@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106799
-  gene_symbol: TGFBR1
-- ensg_id: ENSG00000135503
-  gene_symbol: ' ACVR1B'
-collision_symbol: ACVRLK4

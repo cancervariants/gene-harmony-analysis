@@ -1,0 +1,15 @@
+collision_symbol: STK2
+NEK4:
+  ENSG_ID: [ENSG00000114904]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [6787.0]
+  OMIM_ID: ['601959']
+  UniProt_ID: [P51957]
+SLK:
+  ENSG_ID: [ENSG00000065613]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q24.33-q25.1]
+  NCBI Gene ID: [9748.0]
+  OMIM_ID: ['616563']
+  UniProt_ID: [Q9H2G2]

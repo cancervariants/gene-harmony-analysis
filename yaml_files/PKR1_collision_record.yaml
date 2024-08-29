@@ -1,0 +1,15 @@
+collision_symbol: PKR1
+PRKAR1A:
+  ENSG_ID: [ENSG00000108946]
+  source: [NCBI Info]
+  Chromosome: [17q24.2]
+  NCBI Gene ID: [5573.0]
+  OMIM_ID: ['188830']
+  UniProt_ID: [P10644]
+PROKR1:
+  ENSG_ID: [ENSG00000169618]
+  source: [NCBI Info]
+  Chromosome: [2p13.3]
+  NCBI Gene ID: [10887.0]
+  OMIM_ID: ['607122']
+  UniProt_ID: [Q8TCW9]

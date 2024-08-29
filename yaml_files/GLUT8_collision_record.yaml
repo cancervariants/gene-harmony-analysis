@@ -1,0 +1,15 @@
+collision_symbol: GLUT8
+SLC2A12:
+  ENSG_ID: [ENSG00000146411]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [154091.0]
+  OMIM_ID: ['610372']
+  UniProt_ID: [Q8TD20]
+SLC2A8:
+  ENSG_ID: [ENSG00000136856]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [29988.0]
+  OMIM_ID: ['605245']
+  UniProt_ID: [Q9NY64]

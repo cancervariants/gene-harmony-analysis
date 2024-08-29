@@ -1,0 +1,15 @@
+collision_symbol: p20
+H3P14:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TPPP3:
+  ENSG_ID: [ENSG00000159713]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [51673.0]
+  OMIM_ID: ['616957']
+  UniProt_ID: [Q9BW30]

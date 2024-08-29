@@ -1,0 +1,15 @@
+collision_symbol: OLF1
+EBF1:
+  ENSG_ID: [ENSG00000164330]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q33.3]
+  NCBI Gene ID: [1879.0]
+  OMIM_ID: ['164343']
+  UniProt_ID: [Q9UH73]
+OR5I1:
+  ENSG_ID: [ENSG00000167825]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [10798.0]
+  OMIM_ID: ['608496']
+  UniProt_ID: [Q13606]

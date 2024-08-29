@@ -1,0 +1,15 @@
+collision_symbol: CT134
+ODF2:
+  ENSG_ID: [ENSG00000136811]
+  source: [NCBI Info]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [4957.0]
+  OMIM_ID: ['602015']
+  UniProt_ID: [Q5BJF6]
+ODF4:
+  ENSG_ID: [ENSG00000184650]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [146852.0]
+  OMIM_ID: ['610097']
+  UniProt_ID: [Q2M2E3]

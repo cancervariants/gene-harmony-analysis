@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179914
-  gene_symbol: ITLN1
-- ensg_id: ENSG00000141505
-  gene_symbol: ' ASGR1'
-collision_symbol: HL-1

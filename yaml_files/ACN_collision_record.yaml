@@ -1,0 +1,15 @@
+collision_symbol: ACN
+ACIN1:
+  ENSG_ID: [ENSG00000100813]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [22985.0]
+  OMIM_ID: ['604562']
+  UniProt_ID: [Q9UKV3]
+NF2:
+  ENSG_ID: [ENSG00000186575]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [4771.0]
+  OMIM_ID: ['607379']
+  UniProt_ID: [P35240]

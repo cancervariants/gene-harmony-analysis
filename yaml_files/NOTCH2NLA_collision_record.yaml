@@ -1,0 +1,15 @@
+collision_symbol: NOTCH2NLA
+NOTCH2NLB:
+  ENSG_ID: [ENSG00000286019]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [100996763.0]
+  OMIM_ID: ['618024']
+  UniProt_ID: [P0DPK3]
+NOTCH2NLC:
+  ENSG_ID: [ENSG00000286219]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [100996717.0]
+  OMIM_ID: ['618025']
+  UniProt_ID: [P0DPK4]

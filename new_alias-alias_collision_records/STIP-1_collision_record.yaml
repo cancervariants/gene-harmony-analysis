@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000123119
-  gene_symbol: NECAB1
-- ensg_id: ENSG00000100109
-  gene_symbol: ' TFIP11'
-collision_symbol: STIP-1

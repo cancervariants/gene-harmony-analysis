@@ -1,0 +1,22 @@
+collision_symbol: PSG1
+PSG2:
+  ENSG_ID: [ENSG00000242221]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5670.0]
+  OMIM_ID: ['176391']
+  UniProt_ID: [P11465]
+PSG7:
+  ENSG_ID: [ENSG00000221878]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5676.0]
+  OMIM_ID: ['176396']
+  UniProt_ID: [Q13046]
+PSG8:
+  ENSG_ID: [ENSG00000124467]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [440533.0]
+  OMIM_ID: ['176397']
+  UniProt_ID: [Q9UQ74]

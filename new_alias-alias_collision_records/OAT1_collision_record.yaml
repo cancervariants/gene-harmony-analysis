@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197901
-  gene_symbol: SLC22A6
-- ensg_id: ENSG00000171303
-  gene_symbol: ' KCNK3'
-collision_symbol: OAT1

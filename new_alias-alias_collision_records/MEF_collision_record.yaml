@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102034
-  gene_symbol: ELF4
-- ensg_id: ENSG00000103313
-  gene_symbol: ' MEFV'
-collision_symbol: MEF

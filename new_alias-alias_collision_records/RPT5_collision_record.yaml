@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100519
-  gene_symbol: PSMC6
-- ensg_id: ENSG00000165916
-  gene_symbol: ' PSMC3'
-collision_symbol: RPT5

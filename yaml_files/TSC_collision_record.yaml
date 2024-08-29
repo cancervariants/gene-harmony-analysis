@@ -1,0 +1,22 @@
+collision_symbol: TSC
+SLC12A3:
+  ENSG_ID: [ENSG00000070915]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q13]
+  NCBI Gene ID: [6559.0]
+  OMIM_ID: ['600968']
+  UniProt_ID: [P55017]
+TESC:
+  ENSG_ID: [ENSG00000088992]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.22]
+  NCBI Gene ID: [54997.0]
+  OMIM_ID: ['611585']
+  UniProt_ID: [Q96BS2]
+TSC1:
+  ENSG_ID: [ENSG00000165699]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [7248.0]
+  OMIM_ID: ['605284']
+  UniProt_ID: [Q92574]

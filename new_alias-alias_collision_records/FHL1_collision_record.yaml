@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000000971
-  gene_symbol: CFH
-- ensg_id: NAN
-  gene_symbol: ' HPLH1'
-collision_symbol: FHL1

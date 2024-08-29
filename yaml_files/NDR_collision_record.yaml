@@ -1,0 +1,15 @@
+collision_symbol: NDR
+HEMGN:
+  ENSG_ID: [ENSG00000136929]
+  source: [NCBI Info]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [55363.0]
+  OMIM_ID: ['610715']
+  UniProt_ID: [Q9BXL5]
+STK38:
+  ENSG_ID: [ENSG00000112079]
+  source: [NCBI Info]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [11329.0]
+  OMIM_ID: ['606964']
+  UniProt_ID: [Q15208]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125354
-  gene_symbol: SEPTIN6
-- ensg_id: ENSG00000164402
-  gene_symbol: ' SEPTIN8'
-collision_symbol: ' SEP2'

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151365
-  gene_symbol: THRSP
-- ensg_id: ENSG00000099341
-  gene_symbol: ' PSMD8'
-- ensg_id: ENSG00000164587
-  gene_symbol: ' RPS14'
-collision_symbol: ' S14'

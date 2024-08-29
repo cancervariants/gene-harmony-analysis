@@ -1,0 +1,15 @@
+collision_symbol: XAP3
+ATP6AP1:
+  ENSG_ID: [ENSG00000071553]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [537.0]
+  OMIM_ID: ['300197']
+  UniProt_ID: [Q15904]
+RBCK1:
+  ENSG_ID: [ENSG00000125826]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [10616.0]
+  OMIM_ID: ['610924']
+  UniProt_ID: [Q9BYM8]

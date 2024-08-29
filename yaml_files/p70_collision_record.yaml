@@ -1,0 +1,15 @@
+collision_symbol: p70
+ANXA6:
+  ENSG_ID: [ENSG00000197043]
+  source: [NCBI Info]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [309.0]
+  OMIM_ID: ['114070']
+  UniProt_ID: [P08133]
+UBASH3B:
+  ENSG_ID: [ENSG00000154127]
+  source: [NCBI Info]
+  Chromosome: [11q24.1]
+  NCBI Gene ID: [84959.0]
+  OMIM_ID: ['609201']
+  UniProt_ID: [Q8TF42]

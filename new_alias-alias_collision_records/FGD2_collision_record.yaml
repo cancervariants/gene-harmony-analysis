@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170262
-  gene_symbol: MRAP
-- ensg_id: NAN
-  gene_symbol: ' GCCD3'
-collision_symbol: FGD2

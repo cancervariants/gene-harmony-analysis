@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142920
-  gene_symbol: AZIN2
-- ensg_id: ENSG00000155096
-  gene_symbol: ' AZIN1'
-collision_symbol: ' ODC1L'

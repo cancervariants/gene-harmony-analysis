@@ -1,0 +1,15 @@
+collision_symbol: CLDN21
+CLDN22:
+  ENSG_ID: [ENSG00000177300]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [53842.0]
+  OMIM_ID: ['620566']
+  UniProt_ID: [Q8N7P3]
+CLDN24:
+  ENSG_ID: [ENSG00000185758]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [100132463.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A6NM45]

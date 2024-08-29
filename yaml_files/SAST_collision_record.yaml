@@ -1,0 +1,15 @@
+collision_symbol: SAST
+MAST1:
+  ENSG_ID: [ENSG00000105613]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [22983.0]
+  OMIM_ID: ['612256']
+  UniProt_ID: [Q9Y2H9]
+OLAH:
+  ENSG_ID: [ENSG00000152463]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p13]
+  NCBI Gene ID: [55301.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NV23]

@@ -1,0 +1,15 @@
+collision_symbol: PKL
+GIT2:
+  ENSG_ID: [ENSG00000139436]
+  source: [NCBI Info]
+  Chromosome: [12q24.11]
+  NCBI Gene ID: [9815.0]
+  OMIM_ID: ['608564']
+  UniProt_ID: [Q14161]
+PKLR:
+  ENSG_ID: [ENSG00000143627]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [5313.0]
+  OMIM_ID: ['609712']
+  UniProt_ID: [P30613]

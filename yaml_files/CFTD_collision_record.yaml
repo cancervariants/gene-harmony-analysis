@@ -1,0 +1,22 @@
+collision_symbol: CFTD
+ACTA1:
+  ENSG_ID: [ENSG00000143632]
+  source: [NCBI Info]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [58.0]
+  OMIM_ID: ['102610']
+  UniProt_ID: [P68133]
+SELENON:
+  ENSG_ID: [ENSG00000162430]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [57190.0]
+  OMIM_ID: ['606210']
+  UniProt_ID: [Q9NZV5]
+TPM3:
+  ENSG_ID: [ENSG00000143549]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [7170.0]
+  OMIM_ID: ['191030']
+  UniProt_ID: [P06753]

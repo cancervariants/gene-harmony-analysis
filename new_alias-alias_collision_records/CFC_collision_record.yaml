@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179295
-  gene_symbol: PTPN11
-- ensg_id: ENSG00000124659
-  gene_symbol: ' TBCC'
-collision_symbol: CFC

@@ -1,0 +1,15 @@
+collision_symbol: BR
+ITGA2:
+  ENSG_ID: [ENSG00000164171]
+  source: [NCBI Info]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [3673.0]
+  OMIM_ID: ['192974']
+  UniProt_ID: [P17301]
+UQCC6:
+  ENSG_ID: [ENSG00000204954]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [728568.0]
+  OMIM_ID: ['618812']
+  UniProt_ID: [Q69YU5]

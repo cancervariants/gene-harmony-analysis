@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112983
-  gene_symbol: BRD8
-- ensg_id: ENSG00000112562
-  gene_symbol: ' SMOC2'
-collision_symbol: SMAP2

@@ -1,0 +1,15 @@
+collision_symbol: EST
+MAP3K8:
+  ENSG_ID: [ENSG00000107968]
+  source: [NCBI Info]
+  Chromosome: [10p11.23]
+  NCBI Gene ID: [1326.0]
+  OMIM_ID: ['191195']
+  UniProt_ID: [P41279]
+SULT1E1:
+  ENSG_ID: [ENSG00000109193]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [6783.0]
+  OMIM_ID: ['600043']
+  UniProt_ID: [P49888]

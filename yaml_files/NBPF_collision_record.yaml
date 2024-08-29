@@ -1,0 +1,15 @@
+collision_symbol: NBPF
+NBPF1:
+  ENSG_ID: [ENSG00000219481]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [55672.0]
+  OMIM_ID: ['610501']
+  UniProt_ID: [Q3BBV0]
+NBPF14:
+  ENSG_ID: [ENSG00000270629]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [25832.0]
+  OMIM_ID: ['614003']
+  UniProt_ID: [Q5TI25]

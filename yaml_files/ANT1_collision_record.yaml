@@ -1,0 +1,15 @@
+collision_symbol: ANT1
+PRPF6:
+  ENSG_ID: [ENSG00000101161]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [24148.0]
+  OMIM_ID: ['613979']
+  UniProt_ID: [O94906]
+SLC25A4:
+  ENSG_ID: [ENSG00000151729]
+  source: [NCBI Info]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [291.0]
+  OMIM_ID: ['103220']
+  UniProt_ID: [P12235]

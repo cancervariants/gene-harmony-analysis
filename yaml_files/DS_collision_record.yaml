@@ -1,0 +1,22 @@
+collision_symbol: DS
+DHDDS:
+  ENSG_ID: [ENSG00000117682]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [79947.0]
+  OMIM_ID: ['608172']
+  UniProt_ID: [Q86SQ9]
+DHPS:
+  ENSG_ID: [ENSG00000095059]
+  source: [NCBI Info]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [1725.0]
+  OMIM_ID: ['600944']
+  UniProt_ID: [P49366]
+PRPH2:
+  ENSG_ID: [ENSG00000112619]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [5961.0]
+  OMIM_ID: ['179605']
+  UniProt_ID: [P23942]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164109
-  gene_symbol: MAD2L1
-- ensg_id: ENSG00000119950
-  gene_symbol: ' MXI1'
-collision_symbol: MAD2

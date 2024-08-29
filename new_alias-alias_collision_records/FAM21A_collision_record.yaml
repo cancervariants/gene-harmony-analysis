@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172661
-  gene_symbol: WASHC2C
-- ensg_id: ENSG00000099290
-  gene_symbol: ' WASHC2A'
-collision_symbol: FAM21A

@@ -1,0 +1,15 @@
+collision_symbol: MCP2
+ADCK1:
+  ENSG_ID: [ENSG00000063761]
+  source: [NCBI Info]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [57143.0]
+  OMIM_ID: ['620399']
+  UniProt_ID: [Q86TW2]
+CCL8:
+  ENSG_ID: [ENSG00000108700]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6355.0]
+  OMIM_ID: ['602283']
+  UniProt_ID: [P80075]

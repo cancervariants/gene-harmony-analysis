@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158089
-  gene_symbol: GALNT14
-- ensg_id: ENSG00000106648
-  gene_symbol: ' GALNTL5'
-- ensg_id: ENSG00000110328
-  gene_symbol: ' GALNT18'
-collision_symbol: GALNT15

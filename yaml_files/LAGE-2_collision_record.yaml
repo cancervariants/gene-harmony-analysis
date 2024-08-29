@@ -1,0 +1,15 @@
+collision_symbol: LAGE-2
+CTAG1A:
+  ENSG_ID: [ENSG00000268651]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [246100.0]
+  OMIM_ID: ['300657']
+  UniProt_ID: [P78358]
+CTAG1B:
+  ENSG_ID: [ENSG00000184033]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [1485.0]
+  OMIM_ID: ['300156']
+  UniProt_ID: [P78358]

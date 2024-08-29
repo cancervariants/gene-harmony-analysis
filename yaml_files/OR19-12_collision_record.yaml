@@ -1,0 +1,15 @@
+collision_symbol: OR19-12
+OR7A3P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR7E25P:
+  ENSG_ID: [ENSG00000187847]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [26647.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

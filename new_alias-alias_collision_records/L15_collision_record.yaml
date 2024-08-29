@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109881
-  gene_symbol: CCDC34
-- ensg_id: ENSG00000241244
-  gene_symbol: ' IGKV1D-16'
-- ensg_id: ENSG00000174748
-  gene_symbol: ' RPL15'
-collision_symbol: L15

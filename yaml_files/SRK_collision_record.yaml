@@ -1,0 +1,15 @@
+collision_symbol: SRK
+RPS6KB2:
+  ENSG_ID: [ENSG00000175634]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [6199.0]
+  OMIM_ID: ['608939']
+  UniProt_ID: [Q9UBS0]
+ZAP70:
+  ENSG_ID: [ENSG00000115085]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [7535.0]
+  OMIM_ID: ['176947']
+  UniProt_ID: [P43403]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171201
-  gene_symbol: SMR3B
-- ensg_id: ENSG00000184489
-  gene_symbol: ' PTP4A3'
-collision_symbol: ' PRL3'

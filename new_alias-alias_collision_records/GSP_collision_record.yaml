@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000087460
-  gene_symbol: GNAS
-- ensg_id: NAN
-  gene_symbol: ' GSM1'
-collision_symbol: GSP

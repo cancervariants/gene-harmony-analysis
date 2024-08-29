@@ -1,0 +1,15 @@
+collision_symbol: EKV
+GJB3:
+  ENSG_ID: [ENSG00000188910]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [2707.0]
+  OMIM_ID: ['603324']
+  UniProt_ID: [O75712]
+GJB4:
+  ENSG_ID: [ENSG00000189433]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [127534.0]
+  OMIM_ID: ['605425']
+  UniProt_ID: [Q9NTQ9]

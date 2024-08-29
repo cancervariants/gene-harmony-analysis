@@ -1,0 +1,15 @@
+collision_symbol: HOX4E
+HOXD10:
+  ENSG_ID: [ENSG00000128710]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [3236.0]
+  OMIM_ID: ['142984']
+  UniProt_ID: [P28358]
+HOXD8:
+  ENSG_ID: [ENSG00000175879]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [3234.0]
+  OMIM_ID: ['142985']
+  UniProt_ID: [P13378]

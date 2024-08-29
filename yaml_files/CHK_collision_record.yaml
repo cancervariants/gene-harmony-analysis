@@ -1,0 +1,15 @@
+collision_symbol: CHK
+CHKA:
+  ENSG_ID: [ENSG00000110721]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [1119.0]
+  OMIM_ID: ['118491']
+  UniProt_ID: [P35790]
+MATK:
+  ENSG_ID: [ENSG00000007264]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [4145.0]
+  OMIM_ID: ['600038']
+  UniProt_ID: [P42679]

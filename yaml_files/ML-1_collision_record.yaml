@@ -1,0 +1,15 @@
+collision_symbol: ML-1
+ATP8A2:
+  ENSG_ID: [ENSG00000132932]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.13]
+  NCBI Gene ID: [51761.0]
+  OMIM_ID: ['605870']
+  UniProt_ID: [Q9NTI2]
+IL17F:
+  ENSG_ID: [ENSG00000112116]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p12.2]
+  NCBI Gene ID: [112744.0]
+  OMIM_ID: ['606496']
+  UniProt_ID: [Q96PD4]

@@ -1,0 +1,29 @@
+collision_symbol: p63
+CKAP4:
+  ENSG_ID: [ENSG00000136026]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [10970.0]
+  OMIM_ID: ['618595']
+  UniProt_ID: [Q07065]
+RPE65:
+  ENSG_ID: [ENSG00000116745]
+  source: [NCBI Info]
+  Chromosome: [1p31.3]
+  NCBI Gene ID: [6121.0]
+  OMIM_ID: ['180069']
+  UniProt_ID: [Q16518]
+TP63:
+  ENSG_ID: [ENSG00000073282]
+  source: [NCBI Info]
+  Chromosome: [3q28]
+  NCBI Gene ID: [8626.0]
+  OMIM_ID: ['603273']
+  UniProt_ID: [Q9H3D4]
+UVRAG:
+  ENSG_ID: [ENSG00000198382]
+  source: [NCBI Info]
+  Chromosome: [11q13.5]
+  NCBI Gene ID: [7405.0]
+  OMIM_ID: ['602493']
+  UniProt_ID: [Q9P2Y5]

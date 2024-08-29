@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102225
-  gene_symbol: CDK16
-- ensg_id: ENSG00000117266
-  gene_symbol: ' CDK18'
-collision_symbol: PCTAIRE

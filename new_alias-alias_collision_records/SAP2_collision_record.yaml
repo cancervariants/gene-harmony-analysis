@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197746
-  gene_symbol: PSAP
-- ensg_id: ENSG00000111145
-  gene_symbol: ' ELK3'
-- ensg_id: ENSG00000133739
-  gene_symbol: ' LRRCC1'
-collision_symbol: SAP2

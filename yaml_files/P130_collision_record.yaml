@@ -1,0 +1,22 @@
+collision_symbol: P130
+NOLC1:
+  ENSG_ID: [ENSG00000166197]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [9221.0]
+  OMIM_ID: ['602394']
+  UniProt_ID: [Q14978]
+RAB3GAP1:
+  ENSG_ID: [ENSG00000115839]
+  source: [NCBI Info]
+  Chromosome: [2q21.3]
+  NCBI Gene ID: [22930.0]
+  OMIM_ID: ['602536']
+  UniProt_ID: [Q15042]
+RBL2:
+  ENSG_ID: [ENSG00000103479]
+  source: [NCBI Info]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [5934.0]
+  OMIM_ID: ['180203']
+  UniProt_ID: [Q08999]

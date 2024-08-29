@@ -1,0 +1,15 @@
+collision_symbol: HK4
+GCK:
+  ENSG_ID: [ENSG00000106633]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p13]
+  NCBI Gene ID: [2645.0]
+  OMIM_ID: ['138079']
+  UniProt_ID: [P35557]
+KCNA2:
+  ENSG_ID: [ENSG00000177301]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [3737.0]
+  OMIM_ID: ['176262']
+  UniProt_ID: [P16389]

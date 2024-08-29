@@ -1,0 +1,15 @@
+collision_symbol: DCR1
+DICER1:
+  ENSG_ID: [ENSG00000100697]
+  source: [NCBI Info]
+  Chromosome: [14q32.13]
+  NCBI Gene ID: [23405.0]
+  OMIM_ID: ['606241']
+  UniProt_ID: [Q9UPY3]
+TNFRSF10C:
+  ENSG_ID: [ENSG00000173535]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [8794.0]
+  OMIM_ID: ['603613']
+  UniProt_ID: [O14798]

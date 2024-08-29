@@ -1,0 +1,15 @@
+collision_symbol: CHN
+CHN1:
+  ENSG_ID: [ENSG00000128656]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1123.0]
+  OMIM_ID: ['118423']
+  UniProt_ID: [P15882]
+NR4A3:
+  ENSG_ID: [ENSG00000119508]
+  source: [NCBI Info]
+  Chromosome: [9q31.1]
+  NCBI Gene ID: [8013.0]
+  OMIM_ID: ['600542']
+  UniProt_ID: [Q92570]

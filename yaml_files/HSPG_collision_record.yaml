@@ -1,0 +1,15 @@
+collision_symbol: HSPG
+HSPG2:
+  ENSG_ID: [ENSG00000142798]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [3339.0]
+  OMIM_ID: ['142461']
+  UniProt_ID: [P98160]
+SDC2:
+  ENSG_ID: [ENSG00000169439]
+  source: [NCBI Info]
+  Chromosome: [8q22.1]
+  NCBI Gene ID: [6383.0]
+  OMIM_ID: ['142460']
+  UniProt_ID: [P34741]

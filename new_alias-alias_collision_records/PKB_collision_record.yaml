@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142208
-  gene_symbol: AKT1
-- ensg_id: ENSG00000120899
-  gene_symbol: ' PTK2B'
-collision_symbol: PKB

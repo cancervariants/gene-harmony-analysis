@@ -1,0 +1,15 @@
+collision_symbol: CSL
+CSHL1:
+  ENSG_ID: [ENSG00000204414]
+  source: [ENSG]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [1444.0]
+  OMIM_ID: ['603515']
+  UniProt_ID: [Q14406]
+SMPX:
+  ENSG_ID: [ENSG00000091482]
+  source: [ENSG]
+  Chromosome: [Xp22.12]
+  NCBI Gene ID: [23676.0]
+  OMIM_ID: ['300226']
+  UniProt_ID: [Q9UHP9]

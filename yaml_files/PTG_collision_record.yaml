@@ -1,0 +1,15 @@
+collision_symbol: PTG
+PPP1R3B:
+  ENSG_ID: [ENSG00000173281]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [79660.0]
+  OMIM_ID: ['610541']
+  UniProt_ID: [Q86XI6]
+PPP1R3C:
+  ENSG_ID: [ENSG00000119938]
+  source: [NCBI Info]
+  Chromosome: [10q23.32]
+  NCBI Gene ID: [5507.0]
+  OMIM_ID: ['602999']
+  UniProt_ID: [Q9UQK1]

@@ -1,0 +1,15 @@
+collision_symbol: FA
+FANCA:
+  ENSG_ID: [ENSG00000187741]
+  source: [NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [2175.0]
+  OMIM_ID: ['607139']
+  UniProt_ID: [O15360]
+FXN:
+  ENSG_ID: [ENSG00000165060]
+  source: [NCBI Info]
+  Chromosome: [9q21.11]
+  NCBI Gene ID: [2395.0]
+  OMIM_ID: ['606829']
+  UniProt_ID: [Q16595]

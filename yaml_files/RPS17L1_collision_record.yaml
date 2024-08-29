@@ -1,0 +1,15 @@
+collision_symbol: RPS17L1
+RPS17:
+  ENSG_ID: [ENSG00000182774]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [6218.0]
+  OMIM_ID: ['180472']
+  UniProt_ID: [P08708]
+RPS17P2:
+  ENSG_ID: [ENSG00000197575]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q23.1]
+  NCBI Gene ID: [6219.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

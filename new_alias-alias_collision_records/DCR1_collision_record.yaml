@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173535
-  gene_symbol: TNFRSF10C
-- ensg_id: ENSG00000100697
-  gene_symbol: ' DICER1'
-collision_symbol: DCR1

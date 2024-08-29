@@ -1,0 +1,15 @@
+collision_symbol: RING5
+RNF5:
+  ENSG_ID: [ENSG00000204308, ENSG00000183574]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32, .nan]
+  NCBI Gene ID: [6048.0, .nan]
+  OMIM_ID: ['602677', .nan]
+  UniProt_ID: [Q99942, .nan]
+SLC39A7:
+  ENSG_ID: [ENSG00000112473]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [7922.0]
+  OMIM_ID: ['601416']
+  UniProt_ID: [Q92504]

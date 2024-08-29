@@ -1,0 +1,15 @@
+collision_symbol: UDPGT 1-1
+UGT1A1:
+  ENSG_ID: [ENSG00000241635]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54658.0]
+  OMIM_ID: ['191740']
+  UniProt_ID: [P22309]
+UGT1A8:
+  ENSG_ID: [ENSG00000242366]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54576.0]
+  OMIM_ID: ['606433']
+  UniProt_ID: [Q9HAW9]

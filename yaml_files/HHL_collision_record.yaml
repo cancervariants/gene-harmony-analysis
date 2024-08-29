@@ -1,0 +1,15 @@
+collision_symbol: HHL
+HES1:
+  ENSG_ID: [ENSG00000114315]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [3280.0]
+  OMIM_ID: ['139605']
+  UniProt_ID: [Q14469]
+RABGAP1L:
+  ENSG_ID: [ENSG00000152061]
+  source: [NCBI Info]
+  Chromosome: [1q25.1]
+  NCBI Gene ID: [9910.0]
+  OMIM_ID: ['609238']
+  UniProt_ID: ['B7ZAP0, Q5R372']

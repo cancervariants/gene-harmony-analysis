@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000126010
-  gene_symbol: GRPR
-- ensg_id: ENSG00000090339
-  gene_symbol: ' ICAM1'
-collision_symbol: BB2

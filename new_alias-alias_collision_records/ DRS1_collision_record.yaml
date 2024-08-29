@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198721
-  gene_symbol: ECI2
-- ensg_id: ENSG00000124228
-  gene_symbol: ' DDX27'
-collision_symbol: ' DRS1'

@@ -1,0 +1,15 @@
+collision_symbol: RNU1-6
+RNU1-6P:
+  ENSG_ID: [ENSG00000277344]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [106480152.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNVU1-7:
+  ENSG_ID: [ENSG00000206585]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [26864.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

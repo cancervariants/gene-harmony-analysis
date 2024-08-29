@@ -1,0 +1,15 @@
+collision_symbol: FBL7
+FBXL7:
+  ENSG_ID: [ENSG00000183580]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5p15.1]
+  NCBI Gene ID: [23194.0]
+  OMIM_ID: ['605656']
+  UniProt_ID: [Q9UJT9]
+KDM2A:
+  ENSG_ID: [ENSG00000173120]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [22992.0]
+  OMIM_ID: ['605657']
+  UniProt_ID: [Q9Y2K7]

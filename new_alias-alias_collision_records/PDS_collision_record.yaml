@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000091137
-  gene_symbol: SLC26A4
-- ensg_id: ENSG00000107317
-  gene_symbol: ' PTGDS'
-collision_symbol: PDS

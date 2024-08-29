@@ -1,0 +1,15 @@
+collision_symbol: POP1
+BVES:
+  ENSG_ID: [ENSG00000112276]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [11149.0]
+  OMIM_ID: ['604577']
+  UniProt_ID: [Q8NE79]
+PYDC1:
+  ENSG_ID: [ENSG00000169900]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [260434.0]
+  OMIM_ID: ['615700']
+  UniProt_ID: [Q8WXC3]

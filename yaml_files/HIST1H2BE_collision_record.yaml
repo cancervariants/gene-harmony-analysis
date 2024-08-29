@@ -1,0 +1,15 @@
+collision_symbol: HIST1H2BE
+H2BC5:
+  ENSG_ID: [ENSG00000158373]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [3017.0]
+  OMIM_ID: ['602799']
+  UniProt_ID: [P58876]
+H2BC6:
+  ENSG_ID: [ENSG00000274290]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8344.0]
+  OMIM_ID: ['602805']
+  UniProt_ID: [P62807]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196781
-  gene_symbol: TLE1
-- ensg_id: ENSG00000203909
-  gene_symbol: ' DPPA5'
-collision_symbol: ESG1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000268834
-  gene_symbol: OR7A1P
-- ensg_id: ENSG00000172148
-  gene_symbol: ' OR7A2P'
-collision_symbol: ' OLF4P'

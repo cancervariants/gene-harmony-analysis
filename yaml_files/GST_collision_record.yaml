@@ -1,0 +1,15 @@
+collision_symbol: GST
+GSTK1:
+  ENSG_ID: [ENSG00000197448]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [373156.0]
+  OMIM_ID: ['602321']
+  UniProt_ID: [Q9Y2Q3]
+SLCO6A1:
+  ENSG_ID: [ENSG00000205359]
+  source: [NCBI Info]
+  Chromosome: [5q21.1]
+  NCBI Gene ID: [133482.0]
+  OMIM_ID: ['613365']
+  UniProt_ID: [Q86UG4]

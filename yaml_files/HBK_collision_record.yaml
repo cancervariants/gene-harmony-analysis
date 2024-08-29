@@ -1,0 +1,15 @@
+collision_symbol: HBK
+HBD:
+  ENSG_ID: [ENSG00000223609]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [3045.0]
+  OMIM_ID: ['142000']
+  UniProt_ID: [P02042]
+HBM:
+  ENSG_ID: [ENSG00000206177]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [3042.0]
+  OMIM_ID: ['609639']
+  UniProt_ID: [Q6B0K9]

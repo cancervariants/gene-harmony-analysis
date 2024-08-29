@@ -1,0 +1,15 @@
+collision_symbol: SEP2
+SEPTIN6:
+  ENSG_ID: [ENSG00000125354]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [23157.0]
+  OMIM_ID: ['300683']
+  UniProt_ID: [Q14141]
+SEPTIN8:
+  ENSG_ID: [ENSG00000164402]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [23176.0]
+  OMIM_ID: ['608418']
+  UniProt_ID: [Q92599]

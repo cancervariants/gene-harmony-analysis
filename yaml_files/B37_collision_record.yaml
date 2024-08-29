@@ -1,0 +1,22 @@
+collision_symbol: B37
+ATN1:
+  ENSG_ID: [ENSG00000111676]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [1822.0]
+  OMIM_ID: ['607462']
+  UniProt_ID: [P54259]
+C21orf62:
+  ENSG_ID: [ENSG00000205929]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+EPCIP:
+  ENSG_ID: [ENSG00000205929]
+  source: [HGNC, NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [56245.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NYP8]

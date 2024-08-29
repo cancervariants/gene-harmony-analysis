@@ -1,0 +1,15 @@
+collision_symbol: CMK
+CMPK1:
+  ENSG_ID: [ENSG00000162368]
+  source: [NCBI Info]
+  Chromosome: [1p33]
+  NCBI Gene ID: [51727.0]
+  OMIM_ID: ['191710']
+  UniProt_ID: [P30085]
+CXCL9:
+  ENSG_ID: [ENSG00000138755]
+  source: [NCBI Info]
+  Chromosome: [4q21.1]
+  NCBI Gene ID: [4283.0]
+  OMIM_ID: ['601704']
+  UniProt_ID: [Q07325]

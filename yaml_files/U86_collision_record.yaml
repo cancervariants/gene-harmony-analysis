@@ -1,0 +1,15 @@
+collision_symbol: U86
+SNORD139:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [116936.0]
+  OMIM_ID: ['611069']
+  UniProt_ID: [.nan]
+SNORD86:
+  ENSG_ID: [ENSG00000212498]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [692201.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

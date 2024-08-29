@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000007264
-  gene_symbol: MATK
-- ensg_id: ENSG00000110721
-  gene_symbol: ' CHKA'
-collision_symbol: CHK

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187554
-  gene_symbol: TLR5
-- ensg_id: ENSG00000143502
-  gene_symbol: ' SUSD4'
-collision_symbol: FLJ10052

@@ -1,0 +1,15 @@
+collision_symbol: HMGB1L1
+CTCFL:
+  ENSG_ID: [ENSG00000124092]
+  source: [NCBI Info]
+  Chromosome: [20q13.31]
+  NCBI Gene ID: [140690.0]
+  OMIM_ID: ['607022']
+  UniProt_ID: [Q8NI51]
+HMGB1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

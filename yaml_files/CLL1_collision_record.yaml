@@ -1,0 +1,15 @@
+collision_symbol: CLL1
+CLEC12A:
+  ENSG_ID: [ENSG00000172322]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [160364.0]
+  OMIM_ID: ['612088']
+  UniProt_ID: [Q5QGZ9]
+COLEC10:
+  ENSG_ID: [ENSG00000184374]
+  source: [NCBI Info]
+  Chromosome: [8q24.12]
+  NCBI Gene ID: [10584.0]
+  OMIM_ID: ['607620']
+  UniProt_ID: [Q9Y6Z7]

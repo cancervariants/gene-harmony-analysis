@@ -1,0 +1,22 @@
+collision_symbol: NOP
+NOL3:
+  ENSG_ID: [ENSG00000140939]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [8996.0]
+  OMIM_ID: ['605235']
+  UniProt_ID: [O60936]
+OPRL1:
+  ENSG_ID: [ENSG00000125510]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [4987.0]
+  OMIM_ID: ['602548']
+  UniProt_ID: [P41146]
+PNOC:
+  ENSG_ID: [ENSG00000168081]
+  source: [NCBI Info]
+  Chromosome: [8p21.1]
+  NCBI Gene ID: [5368.0]
+  OMIM_ID: ['601459']
+  UniProt_ID: [Q13519]

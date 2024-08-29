@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000094916
-  gene_symbol: CBX5
-- ensg_id: ENSG00000206047
-  gene_symbol: ' DEFA1'
-- ensg_id: ENSG00000240247
-  gene_symbol: ' DEFA1B'
-collision_symbol: HP1

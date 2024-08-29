@@ -1,0 +1,22 @@
+collision_symbol: FX
+F10:
+  ENSG_ID: [ENSG00000126218]
+  source: [NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [2159.0]
+  OMIM_ID: ['613872']
+  UniProt_ID: [P00742]
+GFUS:
+  ENSG_ID: [ENSG00000104522]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [7264.0]
+  OMIM_ID: ['137020']
+  UniProt_ID: [Q13630]
+TMSB4X:
+  ENSG_ID: [ENSG00000205542]
+  source: [NCBI Info]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [7114.0]
+  OMIM_ID: ['300159']
+  UniProt_ID: [P62328]

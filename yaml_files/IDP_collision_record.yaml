@@ -1,0 +1,15 @@
+collision_symbol: IDP
+IDH1:
+  ENSG_ID: [ENSG00000138413]
+  source: [NCBI Info]
+  Chromosome: [2q34]
+  NCBI Gene ID: [3417.0]
+  OMIM_ID: ['147700']
+  UniProt_ID: [O75874]
+IDH2:
+  ENSG_ID: [ENSG00000182054]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [3418.0]
+  OMIM_ID: ['147650']
+  UniProt_ID: [P48735]

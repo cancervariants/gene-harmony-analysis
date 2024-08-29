@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185909
-  gene_symbol: KLHDC8B
-- ensg_id: ENSG00000101938
-  gene_symbol: ' CHRDL1'
-collision_symbol: CHL

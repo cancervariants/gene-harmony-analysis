@@ -1,0 +1,15 @@
+collision_symbol: NBIA3
+C19orf12:
+  ENSG_ID: [ENSG00000131943]
+  source: [NCBI Info]
+  Chromosome: [19q12]
+  NCBI Gene ID: [83636.0]
+  OMIM_ID: ['614297']
+  UniProt_ID: [Q9NSK7]
+FTL:
+  ENSG_ID: [ENSG00000087086]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [2512.0]
+  OMIM_ID: ['134790']
+  UniProt_ID: [P02792]

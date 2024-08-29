@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164400
-  gene_symbol: CSF2
-- ensg_id: ENSG00000058085
-  gene_symbol: ' LAMC2'
-collision_symbol: CSF

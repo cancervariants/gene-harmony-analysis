@@ -1,0 +1,15 @@
+collision_symbol: TC4
+RAN:
+  ENSG_ID: [ENSG00000132341]
+  source: [NCBI Info]
+  Chromosome: [12q24.33]
+  NCBI Gene ID: [5901.0]
+  OMIM_ID: ['601179']
+  UniProt_ID: [P62826]
+RANP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000050327
-  gene_symbol: ARHGEF5
-- ensg_id: ENSG00000111602
-  gene_symbol: ' TIMELESS'
-collision_symbol: ' TIM'

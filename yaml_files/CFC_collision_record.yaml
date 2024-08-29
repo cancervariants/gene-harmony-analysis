@@ -1,0 +1,15 @@
+collision_symbol: CFC
+PTPN11:
+  ENSG_ID: [ENSG00000179295]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [5781.0]
+  OMIM_ID: ['176876']
+  UniProt_ID: [Q06124]
+TBCC:
+  ENSG_ID: [ENSG00000124659]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [6903.0]
+  OMIM_ID: ['602971']
+  UniProt_ID: [Q15814]

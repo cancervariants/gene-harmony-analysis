@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204634
-  gene_symbol: TBC1D8
-- ensg_id: ENSG00000080815
-  gene_symbol: ' PSEN1'
-collision_symbol: AD3

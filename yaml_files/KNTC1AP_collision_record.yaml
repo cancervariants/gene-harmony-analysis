@@ -1,0 +1,15 @@
+collision_symbol: KNTC1AP
+ZW10:
+  ENSG_ID: [ENSG00000086827]
+  source: [NCBI Info]
+  Chromosome: [11q23.2]
+  NCBI Gene ID: [9183.0]
+  OMIM_ID: ['603954']
+  UniProt_ID: [O43264]
+ZWILCH:
+  ENSG_ID: [ENSG00000174442]
+  source: [NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [55055.0]
+  OMIM_ID: ['609984']
+  UniProt_ID: [Q9H900]

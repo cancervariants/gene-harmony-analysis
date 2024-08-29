@@ -1,0 +1,15 @@
+collision_symbol: LH2
+LHX2:
+  ENSG_ID: [ENSG00000106689]
+  source: [NCBI Info]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [9355.0]
+  OMIM_ID: ['603759']
+  UniProt_ID: [P50458]
+PLOD2:
+  ENSG_ID: [ENSG00000152952]
+  source: [NCBI Info]
+  Chromosome: [3q24]
+  NCBI Gene ID: [5352.0]
+  OMIM_ID: ['601865']
+  UniProt_ID: [O00469]

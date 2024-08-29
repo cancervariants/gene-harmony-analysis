@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204849
-  gene_symbol: SPATA31A1
-- ensg_id: ENSG00000276040
-  gene_symbol: ' SPATA31A7'
-collision_symbol: C9orf36

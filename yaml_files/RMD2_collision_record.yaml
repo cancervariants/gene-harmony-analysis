@@ -1,0 +1,15 @@
+collision_symbol: RMD2
+CAV3:
+  ENSG_ID: [ENSG00000182533]
+  source: [NCBI Info]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [859.0]
+  OMIM_ID: ['601253']
+  UniProt_ID: [P56539]
+RMDN2:
+  ENSG_ID: [ENSG00000115841]
+  source: [NCBI Info]
+  Chromosome: [2p22.2]
+  NCBI Gene ID: [151393.0]
+  OMIM_ID: ['611872']
+  UniProt_ID: [Q96LZ7]

@@ -1,0 +1,15 @@
+collision_symbol: p49
+H3P39:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PRIM1:
+  ENSG_ID: [ENSG00000198056]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [5557.0]
+  OMIM_ID: ['176635']
+  UniProt_ID: [P49642]

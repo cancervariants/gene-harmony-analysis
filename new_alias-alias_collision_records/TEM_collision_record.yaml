@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000000005
-  gene_symbol: TNMD
-- ensg_id: NAN
-  gene_symbol: ' MFT2'
-- ensg_id: ENSG00000083799
-  gene_symbol: ' CYLD'
-collision_symbol: TEM

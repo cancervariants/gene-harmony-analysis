@@ -1,0 +1,22 @@
+collision_symbol: NIP
+CRPPA:
+  ENSG_ID: [ENSG00000214960]
+  source: [ENSG]
+  Chromosome: [7p21.2]
+  NCBI Gene ID: [729920.0]
+  OMIM_ID: ['614631']
+  UniProt_ID: [A4D126]
+DUOXA1:
+  ENSG_ID: [ENSG00000140254]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [90527.0]
+  OMIM_ID: ['612771']
+  UniProt_ID: [Q1HG43]
+GIPC1:
+  ENSG_ID: [ENSG00000123159]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [10755.0]
+  OMIM_ID: ['605072']
+  UniProt_ID: [O14908]

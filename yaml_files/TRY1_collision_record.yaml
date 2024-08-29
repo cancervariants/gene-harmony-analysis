@@ -1,0 +1,15 @@
+collision_symbol: TRY1
+PRSS1:
+  ENSG_ID: [ENSG00000204983]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [5644.0]
+  OMIM_ID: ['276000']
+  UniProt_ID: [P07477]
+PRSS58:
+  ENSG_ID: [ENSG00000258223]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [136541.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8IYP2]

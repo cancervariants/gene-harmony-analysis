@@ -1,0 +1,22 @@
+collision_symbol: CAT2
+GIT2:
+  ENSG_ID: [ENSG00000139436]
+  source: [NCBI Info]
+  Chromosome: [12q24.11]
+  NCBI Gene ID: [9815.0]
+  OMIM_ID: ['608564']
+  UniProt_ID: [Q14161]
+SLC7A2:
+  ENSG_ID: [ENSG00000003989]
+  source: [NCBI Info]
+  Chromosome: [8p22]
+  NCBI Gene ID: [6542.0]
+  OMIM_ID: ['601872']
+  UniProt_ID: [P52569]
+TRPV5:
+  ENSG_ID: [ENSG00000127412]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [56302.0]
+  OMIM_ID: ['606679']
+  UniProt_ID: [Q9NQA5]

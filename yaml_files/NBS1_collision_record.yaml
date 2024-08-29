@@ -1,0 +1,15 @@
+collision_symbol: NBS1
+NBN:
+  ENSG_ID: [ENSG00000104320]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q21.3]
+  NCBI Gene ID: [4683.0]
+  OMIM_ID: ['602667']
+  UniProt_ID: [O60934]
+NLRP2:
+  ENSG_ID: [ENSG00000022556]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [55655.0]
+  OMIM_ID: ['609364']
+  UniProt_ID: [Q9NX02]

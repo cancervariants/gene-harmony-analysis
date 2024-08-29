@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000013583
-  gene_symbol: HEBP1
-- ensg_id: ENSG00000172232
-  gene_symbol: ' AZU1'
-collision_symbol: ' HBP'

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000002549
-  gene_symbol: LAP3
-- ensg_id: ENSG00000134575
-  gene_symbol: ' ACP2'
-collision_symbol: LAP

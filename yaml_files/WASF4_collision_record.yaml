@@ -1,0 +1,15 @@
+collision_symbol: WASF4
+WASF2:
+  ENSG_ID: [ENSG00000158195]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [10163.0]
+  OMIM_ID: ['605875']
+  UniProt_ID: [Q9Y6W5]
+WASF4P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

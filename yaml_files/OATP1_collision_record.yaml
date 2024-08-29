@@ -1,0 +1,15 @@
+collision_symbol: OATP1
+SLCO1C1:
+  ENSG_ID: [ENSG00000139155]
+  source: [NCBI Info]
+  Chromosome: [12p12.2]
+  NCBI Gene ID: [53919.0]
+  OMIM_ID: ['613389']
+  UniProt_ID: [Q9NYB5]
+SLCO4A1:
+  ENSG_ID: [ENSG00000101187]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [28231.0]
+  OMIM_ID: ['612436']
+  UniProt_ID: [Q96BD0]

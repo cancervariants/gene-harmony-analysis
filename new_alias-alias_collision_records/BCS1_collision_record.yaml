@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000074582
-  gene_symbol: BCS1L
-- ensg_id: ENSG00000225614
-  gene_symbol: ' ZNF469'
-collision_symbol: BCS1

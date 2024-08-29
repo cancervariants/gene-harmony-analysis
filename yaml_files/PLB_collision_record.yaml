@@ -1,0 +1,15 @@
+collision_symbol: PLB
+PLB1:
+  ENSG_ID: [ENSG00000163803]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p23.2]
+  NCBI Gene ID: [151056.0]
+  OMIM_ID: ['610179']
+  UniProt_ID: [Q6P1J6]
+PLN:
+  ENSG_ID: [ENSG00000198523]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q22.31]
+  NCBI Gene ID: [5350.0]
+  OMIM_ID: ['172405']
+  UniProt_ID: [P26678]

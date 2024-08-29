@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000201403
-  gene_symbol: SNORD14B
-- ensg_id: ENSG00000272034
-  gene_symbol: ' SNORD14A'
-collision_symbol: U14

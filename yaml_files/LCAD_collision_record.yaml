@@ -1,0 +1,15 @@
+collision_symbol: LCAD
+ACADL:
+  ENSG_ID: [ENSG00000115361]
+  source: [NCBI Info]
+  Chromosome: [2q34]
+  NCBI Gene ID: [33.0]
+  OMIM_ID: ['609576']
+  UniProt_ID: [P28330]
+CALD1:
+  ENSG_ID: [ENSG00000122786]
+  source: [NCBI Info]
+  Chromosome: [7q33]
+  NCBI Gene ID: [800.0]
+  OMIM_ID: ['114213']
+  UniProt_ID: [Q05682]

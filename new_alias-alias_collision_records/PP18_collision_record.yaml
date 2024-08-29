@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105552
-  gene_symbol: BCAT2
-- ensg_id: ENSG00000060982
-  gene_symbol: ' BCAT1'
-collision_symbol: PP18

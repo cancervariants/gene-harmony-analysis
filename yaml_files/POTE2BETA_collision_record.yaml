@@ -1,0 +1,15 @@
+collision_symbol: POTE2beta
+POTEI:
+  ENSG_ID: [ENSG00000196834]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2q21.1]
+  NCBI Gene ID: [653269.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CG38]
+POTEJ:
+  ENSG_ID: [ENSG00000222038]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2q21.1]
+  NCBI Gene ID: [653781.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CG39]

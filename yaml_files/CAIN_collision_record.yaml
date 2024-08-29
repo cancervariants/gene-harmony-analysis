@@ -1,0 +1,15 @@
+collision_symbol: CAIN
+CABIN1:
+  ENSG_ID: [ENSG00000099991]
+  source: [NCBI Info]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [23523.0]
+  OMIM_ID: ['604251']
+  UniProt_ID: [Q9Y6J0]
+NUP214:
+  ENSG_ID: [ENSG00000126883]
+  source: [NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [8021.0]
+  OMIM_ID: ['114350']
+  UniProt_ID: [P35658]

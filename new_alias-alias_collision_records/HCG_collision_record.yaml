@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HTC2
-- ensg_id: ENSG00000189052
-  gene_symbol: ' CGB5'
-- ensg_id: ENSG00000135346
-  gene_symbol: ' CGA'
-collision_symbol: HCG

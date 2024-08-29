@@ -1,0 +1,15 @@
+collision_symbol: RSS
+GRB10:
+  ENSG_ID: [ENSG00000106070]
+  source: [NCBI Info]
+  Chromosome: [7p12.1]
+  NCBI Gene ID: [2887.0]
+  OMIM_ID: ['601523']
+  UniProt_ID: [Q13322]
+SELENON:
+  ENSG_ID: [ENSG00000162430]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [57190.0]
+  OMIM_ID: ['606210']
+  UniProt_ID: [Q9NZV5]

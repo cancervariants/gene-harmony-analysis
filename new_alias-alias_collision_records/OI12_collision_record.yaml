@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132386
-  gene_symbol: SERPINF1
-- ensg_id: ENSG00000170374
-  gene_symbol: ' SP7'
-collision_symbol: OI12

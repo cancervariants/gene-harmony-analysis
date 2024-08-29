@@ -1,0 +1,15 @@
+collision_symbol: MCAP
+BRD4:
+  ENSG_ID: [ENSG00000141867]
+  source: [NCBI Info]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [23476.0]
+  OMIM_ID: ['608749']
+  UniProt_ID: [O60885]
+PIK3CA:
+  ENSG_ID: [ENSG00000121879]
+  source: [NCBI Info]
+  Chromosome: [3q26.32]
+  NCBI Gene ID: [5290.0]
+  OMIM_ID: ['171834']
+  UniProt_ID: [P42336]

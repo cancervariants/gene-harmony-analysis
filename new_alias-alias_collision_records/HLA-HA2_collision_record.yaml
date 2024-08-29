@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: D6S207E
-- ensg_id: ENSG00000136286
-  gene_symbol: ' MYO1G'
-collision_symbol: HLA-HA2

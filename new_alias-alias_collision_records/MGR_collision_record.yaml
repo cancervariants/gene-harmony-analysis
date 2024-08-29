@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134317
-  gene_symbol: GRHL1
-- ensg_id: ENSG00000257315
-  gene_symbol: ' ZBED6'
-- ensg_id: NAN
-  gene_symbol: ' MGR6'
-collision_symbol: MGR

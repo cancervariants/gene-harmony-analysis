@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000252316
-  gene_symbol: RNY4
-- ensg_id: ENSG00000204174
-  gene_symbol: ' NPY4R'
-collision_symbol: Y4

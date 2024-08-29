@@ -1,0 +1,22 @@
+collision_symbol: P11
+ENDOU:
+  ENSG_ID: [ENSG00000111405]
+  source: [NCBI Info]
+  Chromosome: [12q13.11]
+  NCBI Gene ID: [8909.0]
+  OMIM_ID: ['606720']
+  UniProt_ID: [P21128]
+EXOSC6:
+  ENSG_ID: [ENSG00000223496]
+  source: [ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [118460.0]
+  OMIM_ID: ['606490']
+  UniProt_ID: [Q5RKV6]
+S100A10:
+  ENSG_ID: [ENSG00000197747]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6281.0]
+  OMIM_ID: ['114085']
+  UniProt_ID: [P60903]

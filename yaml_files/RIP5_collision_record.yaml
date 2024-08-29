@@ -1,0 +1,15 @@
+collision_symbol: RIP5
+DSTYK:
+  ENSG_ID: [ENSG00000133059]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [25778.0]
+  OMIM_ID: ['612666']
+  UniProt_ID: [Q6XUX3]
+RAB5IF:
+  ENSG_ID: [ENSG00000101084]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q11.23]
+  NCBI Gene ID: [55969.0]
+  OMIM_ID: ['619960']
+  UniProt_ID: [Q9BUV8]

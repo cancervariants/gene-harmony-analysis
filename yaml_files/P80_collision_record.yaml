@@ -1,0 +1,15 @@
+collision_symbol: P80
+IL1R1:
+  ENSG_ID: [ENSG00000115594]
+  source: [NCBI Info]
+  Chromosome: [2q11.2-q12.1]
+  NCBI Gene ID: [3554.0]
+  OMIM_ID: ['147810']
+  UniProt_ID: [P14778]
+WDR48:
+  ENSG_ID: [ENSG00000114742]
+  source: [NCBI Info]
+  Chromosome: [3p22.2]
+  NCBI Gene ID: [57599.0]
+  OMIM_ID: ['612167']
+  UniProt_ID: [Q8TAF3]

@@ -1,0 +1,15 @@
+collision_symbol: P600
+IL13:
+  ENSG_ID: [ENSG00000169194]
+  source: [ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [3596.0]
+  OMIM_ID: ['147683']
+  UniProt_ID: [P35225]
+UBR4:
+  ENSG_ID: [ENSG00000127481]
+  source: [ENSG]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [23352.0]
+  OMIM_ID: ['609890']
+  UniProt_ID: [Q5T4S7]

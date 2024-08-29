@@ -1,0 +1,15 @@
+collision_symbol: PI
+GSTP1:
+  ENSG_ID: [ENSG00000084207]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [2950.0]
+  OMIM_ID: ['134660']
+  UniProt_ID: [P09211]
+SERPINA1:
+  ENSG_ID: [ENSG00000197249]
+  source: [NCBI Info]
+  Chromosome: [14q32.13]
+  NCBI Gene ID: [5265.0]
+  OMIM_ID: ['107400']
+  UniProt_ID: [P01009]

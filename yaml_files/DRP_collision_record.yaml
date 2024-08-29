@@ -1,0 +1,15 @@
+collision_symbol: DRP
+DENR:
+  ENSG_ID: [ENSG00000139726]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [8562.0]
+  OMIM_ID: ['604550']
+  UniProt_ID: [O43583]
+UTRN:
+  ENSG_ID: [ENSG00000152818]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6q24.2]
+  NCBI Gene ID: [7402.0]
+  OMIM_ID: ['128240']
+  UniProt_ID: [P46939]

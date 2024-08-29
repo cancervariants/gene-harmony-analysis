@@ -1,0 +1,36 @@
+collision_symbol: D-X
+FAM7A4:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [reserved]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FAM7A5:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [reserved]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ULK4P1:
+  ENSG_ID: [ENSG00000261279, ENSG00000291023]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q13.3, .nan]
+  NCBI Gene ID: [89838.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ULK4P2:
+  ENSG_ID: [ENSG00000260128, ENSG00000290723]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q13.2, .nan]
+  NCBI Gene ID: [100288380.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ULK4P3:
+  ENSG_ID: [ENSG00000178081, ENSG00000290997]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q13.2, .nan]
+  NCBI Gene ID: [89837.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

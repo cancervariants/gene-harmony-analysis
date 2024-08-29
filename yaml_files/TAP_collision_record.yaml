@@ -1,0 +1,29 @@
+collision_symbol: TAP
+FLNB:
+  ENSG_ID: [ENSG00000136068]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p14.3]
+  NCBI Gene ID: [2317.0]
+  OMIM_ID: ['603381']
+  UniProt_ID: [O75369]
+NXF1:
+  ENSG_ID: [ENSG00000162231]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [10482.0]
+  OMIM_ID: ['602647']
+  UniProt_ID: [Q9UBU9]
+SEC14L2:
+  ENSG_ID: [ENSG00000100003]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [23541.0]
+  OMIM_ID: ['607558']
+  UniProt_ID: [O76054]
+USO1:
+  ENSG_ID: [ENSG00000138768]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q21.1]
+  NCBI Gene ID: [8615.0]
+  OMIM_ID: ['603344']
+  UniProt_ID: [O60763]

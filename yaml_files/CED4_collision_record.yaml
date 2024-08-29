@@ -1,0 +1,15 @@
+collision_symbol: CED4
+APAF1:
+  ENSG_ID: [ENSG00000120868]
+  source: [NCBI Info]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [317.0]
+  OMIM_ID: ['602233']
+  UniProt_ID: [O14727]
+WDR19:
+  ENSG_ID: [ENSG00000157796]
+  source: [NCBI Info]
+  Chromosome: [4p14]
+  NCBI Gene ID: [57728.0]
+  OMIM_ID: ['608151']
+  UniProt_ID: [Q8NEZ3]

@@ -1,0 +1,15 @@
+collision_symbol: PhLP
+PDC:
+  ENSG_ID: [ENSG00000116703]
+  source: [NCBI Info]
+  Chromosome: [1q31.1]
+  NCBI Gene ID: [5132.0]
+  OMIM_ID: ['171490']
+  UniProt_ID: [P20941]
+PDCL:
+  ENSG_ID: [ENSG00000136940]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [5082.0]
+  OMIM_ID: ['604421']
+  UniProt_ID: [Q13371]

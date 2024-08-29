@@ -1,0 +1,15 @@
+collision_symbol: CHAMP
+CHAMP1:
+  ENSG_ID: [ENSG00000198824]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [283489.0]
+  OMIM_ID: ['616327']
+  UniProt_ID: [Q96JM3]
+MOV10L1:
+  ENSG_ID: [ENSG00000073146]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [54456.0]
+  OMIM_ID: ['605794']
+  UniProt_ID: [Q9BXT6]

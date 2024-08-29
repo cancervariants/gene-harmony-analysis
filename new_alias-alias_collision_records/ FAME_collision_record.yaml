@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100557
-  gene_symbol: CCDC198
-- ensg_id: NAN
-  gene_symbol: ' FCMTE3'
-collision_symbol: ' FAME'

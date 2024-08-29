@@ -1,0 +1,15 @@
+collision_symbol: KLIP1
+CENPU:
+  ENSG_ID: [ENSG00000151725]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [79682.0]
+  OMIM_ID: ['611511']
+  UniProt_ID: [Q71F23]
+YIPF3:
+  ENSG_ID: [ENSG00000137207]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [25844.0]
+  OMIM_ID: ['609775']
+  UniProt_ID: [Q9GZM5]

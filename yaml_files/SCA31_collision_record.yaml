@@ -1,0 +1,15 @@
+collision_symbol: SCA31
+BEAN1:
+  ENSG_ID: [ENSG00000166546]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q21]
+  NCBI Gene ID: [146227.0]
+  OMIM_ID: ['612051']
+  UniProt_ID: [Q3B7T3]
+TK2:
+  ENSG_ID: [ENSG00000166548]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q21]
+  NCBI Gene ID: [7084.0]
+  OMIM_ID: ['188250']
+  UniProt_ID: [O00142]

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000081087
-  gene_symbol: OSTM1
-- ensg_id: ENSG00000173281
-  gene_symbol: ' PPP1R3B'
-- ensg_id: ENSG00000182333
-  gene_symbol: ' LIPF'
-collision_symbol: GL

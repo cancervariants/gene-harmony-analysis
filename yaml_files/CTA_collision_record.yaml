@@ -1,0 +1,15 @@
+collision_symbol: CTA
+CERNA3:
+  ENSG_ID: [ENSG00000253603]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [105375847.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PCYT1A:
+  ENSG_ID: [ENSG00000161217]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [5130.0]
+  OMIM_ID: ['123695']
+  UniProt_ID: [P49585]

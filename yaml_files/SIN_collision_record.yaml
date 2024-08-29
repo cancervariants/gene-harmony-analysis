@@ -1,0 +1,15 @@
+collision_symbol: SIN
+EFS:
+  ENSG_ID: [ENSG00000100842]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10278.0]
+  OMIM_ID: ['609906']
+  UniProt_ID: [O43281]
+POLR3E:
+  ENSG_ID: [ENSG00000058600]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p12.2]
+  NCBI Gene ID: [55718.0]
+  OMIM_ID: ['617815']
+  UniProt_ID: [Q9NVU0]

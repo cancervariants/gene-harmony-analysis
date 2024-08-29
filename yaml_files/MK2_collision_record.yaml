@@ -1,0 +1,15 @@
+collision_symbol: MK2
+KCNA2:
+  ENSG_ID: [ENSG00000177301]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [3737.0]
+  OMIM_ID: ['176262']
+  UniProt_ID: [P16389]
+MAPKAPK2:
+  ENSG_ID: [ENSG00000162889]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [9261.0]
+  OMIM_ID: ['602006']
+  UniProt_ID: [P49137]

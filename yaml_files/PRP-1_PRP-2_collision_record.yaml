@@ -1,0 +1,15 @@
+collision_symbol: PRP-1/PRP-2
+PRH1:
+  ENSG_ID: [ENSG00000231887]
+  source: [NCBI Info]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [5554.0]
+  OMIM_ID: ['168730']
+  UniProt_ID: [P02810]
+PRH2:
+  ENSG_ID: [ENSG00000134551]
+  source: [NCBI Info]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [5555.0]
+  OMIM_ID: ['168790']
+  UniProt_ID: [P02810]

@@ -1,0 +1,15 @@
+collision_symbol: LFA-1
+ITGAL:
+  ENSG_ID: [ENSG00000005844]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3683.0]
+  OMIM_ID: ['153370']
+  UniProt_ID: [P20701]
+ITGB2:
+  ENSG_ID: [ENSG00000160255]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [3689.0]
+  OMIM_ID: ['600065']
+  UniProt_ID: [P05107]

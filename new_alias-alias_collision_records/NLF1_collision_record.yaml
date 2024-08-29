@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204442
-  gene_symbol: NALF1
-- ensg_id: ENSG00000198535
-  gene_symbol: ' C2CD4A'
-collision_symbol: NLF1

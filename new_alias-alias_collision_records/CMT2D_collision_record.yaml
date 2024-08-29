@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106105
-  gene_symbol: GARS1
-- ensg_id: ENSG00000156709
-  gene_symbol: ' AIFM1'
-collision_symbol: CMT2D

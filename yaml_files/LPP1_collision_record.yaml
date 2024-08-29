@@ -1,0 +1,15 @@
+collision_symbol: LPP1
+PLPP1:
+  ENSG_ID: [ENSG00000067113]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [8611.0]
+  OMIM_ID: ['607124']
+  UniProt_ID: [O14494]
+VANGL2:
+  ENSG_ID: [ENSG00000162738]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [57216.0]
+  OMIM_ID: ['600533']
+  UniProt_ID: [Q9ULK5]

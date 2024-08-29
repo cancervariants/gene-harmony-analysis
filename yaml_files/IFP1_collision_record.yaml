@@ -1,0 +1,15 @@
+collision_symbol: IFP1
+TRIM34:
+  ENSG_ID: [ENSG00000258659]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [53840.0]
+  OMIM_ID: ['605684']
+  UniProt_ID: [Q9BYJ4]
+TRIM6-TRIM34:
+  ENSG_ID: [ENSG00000258588]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [445372.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188706
-  gene_symbol: ZDHHC9
-- ensg_id: ENSG00000292338
-  gene_symbol: ' DHRSX'
-collision_symbol: CXorf11

@@ -1,0 +1,22 @@
+collision_symbol: TCRG
+TARP:
+  ENSG_ID: [ENSG00000289746]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRG:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7p14]
+  NCBI Gene ID: [6965.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRGC1:
+  ENSG_ID: [ENSG00000211689]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [6966.0]
+  OMIM_ID: ['186970']
+  UniProt_ID: ['A2JGV3, P0CF51']

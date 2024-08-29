@@ -1,0 +1,15 @@
+collision_symbol: CFHL3
+CFH:
+  ENSG_ID: [ENSG00000000971]
+  source: [NCBI Info]
+  Chromosome: [1q31.3]
+  NCBI Gene ID: [3075.0]
+  OMIM_ID: ['134370']
+  UniProt_ID: [P08603]
+CFHR3:
+  ENSG_ID: [ENSG00000116785]
+  source: [NCBI Info]
+  Chromosome: [1q31.3]
+  NCBI Gene ID: [10878.0]
+  OMIM_ID: ['605336']
+  UniProt_ID: [Q02985]

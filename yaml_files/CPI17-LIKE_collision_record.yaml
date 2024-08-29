@@ -1,0 +1,15 @@
+collision_symbol: CPI17-like
+PPP1R14C:
+  ENSG_ID: [ENSG00000198729]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [81706.0]
+  OMIM_ID: ['613242']
+  UniProt_ID: [Q8TAE6]
+PPP1R14D:
+  ENSG_ID: [ENSG00000166143]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [54866.0]
+  OMIM_ID: ['613256']
+  UniProt_ID: [Q9NXH3]

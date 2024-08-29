@@ -1,0 +1,15 @@
+collision_symbol: MEGT1
+LY6G6D:
+  ENSG_ID: [ENSG00000244355, ENSG00000206402]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.33, .nan]
+  NCBI Gene ID: [58530.0, .nan]
+  OMIM_ID: ['606038', .nan]
+  UniProt_ID: [O95868, .nan]
+LY6G6F-LY6G6D:
+  ENSG_ID: [ENSG00000250641]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [110599563.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

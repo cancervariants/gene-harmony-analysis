@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HIGD1AP1
-- ensg_id: ENSG00000181061
-  gene_symbol: ' HIGD1A'
-collision_symbol: HIG1

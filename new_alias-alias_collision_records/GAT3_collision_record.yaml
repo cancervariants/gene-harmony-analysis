@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132164
-  gene_symbol: SLC6A11
-- ensg_id: ENSG00000010379
-  gene_symbol: ' SLC6A13'
-collision_symbol: GAT3

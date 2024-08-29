@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159339
-  gene_symbol: PADI4
-- ensg_id: ENSG00000108406
-  gene_symbol: ' DHX40'
-collision_symbol: PAD

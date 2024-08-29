@@ -1,0 +1,15 @@
+collision_symbol: MCM
+MMUT:
+  ENSG_ID: [ENSG00000146085]
+  source: [NCBI Info]
+  Chromosome: [6p12.3]
+  NCBI Gene ID: [4594.0]
+  OMIM_ID: ['609058']
+  UniProt_ID: [P22033]
+PIK3CA:
+  ENSG_ID: [ENSG00000121879]
+  source: [NCBI Info]
+  Chromosome: [3q26.32]
+  NCBI Gene ID: [5290.0]
+  OMIM_ID: ['171834']
+  UniProt_ID: [P42336]

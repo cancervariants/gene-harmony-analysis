@@ -1,0 +1,15 @@
+collision_symbol: HCCA2
+MOB2:
+  ENSG_ID: [ENSG00000182208]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [81532.0]
+  OMIM_ID: ['611969']
+  UniProt_ID: [Q70IA6]
+YY1AP1:
+  ENSG_ID: [ENSG00000163374]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [55249.0]
+  OMIM_ID: ['607860']
+  UniProt_ID: [Q9H869]

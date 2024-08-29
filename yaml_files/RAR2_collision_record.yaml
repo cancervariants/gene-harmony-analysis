@@ -1,0 +1,15 @@
+collision_symbol: RAR2
+RAB40A:
+  ENSG_ID: [ENSG00000172476]
+  source: [NCBI Info]
+  Chromosome: [Xq22.2]
+  NCBI Gene ID: [142684.0]
+  OMIM_ID: ['301065']
+  UniProt_ID: [Q8WXH6]
+RAB40AL:
+  ENSG_ID: [ENSG00000102128]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [282808.0]
+  OMIM_ID: ['300405']
+  UniProt_ID: [P0C0E4]

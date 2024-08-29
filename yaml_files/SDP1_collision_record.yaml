@@ -1,0 +1,15 @@
+collision_symbol: SDP1
+SCAND1:
+  ENSG_ID: [ENSG00000171222]
+  source: [NCBI Info]
+  Chromosome: [20q11.23]
+  NCBI Gene ID: [51282.0]
+  OMIM_ID: ['610416']
+  UniProt_ID: [P57086]
+SNX9:
+  ENSG_ID: [ENSG00000130340]
+  source: [NCBI Info]
+  Chromosome: [6q25.3]
+  NCBI Gene ID: [51429.0]
+  OMIM_ID: ['605952']
+  UniProt_ID: [Q9Y5X1]

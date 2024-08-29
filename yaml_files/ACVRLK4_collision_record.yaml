@@ -1,0 +1,15 @@
+collision_symbol: ACVRLK4
+ACVR1B:
+  ENSG_ID: [ENSG00000135503]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [91.0]
+  OMIM_ID: ['601300']
+  UniProt_ID: [P36896]
+TGFBR1:
+  ENSG_ID: [ENSG00000106799]
+  source: [NCBI Info]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [7046.0]
+  OMIM_ID: ['190181']
+  UniProt_ID: [P36897]

@@ -1,0 +1,15 @@
+collision_symbol: PSP2
+RBM14:
+  ENSG_ID: [ENSG00000239306]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [10432.0]
+  OMIM_ID: ['612409']
+  UniProt_ID: [Q96PK6]
+RBM14-RBM4:
+  ENSG_ID: [ENSG00000248643]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [100526737.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

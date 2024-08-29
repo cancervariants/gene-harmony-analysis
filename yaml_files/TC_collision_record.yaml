@@ -1,0 +1,15 @@
+collision_symbol: TC
+CD55:
+  ENSG_ID: [ENSG00000196352]
+  source: [NCBI Info]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [1604.0]
+  OMIM_ID: ['125240']
+  UniProt_ID: [P08174]
+TCN2:
+  ENSG_ID: [ENSG00000185339]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [6948.0]
+  OMIM_ID: ['613441']
+  UniProt_ID: [P20062]

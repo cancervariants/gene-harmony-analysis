@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188026
-  gene_symbol: RILPL1
-- ensg_id: ENSG00000168004
-  gene_symbol: ' PLAAT5'
-collision_symbol: RLP1

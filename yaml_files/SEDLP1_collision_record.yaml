@@ -1,0 +1,15 @@
+collision_symbol: SEDLP1
+TRAPPC2B:
+  ENSG_ID: [ENSG00000256060]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [10597.0]
+  OMIM_ID: ['620472']
+  UniProt_ID: [P0DI82]
+ZNF547:
+  ENSG_ID: [ENSG00000152433]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [284306.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8IVP9]

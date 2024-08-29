@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185664
-  gene_symbol: PMEL
-- ensg_id: ENSG00000123473
-  gene_symbol: ' STIL'
-collision_symbol: ' SIL'

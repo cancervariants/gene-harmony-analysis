@@ -1,0 +1,15 @@
+collision_symbol: GSTAP2
+GSTA10P:
+  ENSG_ID: [.nan, ENSG00000230845]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 6p12.2]
+  NCBI Gene ID: [.nan, 647177.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+GSTA7P:
+  ENSG_ID: [.nan, ENSG00000237674]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 6p12.2]
+  NCBI Gene ID: [.nan, 730152.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

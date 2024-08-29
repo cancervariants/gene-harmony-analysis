@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197272
-  gene_symbol: IL27
-- ensg_id: ENSG00000172458
-  gene_symbol: ' IL17D'
-collision_symbol: IL-27

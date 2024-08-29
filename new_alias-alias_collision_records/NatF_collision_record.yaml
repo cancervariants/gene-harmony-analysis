@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122390
-  gene_symbol: NAA60
-- ensg_id: ENSG00000122482
-  gene_symbol: ' ZNF644'
-collision_symbol: NatF

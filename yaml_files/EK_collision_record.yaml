@@ -1,0 +1,22 @@
+collision_symbol: EK
+CHKA:
+  ENSG_ID: [ENSG00000110721]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [1119.0]
+  OMIM_ID: ['118491']
+  UniProt_ID: [P35790]
+CHKB:
+  ENSG_ID: [ENSG00000100288]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [1120.0]
+  OMIM_ID: ['612395']
+  UniProt_ID: [Q9Y259]
+TAC4:
+  ENSG_ID: [ENSG00000176358]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [255061.0]
+  OMIM_ID: ['607833']
+  UniProt_ID: [Q86UU9]

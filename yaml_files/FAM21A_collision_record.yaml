@@ -1,0 +1,15 @@
+collision_symbol: FAM21A
+WASHC2A:
+  ENSG_ID: [ENSG00000099290]
+  source: [NCBI Info]
+  Chromosome: [10q11.23]
+  NCBI Gene ID: [387680.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q641Q2]
+WASHC2C:
+  ENSG_ID: [ENSG00000172661]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [253725.0]
+  OMIM_ID: ['613631']
+  UniProt_ID: [Q9Y4E1]

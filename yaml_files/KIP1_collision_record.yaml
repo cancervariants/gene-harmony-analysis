@@ -1,0 +1,15 @@
+collision_symbol: KIP1
+CDKN1B:
+  ENSG_ID: [ENSG00000111276]
+  source: [NCBI Info]
+  Chromosome: [12p13.1]
+  NCBI Gene ID: [1027.0]
+  OMIM_ID: ['600778']
+  UniProt_ID: [P46527]
+CIB1:
+  ENSG_ID: [ENSG00000185043]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [10519.0]
+  OMIM_ID: ['602293']
+  UniProt_ID: [Q99828]

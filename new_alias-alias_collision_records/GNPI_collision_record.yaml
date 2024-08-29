@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105220
-  gene_symbol: GPI
-- ensg_id: ENSG00000113552
-  gene_symbol: ' GNPDA1'
-collision_symbol: GNPI

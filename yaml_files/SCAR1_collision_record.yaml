@@ -1,0 +1,15 @@
+collision_symbol: SCAR1
+SETX:
+  ENSG_ID: [ENSG00000107290]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [23064.0]
+  OMIM_ID: ['608465']
+  UniProt_ID: [Q7Z333]
+WASF1:
+  ENSG_ID: [ENSG00000112290]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [8936.0]
+  OMIM_ID: ['605035']
+  UniProt_ID: [Q92558]

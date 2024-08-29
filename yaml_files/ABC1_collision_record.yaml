@@ -1,0 +1,15 @@
+collision_symbol: ABC1
+ABCA1:
+  ENSG_ID: [ENSG00000165029]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q31.1]
+  NCBI Gene ID: [19.0]
+  OMIM_ID: ['600046']
+  UniProt_ID: [O95477]
+HEATR6:
+  ENSG_ID: [ENSG00000068097]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [63897.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6AI08]

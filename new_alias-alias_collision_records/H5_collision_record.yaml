@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108387
-  gene_symbol: SEPTIN4
-- ensg_id: ENSG00000184702
-  gene_symbol: ' SEPTIN5'
-collision_symbol: H5

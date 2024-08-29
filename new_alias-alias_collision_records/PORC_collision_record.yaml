@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000256269
-  gene_symbol: HMBS
-- ensg_id: ENSG00000102312
-  gene_symbol: ' PORCN'
-collision_symbol: PORC

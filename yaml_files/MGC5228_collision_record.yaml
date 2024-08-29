@@ -1,0 +1,15 @@
+collision_symbol: MGC5228
+PRSS30P:
+  ENSG_ID: [ENSG00000172460]
+  source: [HGNC, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [124221.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SRSF1:
+  ENSG_ID: [ENSG00000136450]
+  source: [HGNC, ENSG]
+  Chromosome: [17q22]
+  NCBI Gene ID: [6426.0]
+  OMIM_ID: ['600812']
+  UniProt_ID: [Q07955]

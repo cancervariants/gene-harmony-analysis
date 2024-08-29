@@ -1,0 +1,15 @@
+collision_symbol: FGF-13
+FGF13:
+  ENSG_ID: [ENSG00000129682]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3-q27.1]
+  NCBI Gene ID: [2258.0]
+  OMIM_ID: ['300070']
+  UniProt_ID: [Q92913]
+FGF17:
+  ENSG_ID: [ENSG00000158815]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [8822.0]
+  OMIM_ID: ['603725']
+  UniProt_ID: [O60258]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000033050
-  gene_symbol: ABCF2
-- ensg_id: ENSG00000197150
-  gene_symbol: ' ABCB8'
-collision_symbol: ' M-ABC1'

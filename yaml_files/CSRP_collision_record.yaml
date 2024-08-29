@@ -1,0 +1,15 @@
+collision_symbol: CSRP
+CSRP1:
+  ENSG_ID: [ENSG00000159176]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [1465.0]
+  OMIM_ID: ['123876']
+  UniProt_ID: [P21291]
+MED14:
+  ENSG_ID: [ENSG00000180182]
+  source: [NCBI Info]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [9282.0]
+  OMIM_ID: ['300182']
+  UniProt_ID: [O60244]

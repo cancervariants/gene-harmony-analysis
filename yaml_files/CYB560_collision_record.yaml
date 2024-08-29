@@ -1,0 +1,15 @@
+collision_symbol: CYB560
+LOC642502:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SDHC:
+  ENSG_ID: [ENSG00000143252]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [6391.0]
+  OMIM_ID: ['602413']
+  UniProt_ID: [Q99643]

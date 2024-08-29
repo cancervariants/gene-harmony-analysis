@@ -1,0 +1,15 @@
+collision_symbol: CCN1
+CCNA2:
+  ENSG_ID: [ENSG00000145386]
+  source: [NCBI Info]
+  Chromosome: [4q27]
+  NCBI Gene ID: [890.0]
+  OMIM_ID: ['123835']
+  UniProt_ID: [P20248]
+PPP3CA:
+  ENSG_ID: [ENSG00000138814]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [5530.0]
+  OMIM_ID: ['114105']
+  UniProt_ID: [Q08209]

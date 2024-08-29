@@ -1,0 +1,15 @@
+collision_symbol: OR11-13
+OR1D3P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR52I1:
+  ENSG_ID: [ENSG00000232268]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [390037.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGK6]

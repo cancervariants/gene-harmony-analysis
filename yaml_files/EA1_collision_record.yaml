@@ -1,0 +1,15 @@
+collision_symbol: EA1
+CD69:
+  ENSG_ID: [ENSG00000110848]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [969.0]
+  OMIM_ID: ['107273']
+  UniProt_ID: [Q07108]
+KCNA1:
+  ENSG_ID: [ENSG00000111262]
+  source: [NCBI Info]
+  Chromosome: [12p13.32]
+  NCBI Gene ID: [3736.0]
+  OMIM_ID: ['176260']
+  UniProt_ID: [Q09470]

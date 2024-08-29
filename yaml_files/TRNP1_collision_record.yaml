@@ -1,0 +1,22 @@
+collision_symbol: TRNP1
+TRL-AAG2-3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7207.0]
+  OMIM_ID: ['189932']
+  UniProt_ID: [.nan]
+TRP-AGG2-5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7217.0]
+  OMIM_ID: ['189930']
+  UniProt_ID: [.nan]
+TRP-AGG2-6:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7218.0]
+  OMIM_ID: ['189931']
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: ETK
+BMX:
+  ENSG_ID: [ENSG00000102010]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [660.0]
+  OMIM_ID: ['300101']
+  UniProt_ID: [P51813]
+EPHA3:
+  ENSG_ID: [ENSG00000044524]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p11.1]
+  NCBI Gene ID: [2042.0]
+  OMIM_ID: ['179611']
+  UniProt_ID: [P29320]

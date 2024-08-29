@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000227430
-  gene_symbol: H3P9
-- ensg_id: ENSG00000086504
-  gene_symbol: ' MRPL28'
-collision_symbol: p15

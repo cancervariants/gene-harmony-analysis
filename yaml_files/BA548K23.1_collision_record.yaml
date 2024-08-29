@@ -1,0 +1,15 @@
+collision_symbol: bA548K23.1
+AGAP13P:
+  ENSG_ID: [ENSG00000243289, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10q11.22, .nan]
+  NCBI Gene ID: [728005.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+C10orf62:
+  ENSG_ID: [ENSG00000203942]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10q24.2]
+  NCBI Gene ID: [414157.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5T681]

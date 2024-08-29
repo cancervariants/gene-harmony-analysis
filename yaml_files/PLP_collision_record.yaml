@@ -1,0 +1,29 @@
+collision_symbol: PLP
+PDXP:
+  ENSG_ID: [ENSG00000241360]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [57026.0]
+  OMIM_ID: ['609246']
+  UniProt_ID: [Q96GD0]
+PLP1:
+  ENSG_ID: [ENSG00000123560]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq22.2]
+  NCBI Gene ID: [5354.0]
+  OMIM_ID: ['300401']
+  UniProt_ID: [P60201]
+PRDX5:
+  ENSG_ID: [ENSG00000126432]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [25824.0]
+  OMIM_ID: ['606583']
+  UniProt_ID: [P30044]
+PTHLH:
+  ENSG_ID: [ENSG00000087494]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p11.22]
+  NCBI Gene ID: [5744.0]
+  OMIM_ID: ['168470']
+  UniProt_ID: [P12272]

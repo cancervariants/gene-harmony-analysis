@@ -1,0 +1,15 @@
+collision_symbol: ADPRTL2
+PARP2:
+  ENSG_ID: [ENSG00000129484]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10038.0]
+  OMIM_ID: ['607725']
+  UniProt_ID: [Q9UGN5]
+PARP3:
+  ENSG_ID: [ENSG00000041880]
+  source: [NCBI Info]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [10039.0]
+  OMIM_ID: ['607726']
+  UniProt_ID: [Q9Y6F1]

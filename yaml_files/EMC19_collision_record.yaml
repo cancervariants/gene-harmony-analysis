@@ -1,0 +1,15 @@
+collision_symbol: EMC19
+SKP1:
+  ENSG_ID: [ENSG00000113558]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [6500.0]
+  OMIM_ID: ['601434']
+  UniProt_ID: [P63208]
+SKP1P1:
+  ENSG_ID: [ENSG00000231234, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q11.21, .nan]
+  NCBI Gene ID: [6922.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

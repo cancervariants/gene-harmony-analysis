@@ -1,0 +1,22 @@
+collision_symbol: WAGR
+DEL11P13:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PAX6:
+  ENSG_ID: [ENSG00000007372]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p13]
+  NCBI Gene ID: [5080.0]
+  OMIM_ID: ['607108']
+  UniProt_ID: [P26367]
+WT1:
+  ENSG_ID: [ENSG00000184937]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p13]
+  NCBI Gene ID: [7490.0]
+  OMIM_ID: ['607102']
+  UniProt_ID: [P19544]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159131
-  gene_symbol: GART
-- ensg_id: ENSG00000128050
-  gene_symbol: ' PAICS'
-collision_symbol: PAIS

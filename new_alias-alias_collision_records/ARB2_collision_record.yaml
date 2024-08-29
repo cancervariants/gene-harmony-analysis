@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141480
-  gene_symbol: ARRB2
-- ensg_id: ENSG00000169252
-  gene_symbol: ' ADRB2'
-collision_symbol: ARB2

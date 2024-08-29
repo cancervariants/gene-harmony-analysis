@@ -1,0 +1,29 @@
+collision_symbol: ILWEQ
+HIP1:
+  ENSG_ID: [ENSG00000127946]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [3092.0]
+  OMIM_ID: ['601767']
+  UniProt_ID: [O00291]
+HIP1R:
+  ENSG_ID: [ENSG00000130787]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [9026.0]
+  OMIM_ID: ['605613']
+  UniProt_ID: [O75146]
+TLN1:
+  ENSG_ID: [ENSG00000137076]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [7094.0]
+  OMIM_ID: ['186745']
+  UniProt_ID: [Q9Y490]
+TLN2:
+  ENSG_ID: [ENSG00000171914]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q22.2]
+  NCBI Gene ID: [83660.0]
+  OMIM_ID: ['607349']
+  UniProt_ID: [Q9Y4G6]

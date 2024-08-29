@@ -1,0 +1,15 @@
+collision_symbol: TTP1
+COPRS:
+  ENSG_ID: [ENSG00000172301]
+  source: [NCBI Info]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [55352.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NQ92]
+TTPA:
+  ENSG_ID: [ENSG00000137561]
+  source: [NCBI Info]
+  Chromosome: [8q12.3]
+  NCBI Gene ID: [7274.0]
+  OMIM_ID: ['600415']
+  UniProt_ID: [P49638]

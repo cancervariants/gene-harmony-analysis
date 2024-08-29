@@ -1,0 +1,15 @@
+collision_symbol: GLYT1
+MGAT1:
+  ENSG_ID: [ENSG00000131446]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [4245.0]
+  OMIM_ID: ['160995']
+  UniProt_ID: [P26572]
+SLC6A9:
+  ENSG_ID: [ENSG00000196517]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [6536.0]
+  OMIM_ID: ['601019']
+  UniProt_ID: [P48067]

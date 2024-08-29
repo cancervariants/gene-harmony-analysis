@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164161
-  gene_symbol: HHIP
-- ensg_id: ENSG00000162244
-  gene_symbol: ' RPL29'
-- ensg_id: ENSG00000100380
-  gene_symbol: ' ST13'
-collision_symbol: ' HIP'

@@ -1,0 +1,15 @@
+collision_symbol: TUBB4
+TUBB3:
+  ENSG_ID: [ENSG00000258947]
+  source: [NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [10381.0]
+  OMIM_ID: ['602661']
+  UniProt_ID: [Q13509]
+TUBB4A:
+  ENSG_ID: [ENSG00000104833]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [10382.0]
+  OMIM_ID: ['602662']
+  UniProt_ID: [P04350]

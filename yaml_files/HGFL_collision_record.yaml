@@ -1,0 +1,15 @@
+collision_symbol: HGFL
+MST1:
+  ENSG_ID: [ENSG00000173531]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [4485.0]
+  OMIM_ID: ['142408']
+  UniProt_ID: [P26927]
+PIK3IP1:
+  ENSG_ID: [ENSG00000100100]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [113791.0]
+  OMIM_ID: ['619158']
+  UniProt_ID: [Q96FE7]

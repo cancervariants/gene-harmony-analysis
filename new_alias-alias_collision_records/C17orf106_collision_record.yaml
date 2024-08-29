@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000257949
-  gene_symbol: TEN1
-- ensg_id: ENSG00000261408
-  gene_symbol: ' TEN1-CDK3'
-collision_symbol: C17orf106

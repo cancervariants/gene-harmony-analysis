@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135828
-  gene_symbol: RNASEL
-- ensg_id: ENSG00000258818
-  gene_symbol: ' RNASE4'
-collision_symbol: RNS4

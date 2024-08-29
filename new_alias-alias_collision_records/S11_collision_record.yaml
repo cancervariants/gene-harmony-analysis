@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185627
-  gene_symbol: PSMD13
-- ensg_id: ENSG00000142534
-  gene_symbol: ' RPS11'
-collision_symbol: S11

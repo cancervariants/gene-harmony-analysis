@@ -1,0 +1,15 @@
+collision_symbol: GARS
+GARS1:
+  ENSG_ID: [ENSG00000106105]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [2617.0]
+  OMIM_ID: ['600287']
+  UniProt_ID: [P41250]
+GART:
+  ENSG_ID: [ENSG00000159131]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [2618.0]
+  OMIM_ID: ['138440']
+  UniProt_ID: [P22102]

@@ -1,0 +1,15 @@
+collision_symbol: C15orf63
+HYPK:
+  ENSG_ID: [ENSG00000242028]
+  source: [NCBI Info]
+  Chromosome: [15q15.3]
+  NCBI Gene ID: [25764.0]
+  OMIM_ID: ['612784']
+  UniProt_ID: [Q9NX55]
+SERF2-C15ORF63:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

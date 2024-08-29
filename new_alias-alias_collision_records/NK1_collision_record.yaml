@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109956
-  gene_symbol: B3GAT1
-- ensg_id: ENSG00000117281
-  gene_symbol: ' CD160'
-collision_symbol: NK1

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169432
-  gene_symbol: SCN9A
-- ensg_id: NAN
-  gene_symbol: ' GEFSP7'
-collision_symbol: FEB3B

@@ -1,0 +1,15 @@
+collision_symbol: KRTAP18.1
+KRTAP10-1:
+  ENSG_ID: [ENSG00000215455]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [386677.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P60331]
+KRTAP10-5:
+  ENSG_ID: [ENSG00000241123]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [386680.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P60370]

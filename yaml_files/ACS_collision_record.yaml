@@ -1,0 +1,22 @@
+collision_symbol: ACS
+ACCS:
+  ENSG_ID: [ENSG00000110455]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [84680.0]
+  OMIM_ID: ['608405']
+  UniProt_ID: [Q96QU6]
+ACSS2:
+  ENSG_ID: [ENSG00000131069]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [55902.0]
+  OMIM_ID: ['605832']
+  UniProt_ID: [Q9NR19]
+PLA2G15:
+  ENSG_ID: [ENSG00000103066]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [23659.0]
+  OMIM_ID: ['609362']
+  UniProt_ID: [Q8NCC3]

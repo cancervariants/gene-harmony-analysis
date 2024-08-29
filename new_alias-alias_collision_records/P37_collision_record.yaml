@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134480
-  gene_symbol: CCNH
-- ensg_id: ENSG00000075188
-  gene_symbol: ' NUP37'
-- ensg_id: ENSG00000215114
-  gene_symbol: ' UBXN2B'
-collision_symbol: p37

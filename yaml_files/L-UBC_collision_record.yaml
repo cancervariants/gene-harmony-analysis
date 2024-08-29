@@ -1,0 +1,15 @@
+collision_symbol: L-UBC
+UBE2L1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q22.3]
+  NCBI Gene ID: [283556.0]
+  OMIM_ID: ['600012']
+  UniProt_ID: [.nan]
+UBE2L3:
+  ENSG_ID: [ENSG00000185651]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [7332.0]
+  OMIM_ID: ['603721']
+  UniProt_ID: [P68036]

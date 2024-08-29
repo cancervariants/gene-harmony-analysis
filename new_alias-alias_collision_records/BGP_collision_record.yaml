@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000242252
-  gene_symbol: BGLAP
-- ensg_id: ENSG00000079385
-  gene_symbol: ' CEACAM1'
-collision_symbol: BGP

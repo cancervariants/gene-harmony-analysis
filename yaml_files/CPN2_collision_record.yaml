@@ -1,0 +1,15 @@
+collision_symbol: CPN2
+CPNE2:
+  ENSG_ID: [ENSG00000140848]
+  source: [NCBI Info]
+  Chromosome: [16q13]
+  NCBI Gene ID: [221184.0]
+  OMIM_ID: ['604206']
+  UniProt_ID: [Q96FN4]
+CYP11B2:
+  ENSG_ID: [ENSG00000179142]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [1585.0]
+  OMIM_ID: ['124080']
+  UniProt_ID: [P19099]

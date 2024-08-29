@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000276027
-  gene_symbol: RNU12
-- ensg_id: ENSG00000201659
-  gene_symbol: ' RNU12-2P'
-collision_symbol: ' RNU12P'

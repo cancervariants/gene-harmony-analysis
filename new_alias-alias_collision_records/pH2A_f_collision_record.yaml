@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196787
-  gene_symbol: H2AC11
-- ensg_id: NAN
-  gene_symbol: ' H2AC5P'
-collision_symbol: pH2A/f

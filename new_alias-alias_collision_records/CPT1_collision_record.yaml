@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000157184
-  gene_symbol: CPT2
-- ensg_id: ENSG00000111666
-  gene_symbol: ' CHPT1'
-- ensg_id: ENSG00000110090
-  gene_symbol: ' CPT1A'
-collision_symbol: CPT1

@@ -1,0 +1,36 @@
+collision_symbol: NET1
+NTN1:
+  ENSG_ID: [ENSG00000065320]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [9423.0]
+  OMIM_ID: ['601614']
+  UniProt_ID: [O95631]
+PRPF38B:
+  ENSG_ID: [ENSG00000134186]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [55119.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5VTL8]
+SLC6A2:
+  ENSG_ID: [ENSG00000103546]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [6530.0]
+  OMIM_ID: ['163970']
+  UniProt_ID: [P23975]
+SLC6A5:
+  ENSG_ID: [ENSG00000165970]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [9152.0]
+  OMIM_ID: ['604159']
+  UniProt_ID: [Q9Y345]
+TSPAN1:
+  ENSG_ID: [ENSG00000117472]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [10103.0]
+  OMIM_ID: ['613170']
+  UniProt_ID: [O60635]

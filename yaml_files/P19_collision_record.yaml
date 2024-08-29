@@ -1,0 +1,22 @@
+collision_symbol: p19
+CDKN2A:
+  ENSG_ID: [ENSG00000147889]
+  source: [HGNC]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [1029.0]
+  OMIM_ID: ['600160']
+  UniProt_ID: ['P42771, Q8N726']
+CDKN2D:
+  ENSG_ID: [ENSG00000129355]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [1032.0]
+  OMIM_ID: ['600927']
+  UniProt_ID: [P55273]
+H3P13:
+  ENSG_ID: [ENSG00000243977]
+  source: [NCBI Info]
+  Chromosome: [3q26.33]
+  NCBI Gene ID: [115482685.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: ERG3
+KCNH7:
+  ENSG_ID: [ENSG00000184611]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [90134.0]
+  OMIM_ID: ['608169']
+  UniProt_ID: [Q9NS40]
+SC5D:
+  ENSG_ID: [ENSG00000109929]
+  source: [NCBI Info]
+  Chromosome: [11q23.3-q24.1]
+  NCBI Gene ID: [6309.0]
+  OMIM_ID: ['602286']
+  UniProt_ID: [O75845]

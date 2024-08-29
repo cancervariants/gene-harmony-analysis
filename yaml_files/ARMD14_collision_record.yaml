@@ -1,0 +1,15 @@
+collision_symbol: ARMD14
+C2:
+  ENSG_ID: [ENSG00000166278]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [717.0]
+  OMIM_ID: ['613927']
+  UniProt_ID: [P06681]
+CFB:
+  ENSG_ID: [ENSG00000243649]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [629.0]
+  OMIM_ID: ['138470']
+  UniProt_ID: [P00751]

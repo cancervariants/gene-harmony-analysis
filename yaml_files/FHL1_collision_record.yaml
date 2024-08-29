@@ -1,0 +1,15 @@
+collision_symbol: FHL1
+CFH:
+  ENSG_ID: [ENSG00000000971]
+  source: [NCBI Info]
+  Chromosome: [1q31.3]
+  NCBI Gene ID: [3075.0]
+  OMIM_ID: ['134370']
+  UniProt_ID: [P08603]
+HPLH1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [9q21.3-q22]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

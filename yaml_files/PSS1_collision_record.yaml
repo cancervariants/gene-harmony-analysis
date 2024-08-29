@@ -1,0 +1,22 @@
+collision_symbol: PSS1
+CARD14:
+  ENSG_ID: [ENSG00000141527]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [79092.0]
+  OMIM_ID: ['607211']
+  UniProt_ID: [Q9BXL6]
+CDSN:
+  ENSG_ID: [ENSG00000204539]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [1041.0]
+  OMIM_ID: ['602593']
+  UniProt_ID: [Q15517]
+PTDSS1:
+  ENSG_ID: [ENSG00000156471]
+  source: [NCBI Info]
+  Chromosome: [8q22.1]
+  NCBI Gene ID: [9791.0]
+  OMIM_ID: ['612792']
+  UniProt_ID: [P48651]

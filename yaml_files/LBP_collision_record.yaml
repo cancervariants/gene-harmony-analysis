@@ -1,0 +1,15 @@
+collision_symbol: LBP
+EHHADH:
+  ENSG_ID: [ENSG00000113790]
+  source: [NCBI Info]
+  Chromosome: [3q27.2]
+  NCBI Gene ID: [1962.0]
+  OMIM_ID: ['607037']
+  UniProt_ID: [Q08426]
+RPSA:
+  ENSG_ID: [ENSG00000168028]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [3921.0]
+  OMIM_ID: ['150370']
+  UniProt_ID: [P08865]

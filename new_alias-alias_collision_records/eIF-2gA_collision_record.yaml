@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130741
-  gene_symbol: EIF2S3
-- ensg_id: ENSG00000180574
-  gene_symbol: ' EIF2S3B'
-collision_symbol: eIF-2gA

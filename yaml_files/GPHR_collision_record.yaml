@@ -1,0 +1,15 @@
+collision_symbol: GPHR
+GPR89A:
+  ENSG_ID: [ENSG00000117262]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [653519.0]
+  OMIM_ID: ['612821']
+  UniProt_ID: [B7ZAQ6]
+GPR89B:
+  ENSG_ID: [ENSG00000188092]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [51463.0]
+  OMIM_ID: ['612806']
+  UniProt_ID: [P0CG08]

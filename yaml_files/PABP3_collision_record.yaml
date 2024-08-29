@@ -1,0 +1,15 @@
+collision_symbol: PABP3
+PABPC1P3:
+  ENSG_ID: [ENSG00000230673, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.2, .nan]
+  NCBI Gene ID: [26978.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PABPC3:
+  ENSG_ID: [ENSG00000151846]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.13]
+  NCBI Gene ID: [5042.0]
+  OMIM_ID: ['604680']
+  UniProt_ID: [Q9H361]

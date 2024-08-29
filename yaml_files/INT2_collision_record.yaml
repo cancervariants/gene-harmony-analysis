@@ -1,0 +1,15 @@
+collision_symbol: INT2
+FGF3:
+  ENSG_ID: [ENSG00000186895]
+  source: [NCBI Info]
+  Chromosome: [11q13.3]
+  NCBI Gene ID: [2248.0]
+  OMIM_ID: ['164950']
+  UniProt_ID: [P11487]
+INTS2:
+  ENSG_ID: [ENSG00000108506]
+  source: [NCBI Info]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [57508.0]
+  OMIM_ID: ['611346']
+  UniProt_ID: [Q9H0H0]

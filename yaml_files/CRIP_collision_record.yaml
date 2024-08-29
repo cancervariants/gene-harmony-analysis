@@ -1,0 +1,15 @@
+collision_symbol: CRIP
+CRIP1:
+  ENSG_ID: [ENSG00000213145]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [1396.0]
+  OMIM_ID: ['123875']
+  UniProt_ID: [P50238]
+CRIP2:
+  ENSG_ID: [ENSG00000182809]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [1397.0]
+  OMIM_ID: ['601183']
+  UniProt_ID: [P52943]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104973
-  gene_symbol: MED25
-- ensg_id: ENSG00000187778
-  gene_symbol: ' MCRS1'
-collision_symbol: P78

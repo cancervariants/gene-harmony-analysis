@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100650
-  gene_symbol: SRSF5
-- ensg_id: ENSG00000185359
-  gene_symbol: ' HGS'
-collision_symbol: HRS

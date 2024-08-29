@@ -1,0 +1,15 @@
+collision_symbol: CFM2
+FOXI3:
+  ENSG_ID: [ENSG00000214336]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [344167.0]
+  OMIM_ID: ['612351']
+  UniProt_ID: [A8MTJ6]
+RFLNA:
+  ENSG_ID: [ENSG00000178882]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [144347.0]
+  OMIM_ID: ['615927']
+  UniProt_ID: [Q6ZTI6]

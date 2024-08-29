@@ -1,0 +1,15 @@
+collision_symbol: PEPP1
+PLEKHA4:
+  ENSG_ID: [ENSG00000105559]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [57664.0]
+  OMIM_ID: ['607769']
+  UniProt_ID: [Q9H4M7]
+RHOXF1:
+  ENSG_ID: [ENSG00000101883]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [158800.0]
+  OMIM_ID: ['300446']
+  UniProt_ID: [Q8NHV9]

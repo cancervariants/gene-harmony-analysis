@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151702
-  gene_symbol: FLI1
-- ensg_id: ENSG00000134954
-  gene_symbol: ' ETS1'
-collision_symbol: EWSR2

@@ -1,0 +1,15 @@
+collision_symbol: CRP3
+CEBPD:
+  ENSG_ID: [ENSG00000221869]
+  source: [NCBI Info]
+  Chromosome: [8q11.21]
+  NCBI Gene ID: [1052.0]
+  OMIM_ID: ['116898']
+  UniProt_ID: [P49716]
+CSRP3:
+  ENSG_ID: [ENSG00000129170]
+  source: [NCBI Info]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [8048.0]
+  OMIM_ID: ['600824']
+  UniProt_ID: [P50461]

@@ -1,0 +1,15 @@
+collision_symbol: MART1
+MLANA:
+  ENSG_ID: [ENSG00000120215]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p24.1]
+  NCBI Gene ID: [2315.0]
+  OMIM_ID: ['605513']
+  UniProt_ID: [Q16655]
+RTL1:
+  ENSG_ID: [ENSG00000254656]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.2]
+  NCBI Gene ID: [388015.0]
+  OMIM_ID: ['611896']
+  UniProt_ID: [A6NKG5]

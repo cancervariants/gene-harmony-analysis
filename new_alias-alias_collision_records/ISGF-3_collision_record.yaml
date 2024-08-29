@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115415
-  gene_symbol: STAT1
-- ensg_id: ENSG00000170581
-  gene_symbol: ' STAT2'
-collision_symbol: ISGF-3

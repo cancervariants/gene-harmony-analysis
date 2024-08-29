@@ -1,0 +1,15 @@
+collision_symbol: PBS
+CHRM3:
+  ENSG_ID: [ENSG00000133019]
+  source: [NCBI Info]
+  Chromosome: [1q43]
+  NCBI Gene ID: [1131.0]
+  OMIM_ID: ['118494']
+  UniProt_ID: [P20309]
+TSPO:
+  ENSG_ID: [ENSG00000100300]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [706.0]
+  OMIM_ID: ['109610']
+  UniProt_ID: ['B1AH88, P30536']

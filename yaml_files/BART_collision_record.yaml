@@ -1,0 +1,15 @@
+collision_symbol: BART
+ARL2BP:
+  ENSG_ID: [ENSG00000102931]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q13]
+  NCBI Gene ID: [23568.0]
+  OMIM_ID: ['615407']
+  UniProt_ID: [Q9Y2Y0]
+BSND:
+  ENSG_ID: [ENSG00000162399]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [7809.0]
+  OMIM_ID: ['606412']
+  UniProt_ID: [Q8WZ55]

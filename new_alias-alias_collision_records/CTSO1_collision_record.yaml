@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000256043
-  gene_symbol: CTSO
-- ensg_id: ENSG00000143387
-  gene_symbol: ' CTSK'
-collision_symbol: CTSO1

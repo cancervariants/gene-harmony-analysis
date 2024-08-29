@@ -1,0 +1,15 @@
+collision_symbol: OFD1P1
+OFD1P17:
+  ENSG_ID: [ENSG00000228212]
+  source: [NCBI Info]
+  Chromosome: [5p13.2]
+  NCBI Gene ID: [23738.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OFD1P1Y:
+  ENSG_ID: [ENSG00000226011]
+  source: [NCBI Info]
+  Chromosome: [Yq11.222]
+  NCBI Gene ID: [378009.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

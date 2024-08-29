@@ -1,0 +1,15 @@
+collision_symbol: PPN
+PAPLN:
+  ENSG_ID: [ENSG00000100767]
+  source: [NCBI Info]
+  Chromosome: [14q24.2]
+  NCBI Gene ID: [89932.0]
+  OMIM_ID: ['617785']
+  UniProt_ID: [O95428]
+PORCN:
+  ENSG_ID: [ENSG00000102312]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [64840.0]
+  OMIM_ID: ['300651']
+  UniProt_ID: [Q9H237]

@@ -1,0 +1,15 @@
+collision_symbol: TCBA1
+NKAIN2:
+  ENSG_ID: [ENSG00000188580]
+  source: [NCBI Info]
+  Chromosome: [6q22.31]
+  NCBI Gene ID: [154215.0]
+  OMIM_ID: ['609758']
+  UniProt_ID: [Q5VXU1]
+UBL7:
+  ENSG_ID: [ENSG00000138629]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [84993.0]
+  OMIM_ID: ['609748']
+  UniProt_ID: [Q96S82]

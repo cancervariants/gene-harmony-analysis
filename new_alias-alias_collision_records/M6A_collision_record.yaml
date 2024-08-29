@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150625
-  gene_symbol: GPM6A
-- ensg_id: ENSG00000165819
-  gene_symbol: ' METTL3'
-collision_symbol: M6A

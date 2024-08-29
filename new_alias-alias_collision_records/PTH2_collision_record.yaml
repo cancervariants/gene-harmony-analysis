@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141378
-  gene_symbol: PTRH2
-- ensg_id: ENSG00000293199
-  gene_symbol: ' PTENP1'
-collision_symbol: PTH2

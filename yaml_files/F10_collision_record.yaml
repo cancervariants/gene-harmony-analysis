@@ -1,0 +1,15 @@
+collision_symbol: F10
+FAM110A:
+  ENSG_ID: [ENSG00000125898]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [83541.0]
+  OMIM_ID: ['611393']
+  UniProt_ID: [Q9BQ89]
+PCID2:
+  ENSG_ID: [ENSG00000126226]
+  source: [NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [55795.0]
+  OMIM_ID: ['613713']
+  UniProt_ID: [Q5JVF3]

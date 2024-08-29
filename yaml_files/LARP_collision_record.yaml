@@ -1,0 +1,15 @@
+collision_symbol: LARP
+LARP1:
+  ENSG_ID: [ENSG00000155506]
+  source: [NCBI Info]
+  Chromosome: [5q33.2]
+  NCBI Gene ID: [23367.0]
+  OMIM_ID: ['612059']
+  UniProt_ID: [Q6PKG0]
+SEPTIN1:
+  ENSG_ID: [ENSG00000180096]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [1731.0]
+  OMIM_ID: ['612897']
+  UniProt_ID: [Q8WYJ6]

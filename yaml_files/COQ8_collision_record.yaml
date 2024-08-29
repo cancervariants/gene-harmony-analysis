@@ -1,0 +1,15 @@
+collision_symbol: COQ8
+COQ8A:
+  ENSG_ID: [ENSG00000163050]
+  source: [ENSG]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [56997.0]
+  OMIM_ID: ['606980']
+  UniProt_ID: [Q8NI60]
+COQ8B:
+  ENSG_ID: [ENSG00000123815]
+  source: [ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [79934.0]
+  OMIM_ID: ['615567']
+  UniProt_ID: [Q96D53]

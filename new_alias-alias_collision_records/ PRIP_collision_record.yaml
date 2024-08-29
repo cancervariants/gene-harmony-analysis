@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198646
-  gene_symbol: NCOA6
-- ensg_id: ENSG00000115896
-  gene_symbol: ' PLCL1'
-- ensg_id: ENSG00000171867
-  gene_symbol: ' PRNP'
-collision_symbol: ' PRIP'

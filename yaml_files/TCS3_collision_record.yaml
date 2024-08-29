@@ -1,0 +1,15 @@
+collision_symbol: TCS3
+OSGEP:
+  ENSG_ID: [ENSG00000092094]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [55644.0]
+  OMIM_ID: ['610107']
+  UniProt_ID: [Q9NPF4]
+POLR1C:
+  ENSG_ID: [ENSG00000171453]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [9533.0]
+  OMIM_ID: ['610060']
+  UniProt_ID: [O15160]

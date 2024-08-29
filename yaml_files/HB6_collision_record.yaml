@@ -1,0 +1,15 @@
+collision_symbol: HB6
+ENTPD3:
+  ENSG_ID: [ENSG00000168032]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [956.0]
+  OMIM_ID: ['603161']
+  UniProt_ID: [O75355]
+KRT86:
+  ENSG_ID: [ENSG00000170442]
+  source: [NCBI Info]
+  Chromosome: [12q13]
+  NCBI Gene ID: [3892.0]
+  OMIM_ID: ['601928']
+  UniProt_ID: [O43790]

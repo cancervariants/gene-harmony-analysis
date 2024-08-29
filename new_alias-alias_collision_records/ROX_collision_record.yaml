@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170854
-  gene_symbol: RIOX2
-- ensg_id: ENSG00000170468
-  gene_symbol: ' RIOX1'
-- ensg_id: ENSG00000070444
-  gene_symbol: ' MNT'
-collision_symbol: ROX

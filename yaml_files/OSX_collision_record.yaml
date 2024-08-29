@@ -1,0 +1,15 @@
+collision_symbol: OSX
+MID1:
+  ENSG_ID: [ENSG00000101871]
+  source: [NCBI Info]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [4281.0]
+  OMIM_ID: ['300552']
+  UniProt_ID: [O15344]
+SP7:
+  ENSG_ID: [ENSG00000170374]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [121340.0]
+  OMIM_ID: ['606633']
+  UniProt_ID: [Q8TDD2]

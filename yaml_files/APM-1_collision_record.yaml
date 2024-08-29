@@ -1,0 +1,15 @@
+collision_symbol: APM-1
+ADIPOQ:
+  ENSG_ID: [ENSG00000181092]
+  source: [NCBI Info]
+  Chromosome: [3q27.3]
+  NCBI Gene ID: [9370.0]
+  OMIM_ID: ['605441']
+  UniProt_ID: [Q15848]
+ZBTB7C:
+  ENSG_ID: [ENSG00000184828]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [201501.0]
+  OMIM_ID: ['616591']
+  UniProt_ID: [A1YPR0]

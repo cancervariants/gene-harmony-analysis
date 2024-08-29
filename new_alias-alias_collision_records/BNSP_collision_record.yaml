@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000118785
-  gene_symbol: SPP1
-- ensg_id: ENSG00000029559
-  gene_symbol: ' IBSP'
-collision_symbol: BNSP

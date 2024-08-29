@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000162997
-  gene_symbol: PRORSD1P
-- ensg_id: ENSG00000110435
-  gene_symbol: ' PDHX'
-collision_symbol: ' PROX'

@@ -1,0 +1,15 @@
+collision_symbol: HC3
+CYCSP24:
+  ENSG_ID: [ENSG00000227666, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q22.32, .nan]
+  NCBI Gene ID: [360177.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PSMA2:
+  ENSG_ID: [ENSG00000106588]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [5683.0]
+  OMIM_ID: ['176842']
+  UniProt_ID: [P25787]

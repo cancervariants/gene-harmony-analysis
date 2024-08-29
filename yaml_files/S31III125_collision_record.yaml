@@ -1,0 +1,15 @@
+collision_symbol: S31III125
+TMED10:
+  ENSG_ID: [ENSG00000170348]
+  source: [NCBI Info]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [10972.0]
+  OMIM_ID: ['605406']
+  UniProt_ID: [P49755]
+TMED10P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

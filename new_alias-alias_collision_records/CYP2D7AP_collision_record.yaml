@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: CYP2D7
-- ensg_id: ENSG00000100197
-  gene_symbol: ' CYP2D6'
-collision_symbol: CYP2D7AP

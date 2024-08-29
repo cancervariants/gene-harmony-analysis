@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125733
-  gene_symbol: TRIP10
-- ensg_id: ENSG00000196502
-  gene_symbol: ' SULT1A1'
-collision_symbol: ' STP'

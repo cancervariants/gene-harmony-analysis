@@ -1,0 +1,22 @@
+collision_symbol: CYP2C
+CYP2C18:
+  ENSG_ID: [ENSG00000108242]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [1562.0]
+  OMIM_ID: ['601131']
+  UniProt_ID: [P33260]
+CYP2C19:
+  ENSG_ID: [ENSG00000165841]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [1557.0]
+  OMIM_ID: ['124020']
+  UniProt_ID: [P33261]
+CYP2C9:
+  ENSG_ID: [ENSG00000138109]
+  source: [NCBI Info]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [1559.0]
+  OMIM_ID: ['601130']
+  UniProt_ID: [P11712]

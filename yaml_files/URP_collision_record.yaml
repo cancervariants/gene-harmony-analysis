@@ -1,0 +1,29 @@
+collision_symbol: URP
+UCN2:
+  ENSG_ID: [ENSG00000145040]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [90226.0]
+  OMIM_ID: ['605902']
+  UniProt_ID: [Q96RP3]
+UNC50:
+  ENSG_ID: [ENSG00000115446]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [25972.0]
+  OMIM_ID: ['617826']
+  UniProt_ID: [Q53HI1]
+UTS2B:
+  ENSG_ID: [ENSG00000188958]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q28]
+  NCBI Gene ID: [257313.0]
+  OMIM_ID: ['618134']
+  UniProt_ID: [Q765I0]
+ZRSR2:
+  ENSG_ID: [ENSG00000169249]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [8233.0]
+  OMIM_ID: ['300028']
+  UniProt_ID: [Q15696]

@@ -1,0 +1,15 @@
+collision_symbol: RP2
+NUDT19:
+  ENSG_ID: [ENSG00000213965]
+  source: [NCBI Info]
+  Chromosome: [19q13.11]
+  NCBI Gene ID: [390916.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A8MXV4]
+STK19B:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

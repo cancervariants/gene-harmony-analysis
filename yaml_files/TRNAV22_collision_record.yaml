@@ -1,0 +1,15 @@
+collision_symbol: TRNAV22
+TRV-CAC1-7:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [100189228.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRV-CAC5-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [107985749.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

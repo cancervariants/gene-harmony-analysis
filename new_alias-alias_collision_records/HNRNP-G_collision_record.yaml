@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000147274
-  gene_symbol: RBMX
-- ensg_id: ENSG00000216835
-  gene_symbol: ' RBMXP1'
-collision_symbol: HNRNP-G

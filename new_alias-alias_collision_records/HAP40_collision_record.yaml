@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000288722
-  gene_symbol: F8A1
-- ensg_id: ENSG00000277150
-  gene_symbol: ' F8A3'
-- ensg_id: ENSG00000288709
-  gene_symbol: ' F8A2'
-collision_symbol: HAP40

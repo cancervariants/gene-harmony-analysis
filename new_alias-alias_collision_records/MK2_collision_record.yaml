@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000177301
-  gene_symbol: KCNA2
-- ensg_id: ENSG00000162889
-  gene_symbol: ' MAPKAPK2'
-collision_symbol: MK2

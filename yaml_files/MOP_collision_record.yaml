@@ -1,0 +1,22 @@
+collision_symbol: MOP
+NLN:
+  ENSG_ID: [ENSG00000123213]
+  source: [NCBI Info]
+  Chromosome: [5q12.3]
+  NCBI Gene ID: [57486.0]
+  OMIM_ID: ['611530']
+  UniProt_ID: [Q9BYT8]
+OPN4:
+  ENSG_ID: [ENSG00000122375]
+  source: [NCBI Info]
+  Chromosome: [10q23.2]
+  NCBI Gene ID: [94233.0]
+  OMIM_ID: ['606665']
+  UniProt_ID: [Q9UHM6]
+OPRM1:
+  ENSG_ID: [ENSG00000112038]
+  source: [NCBI Info]
+  Chromosome: [6q25.2]
+  NCBI Gene ID: [4988.0]
+  OMIM_ID: ['600018']
+  UniProt_ID: [P35372]

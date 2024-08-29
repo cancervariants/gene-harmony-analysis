@@ -1,0 +1,15 @@
+collision_symbol: PGG/HS
+PTGS1:
+  ENSG_ID: [ENSG00000095303]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [5742.0]
+  OMIM_ID: ['176805']
+  UniProt_ID: [P23219]
+PTGS2:
+  ENSG_ID: [ENSG00000073756]
+  source: [NCBI Info]
+  Chromosome: [1q31.1]
+  NCBI Gene ID: [5743.0]
+  OMIM_ID: ['600262']
+  UniProt_ID: [P35354]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163106
-  gene_symbol: HPGDS
-- ensg_id: ENSG00000107317
-  gene_symbol: ' PTGDS'
-collision_symbol: ' PGDS'

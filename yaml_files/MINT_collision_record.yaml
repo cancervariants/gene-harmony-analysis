@@ -1,0 +1,15 @@
+collision_symbol: MINT
+CISD3:
+  ENSG_ID: [ENSG00000274768]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SPEN:
+  ENSG_ID: [ENSG00000065526]
+  source: [ENSG]
+  Chromosome: [1p36.21-p36.13]
+  NCBI Gene ID: [23013.0]
+  OMIM_ID: ['613484']
+  UniProt_ID: [Q96T58]

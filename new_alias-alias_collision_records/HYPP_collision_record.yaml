@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000007314
-  gene_symbol: SCN4A
-- ensg_id: ENSG00000175538
-  gene_symbol: ' KCNE3'
-collision_symbol: HYPP

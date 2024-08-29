@@ -1,0 +1,15 @@
+collision_symbol: NAT6
+HYAL1:
+  ENSG_ID: [ENSG00000114378]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [3373.0]
+  OMIM_ID: ['607071']
+  UniProt_ID: [Q12794]
+NAA80:
+  ENSG_ID: [ENSG00000243477]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [24142.0]
+  OMIM_ID: ['607073']
+  UniProt_ID: [Q93015]

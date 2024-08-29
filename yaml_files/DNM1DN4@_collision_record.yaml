@@ -1,0 +1,22 @@
+collision_symbol: DNM1DN4@
+DNM1P30:
+  ENSG_ID: [.nan, ENSG00000260897]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q13.2]
+  NCBI Gene ID: [.nan, 728388.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P31:
+  ENSG_ID: [.nan, ENSG00000261491]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q13.3]
+  NCBI Gene ID: [.nan, 644153.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DNM1P32:
+  ENSG_ID: [.nan, ENSG00000261708]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q13.3]
+  NCBI Gene ID: [.nan, 100132100.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

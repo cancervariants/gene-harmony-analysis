@@ -1,0 +1,15 @@
+collision_symbol: WWP4
+SAV1:
+  ENSG_ID: [ENSG00000151748]
+  source: [ENSG]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [60485.0]
+  OMIM_ID: ['607203']
+  UniProt_ID: [Q9H4B6]
+WAC:
+  ENSG_ID: [ENSG00000095787]
+  source: [ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [51322.0]
+  OMIM_ID: ['615049']
+  UniProt_ID: [Q9BTA9]

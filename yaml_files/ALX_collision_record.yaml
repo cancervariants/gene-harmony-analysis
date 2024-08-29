@@ -1,0 +1,15 @@
+collision_symbol: ALX
+FPR2:
+  ENSG_ID: [ENSG00000171049]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [2358.0]
+  OMIM_ID: ['136538']
+  UniProt_ID: [P25090]
+HSH2D:
+  ENSG_ID: [ENSG00000196684]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [84941.0]
+  OMIM_ID: ['608349']
+  UniProt_ID: [Q96JZ2]

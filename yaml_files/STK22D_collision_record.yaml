@@ -1,0 +1,15 @@
+collision_symbol: STK22D
+TSSK1B:
+  ENSG_ID: [ENSG00000212122]
+  source: [NCBI Info]
+  Chromosome: [5q22.2]
+  NCBI Gene ID: [83942.0]
+  OMIM_ID: ['610709']
+  UniProt_ID: [Q9BXA7]
+TSSK3:
+  ENSG_ID: [ENSG00000162526]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [81629.0]
+  OMIM_ID: ['607660']
+  UniProt_ID: [Q96PN8]

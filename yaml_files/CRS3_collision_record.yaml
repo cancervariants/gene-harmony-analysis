@@ -1,0 +1,22 @@
+collision_symbol: CRS3
+CRISP3:
+  ENSG_ID: [ENSG00000096006]
+  source: [NCBI Info]
+  Chromosome: [6p12.3]
+  NCBI Gene ID: [10321.0]
+  OMIM_ID: ['618062']
+  UniProt_ID: [P54108]
+CRSA:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TCF12:
+  ENSG_ID: [ENSG00000140262]
+  source: [NCBI Info]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [6938.0]
+  OMIM_ID: ['600480']
+  UniProt_ID: [Q99081]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132199
-  gene_symbol: ENOSF1
-- ensg_id: ENSG00000005339
-  gene_symbol: ' CREBBP'
-collision_symbol: ' RTS'

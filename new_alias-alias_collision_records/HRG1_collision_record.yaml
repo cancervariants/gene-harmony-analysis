@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000211584
-  gene_symbol: SLC48A1
-- ensg_id: ENSG00000157168
-  gene_symbol: ' NRG1'
-collision_symbol: HRG1

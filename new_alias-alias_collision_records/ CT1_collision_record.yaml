@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150281
-  gene_symbol: CTF1
-- ensg_id: ENSG00000130821
-  gene_symbol: ' SLC6A8'
-collision_symbol: ' CT1'

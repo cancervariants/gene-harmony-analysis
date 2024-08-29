@@ -1,0 +1,15 @@
+collision_symbol: MAC-1
+ITGAM:
+  ENSG_ID: [ENSG00000169896]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3684.0]
+  OMIM_ID: ['120980']
+  UniProt_ID: [P11215]
+ITGB2:
+  ENSG_ID: [ENSG00000160255]
+  source: [NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [3689.0]
+  OMIM_ID: ['600065']
+  UniProt_ID: [P05107]

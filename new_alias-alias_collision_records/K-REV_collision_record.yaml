@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125249
-  gene_symbol: RAP2A
-- ensg_id: ENSG00000127314
-  gene_symbol: ' RAP1B'
-collision_symbol: K-REV

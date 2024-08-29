@@ -1,0 +1,15 @@
+collision_symbol: GM2AP
+GM2A:
+  ENSG_ID: [ENSG00000196743]
+  source: [NCBI Info]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [2760.0]
+  OMIM_ID: ['613109']
+  UniProt_ID: [P17900]
+GM2AP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

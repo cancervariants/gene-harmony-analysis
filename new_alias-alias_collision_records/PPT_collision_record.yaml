@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131238
-  gene_symbol: PPT1
-- ensg_id: ENSG00000011485
-  gene_symbol: ' PPP5C'
-collision_symbol: PPT

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000172243
-  gene_symbol: CLEC7A
-- ensg_id: ENSG00000130377
-  gene_symbol: ' ACSBG2'
-collision_symbol: BGR

@@ -1,0 +1,15 @@
+collision_symbol: p105
+NFKB1:
+  ENSG_ID: [ENSG00000109320]
+  source: [HGNC]
+  Chromosome: [4q24]
+  NCBI Gene ID: [4790.0]
+  OMIM_ID: ['164011']
+  UniProt_ID: [P19838]
+NFKB2:
+  ENSG_ID: [ENSG00000077150]
+  source: [HGNC]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [4791.0]
+  OMIM_ID: ['164012']
+  UniProt_ID: [Q00653]

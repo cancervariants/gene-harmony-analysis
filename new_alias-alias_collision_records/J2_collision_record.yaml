@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000211596
-  gene_symbol: IGKJ2
-- ensg_id: ENSG00000211687
-  gene_symbol: ' TRGJ2'
-collision_symbol: J2

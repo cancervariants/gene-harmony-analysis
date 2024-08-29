@@ -1,0 +1,15 @@
+collision_symbol: C10orf50
+FAM238A:
+  ENSG_ID: [ENSG00000290444]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+KXD1:
+  ENSG_ID: [ENSG00000105700]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [79036.0]
+  OMIM_ID: ['615178']
+  UniProt_ID: [Q9BQD3]

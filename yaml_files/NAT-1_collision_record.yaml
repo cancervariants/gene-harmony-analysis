@@ -1,0 +1,15 @@
+collision_symbol: NAT-1
+NAT1:
+  ENSG_ID: [ENSG00000171428]
+  source: [NCBI Info]
+  Chromosome: [8p22]
+  NCBI Gene ID: [9.0]
+  OMIM_ID: ['108345']
+  UniProt_ID: [P18440]
+SLC38A6:
+  ENSG_ID: [ENSG00000139974]
+  source: [NCBI Info]
+  Chromosome: [14q23.1]
+  NCBI Gene ID: [145389.0]
+  OMIM_ID: ['616518']
+  UniProt_ID: [Q8IZM9]

@@ -1,0 +1,15 @@
+collision_symbol: PNK
+PDXK:
+  ENSG_ID: [ENSG00000160209]
+  source: [HGNC, NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [8566.0]
+  OMIM_ID: ['179020']
+  UniProt_ID: [O00764]
+PNKP:
+  ENSG_ID: [ENSG00000039650]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [11284.0]
+  OMIM_ID: ['605610']
+  UniProt_ID: [Q96T60]

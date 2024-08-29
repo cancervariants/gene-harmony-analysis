@@ -1,0 +1,15 @@
+collision_symbol: p36
+H3C9P:
+  ENSG_ID: [ENSG00000220875]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [100289545.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NT5C3A:
+  ENSG_ID: [ENSG00000122643]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [51251.0]
+  OMIM_ID: ['606224']
+  UniProt_ID: [Q9H0P0]

@@ -1,0 +1,22 @@
+collision_symbol: S12
+HTR1B:
+  ENSG_ID: [ENSG00000135312]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q14.1]
+  NCBI Gene ID: [3351.0]
+  OMIM_ID: ['182131']
+  UniProt_ID: [P28222]
+PSMD7:
+  ENSG_ID: [ENSG00000103035]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [5713.0]
+  OMIM_ID: ['157970']
+  UniProt_ID: [P51665]
+RPS12:
+  ENSG_ID: [ENSG00000112306]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [6206.0]
+  OMIM_ID: ['603660']
+  UniProt_ID: [P25398]

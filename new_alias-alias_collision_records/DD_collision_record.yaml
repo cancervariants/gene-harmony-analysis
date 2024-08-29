@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000151632
-  gene_symbol: AKR1C2
-- ensg_id: ENSG00000174437
-  gene_symbol: ' ATP2A2'
-collision_symbol: DD

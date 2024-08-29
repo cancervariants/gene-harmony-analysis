@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142765
-  gene_symbol: SYTL1
-- ensg_id: ENSG00000094975
-  gene_symbol: ' SUCO'
-collision_symbol: SLP1

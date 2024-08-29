@@ -1,0 +1,15 @@
+collision_symbol: MCL
+CLEC4D:
+  ENSG_ID: [ENSG00000166527]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [338339.0]
+  OMIM_ID: ['609964']
+  UniProt_ID: [Q8WXI8]
+FH:
+  ENSG_ID: [ENSG00000091483]
+  source: [NCBI Info]
+  Chromosome: [1q43]
+  NCBI Gene ID: [2271.0]
+  OMIM_ID: ['136850']
+  UniProt_ID: [P07954]

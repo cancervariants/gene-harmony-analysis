@@ -1,0 +1,15 @@
+collision_symbol: SAS
+NANS:
+  ENSG_ID: [ENSG00000095380]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [54187.0]
+  OMIM_ID: ['605202']
+  UniProt_ID: [Q9NR45]
+TSPAN31:
+  ENSG_ID: [ENSG00000135452]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q14.1]
+  NCBI Gene ID: [6302.0]
+  OMIM_ID: ['181035']
+  UniProt_ID: [Q12999]

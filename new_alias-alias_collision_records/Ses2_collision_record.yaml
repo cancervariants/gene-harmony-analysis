@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141295
-  gene_symbol: SCRN2
-- ensg_id: ENSG00000177096
-  gene_symbol: ' PHETA2'
-collision_symbol: Ses2

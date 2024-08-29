@@ -1,0 +1,15 @@
+collision_symbol: CEH
+CES1:
+  ENSG_ID: [ENSG00000198848]
+  source: [NCBI Info]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [1066.0]
+  OMIM_ID: ['114835']
+  UniProt_ID: [P23141]
+EPHX2:
+  ENSG_ID: [ENSG00000120915]
+  source: [NCBI Info]
+  Chromosome: [8p21.2-p21.1]
+  NCBI Gene ID: [2053.0]
+  OMIM_ID: ['132811']
+  UniProt_ID: [P34913]

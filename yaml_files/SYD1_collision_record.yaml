@@ -1,0 +1,15 @@
+collision_symbol: SYD1
+SPAG9:
+  ENSG_ID: [ENSG00000008294]
+  source: [HGNC, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [9043.0]
+  OMIM_ID: ['605430']
+  UniProt_ID: [O60271]
+SYDE1:
+  ENSG_ID: [ENSG00000105137]
+  source: [HGNC, ENSG]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [85360.0]
+  OMIM_ID: ['617377']
+  UniProt_ID: [Q6ZW31]

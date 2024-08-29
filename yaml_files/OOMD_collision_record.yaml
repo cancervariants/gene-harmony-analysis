@@ -1,0 +1,15 @@
+collision_symbol: OOMD
+TUBB8:
+  ENSG_ID: [ENSG00000261456]
+  source: [NCBI Info]
+  Chromosome: [10p15.3]
+  NCBI Gene ID: [347688.0]
+  OMIM_ID: ['616768']
+  UniProt_ID: [Q3ZCM7]
+ZP1:
+  ENSG_ID: [ENSG00000149506]
+  source: [NCBI Info]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [22917.0]
+  OMIM_ID: ['195000']
+  UniProt_ID: [P60852]

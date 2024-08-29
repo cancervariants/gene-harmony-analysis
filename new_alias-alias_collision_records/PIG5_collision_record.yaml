@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185101
-  gene_symbol: ANO9
-- ensg_id: ENSG00000090316
-  gene_symbol: ' MAEA'
-collision_symbol: PIG5

@@ -1,0 +1,22 @@
+collision_symbol: RAGE
+AGER:
+  ENSG_ID: [ENSG00000204305]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [177.0]
+  OMIM_ID: ['600214']
+  UniProt_ID: [Q15109]
+LINC00914:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MOK:
+  ENSG_ID: [ENSG00000080823]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.31]
+  NCBI Gene ID: [5891.0]
+  OMIM_ID: ['605762']
+  UniProt_ID: [Q9UQ07]

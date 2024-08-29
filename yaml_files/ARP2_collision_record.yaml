@@ -1,0 +1,22 @@
+collision_symbol: ARP2
+ACTR2:
+  ENSG_ID: [ENSG00000138071]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p14]
+  NCBI Gene ID: [10097.0]
+  OMIM_ID: ['604221']
+  UniProt_ID: [P61160]
+AICDA:
+  ENSG_ID: [ENSG00000111732]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [57379.0]
+  OMIM_ID: ['605257']
+  UniProt_ID: [Q9GZX7]
+ANGPTL2:
+  ENSG_ID: [ENSG00000136859]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [23452.0]
+  OMIM_ID: ['605001']
+  UniProt_ID: [Q9UKU9]

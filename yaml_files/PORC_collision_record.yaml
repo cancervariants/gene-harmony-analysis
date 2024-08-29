@@ -1,0 +1,15 @@
+collision_symbol: PORC
+HMBS:
+  ENSG_ID: [ENSG00000256269]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [3145.0]
+  OMIM_ID: ['609806']
+  UniProt_ID: [P08397]
+PORCN:
+  ENSG_ID: [ENSG00000102312]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [64840.0]
+  OMIM_ID: ['300651']
+  UniProt_ID: [Q9H237]

@@ -1,0 +1,15 @@
+collision_symbol: dJ388M5
+HMGN2P9:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PNPLA5:
+  ENSG_ID: [ENSG00000100341]
+  source: [NCBI Info]
+  Chromosome: [22q13.31]
+  NCBI Gene ID: [150379.0]
+  OMIM_ID: ['611589']
+  UniProt_ID: [Q7Z6Z6]

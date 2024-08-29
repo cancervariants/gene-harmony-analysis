@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000182667
-  gene_symbol: NTM
-- ensg_id: ENSG00000124782
-  gene_symbol: ' RREB1'
-collision_symbol: HNT

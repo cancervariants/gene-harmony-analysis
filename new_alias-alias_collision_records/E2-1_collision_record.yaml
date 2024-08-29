@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000202363
-  gene_symbol: SNORA62
-- ensg_id: ENSG00000209042
-  gene_symbol: ' SNORD12C'
-collision_symbol: E2-1

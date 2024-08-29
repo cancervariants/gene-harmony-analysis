@@ -1,0 +1,15 @@
+collision_symbol: AP47B
+AP3M2:
+  ENSG_ID: [ENSG00000070718]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [10947.0]
+  OMIM_ID: ['610469']
+  UniProt_ID: [P53677]
+AP4S1:
+  ENSG_ID: [ENSG00000100478]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q12]
+  NCBI Gene ID: [11154.0]
+  OMIM_ID: ['607243']
+  UniProt_ID: [Q9Y587]

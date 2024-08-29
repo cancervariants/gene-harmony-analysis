@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139546
-  gene_symbol: TARBP2
-- ensg_id: NAN
-  gene_symbol: ' TARBP2P1'
-- ensg_id: ENSG00000198646
-  gene_symbol: ' NCOA6'
-collision_symbol: TRBP

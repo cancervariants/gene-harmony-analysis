@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000288920
-  gene_symbol: RPSA2
-- ensg_id: ENSG00000168028
-  gene_symbol: ' RPSA'
-collision_symbol: LBP/p40

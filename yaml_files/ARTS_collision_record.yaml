@@ -1,0 +1,15 @@
+collision_symbol: ARTS
+PRPS1:
+  ENSG_ID: [ENSG00000147224]
+  source: [NCBI Info]
+  Chromosome: [Xq22.3]
+  NCBI Gene ID: [5631.0]
+  OMIM_ID: ['311850']
+  UniProt_ID: [P60891]
+SEPTIN4:
+  ENSG_ID: [ENSG00000108387]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [5414.0]
+  OMIM_ID: ['603696']
+  UniProt_ID: [O43236]

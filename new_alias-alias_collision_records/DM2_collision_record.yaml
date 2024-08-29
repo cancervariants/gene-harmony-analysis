@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000169714
-  gene_symbol: CNBP
-- ensg_id: ENSG00000227108
-  gene_symbol: ' IGHD1-14'
-collision_symbol: DM2

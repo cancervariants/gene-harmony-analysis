@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000259974
-  gene_symbol: LINC00261
-- ensg_id: ENSG00000166200
-  gene_symbol: ' COPS2'
-collision_symbol: ' ALIEN'

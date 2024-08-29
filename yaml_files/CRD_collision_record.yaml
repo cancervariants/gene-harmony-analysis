@@ -1,0 +1,15 @@
+collision_symbol: CRD
+CRX:
+  ENSG_ID: [ENSG00000105392]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [1406.0]
+  OMIM_ID: ['602225']
+  UniProt_ID: [O43186]
+RPGR:
+  ENSG_ID: [ENSG00000156313]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [6103.0]
+  OMIM_ID: ['312610']
+  UniProt_ID: [Q92834]

@@ -1,0 +1,15 @@
+collision_symbol: LAM
+TSC1:
+  ENSG_ID: [ENSG00000165699]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [7248.0]
+  OMIM_ID: ['605284']
+  UniProt_ID: [Q92574]
+TSC2:
+  ENSG_ID: [ENSG00000103197]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [7249.0]
+  OMIM_ID: ['191092']
+  UniProt_ID: [P49815]

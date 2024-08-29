@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186715
-  gene_symbol: MST1L
-- ensg_id: ENSG00000185024
-  gene_symbol: ' BRF1'
-collision_symbol: BRF-1

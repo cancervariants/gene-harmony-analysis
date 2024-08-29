@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000284194
-  gene_symbol: SCO2
-- ensg_id: ENSG00000170989
-  gene_symbol: ' S1PR1'
-- ensg_id: ENSG00000025708
-  gene_symbol: ' TYMP'
-collision_symbol: ECGF1

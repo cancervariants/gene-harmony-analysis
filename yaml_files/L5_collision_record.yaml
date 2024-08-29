@@ -1,0 +1,22 @@
+collision_symbol: L5
+KNCN:
+  ENSG_ID: [ENSG00000162456]
+  source: [NCBI Info]
+  Chromosome: [1p33]
+  NCBI Gene ID: [148930.0]
+  OMIM_ID: ['611455']
+  UniProt_ID: [A6PVL3]
+PCLAF:
+  ENSG_ID: [ENSG00000166803]
+  source: [NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [9768.0]
+  OMIM_ID: ['610696']
+  UniProt_ID: [Q15004]
+RPL5:
+  ENSG_ID: [ENSG00000122406]
+  source: [NCBI Info]
+  Chromosome: [1p22.1]
+  NCBI Gene ID: [6125.0]
+  OMIM_ID: ['603634']
+  UniProt_ID: [P46777]

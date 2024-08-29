@@ -1,0 +1,15 @@
+collision_symbol: KAP-1
+KIFAP3:
+  ENSG_ID: [ENSG00000075945]
+  source: [HGNC]
+  Chromosome: [1q24.2]
+  NCBI Gene ID: [22920.0]
+  OMIM_ID: ['601836']
+  UniProt_ID: [Q92845]
+TRIM28:
+  ENSG_ID: [ENSG00000130726]
+  source: [HGNC]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [10155.0]
+  OMIM_ID: ['601742']
+  UniProt_ID: [Q13263]

@@ -1,0 +1,15 @@
+collision_symbol: HLX1
+DBX1:
+  ENSG_ID: [ENSG00000109851]
+  source: [NCBI Info]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [120237.0]
+  OMIM_ID: ['619830']
+  UniProt_ID: [A6NMT0]
+HLX:
+  ENSG_ID: [ENSG00000136630]
+  source: [NCBI Info]
+  Chromosome: [1q41]
+  NCBI Gene ID: [3142.0]
+  OMIM_ID: ['142995']
+  UniProt_ID: [Q14774]

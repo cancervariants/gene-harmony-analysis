@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171759
-  gene_symbol: PAH
-- ensg_id: ENSG00000108849
-  gene_symbol: ' PPY'
-collision_symbol: PH

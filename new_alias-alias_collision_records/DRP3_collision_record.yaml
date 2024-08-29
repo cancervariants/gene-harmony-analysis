@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134769
-  gene_symbol: DTNA
-- ensg_id: ENSG00000113657
-  gene_symbol: ' DPYSL3'
-collision_symbol: DRP3

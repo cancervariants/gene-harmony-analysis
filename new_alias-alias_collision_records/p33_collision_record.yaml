@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153487
-  gene_symbol: ING1
-- ensg_id: ENSG00000227507
-  gene_symbol: ' LTB'
-- ensg_id: ENSG00000019582
-  gene_symbol: ' CD74'
-collision_symbol: p33

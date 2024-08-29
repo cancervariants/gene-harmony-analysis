@@ -1,0 +1,22 @@
+collision_symbol: IL-21
+IL17C:
+  ENSG_ID: [ENSG00000124391]
+  source: [HGNC]
+  Chromosome: [16q24.2]
+  NCBI Gene ID: [27189.0]
+  OMIM_ID: ['604628']
+  UniProt_ID: [Q9P0M4]
+IL21:
+  ENSG_ID: [ENSG00000138684]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q27]
+  NCBI Gene ID: [59067.0]
+  OMIM_ID: ['605384']
+  UniProt_ID: [Q9HBE4]
+IL22:
+  ENSG_ID: [ENSG00000127318]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q15]
+  NCBI Gene ID: [50616.0]
+  OMIM_ID: ['605330']
+  UniProt_ID: [Q9GZX6]

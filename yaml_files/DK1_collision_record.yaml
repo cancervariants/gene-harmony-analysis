@@ -1,0 +1,15 @@
+collision_symbol: DK1
+DOLK:
+  ENSG_ID: [ENSG00000175283]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [22845.0]
+  OMIM_ID: ['610746']
+  UniProt_ID: [Q9UPQ8]
+IGHD5-12:
+  ENSG_ID: [ENSG00000211921]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [28491.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

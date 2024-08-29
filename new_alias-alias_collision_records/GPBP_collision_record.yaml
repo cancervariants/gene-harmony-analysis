@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000062194
-  gene_symbol: GPBP1
-- ensg_id: ENSG00000113163
-  gene_symbol: ' CERT1'
-collision_symbol: GPBP

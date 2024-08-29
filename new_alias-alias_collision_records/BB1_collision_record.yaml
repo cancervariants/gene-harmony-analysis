@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135577
-  gene_symbol: NMBR
-- ensg_id: ENSG00000125505
-  gene_symbol: ' MBOAT7'
-collision_symbol: BB1

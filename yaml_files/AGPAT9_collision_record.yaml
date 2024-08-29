@@ -1,0 +1,15 @@
+collision_symbol: AGPAT9
+GPAT3:
+  ENSG_ID: [ENSG00000138678]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q21.23]
+  NCBI Gene ID: [84803.0]
+  OMIM_ID: ['610958']
+  UniProt_ID: [Q53EU6]
+LPCAT1:
+  ENSG_ID: [ENSG00000153395]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5p15.33]
+  NCBI Gene ID: [79888.0]
+  OMIM_ID: ['610472']
+  UniProt_ID: [Q8NF37]

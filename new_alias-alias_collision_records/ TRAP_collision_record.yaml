@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142186
-  gene_symbol: SCYL1
-- ensg_id: ENSG00000102245
-  gene_symbol: ' CD40LG'
-- ensg_id: ENSG00000102575
-  gene_symbol: ' ACP5'
-collision_symbol: ' TRAP'

@@ -1,0 +1,15 @@
+collision_symbol: BEDP
+APOBEC1:
+  ENSG_ID: [ENSG00000111701]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [339.0]
+  OMIM_ID: ['600130']
+  UniProt_ID: [P41238]
+DUSP13A:
+  ENSG_ID: [ENSG00000293543]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

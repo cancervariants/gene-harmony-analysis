@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166913
-  gene_symbol: YWHAB
-- ensg_id: ENSG00000108953
-  gene_symbol: ' YWHAE'
-- ensg_id: ENSG00000164924
-  gene_symbol: ' YWHAZ'
-collision_symbol: KCIP-1

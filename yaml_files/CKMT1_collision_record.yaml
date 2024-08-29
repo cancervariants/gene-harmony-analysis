@@ -1,0 +1,15 @@
+collision_symbol: CKMT1
+CKMT1A:
+  ENSG_ID: [ENSG00000223572]
+  source: [NCBI Info]
+  Chromosome: [15q15.3]
+  NCBI Gene ID: [548596.0]
+  OMIM_ID: ['613415']
+  UniProt_ID: [P12532]
+CKMT1B:
+  ENSG_ID: [ENSG00000237289]
+  source: [NCBI Info]
+  Chromosome: [15q15.3]
+  NCBI Gene ID: [1159.0]
+  OMIM_ID: ['123290']
+  UniProt_ID: [P12532]

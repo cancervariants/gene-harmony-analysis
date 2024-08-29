@@ -1,0 +1,15 @@
+collision_symbol: VSD1
+AVSD1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p31-p21]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+GATA4:
+  ENSG_ID: [ENSG00000136574]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [2626.0]
+  OMIM_ID: ['600576']
+  UniProt_ID: [P43694]

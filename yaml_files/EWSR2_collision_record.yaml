@@ -1,0 +1,15 @@
+collision_symbol: EWSR2
+ETS1:
+  ENSG_ID: [ENSG00000134954]
+  source: [NCBI Info]
+  Chromosome: [11q24.3]
+  NCBI Gene ID: [2113.0]
+  OMIM_ID: ['164720']
+  UniProt_ID: [P14921]
+FLI1:
+  ENSG_ID: [ENSG00000151702]
+  source: [NCBI Info]
+  Chromosome: [11q24.3]
+  NCBI Gene ID: [2313.0]
+  OMIM_ID: ['193067']
+  UniProt_ID: [Q01543]

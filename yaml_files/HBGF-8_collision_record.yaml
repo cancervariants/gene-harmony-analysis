@@ -1,0 +1,15 @@
+collision_symbol: HBGF-8
+FGF8:
+  ENSG_ID: [ENSG00000107831]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [2253.0]
+  OMIM_ID: ['600483']
+  UniProt_ID: [P55075]
+PTN:
+  ENSG_ID: [ENSG00000105894]
+  source: [NCBI Info]
+  Chromosome: [7q33]
+  NCBI Gene ID: [5764.0]
+  OMIM_ID: ['162095']
+  UniProt_ID: [P21246]

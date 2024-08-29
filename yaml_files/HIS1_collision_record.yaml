@@ -1,0 +1,22 @@
+collision_symbol: HIS1
+HEXIM1:
+  ENSG_ID: [ENSG00000186834]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [10614.0]
+  OMIM_ID: ['607328']
+  UniProt_ID: [O94992]
+HTN1:
+  ENSG_ID: [ENSG00000126550]
+  source: [HGNC, NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [3346.0]
+  OMIM_ID: ['142701']
+  UniProt_ID: [P15515]
+VIS1:
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2q14-q21]
+  NCBI Gene ID: [7435.0]
+  OMIM_ID: ['164755']
+  UniProt_ID: [.nan]

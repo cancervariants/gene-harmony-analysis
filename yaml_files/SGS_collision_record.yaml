@@ -1,0 +1,15 @@
+collision_symbol: SGS
+FBN1:
+  ENSG_ID: [ENSG00000166147]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [2200.0]
+  OMIM_ID: ['134797']
+  UniProt_ID: [P35555]
+SKI:
+  ENSG_ID: [ENSG00000157933]
+  source: [NCBI Info]
+  Chromosome: [1p36.33-p36.32]
+  NCBI Gene ID: [6497.0]
+  OMIM_ID: ['164780']
+  UniProt_ID: [P12755]

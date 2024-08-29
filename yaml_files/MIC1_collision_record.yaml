@@ -1,0 +1,15 @@
+collision_symbol: MIC1
+GDF15:
+  ENSG_ID: [ENSG00000130513]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [9518.0]
+  OMIM_ID: ['605312']
+  UniProt_ID: [Q99988]
+RMC1:
+  ENSG_ID: [ENSG00000141452]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [29919.0]
+  OMIM_ID: ['620267']
+  UniProt_ID: [Q96DM3]

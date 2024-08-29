@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000243063
-  gene_symbol: IGKV3-7
-- ensg_id: ENSG00000147403
-  gene_symbol: ' RPL10'
-collision_symbol: L10

@@ -1,0 +1,29 @@
+collision_symbol: L6
+IGKV3-11:
+  ENSG_ID: [ENSG00000241351]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28914.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P04433]
+MED10:
+  ENSG_ID: [ENSG00000133398]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5p15.31]
+  NCBI Gene ID: [84246.0]
+  OMIM_ID: ['612382']
+  UniProt_ID: [Q9BTT4]
+RPL6:
+  ENSG_ID: [ENSG00000089009]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [6128.0]
+  OMIM_ID: ['603703']
+  UniProt_ID: [Q02878]
+TM4SF1:
+  ENSG_ID: [ENSG00000169908]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q25.1]
+  NCBI Gene ID: [4071.0]
+  OMIM_ID: ['191155']
+  UniProt_ID: [P30408]

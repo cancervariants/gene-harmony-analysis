@@ -1,0 +1,22 @@
+collision_symbol: PRP4
+PRP4K:
+  ENSG_ID: [ENSG00000112739]
+  source: [NCBI Info]
+  Chromosome: [6p25.2]
+  NCBI Gene ID: [8899.0]
+  OMIM_ID: ['602338']
+  UniProt_ID: [Q13523]
+PRPF4:
+  ENSG_ID: [ENSG00000136875]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q32]
+  NCBI Gene ID: [9128.0]
+  OMIM_ID: ['607795']
+  UniProt_ID: [O43172]
+PRPF4B:
+  ENSG_ID: [ENSG00000112739]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

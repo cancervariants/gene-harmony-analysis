@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000215343
-  gene_symbol: ZNF705D
-- ensg_id: NAN
-  gene_symbol: ' ZNF705CP'
-collision_symbol: ZNF705C

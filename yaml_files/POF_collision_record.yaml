@@ -1,0 +1,22 @@
+collision_symbol: POF
+DIAPH2:
+  ENSG_ID: [ENSG00000147202]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq21.33]
+  NCBI Gene ID: [1730.0]
+  OMIM_ID: ['300108']
+  UniProt_ID: [O60879]
+FMR1:
+  ENSG_ID: [ENSG00000102081]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq27.3]
+  NCBI Gene ID: [2332.0]
+  OMIM_ID: ['309550']
+  UniProt_ID: [Q06787]
+POF1B:
+  ENSG_ID: [ENSG00000124429]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq21.1]
+  NCBI Gene ID: [79983.0]
+  OMIM_ID: ['300603']
+  UniProt_ID: [Q8WVV4]

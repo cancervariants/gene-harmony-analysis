@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204388
-  gene_symbol: HSPA1B
-- ensg_id: ENSG00000204389
-  gene_symbol: ' HSPA1A'
-- ensg_id: ENSG00000126803
-  gene_symbol: ' HSPA2'
-collision_symbol: HSP70-2

@@ -1,0 +1,15 @@
+collision_symbol: AGC1
+ACAN:
+  ENSG_ID: [ENSG00000157766]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [176.0]
+  OMIM_ID: ['155760']
+  UniProt_ID: [P16112]
+SLC25A12:
+  ENSG_ID: [ENSG00000115840]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [8604.0]
+  OMIM_ID: ['603667']
+  UniProt_ID: [O75746]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142623
-  gene_symbol: PADI1
-- ensg_id: ENSG00000115233
-  gene_symbol: ' PSMD14'
-collision_symbol: PAD1

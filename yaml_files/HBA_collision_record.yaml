@@ -1,0 +1,15 @@
+collision_symbol: HBA
+KRT90P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SCN2A:
+  ENSG_ID: [ENSG00000136531]
+  source: [NCBI Info]
+  Chromosome: [2q24.3]
+  NCBI Gene ID: [6326.0]
+  OMIM_ID: ['182390']
+  UniProt_ID: [Q99250]

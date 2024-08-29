@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000076641
-  gene_symbol: PAG1
-- ensg_id: ENSG00000117450
-  gene_symbol: ' PRDX1'
-collision_symbol: PAG

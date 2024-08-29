@@ -1,0 +1,15 @@
+collision_symbol: CLM
+CST9:
+  ENSG_ID: [ENSG00000173335]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [128822.0]
+  OMIM_ID: ['616543']
+  UniProt_ID: [Q5W186]
+LAMB1:
+  ENSG_ID: [ENSG00000091136]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q31.1]
+  NCBI Gene ID: [3912.0]
+  OMIM_ID: ['150240']
+  UniProt_ID: [P07942]

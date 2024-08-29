@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000144285
-  gene_symbol: SCN1A
-- ensg_id: ENSG00000136531
-  gene_symbol: ' SCN2A'
-collision_symbol: HBSCI

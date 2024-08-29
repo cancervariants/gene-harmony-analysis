@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000291237
-  gene_symbol: SOD2
-- ensg_id: ENSG00000108424
-  gene_symbol: ' KPNB1'
-collision_symbol: ' IPOB'

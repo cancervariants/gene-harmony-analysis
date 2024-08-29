@@ -1,0 +1,15 @@
+collision_symbol: CDC2
+CDK1:
+  ENSG_ID: [ENSG00000170312]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q21.2]
+  NCBI Gene ID: [983.0]
+  OMIM_ID: ['116940']
+  UniProt_ID: [P06493]
+POLD1:
+  ENSG_ID: [ENSG00000062822]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.3]
+  NCBI Gene ID: [5424.0]
+  OMIM_ID: ['174761']
+  UniProt_ID: [P28340]

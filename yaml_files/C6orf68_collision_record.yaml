@@ -1,0 +1,15 @@
+collision_symbol: C6orf68
+NUS1:
+  ENSG_ID: [ENSG00000153989]
+  source: [NCBI Info]
+  Chromosome: [6q22.1]
+  NCBI Gene ID: [116150.0]
+  OMIM_ID: ['610463']
+  UniProt_ID: [Q96E22]
+NUS1P3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

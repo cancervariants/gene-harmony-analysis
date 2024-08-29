@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000057149
-  gene_symbol: SERPINB3
-- ensg_id: ENSG00000206073
-  gene_symbol: ' SERPINB4'
-collision_symbol: ' SCCA1'

@@ -1,0 +1,22 @@
+collision_symbol: C6ST
+CHST1:
+  ENSG_ID: [ENSG00000175264]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [8534.0]
+  OMIM_ID: ['603797']
+  UniProt_ID: [O43916]
+CHST2:
+  ENSG_ID: [ENSG00000175040]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q24]
+  NCBI Gene ID: [9435.0]
+  OMIM_ID: ['603798']
+  UniProt_ID: [Q9Y4C5]
+CHST3:
+  ENSG_ID: [ENSG00000122863]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [9469.0]
+  OMIM_ID: ['603799']
+  UniProt_ID: [Q7LGC8]

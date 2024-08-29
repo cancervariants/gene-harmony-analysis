@@ -1,0 +1,15 @@
+collision_symbol: SPG49
+CYP2U1:
+  ENSG_ID: [ENSG00000155016]
+  source: [NCBI Info]
+  Chromosome: [4q25]
+  NCBI Gene ID: [113612.0]
+  OMIM_ID: ['610670']
+  UniProt_ID: [Q7Z449]
+TECPR2:
+  ENSG_ID: [ENSG00000196663]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [9895.0]
+  OMIM_ID: ['615000']
+  UniProt_ID: [O15040]

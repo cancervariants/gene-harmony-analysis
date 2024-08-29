@@ -1,0 +1,15 @@
+collision_symbol: CRT1
+HAPLN1:
+  ENSG_ID: [ENSG00000145681]
+  source: [NCBI Info]
+  Chromosome: [5q14.3]
+  NCBI Gene ID: [1404.0]
+  OMIM_ID: ['115435']
+  UniProt_ID: [P10915]
+SLC6A8:
+  ENSG_ID: [ENSG00000130821]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [6535.0]
+  OMIM_ID: ['300036']
+  UniProt_ID: [P48029]

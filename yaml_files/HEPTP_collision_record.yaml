@@ -1,0 +1,15 @@
+collision_symbol: HEPTP
+PTPN7:
+  ENSG_ID: [ENSG00000143851]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [5778.0]
+  OMIM_ID: ['176889']
+  UniProt_ID: [P35236]
+PTPRA:
+  ENSG_ID: [ENSG00000132670]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [5786.0]
+  OMIM_ID: ['176884']
+  UniProt_ID: [P18433]

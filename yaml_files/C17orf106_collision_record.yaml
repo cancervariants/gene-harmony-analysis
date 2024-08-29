@@ -1,0 +1,15 @@
+collision_symbol: C17orf106
+TEN1:
+  ENSG_ID: [ENSG00000257949]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [100134934.0]
+  OMIM_ID: ['613130']
+  UniProt_ID: [Q86WV5]
+TEN1-CDK3:
+  ENSG_ID: [ENSG00000261408]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [100529145.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: A6
+IGKV3D-25:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TWF1:
+  ENSG_ID: [ENSG00000151239]
+  source: [NCBI Info]
+  Chromosome: [12q12]
+  NCBI Gene ID: [5756.0]
+  OMIM_ID: ['610932']
+  UniProt_ID: [Q12792]

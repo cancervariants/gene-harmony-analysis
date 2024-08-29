@@ -1,0 +1,15 @@
+collision_symbol: FALDH
+ADH5:
+  ENSG_ID: [ENSG00000197894]
+  source: [NCBI Info]
+  Chromosome: [4q23]
+  NCBI Gene ID: [128.0]
+  OMIM_ID: ['103710']
+  UniProt_ID: [P11766]
+ALDH3A2:
+  ENSG_ID: [ENSG00000072210]
+  source: [NCBI Info]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [224.0]
+  OMIM_ID: ['609523']
+  UniProt_ID: [P51648]

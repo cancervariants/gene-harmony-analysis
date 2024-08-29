@@ -1,0 +1,15 @@
+collision_symbol: HRES-1
+HRES1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q42]
+  NCBI Gene ID: [3272.0]
+  OMIM_ID: ['143025']
+  UniProt_ID: [P13985]
+RAB4A:
+  ENSG_ID: [ENSG00000168118]
+  source: [NCBI Info]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [5867.0]
+  OMIM_ID: ['179511']
+  UniProt_ID: [P20338]

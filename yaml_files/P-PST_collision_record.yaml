@@ -1,0 +1,15 @@
+collision_symbol: P-PST
+SULT1A1:
+  ENSG_ID: [ENSG00000196502]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [6817.0]
+  OMIM_ID: ['171150']
+  UniProt_ID: [P50225]
+SULT1A2:
+  ENSG_ID: [ENSG00000197165]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [6799.0]
+  OMIM_ID: ['601292']
+  UniProt_ID: [P50226]

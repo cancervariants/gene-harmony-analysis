@@ -1,0 +1,15 @@
+collision_symbol: MIG12
+MID1IP1:
+  ENSG_ID: [ENSG00000165175]
+  source: [NCBI Info]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [58526.0]
+  OMIM_ID: ['300961']
+  UniProt_ID: [Q9NPA3]
+TMSB10:
+  ENSG_ID: [ENSG00000034510]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [9168.0]
+  OMIM_ID: ['188399']
+  UniProt_ID: [P63313]

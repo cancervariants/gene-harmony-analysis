@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176208
-  gene_symbol: ATAD5
-- ensg_id: ENSG00000148985
-  gene_symbol: ' PGAP2'
-collision_symbol: FRAG1

@@ -1,0 +1,15 @@
+collision_symbol: P5
+PDIA6:
+  ENSG_ID: [ENSG00000143870]
+  source: [NCBI Info]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [10130.0]
+  OMIM_ID: ['611099']
+  UniProt_ID: [Q15084]
+SLC10A5:
+  ENSG_ID: [ENSG00000253598]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [347051.0]
+  OMIM_ID: ['618582']
+  UniProt_ID: [Q5PT55]

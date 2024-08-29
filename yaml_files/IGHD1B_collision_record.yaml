@@ -1,0 +1,15 @@
+collision_symbol: IGHD1B
+GH1:
+  ENSG_ID: [ENSG00000259384]
+  source: [NCBI Info]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [2688.0]
+  OMIM_ID: ['139250']
+  UniProt_ID: [P01241]
+GHRHR:
+  ENSG_ID: [ENSG00000106128]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [2692.0]
+  OMIM_ID: ['139191']
+  UniProt_ID: [Q02643]

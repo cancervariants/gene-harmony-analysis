@@ -1,0 +1,15 @@
+collision_symbol: IL-20
+IL17B:
+  ENSG_ID: [ENSG00000127743]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [27190.0]
+  OMIM_ID: ['604627']
+  UniProt_ID: [Q9UHF5]
+IL20:
+  ENSG_ID: [ENSG00000162891]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [50604.0]
+  OMIM_ID: ['605619']
+  UniProt_ID: [Q9NYY1]

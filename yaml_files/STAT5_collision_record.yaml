@@ -1,0 +1,15 @@
+collision_symbol: STAT5
+STAT5A:
+  ENSG_ID: [ENSG00000126561]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [6776.0]
+  OMIM_ID: ['601511']
+  UniProt_ID: [P42229]
+STAT5B:
+  ENSG_ID: [ENSG00000173757]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [6777.0]
+  OMIM_ID: ['604260']
+  UniProt_ID: [P51692]

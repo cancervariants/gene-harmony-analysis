@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138496
-  gene_symbol: PARP9
-- ensg_id: ENSG00000170835
-  gene_symbol: ' CEL'
-- ensg_id: ENSG00000083807
-  gene_symbol: ' SLC27A5'
-collision_symbol: BAL

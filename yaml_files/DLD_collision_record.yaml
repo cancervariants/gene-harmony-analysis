@@ -1,0 +1,15 @@
+collision_symbol: DLD
+FAM3A:
+  ENSG_ID: [ENSG00000071889]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [60343.0]
+  OMIM_ID: ['300492']
+  UniProt_ID: [P98173]
+LDHD:
+  ENSG_ID: [ENSG00000166816]
+  source: [NCBI Info]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [197257.0]
+  OMIM_ID: ['607490']
+  UniProt_ID: [Q86WU2]

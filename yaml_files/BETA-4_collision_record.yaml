@@ -1,0 +1,15 @@
+collision_symbol: BETA-4
+AP4B1:
+  ENSG_ID: [ENSG00000134262]
+  source: [ENSG]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [10717.0]
+  OMIM_ID: ['607245']
+  UniProt_ID: [Q9Y6B7]
+TUBB3:
+  ENSG_ID: [ENSG00000258947]
+  source: [ENSG]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [10381.0]
+  OMIM_ID: ['602661']
+  UniProt_ID: [Q13509]

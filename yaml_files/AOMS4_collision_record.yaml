@@ -1,0 +1,15 @@
+collision_symbol: AOMS4
+CELA2A:
+  ENSG_ID: [ENSG00000142615]
+  source: [NCBI Info]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [63036.0]
+  OMIM_ID: ['609443']
+  UniProt_ID: [P08217]
+LIPE:
+  ENSG_ID: [ENSG00000079435]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [3991.0]
+  OMIM_ID: ['151750']
+  UniProt_ID: [Q05469]

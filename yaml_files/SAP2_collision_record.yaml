@@ -1,0 +1,22 @@
+collision_symbol: SAP2
+ELK3:
+  ENSG_ID: [ENSG00000111145]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [2004.0]
+  OMIM_ID: ['600247']
+  UniProt_ID: [P41970]
+LRRCC1:
+  ENSG_ID: [ENSG00000133739]
+  source: [NCBI Info]
+  Chromosome: [8q21.2]
+  NCBI Gene ID: [85444.0]
+  OMIM_ID: ['617791']
+  UniProt_ID: [Q9C099]
+PSAP:
+  ENSG_ID: [ENSG00000197746]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5660.0]
+  OMIM_ID: ['176801']
+  UniProt_ID: [P07602]

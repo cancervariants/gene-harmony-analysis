@@ -1,0 +1,15 @@
+collision_symbol: HAI
+SPINT1:
+  ENSG_ID: [ENSG00000166145]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [6692.0]
+  OMIM_ID: ['605123']
+  UniProt_ID: [O43278]
+ST14:
+  ENSG_ID: [ENSG00000149418]
+  source: [NCBI Info]
+  Chromosome: [11q24.3]
+  NCBI Gene ID: [6768.0]
+  OMIM_ID: ['606797']
+  UniProt_ID: [Q9Y5Y6]

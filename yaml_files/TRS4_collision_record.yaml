@@ -1,0 +1,15 @@
+collision_symbol: TRS4
+IQUB:
+  ENSG_ID: [ENSG00000164675]
+  source: [NCBI Info]
+  Chromosome: [7q31.32]
+  NCBI Gene ID: [154865.0]
+  OMIM_ID: ['620557']
+  UniProt_ID: [Q8NA54]
+TRS-AGA3-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [790951.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

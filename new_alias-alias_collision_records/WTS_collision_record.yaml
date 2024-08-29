@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000147099
-  gene_symbol: HDAC8
-- ensg_id: ENSG00000001497
-  gene_symbol: ' LAS1L'
-collision_symbol: WTS

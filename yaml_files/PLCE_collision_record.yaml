@@ -1,0 +1,15 @@
+collision_symbol: PLCE
+PLCE1:
+  ENSG_ID: [ENSG00000138193]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [51196.0]
+  OMIM_ID: ['608414']
+  UniProt_ID: [Q9P212]
+PLCL1:
+  ENSG_ID: [ENSG00000115896]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [5334.0]
+  OMIM_ID: ['600597']
+  UniProt_ID: [Q15111]

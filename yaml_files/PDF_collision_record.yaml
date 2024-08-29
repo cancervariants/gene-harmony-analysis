@@ -1,0 +1,15 @@
+collision_symbol: PDF
+GDF15:
+  ENSG_ID: [ENSG00000130513]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [9518.0]
+  OMIM_ID: ['605312']
+  UniProt_ID: [Q99988]
+PFDN1:
+  ENSG_ID: [ENSG00000113068]
+  source: [NCBI Info]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [5201.0]
+  OMIM_ID: ['604897']
+  UniProt_ID: [O60925]

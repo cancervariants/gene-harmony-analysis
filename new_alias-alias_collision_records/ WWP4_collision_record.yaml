@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000095787
-  gene_symbol: WAC
-- ensg_id: ENSG00000151748
-  gene_symbol: ' SAV1'
-collision_symbol: ' WWP4'

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108561
-  gene_symbol: C1QBP
-- ensg_id: ENSG00000153563
-  gene_symbol: ' CD8A'
-collision_symbol: ' P32'

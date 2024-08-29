@@ -1,0 +1,15 @@
+collision_symbol: PHR1
+MYCBP2:
+  ENSG_ID: [ENSG00000005810]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q22.3]
+  NCBI Gene ID: [23077.0]
+  OMIM_ID: ['610392']
+  UniProt_ID: [O75592]
+PLEKHB1:
+  ENSG_ID: [ENSG00000021300]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [58473.0]
+  OMIM_ID: ['607651']
+  UniProt_ID: [Q9UF11]

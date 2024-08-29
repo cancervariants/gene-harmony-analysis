@@ -1,0 +1,15 @@
+collision_symbol: GSP
+GNAS:
+  ENSG_ID: [ENSG00000087460]
+  source: [NCBI Info]
+  Chromosome: [20q13.32]
+  NCBI Gene ID: [2778.0]
+  OMIM_ID: ['139320']
+  UniProt_ID: ['O95467, P63092, P84996, Q5JWF2']
+GSM1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [9q13-q21]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

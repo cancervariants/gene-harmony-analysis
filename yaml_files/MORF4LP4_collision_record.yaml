@@ -1,0 +1,15 @@
+collision_symbol: MORF4LP4
+MORF4L1P2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [12p13.2]
+  NCBI Gene ID: [326594.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MORF4L2P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

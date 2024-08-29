@@ -1,0 +1,15 @@
+collision_symbol: C9orf36A
+SPATA31A1:
+  ENSG_ID: [ENSG00000204849]
+  source: [NCBI Info]
+  Chromosome: [9p12]
+  NCBI Gene ID: [647060.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5TZJ5]
+SPATA31A7:
+  ENSG_ID: [ENSG00000276040]
+  source: [NCBI Info]
+  Chromosome: [9q12]
+  NCBI Gene ID: [26165.0]
+  OMIM_ID: ['616584']
+  UniProt_ID: [Q8IWB4]

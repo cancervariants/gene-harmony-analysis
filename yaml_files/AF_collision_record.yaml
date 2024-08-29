@@ -1,0 +1,15 @@
+collision_symbol: AF
+KLHL17:
+  ENSG_ID: [ENSG00000187961]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [339451.0]
+  OMIM_ID: ['619262']
+  UniProt_ID: [Q6TDP4]
+PSMD4:
+  ENSG_ID: [ENSG00000159352]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [5710.0]
+  OMIM_ID: ['601648']
+  UniProt_ID: [P55036]

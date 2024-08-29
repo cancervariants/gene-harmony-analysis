@@ -1,0 +1,15 @@
+collision_symbol: ASC2
+NCOA6:
+  ENSG_ID: [ENSG00000198646]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [23054.0]
+  OMIM_ID: ['605299']
+  UniProt_ID: [Q14686]
+PYDC1:
+  ENSG_ID: [ENSG00000169900]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [260434.0]
+  OMIM_ID: ['615700']
+  UniProt_ID: [Q8WXC3]

@@ -1,0 +1,15 @@
+collision_symbol: HERV-K
+ERVK2:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ERVK3:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

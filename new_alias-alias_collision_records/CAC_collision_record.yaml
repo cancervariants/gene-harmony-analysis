@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000178537
-  gene_symbol: SLC25A20
-- ensg_id: ENSG00000104267
-  gene_symbol: ' CA2'
-collision_symbol: CAC

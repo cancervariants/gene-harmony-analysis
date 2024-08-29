@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158716
-  gene_symbol: DUSP23
-- ensg_id: ENSG00000110536
-  gene_symbol: ' PTPMT1'
-collision_symbol: MOSP

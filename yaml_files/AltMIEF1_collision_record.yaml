@@ -1,0 +1,15 @@
+collision_symbol: AltMIEF1
+MIEF1:
+  ENSG_ID: [ENSG00000100335]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [54471.0]
+  OMIM_ID: ['615497']
+  UniProt_ID: ['L0R8F8, Q9NQG6']
+MIURF:
+  ENSG_ID: [ENSG00000285025]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: MIG6
+ERRFI1:
+  ENSG_ID: [ENSG00000116285]
+  source: [NCBI Info]
+  Chromosome: [1p36.23]
+  NCBI Gene ID: [54206.0]
+  OMIM_ID: ['608069']
+  UniProt_ID: [Q9UJM3]
+RPL36A:
+  ENSG_ID: [ENSG00000241343]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [6173.0]
+  OMIM_ID: ['300902']
+  UniProt_ID: [P83881]

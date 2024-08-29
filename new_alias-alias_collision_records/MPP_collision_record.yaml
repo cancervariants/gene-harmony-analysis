@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135698
-  gene_symbol: MPHOSPH6
-- ensg_id: ENSG00000158887
-  gene_symbol: ' MPZ'
-collision_symbol: MPP

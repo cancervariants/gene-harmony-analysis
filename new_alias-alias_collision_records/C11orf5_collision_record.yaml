@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150316
-  gene_symbol: CWC15
-- ensg_id: ENSG00000174276
-  gene_symbol: ' ZNHIT2'
-collision_symbol: C11orf5

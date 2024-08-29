@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136492
-  gene_symbol: BRIP1
-- ensg_id: ENSG00000066336
-  gene_symbol: ' SPI1'
-- ensg_id: ENSG00000147133
-  gene_symbol: ' TAF1'
-collision_symbol: OF

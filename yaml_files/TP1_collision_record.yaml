@@ -1,0 +1,15 @@
+collision_symbol: TP1
+TEP1:
+  ENSG_ID: [ENSG00000129566]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7011.0]
+  OMIM_ID: ['601686']
+  UniProt_ID: [Q99973]
+TNP1:
+  ENSG_ID: [ENSG00000118245]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [7141.0]
+  OMIM_ID: ['190231']
+  UniProt_ID: [P09430]

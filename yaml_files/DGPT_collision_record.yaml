@@ -1,0 +1,15 @@
+collision_symbol: DGPT
+DPAGT1:
+  ENSG_ID: [ENSG00000172269]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [1798.0]
+  OMIM_ID: ['191350']
+  UniProt_ID: [Q9H3H5]
+FDFT1:
+  ENSG_ID: [ENSG00000079459]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [2222.0]
+  OMIM_ID: ['184420']
+  UniProt_ID: [P37268]

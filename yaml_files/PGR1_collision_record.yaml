@@ -1,0 +1,22 @@
+collision_symbol: PGR1
+GPR153:
+  ENSG_ID: [ENSG00000158292]
+  source: [NCBI Info]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [387509.0]
+  OMIM_ID: ['614269']
+  UniProt_ID: [Q6NV75]
+MRFAP1:
+  ENSG_ID: [ENSG00000179010]
+  source: [NCBI Info]
+  Chromosome: [4p16.1]
+  NCBI Gene ID: [93621.0]
+  OMIM_ID: ['616905']
+  UniProt_ID: [Q9Y605]
+PTGR1:
+  ENSG_ID: [ENSG00000106853]
+  source: [NCBI Info]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [22949.0]
+  OMIM_ID: ['601274']
+  UniProt_ID: [Q14914]

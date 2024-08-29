@@ -1,0 +1,15 @@
+collision_symbol: dJ760C5.1
+CFTR:
+  ENSG_ID: [ENSG00000001626]
+  source: [NCBI Info]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [1080.0]
+  OMIM_ID: ['602421']
+  UniProt_ID: [P13569]
+CFTRP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

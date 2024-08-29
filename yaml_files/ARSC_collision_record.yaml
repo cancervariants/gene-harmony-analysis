@@ -1,0 +1,15 @@
+collision_symbol: ARSC
+ARSC2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [X]
+  NCBI Gene ID: [413.0]
+  OMIM_ID: ['301780']
+  UniProt_ID: [.nan]
+STS:
+  ENSG_ID: [ENSG00000101846]
+  source: [NCBI Info]
+  Chromosome: [Xp22.31]
+  NCBI Gene ID: [412.0]
+  OMIM_ID: ['300747']
+  UniProt_ID: [P08842]

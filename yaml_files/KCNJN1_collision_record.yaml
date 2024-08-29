@@ -1,0 +1,15 @@
+collision_symbol: KCNJN1
+KCNJ12:
+  ENSG_ID: [ENSG00000184185]
+  source: [NCBI Info]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [3768.0]
+  OMIM_ID: ['602323']
+  UniProt_ID: [Q14500]
+KCNJ17:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

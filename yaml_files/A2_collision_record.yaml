@@ -1,0 +1,29 @@
+collision_symbol: A2
+ATP6V0A2:
+  ENSG_ID: [ENSG00000185344]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [23545.0]
+  OMIM_ID: ['611716']
+  UniProt_ID: [Q9Y487]
+CFAP410:
+  ENSG_ID: [ENSG00000160226]
+  source: [HGNC, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [755.0]
+  OMIM_ID: ['603191']
+  UniProt_ID: [O43822]
+GPHA2:
+  ENSG_ID: [ENSG00000149735]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [170589.0]
+  OMIM_ID: ['609651']
+  UniProt_ID: [Q96T91]
+SGCA:
+  ENSG_ID: [ENSG00000108823]
+  source: [HGNC, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [6442.0]
+  OMIM_ID: ['600119']
+  UniProt_ID: [Q16586]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000206172
-  gene_symbol: HBA1
-- ensg_id: ENSG00000188536
-  gene_symbol: ' HBA2'
-collision_symbol: ECYT7

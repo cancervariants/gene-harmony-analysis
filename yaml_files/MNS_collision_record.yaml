@@ -1,0 +1,29 @@
+collision_symbol: MNS
+FLNA:
+  ENSG_ID: [ENSG00000196924]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [2316.0]
+  OMIM_ID: ['300017']
+  UniProt_ID: [P21333]
+GYPA:
+  ENSG_ID: [ENSG00000170180]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2993.0]
+  OMIM_ID: ['617922']
+  UniProt_ID: [P02724]
+GYPB:
+  ENSG_ID: [ENSG00000250361]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2994.0]
+  OMIM_ID: ['617923']
+  UniProt_ID: [P06028]
+GYPE:
+  ENSG_ID: [ENSG00000197465]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2996.0]
+  OMIM_ID: ['138590']
+  UniProt_ID: [P15421]

@@ -1,0 +1,15 @@
+collision_symbol: YDR084C
+TVP23A:
+  ENSG_ID: [ENSG00000166676]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.13]
+  NCBI Gene ID: [780776.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A6NH52]
+TVP23B:
+  ENSG_ID: [ENSG00000171928]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [51030.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NYZ1]

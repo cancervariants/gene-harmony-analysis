@@ -1,0 +1,15 @@
+collision_symbol: ELOA3B
+ELOA3BP:
+  ENSG_ID: [ENSG00000288607]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [728929.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ELOA3CP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

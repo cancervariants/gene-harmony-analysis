@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000146049
-  gene_symbol: KAAG1
-- ensg_id: ENSG00000146038
-  gene_symbol: ' DCDC2'
-collision_symbol: RU2

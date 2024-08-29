@@ -1,0 +1,15 @@
+collision_symbol: IDDM1
+HLA-DQB1:
+  ENSG_ID: [ENSG00000179344]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [3119.0]
+  OMIM_ID: ['604305']
+  UniProt_ID: [P01920]
+INS:
+  ENSG_ID: [ENSG00000254647]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [3630.0]
+  OMIM_ID: ['176730']
+  UniProt_ID: [P01308]

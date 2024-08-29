@@ -1,0 +1,15 @@
+collision_symbol: LSH
+HELLS:
+  ENSG_ID: [ENSG00000119969]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [3070.0]
+  OMIM_ID: ['603946']
+  UniProt_ID: [Q9NRZ9]
+SLC11A1:
+  ENSG_ID: [ENSG00000018280]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [6556.0]
+  OMIM_ID: ['600266']
+  UniProt_ID: [P49279]

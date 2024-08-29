@@ -1,0 +1,15 @@
+collision_symbol: HPS2
+AP3B1:
+  ENSG_ID: [ENSG00000132842]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [8546.0]
+  OMIM_ID: ['603401']
+  UniProt_ID: [O00203]
+TFF1:
+  ENSG_ID: [ENSG00000160182]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [7031.0]
+  OMIM_ID: ['113710']
+  UniProt_ID: [P04155]

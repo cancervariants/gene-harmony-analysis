@@ -1,0 +1,15 @@
+collision_symbol: CMT2D
+AIFM1:
+  ENSG_ID: [ENSG00000156709]
+  source: [NCBI Info]
+  Chromosome: [Xq26.1]
+  NCBI Gene ID: [9131.0]
+  OMIM_ID: ['300169']
+  UniProt_ID: [O95831]
+GARS1:
+  ENSG_ID: [ENSG00000106105]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [2617.0]
+  OMIM_ID: ['600287']
+  UniProt_ID: [P41250]

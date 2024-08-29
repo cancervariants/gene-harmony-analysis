@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000144554
-  gene_symbol: FANCD2
-- ensg_id: ENSG00000080815
-  gene_symbol: ' PSEN1'
-- ensg_id: ENSG00000139618
-  gene_symbol: ' BRCA2'
-collision_symbol: ' FAD'

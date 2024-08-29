@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000108819
-  gene_symbol: PPP1R9B
-- ensg_id: ENSG00000177030
-  gene_symbol: ' DEAF1'
-collision_symbol: ' SPN'

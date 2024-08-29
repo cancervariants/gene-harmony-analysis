@@ -1,0 +1,15 @@
+collision_symbol: HSDJ0798C17
+OR2A7:
+  ENSG_ID: [ENSG00000243896]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q35]
+  NCBI Gene ID: [401427.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96R45]
+OR2A9P:
+  ENSG_ID: [ENSG00000228960, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q35, .nan]
+  NCBI Gene ID: [441295.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

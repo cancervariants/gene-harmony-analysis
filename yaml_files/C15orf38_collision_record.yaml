@@ -1,0 +1,15 @@
+collision_symbol: C15orf38
+ARPIN:
+  ENSG_ID: [ENSG00000242498]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [348110.0]
+  OMIM_ID: ['615543']
+  UniProt_ID: [Q7Z6K5]
+ARPIN-AP3S2:
+  ENSG_ID: [ENSG00000250021]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [100526783.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

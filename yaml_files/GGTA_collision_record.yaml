@@ -1,0 +1,15 @@
+collision_symbol: GGTA
+CHM:
+  ENSG_ID: [ENSG00000188419]
+  source: [NCBI Info]
+  Chromosome: [Xq21.2]
+  NCBI Gene ID: [1121.0]
+  OMIM_ID: ['300390']
+  UniProt_ID: [P24386]
+GGTA1:
+  ENSG_ID: [ENSG00000204136]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [2681.0]
+  OMIM_ID: ['104175']
+  UniProt_ID: [Q4G0N0]

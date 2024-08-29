@@ -1,0 +1,15 @@
+collision_symbol: PN1
+SCN9A:
+  ENSG_ID: [ENSG00000169432]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q24.3]
+  NCBI Gene ID: [6335.0]
+  OMIM_ID: ['603415']
+  UniProt_ID: [Q15858]
+SERPINE2:
+  ENSG_ID: [ENSG00000135919]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q36.1]
+  NCBI Gene ID: [5270.0]
+  OMIM_ID: ['177010']
+  UniProt_ID: [P07093]

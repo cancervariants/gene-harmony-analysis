@@ -1,0 +1,15 @@
+collision_symbol: MIG2
+FERMT2:
+  ENSG_ID: [ENSG00000073712]
+  source: [NCBI Info]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [10979.0]
+  OMIM_ID: ['607746']
+  UniProt_ID: [Q96AC1]
+RFTN1:
+  ENSG_ID: [ENSG00000131378]
+  source: [NCBI Info]
+  Chromosome: [3p24.3]
+  NCBI Gene ID: [23180.0]
+  OMIM_ID: ['618210']
+  UniProt_ID: [Q14699]

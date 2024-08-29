@@ -1,0 +1,43 @@
+collision_symbol: MYM
+ZMYM1:
+  ENSG_ID: [ENSG00000197056]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [79830.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5SVZ6]
+ZMYM2:
+  ENSG_ID: [ENSG00000121741]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [7750.0]
+  OMIM_ID: ['602221']
+  UniProt_ID: [Q9UBW7]
+ZMYM3:
+  ENSG_ID: [ENSG00000147130]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [9203.0]
+  OMIM_ID: ['300061']
+  UniProt_ID: [Q14202]
+ZMYM4:
+  ENSG_ID: [ENSG00000146463]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [9202.0]
+  OMIM_ID: ['613568']
+  UniProt_ID: [Q5VZL5]
+ZMYM5:
+  ENSG_ID: [ENSG00000132950]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [9205.0]
+  OMIM_ID: ['616443']
+  UniProt_ID: [Q9UJ78]
+ZMYM6:
+  ENSG_ID: [ENSG00000163867]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [9204.0]
+  OMIM_ID: ['613567']
+  UniProt_ID: [O95789]

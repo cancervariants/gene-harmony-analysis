@@ -1,0 +1,15 @@
+collision_symbol: GCR2
+ECD:
+  ENSG_ID: [ENSG00000122882]
+  source: [NCBI Info]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [11319.0]
+  OMIM_ID: ['616464']
+  UniProt_ID: [O95905]
+NR3C1P1:
+  ENSG_ID: [ENSG00000276393]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

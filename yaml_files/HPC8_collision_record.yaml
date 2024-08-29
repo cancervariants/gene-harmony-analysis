@@ -1,0 +1,15 @@
+collision_symbol: HPC8
+AGR2:
+  ENSG_ID: [ENSG00000106541]
+  source: [NCBI Info]
+  Chromosome: [7p21.1]
+  NCBI Gene ID: [10551.0]
+  OMIM_ID: ['606358']
+  UniProt_ID: [O95994]
+PCAP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q42.2-q43]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

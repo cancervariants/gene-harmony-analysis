@@ -1,0 +1,15 @@
+collision_symbol: B17
+DONSON:
+  ENSG_ID: [ENSG00000159147]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [29980.0]
+  OMIM_ID: ['611428']
+  UniProt_ID: [Q9NYP3]
+NDUFB6:
+  ENSG_ID: [ENSG00000165264]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p21.1]
+  NCBI Gene ID: [4712.0]
+  OMIM_ID: ['603322']
+  UniProt_ID: [O95139]

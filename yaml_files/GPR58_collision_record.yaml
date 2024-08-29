@@ -1,0 +1,15 @@
+collision_symbol: GPR58
+TAAR2:
+  ENSG_ID: [ENSG00000146378]
+  source: [NCBI Info]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [9287.0]
+  OMIM_ID: ['604849']
+  UniProt_ID: [Q9P1P5]
+TAAR3P:
+  ENSG_ID: [ENSG00000290584]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

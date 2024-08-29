@@ -1,0 +1,15 @@
+collision_symbol: C21orf77
+CFAP298-TCP10L:
+  ENSG_ID: [ENSG00000265590]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [110091775.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TCP10L:
+  ENSG_ID: [ENSG00000242220]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [140290.0]
+  OMIM_ID: ['608365']
+  UniProt_ID: [Q8TDR4]

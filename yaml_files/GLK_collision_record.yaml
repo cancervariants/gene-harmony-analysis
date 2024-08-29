@@ -1,0 +1,15 @@
+collision_symbol: GLK
+GCK:
+  ENSG_ID: [ENSG00000106633]
+  source: [NCBI Info]
+  Chromosome: [7p13]
+  NCBI Gene ID: [2645.0]
+  OMIM_ID: ['138079']
+  UniProt_ID: [P35557]
+MAP4K3:
+  ENSG_ID: [ENSG00000011566]
+  source: [NCBI Info]
+  Chromosome: [2p22.1]
+  NCBI Gene ID: [8491.0]
+  OMIM_ID: ['604921']
+  UniProt_ID: [Q8IVH8]

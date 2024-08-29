@@ -1,0 +1,15 @@
+collision_symbol: BOCA
+MESD:
+  ENSG_ID: [ENSG00000117899]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [23184.0]
+  OMIM_ID: ['607783']
+  UniProt_ID: [Q14696]
+OCA2:
+  ENSG_ID: [ENSG00000104044]
+  source: [NCBI Info]
+  Chromosome: [15q12-q13.1]
+  NCBI Gene ID: [4948.0]
+  OMIM_ID: ['611409']
+  UniProt_ID: [Q04671]

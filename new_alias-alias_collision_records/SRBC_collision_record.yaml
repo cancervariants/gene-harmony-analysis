@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116824
-  gene_symbol: CD2
-- ensg_id: ENSG00000170955
-  gene_symbol: ' CAVIN3'
-collision_symbol: SRBC

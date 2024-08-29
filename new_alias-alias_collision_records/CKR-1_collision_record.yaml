@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163823
-  gene_symbol: CCR1
-- ensg_id: ENSG00000163464
-  gene_symbol: ' CXCR1'
-collision_symbol: CKR-1

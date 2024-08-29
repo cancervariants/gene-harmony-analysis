@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000099203
-  gene_symbol: TMED1
-- ensg_id: ENSG00000115602
-  gene_symbol: ' IL1RL1'
-collision_symbol: ' ST2L'

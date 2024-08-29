@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160613
-  gene_symbol: PCSK7
-- ensg_id: ENSG00000137812
-  gene_symbol: ' KNL1'
-collision_symbol: ' SPC7'

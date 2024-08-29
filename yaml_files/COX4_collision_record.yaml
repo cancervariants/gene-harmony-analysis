@@ -1,0 +1,15 @@
+collision_symbol: COX4
+COX4I1:
+  ENSG_ID: [ENSG00000131143]
+  source: [NCBI Info]
+  Chromosome: [16q24.1]
+  NCBI Gene ID: [1327.0]
+  OMIM_ID: ['123864']
+  UniProt_ID: [P13073]
+COX4I2:
+  ENSG_ID: [ENSG00000131055]
+  source: [NCBI Info]
+  Chromosome: [20q11.21]
+  NCBI Gene ID: [84701.0]
+  OMIM_ID: ['607976']
+  UniProt_ID: [Q96KJ9]

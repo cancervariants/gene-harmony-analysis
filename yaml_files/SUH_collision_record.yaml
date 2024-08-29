@@ -1,0 +1,15 @@
+collision_symbol: SUH
+RBPJ:
+  ENSG_ID: [ENSG00000168214]
+  source: [ENSG]
+  Chromosome: [4p15.2]
+  NCBI Gene ID: [3516.0]
+  OMIM_ID: ['147183']
+  UniProt_ID: [Q06330]
+RBPJL:
+  ENSG_ID: [ENSG00000124232]
+  source: [ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [11317.0]
+  OMIM_ID: ['616104']
+  UniProt_ID: [Q9UBG7]

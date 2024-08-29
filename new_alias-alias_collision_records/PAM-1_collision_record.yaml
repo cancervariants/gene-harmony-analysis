@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145730
-  gene_symbol: PAM
-- ensg_id: ENSG00000158769
-  gene_symbol: ' F11R'
-collision_symbol: PAM-1

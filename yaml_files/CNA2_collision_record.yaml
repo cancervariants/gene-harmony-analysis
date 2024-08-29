@@ -1,0 +1,15 @@
+collision_symbol: CNA2
+KERA:
+  ENSG_ID: [ENSG00000139330]
+  source: [NCBI Info]
+  Chromosome: [12q21.33]
+  NCBI Gene ID: [11081.0]
+  OMIM_ID: ['603288']
+  UniProt_ID: [O60938]
+PPP3CB:
+  ENSG_ID: [ENSG00000107758]
+  source: [NCBI Info]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [5532.0]
+  OMIM_ID: ['114106']
+  UniProt_ID: [P16298]

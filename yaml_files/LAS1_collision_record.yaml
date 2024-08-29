@@ -1,0 +1,15 @@
+collision_symbol: LAS1
+DNAI7:
+  ENSG_ID: [ENSG00000118307]
+  source: [ENSG]
+  Chromosome: [12p12.1]
+  NCBI Gene ID: [55259.0]
+  OMIM_ID: ['616906']
+  UniProt_ID: [Q6TDU7]
+LAS1L:
+  ENSG_ID: [ENSG00000001497]
+  source: [ENSG]
+  Chromosome: [Xq12]
+  NCBI Gene ID: [81887.0]
+  OMIM_ID: ['300964']
+  UniProt_ID: [Q9Y4W2]

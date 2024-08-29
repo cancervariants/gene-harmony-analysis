@@ -1,0 +1,15 @@
+collision_symbol: MAD
+AMPD1:
+  ENSG_ID: [ENSG00000116748]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [270.0]
+  OMIM_ID: ['102770']
+  UniProt_ID: [P23109]
+MXD1:
+  ENSG_ID: [ENSG00000059728]
+  source: [NCBI Info]
+  Chromosome: [2p13.3]
+  NCBI Gene ID: [4084.0]
+  OMIM_ID: ['600021']
+  UniProt_ID: [Q05195]

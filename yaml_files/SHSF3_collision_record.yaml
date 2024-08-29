@@ -1,0 +1,15 @@
+collision_symbol: SHSF3
+FBXW4:
+  ENSG_ID: [ENSG00000107829]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [6468.0]
+  OMIM_ID: ['608071']
+  UniProt_ID: [P57775]
+SHFM3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

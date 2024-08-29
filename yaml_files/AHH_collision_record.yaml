@@ -1,0 +1,15 @@
+collision_symbol: AHH
+AHRR:
+  ENSG_ID: [ENSG00000063438]
+  source: [NCBI Info]
+  Chromosome: [5p15.33]
+  NCBI Gene ID: [57491.0]
+  OMIM_ID: ['606517']
+  UniProt_ID: [A9YTQ3]
+CYP1A1:
+  ENSG_ID: [ENSG00000140465]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [1543.0]
+  OMIM_ID: ['108330']
+  UniProt_ID: [P04798]

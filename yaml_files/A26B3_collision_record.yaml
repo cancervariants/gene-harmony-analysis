@@ -1,0 +1,15 @@
+collision_symbol: A26B3
+LOC100288966:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+POTED:
+  ENSG_ID: [ENSG00000166351]
+  source: [NCBI Info]
+  Chromosome: [21q11.2]
+  NCBI Gene ID: [317754.0]
+  OMIM_ID: ['607549']
+  UniProt_ID: [Q86YR6]

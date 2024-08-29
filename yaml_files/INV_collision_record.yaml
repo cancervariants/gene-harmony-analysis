@@ -1,0 +1,15 @@
+collision_symbol: INV
+INVS:
+  ENSG_ID: [ENSG00000119509]
+  source: [NCBI Info]
+  Chromosome: [9q31.1]
+  NCBI Gene ID: [27130.0]
+  OMIM_ID: ['243305']
+  UniProt_ID: [Q9Y283]
+LMLN:
+  ENSG_ID: [ENSG00000185621]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [89782.0]
+  OMIM_ID: ['609380']
+  UniProt_ID: [Q96KR4]

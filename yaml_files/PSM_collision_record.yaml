@@ -1,0 +1,22 @@
+collision_symbol: PSM
+FOLH1:
+  ENSG_ID: [ENSG00000086205]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p11.12]
+  NCBI Gene ID: [2346.0]
+  OMIM_ID: ['600934']
+  UniProt_ID: [Q04609]
+FOLH1B:
+  ENSG_ID: [.nan, ENSG00000290503]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SH2B1:
+  ENSG_ID: [ENSG00000178188]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [25970.0]
+  OMIM_ID: ['608937']
+  UniProt_ID: [Q9NRF2]

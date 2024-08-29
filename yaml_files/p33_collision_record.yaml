@@ -1,0 +1,22 @@
+collision_symbol: p33
+CD74:
+  ENSG_ID: [ENSG00000019582]
+  source: [NCBI Info]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [972.0]
+  OMIM_ID: ['142790']
+  UniProt_ID: [P04233]
+ING1:
+  ENSG_ID: [ENSG00000153487]
+  source: [NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [3621.0]
+  OMIM_ID: ['601566']
+  UniProt_ID: [Q9UK53]
+LTB:
+  ENSG_ID: [ENSG00000227507]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [4050.0]
+  OMIM_ID: ['600978']
+  UniProt_ID: [Q06643]

@@ -1,0 +1,15 @@
+collision_symbol: VATB
+ATP6V1B1:
+  ENSG_ID: [ENSG00000116039]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p13.3]
+  NCBI Gene ID: [525.0]
+  OMIM_ID: ['192132']
+  UniProt_ID: [P15313]
+ATP6V1B2:
+  ENSG_ID: [ENSG00000147416]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [526.0]
+  OMIM_ID: ['606939']
+  UniProt_ID: [P21281]

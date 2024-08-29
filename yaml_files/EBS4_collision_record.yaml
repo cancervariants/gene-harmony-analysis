@@ -1,0 +1,15 @@
+collision_symbol: EBS4
+EXPH5:
+  ENSG_ID: [ENSG00000110723]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [23086.0]
+  OMIM_ID: ['612878']
+  UniProt_ID: [Q8NEV8]
+KRT14:
+  ENSG_ID: [ENSG00000186847]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3861.0]
+  OMIM_ID: ['148066']
+  UniProt_ID: [P02533]

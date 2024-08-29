@@ -1,0 +1,15 @@
+collision_symbol: ZIP2
+SHOC1:
+  ENSG_ID: [ENSG00000165181]
+  source: [NCBI Info]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [158401.0]
+  OMIM_ID: ['618038']
+  UniProt_ID: [Q5VXU9]
+SLC39A2:
+  ENSG_ID: [ENSG00000165794]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [29986.0]
+  OMIM_ID: ['612166']
+  UniProt_ID: [Q9NP94]

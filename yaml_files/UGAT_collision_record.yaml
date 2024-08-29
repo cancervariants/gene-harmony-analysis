@@ -1,0 +1,15 @@
+collision_symbol: UGAT
+DPAGT1:
+  ENSG_ID: [ENSG00000172269]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [1798.0]
+  OMIM_ID: ['191350']
+  UniProt_ID: [Q9H3H5]
+SLC35A2:
+  ENSG_ID: [ENSG00000102100]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [7355.0]
+  OMIM_ID: ['314375']
+  UniProt_ID: [P78381]

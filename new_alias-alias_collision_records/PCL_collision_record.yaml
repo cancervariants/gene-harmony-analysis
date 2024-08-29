@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107593
-  gene_symbol: PKD2L1
-- ensg_id: ENSG00000037280
-  gene_symbol: ' FLT4'
-collision_symbol: PCL

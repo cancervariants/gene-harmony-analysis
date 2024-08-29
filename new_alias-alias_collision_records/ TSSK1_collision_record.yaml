@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000231086
-  gene_symbol: TSSK1A
-- ensg_id: ENSG00000212122
-  gene_symbol: ' TSSK1B'
-collision_symbol: ' TSSK1'

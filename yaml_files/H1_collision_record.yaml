@@ -1,0 +1,29 @@
+collision_symbol: H1
+CLIC4:
+  ENSG_ID: [ENSG00000169504]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [25932.0]
+  OMIM_ID: ['606536']
+  UniProt_ID: [Q9Y696]
+H1-5:
+  ENSG_ID: [ENSG00000184357]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [3009.0]
+  OMIM_ID: ['142711']
+  UniProt_ID: [P16401]
+RLN1:
+  ENSG_ID: [ENSG00000107018]
+  source: [NCBI Info]
+  Chromosome: [9p24.1]
+  NCBI Gene ID: [6013.0]
+  OMIM_ID: ['179730']
+  UniProt_ID: [P04808]
+VPS45:
+  ENSG_ID: [ENSG00000136631]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [11311.0]
+  OMIM_ID: ['610035']
+  UniProt_ID: [Q9NRW7]

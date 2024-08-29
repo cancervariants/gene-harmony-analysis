@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197405
-  gene_symbol: C5AR1
-- ensg_id: ENSG00000106804
-  gene_symbol: ' C5'
-collision_symbol: C5A

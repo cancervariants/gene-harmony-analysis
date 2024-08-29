@@ -1,0 +1,15 @@
+collision_symbol: AMGL
+AMELX:
+  ENSG_ID: [ENSG00000125363]
+  source: [NCBI Info]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [265.0]
+  OMIM_ID: ['300391']
+  UniProt_ID: [Q99217]
+AMELY:
+  ENSG_ID: [ENSG00000099721]
+  source: [NCBI Info]
+  Chromosome: [Yp11.2]
+  NCBI Gene ID: [266.0]
+  OMIM_ID: ['410000']
+  UniProt_ID: [Q99218]

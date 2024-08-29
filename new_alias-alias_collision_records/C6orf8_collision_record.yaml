@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241404
-  gene_symbol: EGFL8
-- ensg_id: ENSG00000221988
-  gene_symbol: ' PPT2'
-collision_symbol: C6orf8

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176890
-  gene_symbol: TYMS
-- ensg_id: ENSG00000103490
-  gene_symbol: ' PYCARD'
-collision_symbol: TMS

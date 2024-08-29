@@ -1,0 +1,15 @@
+collision_symbol: UBC2
+UBE2A:
+  ENSG_ID: [ENSG00000077721]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [7319.0]
+  OMIM_ID: ['312180']
+  UniProt_ID: [P49459]
+UBE2B:
+  ENSG_ID: [ENSG00000119048]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [7320.0]
+  OMIM_ID: ['179095']
+  UniProt_ID: [P63146]

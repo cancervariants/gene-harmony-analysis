@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000096872
-  gene_symbol: IFT74
-- ensg_id: ENSG00000185650
-  gene_symbol: ' ZFP36L1'
-collision_symbol: ' CMG1'

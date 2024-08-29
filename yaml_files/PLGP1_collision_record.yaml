@@ -1,0 +1,15 @@
+collision_symbol: PLGP1
+PLGLB1:
+  ENSG_ID: [ENSG00000183281]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [5343.0]
+  OMIM_ID: ['173340']
+  UniProt_ID: [Q02325]
+PLGLB2:
+  ENSG_ID: [ENSG00000125551]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [5342.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q02325]

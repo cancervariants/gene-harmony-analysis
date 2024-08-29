@@ -1,0 +1,15 @@
+collision_symbol: H3.1
+H3C3:
+  ENSG_ID: [ENSG00000287080]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8352.0]
+  OMIM_ID: ['602812']
+  UniProt_ID: [P68431]
+H3C6:
+  ENSG_ID: [ENSG00000274750]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8353.0]
+  OMIM_ID: ['602813']
+  UniProt_ID: [P68431]

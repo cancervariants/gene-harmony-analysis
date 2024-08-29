@@ -1,0 +1,15 @@
+collision_symbol: FPRH2
+FPR2:
+  ENSG_ID: [ENSG00000171049]
+  source: [NCBI Info]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [2358.0]
+  OMIM_ID: ['136538']
+  UniProt_ID: [P25090]
+FPR3:
+  ENSG_ID: [ENSG00000187474]
+  source: [NCBI Info]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [2359.0]
+  OMIM_ID: ['136539']
+  UniProt_ID: [P25089]

@@ -1,0 +1,15 @@
+collision_symbol: AD2
+APOE:
+  ENSG_ID: [ENSG00000130203]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [348.0]
+  OMIM_ID: ['107741']
+  UniProt_ID: [P02649]
+NBPF1:
+  ENSG_ID: [ENSG00000219481]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [55672.0]
+  OMIM_ID: ['610501']
+  UniProt_ID: [Q3BBV0]

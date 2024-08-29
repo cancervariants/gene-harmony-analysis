@@ -1,0 +1,15 @@
+collision_symbol: GCP3
+NAALAD2:
+  ENSG_ID: [ENSG00000077616]
+  source: [NCBI Info]
+  Chromosome: [11q14.3]
+  NCBI Gene ID: [10003.0]
+  OMIM_ID: ['611636']
+  UniProt_ID: [Q9Y3Q0]
+TUBGCP3:
+  ENSG_ID: [ENSG00000126216]
+  source: [NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [10426.0]
+  OMIM_ID: ['617818']
+  UniProt_ID: [Q96CW5]

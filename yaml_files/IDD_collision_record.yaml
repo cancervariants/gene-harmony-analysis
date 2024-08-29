@@ -1,0 +1,15 @@
+collision_symbol: IDD
+COL9A3:
+  ENSG_ID: [ENSG00000092758]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [1299.0]
+  OMIM_ID: ['120270']
+  UniProt_ID: [Q14050]
+DGCR2:
+  ENSG_ID: [ENSG00000070413]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [9993.0]
+  OMIM_ID: ['600594']
+  UniProt_ID: [P98153]

@@ -1,0 +1,15 @@
+collision_symbol: EEF-1
+EEF1A1:
+  ENSG_ID: [ENSG00000156508]
+  source: [NCBI Info]
+  Chromosome: [6q13]
+  NCBI Gene ID: [1915.0]
+  OMIM_ID: ['130590']
+  UniProt_ID: [P68104]
+EEF1B2P2:
+  ENSG_ID: [ENSG00000213864]
+  source: [NCBI Info]
+  Chromosome: [5q13.1]
+  NCBI Gene ID: [1934.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

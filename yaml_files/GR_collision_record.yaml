@@ -1,0 +1,15 @@
+collision_symbol: GR
+GSR:
+  ENSG_ID: [ENSG00000104687]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [2936.0]
+  OMIM_ID: ['138300']
+  UniProt_ID: [P00390]
+NR3C1:
+  ENSG_ID: [ENSG00000113580]
+  source: [NCBI Info]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [2908.0]
+  OMIM_ID: ['138040']
+  UniProt_ID: [P04150]

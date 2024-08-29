@@ -1,0 +1,15 @@
+collision_symbol: p6
+EXOSC9:
+  ENSG_ID: [ENSG00000123737]
+  source: [NCBI Info]
+  Chromosome: [4q27]
+  NCBI Gene ID: [5393.0]
+  OMIM_ID: ['606180']
+  UniProt_ID: [Q06265]
+S100A12:
+  ENSG_ID: [ENSG00000163221]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6283.0]
+  OMIM_ID: ['603112']
+  UniProt_ID: [P80511]

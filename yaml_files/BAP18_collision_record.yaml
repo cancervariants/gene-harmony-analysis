@@ -1,0 +1,15 @@
+collision_symbol: BAP18
+C17orf49:
+  ENSG_ID: [ENSG00000258315]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [124944.0]
+  OMIM_ID: ['617215']
+  UniProt_ID: [Q8IXM2]
+RNASEK-C17orf49:
+  ENSG_ID: [ENSG00000161939]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [100529209.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: SIK-1
+LOC102724428:
+  ENSG_ID: [ENSG00000275993]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SIK1:
+  ENSG_ID: [ENSG00000142178]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [150094.0]
+  OMIM_ID: ['605705']
+  UniProt_ID: [P57059]

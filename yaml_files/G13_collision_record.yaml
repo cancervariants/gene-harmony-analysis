@@ -1,0 +1,15 @@
+collision_symbol: G13
+ATF6B:
+  ENSG_ID: [ENSG00000213676]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p21.3]
+  NCBI Gene ID: [1388.0]
+  OMIM_ID: ['600984']
+  UniProt_ID: [Q99941]
+GNA13:
+  ENSG_ID: [ENSG00000120063]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q24.1]
+  NCBI Gene ID: [10672.0]
+  OMIM_ID: ['604406']
+  UniProt_ID: [Q14344]

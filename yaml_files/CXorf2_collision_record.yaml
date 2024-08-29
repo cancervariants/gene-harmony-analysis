@@ -1,0 +1,15 @@
+collision_symbol: CXorf2
+SLITRK2:
+  ENSG_ID: [ENSG00000185985]
+  source: [NCBI Info]
+  Chromosome: [Xq27.3]
+  NCBI Gene ID: [84631.0]
+  OMIM_ID: ['300561']
+  UniProt_ID: [Q9H156]
+TEX28:
+  ENSG_ID: [ENSG00000278057]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [1527.0]
+  OMIM_ID: ['300092']
+  UniProt_ID: [O15482]

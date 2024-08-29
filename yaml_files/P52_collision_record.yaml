@@ -1,0 +1,29 @@
+collision_symbol: p52
+FKBP4:
+  ENSG_ID: [ENSG00000004478]
+  source: [NCBI Info]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [2288.0]
+  OMIM_ID: ['600611']
+  UniProt_ID: [Q02790]
+H3P42:
+  ENSG_ID: [ENSG00000271626]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [115482704.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NFKB2:
+  ENSG_ID: [ENSG00000077150]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [4791.0]
+  OMIM_ID: ['164012']
+  UniProt_ID: [Q00653]
+PSIP1:
+  ENSG_ID: [ENSG00000164985]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9p22.3]
+  NCBI Gene ID: [11168.0]
+  OMIM_ID: ['603620']
+  UniProt_ID: [O75475]

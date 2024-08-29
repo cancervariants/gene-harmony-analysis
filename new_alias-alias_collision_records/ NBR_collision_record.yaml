@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000187609
-  gene_symbol: EXD3
-- ensg_id: ENSG00000130762
-  gene_symbol: ' ARHGEF16'
-collision_symbol: ' NBR'

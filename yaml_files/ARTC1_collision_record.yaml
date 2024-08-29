@@ -1,0 +1,15 @@
+collision_symbol: ARTC1
+ART1:
+  ENSG_ID: [ENSG00000129744]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [417.0]
+  OMIM_ID: ['601625']
+  UniProt_ID: [P52961]
+BBX:
+  ENSG_ID: [ENSG00000114439]
+  source: [NCBI Info]
+  Chromosome: [3q13.12]
+  NCBI Gene ID: [56987.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8WY36]

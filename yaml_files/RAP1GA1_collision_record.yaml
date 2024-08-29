@@ -1,0 +1,15 @@
+collision_symbol: RAP1GA1
+RAP1GAP:
+  ENSG_ID: [ENSG00000076864]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [5909.0]
+  OMIM_ID: ['600278']
+  UniProt_ID: [P47736]
+USP48:
+  ENSG_ID: [ENSG00000090686]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [84196.0]
+  OMIM_ID: ['617445']
+  UniProt_ID: [Q86UV5]

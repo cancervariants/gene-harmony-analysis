@@ -1,0 +1,15 @@
+collision_symbol: EJM6
+CACNB4:
+  ENSG_ID: [ENSG00000182389]
+  source: [NCBI Info]
+  Chromosome: [2q23.3]
+  NCBI Gene ID: [785.0]
+  OMIM_ID: ['601949']
+  UniProt_ID: [O00305]
+CLCN2:
+  ENSG_ID: [ENSG00000114859]
+  source: [NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [1181.0]
+  OMIM_ID: ['600570']
+  UniProt_ID: [P51788]

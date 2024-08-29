@@ -1,0 +1,22 @@
+collision_symbol: DAN
+MICOS10-NBL1:
+  ENSG_ID: [ENSG00000158747]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NBL1:
+  ENSG_ID: [ENSG00000158747]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [4681.0]
+  OMIM_ID: ['600613']
+  UniProt_ID: [P41271]
+PARN:
+  ENSG_ID: [ENSG00000140694]
+  source: [NCBI Info]
+  Chromosome: [16p13.12]
+  NCBI Gene ID: [5073.0]
+  OMIM_ID: ['604212']
+  UniProt_ID: [O95453]

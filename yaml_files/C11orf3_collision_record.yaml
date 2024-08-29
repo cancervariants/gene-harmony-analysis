@@ -1,0 +1,15 @@
+collision_symbol: C11orf3
+EMC7:
+  ENSG_ID: [ENSG00000134153]
+  source: [NCBI Info]
+  Chromosome: [15q14]
+  NCBI Gene ID: [56851.0]
+  OMIM_ID: ['620631']
+  UniProt_ID: [Q9NPA0]
+VPS51:
+  ENSG_ID: [ENSG00000149823]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [738.0]
+  OMIM_ID: ['615738']
+  UniProt_ID: [Q9UID3]

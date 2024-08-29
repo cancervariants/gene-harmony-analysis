@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000121774
-  gene_symbol: KHDRBS1
-- ensg_id: ENSG00000213024
-  gene_symbol: ' NUP62'
-- ensg_id: ENSG00000161011
-  gene_symbol: ' SQSTM1'
-collision_symbol: p62

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000150201
-  gene_symbol: FXYD4
-- ensg_id: ENSG00000006634
-  gene_symbol: ' DBF4'
-collision_symbol: CHIF

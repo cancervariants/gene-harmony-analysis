@@ -1,0 +1,22 @@
+collision_symbol: MAT1
+MNAT1:
+  ENSG_ID: [ENSG00000020426]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q23.1]
+  NCBI Gene ID: [4331.0]
+  OMIM_ID: ['602659']
+  UniProt_ID: [P51948]
+MSC-AS1:
+  ENSG_ID: [ENSG00000235531]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q13.3-q21.11]
+  NCBI Gene ID: [100132891.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PEA15:
+  ENSG_ID: [ENSG00000162734]
+  source: [NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [8682.0]
+  OMIM_ID: ['603434']
+  UniProt_ID: [Q15121]

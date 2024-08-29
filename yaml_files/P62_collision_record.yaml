@@ -1,0 +1,36 @@
+collision_symbol: p62
+DCTN4:
+  ENSG_ID: [ENSG00000132912]
+  source: [HGNC]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [51164.0]
+  OMIM_ID: ['614758']
+  UniProt_ID: [Q9UJW0]
+IGF2BP2:
+  ENSG_ID: [ENSG00000073792]
+  source: [HGNC]
+  Chromosome: [3q27.2]
+  NCBI Gene ID: [10644.0]
+  OMIM_ID: ['608289']
+  UniProt_ID: [Q9Y6M1]
+KHDRBS1:
+  ENSG_ID: [ENSG00000121774]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p35.2]
+  NCBI Gene ID: [10657.0]
+  OMIM_ID: ['602489']
+  UniProt_ID: [Q07666]
+NUP62:
+  ENSG_ID: [ENSG00000213024]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [23636.0]
+  OMIM_ID: ['605815']
+  UniProt_ID: [P37198]
+SQSTM1:
+  ENSG_ID: [ENSG00000161011]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [8878.0]
+  OMIM_ID: ['601530']
+  UniProt_ID: [Q13501]

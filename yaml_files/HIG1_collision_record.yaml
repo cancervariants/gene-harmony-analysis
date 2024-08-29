@@ -1,0 +1,15 @@
+collision_symbol: HIG1
+HIGD1A:
+  ENSG_ID: [ENSG00000181061]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [25994.0]
+  OMIM_ID: ['618623']
+  UniProt_ID: [Q9Y241]
+HIGD1AP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

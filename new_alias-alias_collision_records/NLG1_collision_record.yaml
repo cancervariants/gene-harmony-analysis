@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000126259
-  gene_symbol: KIRREL2
-- ensg_id: ENSG00000169760
-  gene_symbol: ' NLGN1'
-collision_symbol: NLG1

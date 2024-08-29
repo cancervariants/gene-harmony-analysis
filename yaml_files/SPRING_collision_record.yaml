@@ -1,0 +1,15 @@
+collision_symbol: SPRING
+SPRING1:
+  ENSG_ID: [ENSG00000111412]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.22]
+  NCBI Gene ID: [79794.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9H741]
+TRIM9:
+  ENSG_ID: [ENSG00000100505]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [114088.0]
+  OMIM_ID: ['606555']
+  UniProt_ID: [Q9C026]

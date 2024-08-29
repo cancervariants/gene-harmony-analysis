@@ -1,0 +1,15 @@
+collision_symbol: TFIIA
+GTF2A1:
+  ENSG_ID: [ENSG00000165417]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q31.1]
+  NCBI Gene ID: [2957.0]
+  OMIM_ID: ['600520']
+  UniProt_ID: [P52655]
+GTF2A2:
+  ENSG_ID: [ENSG00000140307]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q22.2]
+  NCBI Gene ID: [2958.0]
+  OMIM_ID: ['600519']
+  UniProt_ID: [P52657]

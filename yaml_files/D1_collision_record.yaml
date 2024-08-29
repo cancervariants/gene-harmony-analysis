@@ -1,0 +1,15 @@
+collision_symbol: D1
+BBS9:
+  ENSG_ID: [ENSG00000122507]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [27241.0]
+  OMIM_ID: ['607968']
+  UniProt_ID: [Q3SYG4]
+LMOD1:
+  ENSG_ID: [ENSG00000163431]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [25802.0]
+  OMIM_ID: ['602715']
+  UniProt_ID: [P29536]

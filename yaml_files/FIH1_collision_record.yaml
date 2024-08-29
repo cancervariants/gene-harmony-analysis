@@ -1,0 +1,15 @@
+collision_symbol: FIH1
+HIF1AN:
+  ENSG_ID: [ENSG00000166135]
+  source: [NCBI Info]
+  Chromosome: [10q24.31]
+  NCBI Gene ID: [55662.0]
+  OMIM_ID: ['606615']
+  UniProt_ID: [Q9NWT6]
+PTH:
+  ENSG_ID: [ENSG00000152266]
+  source: [NCBI Info]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [5741.0]
+  OMIM_ID: ['168450']
+  UniProt_ID: [P01270]

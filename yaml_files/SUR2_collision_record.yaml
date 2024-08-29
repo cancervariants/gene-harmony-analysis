@@ -1,0 +1,15 @@
+collision_symbol: SUR2
+ABCC9:
+  ENSG_ID: [ENSG00000069431]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p12.1]
+  NCBI Gene ID: [10060.0]
+  OMIM_ID: ['601439']
+  UniProt_ID: [O60706]
+MED23:
+  ENSG_ID: [ENSG00000112282]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [9439.0]
+  OMIM_ID: ['605042']
+  UniProt_ID: [Q9ULK4]

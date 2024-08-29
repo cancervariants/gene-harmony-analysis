@@ -1,0 +1,22 @@
+collision_symbol: BAR
+ADRB2:
+  ENSG_ID: [ENSG00000169252]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [154.0]
+  OMIM_ID: ['109690']
+  UniProt_ID: [P07550]
+BFAR:
+  ENSG_ID: [ENSG00000103429]
+  source: [NCBI Info]
+  Chromosome: [16p13.12]
+  NCBI Gene ID: [51283.0]
+  OMIM_ID: ['619516']
+  UniProt_ID: [Q9NZS9]
+NR1H4:
+  ENSG_ID: [ENSG00000012504]
+  source: [NCBI Info]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [9971.0]
+  OMIM_ID: ['603826']
+  UniProt_ID: [Q96RI1]

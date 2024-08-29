@@ -1,0 +1,15 @@
+collision_symbol: FCT3A
+FUT4:
+  ENSG_ID: [ENSG00000196371]
+  source: [NCBI Info]
+  Chromosome: [11q21]
+  NCBI Gene ID: [2526.0]
+  OMIM_ID: ['104230']
+  UniProt_ID: [P22083]
+FUT6:
+  ENSG_ID: [ENSG00000156413]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [2528.0]
+  OMIM_ID: ['136836']
+  UniProt_ID: [P51993]

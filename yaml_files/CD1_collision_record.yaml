@@ -1,0 +1,22 @@
+collision_symbol: CD1
+CD1A:
+  ENSG_ID: [ENSG00000158477]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [909.0]
+  OMIM_ID: ['188370']
+  UniProt_ID: [P06126]
+CD1B:
+  ENSG_ID: [ENSG00000158485]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [910.0]
+  OMIM_ID: ['188360']
+  UniProt_ID: [P29016]
+CD1C:
+  ENSG_ID: [ENSG00000158481]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [911.0]
+  OMIM_ID: ['188340']
+  UniProt_ID: [P29017]

@@ -1,0 +1,15 @@
+collision_symbol: KRTHB1
+KRT81:
+  ENSG_ID: [ENSG00000205426]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3887.0]
+  OMIM_ID: ['602153']
+  UniProt_ID: [Q14533]
+KRT86:
+  ENSG_ID: [ENSG00000170442]
+  source: [NCBI Info]
+  Chromosome: [12q13]
+  NCBI Gene ID: [3892.0]
+  OMIM_ID: ['601928']
+  UniProt_ID: [O43790]

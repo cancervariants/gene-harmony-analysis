@@ -1,0 +1,15 @@
+collision_symbol: DEF3
+DEFA3:
+  ENSG_ID: [ENSG00000239839]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1668.0]
+  OMIM_ID: ['604522']
+  UniProt_ID: [P59666]
+RBM6:
+  ENSG_ID: [ENSG00000004534]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10180.0]
+  OMIM_ID: ['606886']
+  UniProt_ID: [P78332]

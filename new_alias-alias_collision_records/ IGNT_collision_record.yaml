@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111846
-  gene_symbol: GCNT2
-- ensg_id: ENSG00000174684
-  gene_symbol: ' B4GAT1'
-collision_symbol: ' IGNT'

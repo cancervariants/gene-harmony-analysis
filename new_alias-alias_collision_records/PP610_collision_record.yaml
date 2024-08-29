@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186654
-  gene_symbol: PRR5
-- ensg_id: ENSG00000241484
-  gene_symbol: ' ARHGAP8'
-collision_symbol: PP610

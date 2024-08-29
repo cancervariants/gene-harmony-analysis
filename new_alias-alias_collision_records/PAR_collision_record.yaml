@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143543
-  gene_symbol: JTB
-- ensg_id: ENSG00000144852
-  gene_symbol: ' NR1I2'
-collision_symbol: PAR

@@ -1,0 +1,15 @@
+collision_symbol: SCP1
+CTDSP1:
+  ENSG_ID: [ENSG00000144579]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [58190.0]
+  OMIM_ID: ['605323']
+  UniProt_ID: [Q9GZU7]
+SYCP1:
+  ENSG_ID: [ENSG00000198765]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [6847.0]
+  OMIM_ID: ['602162']
+  UniProt_ID: [Q15431]

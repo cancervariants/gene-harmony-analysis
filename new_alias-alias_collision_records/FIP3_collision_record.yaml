@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000090565
-  gene_symbol: RAB11FIP3
-- ensg_id: ENSG00000269335
-  gene_symbol: ' IKBKG'
-collision_symbol: FIP3

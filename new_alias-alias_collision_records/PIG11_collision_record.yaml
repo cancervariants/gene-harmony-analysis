@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175274
-  gene_symbol: TP53I11
-- ensg_id: ENSG00000103152
-  gene_symbol: ' MPG'
-collision_symbol: PIG11

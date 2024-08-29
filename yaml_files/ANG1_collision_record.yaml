@@ -1,0 +1,15 @@
+collision_symbol: ANG1
+ANGPT1:
+  ENSG_ID: [ENSG00000154188]
+  source: [NCBI Info]
+  Chromosome: [8q23.1]
+  NCBI Gene ID: [284.0]
+  OMIM_ID: ['601667']
+  UniProt_ID: [Q15389]
+TM7SF2:
+  ENSG_ID: [ENSG00000149809]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [7108.0]
+  OMIM_ID: ['603414']
+  UniProt_ID: [O76062]

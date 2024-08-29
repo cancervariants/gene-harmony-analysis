@@ -1,0 +1,36 @@
+collision_symbol: IAP
+ALPI:
+  ENSG_ID: [ENSG00000163295]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [248.0]
+  OMIM_ID: ['171740']
+  UniProt_ID: [P09923]
+ALPP:
+  ENSG_ID: [ENSG00000163283]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [250.0]
+  OMIM_ID: ['171800']
+  UniProt_ID: [P05187]
+CD47:
+  ENSG_ID: [ENSG00000196776]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q13.12]
+  NCBI Gene ID: [961.0]
+  OMIM_ID: ['601028']
+  UniProt_ID: [Q08722]
+IAPP:
+  ENSG_ID: [ENSG00000121351]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p12.1]
+  NCBI Gene ID: [3375.0]
+  OMIM_ID: ['147940']
+  UniProt_ID: [P10997]
+MAGT1:
+  ENSG_ID: [ENSG00000102158]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq21.1]
+  NCBI Gene ID: [84061.0]
+  OMIM_ID: ['300715']
+  UniProt_ID: [Q9H0U3]

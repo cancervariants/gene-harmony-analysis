@@ -1,0 +1,15 @@
+collision_symbol: CT64
+LINC01192:
+  ENSG_ID: [ENSG00000241369]
+  source: [NCBI Info]
+  Chromosome: [3q26.1]
+  NCBI Gene ID: [647107.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PASD1:
+  ENSG_ID: [ENSG00000166049]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [139135.0]
+  OMIM_ID: ['300993']
+  UniProt_ID: [Q8IV76]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000138794
-  gene_symbol: CASP6
-- ensg_id: ENSG00000152034
-  gene_symbol: ' MCHR2'
-collision_symbol: MCH2

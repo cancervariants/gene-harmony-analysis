@@ -1,0 +1,15 @@
+collision_symbol: ATX1
+ATOX1:
+  ENSG_ID: [ENSG00000177556]
+  source: [NCBI Info]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [475.0]
+  OMIM_ID: ['602270']
+  UniProt_ID: [O00244]
+ATXN1:
+  ENSG_ID: [ENSG00000124788]
+  source: [NCBI Info]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [6310.0]
+  OMIM_ID: ['601556']
+  UniProt_ID: [P54253]

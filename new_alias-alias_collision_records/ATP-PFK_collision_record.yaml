@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000152556
-  gene_symbol: PFKM
-- ensg_id: ENSG00000067057
-  gene_symbol: ' PFKP'
-- ensg_id: ENSG00000141959
-  gene_symbol: ' PFKL'
-collision_symbol: ATP-PFK

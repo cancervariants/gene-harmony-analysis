@@ -1,0 +1,15 @@
+collision_symbol: SCC1
+PTPRJ:
+  ENSG_ID: [ENSG00000149177]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [5795.0]
+  OMIM_ID: ['600925']
+  UniProt_ID: [Q12913]
+RAD21:
+  ENSG_ID: [ENSG00000164754]
+  source: [NCBI Info]
+  Chromosome: [8q24.11]
+  NCBI Gene ID: [5885.0]
+  OMIM_ID: ['606462']
+  UniProt_ID: [O60216]

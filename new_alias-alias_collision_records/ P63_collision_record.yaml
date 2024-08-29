@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000136026
-  gene_symbol: CKAP4
-- ensg_id: ENSG00000073282
-  gene_symbol: ' TP63'
-collision_symbol: ' P63'

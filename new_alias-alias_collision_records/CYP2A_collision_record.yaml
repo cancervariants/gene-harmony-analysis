@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198077
-  gene_symbol: CYP2A7
-- ensg_id: ENSG00000255974
-  gene_symbol: ' CYP2A6'
-- ensg_id: ENSG00000197838
-  gene_symbol: ' CYP2A13'
-collision_symbol: CYP2A

@@ -1,0 +1,15 @@
+collision_symbol: DAGK6
+DGKE:
+  ENSG_ID: [ENSG00000153933]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [8526.0]
+  OMIM_ID: ['601440']
+  UniProt_ID: [P52429]
+DGKZ:
+  ENSG_ID: [ENSG00000149091]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [8525.0]
+  OMIM_ID: ['601441']
+  UniProt_ID: [Q13574]

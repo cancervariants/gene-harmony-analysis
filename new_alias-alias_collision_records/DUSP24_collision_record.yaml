@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127952
-  gene_symbol: STYXL1
-- ensg_id: ENSG00000133878
-  gene_symbol: ' DUSP26'
-collision_symbol: DUSP24

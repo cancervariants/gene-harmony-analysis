@@ -1,0 +1,15 @@
+collision_symbol: HU-1
+HOXB5:
+  ENSG_ID: [ENSG00000120075]
+  source: [NCBI Info]
+  Chromosome: [17q21.32]
+  NCBI Gene ID: [3215.0]
+  OMIM_ID: ['142960']
+  UniProt_ID: [P09067]
+RPS6KA1:
+  ENSG_ID: [ENSG00000117676]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [6195.0]
+  OMIM_ID: ['601684']
+  UniProt_ID: [Q15418]

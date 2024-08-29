@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100401
-  gene_symbol: RANGAP1
-- ensg_id: ENSG00000119899
-  gene_symbol: ' SLC17A5'
-collision_symbol: SD

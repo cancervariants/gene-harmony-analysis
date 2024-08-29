@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156515
-  gene_symbol: HK1
-- ensg_id: ENSG00000113889
-  gene_symbol: ' KNG1'
-- ensg_id: ENSG00000075673
-  gene_symbol: ' ATP12A'
-collision_symbol: HK

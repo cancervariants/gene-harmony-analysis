@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000183134
-  gene_symbol: PTGDR2
-- ensg_id: ENSG00000114126
-  gene_symbol: ' TFDP2'
-- ensg_id: ENSG00000134982
-  gene_symbol: ' APC'
-collision_symbol: DP2

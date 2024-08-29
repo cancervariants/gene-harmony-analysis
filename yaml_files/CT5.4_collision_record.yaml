@@ -1,0 +1,15 @@
+collision_symbol: CT5.4
+SSX4:
+  ENSG_ID: [ENSG00000268009]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [6759.0]
+  OMIM_ID: ['300326']
+  UniProt_ID: [O60224]
+SSX4B:
+  ENSG_ID: [ENSG00000269791]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [548313.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [O60224]

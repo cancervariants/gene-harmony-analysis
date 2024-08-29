@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197557
-  gene_symbol: IFT70A
-- ensg_id: ENSG00000196659
-  gene_symbol: ' IFT70B'
-collision_symbol: TTC30B

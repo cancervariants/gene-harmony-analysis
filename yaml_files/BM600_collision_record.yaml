@@ -1,0 +1,15 @@
+collision_symbol: BM600
+LAMA3:
+  ENSG_ID: [ENSG00000053747]
+  source: [NCBI Info]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [3909.0]
+  OMIM_ID: ['600805']
+  UniProt_ID: [Q16787]
+LAMC2:
+  ENSG_ID: [ENSG00000058085]
+  source: [NCBI Info]
+  Chromosome: [1q25.3]
+  NCBI Gene ID: [3918.0]
+  OMIM_ID: ['150292']
+  UniProt_ID: [Q13753]

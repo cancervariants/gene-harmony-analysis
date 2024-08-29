@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130600
-  gene_symbol: H19
-- ensg_id: NAN
-  gene_symbol: ' H19-ICR'
-collision_symbol: WT2

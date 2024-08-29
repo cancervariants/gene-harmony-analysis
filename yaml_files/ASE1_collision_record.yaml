@@ -1,0 +1,15 @@
+collision_symbol: ASE1
+POLR1G:
+  ENSG_ID: [ENSG00000117877]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [10849.0]
+  OMIM_ID: ['107325']
+  UniProt_ID: [O15446]
+PRC1:
+  ENSG_ID: [ENSG00000198901]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [9055.0]
+  OMIM_ID: ['603484']
+  UniProt_ID: [O43663]

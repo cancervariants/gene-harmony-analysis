@@ -1,0 +1,22 @@
+collision_symbol: EIF2
+EIF2S1:
+  ENSG_ID: [ENSG00000134001]
+  source: [NCBI Info]
+  Chromosome: [14q23.3]
+  NCBI Gene ID: [1965.0]
+  OMIM_ID: ['603907']
+  UniProt_ID: [P05198]
+EIF2S2:
+  ENSG_ID: [ENSG00000125977]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [8894.0]
+  OMIM_ID: ['603908']
+  UniProt_ID: [P20042]
+EIF2S3:
+  ENSG_ID: [ENSG00000130741]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [1968.0]
+  OMIM_ID: ['300161']
+  UniProt_ID: [P41091]

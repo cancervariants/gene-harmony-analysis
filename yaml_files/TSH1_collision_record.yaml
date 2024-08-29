@@ -1,0 +1,15 @@
+collision_symbol: TSH1
+THNSL1:
+  ENSG_ID: [ENSG00000185875]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [79896.0]
+  OMIM_ID: ['611260']
+  UniProt_ID: [Q8IYQ7]
+TSHZ1:
+  ENSG_ID: [ENSG00000179981]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [18q22.3]
+  NCBI Gene ID: [10194.0]
+  OMIM_ID: ['614427']
+  UniProt_ID: [Q6ZSZ6]

@@ -1,0 +1,15 @@
+collision_symbol: FAN
+CNTRL:
+  ENSG_ID: [ENSG00000119397]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [11064.0]
+  OMIM_ID: ['605496']
+  UniProt_ID: [Q7Z7A1]
+NSMAF:
+  ENSG_ID: [ENSG00000035681]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [8439.0]
+  OMIM_ID: ['603043']
+  UniProt_ID: [Q92636]

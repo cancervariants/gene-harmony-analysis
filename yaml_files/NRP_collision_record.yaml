@@ -1,0 +1,22 @@
+collision_symbol: NRP
+NAP1L1:
+  ENSG_ID: [ENSG00000187109]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q21.1]
+  NCBI Gene ID: [4673.0]
+  OMIM_ID: ['164060']
+  UniProt_ID: [P55209]
+NRP1:
+  ENSG_ID: [ENSG00000099250]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10p11.22]
+  NCBI Gene ID: [8829.0]
+  OMIM_ID: ['602069']
+  UniProt_ID: [O14786]
+OPTN:
+  ENSG_ID: [ENSG00000123240]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p13]
+  NCBI Gene ID: [10133.0]
+  OMIM_ID: ['602432']
+  UniProt_ID: [Q96CV9]

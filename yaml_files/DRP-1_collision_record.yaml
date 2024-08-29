@@ -1,0 +1,15 @@
+collision_symbol: DRP-1
+CRMP1:
+  ENSG_ID: [ENSG00000072832]
+  source: [HGNC, NCBI Info]
+  Chromosome: [4p16.2]
+  NCBI Gene ID: [1400.0]
+  OMIM_ID: ['602462']
+  UniProt_ID: [Q14194]
+DAPK2:
+  ENSG_ID: [ENSG00000035664]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [23604.0]
+  OMIM_ID: ['616567']
+  UniProt_ID: [Q9UIK4]

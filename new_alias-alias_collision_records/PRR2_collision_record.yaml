@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000146278
-  gene_symbol: PNRC1
-- ensg_id: ENSG00000130202
-  gene_symbol: ' NECTIN2'
-collision_symbol: PRR2

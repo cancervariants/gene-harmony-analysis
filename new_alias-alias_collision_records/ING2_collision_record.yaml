@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000293133
-  gene_symbol: INGX
-- ensg_id: ENSG00000071243
-  gene_symbol: ' ING3'
-collision_symbol: ING2

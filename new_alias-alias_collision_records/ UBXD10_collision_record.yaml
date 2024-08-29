@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000088833
-  gene_symbol: NSFL1C
-- ensg_id: ENSG00000162191
-  gene_symbol: ' UBXN1'
-collision_symbol: ' UBXD10'

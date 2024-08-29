@@ -1,0 +1,15 @@
+collision_symbol: MTTK
+TK2:
+  ENSG_ID: [ENSG00000166548]
+  source: [NCBI Info]
+  Chromosome: [16q21]
+  NCBI Gene ID: [7084.0]
+  OMIM_ID: ['188250']
+  UniProt_ID: [O00142]
+TRNK:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

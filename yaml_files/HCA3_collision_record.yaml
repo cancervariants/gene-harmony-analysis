@@ -1,0 +1,15 @@
+collision_symbol: HCA3
+HCAR3:
+  ENSG_ID: [ENSG00000255398]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [8843.0]
+  OMIM_ID: ['606039']
+  UniProt_ID: [P49019]
+MAGEE2:
+  ENSG_ID: [ENSG00000186675]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq13.3]
+  NCBI Gene ID: [139599.0]
+  OMIM_ID: ['300760']
+  UniProt_ID: [Q8TD90]

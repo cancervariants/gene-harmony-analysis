@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000091482
-  gene_symbol: SMPX
-- ensg_id: ENSG00000204414
-  gene_symbol: ' CSHL1'
-collision_symbol: ' CSL'

@@ -1,0 +1,15 @@
+collision_symbol: DIA2
+DIAPH2:
+  ENSG_ID: [ENSG00000147202]
+  source: [NCBI Info]
+  Chromosome: [Xq21.33]
+  NCBI Gene ID: [1730.0]
+  OMIM_ID: ['300108']
+  UniProt_ID: [O60879]
+DIAPH3:
+  ENSG_ID: [ENSG00000139734]
+  source: [NCBI Info]
+  Chromosome: [13q21.2]
+  NCBI Gene ID: [81624.0]
+  OMIM_ID: ['614567']
+  UniProt_ID: [Q9NSV4]

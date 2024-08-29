@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000159131
-  gene_symbol: GART
-- ensg_id: ENSG00000106105
-  gene_symbol: ' GARS1'
-collision_symbol: GARS

@@ -1,0 +1,15 @@
+collision_symbol: LPSAT
+LPCAT3:
+  ENSG_ID: [ENSG00000111684]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [10162.0]
+  OMIM_ID: ['611950']
+  UniProt_ID: [Q6P1A2]
+MBOAT1:
+  ENSG_ID: [ENSG00000172197]
+  source: [NCBI Info]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [154141.0]
+  OMIM_ID: ['611732']
+  UniProt_ID: [Q6ZNC8]

@@ -1,0 +1,22 @@
+collision_symbol: OTF-3
+POU5F1:
+  ENSG_ID: [ENSG00000204531]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [5460.0]
+  OMIM_ID: ['164177']
+  UniProt_ID: [Q01860]
+POU5F1P3:
+  ENSG_ID: [ENSG00000235602]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [642559.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+POU5F1P4:
+  ENSG_ID: [ENSG00000237872]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [645682.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

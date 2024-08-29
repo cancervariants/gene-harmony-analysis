@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106086
-  gene_symbol: PLEKHA8
-- ensg_id: ENSG00000293316
-  gene_symbol: ' PLEKHA8P1'
-collision_symbol: FAPP2

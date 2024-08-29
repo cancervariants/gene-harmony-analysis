@@ -1,0 +1,15 @@
+collision_symbol: HE2
+SPAG11A:
+  ENSG_ID: [ENSG00000178287]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [653423.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6PDA7]
+SPAG11B:
+  ENSG_ID: [ENSG00000164871]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [10407.0]
+  OMIM_ID: ['606560']
+  UniProt_ID: [Q08648]

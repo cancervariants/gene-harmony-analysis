@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000112902
-  gene_symbol: SEMA5A
-- ensg_id: ENSG00000168758
-  gene_symbol: ' SEMA4C'
-collision_symbol: SEMAF

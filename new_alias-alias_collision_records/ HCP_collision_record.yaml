@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106927
-  gene_symbol: AMBP
-- ensg_id: ENSG00000080819
-  gene_symbol: ' CPOX'
-collision_symbol: ' HCP'

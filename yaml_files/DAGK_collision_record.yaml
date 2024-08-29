@@ -1,0 +1,15 @@
+collision_symbol: DAGK
+DGKA:
+  ENSG_ID: [ENSG00000065357]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [1606.0]
+  OMIM_ID: ['125855']
+  UniProt_ID: [P23743]
+DGKQ:
+  ENSG_ID: [ENSG00000145214]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [1609.0]
+  OMIM_ID: ['601207']
+  UniProt_ID: [P52824]

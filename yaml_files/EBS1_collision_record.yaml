@@ -1,0 +1,22 @@
+collision_symbol: EBS1
+KRT14:
+  ENSG_ID: [ENSG00000186847]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3861.0]
+  OMIM_ID: ['148066']
+  UniProt_ID: [P02533]
+KRT5:
+  ENSG_ID: [ENSG00000186081]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3852.0]
+  OMIM_ID: ['148040']
+  UniProt_ID: [P13647]
+PLEC:
+  ENSG_ID: [ENSG00000178209]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [5339.0]
+  OMIM_ID: ['601282']
+  UniProt_ID: [Q15149]

@@ -1,0 +1,22 @@
+collision_symbol: NET
+ELK3:
+  ENSG_ID: [ENSG00000111145]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [2004.0]
+  OMIM_ID: ['600247']
+  UniProt_ID: [P41970]
+EPHB1:
+  ENSG_ID: [ENSG00000154928]
+  source: [NCBI Info]
+  Chromosome: [3q22.2]
+  NCBI Gene ID: [2047.0]
+  OMIM_ID: ['600600']
+  UniProt_ID: [P54762]
+SLC6A2:
+  ENSG_ID: [ENSG00000103546]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [6530.0]
+  OMIM_ID: ['163970']
+  UniProt_ID: [P23975]

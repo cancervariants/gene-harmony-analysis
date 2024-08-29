@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000242441
-  gene_symbol: GTF2A1L
-- ensg_id: ENSG00000079557
-  gene_symbol: ' AFM'
-- ensg_id: ENSG00000068781
-  gene_symbol: ' STON1-GTF2A1L'
-collision_symbol: ALF

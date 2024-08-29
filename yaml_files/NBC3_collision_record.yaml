@@ -1,0 +1,15 @@
+collision_symbol: NBC3
+SLC4A7:
+  ENSG_ID: [ENSG00000033867]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p24.1]
+  NCBI Gene ID: [9497.0]
+  OMIM_ID: ['603353']
+  UniProt_ID: [Q9Y6M7]
+SLC4A8:
+  ENSG_ID: [ENSG00000050438]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [9498.0]
+  OMIM_ID: ['605024']
+  UniProt_ID: [Q2Y0W8]

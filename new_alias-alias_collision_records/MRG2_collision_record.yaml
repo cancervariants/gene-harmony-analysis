@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: MEIS3P1
-- ensg_id: ENSG00000105419
-  gene_symbol: ' MEIS3'
-collision_symbol: MRG2

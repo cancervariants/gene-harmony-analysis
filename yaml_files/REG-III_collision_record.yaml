@@ -1,0 +1,15 @@
+collision_symbol: REG-III
+REG3A:
+  ENSG_ID: [ENSG00000172016]
+  source: [NCBI Info]
+  Chromosome: [2p12]
+  NCBI Gene ID: [5068.0]
+  OMIM_ID: ['167805']
+  UniProt_ID: [Q06141]
+REG3G:
+  ENSG_ID: [ENSG00000143954]
+  source: [NCBI Info]
+  Chromosome: [2p12]
+  NCBI Gene ID: [130120.0]
+  OMIM_ID: ['609933']
+  UniProt_ID: [Q6UW15]

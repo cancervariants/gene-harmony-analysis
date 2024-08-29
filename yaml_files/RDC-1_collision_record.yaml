@@ -1,0 +1,15 @@
+collision_symbol: RDC-1
+ACKR3:
+  ENSG_ID: [ENSG00000144476]
+  source: [NCBI Info]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [57007.0]
+  OMIM_ID: ['610376']
+  UniProt_ID: [P25106]
+POU4F1:
+  ENSG_ID: [ENSG00000152192]
+  source: [NCBI Info]
+  Chromosome: [13q31.1]
+  NCBI Gene ID: [5457.0]
+  OMIM_ID: ['601632']
+  UniProt_ID: [Q01851]

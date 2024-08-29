@@ -1,0 +1,22 @@
+collision_symbol: MRP1
+ABCC1:
+  ENSG_ID: [ENSG00000103222]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.11]
+  NCBI Gene ID: [4363.0]
+  OMIM_ID: ['158343']
+  UniProt_ID: [P33527]
+MDM4:
+  ENSG_ID: [ENSG00000198625]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [4194.0]
+  OMIM_ID: ['602704']
+  UniProt_ID: [O15151]
+MSH3:
+  ENSG_ID: [ENSG00000113318]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [4437.0]
+  OMIM_ID: ['600887']
+  UniProt_ID: [P20585]

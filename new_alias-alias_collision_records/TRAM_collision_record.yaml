@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000251201
-  gene_symbol: TMED7-TICAM2
-- ensg_id: ENSG00000243414
-  gene_symbol: ' TICAM2'
-- ensg_id: ENSG00000067167
-  gene_symbol: ' TRAM1'
-collision_symbol: TRAM

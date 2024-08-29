@@ -1,0 +1,15 @@
+collision_symbol: TFIIIB90
+BDP1:
+  ENSG_ID: [ENSG00000145734]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [55814.0]
+  OMIM_ID: ['607012']
+  UniProt_ID: [A6H8Y1]
+BRF1:
+  ENSG_ID: [ENSG00000185024]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [2972.0]
+  OMIM_ID: ['604902']
+  UniProt_ID: [Q92994]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000161395
-  gene_symbol: PGAP3
-- ensg_id: ENSG00000165995
-  gene_symbol: ' CACNB2'
-collision_symbol: CAB2

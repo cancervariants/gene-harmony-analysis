@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160953
-  gene_symbol: PWWP3A
-- ensg_id: ENSG00000137265
-  gene_symbol: ' IRF4'
-collision_symbol: MUM1

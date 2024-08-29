@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196735
-  gene_symbol: HLA-DQA1
-- ensg_id: ENSG00000179344
-  gene_symbol: ' HLA-DQB1'
-collision_symbol: CELIAC1

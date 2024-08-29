@@ -1,0 +1,15 @@
+collision_symbol: NAP1L
+NAP1L1:
+  ENSG_ID: [ENSG00000187109]
+  source: [NCBI Info]
+  Chromosome: [12q21.1]
+  NCBI Gene ID: [4673.0]
+  OMIM_ID: ['164060']
+  UniProt_ID: [P55209]
+NAPSB:
+  ENSG_ID: [ENSG00000291230]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: RPS26
+RPS26P32:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [389472.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RPS26P47:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

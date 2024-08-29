@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000196262
-  gene_symbol: PPIA
-- ensg_id: ENSG00000171960
-  gene_symbol: ' PPIH'
-collision_symbol: CYPH

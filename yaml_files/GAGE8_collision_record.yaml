@@ -1,0 +1,15 @@
+collision_symbol: GAGE8
+GAGE2D:
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp11.23 not on reference assembly]
+  NCBI Gene ID: [729408.0]
+  OMIM_ID: ['300735']
+  UniProt_ID: [Q9UEU5]
+GAGE2E:
+  ENSG_ID: [ENSG00000275113, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp11.23, .nan]
+  NCBI Gene ID: [26749.0, .nan]
+  OMIM_ID: ['300736', .nan]
+  UniProt_ID: [Q4V326, .nan]

@@ -1,0 +1,15 @@
+collision_symbol: CLIM1
+LDB2:
+  ENSG_ID: [ENSG00000169744]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4p15.32]
+  NCBI Gene ID: [9079.0]
+  OMIM_ID: ['603450']
+  UniProt_ID: [O43679]
+PDLIM1:
+  ENSG_ID: [ENSG00000107438]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [9124.0]
+  OMIM_ID: ['605900']
+  UniProt_ID: [O00151]

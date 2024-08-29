@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170927
-  gene_symbol: PKHD1
-- ensg_id: ENSG00000118762
-  gene_symbol: ' PKD2'
-collision_symbol: PKD4

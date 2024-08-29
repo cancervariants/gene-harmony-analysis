@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203995
-  gene_symbol: ZYG11A
-- ensg_id: ENSG00000162378
-  gene_symbol: ' ZYG11B'
-collision_symbol: ZYG11

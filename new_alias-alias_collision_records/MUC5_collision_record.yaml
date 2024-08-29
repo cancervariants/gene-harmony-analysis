@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000215182
-  gene_symbol: MUC5AC
-- ensg_id: ENSG00000117983
-  gene_symbol: ' MUC5B'
-collision_symbol: MUC5

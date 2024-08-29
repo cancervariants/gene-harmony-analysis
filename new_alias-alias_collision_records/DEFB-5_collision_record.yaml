@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186562
-  gene_symbol: DEFB105A
-- ensg_id: ENSG00000186599
-  gene_symbol: ' DEFB105B'
-collision_symbol: DEFB-5

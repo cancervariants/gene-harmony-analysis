@@ -1,0 +1,43 @@
+collision_symbol: MDS
+ASXL1:
+  ENSG_ID: [ENSG00000171456]
+  source: [NCBI Info]
+  Chromosome: [20q11.21]
+  NCBI Gene ID: [171023.0]
+  OMIM_ID: ['612990']
+  UniProt_ID: [Q8IXJ9]
+GNB1:
+  ENSG_ID: [ENSG00000078369]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [2782.0]
+  OMIM_ID: ['139380']
+  UniProt_ID: [P62873]
+PAFAH1B1:
+  ENSG_ID: [ENSG00000007168]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [5048.0]
+  OMIM_ID: ['601545']
+  UniProt_ID: [P43034]
+SF3B1:
+  ENSG_ID: [ENSG00000115524]
+  source: [NCBI Info]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [23451.0]
+  OMIM_ID: ['605590']
+  UniProt_ID: [O75533]
+TET2:
+  ENSG_ID: [ENSG00000168769]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [54790.0]
+  OMIM_ID: ['612839']
+  UniProt_ID: [Q6N021]
+YWHAE:
+  ENSG_ID: [ENSG00000108953]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [7531.0]
+  OMIM_ID: ['605066']
+  UniProt_ID: [P62258]

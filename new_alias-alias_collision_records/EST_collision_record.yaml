@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000107968
-  gene_symbol: MAP3K8
-- ensg_id: ENSG00000109193
-  gene_symbol: ' SULT1E1'
-collision_symbol: EST

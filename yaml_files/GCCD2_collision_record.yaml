@@ -1,0 +1,15 @@
+collision_symbol: GCCD2
+GCCD3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MRAP:
+  ENSG_ID: [ENSG00000170262]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [56246.0]
+  OMIM_ID: ['609196']
+  UniProt_ID: [Q8TCY5]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000035403
-  gene_symbol: VCL
-- ensg_id: ENSG00000245532
-  gene_symbol: ' NEAT1'
-collision_symbol: VINC

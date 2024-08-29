@@ -1,0 +1,15 @@
+collision_symbol: BSP1
+BSPH1:
+  ENSG_ID: [ENSG00000188334]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [100131137.0]
+  OMIM_ID: ['612213']
+  UniProt_ID: [Q075Z2]
+SMAD1:
+  ENSG_ID: [ENSG00000170365]
+  source: [NCBI Info]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [4086.0]
+  OMIM_ID: ['601595']
+  UniProt_ID: [Q15797]

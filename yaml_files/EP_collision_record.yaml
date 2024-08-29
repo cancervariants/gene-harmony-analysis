@@ -1,0 +1,15 @@
+collision_symbol: EP
+DBI:
+  ENSG_ID: [ENSG00000155368]
+  source: [NCBI Info]
+  Chromosome: [2q14.2]
+  NCBI Gene ID: [1622.0]
+  OMIM_ID: ['125950']
+  UniProt_ID: [P07108]
+EPO:
+  ENSG_ID: [ENSG00000130427]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [2056.0]
+  OMIM_ID: ['133170']
+  UniProt_ID: [P01588]

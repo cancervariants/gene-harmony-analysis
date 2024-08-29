@@ -1,0 +1,15 @@
+collision_symbol: RPL17L
+MRPL17:
+  ENSG_ID: [ENSG00000158042]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [63875.0]
+  OMIM_ID: ['611830']
+  UniProt_ID: [Q9NRX2]
+RPL17P7:
+  ENSG_ID: [ENSG00000244716]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [100132742.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

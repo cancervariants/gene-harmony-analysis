@@ -1,0 +1,15 @@
+collision_symbol: RNU1-7
+RNU1-27P:
+  ENSG_ID: [ENSG00000206596]
+  source: [NCBI Info]
+  Chromosome: [14q13.1]
+  NCBI Gene ID: [26865.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU1-7P:
+  ENSG_ID: [ENSG00000200975]
+  source: [NCBI Info]
+  Chromosome: [1p36.23]
+  NCBI Gene ID: [106481952.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

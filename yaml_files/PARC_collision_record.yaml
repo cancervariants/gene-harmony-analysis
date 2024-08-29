@@ -1,0 +1,15 @@
+collision_symbol: PARC
+CCL18:
+  ENSG_ID: [ENSG00000275385]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6362.0]
+  OMIM_ID: ['603757']
+  UniProt_ID: [P55774]
+CUL9:
+  ENSG_ID: [ENSG00000112659]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [23113.0]
+  OMIM_ID: ['607489']
+  UniProt_ID: [Q8IWT3]

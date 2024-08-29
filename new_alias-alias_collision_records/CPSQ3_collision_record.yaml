@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000148700
-  gene_symbol: ADD3
-- ensg_id: ENSG00000221838
-  gene_symbol: ' AP4M1'
-collision_symbol: CPSQ3

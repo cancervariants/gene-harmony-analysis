@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104064
-  gene_symbol: GABPB1
-- ensg_id: NAN
-  gene_symbol: ' GABPAP'
-collision_symbol: E4TF1

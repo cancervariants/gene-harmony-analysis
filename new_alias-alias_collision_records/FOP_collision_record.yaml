@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115170
-  gene_symbol: ACVR1
-- ensg_id: ENSG00000160679
-  gene_symbol: ' CHTOP'
-- ensg_id: ENSG00000213066
-  gene_symbol: ' CEP43'
-collision_symbol: FOP

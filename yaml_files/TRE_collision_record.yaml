@@ -1,0 +1,15 @@
+collision_symbol: TRE
+TRE-TTC3-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [7193.0]
+  OMIM_ID: ['180640']
+  UniProt_ID: [.nan]
+TREH:
+  ENSG_ID: [ENSG00000118094]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [11181.0]
+  OMIM_ID: ['275360']
+  UniProt_ID: [O43280]

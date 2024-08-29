@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101981
-  gene_symbol: F9
-- ensg_id: ENSG00000147853
-  gene_symbol: ' AK3'
-collision_symbol: FIX

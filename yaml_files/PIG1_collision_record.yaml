@@ -1,0 +1,15 @@
+collision_symbol: PIG1
+LGALS7:
+  ENSG_ID: [ENSG00000205076]
+  source: [HGNC, ENSG]
+  Chromosome: [19q13.13]
+  NCBI Gene ID: [3963.0]
+  OMIM_ID: ['600615']
+  UniProt_ID: [P47929]
+NUFIP2:
+  ENSG_ID: [ENSG00000108256]
+  source: [HGNC, ENSG]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [57532.0]
+  OMIM_ID: ['609356']
+  UniProt_ID: [Q7Z417]

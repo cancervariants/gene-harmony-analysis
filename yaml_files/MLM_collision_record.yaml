@@ -1,0 +1,15 @@
+collision_symbol: MLM
+CDKN2A:
+  ENSG_ID: [ENSG00000147889]
+  source: [NCBI Info]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [1029.0]
+  OMIM_ID: ['600160']
+  UniProt_ID: ['P42771, Q8N726']
+CMM:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p36]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

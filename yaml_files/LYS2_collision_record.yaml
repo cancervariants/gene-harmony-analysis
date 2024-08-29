@@ -1,0 +1,15 @@
+collision_symbol: LYS2
+AASDH:
+  ENSG_ID: [ENSG00000157426]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [132949.0]
+  OMIM_ID: ['614365']
+  UniProt_ID: [Q4L235]
+AASDHPPT:
+  ENSG_ID: [ENSG00000149313]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [60496.0]
+  OMIM_ID: ['607756']
+  UniProt_ID: [Q9NRN7]

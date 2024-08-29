@@ -1,0 +1,29 @@
+collision_symbol: H2AC11
+H2AC13:
+  ENSG_ID: [ENSG00000196747]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [8329.0]
+  OMIM_ID: ['602787']
+  UniProt_ID: [P0C0S8]
+H2AC15:
+  ENSG_ID: [ENSG00000275221]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [8330.0]
+  OMIM_ID: ['602788']
+  UniProt_ID: [P0C0S8]
+H2AC16:
+  ENSG_ID: [ENSG00000276903]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [8332.0]
+  OMIM_ID: ['602793']
+  UniProt_ID: [P0C0S8]
+H2AC17:
+  ENSG_ID: [ENSG00000278677]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [8336.0]
+  OMIM_ID: ['602796']
+  UniProt_ID: [P0C0S8]

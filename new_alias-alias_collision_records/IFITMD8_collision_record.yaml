@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000283526
-  gene_symbol: PRRT1B
-- ensg_id: ENSG00000281991
-  gene_symbol: ' TMEM265'
-collision_symbol: IFITMD8

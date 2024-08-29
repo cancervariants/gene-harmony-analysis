@@ -1,0 +1,15 @@
+collision_symbol: PFHB1B
+HBN1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRPM4:
+  ENSG_ID: [ENSG00000130529]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [54795.0]
+  OMIM_ID: ['606936']
+  UniProt_ID: [Q8TD43]

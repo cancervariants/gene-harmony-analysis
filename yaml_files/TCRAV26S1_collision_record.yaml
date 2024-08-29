@@ -1,0 +1,15 @@
+collision_symbol: TCRAV26S1
+TRAV26-1:
+  ENSG_ID: [ENSG00000211807]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28657.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A087WT03]
+TRAV34:
+  ENSG_ID: [ENSG00000211813]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28648.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J273]

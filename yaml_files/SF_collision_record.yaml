@@ -1,0 +1,15 @@
+collision_symbol: SF
+HGF:
+  ENSG_ID: [ENSG00000019991]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [3082.0]
+  OMIM_ID: ['142409']
+  UniProt_ID: [P14210]
+KITLG:
+  ENSG_ID: [ENSG00000049130]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q21.32]
+  NCBI Gene ID: [4254.0]
+  OMIM_ID: ['184745']
+  UniProt_ID: [P21583]

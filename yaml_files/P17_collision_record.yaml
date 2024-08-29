@@ -1,0 +1,36 @@
+collision_symbol: p17
+FAM72A:
+  ENSG_ID: [ENSG00000196550]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [729533.0]
+  OMIM_ID: ['614710']
+  UniProt_ID: [Q5TYM5]
+FAM72B:
+  ENSG_ID: [ENSG00000188610]
+  source: [NCBI Info]
+  Chromosome: [1p11.2]
+  NCBI Gene ID: [653820.0]
+  OMIM_ID: ['614711']
+  UniProt_ID: [Q86X60]
+H3P11:
+  ENSG_ID: [ENSG00000230111]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3p23]
+  NCBI Gene ID: [115482708.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+POLE3:
+  ENSG_ID: [ENSG00000148229]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q32]
+  NCBI Gene ID: [54107.0]
+  OMIM_ID: ['607267']
+  UniProt_ID: [Q9NRF9]
+RPL29P31:
+  ENSG_ID: [ENSG00000237888, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q21.31, .nan]
+  NCBI Gene ID: [284064.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: PFIC4
+HSD3B7:
+  ENSG_ID: [ENSG00000099377]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [80270.0]
+  OMIM_ID: ['607764']
+  UniProt_ID: [Q9H2F3]
+TJP2:
+  ENSG_ID: [ENSG00000119139]
+  source: [NCBI Info]
+  Chromosome: [9q21.11]
+  NCBI Gene ID: [9414.0]
+  OMIM_ID: ['607709']
+  UniProt_ID: [Q9UDY2]

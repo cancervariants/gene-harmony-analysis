@@ -1,0 +1,15 @@
+collision_symbol: MRX31
+DUPXP11.22:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+HSD17B10:
+  ENSG_ID: [ENSG00000072506]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [3028.0]
+  OMIM_ID: ['300256']
+  UniProt_ID: [Q99714]

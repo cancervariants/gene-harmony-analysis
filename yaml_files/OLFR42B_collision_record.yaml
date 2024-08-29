@@ -1,0 +1,15 @@
+collision_symbol: OLFR42B
+OR2H2:
+  ENSG_ID: [ENSG00000204657]
+  source: [NCBI Info]
+  Chromosome: [6p22.1]
+  NCBI Gene ID: [7932.0]
+  OMIM_ID: ['600578']
+  UniProt_ID: [O95918]
+OR2H5P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

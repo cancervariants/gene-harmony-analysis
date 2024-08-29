@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000122863
-  gene_symbol: CHST3
-- ensg_id: ENSG00000175040
-  gene_symbol: ' CHST2'
-- ensg_id: ENSG00000175264
-  gene_symbol: ' CHST1'
-collision_symbol: C6ST

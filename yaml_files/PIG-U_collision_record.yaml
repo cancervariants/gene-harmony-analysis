@@ -1,0 +1,15 @@
+collision_symbol: PIG-U
+PIGU:
+  ENSG_ID: [ENSG00000101464]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [128869.0]
+  OMIM_ID: ['608528']
+  UniProt_ID: [Q9H490]
+TP53INP2:
+  ENSG_ID: [ENSG00000078804]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [58476.0]
+  OMIM_ID: ['617549']
+  UniProt_ID: [Q8IXH6]

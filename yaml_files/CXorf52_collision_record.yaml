@@ -1,0 +1,15 @@
+collision_symbol: CXorf52
+FAM223A:
+  ENSG_ID: [ENSG00000279245]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [100132967.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8IWN6]
+FAM223B:
+  ENSG_ID: [ENSG00000272681]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [286967.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A6NKX1]

@@ -1,0 +1,15 @@
+collision_symbol: PE-1
+CELA2A:
+  ENSG_ID: [ENSG00000142615]
+  source: [NCBI Info]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [63036.0]
+  OMIM_ID: ['609443']
+  UniProt_ID: [P08217]
+ETV3:
+  ENSG_ID: [ENSG00000117036]
+  source: [NCBI Info]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [2117.0]
+  OMIM_ID: ['164873']
+  UniProt_ID: [P41162]

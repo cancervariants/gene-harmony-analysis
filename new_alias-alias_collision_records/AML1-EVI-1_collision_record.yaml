@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000085276
-  gene_symbol: MECOM
-- ensg_id: ENSG00000159216
-  gene_symbol: ' RUNX1'
-collision_symbol: AML1-EVI-1

@@ -1,0 +1,15 @@
+collision_symbol: FE
+GTF2E1:
+  ENSG_ID: [ENSG00000153767]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q13.33]
+  NCBI Gene ID: [2960.0]
+  OMIM_ID: ['189962']
+  UniProt_ID: [P29083]
+GTF2E2:
+  ENSG_ID: [ENSG00000197265]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p12]
+  NCBI Gene ID: [2961.0]
+  OMIM_ID: ['189964']
+  UniProt_ID: [P29084]

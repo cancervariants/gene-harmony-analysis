@@ -1,0 +1,22 @@
+collision_symbol: PLA2L
+HHLA1:
+  ENSG_ID: [ENSG00000132297]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [10086.0]
+  OMIM_ID: ['604109']
+  UniProt_ID: [C9JL84]
+OC90:
+  ENSG_ID: [ENSG00000253117]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [729330.0]
+  OMIM_ID: ['601658']
+  UniProt_ID: [Q02509]
+PLA2G2A:
+  ENSG_ID: [ENSG00000188257]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [5320.0]
+  OMIM_ID: ['172411']
+  UniProt_ID: [P14555]

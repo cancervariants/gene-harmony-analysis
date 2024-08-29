@@ -1,0 +1,15 @@
+collision_symbol: MTS
+MLRL:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TIMM8A:
+  ENSG_ID: [ENSG00000126953]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [1678.0]
+  OMIM_ID: ['300356']
+  UniProt_ID: [O60220]

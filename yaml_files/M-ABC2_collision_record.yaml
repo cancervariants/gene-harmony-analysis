@@ -1,0 +1,15 @@
+collision_symbol: M-ABC2
+ABCB10:
+  ENSG_ID: [ENSG00000135776]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q42.13]
+  NCBI Gene ID: [23456.0]
+  OMIM_ID: ['605454']
+  UniProt_ID: [Q9NRK6]
+ABCB10P1:
+  ENSG_ID: [.nan, ENSG00000274099]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q11.2]
+  NCBI Gene ID: [.nan, 56476.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

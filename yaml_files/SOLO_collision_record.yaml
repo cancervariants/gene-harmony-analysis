@@ -1,0 +1,15 @@
+collision_symbol: SOLO
+ARHGEF40:
+  ENSG_ID: [ENSG00000165801]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [55701.0]
+  OMIM_ID: ['610018']
+  UniProt_ID: [Q8TER5]
+SESTD1:
+  ENSG_ID: [ENSG00000187231]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q31.2]
+  NCBI Gene ID: [91404.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q86VW0]

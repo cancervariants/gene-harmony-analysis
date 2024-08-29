@@ -1,0 +1,29 @@
+collision_symbol: EAP1
+DAXX:
+  ENSG_ID: [ENSG00000204209]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [1616.0]
+  OMIM_ID: ['603186']
+  UniProt_ID: [Q9UER7]
+EXOSC7:
+  ENSG_ID: [ENSG00000075914]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [23016.0]
+  OMIM_ID: ['606488']
+  UniProt_ID: [Q15024]
+IRF2BPL:
+  ENSG_ID: [ENSG00000119669]
+  source: [NCBI Info]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [64207.0]
+  OMIM_ID: ['611720']
+  UniProt_ID: [Q9H1B7]
+PTTG1:
+  ENSG_ID: [ENSG00000164611]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q33.3]
+  NCBI Gene ID: [9232.0]
+  OMIM_ID: ['604147']
+  UniProt_ID: [O95997]

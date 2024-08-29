@@ -1,0 +1,15 @@
+collision_symbol: MIFR
+MMP23A:
+  ENSG_ID: [ENSG00000215914]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [8511.0]
+  OMIM_ID: ['603320']
+  UniProt_ID: [.nan]
+MMP23B:
+  ENSG_ID: [ENSG00000189409]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [8510.0]
+  OMIM_ID: ['603321']
+  UniProt_ID: [O75900]

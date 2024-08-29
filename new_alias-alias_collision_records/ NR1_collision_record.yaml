@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188566
-  gene_symbol: NDOR1
-- ensg_id: ENSG00000176884
-  gene_symbol: ' GRIN1'
-collision_symbol: ' NR1'

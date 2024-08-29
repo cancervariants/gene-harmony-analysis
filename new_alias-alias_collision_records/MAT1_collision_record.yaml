@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000235531
-  gene_symbol: MSC-AS1
-- ensg_id: ENSG00000020426
-  gene_symbol: ' MNAT1'
-collision_symbol: MAT1

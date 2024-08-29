@@ -1,0 +1,15 @@
+collision_symbol: IP3R
+ITPR1:
+  ENSG_ID: [ENSG00000150995]
+  source: [NCBI Info]
+  Chromosome: [3p26.1]
+  NCBI Gene ID: [3708.0]
+  OMIM_ID: ['147265']
+  UniProt_ID: [Q14643]
+ITPR3:
+  ENSG_ID: [ENSG00000096433]
+  source: [NCBI Info]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [3710.0]
+  OMIM_ID: ['147267']
+  UniProt_ID: [Q14573]

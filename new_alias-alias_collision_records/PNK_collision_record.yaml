@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160209
-  gene_symbol: PDXK
-- ensg_id: ENSG00000039650
-  gene_symbol: ' PNKP'
-collision_symbol: PNK

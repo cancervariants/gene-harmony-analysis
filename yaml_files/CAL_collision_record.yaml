@@ -1,0 +1,15 @@
+collision_symbol: CAL
+FBLIM1:
+  ENSG_ID: [ENSG00000162458]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [54751.0]
+  OMIM_ID: ['607747']
+  UniProt_ID: [Q8WUP2]
+GOPC:
+  ENSG_ID: [ENSG00000047932]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q22.1]
+  NCBI Gene ID: [57120.0]
+  OMIM_ID: ['606845']
+  UniProt_ID: [Q9HD26]

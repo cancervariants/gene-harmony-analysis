@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000106415
-  gene_symbol: GLCCI1
-- ensg_id: ENSG00000120053
-  gene_symbol: ' GOT1'
-collision_symbol: GIG18

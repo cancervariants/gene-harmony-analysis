@@ -1,0 +1,15 @@
+collision_symbol: HPH2
+EGLN1:
+  ENSG_ID: [ENSG00000135766]
+  source: [NCBI Info]
+  Chromosome: [1q42.2]
+  NCBI Gene ID: [54583.0]
+  OMIM_ID: ['606425']
+  UniProt_ID: [Q9GZT9]
+PHC2:
+  ENSG_ID: [ENSG00000134686]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [1912.0]
+  OMIM_ID: ['602979']
+  UniProt_ID: [Q8IXK0]

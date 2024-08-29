@@ -1,0 +1,15 @@
+collision_symbol: CAB2
+CACNB2:
+  ENSG_ID: [ENSG00000165995]
+  source: [NCBI Info]
+  Chromosome: [10p12]
+  NCBI Gene ID: [783.0]
+  OMIM_ID: ['600003']
+  UniProt_ID: [Q08289]
+PGAP3:
+  ENSG_ID: [ENSG00000161395]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [93210.0]
+  OMIM_ID: ['611801']
+  UniProt_ID: [Q96FM1]

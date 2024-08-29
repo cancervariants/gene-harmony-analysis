@@ -1,0 +1,15 @@
+collision_symbol: SNT2
+FRS3:
+  ENSG_ID: [ENSG00000137218]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [10817.0]
+  OMIM_ID: ['607744']
+  UniProt_ID: [O43559]
+SNTB1:
+  ENSG_ID: [ENSG00000172164]
+  source: [NCBI Info]
+  Chromosome: [8q24.12]
+  NCBI Gene ID: [6641.0]
+  OMIM_ID: ['600026']
+  UniProt_ID: [Q13884]

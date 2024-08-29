@@ -1,0 +1,15 @@
+collision_symbol: RAB1
+RAB1A:
+  ENSG_ID: [ENSG00000138069]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p14]
+  NCBI Gene ID: [5861.0]
+  OMIM_ID: ['179508']
+  UniProt_ID: [P62820]
+RNASE4:
+  ENSG_ID: [ENSG00000258818]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [6038.0]
+  OMIM_ID: ['601030']
+  UniProt_ID: [P34096]

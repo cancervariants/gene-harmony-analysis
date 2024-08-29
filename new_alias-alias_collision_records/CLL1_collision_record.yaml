@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000184374
-  gene_symbol: COLEC10
-- ensg_id: ENSG00000172322
-  gene_symbol: ' CLEC12A'
-collision_symbol: CLL1

@@ -1,0 +1,15 @@
+collision_symbol: HNP-1
+DEFA1:
+  ENSG_ID: [ENSG00000206047]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1667.0]
+  OMIM_ID: ['125220']
+  UniProt_ID: [P59665]
+DEFA1B:
+  ENSG_ID: [ENSG00000240247]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [728358.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P59665]

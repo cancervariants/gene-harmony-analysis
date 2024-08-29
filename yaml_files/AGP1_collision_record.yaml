@@ -1,0 +1,15 @@
+collision_symbol: AGP1
+ANGPT1:
+  ENSG_ID: [ENSG00000154188]
+  source: [NCBI Info]
+  Chromosome: [8q23.1]
+  NCBI Gene ID: [284.0]
+  OMIM_ID: ['601667']
+  UniProt_ID: [Q15389]
+ORM1:
+  ENSG_ID: [ENSG00000229314]
+  source: [NCBI Info]
+  Chromosome: [9q32]
+  NCBI Gene ID: [5004.0]
+  OMIM_ID: ['138600']
+  UniProt_ID: [P02763]

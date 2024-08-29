@@ -1,0 +1,15 @@
+collision_symbol: NCC3
+CCL15:
+  ENSG_ID: [ENSG00000275718]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6359.0]
+  OMIM_ID: ['601393']
+  UniProt_ID: [Q16663]
+CCL15-CCL14:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

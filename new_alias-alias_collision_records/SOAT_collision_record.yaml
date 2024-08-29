@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127995
-  gene_symbol: CASD1
-- ensg_id: ENSG00000145283
-  gene_symbol: ' SLC10A6'
-- ensg_id: ENSG00000057252
-  gene_symbol: ' SOAT1'
-collision_symbol: SOAT

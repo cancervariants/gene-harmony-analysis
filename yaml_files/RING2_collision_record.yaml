@@ -1,0 +1,15 @@
+collision_symbol: RING2
+HSD17B8:
+  ENSG_ID: [ENSG00000204228, ENSG00000112474]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32, .nan]
+  NCBI Gene ID: [7923.0, .nan]
+  OMIM_ID: ['601417', .nan]
+  UniProt_ID: [Q92506, .nan]
+RNF2:
+  ENSG_ID: [ENSG00000121481]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q25.3]
+  NCBI Gene ID: [6045.0]
+  OMIM_ID: ['608985']
+  UniProt_ID: [Q99496]

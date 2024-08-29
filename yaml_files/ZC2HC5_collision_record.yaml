@@ -1,0 +1,15 @@
+collision_symbol: ZC2HC5
+KAT5:
+  ENSG_ID: [ENSG00000172977]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10524.0]
+  OMIM_ID: ['601409']
+  UniProt_ID: [Q92993]
+TRIP4:
+  ENSG_ID: [ENSG00000103671]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [9325.0]
+  OMIM_ID: ['604501']
+  UniProt_ID: [Q15650]

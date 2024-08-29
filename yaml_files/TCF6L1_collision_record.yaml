@@ -1,0 +1,15 @@
+collision_symbol: TCF6L1
+TFAM:
+  ENSG_ID: [ENSG00000108064]
+  source: [NCBI Info]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [7019.0]
+  OMIM_ID: ['600438']
+  UniProt_ID: [Q00059]
+TFAMP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

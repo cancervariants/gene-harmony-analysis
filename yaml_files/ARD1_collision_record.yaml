@@ -1,0 +1,22 @@
+collision_symbol: ARD1
+NAA10:
+  ENSG_ID: [ENSG00000102030]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [8260.0]
+  OMIM_ID: ['300013']
+  UniProt_ID: [P41227]
+PPP1R8:
+  ENSG_ID: [ENSG00000117751]
+  source: [NCBI Info]
+  Chromosome: [1p35.3]
+  NCBI Gene ID: [5511.0]
+  OMIM_ID: ['602636']
+  UniProt_ID: [Q12972]
+TRIM23:
+  ENSG_ID: [ENSG00000113595]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q12.3]
+  NCBI Gene ID: [373.0]
+  OMIM_ID: ['601747']
+  UniProt_ID: [P36406]

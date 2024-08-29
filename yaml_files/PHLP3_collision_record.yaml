@@ -1,0 +1,15 @@
+collision_symbol: PHLP3
+PDCL3:
+  ENSG_ID: [ENSG00000115539]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [79031.0]
+  OMIM_ID: ['611678']
+  UniProt_ID: [Q9H2J4]
+TXNDC9:
+  ENSG_ID: [ENSG00000115514]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [10190.0]
+  OMIM_ID: ['612564']
+  UniProt_ID: [O14530]

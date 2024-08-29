@@ -1,0 +1,15 @@
+collision_symbol: ARP8
+ACTR8:
+  ENSG_ID: [ENSG00000113812]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [93973.0]
+  OMIM_ID: ['619716']
+  UniProt_ID: [Q9H981]
+APOBEC3F:
+  ENSG_ID: [ENSG00000128394]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [200316.0]
+  OMIM_ID: ['608993']
+  UniProt_ID: [Q8IUX4]

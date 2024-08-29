@@ -1,0 +1,15 @@
+collision_symbol: GRF2
+RAPGEF1:
+  ENSG_ID: [ENSG00000107263]
+  source: [NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [2889.0]
+  OMIM_ID: ['600303']
+  UniProt_ID: [Q13905]
+RASGRF2:
+  ENSG_ID: [ENSG00000113319]
+  source: [NCBI Info]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [5924.0]
+  OMIM_ID: ['606614']
+  UniProt_ID: [O14827]

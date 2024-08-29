@@ -1,0 +1,15 @@
+collision_symbol: TMSB15B
+TMSB15A:
+  ENSG_ID: [ENSG00000158164]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [11013.0]
+  OMIM_ID: ['300939']
+  UniProt_ID: [P0CG34]
+TMSB15C:
+  ENSG_ID: [ENSG00000269226]
+  source: [NCBI Info]
+  Chromosome: [Xq22.2]
+  NCBI Gene ID: [122394733.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DX04]

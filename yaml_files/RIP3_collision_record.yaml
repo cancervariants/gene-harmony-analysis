@@ -1,0 +1,15 @@
+collision_symbol: RIP3
+MPRIP:
+  ENSG_ID: [ENSG00000133030]
+  source: [NCBI Info]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [23164.0]
+  OMIM_ID: ['612935']
+  UniProt_ID: [Q6WCQ1]
+RIPK3:
+  ENSG_ID: [ENSG00000129465]
+  source: [NCBI Info]
+  Chromosome: [14q12]
+  NCBI Gene ID: [11035.0]
+  OMIM_ID: ['605817']
+  UniProt_ID: [Q9Y572]

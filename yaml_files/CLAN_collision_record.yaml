@@ -1,0 +1,15 @@
+collision_symbol: CLAN
+LINC02577:
+  ENSG_ID: [ENSG00000228742]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q22.3]
+  NCBI Gene ID: [111216280.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NLRC4:
+  ENSG_ID: [ENSG00000091106]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p22.3]
+  NCBI Gene ID: [58484.0]
+  OMIM_ID: ['606831']
+  UniProt_ID: [Q9NPP4]

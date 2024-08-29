@@ -1,0 +1,15 @@
+collision_symbol: ZNF183
+NDUFA1:
+  ENSG_ID: [ENSG00000125356]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [4694.0]
+  OMIM_ID: ['300078']
+  UniProt_ID: [O15239]
+RNF113A:
+  ENSG_ID: [ENSG00000125352]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [7737.0]
+  OMIM_ID: ['300951']
+  UniProt_ID: [O15541]

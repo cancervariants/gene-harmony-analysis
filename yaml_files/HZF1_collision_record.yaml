@@ -1,0 +1,15 @@
+collision_symbol: HZF1
+ZNF16:
+  ENSG_ID: [ENSG00000170631]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [7564.0]
+  OMIM_ID: ['601262']
+  UniProt_ID: [P17020]
+ZNF266:
+  ENSG_ID: [ENSG00000174652]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [10781.0]
+  OMIM_ID: ['604751']
+  UniProt_ID: [Q14584]

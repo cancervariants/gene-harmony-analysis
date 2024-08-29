@@ -1,0 +1,15 @@
+collision_symbol: NSE2
+LRATD2:
+  ENSG_ID: [ENSG00000168672]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.21]
+  NCBI Gene ID: [157638.0]
+  OMIM_ID: ['609483']
+  UniProt_ID: [Q96KN1]
+NSMCE2:
+  ENSG_ID: [ENSG00000156831]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.13]
+  NCBI Gene ID: [286053.0]
+  OMIM_ID: ['617246']
+  UniProt_ID: [Q96MF7]

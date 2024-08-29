@@ -1,0 +1,15 @@
+collision_symbol: TAX1BP2
+CROCC:
+  ENSG_ID: [ENSG00000058453]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [9696.0]
+  OMIM_ID: ['615776']
+  UniProt_ID: [Q5TZA2]
+VAC14:
+  ENSG_ID: [ENSG00000103043]
+  source: [NCBI Info]
+  Chromosome: [16q22.1-q22.2]
+  NCBI Gene ID: [55697.0]
+  OMIM_ID: ['604632']
+  UniProt_ID: [Q08AM6]

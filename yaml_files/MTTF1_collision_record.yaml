@@ -1,0 +1,22 @@
+collision_symbol: MTTF1
+TFAM:
+  ENSG_ID: [ENSG00000108064]
+  source: [NCBI Info]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [7019.0]
+  OMIM_ID: ['600438']
+  UniProt_ID: [Q00059]
+TFAMP1:
+  ENSG_ID: [ENSG00000230444, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p22.3, .nan]
+  NCBI Gene ID: [260341.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TFAMP2:
+  ENSG_ID: [ENSG00000254798, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q22.3, .nan]
+  NCBI Gene ID: [260340.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

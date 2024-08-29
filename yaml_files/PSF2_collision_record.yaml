@@ -1,0 +1,15 @@
+collision_symbol: PSF2
+GINS2:
+  ENSG_ID: [ENSG00000131153]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q24.1]
+  NCBI Gene ID: [51659.0]
+  OMIM_ID: ['610609']
+  UniProt_ID: [Q9Y248]
+TAP2:
+  ENSG_ID: [ENSG00000204267]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [6891.0]
+  OMIM_ID: ['170261']
+  UniProt_ID: [Q03519]

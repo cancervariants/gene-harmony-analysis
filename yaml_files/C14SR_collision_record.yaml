@@ -1,0 +1,15 @@
+collision_symbol: C14SR
+LBR:
+  ENSG_ID: [ENSG00000143815]
+  source: [NCBI Info]
+  Chromosome: [1q42.12]
+  NCBI Gene ID: [3930.0]
+  OMIM_ID: ['600024']
+  UniProt_ID: [Q14739]
+TM7SF2:
+  ENSG_ID: [ENSG00000149809]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [7108.0]
+  OMIM_ID: ['603414']
+  UniProt_ID: [O76062]

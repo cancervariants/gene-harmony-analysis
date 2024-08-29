@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000140451
-  gene_symbol: PIF1
-- ensg_id: ENSG00000161634
-  gene_symbol: ' DCD'
-collision_symbol: PIF

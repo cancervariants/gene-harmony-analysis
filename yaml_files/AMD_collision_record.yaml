@@ -1,0 +1,15 @@
+collision_symbol: AMD
+AMD1:
+  ENSG_ID: [ENSG00000123505]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [262.0]
+  OMIM_ID: ['180980']
+  UniProt_ID: [P17707]
+AMD1P2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

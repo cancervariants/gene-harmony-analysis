@@ -1,0 +1,15 @@
+collision_symbol: ANF
+HESX1:
+  ENSG_ID: [ENSG00000163666]
+  source: [NCBI Info]
+  Chromosome: [3p14.3]
+  NCBI Gene ID: [8820.0]
+  OMIM_ID: ['601802']
+  UniProt_ID: [Q9UBX0]
+NPPA:
+  ENSG_ID: [ENSG00000175206]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [4878.0]
+  OMIM_ID: ['108780']
+  UniProt_ID: [P01160]

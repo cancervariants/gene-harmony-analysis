@@ -1,0 +1,15 @@
+collision_symbol: B9
+B9D1:
+  ENSG_ID: [ENSG00000108641]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [27077.0]
+  OMIM_ID: ['614144']
+  UniProt_ID: [Q9UPM9]
+NDUFA3:
+  ENSG_ID: [ENSG00000170906]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [4696.0]
+  OMIM_ID: ['603832']
+  UniProt_ID: [O95167]

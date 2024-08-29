@@ -1,0 +1,15 @@
+collision_symbol: TANGO
+ARNT:
+  ENSG_ID: [ENSG00000143437]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [405.0]
+  OMIM_ID: ['126110']
+  UniProt_ID: [P27540]
+MIA3:
+  ENSG_ID: [ENSG00000154305]
+  source: [NCBI Info]
+  Chromosome: [1q41]
+  NCBI Gene ID: [375056.0]
+  OMIM_ID: ['613455']
+  UniProt_ID: [Q5JRA6]

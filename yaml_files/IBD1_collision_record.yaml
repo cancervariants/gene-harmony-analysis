@@ -1,0 +1,15 @@
+collision_symbol: IBD1
+GALM:
+  ENSG_ID: [ENSG00000143891]
+  source: [NCBI Info]
+  Chromosome: [2p22.1]
+  NCBI Gene ID: [130589.0]
+  OMIM_ID: ['137030']
+  UniProt_ID: [Q96C23]
+NOD2:
+  ENSG_ID: [ENSG00000167207]
+  source: [NCBI Info]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [64127.0]
+  OMIM_ID: ['605956']
+  UniProt_ID: [Q9HC29]

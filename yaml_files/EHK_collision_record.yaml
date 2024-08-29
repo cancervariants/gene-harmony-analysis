@@ -1,0 +1,15 @@
+collision_symbol: EHK
+KRT1:
+  ENSG_ID: [ENSG00000167768]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3848.0]
+  OMIM_ID: ['139350']
+  UniProt_ID: [P04264]
+KRT10:
+  ENSG_ID: [ENSG00000186395]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3858.0]
+  OMIM_ID: ['148080']
+  UniProt_ID: [P13645]

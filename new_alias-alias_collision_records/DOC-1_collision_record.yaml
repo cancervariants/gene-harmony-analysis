@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111328
-  gene_symbol: CDK2AP1
-- ensg_id: ENSG00000168386
-  gene_symbol: ' FILIP1L'
-collision_symbol: DOC-1

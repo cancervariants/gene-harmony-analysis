@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000053900
-  gene_symbol: ANAPC4
-- ensg_id: ENSG00000181240
-  gene_symbol: ' SLC25A41'
-collision_symbol: APC4

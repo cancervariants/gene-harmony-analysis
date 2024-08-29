@@ -1,0 +1,15 @@
+collision_symbol: ZNF769
+RBAK:
+  ENSG_ID: [ENSG00000146587]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [57786.0]
+  OMIM_ID: ['608191']
+  UniProt_ID: [Q9NYW8]
+RBAK-RBAKDN:
+  ENSG_ID: [ENSG00000272968]
+  source: [NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [100533952.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: PAG
+PAG1:
+  ENSG_ID: [ENSG00000076641]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [55824.0]
+  OMIM_ID: ['605767']
+  UniProt_ID: [Q9NWQ8]
+PRDX1:
+  ENSG_ID: [ENSG00000117450]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [5052.0]
+  OMIM_ID: ['176763']
+  UniProt_ID: [Q06830]

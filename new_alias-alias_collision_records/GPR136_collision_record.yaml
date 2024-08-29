@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000124818
-  gene_symbol: OPN5
-- ensg_id: ENSG00000180785
-  gene_symbol: ' OR51E1'
-collision_symbol: GPR136

@@ -1,0 +1,15 @@
+collision_symbol: PPCD
+COL8A2:
+  ENSG_ID: [ENSG00000171812]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [1296.0]
+  OMIM_ID: ['120252']
+  UniProt_ID: [P25067]
+VSX1:
+  ENSG_ID: [ENSG00000100987]
+  source: [NCBI Info]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [30813.0]
+  OMIM_ID: ['605020']
+  UniProt_ID: [Q9NZR4]

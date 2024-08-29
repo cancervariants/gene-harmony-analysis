@@ -1,0 +1,15 @@
+collision_symbol: MRX2
+AFF2:
+  ENSG_ID: [ENSG00000155966]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [2334.0]
+  OMIM_ID: ['300806']
+  UniProt_ID: [P51816]
+PQBP1:
+  ENSG_ID: [ENSG00000102103]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [10084.0]
+  OMIM_ID: ['300463']
+  UniProt_ID: [O60828]

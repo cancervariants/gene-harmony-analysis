@@ -1,0 +1,15 @@
+collision_symbol: NT3
+NTF3:
+  ENSG_ID: [ENSG00000185652]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [4908.0]
+  OMIM_ID: ['162660']
+  UniProt_ID: [P20783]
+SORT1:
+  ENSG_ID: [ENSG00000134243]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [6272.0]
+  OMIM_ID: ['602458']
+  UniProt_ID: [Q99523]

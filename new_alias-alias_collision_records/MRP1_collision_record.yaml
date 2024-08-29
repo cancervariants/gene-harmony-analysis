@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103222
-  gene_symbol: ABCC1
-- ensg_id: ENSG00000198625
-  gene_symbol: ' MDM4'
-- ensg_id: ENSG00000113318
-  gene_symbol: ' MSH3'
-collision_symbol: MRP1

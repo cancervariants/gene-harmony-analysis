@@ -1,0 +1,15 @@
+collision_symbol: PAGB
+PRDX1:
+  ENSG_ID: [ENSG00000117450]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [5052.0]
+  OMIM_ID: ['176763']
+  UniProt_ID: [Q06830]
+PRDX1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

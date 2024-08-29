@@ -1,0 +1,15 @@
+collision_symbol: NK3
+TAC3:
+  ENSG_ID: [ENSG00000166863]
+  source: [NCBI Info]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [6866.0]
+  OMIM_ID: ['162330']
+  UniProt_ID: [Q9UHF0]
+TACR3:
+  ENSG_ID: [ENSG00000169836]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [6870.0]
+  OMIM_ID: ['162332']
+  UniProt_ID: [P29371]

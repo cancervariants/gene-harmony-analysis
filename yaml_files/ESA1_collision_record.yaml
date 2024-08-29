@@ -1,0 +1,15 @@
+collision_symbol: ESA1
+FLOT2:
+  ENSG_ID: [ENSG00000132589]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [2319.0]
+  OMIM_ID: ['131560']
+  UniProt_ID: [Q14254]
+KAT5:
+  ENSG_ID: [ENSG00000172977]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10524.0]
+  OMIM_ID: ['601409']
+  UniProt_ID: [Q92993]

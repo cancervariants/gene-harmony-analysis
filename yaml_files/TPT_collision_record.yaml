@@ -1,0 +1,22 @@
+collision_symbol: TPT
+LMBR1:
+  ENSG_ID: [ENSG00000105983]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [64327.0]
+  OMIM_ID: ['605522']
+  UniProt_ID: [Q8WVP7]
+PDSS1:
+  ENSG_ID: [ENSG00000148459]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [23590.0]
+  OMIM_ID: ['607429']
+  UniProt_ID: [Q5T2R2]
+SHH:
+  ENSG_ID: [ENSG00000164690]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [6469.0]
+  OMIM_ID: ['600725']
+  UniProt_ID: [Q15465]

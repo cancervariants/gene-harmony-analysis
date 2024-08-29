@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000265203
-  gene_symbol: RBP3
-- ensg_id: ENSG00000102931
-  gene_symbol: ' ARL2BP'
-collision_symbol: RP66

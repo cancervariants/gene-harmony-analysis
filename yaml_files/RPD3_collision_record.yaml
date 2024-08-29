@@ -1,0 +1,29 @@
+collision_symbol: RPD3
+HDAC1:
+  ENSG_ID: [ENSG00000116478]
+  source: [NCBI Info]
+  Chromosome: [1p35.2-p35.1]
+  NCBI Gene ID: [3065.0]
+  OMIM_ID: ['601241']
+  UniProt_ID: [Q13547]
+HDAC2:
+  ENSG_ID: [ENSG00000196591]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [3066.0]
+  OMIM_ID: ['605164']
+  UniProt_ID: [Q92769]
+HDAC3:
+  ENSG_ID: [ENSG00000171720]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [8841.0]
+  OMIM_ID: ['605166']
+  UniProt_ID: [O15379]
+HDAC8:
+  ENSG_ID: [ENSG00000147099]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [55869.0]
+  OMIM_ID: ['300269']
+  UniProt_ID: [Q9BY41]

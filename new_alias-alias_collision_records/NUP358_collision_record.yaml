@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185304
-  gene_symbol: RGPD2
-- ensg_id: ENSG00000153201
-  gene_symbol: ' RANBP2'
-collision_symbol: NUP358

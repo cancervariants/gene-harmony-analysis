@@ -1,0 +1,15 @@
+collision_symbol: CPSQ3
+ADD3:
+  ENSG_ID: [ENSG00000148700]
+  source: [NCBI Info]
+  Chromosome: [10q25.1-q25.2]
+  NCBI Gene ID: [120.0]
+  OMIM_ID: ['601568']
+  UniProt_ID: [Q9UEY8]
+AP4M1:
+  ENSG_ID: [ENSG00000221838]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [9179.0]
+  OMIM_ID: ['602296']
+  UniProt_ID: [O00189]

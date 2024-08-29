@@ -1,0 +1,15 @@
+collision_symbol: DAP
+DNPEP:
+  ENSG_ID: [ENSG00000123992]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [23549.0]
+  OMIM_ID: ['611367']
+  UniProt_ID: [Q9ULA0]
+IAPP:
+  ENSG_ID: [ENSG00000121351]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p12.1]
+  NCBI Gene ID: [3375.0]
+  OMIM_ID: ['147940']
+  UniProt_ID: [P10997]

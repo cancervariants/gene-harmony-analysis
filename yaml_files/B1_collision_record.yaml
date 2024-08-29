@@ -1,0 +1,29 @@
+collision_symbol: B1
+BBS9:
+  ENSG_ID: [ENSG00000122507]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [27241.0]
+  OMIM_ID: ['607968']
+  UniProt_ID: [Q3SYG4]
+IGKV7-3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MS4A1:
+  ENSG_ID: [ENSG00000156738]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [931.0]
+  OMIM_ID: ['112210']
+  UniProt_ID: [P11836]
+SPANXB1:
+  ENSG_ID: [ENSG00000227234]
+  source: [NCBI Info]
+  Chromosome: [Xq27.1]
+  NCBI Gene ID: [728695.0]
+  OMIM_ID: ['300669']
+  UniProt_ID: [Q9NS25]

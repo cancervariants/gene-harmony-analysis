@@ -1,0 +1,15 @@
+collision_symbol: AMC1
+AMCN:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [5q35]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+LGI4:
+  ENSG_ID: [ENSG00000153902]
+  source: [NCBI Info]
+  Chromosome: [19q13.12]
+  NCBI Gene ID: [163175.0]
+  OMIM_ID: ['608303']
+  UniProt_ID: [Q8N135]

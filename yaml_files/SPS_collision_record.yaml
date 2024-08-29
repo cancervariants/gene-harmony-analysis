@@ -1,0 +1,22 @@
+collision_symbol: SPS
+PDSS1:
+  ENSG_ID: [ENSG00000148459]
+  source: [NCBI Info]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [23590.0]
+  OMIM_ID: ['607429']
+  UniProt_ID: [Q5T2R2]
+SEPHS1:
+  ENSG_ID: [ENSG00000086475]
+  source: [NCBI Info]
+  Chromosome: [10p13]
+  NCBI Gene ID: [22929.0]
+  OMIM_ID: ['600902']
+  UniProt_ID: [P49903]
+TBX4:
+  ENSG_ID: [ENSG00000121075]
+  source: [NCBI Info]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [9496.0]
+  OMIM_ID: ['601719']
+  UniProt_ID: [P57082]

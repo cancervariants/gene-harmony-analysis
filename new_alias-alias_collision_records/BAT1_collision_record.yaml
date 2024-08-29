@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198563
-  gene_symbol: DDX39B
-- ensg_id: ENSG00000021488
-  gene_symbol: ' SLC7A9'
-collision_symbol: BAT1

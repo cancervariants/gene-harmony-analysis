@@ -1,0 +1,15 @@
+collision_symbol: L30
+RPL30:
+  ENSG_ID: [ENSG00000156482]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q22.2]
+  NCBI Gene ID: [6156.0]
+  OMIM_ID: ['180467']
+  UniProt_ID: [P62888]
+RSL24D1:
+  ENSG_ID: [ENSG00000137876]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [51187.0]
+  OMIM_ID: ['613262']
+  UniProt_ID: [Q9UHA3]

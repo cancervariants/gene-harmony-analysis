@@ -1,0 +1,15 @@
+collision_symbol: WTS
+HDAC8:
+  ENSG_ID: [ENSG00000147099]
+  source: [NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [55869.0]
+  OMIM_ID: ['300269']
+  UniProt_ID: [Q9BY41]
+LAS1L:
+  ENSG_ID: [ENSG00000001497]
+  source: [NCBI Info]
+  Chromosome: [Xq12]
+  NCBI Gene ID: [81887.0]
+  OMIM_ID: ['300964']
+  UniProt_ID: [Q9Y4W2]

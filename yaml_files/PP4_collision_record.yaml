@@ -1,0 +1,15 @@
+collision_symbol: PP4
+ANXA5:
+  ENSG_ID: [ENSG00000164111]
+  source: [NCBI Info]
+  Chromosome: [4q27]
+  NCBI Gene ID: [308.0]
+  OMIM_ID: ['131230']
+  UniProt_ID: [P08758]
+PPP4C:
+  ENSG_ID: [ENSG00000149923]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [5531.0]
+  OMIM_ID: ['602035']
+  UniProt_ID: [P60510]

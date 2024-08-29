@@ -1,0 +1,15 @@
+collision_symbol: PRKAR2
+PRKAR2A:
+  ENSG_ID: [ENSG00000114302]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [5576.0]
+  OMIM_ID: ['176910']
+  UniProt_ID: [P13861]
+PRKAR2B:
+  ENSG_ID: [ENSG00000005249]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q22.3]
+  NCBI Gene ID: [5577.0]
+  OMIM_ID: ['176912']
+  UniProt_ID: [P31323]

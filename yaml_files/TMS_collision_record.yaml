@@ -1,0 +1,15 @@
+collision_symbol: TMS
+PYCARD:
+  ENSG_ID: [ENSG00000103490]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [29108.0]
+  OMIM_ID: ['606838']
+  UniProt_ID: [Q9ULZ3]
+TYMS:
+  ENSG_ID: [ENSG00000176890]
+  source: [NCBI Info]
+  Chromosome: [18p11.32]
+  NCBI Gene ID: [7298.0]
+  OMIM_ID: ['188350']
+  UniProt_ID: [P04818]

@@ -1,0 +1,15 @@
+collision_symbol: dJ222E13.1
+SERHL:
+  ENSG_ID: [ENSG00000293485]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SERHL2:
+  ENSG_ID: [ENSG00000183569]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [253190.0]
+  OMIM_ID: ['619045']
+  UniProt_ID: [Q9H4I8]

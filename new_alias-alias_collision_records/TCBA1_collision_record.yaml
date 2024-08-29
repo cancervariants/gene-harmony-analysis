@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188580
-  gene_symbol: NKAIN2
-- ensg_id: ENSG00000138629
-  gene_symbol: ' UBL7'
-collision_symbol: TCBA1

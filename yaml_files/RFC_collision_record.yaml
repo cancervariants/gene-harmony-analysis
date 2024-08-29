@@ -1,0 +1,15 @@
+collision_symbol: RFC
+RFC1:
+  ENSG_ID: [ENSG00000035928]
+  source: [NCBI Info]
+  Chromosome: [4p14]
+  NCBI Gene ID: [5981.0]
+  OMIM_ID: ['102579']
+  UniProt_ID: [P35251]
+SLC19A1:
+  ENSG_ID: [ENSG00000173638]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [6573.0]
+  OMIM_ID: ['600424']
+  UniProt_ID: [P41440]

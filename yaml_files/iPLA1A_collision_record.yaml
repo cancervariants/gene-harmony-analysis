@@ -1,0 +1,15 @@
+collision_symbol: iPLA1A
+DDHD2:
+  ENSG_ID: [ENSG00000085788]
+  source: [NCBI Info]
+  Chromosome: [8p11.23]
+  NCBI Gene ID: [23259.0]
+  OMIM_ID: ['615003']
+  UniProt_ID: [O94830]
+SEC23IP:
+  ENSG_ID: [ENSG00000107651]
+  source: [NCBI Info]
+  Chromosome: [10q26.11-q26.12]
+  NCBI Gene ID: [11196.0]
+  OMIM_ID: ['617852']
+  UniProt_ID: [Q9Y6Y8]

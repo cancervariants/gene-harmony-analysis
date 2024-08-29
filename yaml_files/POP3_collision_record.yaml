@@ -1,0 +1,22 @@
+collision_symbol: POP3
+MLST8:
+  ENSG_ID: [ENSG00000167965]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [64223.0]
+  OMIM_ID: ['612190']
+  UniProt_ID: [Q9BVC4]
+POPDC3:
+  ENSG_ID: [ENSG00000132429]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [64208.0]
+  OMIM_ID: ['605824']
+  UniProt_ID: [Q9HBV1]
+PYDC5:
+  ENSG_ID: [ENSG00000289721]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q23.1]
+  NCBI Gene ID: [107181291.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [W6CW81]

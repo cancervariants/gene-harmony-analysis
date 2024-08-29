@@ -1,0 +1,15 @@
+collision_symbol: SDR25C1
+DHRS2:
+  ENSG_ID: [ENSG00000100867]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10202.0]
+  OMIM_ID: ['615194']
+  UniProt_ID: [Q13268]
+DHRS4:
+  ENSG_ID: [ENSG00000157326]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10901.0]
+  OMIM_ID: ['611596']
+  UniProt_ID: [Q9BTZ2]

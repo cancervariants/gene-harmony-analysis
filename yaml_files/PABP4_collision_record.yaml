@@ -1,0 +1,15 @@
+collision_symbol: PABP4
+PABPC1P2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PABPC4:
+  ENSG_ID: [ENSG00000090621]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [8761.0]
+  OMIM_ID: ['603407']
+  UniProt_ID: [Q13310]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204379
-  gene_symbol: XAGE1A
-- ensg_id: ENSG00000204382
-  gene_symbol: ' XAGE1B'
-collision_symbol: XAGE-1

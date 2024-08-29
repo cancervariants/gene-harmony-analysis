@@ -1,0 +1,15 @@
+collision_symbol: tamo
+SPATA2:
+  ENSG_ID: [ENSG00000158480]
+  source: [HGNC, NCBI Info]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [9825.0]
+  OMIM_ID: ['607662']
+  UniProt_ID: [Q9UM82]
+SPATA2L:
+  ENSG_ID: [ENSG00000158792]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [124044.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8IUW3]

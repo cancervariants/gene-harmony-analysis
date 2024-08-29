@@ -1,0 +1,22 @@
+collision_symbol: NAG
+NAGLU:
+  ENSG_ID: [ENSG00000108784]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [4669.0]
+  OMIM_ID: ['609701']
+  UniProt_ID: [P54802]
+NBAS:
+  ENSG_ID: [ENSG00000151779]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p24.3]
+  NCBI Gene ID: [51594.0]
+  OMIM_ID: ['608025']
+  UniProt_ID: [A2RRP1]
+SCN7A:
+  ENSG_ID: [ENSG00000136546]
+  source: [ENSG]
+  Chromosome: [2q24.3]
+  NCBI Gene ID: [6332.0]
+  OMIM_ID: ['182392']
+  UniProt_ID: [Q01118]

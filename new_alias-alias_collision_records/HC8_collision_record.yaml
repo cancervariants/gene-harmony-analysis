@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000233549
-  gene_symbol: CYCSP35
-- ensg_id: ENSG00000100567
-  gene_symbol: ' PSMA3'
-collision_symbol: HC8

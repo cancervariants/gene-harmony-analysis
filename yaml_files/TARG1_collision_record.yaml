@@ -1,0 +1,15 @@
+collision_symbol: TARG1
+NDRG1:
+  ENSG_ID: [ENSG00000104419]
+  source: [NCBI Info]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [10397.0]
+  OMIM_ID: ['605262']
+  UniProt_ID: [Q92597]
+OARD1:
+  ENSG_ID: [ENSG00000124596]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [221443.0]
+  OMIM_ID: ['614393']
+  UniProt_ID: [Q9Y530]

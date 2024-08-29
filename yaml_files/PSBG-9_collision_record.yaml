@@ -1,0 +1,15 @@
+collision_symbol: PSBG-9
+PSG4:
+  ENSG_ID: [ENSG00000243137]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5672.0]
+  OMIM_ID: ['176393']
+  UniProt_ID: [Q00888]
+PSG9:
+  ENSG_ID: [ENSG00000183668]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5678.0]
+  OMIM_ID: ['176398']
+  UniProt_ID: [Q00887]

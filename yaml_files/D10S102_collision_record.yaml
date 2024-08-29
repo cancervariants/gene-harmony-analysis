@@ -1,0 +1,15 @@
+collision_symbol: D10S102
+HNRNPA3:
+  ENSG_ID: [ENSG00000170144]
+  source: [NCBI Info]
+  Chromosome: [2q31.2]
+  NCBI Gene ID: [220988.0]
+  OMIM_ID: ['605372']
+  UniProt_ID: [P51991]
+HNRNPA3P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

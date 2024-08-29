@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000185238
-  gene_symbol: PRMT3
-- ensg_id: ENSG00000111218
-  gene_symbol: ' PRMT8'
-collision_symbol: HRMT1L3

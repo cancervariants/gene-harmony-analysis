@@ -1,0 +1,15 @@
+collision_symbol: PH2
+GRHPR:
+  ENSG_ID: [ENSG00000137106]
+  source: [NCBI Info]
+  Chromosome: [9p13.2]
+  NCBI Gene ID: [9380.0]
+  OMIM_ID: ['604296']
+  UniProt_ID: [Q9UBQ7]
+PHC2:
+  ENSG_ID: [ENSG00000134686]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [1912.0]
+  OMIM_ID: ['602979']
+  UniProt_ID: [Q8IXK0]

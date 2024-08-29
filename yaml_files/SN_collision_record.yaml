@@ -1,0 +1,15 @@
+collision_symbol: SN
+SCG2:
+  ENSG_ID: [ENSG00000171951]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q36.1]
+  NCBI Gene ID: [7857.0]
+  OMIM_ID: ['118930']
+  UniProt_ID: [P13521]
+SIGLEC1:
+  ENSG_ID: [ENSG00000088827]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p13]
+  NCBI Gene ID: [6614.0]
+  OMIM_ID: ['600751']
+  UniProt_ID: [Q9BZZ2]

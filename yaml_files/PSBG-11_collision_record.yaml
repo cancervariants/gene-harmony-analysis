@@ -1,0 +1,15 @@
+collision_symbol: PSBG-11
+PSG11:
+  ENSG_ID: [ENSG00000243130]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5680.0]
+  OMIM_ID: ['176401']
+  UniProt_ID: [Q9UQ72]
+PSG9:
+  ENSG_ID: [ENSG00000183668]
+  source: [NCBI Info]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5678.0]
+  OMIM_ID: ['176398']
+  UniProt_ID: [Q00887]

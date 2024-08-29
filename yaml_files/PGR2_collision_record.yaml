@@ -1,0 +1,15 @@
+collision_symbol: PGR2
+GPR142:
+  ENSG_ID: [ENSG00000257008]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [350383.0]
+  OMIM_ID: ['609046']
+  UniProt_ID: [Q7Z601]
+PTGR2:
+  ENSG_ID: [ENSG00000140043]
+  source: [NCBI Info]
+  Chromosome: [14q24.3]
+  NCBI Gene ID: [145482.0]
+  OMIM_ID: ['608642']
+  UniProt_ID: [Q8N8N7]

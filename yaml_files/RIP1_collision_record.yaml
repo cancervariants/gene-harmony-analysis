@@ -1,0 +1,22 @@
+collision_symbol: RIP1
+RALBP1:
+  ENSG_ID: [ENSG00000017797]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [18p11.22]
+  NCBI Gene ID: [10928.0]
+  OMIM_ID: ['605801']
+  UniProt_ID: [Q15311]
+RIPK1:
+  ENSG_ID: [ENSG00000137275]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p25.2]
+  NCBI Gene ID: [8737.0]
+  OMIM_ID: ['603453']
+  UniProt_ID: [Q13546]
+UQCRFS1:
+  ENSG_ID: [ENSG00000169021]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q12]
+  NCBI Gene ID: [7386.0]
+  OMIM_ID: ['191327']
+  UniProt_ID: [P47985]

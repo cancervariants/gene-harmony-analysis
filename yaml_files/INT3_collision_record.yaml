@@ -1,0 +1,15 @@
+collision_symbol: INT3
+INTS3:
+  ENSG_ID: [ENSG00000143624]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [65123.0]
+  OMIM_ID: ['611347']
+  UniProt_ID: [Q68E01]
+NOTCH4:
+  ENSG_ID: [ENSG00000204301]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [4855.0]
+  OMIM_ID: ['164951']
+  UniProt_ID: [Q99466]

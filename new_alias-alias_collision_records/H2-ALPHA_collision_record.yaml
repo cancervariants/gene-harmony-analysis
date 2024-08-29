@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127824
-  gene_symbol: TUBA4A
-- ensg_id: ENSG00000075886
-  gene_symbol: ' TUBA3D'
-collision_symbol: H2-ALPHA

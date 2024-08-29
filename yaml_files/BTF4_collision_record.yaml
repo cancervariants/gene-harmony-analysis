@@ -1,0 +1,22 @@
+collision_symbol: BTF4
+BTN3A2:
+  ENSG_ID: [ENSG00000186470]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [11118.0]
+  OMIM_ID: ['613594']
+  UniProt_ID: [P78410]
+GTF2F1:
+  ENSG_ID: [ENSG00000125651]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [2962.0]
+  OMIM_ID: ['189968']
+  UniProt_ID: [P35269]
+GTF2F2:
+  ENSG_ID: [ENSG00000188342]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q14.12-q14.13]
+  NCBI Gene ID: [2963.0]
+  OMIM_ID: ['189969']
+  UniProt_ID: [P13984]

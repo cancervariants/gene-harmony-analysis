@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000160505
-  gene_symbol: NLRP4
-- ensg_id: ENSG00000064205
-  gene_symbol: ' CCN5'
-collision_symbol: CT58

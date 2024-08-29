@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000086062
-  gene_symbol: B4GALT1
-- ensg_id: ENSG00000175164
-  gene_symbol: ' ABO'
-collision_symbol: GTB

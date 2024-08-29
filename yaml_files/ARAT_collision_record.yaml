@@ -1,0 +1,22 @@
+collision_symbol: ARAT
+AWAT2:
+  ENSG_ID: [ENSG00000147160]
+  source: [NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [158835.0]
+  OMIM_ID: ['300925']
+  UniProt_ID: [Q6E213]
+DGAT1:
+  ENSG_ID: [ENSG00000185000]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [8694.0]
+  OMIM_ID: ['604900']
+  UniProt_ID: [O75907]
+DGAT2:
+  ENSG_ID: [ENSG00000062282]
+  source: [NCBI Info]
+  Chromosome: [11q13.5]
+  NCBI Gene ID: [84649.0]
+  OMIM_ID: ['606983']
+  UniProt_ID: [Q96PD7]

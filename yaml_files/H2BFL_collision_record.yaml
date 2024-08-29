@@ -1,0 +1,15 @@
+collision_symbol: H2BFL
+H2BC4:
+  ENSG_ID: [ENSG00000180596]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8347.0]
+  OMIM_ID: ['602847']
+  UniProt_ID: [P62807]
+H2BC5:
+  ENSG_ID: [ENSG00000158373]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [3017.0]
+  OMIM_ID: ['602799']
+  UniProt_ID: [P58876]

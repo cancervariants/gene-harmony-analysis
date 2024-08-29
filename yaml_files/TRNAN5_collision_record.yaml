@@ -1,0 +1,15 @@
+collision_symbol: TRNAN5
+TRN-GTT2-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p36.1]
+  NCBI Gene ID: [100189005.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRN-GTT7-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [107985762.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

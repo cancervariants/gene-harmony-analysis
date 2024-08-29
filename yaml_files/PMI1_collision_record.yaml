@@ -1,0 +1,15 @@
+collision_symbol: PMI1
+MPI:
+  ENSG_ID: [ENSG00000178802]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [4351.0]
+  OMIM_ID: ['154550']
+  UniProt_ID: [P34949]
+PMM2:
+  ENSG_ID: [ENSG00000140650]
+  source: [NCBI Info]
+  Chromosome: [16p13.2]
+  NCBI Gene ID: [5373.0]
+  OMIM_ID: ['601785']
+  UniProt_ID: [O15305]

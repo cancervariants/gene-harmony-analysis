@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000092421
-  gene_symbol: SEMA6A
-- ensg_id: ENSG00000012171
-  gene_symbol: ' SEMA3B'
-collision_symbol: ' SEMA'

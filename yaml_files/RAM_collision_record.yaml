@@ -1,0 +1,22 @@
+collision_symbol: RAM
+CCDC26:
+  ENSG_ID: [ENSG00000229140]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.21]
+  NCBI Gene ID: [137196.0]
+  OMIM_ID: ['613040']
+  UniProt_ID: [.nan]
+RAB27A:
+  ENSG_ID: [ENSG00000069974]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [5873.0]
+  OMIM_ID: ['603868']
+  UniProt_ID: [P51159]
+RAMAC:
+  ENSG_ID: [ENSG00000169612]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [83640.0]
+  OMIM_ID: ['614547']
+  UniProt_ID: [Q9BTL3]

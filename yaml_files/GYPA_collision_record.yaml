@@ -1,0 +1,15 @@
+collision_symbol: GYPA
+GYPB:
+  ENSG_ID: [ENSG00000250361]
+  source: [NCBI Info]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2994.0]
+  OMIM_ID: ['617923']
+  UniProt_ID: [P06028]
+GYPE:
+  ENSG_ID: [ENSG00000197465]
+  source: [NCBI Info]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [2996.0]
+  OMIM_ID: ['138590']
+  UniProt_ID: [P15421]

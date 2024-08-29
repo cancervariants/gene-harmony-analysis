@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173436
-  gene_symbol: MICOS10
-- ensg_id: ENSG00000117335
-  gene_symbol: ' CD46'
-collision_symbol: ' MIC10'

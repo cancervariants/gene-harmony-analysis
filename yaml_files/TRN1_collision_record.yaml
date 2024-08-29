@@ -1,0 +1,15 @@
+collision_symbol: TRN1
+TRN-GTT2-1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p36.1]
+  NCBI Gene ID: [100189005.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRN-GTT2-7:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [7214.0]
+  OMIM_ID: ['189880']
+  UniProt_ID: [.nan]

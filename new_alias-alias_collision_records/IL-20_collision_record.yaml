@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000127743
-  gene_symbol: IL17B
-- ensg_id: ENSG00000162891
-  gene_symbol: ' IL20'
-collision_symbol: IL-20

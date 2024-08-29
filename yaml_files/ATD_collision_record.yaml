@@ -1,0 +1,15 @@
+collision_symbol: ATD
+ATM:
+  ENSG_ID: [ENSG00000149311]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [472.0]
+  OMIM_ID: ['607585']
+  UniProt_ID: [Q13315]
+DTD2:
+  ENSG_ID: [ENSG00000129480]
+  source: [NCBI Info]
+  Chromosome: [14q12]
+  NCBI Gene ID: [112487.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96FN9]

@@ -1,0 +1,15 @@
+collision_symbol: NKX-1.1
+NKX1-1:
+  ENSG_ID: [ENSG00000235608]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [54729.0]
+  OMIM_ID: ['617869']
+  UniProt_ID: [Q15270]
+NKX1-2:
+  ENSG_ID: [ENSG00000229544]
+  source: [NCBI Info]
+  Chromosome: [10q26.13]
+  NCBI Gene ID: [390010.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9UD57]

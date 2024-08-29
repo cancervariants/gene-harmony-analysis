@@ -1,0 +1,15 @@
+collision_symbol: CCTB
+CCT2:
+  ENSG_ID: [ENSG00000166226]
+  source: [NCBI Info]
+  Chromosome: [12q15]
+  NCBI Gene ID: [10576.0]
+  OMIM_ID: ['605139']
+  UniProt_ID: [P78371]
+PCYT1B:
+  ENSG_ID: [ENSG00000102230]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [9468.0]
+  OMIM_ID: ['300948']
+  UniProt_ID: [Q9Y5K3]

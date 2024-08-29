@@ -1,0 +1,15 @@
+collision_symbol: BIP
+GDF10:
+  ENSG_ID: [ENSG00000266524]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [2662.0]
+  OMIM_ID: ['601361']
+  UniProt_ID: [P55107]
+HSPA5:
+  ENSG_ID: [ENSG00000044574]
+  source: [NCBI Info]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [3309.0]
+  OMIM_ID: ['138120']
+  UniProt_ID: [P11021]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000099797
-  gene_symbol: TECR
-- ensg_id: ENSG00000277925
-  gene_symbol: ' TERC'
-collision_symbol: TER

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000176797
-  gene_symbol: DEFB103A
-- ensg_id: ENSG00000177243
-  gene_symbol: ' DEFB103B'
-collision_symbol: DEFB3

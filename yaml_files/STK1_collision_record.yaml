@@ -1,0 +1,15 @@
+collision_symbol: STK1
+CDK7:
+  ENSG_ID: [ENSG00000134058]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [1022.0]
+  OMIM_ID: ['601955']
+  UniProt_ID: [P50613]
+FLT3:
+  ENSG_ID: [ENSG00000122025]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q12.2]
+  NCBI Gene ID: [2322.0]
+  OMIM_ID: ['136351']
+  UniProt_ID: [P36888]

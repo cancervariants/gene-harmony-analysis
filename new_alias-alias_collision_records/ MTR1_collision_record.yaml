@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137200
-  gene_symbol: CMTR1
-- ensg_id: ENSG00000070985
-  gene_symbol: ' TRPM5'
-collision_symbol: ' MTR1'

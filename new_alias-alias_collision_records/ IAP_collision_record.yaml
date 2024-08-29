@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000102158
-  gene_symbol: MAGT1
-- ensg_id: ENSG00000121351
-  gene_symbol: ' IAPP'
-collision_symbol: ' IAP'

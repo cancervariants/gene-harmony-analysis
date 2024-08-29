@@ -1,0 +1,15 @@
+collision_symbol: RRP17
+NOL12:
+  ENSG_ID: [ENSG00000273899]
+  source: [HGNC]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [79159.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9UGY1]
+RASL10B:
+  ENSG_ID: [ENSG00000270885]
+  source: [HGNC]
+  Chromosome: [17q12]
+  NCBI Gene ID: [91608.0]
+  OMIM_ID: ['612128']
+  UniProt_ID: [Q96S79]

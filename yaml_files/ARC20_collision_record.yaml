@@ -1,0 +1,15 @@
+collision_symbol: ARC20
+ARPC4:
+  ENSG_ID: [ENSG00000241553]
+  source: [NCBI Info]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [10093.0]
+  OMIM_ID: ['604226']
+  UniProt_ID: [P59998]
+ARPC4-TTLL3:
+  ENSG_ID: [ENSG00000250151]
+  source: [NCBI Info]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [100526693.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

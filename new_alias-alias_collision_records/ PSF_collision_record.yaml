@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116560
-  gene_symbol: SFPQ
-- ensg_id: ENSG00000163453
-  gene_symbol: ' IGFBP7'
-collision_symbol: ' PSF'

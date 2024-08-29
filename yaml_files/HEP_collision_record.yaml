@@ -1,0 +1,15 @@
+collision_symbol: HEP
+DNLZ:
+  ENSG_ID: [ENSG00000213221]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [728489.0]
+  OMIM_ID: ['620797']
+  UniProt_ID: [Q5SXM8]
+EPHB6:
+  ENSG_ID: [ENSG00000106123]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [2051.0]
+  OMIM_ID: ['602757']
+  UniProt_ID: [O15197]

@@ -1,0 +1,15 @@
+collision_symbol: CLC2
+CLCN2:
+  ENSG_ID: [ENSG00000114859]
+  source: [NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [1181.0]
+  OMIM_ID: ['600570']
+  UniProt_ID: [P51788]
+LGALS14:
+  ENSG_ID: [ENSG00000006659]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [56891.0]
+  OMIM_ID: ['607260']
+  UniProt_ID: [Q8TCE9]

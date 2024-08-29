@@ -1,0 +1,15 @@
+collision_symbol: GLUR7
+GRIK3:
+  ENSG_ID: [ENSG00000163873]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [2899.0]
+  OMIM_ID: ['138243']
+  UniProt_ID: [Q13003]
+GRM7:
+  ENSG_ID: [ENSG00000196277]
+  source: [NCBI Info]
+  Chromosome: [3p26.1]
+  NCBI Gene ID: [2917.0]
+  OMIM_ID: ['604101']
+  UniProt_ID: [Q14831]

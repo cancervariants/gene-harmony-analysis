@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142937
-  gene_symbol: RPS8
-- ensg_id: ENSG00000087191
-  gene_symbol: ' PSMC5'
-collision_symbol: ' S8'

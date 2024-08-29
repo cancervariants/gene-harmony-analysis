@@ -1,0 +1,15 @@
+collision_symbol: PRSSL1
+KLK10:
+  ENSG_ID: [ENSG00000129451]
+  source: [NCBI Info]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [5655.0]
+  OMIM_ID: ['602673']
+  UniProt_ID: [O43240]
+PRSS57:
+  ENSG_ID: [ENSG00000185198]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [400668.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6UWY2]

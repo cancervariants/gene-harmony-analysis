@@ -1,0 +1,15 @@
+collision_symbol: CNIL
+CNIH1:
+  ENSG_ID: [ENSG00000100528]
+  source: [ENSG]
+  Chromosome: [14q22.2]
+  NCBI Gene ID: [10175.0]
+  OMIM_ID: ['611287']
+  UniProt_ID: [O95406]
+CNIH2:
+  ENSG_ID: [ENSG00000174871]
+  source: [ENSG]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [254263.0]
+  OMIM_ID: ['611288']
+  UniProt_ID: [Q6PI25]

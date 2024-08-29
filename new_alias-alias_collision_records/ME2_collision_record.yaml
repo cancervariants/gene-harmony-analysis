@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000075275
-  gene_symbol: CELSR1
-- ensg_id: ENSG00000197479
-  gene_symbol: ' PCDHB11'
-collision_symbol: ME2

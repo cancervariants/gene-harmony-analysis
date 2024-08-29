@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000171431
-  gene_symbol: KRT20
-- ensg_id: ENSG00000187624
-  gene_symbol: ' LIAT1'
-collision_symbol: CK20

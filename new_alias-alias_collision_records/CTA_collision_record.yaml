@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000253603
-  gene_symbol: CERNA3
-- ensg_id: ENSG00000161217
-  gene_symbol: ' PCYT1A'
-collision_symbol: CTA

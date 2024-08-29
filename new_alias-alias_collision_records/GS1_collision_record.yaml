@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000130021
-  gene_symbol: PUDP
-- ensg_id: ENSG00000197535
-  gene_symbol: ' MYO5A'
-collision_symbol: GS1

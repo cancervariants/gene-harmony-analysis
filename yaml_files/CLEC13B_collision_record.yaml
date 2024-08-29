@@ -1,0 +1,15 @@
+collision_symbol: CLEC13B
+LY75:
+  ENSG_ID: [ENSG00000054219]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [4065.0]
+  OMIM_ID: ['604524']
+  UniProt_ID: [O60449]
+LY75-CD302:
+  ENSG_ID: [ENSG00000248672]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [100526664.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

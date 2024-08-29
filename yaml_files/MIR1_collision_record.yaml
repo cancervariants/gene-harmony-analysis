@@ -1,0 +1,15 @@
+collision_symbol: MIR1
+FSD1:
+  ENSG_ID: [ENSG00000105255]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [79187.0]
+  OMIM_ID: ['609828']
+  UniProt_ID: [Q9BTV5]
+FSD1L:
+  ENSG_ID: [ENSG00000106701]
+  source: [NCBI Info]
+  Chromosome: [9q31.2]
+  NCBI Gene ID: [83856.0]
+  OMIM_ID: ['609829']
+  UniProt_ID: [Q9BXM9]

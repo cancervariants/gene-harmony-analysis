@@ -1,0 +1,15 @@
+collision_symbol: KNTC2AP
+MIS12:
+  ENSG_ID: [ENSG00000167842]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [79003.0]
+  OMIM_ID: ['609178']
+  UniProt_ID: [Q9H081]
+ZWINT:
+  ENSG_ID: [ENSG00000122952]
+  source: [NCBI Info]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [11130.0]
+  OMIM_ID: ['609177']
+  UniProt_ID: [O95229]

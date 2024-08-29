@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000131462
-  gene_symbol: TUBG1
-- ensg_id: ENSG00000169429
-  gene_symbol: ' CXCL8'
-collision_symbol: GCP-1

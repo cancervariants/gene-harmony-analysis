@@ -1,0 +1,15 @@
+collision_symbol: AIRP
+NT5C1B:
+  ENSG_ID: [ENSG00000185013]
+  source: [NCBI Info]
+  Chromosome: [2p24.2]
+  NCBI Gene ID: [93034.0]
+  OMIM_ID: ['610526']
+  UniProt_ID: [Q96P26]
+NT5C1B-RDH14:
+  ENSG_ID: [ENSG00000250741]
+  source: [NCBI Info]
+  Chromosome: [2p24.2]
+  NCBI Gene ID: [100526794.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

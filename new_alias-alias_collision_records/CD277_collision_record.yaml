@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186470
-  gene_symbol: BTN3A2
-- ensg_id: ENSG00000026950
-  gene_symbol: ' BTN3A1'
-collision_symbol: CD277

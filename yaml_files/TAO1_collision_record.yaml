@@ -1,0 +1,15 @@
+collision_symbol: TAO1
+TAOK1:
+  ENSG_ID: [ENSG00000160551]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [57551.0]
+  OMIM_ID: ['610266']
+  UniProt_ID: [Q7L7X3]
+TAOK2:
+  ENSG_ID: [ENSG00000149930]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [9344.0]
+  OMIM_ID: ['613199']
+  UniProt_ID: [Q9UL54]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166598
-  gene_symbol: HSP90B1
-- ensg_id: ENSG00000196367
-  gene_symbol: ' TRRAP'
-collision_symbol: ' TRA1'

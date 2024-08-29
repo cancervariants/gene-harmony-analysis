@@ -1,0 +1,15 @@
+collision_symbol: SAP
+APCS:
+  ENSG_ID: [ENSG00000132703]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [325.0]
+  OMIM_ID: ['104770']
+  UniProt_ID: [P02743]
+SH2D1A:
+  ENSG_ID: [ENSG00000183918]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [4068.0]
+  OMIM_ID: ['300490']
+  UniProt_ID: [O60880]

@@ -1,0 +1,15 @@
+collision_symbol: ARP11
+ACTR3B:
+  ENSG_ID: [ENSG00000133627]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q36.1-q36.2]
+  NCBI Gene ID: [57180.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9P1U1]
+ACTR3C:
+  ENSG_ID: [ENSG00000106526]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [653857.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9C0K3]

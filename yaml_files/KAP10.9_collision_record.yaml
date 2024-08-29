@@ -1,0 +1,15 @@
+collision_symbol: KAP10.9
+KRTAP10-11:
+  ENSG_ID: [ENSG00000243489]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [386678.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P60412]
+KRTAP10-9:
+  ENSG_ID: [ENSG00000221837]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [386676.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P60411]

@@ -1,0 +1,15 @@
+collision_symbol: CDKN2
+CDK2:
+  ENSG_ID: [ENSG00000123374]
+  source: [NCBI Info]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [1017.0]
+  OMIM_ID: ['116953']
+  UniProt_ID: [P24941]
+CDKN2A:
+  ENSG_ID: [ENSG00000147889]
+  source: [NCBI Info]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [1029.0]
+  OMIM_ID: ['600160']
+  UniProt_ID: ['P42771, Q8N726']

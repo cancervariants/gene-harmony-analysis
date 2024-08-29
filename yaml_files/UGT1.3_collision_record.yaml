@@ -1,0 +1,15 @@
+collision_symbol: UGT1.3
+UGT1A3:
+  ENSG_ID: [ENSG00000288702]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54659.0]
+  OMIM_ID: ['606428']
+  UniProt_ID: [P35503]
+UGT1A6:
+  ENSG_ID: [ENSG00000167165]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54578.0]
+  OMIM_ID: ['606431']
+  UniProt_ID: [P19224]

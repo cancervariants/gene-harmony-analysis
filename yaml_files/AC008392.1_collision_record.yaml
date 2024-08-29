@@ -1,0 +1,15 @@
+collision_symbol: AC008392.1
+CARD8-AS1:
+  ENSG_ID: [ENSG00000268001]
+  source: [ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [100505812.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ZNF114-AS1:
+  ENSG_ID: [ENSG00000268186]
+  source: [ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [105372429.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: CT58
+CCN5:
+  ENSG_ID: [ENSG00000064205]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [8839.0]
+  OMIM_ID: ['603399']
+  UniProt_ID: [O76076]
+NLRP4:
+  ENSG_ID: [ENSG00000160505]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [147945.0]
+  OMIM_ID: ['609645']
+  UniProt_ID: [Q96MN2]

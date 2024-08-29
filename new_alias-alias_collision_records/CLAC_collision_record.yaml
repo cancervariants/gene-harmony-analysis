@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167654
-  gene_symbol: ATCAY
-- ensg_id: ENSG00000188517
-  gene_symbol: ' COL25A1'
-collision_symbol: CLAC

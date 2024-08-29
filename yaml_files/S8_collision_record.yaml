@@ -1,0 +1,15 @@
+collision_symbol: S8
+PSMC5:
+  ENSG_ID: [ENSG00000087191]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [5705.0]
+  OMIM_ID: ['601681']
+  UniProt_ID: [P62195]
+RPS8:
+  ENSG_ID: [ENSG00000142937]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [6202.0]
+  OMIM_ID: ['600357']
+  UniProt_ID: [P62241]

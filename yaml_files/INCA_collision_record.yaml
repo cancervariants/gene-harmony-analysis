@@ -1,0 +1,15 @@
+collision_symbol: INCA
+CARD17P:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+INKA1:
+  ENSG_ID: [ENSG00000185614]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [389119.0]
+  OMIM_ID: ['620426']
+  UniProt_ID: [Q96EL1]

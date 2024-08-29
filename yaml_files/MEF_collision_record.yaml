@@ -1,0 +1,15 @@
+collision_symbol: MEF
+ELF4:
+  ENSG_ID: [ENSG00000102034]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq26.1]
+  NCBI Gene ID: [2000.0]
+  OMIM_ID: ['300775']
+  UniProt_ID: [Q99607]
+MEFV:
+  ENSG_ID: [ENSG00000103313]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [4210.0]
+  OMIM_ID: ['608107']
+  UniProt_ID: [O15553]

@@ -1,0 +1,15 @@
+collision_symbol: ADC
+AZIN2:
+  ENSG_ID: [ENSG00000142920]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [113451.0]
+  OMIM_ID: ['608353']
+  UniProt_ID: [Q96A70]
+GADL1:
+  ENSG_ID: [ENSG00000144644]
+  source: [NCBI Info]
+  Chromosome: [3p24.1-p23]
+  NCBI Gene ID: [339896.0]
+  OMIM_ID: ['615601']
+  UniProt_ID: [Q6ZQY3]

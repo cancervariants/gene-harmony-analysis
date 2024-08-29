@@ -1,0 +1,15 @@
+collision_symbol: HA-2
+KRT32:
+  ENSG_ID: [ENSG00000108759]
+  source: [ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3882.0]
+  OMIM_ID: ['602760']
+  UniProt_ID: [Q14532]
+MYO1G:
+  ENSG_ID: [ENSG00000136286]
+  source: [ENSG]
+  Chromosome: [7p13]
+  NCBI Gene ID: [64005.0]
+  OMIM_ID: ['600642']
+  UniProt_ID: [B0I1T2]

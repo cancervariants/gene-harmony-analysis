@@ -1,0 +1,15 @@
+collision_symbol: THC2
+ANKRD26:
+  ENSG_ID: [ENSG00000107890]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [22852.0]
+  OMIM_ID: ['610855']
+  UniProt_ID: [Q9UPS8]
+MASTL:
+  ENSG_ID: [ENSG00000120539]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [84930.0]
+  OMIM_ID: ['608221']
+  UniProt_ID: [Q96GX5]

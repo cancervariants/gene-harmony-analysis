@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000006016
-  gene_symbol: CRLF1
-- ensg_id: ENSG00000101343
-  gene_symbol: ' CRNKL1'
-collision_symbol: ' CLF'

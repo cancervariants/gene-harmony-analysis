@@ -1,0 +1,15 @@
+collision_symbol: HOD
+CLCN7:
+  ENSG_ID: [ENSG00000103249]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [1186.0]
+  OMIM_ID: ['602727']
+  UniProt_ID: [P51798]
+HOPX:
+  ENSG_ID: [ENSG00000171476]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [84525.0]
+  OMIM_ID: ['607275']
+  UniProt_ID: [Q9BPY8]

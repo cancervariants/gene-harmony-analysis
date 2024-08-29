@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000005156
-  gene_symbol: LIG3
-- ensg_id: ENSG00000198799
-  gene_symbol: ' LRIG2'
-collision_symbol: LIG2

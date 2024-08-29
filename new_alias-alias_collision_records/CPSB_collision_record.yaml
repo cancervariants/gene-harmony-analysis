@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000103811
-  gene_symbol: CTSH
-- ensg_id: ENSG00000164733
-  gene_symbol: ' CTSB'
-collision_symbol: CPSB

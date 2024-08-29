@@ -1,0 +1,29 @@
+collision_symbol: PC4
+IFRD1:
+  ENSG_ID: [ENSG00000006652]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7q31.1]
+  NCBI Gene ID: [3475.0]
+  OMIM_ID: ['603502']
+  UniProt_ID: [O00458]
+KRT6B:
+  ENSG_ID: [ENSG00000185479]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3854.0]
+  OMIM_ID: ['148042']
+  UniProt_ID: [P04259]
+PCSK4:
+  ENSG_ID: [ENSG00000115257]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [54760.0]
+  OMIM_ID: ['600487']
+  UniProt_ID: [Q6UW60]
+SUB1:
+  ENSG_ID: [ENSG00000113387]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5p13.3]
+  NCBI Gene ID: [10923.0]
+  OMIM_ID: ['600503']
+  UniProt_ID: [P53999]

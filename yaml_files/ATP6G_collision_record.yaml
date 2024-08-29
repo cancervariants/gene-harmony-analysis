@@ -1,0 +1,15 @@
+collision_symbol: ATP6G
+ATP6V1G1:
+  ENSG_ID: [ENSG00000136888]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q32]
+  NCBI Gene ID: [9550.0]
+  OMIM_ID: ['607296']
+  UniProt_ID: [O75348]
+ATP6V1G2:
+  ENSG_ID: [ENSG00000213760, ENSG00000206445]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.33, .nan]
+  NCBI Gene ID: [534.0, .nan]
+  OMIM_ID: ['606853', .nan]
+  UniProt_ID: [O95670, .nan]

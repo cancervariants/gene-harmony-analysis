@@ -1,0 +1,15 @@
+collision_symbol: FIP1
+FIP1L1:
+  ENSG_ID: [ENSG00000145216]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [81608.0]
+  OMIM_ID: ['607686']
+  UniProt_ID: [Q6UN15]
+RRAGA:
+  ENSG_ID: [ENSG00000155876]
+  source: [NCBI Info]
+  Chromosome: [9p22.1]
+  NCBI Gene ID: [10670.0]
+  OMIM_ID: ['612194']
+  UniProt_ID: [Q7L523]

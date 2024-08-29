@@ -1,0 +1,15 @@
+collision_symbol: OCT2
+POU2F2:
+  ENSG_ID: [ENSG00000028277]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [5452.0]
+  OMIM_ID: ['164176']
+  UniProt_ID: [P09086]
+SLC22A2:
+  ENSG_ID: [ENSG00000112499]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q25.3]
+  NCBI Gene ID: [6582.0]
+  OMIM_ID: ['602608']
+  UniProt_ID: [O15244]

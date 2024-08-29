@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000170889
-  gene_symbol: RPS9
-- ensg_id: ENSG00000108671
-  gene_symbol: ' PSMD11'
-collision_symbol: S9

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000099810
-  gene_symbol: MTAP
-- ensg_id: ENSG00000257727
-  gene_symbol: ' CNPY2'
-collision_symbol: MSAP

@@ -1,0 +1,15 @@
+collision_symbol: MRCL3
+CLEC18C:
+  ENSG_ID: [ENSG00000157335]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [283971.0]
+  OMIM_ID: ['616573']
+  UniProt_ID: [Q8NCF0]
+MYL12A:
+  ENSG_ID: [ENSG00000101608]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18p11.31]
+  NCBI Gene ID: [10627.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P19105]

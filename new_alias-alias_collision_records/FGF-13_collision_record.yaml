@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000129682
-  gene_symbol: FGF13
-- ensg_id: ENSG00000158815
-  gene_symbol: ' FGF17'
-collision_symbol: FGF-13

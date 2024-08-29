@@ -1,0 +1,15 @@
+collision_symbol: OLF4p
+OR7A1P:
+  ENSG_ID: [ENSG00000268834]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [390895.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+OR7A2P:
+  ENSG_ID: [ENSG00000172148, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.12, .nan]
+  NCBI Gene ID: [390894.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGA2, .nan]

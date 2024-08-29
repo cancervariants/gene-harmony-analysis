@@ -1,0 +1,15 @@
+collision_symbol: IAN2
+GIMAP1:
+  ENSG_ID: [ENSG00000213203]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [170575.0]
+  OMIM_ID: ['608084']
+  UniProt_ID: [Q8WWP7]
+GIMAP6:
+  ENSG_ID: [ENSG00000133561]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [474344.0]
+  OMIM_ID: ['616960']
+  UniProt_ID: [Q6P9H5]

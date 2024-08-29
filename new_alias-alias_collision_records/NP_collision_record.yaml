@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198805
-  gene_symbol: PNP
-- ensg_id: ENSG00000230447
-  gene_symbol: ' CTF2P'
-collision_symbol: NP

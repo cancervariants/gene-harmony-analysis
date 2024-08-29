@@ -1,0 +1,15 @@
+collision_symbol: MCAD
+ACADM:
+  ENSG_ID: [ENSG00000117054]
+  source: [NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [34.0]
+  OMIM_ID: ['607008']
+  UniProt_ID: [P11310]
+CDH15:
+  ENSG_ID: [ENSG00000129910]
+  source: [NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [1013.0]
+  OMIM_ID: ['114019']
+  UniProt_ID: [P55291]

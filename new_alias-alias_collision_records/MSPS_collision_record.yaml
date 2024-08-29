@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175216
-  gene_symbol: CKAP5
-- ensg_id: ENSG00000137747
-  gene_symbol: ' TMPRSS13'
-collision_symbol: MSPS

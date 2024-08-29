@@ -1,0 +1,15 @@
+collision_symbol: ILERS
+IARS1:
+  ENSG_ID: [ENSG00000196305]
+  source: [NCBI Info]
+  Chromosome: [9q22.31]
+  NCBI Gene ID: [3376.0]
+  OMIM_ID: ['600709']
+  UniProt_ID: [P41252]
+IARS2:
+  ENSG_ID: [ENSG00000067704]
+  source: [NCBI Info]
+  Chromosome: [1q41]
+  NCBI Gene ID: [55699.0]
+  OMIM_ID: ['612801']
+  UniProt_ID: [Q9NSE4]

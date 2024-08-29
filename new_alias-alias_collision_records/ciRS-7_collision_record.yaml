@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000203930
-  gene_symbol: LINC00632
-- ensg_id: NAN
-  gene_symbol: ' CDR1-AS'
-collision_symbol: ciRS-7

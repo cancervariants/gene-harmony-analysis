@@ -1,0 +1,15 @@
+collision_symbol: RPML3
+MRPL3:
+  ENSG_ID: [ENSG00000114686]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q22.1]
+  NCBI Gene ID: [11222.0]
+  OMIM_ID: ['607118']
+  UniProt_ID: [P09001]
+MRPL38:
+  ENSG_ID: [ENSG00000204316]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [64978.0]
+  OMIM_ID: ['611844']
+  UniProt_ID: [Q96DV4]

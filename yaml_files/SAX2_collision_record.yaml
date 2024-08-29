@@ -1,0 +1,15 @@
+collision_symbol: SAX2
+KIF1C:
+  ENSG_ID: [ENSG00000129250]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [10749.0]
+  OMIM_ID: ['603060']
+  UniProt_ID: [O43896]
+NKX1-1:
+  ENSG_ID: [ENSG00000235608]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [54729.0]
+  OMIM_ID: ['617869']
+  UniProt_ID: [Q15270]

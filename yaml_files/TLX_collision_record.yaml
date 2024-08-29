@@ -1,0 +1,15 @@
+collision_symbol: TLX
+CD46:
+  ENSG_ID: [ENSG00000117335]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [4179.0]
+  OMIM_ID: ['120920']
+  UniProt_ID: [P15529]
+NR2E1:
+  ENSG_ID: [ENSG00000112333]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [7101.0]
+  OMIM_ID: ['603849']
+  UniProt_ID: [Q9Y466]

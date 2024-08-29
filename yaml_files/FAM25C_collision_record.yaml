@@ -1,0 +1,15 @@
+collision_symbol: FAM25C
+FAM25BP:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FAM25G:
+  ENSG_ID: [ENSG00000189090]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [100133093.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [B3EWG6]

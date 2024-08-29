@@ -1,0 +1,15 @@
+collision_symbol: U62
+SNORD62A:
+  ENSG_ID: [ENSG00000235284]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [26786.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SNORD62B:
+  ENSG_ID: [ENSG00000231587]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [692093.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

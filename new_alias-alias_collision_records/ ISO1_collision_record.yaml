@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000167720
-  gene_symbol: SRR
-- ensg_id: ENSG00000173812
-  gene_symbol: ' EIF1'
-collision_symbol: ' ISO1'

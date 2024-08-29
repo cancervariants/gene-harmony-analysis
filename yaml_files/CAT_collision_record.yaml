@@ -1,0 +1,15 @@
+collision_symbol: CAT
+CRAT:
+  ENSG_ID: [ENSG00000095321]
+  source: [NCBI Info]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [1384.0]
+  OMIM_ID: ['600184']
+  UniProt_ID: [P43155]
+GLYAT:
+  ENSG_ID: [ENSG00000149124]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [10249.0]
+  OMIM_ID: ['607424']
+  UniProt_ID: [Q6IB77]

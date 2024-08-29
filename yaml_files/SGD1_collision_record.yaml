@@ -1,0 +1,15 @@
+collision_symbol: SGD1
+CEBPE:
+  ENSG_ID: [ENSG00000092067]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [1053.0]
+  OMIM_ID: ['600749']
+  UniProt_ID: [Q15744]
+NOM1:
+  ENSG_ID: [ENSG00000146909]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [64434.0]
+  OMIM_ID: ['611269']
+  UniProt_ID: [Q5C9Z4]

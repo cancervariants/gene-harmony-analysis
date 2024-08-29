@@ -1,0 +1,15 @@
+collision_symbol: SAG
+DMBT1:
+  ENSG_ID: [ENSG00000187908]
+  source: [NCBI Info]
+  Chromosome: [10q26.13]
+  NCBI Gene ID: [1755.0]
+  OMIM_ID: ['601969']
+  UniProt_ID: [Q9UGM3]
+RNF7:
+  ENSG_ID: [ENSG00000114125]
+  source: [NCBI Info]
+  Chromosome: [3q23]
+  NCBI Gene ID: [9616.0]
+  OMIM_ID: ['603863']
+  UniProt_ID: [Q9UBF6]

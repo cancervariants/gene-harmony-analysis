@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000146909
-  gene_symbol: NOM1
-- ensg_id: ENSG00000092067
-  gene_symbol: ' CEBPE'
-collision_symbol: SGD1

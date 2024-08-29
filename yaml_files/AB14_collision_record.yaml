@@ -1,0 +1,15 @@
+collision_symbol: AB14
+NBPF1:
+  ENSG_ID: [ENSG00000219481]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [55672.0]
+  OMIM_ID: ['610501']
+  UniProt_ID: [Q3BBV0]
+NBPF15:
+  ENSG_ID: [ENSG00000266338]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [284565.0]
+  OMIM_ID: ['610414']
+  UniProt_ID: [Q8N660]

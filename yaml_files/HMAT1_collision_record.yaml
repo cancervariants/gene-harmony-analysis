@@ -1,0 +1,15 @@
+collision_symbol: HMAT1
+ALG1:
+  ENSG_ID: [ENSG00000033011]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [56052.0]
+  OMIM_ID: ['605907']
+  UniProt_ID: [Q9BT22]
+PEA15:
+  ENSG_ID: [ENSG00000162734]
+  source: [NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [8682.0]
+  OMIM_ID: ['603434']
+  UniProt_ID: [Q15121]

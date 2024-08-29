@@ -1,0 +1,15 @@
+collision_symbol: KAT4
+GOT2:
+  ENSG_ID: [ENSG00000125166]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16q21]
+  NCBI Gene ID: [2806.0]
+  OMIM_ID: ['138150']
+  UniProt_ID: [P00505]
+TAF1:
+  ENSG_ID: [ENSG00000147133]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [6872.0]
+  OMIM_ID: ['313650']
+  UniProt_ID: [P21675]

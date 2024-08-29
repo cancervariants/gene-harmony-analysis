@@ -1,0 +1,15 @@
+collision_symbol: OR17-16
+OR3A3:
+  ENSG_ID: [ENSG00000159961]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [8392.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P47888]
+OR3A4P:
+  ENSG_ID: [ENSG00000290820]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

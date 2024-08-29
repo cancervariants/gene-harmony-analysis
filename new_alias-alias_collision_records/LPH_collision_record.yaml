@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000115850
-  gene_symbol: LCT
-- ensg_id: ENSG00000115138
-  gene_symbol: ' POMC'
-collision_symbol: LPH

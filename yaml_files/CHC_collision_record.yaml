@@ -1,0 +1,15 @@
+collision_symbol: CHC
+CLTC:
+  ENSG_ID: [ENSG00000141367]
+  source: [NCBI Info]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [1213.0]
+  OMIM_ID: ['118955']
+  UniProt_ID: [Q00610]
+SLC4A1:
+  ENSG_ID: [ENSG00000004939]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [6521.0]
+  OMIM_ID: ['109270']
+  UniProt_ID: [P02730]

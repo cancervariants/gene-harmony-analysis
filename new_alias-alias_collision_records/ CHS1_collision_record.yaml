@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143669
-  gene_symbol: LYST
-- ensg_id: ENSG00000132549
-  gene_symbol: ' VPS13B'
-collision_symbol: ' CHS1'

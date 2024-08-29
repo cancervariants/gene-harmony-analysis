@@ -1,0 +1,15 @@
+collision_symbol: CBSL
+CBS:
+  ENSG_ID: [ENSG00000160200]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [875.0]
+  OMIM_ID: ['613381']
+  UniProt_ID: [P35520]
+LOC102724560:
+  ENSG_ID: [ENSG00000274276]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

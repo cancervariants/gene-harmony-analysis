@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132434
-  gene_symbol: LANCL2
-- ensg_id: ENSG00000170801
-  gene_symbol: ' HTRA3'
-collision_symbol: ' TASP'

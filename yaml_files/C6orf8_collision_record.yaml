@@ -1,0 +1,15 @@
+collision_symbol: C6orf8
+EGFL8:
+  ENSG_ID: [ENSG00000241404]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [80864.0]
+  OMIM_ID: ['609897']
+  UniProt_ID: [Q99944]
+PPT2:
+  ENSG_ID: [ENSG00000221988]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [9374.0]
+  OMIM_ID: ['603298']
+  UniProt_ID: [Q9UMR5]

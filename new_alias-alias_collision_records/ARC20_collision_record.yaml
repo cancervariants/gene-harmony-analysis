@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241553
-  gene_symbol: ARPC4
-- ensg_id: ENSG00000250151
-  gene_symbol: ' ARPC4-TTLL3'
-collision_symbol: ARC20

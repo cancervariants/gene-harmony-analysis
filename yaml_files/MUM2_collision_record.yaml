@@ -1,0 +1,15 @@
+collision_symbol: MUM2
+TRAPPC1:
+  ENSG_ID: [ENSG00000170043]
+  source: [ENSG]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [58485.0]
+  OMIM_ID: ['610969']
+  UniProt_ID: [Q9Y5R8]
+WTAP:
+  ENSG_ID: [ENSG00000146457]
+  source: [ENSG]
+  Chromosome: [6q25.3]
+  NCBI Gene ID: [9589.0]
+  OMIM_ID: ['605442']
+  UniProt_ID: [Q15007]

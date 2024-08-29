@@ -1,0 +1,15 @@
+collision_symbol: H-REV107
+PLAAT1:
+  ENSG_ID: [ENSG00000127252]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [57110.0]
+  OMIM_ID: ['606487']
+  UniProt_ID: [Q9HDD0]
+PLAAT3:
+  ENSG_ID: [ENSG00000176485]
+  source: [NCBI Info]
+  Chromosome: [11q12.3-q13.1]
+  NCBI Gene ID: [11145.0]
+  OMIM_ID: ['613867']
+  UniProt_ID: [P53816]

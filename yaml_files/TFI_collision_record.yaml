@@ -1,0 +1,15 @@
+collision_symbol: TFI
+TFF3:
+  ENSG_ID: [ENSG00000160180]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [7033.0]
+  OMIM_ID: ['600633']
+  UniProt_ID: [Q07654]
+TFPI:
+  ENSG_ID: [ENSG00000003436]
+  source: [NCBI Info]
+  Chromosome: [2q32.1]
+  NCBI Gene ID: [7035.0]
+  OMIM_ID: ['152310']
+  UniProt_ID: [P10646]

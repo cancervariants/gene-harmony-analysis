@@ -1,0 +1,15 @@
+collision_symbol: PCH3
+CLAM:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7q11-q21]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PCLO:
+  ENSG_ID: [ENSG00000186472]
+  source: [NCBI Info]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [27445.0]
+  OMIM_ID: ['604918']
+  UniProt_ID: [Q9Y6V0]

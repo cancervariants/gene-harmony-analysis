@@ -1,0 +1,15 @@
+collision_symbol: HGF
+IL6:
+  ENSG_ID: [ENSG00000136244]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [3569.0]
+  OMIM_ID: ['147620']
+  UniProt_ID: [P05231]
+SOS1:
+  ENSG_ID: [ENSG00000115904]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p22.1]
+  NCBI Gene ID: [6654.0]
+  OMIM_ID: ['182530']
+  UniProt_ID: [Q07889]

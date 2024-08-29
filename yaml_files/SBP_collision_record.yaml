@@ -1,0 +1,15 @@
+collision_symbol: SBP
+CCHCR1:
+  ENSG_ID: [ENSG00000204536]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [54535.0]
+  OMIM_ID: ['605310']
+  UniProt_ID: [Q8TD31]
+SHBG:
+  ENSG_ID: [ENSG00000129214]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [6462.0]
+  OMIM_ID: ['182205']
+  UniProt_ID: [P04278]

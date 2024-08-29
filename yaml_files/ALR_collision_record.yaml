@@ -1,0 +1,22 @@
+collision_symbol: ALR
+AKR1A1:
+  ENSG_ID: [ENSG00000117448]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [10327.0]
+  OMIM_ID: ['103830']
+  UniProt_ID: [P14550]
+GFER:
+  ENSG_ID: [ENSG00000127554]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [2671.0]
+  OMIM_ID: ['600924']
+  UniProt_ID: [P55789]
+KMT2D:
+  ENSG_ID: [ENSG00000167548]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [8085.0]
+  OMIM_ID: ['602113']
+  UniProt_ID: [O14686]

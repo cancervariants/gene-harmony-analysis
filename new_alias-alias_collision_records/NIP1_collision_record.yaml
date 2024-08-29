@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000114503
-  gene_symbol: NCBP2
-- ensg_id: ENSG00000125967
-  gene_symbol: ' NECAB3'
-- ensg_id: ENSG00000113734
-  gene_symbol: ' BNIP1'
-collision_symbol: NIP1

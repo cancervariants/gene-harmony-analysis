@@ -1,0 +1,15 @@
+collision_symbol: TRIF
+TICAM1:
+  ENSG_ID: [ENSG00000127666]
+  source: [ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [148022.0]
+  OMIM_ID: ['607601']
+  UniProt_ID: [Q8IUC6]
+TRIM69:
+  ENSG_ID: [ENSG00000185880]
+  source: [ENSG]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [140691.0]
+  OMIM_ID: ['616017']
+  UniProt_ID: [Q86WT6]

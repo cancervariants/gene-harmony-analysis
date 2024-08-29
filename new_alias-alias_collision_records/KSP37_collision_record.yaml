@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137441
-  gene_symbol: FGFBP2
-- ensg_id: ENSG00000187783
-  gene_symbol: ' TMEM72'
-collision_symbol: KSP37

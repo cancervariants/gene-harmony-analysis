@@ -1,0 +1,15 @@
+collision_symbol: FAST
+FASTK:
+  ENSG_ID: [ENSG00000164896]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [10922.0]
+  OMIM_ID: ['606965']
+  UniProt_ID: [Q14296]
+FOXD3-AS1:
+  ENSG_ID: [ENSG00000230798]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p31.3]
+  NCBI Gene ID: [100996301.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

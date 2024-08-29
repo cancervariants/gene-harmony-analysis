@@ -1,0 +1,15 @@
+collision_symbol: NBP1
+ATP6V1H:
+  ENSG_ID: [ENSG00000047249]
+  source: [NCBI Info]
+  Chromosome: [8q11.23]
+  NCBI Gene ID: [51606.0]
+  OMIM_ID: ['608861']
+  UniProt_ID: [Q9UI12]
+NUBP1:
+  ENSG_ID: [ENSG00000103274]
+  source: [NCBI Info]
+  Chromosome: [16p13.13]
+  NCBI Gene ID: [4682.0]
+  OMIM_ID: ['600280']
+  UniProt_ID: [P53384]

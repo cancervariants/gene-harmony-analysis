@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000290539
-  gene_symbol: NF1P2
-- ensg_id: ENSG00000270831
-  gene_symbol: ' NF1P1'
-collision_symbol: NF1HHS

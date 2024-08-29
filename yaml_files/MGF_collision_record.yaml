@@ -1,0 +1,22 @@
+collision_symbol: MGF
+IGF1:
+  ENSG_ID: [ENSG00000017427]
+  source: [NCBI Info]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [3479.0]
+  OMIM_ID: ['147440']
+  UniProt_ID: [P05019]
+KITLG:
+  ENSG_ID: [ENSG00000049130]
+  source: [NCBI Info]
+  Chromosome: [12q21.32]
+  NCBI Gene ID: [4254.0]
+  OMIM_ID: ['184745']
+  UniProt_ID: [P21583]
+STAT5A:
+  ENSG_ID: [ENSG00000126561]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [6776.0]
+  OMIM_ID: ['601511']
+  UniProt_ID: [P42229]

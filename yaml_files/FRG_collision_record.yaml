@@ -1,0 +1,15 @@
+collision_symbol: FRG
+FARP2:
+  ENSG_ID: [ENSG00000006607]
+  source: [ENSG]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [9855.0]
+  OMIM_ID: ['617586']
+  UniProt_ID: [O94887]
+FOLR3:
+  ENSG_ID: [ENSG00000110203]
+  source: [ENSG]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [2352.0]
+  OMIM_ID: ['602469']
+  UniProt_ID: [P41439]

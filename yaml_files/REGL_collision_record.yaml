@@ -1,0 +1,15 @@
+collision_symbol: REGL
+REG1B:
+  ENSG_ID: [ENSG00000172023]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p12]
+  NCBI Gene ID: [5968.0]
+  OMIM_ID: ['167771']
+  UniProt_ID: [P48304]
+REG1CP:
+  ENSG_ID: [.nan, ENSG00000204787]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 2p12]
+  NCBI Gene ID: [.nan, 5969.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

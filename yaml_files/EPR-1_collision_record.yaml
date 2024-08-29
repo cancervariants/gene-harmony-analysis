@@ -1,0 +1,22 @@
+collision_symbol: EPR-1
+BIRC5:
+  ENSG_ID: [ENSG00000089685]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [332.0]
+  OMIM_ID: ['603352']
+  UniProt_ID: [O15392]
+ELF3:
+  ENSG_ID: [ENSG00000163435]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [1999.0]
+  OMIM_ID: ['602191']
+  UniProt_ID: [P78545]
+EPR1:
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [17q25]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

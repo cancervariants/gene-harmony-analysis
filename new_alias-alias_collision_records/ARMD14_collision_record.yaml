@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000243649
-  gene_symbol: CFB
-- ensg_id: ENSG00000166278
-  gene_symbol: ' C2'
-collision_symbol: ARMD14

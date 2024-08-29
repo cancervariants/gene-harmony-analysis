@@ -1,0 +1,15 @@
+collision_symbol: PPH3
+CAV1:
+  ENSG_ID: [ENSG00000105974]
+  source: [NCBI Info]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [857.0]
+  OMIM_ID: ['601047']
+  UniProt_ID: [Q03135]
+PPP4C:
+  ENSG_ID: [ENSG00000149923]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [5531.0]
+  OMIM_ID: ['602035']
+  UniProt_ID: [P60510]

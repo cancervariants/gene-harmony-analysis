@@ -1,0 +1,15 @@
+collision_symbol: MOP3
+BMAL1:
+  ENSG_ID: [ENSG00000133794]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [406.0]
+  OMIM_ID: ['602550']
+  UniProt_ID: [O00327]
+SBNO1:
+  ENSG_ID: [ENSG00000139697]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [55206.0]
+  OMIM_ID: ['614274']
+  UniProt_ID: [A3KN83]

@@ -1,0 +1,15 @@
+collision_symbol: p67
+CD33:
+  ENSG_ID: [ENSG00000105383]
+  source: [HGNC]
+  Chromosome: [19q13.41]
+  NCBI Gene ID: [945.0]
+  OMIM_ID: ['159590']
+  UniProt_ID: [P20138]
+METAP2:
+  ENSG_ID: [ENSG00000111142]
+  source: [HGNC]
+  Chromosome: [12q22]
+  NCBI Gene ID: [10988.0]
+  OMIM_ID: ['601870']
+  UniProt_ID: [P50579]

@@ -1,0 +1,15 @@
+collision_symbol: lnc
+SCARNA10:
+  ENSG_ID: [ENSG00000239002]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [692148.0]
+  OMIM_ID: ['615639']
+  UniProt_ID: [.nan]
+TMC6:
+  ENSG_ID: [ENSG00000141524]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [11322.0]
+  OMIM_ID: ['605828']
+  UniProt_ID: [Q7Z403]

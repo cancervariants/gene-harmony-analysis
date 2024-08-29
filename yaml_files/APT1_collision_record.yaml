@@ -1,0 +1,22 @@
+collision_symbol: APT1
+FAS:
+  ENSG_ID: [ENSG00000026103]
+  source: [NCBI Info]
+  Chromosome: [10q23.31]
+  NCBI Gene ID: [355.0]
+  OMIM_ID: ['134637']
+  UniProt_ID: [P25445]
+LYPLA1:
+  ENSG_ID: [ENSG00000120992]
+  source: [NCBI Info]
+  Chromosome: [8q11.23]
+  NCBI Gene ID: [10434.0]
+  OMIM_ID: ['605599']
+  UniProt_ID: [O75608]
+TAP1:
+  ENSG_ID: [ENSG00000168394]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [6890.0]
+  OMIM_ID: ['170260']
+  UniProt_ID: [Q03518]

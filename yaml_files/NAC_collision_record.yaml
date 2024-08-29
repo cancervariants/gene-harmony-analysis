@@ -1,0 +1,15 @@
+collision_symbol: NAC
+NLRP1:
+  ENSG_ID: [ENSG00000091592]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p13]
+  NCBI Gene ID: [22861.0]
+  OMIM_ID: ['606636']
+  UniProt_ID: [Q9C000]
+XK:
+  ENSG_ID: [ENSG00000047597]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp21.1]
+  NCBI Gene ID: [7504.0]
+  OMIM_ID: ['314850']
+  UniProt_ID: [P51811]

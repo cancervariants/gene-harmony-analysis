@@ -1,0 +1,15 @@
+collision_symbol: EBS3
+DST:
+  ENSG_ID: [ENSG00000151914]
+  source: [NCBI Info]
+  Chromosome: [6p12.1]
+  NCBI Gene ID: [667.0]
+  OMIM_ID: ['113810']
+  UniProt_ID: [Q03001]
+KRT14:
+  ENSG_ID: [ENSG00000186847]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3861.0]
+  OMIM_ID: ['148066']
+  UniProt_ID: [P02533]

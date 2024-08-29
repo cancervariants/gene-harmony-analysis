@@ -1,0 +1,15 @@
+collision_symbol: FMR1
+FMR1-IT1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FRAXA:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xq27.3]
+  NCBI Gene ID: [108684022.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

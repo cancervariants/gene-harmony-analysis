@@ -1,0 +1,22 @@
+collision_symbol: KMS
+ANOS1:
+  ENSG_ID: [ENSG00000011201]
+  source: [NCBI Info]
+  Chromosome: [Xp22.31]
+  NCBI Gene ID: [3730.0]
+  OMIM_ID: ['300836']
+  UniProt_ID: [P23352]
+KMT2D:
+  ENSG_ID: [ENSG00000167548]
+  source: [NCBI Info]
+  Chromosome: [12q13.12]
+  NCBI Gene ID: [8085.0]
+  OMIM_ID: ['602113']
+  UniProt_ID: [O14686]
+MKKS:
+  ENSG_ID: [ENSG00000125863]
+  source: [NCBI Info]
+  Chromosome: [20p12.2]
+  NCBI Gene ID: [8195.0]
+  OMIM_ID: ['604896']
+  UniProt_ID: [Q9NPJ1]

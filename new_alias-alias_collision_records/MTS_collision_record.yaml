@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: MLRL
-- ensg_id: ENSG00000126953
-  gene_symbol: ' TIMM8A'
-collision_symbol: MTS

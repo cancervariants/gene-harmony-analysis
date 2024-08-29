@@ -1,0 +1,15 @@
+collision_symbol: PRH
+HHEX:
+  ENSG_ID: [ENSG00000152804]
+  source: [NCBI Info]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [3087.0]
+  OMIM_ID: ['604420']
+  UniProt_ID: [Q03014]
+PRLH:
+  ENSG_ID: [ENSG00000071677]
+  source: [NCBI Info]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [51052.0]
+  OMIM_ID: ['602663']
+  UniProt_ID: [P81277]

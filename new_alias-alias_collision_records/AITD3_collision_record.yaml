@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000066827
-  gene_symbol: ZFAT
-- ensg_id: ENSG00000042832
-  gene_symbol: ' TG'
-collision_symbol: AITD3

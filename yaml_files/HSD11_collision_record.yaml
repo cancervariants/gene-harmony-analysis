@@ -1,0 +1,15 @@
+collision_symbol: HSD11
+HSD11B1:
+  ENSG_ID: [ENSG00000117594]
+  source: [NCBI Info]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [3290.0]
+  OMIM_ID: ['600713']
+  UniProt_ID: [P28845]
+KNSTRN:
+  ENSG_ID: [ENSG00000128944]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [90417.0]
+  OMIM_ID: ['614718']
+  UniProt_ID: [Q9Y448]

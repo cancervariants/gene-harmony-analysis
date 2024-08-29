@@ -1,0 +1,15 @@
+collision_symbol: HM1
+CHRM1:
+  ENSG_ID: [ENSG00000168539]
+  source: [NCBI Info]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [1128.0]
+  OMIM_ID: ['118510']
+  UniProt_ID: [P11229]
+SNRNP35:
+  ENSG_ID: [ENSG00000184209]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [11066.0]
+  OMIM_ID: ['619631']
+  UniProt_ID: [Q16560]

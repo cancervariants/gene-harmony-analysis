@@ -1,0 +1,15 @@
+collision_symbol: EIF-2A
+EIF2A:
+  ENSG_ID: [ENSG00000144895]
+  source: [NCBI Info]
+  Chromosome: [3q25.1]
+  NCBI Gene ID: [83939.0]
+  OMIM_ID: ['609234']
+  UniProt_ID: [Q9BY44]
+EIF2S1:
+  ENSG_ID: [ENSG00000134001]
+  source: [NCBI Info]
+  Chromosome: [14q23.3]
+  NCBI Gene ID: [1965.0]
+  OMIM_ID: ['603907']
+  UniProt_ID: [P05198]

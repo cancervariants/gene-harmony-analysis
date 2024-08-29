@@ -1,0 +1,15 @@
+collision_symbol: p21
+H3P16:
+  ENSG_ID: [ENSG00000178458, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [4q31.1, .nan]
+  NCBI Gene ID: [644914.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TCEAL1:
+  ENSG_ID: [ENSG00000172465]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq22.2]
+  NCBI Gene ID: [9338.0]
+  OMIM_ID: ['300237']
+  UniProt_ID: [Q15170]

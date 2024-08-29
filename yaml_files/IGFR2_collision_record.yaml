@@ -1,0 +1,22 @@
+collision_symbol: IGFR2
+FCGR2A:
+  ENSG_ID: [ENSG00000143226]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [2212.0]
+  OMIM_ID: ['146790']
+  UniProt_ID: [P12318]
+FCGR2B:
+  ENSG_ID: [ENSG00000072694]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [2213.0]
+  OMIM_ID: ['604590']
+  UniProt_ID: [P31994]
+FCGR2C:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

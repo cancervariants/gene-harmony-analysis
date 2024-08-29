@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000064651
-  gene_symbol: SLC12A2
-- ensg_id: ENSG00000074803
-  gene_symbol: ' SLC12A1'
-collision_symbol: BSC

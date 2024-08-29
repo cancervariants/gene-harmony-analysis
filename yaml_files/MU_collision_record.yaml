@@ -1,0 +1,29 @@
+collision_symbol: MU
+BLOC1S5:
+  ENSG_ID: [ENSG00000188428]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p24.3]
+  NCBI Gene ID: [63915.0]
+  OMIM_ID: ['607289']
+  UniProt_ID: [Q8TDH9]
+GSTM1:
+  ENSG_ID: [ENSG00000134184]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [2944.0]
+  OMIM_ID: ['138350']
+  UniProt_ID: [P09488]
+IGHM:
+  ENSG_ID: [ENSG00000211899]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [3507.0]
+  OMIM_ID: ['147020']
+  UniProt_ID: [P01871]
+PSMA2:
+  ENSG_ID: [ENSG00000106588]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [5683.0]
+  OMIM_ID: ['176842']
+  UniProt_ID: [P25787]

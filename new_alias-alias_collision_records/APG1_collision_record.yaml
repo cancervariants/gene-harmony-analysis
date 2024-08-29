@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164070
-  gene_symbol: HSPA4L
-- ensg_id: ENSG00000112414
-  gene_symbol: ' ADGRG6'
-collision_symbol: APG1

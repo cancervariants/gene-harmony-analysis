@@ -1,0 +1,15 @@
+collision_symbol: FAME3
+COL6A4P1:
+  ENSG_ID: [ENSG00000291281]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MARCHF6:
+  ENSG_ID: [ENSG00000145495]
+  source: [NCBI Info]
+  Chromosome: [5p15.2]
+  NCBI Gene ID: [10299.0]
+  OMIM_ID: ['613297']
+  UniProt_ID: [O60337]

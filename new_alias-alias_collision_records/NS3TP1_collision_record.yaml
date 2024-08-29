@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000286053
-  gene_symbol: ASDURF
-- ensg_id: ENSG00000138381
-  gene_symbol: ' ASNSD1'
-collision_symbol: NS3TP1

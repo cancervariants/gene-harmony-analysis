@@ -1,0 +1,15 @@
+collision_symbol: KSP37
+FGFBP2:
+  ENSG_ID: [ENSG00000137441]
+  source: [NCBI Info]
+  Chromosome: [4p15.32]
+  NCBI Gene ID: [83888.0]
+  OMIM_ID: ['607713']
+  UniProt_ID: [Q9BYJ0]
+TMEM72:
+  ENSG_ID: [ENSG00000187783]
+  source: [NCBI Info]
+  Chromosome: [10q11.21]
+  NCBI Gene ID: [643236.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0PK05]

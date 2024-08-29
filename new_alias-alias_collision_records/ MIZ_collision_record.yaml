@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000078043
-  gene_symbol: PIAS2
-- ensg_id: ENSG00000108175
-  gene_symbol: ' ZMIZ1'
-collision_symbol: ' MIZ'

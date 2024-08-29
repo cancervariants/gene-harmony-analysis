@@ -1,0 +1,15 @@
+collision_symbol: HRAS1
+HRAS:
+  ENSG_ID: [ENSG00000174775]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [3265.0]
+  OMIM_ID: ['190020']
+  UniProt_ID: [P01112]
+RASSF7:
+  ENSG_ID: [ENSG00000099849]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [8045.0]
+  OMIM_ID: ['143023']
+  UniProt_ID: [Q02833]

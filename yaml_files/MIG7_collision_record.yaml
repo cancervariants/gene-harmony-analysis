@@ -1,0 +1,15 @@
+collision_symbol: MIG7
+BCAR3:
+  ENSG_ID: [ENSG00000137936]
+  source: [NCBI Info]
+  Chromosome: [1p22.1]
+  NCBI Gene ID: [8412.0]
+  OMIM_ID: ['604704']
+  UniProt_ID: [O75815]
+TOX4:
+  ENSG_ID: [ENSG00000092203]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [9878.0]
+  OMIM_ID: ['614032']
+  UniProt_ID: [O94842]

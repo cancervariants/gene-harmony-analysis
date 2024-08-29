@@ -1,0 +1,22 @@
+collision_symbol: MIF
+AMH:
+  ENSG_ID: [ENSG00000104899]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [268.0]
+  OMIM_ID: ['600957']
+  UniProt_ID: [P03971]
+S100A8:
+  ENSG_ID: [ENSG00000143546]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6279.0]
+  OMIM_ID: ['123885']
+  UniProt_ID: [P05109]
+S100A9:
+  ENSG_ID: [ENSG00000163220]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6280.0]
+  OMIM_ID: ['123886']
+  UniProt_ID: [P06702]

@@ -1,0 +1,15 @@
+collision_symbol: APC2
+ANAPC2:
+  ENSG_ID: [ENSG00000176248]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [29882.0]
+  OMIM_ID: ['606946']
+  UniProt_ID: [Q9UJX6]
+SLC25A23:
+  ENSG_ID: [ENSG00000125648]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [79085.0]
+  OMIM_ID: ['608746']
+  UniProt_ID: [Q9BV35]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000006534
-  gene_symbol: ALDH3B1
-- ensg_id: ENSG00000143149
-  gene_symbol: ' ALDH9A1'
-collision_symbol: ALDH7

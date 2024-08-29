@@ -1,0 +1,15 @@
+collision_symbol: hBD-8
+DEFB108A:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DEFB108B:
+  ENSG_ID: [ENSG00000184276]
+  source: [NCBI Info]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [245911.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NET1]

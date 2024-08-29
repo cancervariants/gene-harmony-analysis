@@ -1,0 +1,36 @@
+collision_symbol: HSS
+GFER:
+  ENSG_ID: [ENSG00000127554]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [2671.0]
+  OMIM_ID: ['600924']
+  UniProt_ID: [P55789]
+GJA1:
+  ENSG_ID: [ENSG00000152661]
+  source: [NCBI Info]
+  Chromosome: [6q22.31]
+  NCBI Gene ID: [2697.0]
+  OMIM_ID: ['121014']
+  UniProt_ID: [P17302]
+PANK2:
+  ENSG_ID: [ENSG00000125779]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20p13]
+  NCBI Gene ID: [80025.0]
+  OMIM_ID: ['606157']
+  UniProt_ID: [Q9BZ23]
+SGSH:
+  ENSG_ID: [ENSG00000181523]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [6448.0]
+  OMIM_ID: ['605270']
+  UniProt_ID: [P51688]
+SPAG9:
+  ENSG_ID: [ENSG00000008294]
+  source: [HGNC, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [9043.0]
+  OMIM_ID: ['605430']
+  UniProt_ID: [O60271]

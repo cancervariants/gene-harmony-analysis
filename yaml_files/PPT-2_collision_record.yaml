@@ -1,0 +1,15 @@
+collision_symbol: PPT-2
+PPT2:
+  ENSG_ID: [ENSG00000221988]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [9374.0]
+  OMIM_ID: ['603298']
+  UniProt_ID: [Q9UMR5]
+PPT2-EGFL8:
+  ENSG_ID: [ENSG00000258388]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [100532746.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

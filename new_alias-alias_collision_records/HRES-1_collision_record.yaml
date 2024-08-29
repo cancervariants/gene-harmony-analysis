@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000168118
-  gene_symbol: RAB4A
-- ensg_id: NAN
-  gene_symbol: ' HRES1'
-collision_symbol: HRES-1

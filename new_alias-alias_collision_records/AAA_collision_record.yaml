@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142192
-  gene_symbol: APP
-- ensg_id: ENSG00000094914
-  gene_symbol: ' AAAS'
-- ensg_id: NAN
-  gene_symbol: ' AAA1'
-collision_symbol: AAA

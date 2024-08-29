@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000175054
-  gene_symbol: ATR
-- ensg_id: ENSG00000104332
-  gene_symbol: ' SFRP1'
-collision_symbol: FRP1

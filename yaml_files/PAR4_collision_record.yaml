@@ -1,0 +1,22 @@
+collision_symbol: PAR4
+F2RL3:
+  ENSG_ID: [ENSG00000127533]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [9002.0]
+  OMIM_ID: ['602779']
+  UniProt_ID: [Q96RI0]
+PAWR:
+  ENSG_ID: [ENSG00000177425]
+  source: [NCBI Info]
+  Chromosome: [12q21.2]
+  NCBI Gene ID: [5074.0]
+  OMIM_ID: ['601936']
+  UniProt_ID: [Q96IZ0]
+PWAR4:
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [347745.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: HNT
+NTM:
+  ENSG_ID: [ENSG00000182667]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q25]
+  NCBI Gene ID: [50863.0]
+  OMIM_ID: ['607938']
+  UniProt_ID: [Q9P121]
+RREB1:
+  ENSG_ID: [ENSG00000124782]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p24.3]
+  NCBI Gene ID: [6239.0]
+  OMIM_ID: ['602209']
+  UniProt_ID: [Q92766]

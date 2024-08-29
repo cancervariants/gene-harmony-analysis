@@ -1,0 +1,15 @@
+collision_symbol: ARB2
+ADRB2:
+  ENSG_ID: [ENSG00000169252]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [154.0]
+  OMIM_ID: ['109690']
+  UniProt_ID: [P07550]
+ARRB2:
+  ENSG_ID: [ENSG00000141480]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [409.0]
+  OMIM_ID: ['107941']
+  UniProt_ID: [P32121]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139197
-  gene_symbol: PEX5
-- ensg_id: ENSG00000254093
-  gene_symbol: ' PINX1'
-collision_symbol: ' PXR1'

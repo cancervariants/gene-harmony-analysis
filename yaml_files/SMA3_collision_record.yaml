@@ -1,0 +1,22 @@
+collision_symbol: SMA3
+GUSBP14:
+  ENSG_ID: [ENSG00000253816, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.2, .nan]
+  NCBI Gene ID: [11039.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+GUSBP3:
+  ENSG_ID: [ENSG00000290560]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SMN1:
+  ENSG_ID: [ENSG00000172062]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [6606.0]
+  OMIM_ID: ['600354']
+  UniProt_ID: [Q16637]

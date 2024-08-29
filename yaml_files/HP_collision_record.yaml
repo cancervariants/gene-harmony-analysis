@@ -1,0 +1,15 @@
+collision_symbol: HP
+DLC1:
+  ENSG_ID: [ENSG00000164741]
+  source: [NCBI Info]
+  Chromosome: [8p22]
+  NCBI Gene ID: [10395.0]
+  OMIM_ID: ['604258']
+  UniProt_ID: [Q96QB1]
+HPR:
+  ENSG_ID: [ENSG00000261701]
+  source: [NCBI Info]
+  Chromosome: [16q22.2]
+  NCBI Gene ID: [3250.0]
+  OMIM_ID: ['140210']
+  UniProt_ID: [P00739]

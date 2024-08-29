@@ -1,0 +1,15 @@
+collision_symbol: AMP
+APRT:
+  ENSG_ID: [ENSG00000198931]
+  source: [NCBI Info]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [353.0]
+  OMIM_ID: ['102600']
+  UniProt_ID: [P07741]
+MFAP1:
+  ENSG_ID: [ENSG00000140259]
+  source: [NCBI Info]
+  Chromosome: [15q15.3]
+  NCBI Gene ID: [4236.0]
+  OMIM_ID: ['600215']
+  UniProt_ID: [P55081]

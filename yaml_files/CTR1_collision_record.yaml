@@ -1,0 +1,22 @@
+collision_symbol: CTR1
+CALCR:
+  ENSG_ID: [ENSG00000004948]
+  source: [NCBI Info]
+  Chromosome: [7q21.3]
+  NCBI Gene ID: [799.0]
+  OMIM_ID: ['114131']
+  UniProt_ID: [P30988]
+CCDC174:
+  ENSG_ID: [ENSG00000154781]
+  source: [ENSG]
+  Chromosome: [3p25.1]
+  NCBI Gene ID: [51244.0]
+  OMIM_ID: ['616735']
+  UniProt_ID: [Q6PII3]
+SLC31A1:
+  ENSG_ID: [ENSG00000136868]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q32]
+  NCBI Gene ID: [1317.0]
+  OMIM_ID: ['603085']
+  UniProt_ID: [O15431]

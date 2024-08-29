@@ -1,0 +1,36 @@
+collision_symbol: FKBP12
+FKBP1A:
+  ENSG_ID: [ENSG00000088832]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [2280.0]
+  OMIM_ID: ['186945']
+  UniProt_ID: [P62942]
+FKBP1AP1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FKBP1AP2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FKBP1AP3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+FKBP1AP4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

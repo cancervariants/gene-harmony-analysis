@@ -1,0 +1,15 @@
+collision_symbol: XAP4
+POLR2E:
+  ENSG_ID: [ENSG00000099817]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [5434.0]
+  OMIM_ID: ['180664']
+  UniProt_ID: [P19388]
+RBCK1:
+  ENSG_ID: [ENSG00000125826]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20p13]
+  NCBI Gene ID: [10616.0]
+  OMIM_ID: ['610924']
+  UniProt_ID: [Q9BYM8]

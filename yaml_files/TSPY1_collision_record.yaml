@@ -1,0 +1,15 @@
+collision_symbol: TSPY1
+TSPY10:
+  ENSG_ID: [ENSG00000236424]
+  source: [NCBI Info]
+  Chromosome: [Yp11.2]
+  NCBI Gene ID: [100289087.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CW01]
+TSPY3:
+  ENSG_ID: [ENSG00000228927]
+  source: [NCBI Info]
+  Chromosome: [Yp11.2]
+  NCBI Gene ID: [728137.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CV98]

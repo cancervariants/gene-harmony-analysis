@@ -1,0 +1,22 @@
+collision_symbol: POTE-15
+POTEB:
+  ENSG_ID: [ENSG00000233917]
+  source: [NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [100996331.0]
+  OMIM_ID: ['608912']
+  UniProt_ID: [A0A0A6YYL3]
+POTEB2:
+  ENSG_ID: [ENSG00000230031]
+  source: [NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [100287399.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [H3BUK9]
+POTEB3:
+  ENSG_ID: [ENSG00000278522]
+  source: [NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [102724631.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0JP26]

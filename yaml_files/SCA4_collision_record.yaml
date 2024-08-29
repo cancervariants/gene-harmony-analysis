@@ -1,0 +1,15 @@
+collision_symbol: SCA4
+PLEKHG4:
+  ENSG_ID: [ENSG00000196155]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [25894.0]
+  OMIM_ID: ['609526']
+  UniProt_ID: [Q58EX7]
+ZFHX3:
+  ENSG_ID: [ENSG00000140836]
+  source: [NCBI Info]
+  Chromosome: [16q22.2-q22.3]
+  NCBI Gene ID: [463.0]
+  OMIM_ID: ['104155']
+  UniProt_ID: [Q15911]

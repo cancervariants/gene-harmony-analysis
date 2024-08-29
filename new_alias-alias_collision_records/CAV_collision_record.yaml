@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000105974
-  gene_symbol: CAV1
-- ensg_id: ENSG00000105971
-  gene_symbol: ' CAV2'
-collision_symbol: CAV

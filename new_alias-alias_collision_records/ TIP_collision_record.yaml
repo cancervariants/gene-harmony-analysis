@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000123600
-  gene_symbol: METTL8
-- ensg_id: ENSG00000129636
-  gene_symbol: ' ITFG1'
-collision_symbol: ' TIP'

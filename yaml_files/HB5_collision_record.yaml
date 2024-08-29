@@ -1,0 +1,15 @@
+collision_symbol: HB5
+DUSP8:
+  ENSG_ID: [ENSG00000184545]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [1850.0]
+  OMIM_ID: ['602038']
+  UniProt_ID: [Q13202]
+KRT85:
+  ENSG_ID: [ENSG00000135443]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3891.0]
+  OMIM_ID: ['602767']
+  UniProt_ID: [P78386]

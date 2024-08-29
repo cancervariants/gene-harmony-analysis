@@ -1,0 +1,15 @@
+collision_symbol: AG2
+AGR2:
+  ENSG_ID: [ENSG00000106541]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p21.1]
+  NCBI Gene ID: [10551.0]
+  OMIM_ID: ['606358']
+  UniProt_ID: [O95994]
+C11orf96:
+  ENSG_ID: [ENSG00000187479]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [387763.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q7Z7L8]

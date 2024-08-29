@@ -1,0 +1,15 @@
+collision_symbol: HLA-DR1B
+HLA-DRB1:
+  ENSG_ID: [ENSG00000196126]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [3123.0]
+  OMIM_ID: ['142857']
+  UniProt_ID: [P01911]
+HLA-DRB3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

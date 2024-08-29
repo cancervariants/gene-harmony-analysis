@@ -1,0 +1,22 @@
+collision_symbol: RN5-8S1
+RNA5-8S5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22p12 not on reference assembly]
+  NCBI Gene ID: [110255170.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA5-8SN4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22 unplaced]
+  NCBI Gene ID: [109864274.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA5-8SN5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [unplaced]
+  NCBI Gene ID: [100008587.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

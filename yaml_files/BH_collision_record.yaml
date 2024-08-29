@@ -1,0 +1,15 @@
+collision_symbol: BH
+BLMH:
+  ENSG_ID: [ENSG00000108578]
+  source: [NCBI Info]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [642.0]
+  OMIM_ID: ['602403']
+  UniProt_ID: [Q13867]
+EML1:
+  ENSG_ID: [ENSG00000066629]
+  source: [NCBI Info]
+  Chromosome: [14q32.2]
+  NCBI Gene ID: [2009.0]
+  OMIM_ID: ['602033']
+  UniProt_ID: [O00423]

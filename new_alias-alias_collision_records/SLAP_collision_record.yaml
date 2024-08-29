@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000163681
-  gene_symbol: SLMAP
-- ensg_id: ENSG00000155926
-  gene_symbol: ' SLA'
-- ensg_id: ENSG00000198780
-  gene_symbol: ' FAM169A'
-collision_symbol: SLAP

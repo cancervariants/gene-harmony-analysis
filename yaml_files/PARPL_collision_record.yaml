@@ -1,0 +1,15 @@
+collision_symbol: PARPL
+PARP4:
+  ENSG_ID: [ENSG00000102699]
+  source: [NCBI Info]
+  Chromosome: [13q12.12]
+  NCBI Gene ID: [143.0]
+  OMIM_ID: ['607519']
+  UniProt_ID: [Q9UKK3]
+TNKS:
+  ENSG_ID: [ENSG00000173273]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [8658.0]
+  OMIM_ID: ['603303']
+  UniProt_ID: [O95271]

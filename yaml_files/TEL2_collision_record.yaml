@@ -1,0 +1,15 @@
+collision_symbol: TEL2
+ETV7:
+  ENSG_ID: [ENSG00000010030]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [51513.0]
+  OMIM_ID: ['605255']
+  UniProt_ID: [Q9Y603]
+TELO2:
+  ENSG_ID: [ENSG00000100726]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [9894.0]
+  OMIM_ID: ['611140']
+  UniProt_ID: [Q9Y4R8]

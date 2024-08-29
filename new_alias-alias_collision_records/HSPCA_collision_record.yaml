@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: HSP90AA2P
-- ensg_id: ENSG00000080824
-  gene_symbol: ' HSP90AA1'
-collision_symbol: HSPCA

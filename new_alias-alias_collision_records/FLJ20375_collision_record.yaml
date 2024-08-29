@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000188352
-  gene_symbol: FOCAD
-- ensg_id: ENSG00000183354
-  gene_symbol: ' BRD10'
-collision_symbol: FLJ20375

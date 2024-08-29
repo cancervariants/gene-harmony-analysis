@@ -1,0 +1,15 @@
+collision_symbol: mu2
+AP1M2:
+  ENSG_ID: [ENSG00000129354]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [10053.0]
+  OMIM_ID: ['607309']
+  UniProt_ID: [Q9Y6Q5]
+AP2M1:
+  ENSG_ID: [ENSG00000161203]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3q27.1]
+  NCBI Gene ID: [1173.0]
+  OMIM_ID: ['601024']
+  UniProt_ID: [Q96CW1]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166532
-  gene_symbol: RIMKLB
-- ensg_id: ENSG00000177181
-  gene_symbol: ' RIMKLA'
-collision_symbol: NAAGS

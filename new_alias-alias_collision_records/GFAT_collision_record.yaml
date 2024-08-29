@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198380
-  gene_symbol: GFPT1
-- ensg_id: ENSG00000131459
-  gene_symbol: ' GFPT2'
-collision_symbol: GFAT

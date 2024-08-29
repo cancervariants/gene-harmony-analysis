@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000134571
-  gene_symbol: MYBPC3
-- ensg_id: ENSG00000167996
-  gene_symbol: ' FTH1'
-- ensg_id: ENSG00000130164
-  gene_symbol: ' LDLR'
-collision_symbol: FHC

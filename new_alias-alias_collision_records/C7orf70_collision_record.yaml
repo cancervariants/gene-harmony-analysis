@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000286075
-  gene_symbol: SMIM10L3
-- ensg_id: ENSG00000178397
-  gene_symbol: ' FAM220A'
-collision_symbol: C7orf70

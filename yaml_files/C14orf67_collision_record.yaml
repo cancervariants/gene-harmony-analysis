@@ -1,0 +1,15 @@
+collision_symbol: C14orf67
+DHRS4-AS1:
+  ENSG_ID: [ENSG00000215256]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [55449.0]
+  OMIM_ID: ['616925']
+  UniProt_ID: [Q9P1J3]
+WDR25:
+  ENSG_ID: [ENSG00000176473]
+  source: [NCBI Info]
+  Chromosome: [14q32.2]
+  NCBI Gene ID: [79446.0]
+  OMIM_ID: ['618059']
+  UniProt_ID: [Q64LD2]

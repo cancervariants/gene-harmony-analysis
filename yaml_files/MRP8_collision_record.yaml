@@ -1,0 +1,22 @@
+collision_symbol: MRP8
+ABCC11:
+  ENSG_ID: [ENSG00000121270]
+  source: [NCBI Info]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [85320.0]
+  OMIM_ID: ['607040']
+  UniProt_ID: [Q96J66]
+ABCC8:
+  ENSG_ID: [ENSG00000006071]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [6833.0]
+  OMIM_ID: ['600509']
+  UniProt_ID: [Q09428]
+S100A8:
+  ENSG_ID: [ENSG00000143546]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6279.0]
+  OMIM_ID: ['123885']
+  UniProt_ID: [P05109]

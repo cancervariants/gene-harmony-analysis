@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000158457
-  gene_symbol: TSPAN33
-- ensg_id: ENSG00000102109
-  gene_symbol: ' PCSK1N'
-- ensg_id: ENSG00000080608
-  gene_symbol: ' PUM3'
-collision_symbol: PEN

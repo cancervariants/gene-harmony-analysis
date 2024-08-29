@@ -1,0 +1,15 @@
+collision_symbol: NPHL2
+CLCN5:
+  ENSG_ID: [ENSG00000171365]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [1184.0]
+  OMIM_ID: ['300008']
+  UniProt_ID: [P51795]
+OCRL:
+  ENSG_ID: [ENSG00000122126]
+  source: [NCBI Info]
+  Chromosome: [Xq26.1]
+  NCBI Gene ID: [4952.0]
+  OMIM_ID: ['300535']
+  UniProt_ID: [Q01968]

@@ -1,0 +1,15 @@
+collision_symbol: CARMEN
+BCL10:
+  ENSG_ID: [ENSG00000142867]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p22.3]
+  NCBI Gene ID: [8915.0]
+  OMIM_ID: ['603517']
+  UniProt_ID: [O95999]
+CARMN:
+  ENSG_ID: [ENSG00000249669, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q32, .nan]
+  NCBI Gene ID: [728264.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

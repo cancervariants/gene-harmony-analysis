@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000116918
-  gene_symbol: TSNAX
-- ensg_id: ENSG00000211460
-  gene_symbol: ' TSN'
-collision_symbol: C3PO

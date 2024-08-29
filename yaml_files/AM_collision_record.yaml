@@ -1,0 +1,15 @@
+collision_symbol: AM
+ADM:
+  ENSG_ID: [ENSG00000148926]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [133.0]
+  OMIM_ID: ['103275']
+  UniProt_ID: [P35318]
+ATF7IP:
+  ENSG_ID: [ENSG00000171681]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p13.1]
+  NCBI Gene ID: [55729.0]
+  OMIM_ID: ['613644']
+  UniProt_ID: [Q6VMQ6]

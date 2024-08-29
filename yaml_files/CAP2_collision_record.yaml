@@ -1,0 +1,15 @@
+collision_symbol: CAP2
+SERPINB8:
+  ENSG_ID: [ENSG00000166401]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q22.1]
+  NCBI Gene ID: [5271.0]
+  OMIM_ID: ['601697']
+  UniProt_ID: [P50452]
+TMPRSS4:
+  ENSG_ID: [ENSG00000137648]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [56649.0]
+  OMIM_ID: ['606565']
+  UniProt_ID: [Q9NRS4]

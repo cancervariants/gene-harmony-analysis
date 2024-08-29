@@ -1,0 +1,15 @@
+collision_symbol: VPS55
+LEPROT:
+  ENSG_ID: [ENSG00000213625]
+  source: [ENSG]
+  Chromosome: [1p31.3]
+  NCBI Gene ID: [54741.0]
+  OMIM_ID: ['613461']
+  UniProt_ID: [O15243]
+LEPROTL1:
+  ENSG_ID: [ENSG00000104660]
+  source: [ENSG]
+  Chromosome: [8p12]
+  NCBI Gene ID: [23484.0]
+  OMIM_ID: ['607338']
+  UniProt_ID: [O95214]

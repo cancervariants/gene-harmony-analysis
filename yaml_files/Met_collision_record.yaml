@@ -1,0 +1,15 @@
+collision_symbol: Met
+RNMT:
+  ENSG_ID: [ENSG00000101654]
+  source: [NCBI Info]
+  Chromosome: [18p11.21]
+  NCBI Gene ID: [8731.0]
+  OMIM_ID: ['603514']
+  UniProt_ID: [O43148]
+SLTM:
+  ENSG_ID: [ENSG00000137776]
+  source: [NCBI Info]
+  Chromosome: [15q22.1]
+  NCBI Gene ID: [79811.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NWH9]

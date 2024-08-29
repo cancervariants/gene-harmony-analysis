@@ -1,0 +1,15 @@
+collision_symbol: SP17
+CCDC54:
+  ENSG_ID: [ENSG00000138483]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q13.12]
+  NCBI Gene ID: [84692.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NEL0]
+SPA17:
+  ENSG_ID: [ENSG00000064199]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [53340.0]
+  OMIM_ID: ['608621']
+  UniProt_ID: [Q15506]

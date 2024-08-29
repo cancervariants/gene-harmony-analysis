@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000186141
-  gene_symbol: POLR3C
-- ensg_id: ENSG00000021852
-  gene_symbol: ' C8B'
-collision_symbol: C82

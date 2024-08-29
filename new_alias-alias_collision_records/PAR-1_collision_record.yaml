@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000181104
-  gene_symbol: F2R
-- ensg_id: ENSG00000072518
-  gene_symbol: ' MARK2'
-- ensg_id: ENSG00000279050
-  gene_symbol: ' PWAR1'
-collision_symbol: PAR-1

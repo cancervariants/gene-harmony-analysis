@@ -1,0 +1,15 @@
+collision_symbol: GRINL1A
+GCOM1:
+  ENSG_ID: [ENSG00000137878]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [145781.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+POLR2M:
+  ENSG_ID: [ENSG00000255529]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [81488.0]
+  OMIM_ID: ['606485']
+  UniProt_ID: ['P0CAP2, Q6EEV4']

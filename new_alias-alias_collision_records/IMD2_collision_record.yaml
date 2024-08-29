@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000015285
-  gene_symbol: WAS
-- ensg_id: ENSG00000158195
-  gene_symbol: ' WASF2'
-collision_symbol: IMD2

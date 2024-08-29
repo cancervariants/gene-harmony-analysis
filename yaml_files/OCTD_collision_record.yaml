@@ -1,0 +1,15 @@
+collision_symbol: OCTD
+FBN1:
+  ENSG_ID: [ENSG00000166147]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [2200.0]
+  OMIM_ID: ['134797']
+  UniProt_ID: [P35555]
+OTC:
+  ENSG_ID: [ENSG00000036473]
+  source: [NCBI Info]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [5009.0]
+  OMIM_ID: ['300461']
+  UniProt_ID: [P00480]

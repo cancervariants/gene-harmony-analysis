@@ -1,0 +1,15 @@
+collision_symbol: SRBC
+CAVIN3:
+  ENSG_ID: [ENSG00000170955]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [112464.0]
+  OMIM_ID: ['618303']
+  UniProt_ID: [Q969G5]
+CD2:
+  ENSG_ID: [ENSG00000116824]
+  source: [NCBI Info]
+  Chromosome: [1p13.1]
+  NCBI Gene ID: [914.0]
+  OMIM_ID: ['186990']
+  UniProt_ID: [P06729]

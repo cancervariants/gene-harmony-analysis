@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000104671
-  gene_symbol: DCTN6
-- ensg_id: ENSG00000135903
-  gene_symbol: ' PAX3'
-collision_symbol: WS3

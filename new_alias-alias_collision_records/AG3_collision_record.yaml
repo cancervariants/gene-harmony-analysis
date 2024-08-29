@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000173467
-  gene_symbol: AGR3
-- ensg_id: ENSG00000266338
-  gene_symbol: ' NBPF15'
-collision_symbol: AG3

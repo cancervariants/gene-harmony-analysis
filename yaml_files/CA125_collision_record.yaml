@@ -1,0 +1,15 @@
+collision_symbol: CA125
+MUC16:
+  ENSG_ID: [ENSG00000181143]
+  source: [HGNC, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [94025.0]
+  OMIM_ID: ['606154']
+  UniProt_ID: [Q8WXI7]
+NBR1:
+  ENSG_ID: [ENSG00000188554]
+  source: [HGNC, ENSG]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [4077.0]
+  OMIM_ID: ['166945']
+  UniProt_ID: [Q14596]

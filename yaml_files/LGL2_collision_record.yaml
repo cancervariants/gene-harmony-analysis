@@ -1,0 +1,15 @@
+collision_symbol: LGL2
+IPO13:
+  ENSG_ID: [ENSG00000117408]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [9670.0]
+  OMIM_ID: ['610411']
+  UniProt_ID: [O94829]
+LLGL2:
+  ENSG_ID: [ENSG00000073350]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [3993.0]
+  OMIM_ID: ['618483']
+  UniProt_ID: [Q6P1M3]

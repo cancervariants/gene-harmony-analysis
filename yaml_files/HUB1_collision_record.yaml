@@ -1,0 +1,15 @@
+collision_symbol: HUB1
+UBL5:
+  ENSG_ID: [ENSG00000198258]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [59286.0]
+  OMIM_ID: ['606849']
+  UniProt_ID: [Q9BZL1]
+ZNF282:
+  ENSG_ID: [ENSG00000170265]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [8427.0]
+  OMIM_ID: ['603397']
+  UniProt_ID: [Q9UDV7]

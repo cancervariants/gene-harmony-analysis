@@ -1,0 +1,15 @@
+collision_symbol: OAT6
+SLC22A16:
+  ENSG_ID: [ENSG00000004809]
+  source: [ENSG]
+  Chromosome: [6q21]
+  NCBI Gene ID: [85413.0]
+  OMIM_ID: ['608276']
+  UniProt_ID: [Q86VW1]
+SLC22A20P:
+  ENSG_ID: [ENSG00000197847]
+  source: [ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [440044.0]
+  OMIM_ID: ['611696']
+  UniProt_ID: [A6NK97]

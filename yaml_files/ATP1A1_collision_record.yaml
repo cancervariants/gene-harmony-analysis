@@ -1,0 +1,15 @@
+collision_symbol: ATP1A1
+ATP1A3:
+  ENSG_ID: [ENSG00000105409]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [478.0]
+  OMIM_ID: ['182350']
+  UniProt_ID: [P13637]
+ATP1A4:
+  ENSG_ID: [ENSG00000132681]
+  source: [NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [480.0]
+  OMIM_ID: ['607321']
+  UniProt_ID: [Q13733]

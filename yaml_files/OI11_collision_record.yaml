@@ -1,0 +1,15 @@
+collision_symbol: OI11
+FKBP10:
+  ENSG_ID: [ENSG00000141756]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [60681.0]
+  OMIM_ID: ['607063']
+  UniProt_ID: [Q96AY3]
+SP7:
+  ENSG_ID: [ENSG00000170374]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [121340.0]
+  OMIM_ID: ['606633']
+  UniProt_ID: [Q8TDD2]

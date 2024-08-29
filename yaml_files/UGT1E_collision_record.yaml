@@ -1,0 +1,15 @@
+collision_symbol: UGT1E
+UGT1A5:
+  ENSG_ID: [ENSG00000288705]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54579.0]
+  OMIM_ID: ['606430']
+  UniProt_ID: [P35504]
+UGT1A6:
+  ENSG_ID: [ENSG00000167165]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54578.0]
+  OMIM_ID: ['606431']
+  UniProt_ID: [P19224]

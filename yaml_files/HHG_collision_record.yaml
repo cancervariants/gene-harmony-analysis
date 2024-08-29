@@ -1,0 +1,15 @@
+collision_symbol: HHG
+LHCGR:
+  ENSG_ID: [ENSG00000138039]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [3973.0]
+  OMIM_ID: ['152790']
+  UniProt_ID: [P22888]
+NR0B1:
+  ENSG_ID: [ENSG00000169297]
+  source: [NCBI Info]
+  Chromosome: [Xp21.2]
+  NCBI Gene ID: [190.0]
+  OMIM_ID: ['300473']
+  UniProt_ID: [P51843]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000174804
-  gene_symbol: FZD4
-- ensg_id: ENSG00000162337
-  gene_symbol: ' LRP5'
-collision_symbol: ' EVR1'

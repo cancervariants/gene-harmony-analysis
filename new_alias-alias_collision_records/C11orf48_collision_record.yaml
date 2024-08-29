@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000278615
-  gene_symbol: C11orf98
-- ensg_id: ENSG00000162194
-  gene_symbol: ' LBHD1'
-collision_symbol: C11ORF48

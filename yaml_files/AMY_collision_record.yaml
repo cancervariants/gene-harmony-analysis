@@ -1,0 +1,15 @@
+collision_symbol: AMY
+COL25A1:
+  ENSG_ID: [ENSG00000188517]
+  source: [NCBI Info]
+  Chromosome: [4q25]
+  NCBI Gene ID: [84570.0]
+  OMIM_ID: ['610004']
+  UniProt_ID: [Q9BXS0]
+OLFM1:
+  ENSG_ID: [ENSG00000130558]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [10439.0]
+  OMIM_ID: ['605366']
+  UniProt_ID: [Q99784]

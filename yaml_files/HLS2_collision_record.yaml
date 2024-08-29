@@ -1,0 +1,15 @@
+collision_symbol: HLS2
+KIF7:
+  ENSG_ID: [ENSG00000166813]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [374654.0]
+  OMIM_ID: ['611254']
+  UniProt_ID: [Q2M1P5]
+SERPIND1:
+  ENSG_ID: [ENSG00000099937]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [3053.0]
+  OMIM_ID: ['142360']
+  UniProt_ID: [P05546]

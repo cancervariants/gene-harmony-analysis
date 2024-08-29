@@ -1,0 +1,15 @@
+collision_symbol: CAST
+ERC2:
+  ENSG_ID: [ENSG00000187672]
+  source: [NCBI Info]
+  Chromosome: [3p14.3]
+  NCBI Gene ID: [26059.0]
+  OMIM_ID: ['617250']
+  UniProt_ID: [O15083]
+POLR1G:
+  ENSG_ID: [ENSG00000117877]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [10849.0]
+  OMIM_ID: ['107325']
+  UniProt_ID: [O15446]

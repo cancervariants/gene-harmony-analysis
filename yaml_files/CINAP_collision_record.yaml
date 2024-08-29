@@ -1,0 +1,15 @@
+collision_symbol: CINAP
+AK6:
+  ENSG_ID: [ENSG00000085231]
+  source: [NCBI Info]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [102157402.0]
+  OMIM_ID: ['619357']
+  UniProt_ID: [Q9Y3D8]
+TSPYL2:
+  ENSG_ID: [ENSG00000184205]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [64061.0]
+  OMIM_ID: ['300564']
+  UniProt_ID: [Q9H2G4]

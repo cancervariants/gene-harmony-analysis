@@ -1,0 +1,22 @@
+collision_symbol: RMP
+ABCA4:
+  ENSG_ID: [ENSG00000198691]
+  source: [NCBI Info]
+  Chromosome: [1p22.1]
+  NCBI Gene ID: [24.0]
+  OMIM_ID: ['601691']
+  UniProt_ID: [P78363]
+GNA12:
+  ENSG_ID: [ENSG00000146535]
+  source: [NCBI Info]
+  Chromosome: [7p22.3-p22.2]
+  NCBI Gene ID: [2768.0]
+  OMIM_ID: ['604394']
+  UniProt_ID: [Q03113]
+URI1:
+  ENSG_ID: [ENSG00000105176]
+  source: [NCBI Info]
+  Chromosome: [19q12]
+  NCBI Gene ID: [8725.0]
+  OMIM_ID: ['603494']
+  UniProt_ID: [O94763]

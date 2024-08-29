@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000180228
-  gene_symbol: PRKRA
-- ensg_id: ENSG00000122257
-  gene_symbol: ' RBBP6'
-collision_symbol: PACT

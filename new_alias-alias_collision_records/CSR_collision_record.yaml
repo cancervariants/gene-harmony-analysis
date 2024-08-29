@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: MORF4
-- ensg_id: ENSG00000168077
-  gene_symbol: ' SCARA3'
-collision_symbol: CSR

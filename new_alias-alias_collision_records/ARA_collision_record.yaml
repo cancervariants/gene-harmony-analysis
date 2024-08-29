@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000054598
-  gene_symbol: FOXC1
-- ensg_id: ENSG00000091262
-  gene_symbol: ' ABCC6'
-collision_symbol: ARA

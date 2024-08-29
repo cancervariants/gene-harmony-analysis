@@ -1,0 +1,15 @@
+collision_symbol: COX11P
+COX11:
+  ENSG_ID: [ENSG00000166260]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q22]
+  NCBI Gene ID: [1353.0]
+  OMIM_ID: ['603648']
+  UniProt_ID: [Q9Y6N1]
+COX11P1:
+  ENSG_ID: [.nan, ENSG00000231162]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 6p22.1]
+  NCBI Gene ID: [.nan, 140468.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: CTG26
+NCOA3:
+  ENSG_ID: [ENSG00000124151]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [8202.0]
+  OMIM_ID: ['601937']
+  UniProt_ID: [Q9Y6Q9]
+NCOR2:
+  ENSG_ID: [ENSG00000196498]
+  source: [NCBI Info]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [9612.0]
+  OMIM_ID: ['600848']
+  UniProt_ID: [Q9Y618]

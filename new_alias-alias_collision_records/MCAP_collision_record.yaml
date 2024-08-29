@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000141867
-  gene_symbol: BRD4
-- ensg_id: ENSG00000121879
-  gene_symbol: ' PIK3CA'
-collision_symbol: MCAP

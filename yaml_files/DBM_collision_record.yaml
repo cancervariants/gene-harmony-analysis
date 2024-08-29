@@ -1,0 +1,15 @@
+collision_symbol: DBM
+CLLS2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+DBH:
+  ENSG_ID: [ENSG00000123454]
+  source: [NCBI Info]
+  Chromosome: [9q34.2]
+  NCBI Gene ID: [1621.0]
+  OMIM_ID: ['609312']
+  UniProt_ID: [P09172]

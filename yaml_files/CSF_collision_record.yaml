@@ -1,0 +1,15 @@
+collision_symbol: CSF
+CSF2:
+  ENSG_ID: [ENSG00000164400]
+  source: [NCBI Info]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [1437.0]
+  OMIM_ID: ['138960']
+  UniProt_ID: [P04141]
+LAMC2:
+  ENSG_ID: [ENSG00000058085]
+  source: [NCBI Info]
+  Chromosome: [1q25.3]
+  NCBI Gene ID: [3918.0]
+  OMIM_ID: ['150292']
+  UniProt_ID: [Q13753]

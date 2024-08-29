@@ -1,0 +1,15 @@
+collision_symbol: TSK4
+SH3PXD2B:
+  ENSG_ID: [ENSG00000174705]
+  source: [NCBI Info]
+  Chromosome: [5q35.1]
+  NCBI Gene ID: [285590.0]
+  OMIM_ID: ['613293']
+  UniProt_ID: [A1X283]
+TSSK4:
+  ENSG_ID: [ENSG00000139908]
+  source: [NCBI Info]
+  Chromosome: [14q12]
+  NCBI Gene ID: [283629.0]
+  OMIM_ID: ['610711']
+  UniProt_ID: [Q6SA08]

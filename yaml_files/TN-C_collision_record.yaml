@@ -1,0 +1,15 @@
+collision_symbol: TN-C
+TNC:
+  ENSG_ID: [ENSG00000041982]
+  source: [NCBI Info]
+  Chromosome: [9q33.1]
+  NCBI Gene ID: [3371.0]
+  OMIM_ID: ['187380']
+  UniProt_ID: [P24821]
+TNNC1:
+  ENSG_ID: [ENSG00000114854]
+  source: [NCBI Info]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [7134.0]
+  OMIM_ID: ['191040']
+  UniProt_ID: [P63316]

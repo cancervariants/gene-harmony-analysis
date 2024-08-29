@@ -1,0 +1,15 @@
+collision_symbol: COD3
+CACNA1F:
+  ENSG_ID: [ENSG00000102001]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [778.0]
+  OMIM_ID: ['300110']
+  UniProt_ID: [O60840]
+GUCA1A:
+  ENSG_ID: [ENSG00000048545]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [2978.0]
+  OMIM_ID: ['600364']
+  UniProt_ID: [P43080]

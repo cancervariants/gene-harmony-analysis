@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000109686
-  gene_symbol: SH3D19
-- ensg_id: ENSG00000170266
-  gene_symbol: ' GLB1'
-collision_symbol: EBP

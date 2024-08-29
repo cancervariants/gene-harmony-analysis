@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000125149
-  gene_symbol: PHAF1
-- ensg_id: ENSG00000034053
-  gene_symbol: ' APBA2'
-collision_symbol: ' LIN-10'

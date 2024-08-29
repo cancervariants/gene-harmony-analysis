@@ -1,0 +1,15 @@
+collision_symbol: MRP-L14
+MRPL14:
+  ENSG_ID: [ENSG00000180992]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [64928.0]
+  OMIM_ID: ['611827']
+  UniProt_ID: [Q6P1L8]
+MRPL2:
+  ENSG_ID: [ENSG00000112651]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [51069.0]
+  OMIM_ID: ['611822']
+  UniProt_ID: [Q5T653]

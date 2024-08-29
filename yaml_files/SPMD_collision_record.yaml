@@ -1,0 +1,15 @@
+collision_symbol: SPMD
+MYH7:
+  ENSG_ID: [ENSG00000092054]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [4625.0]
+  OMIM_ID: ['160760']
+  UniProt_ID: [P12883]
+SPPM:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

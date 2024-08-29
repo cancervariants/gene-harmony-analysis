@@ -1,0 +1,22 @@
+collision_symbol: MT2
+MT2A:
+  ENSG_ID: [ENSG00000125148]
+  source: [NCBI Info]
+  Chromosome: [16q13]
+  NCBI Gene ID: [4502.0]
+  OMIM_ID: ['156360']
+  UniProt_ID: [P02795]
+MTNR1B:
+  ENSG_ID: [ENSG00000134640]
+  source: [NCBI Info]
+  Chromosome: [11q14.3]
+  NCBI Gene ID: [4544.0]
+  OMIM_ID: ['600804']
+  UniProt_ID: [P49286]
+TMPRSS6:
+  ENSG_ID: [ENSG00000187045]
+  source: [NCBI Info]
+  Chromosome: [22q12.3]
+  NCBI Gene ID: [164656.0]
+  OMIM_ID: ['609862']
+  UniProt_ID: [Q8IU80]

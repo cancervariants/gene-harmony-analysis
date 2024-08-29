@@ -1,0 +1,15 @@
+collision_symbol: ICln
+CLNS1A:
+  ENSG_ID: [ENSG00000074201]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q14.1]
+  NCBI Gene ID: [1207.0]
+  OMIM_ID: ['602158']
+  UniProt_ID: [P54105]
+CLNS1AP1:
+  ENSG_ID: [ENSG00000213335]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p12.1]
+  NCBI Gene ID: [1204.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

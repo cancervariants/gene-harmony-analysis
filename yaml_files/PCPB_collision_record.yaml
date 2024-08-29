@@ -1,0 +1,15 @@
+collision_symbol: PCPB
+CPB1:
+  ENSG_ID: [ENSG00000153002]
+  source: [NCBI Info]
+  Chromosome: [3q24]
+  NCBI Gene ID: [1360.0]
+  OMIM_ID: ['114852']
+  UniProt_ID: [P15086]
+CPB2:
+  ENSG_ID: [ENSG00000080618]
+  source: [NCBI Info]
+  Chromosome: [13q14.13]
+  NCBI Gene ID: [1361.0]
+  OMIM_ID: ['603101']
+  UniProt_ID: [Q96IY4]

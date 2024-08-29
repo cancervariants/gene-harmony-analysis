@@ -1,0 +1,15 @@
+collision_symbol: CMT1
+MPZ:
+  ENSG_ID: [ENSG00000158887]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [4359.0]
+  OMIM_ID: ['159440']
+  UniProt_ID: [P25189]
+RNMT:
+  ENSG_ID: [ENSG00000101654]
+  source: [NCBI Info]
+  Chromosome: [18p11.21]
+  NCBI Gene ID: [8731.0]
+  OMIM_ID: ['603514']
+  UniProt_ID: [O43148]

@@ -1,0 +1,15 @@
+collision_symbol: ISWI
+SMARCA1:
+  ENSG_ID: [ENSG00000102038]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq25-q26.1]
+  NCBI Gene ID: [6594.0]
+  OMIM_ID: ['300012']
+  UniProt_ID: [P28370]
+SMARCA5:
+  ENSG_ID: [ENSG00000153147]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q31.21]
+  NCBI Gene ID: [8467.0]
+  OMIM_ID: ['603375']
+  UniProt_ID: [O60264]

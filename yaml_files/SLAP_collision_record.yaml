@@ -1,0 +1,22 @@
+collision_symbol: SLAP
+FAM169A:
+  ENSG_ID: [ENSG00000198780]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.3]
+  NCBI Gene ID: [26049.0]
+  OMIM_ID: ['615769']
+  UniProt_ID: [Q9Y6X4]
+SLA:
+  ENSG_ID: [ENSG00000155926]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [6503.0]
+  OMIM_ID: ['601099']
+  UniProt_ID: [Q13239]
+SLMAP:
+  ENSG_ID: [ENSG00000163681]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p14.3]
+  NCBI Gene ID: [7871.0]
+  OMIM_ID: ['602701']
+  UniProt_ID: [Q14BN4]

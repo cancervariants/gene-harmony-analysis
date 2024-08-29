@@ -1,0 +1,15 @@
+collision_symbol: DFNA3
+GJB2:
+  ENSG_ID: [ENSG00000165474]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [2706.0]
+  OMIM_ID: ['121011']
+  UniProt_ID: [P29033]
+GJB6:
+  ENSG_ID: [ENSG00000121742]
+  source: [NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [10804.0]
+  OMIM_ID: ['604418']
+  UniProt_ID: [O95452]

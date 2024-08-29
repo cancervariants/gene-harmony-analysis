@@ -1,0 +1,15 @@
+collision_symbol: ARH1
+ADPRH:
+  ENSG_ID: [ENSG00000144843]
+  source: [NCBI Info]
+  Chromosome: [3q13.33]
+  NCBI Gene ID: [141.0]
+  OMIM_ID: ['603081']
+  UniProt_ID: [P54922]
+LDLRAP1:
+  ENSG_ID: [ENSG00000157978]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [26119.0]
+  OMIM_ID: ['605747']
+  UniProt_ID: [Q5SW96]

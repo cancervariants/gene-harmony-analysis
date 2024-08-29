@@ -1,0 +1,15 @@
+collision_symbol: MUM1
+IRF4:
+  ENSG_ID: [ENSG00000137265]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p25.3]
+  NCBI Gene ID: [3662.0]
+  OMIM_ID: ['601900']
+  UniProt_ID: [Q15306]
+PWWP3A:
+  ENSG_ID: [ENSG00000160953]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [84939.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q2TAK8]

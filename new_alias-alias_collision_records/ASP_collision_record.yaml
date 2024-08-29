@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000145491
-  gene_symbol: ROPN1L
-- ensg_id: ENSG00000153802
-  gene_symbol: ' TMPRSS11D'
-- ensg_id: ENSG00000066279
-  gene_symbol: ' ASPM'
-collision_symbol: ASP

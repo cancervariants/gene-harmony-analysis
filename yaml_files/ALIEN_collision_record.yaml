@@ -1,0 +1,15 @@
+collision_symbol: ALIEN
+COPS2:
+  ENSG_ID: [ENSG00000166200]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [9318.0]
+  OMIM_ID: ['604508']
+  UniProt_ID: [P61201]
+LINC00261:
+  ENSG_ID: [ENSG00000259974]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [140828.0]
+  OMIM_ID: ['618518']
+  UniProt_ID: [.nan]

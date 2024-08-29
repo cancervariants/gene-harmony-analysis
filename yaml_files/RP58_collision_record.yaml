@@ -1,0 +1,15 @@
+collision_symbol: RP58
+ZBTB18:
+  ENSG_ID: [ENSG00000179456]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q44]
+  NCBI Gene ID: [10472.0]
+  OMIM_ID: ['608433']
+  UniProt_ID: [Q99592]
+ZNF513:
+  ENSG_ID: [ENSG00000163795]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [130557.0]
+  OMIM_ID: ['613598']
+  UniProt_ID: [Q8N8E2]

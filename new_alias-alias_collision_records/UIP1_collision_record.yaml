@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000213397
-  gene_symbol: HAUS7
-- ensg_id: ENSG00000136243
-  gene_symbol: ' NUP42'
-collision_symbol: UIP1

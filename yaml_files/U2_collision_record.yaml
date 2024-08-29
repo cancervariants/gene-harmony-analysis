@@ -1,0 +1,36 @@
+collision_symbol: U2
+RNU2-1:
+  ENSG_ID: [ENSG00000274585]
+  source: [HGNC, NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU2-2P:
+  ENSG_ID: [ENSG00000222328, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.3, .nan]
+  NCBI Gene ID: [26855.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU2-3P:
+  ENSG_ID: [ENSG00000222076]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q26.2]
+  NCBI Gene ID: [26854.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU2-4P:
+  ENSG_ID: [ENSG00000277084]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [26853.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNU2-5P:
+  ENSG_ID: [ENSG00000222465]
+  source: [HGNC, ENSG]
+  Chromosome: [9q21.11]
+  NCBI Gene ID: [26852.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

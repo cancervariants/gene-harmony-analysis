@@ -1,0 +1,15 @@
+collision_symbol: PP610
+ARHGAP8:
+  ENSG_ID: [ENSG00000241484]
+  source: [NCBI Info]
+  Chromosome: [22q13.31]
+  NCBI Gene ID: [23779.0]
+  OMIM_ID: ['609405']
+  UniProt_ID: [P85298]
+PRR5:
+  ENSG_ID: [ENSG00000186654]
+  source: [NCBI Info]
+  Chromosome: [22q13.31]
+  NCBI Gene ID: [55615.0]
+  OMIM_ID: ['609406']
+  UniProt_ID: [P85299]

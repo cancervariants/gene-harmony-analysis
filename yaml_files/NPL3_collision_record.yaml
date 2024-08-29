@@ -1,0 +1,15 @@
+collision_symbol: NPL3
+NAP1L3:
+  ENSG_ID: [ENSG00000186310]
+  source: [ENSG]
+  Chromosome: [Xq21.32]
+  NCBI Gene ID: [4675.0]
+  OMIM_ID: ['300117']
+  UniProt_ID: [Q99457]
+TAF15:
+  ENSG_ID: [ENSG00000270647]
+  source: [ENSG]
+  Chromosome: [17q12]
+  NCBI Gene ID: [8148.0]
+  OMIM_ID: ['601574']
+  UniProt_ID: [Q92804]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000259030
-  gene_symbol: FPGT-TNNI3K
-- ensg_id: ENSG00000116783
-  gene_symbol: ' TNNI3K'
-collision_symbol: CARK

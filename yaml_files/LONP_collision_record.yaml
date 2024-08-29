@@ -1,0 +1,15 @@
+collision_symbol: LONP
+LONP1:
+  ENSG_ID: [ENSG00000196365]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [9361.0]
+  OMIM_ID: ['605490']
+  UniProt_ID: [P36776]
+LONP2:
+  ENSG_ID: [ENSG00000102910]
+  source: [NCBI Info]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [83752.0]
+  OMIM_ID: ['617774']
+  UniProt_ID: [Q86WA8]

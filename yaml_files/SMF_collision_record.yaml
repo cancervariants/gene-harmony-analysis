@@ -1,0 +1,15 @@
+collision_symbol: SMF
+HMGXB3:
+  ENSG_ID: [ENSG00000113716]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [22993.0]
+  OMIM_ID: ['619800']
+  UniProt_ID: [Q12766]
+SNRPF:
+  ENSG_ID: [ENSG00000139343]
+  source: [NCBI Info]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [6636.0]
+  OMIM_ID: ['603541']
+  UniProt_ID: [P62306]

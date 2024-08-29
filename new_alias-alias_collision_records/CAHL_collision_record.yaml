@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000198492
-  gene_symbol: YTHDF2
-- ensg_id: ENSG00000047188
-  gene_symbol: ' YTHDC2'
-collision_symbol: CAHL

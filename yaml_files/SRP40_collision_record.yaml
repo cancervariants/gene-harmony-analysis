@@ -1,0 +1,15 @@
+collision_symbol: SRP40
+NOLC1:
+  ENSG_ID: [ENSG00000166197]
+  source: [ENSG]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [9221.0]
+  OMIM_ID: ['602394']
+  UniProt_ID: [Q14978]
+SRSF5:
+  ENSG_ID: [ENSG00000100650]
+  source: [ENSG]
+  Chromosome: [14q24]
+  NCBI Gene ID: [6430.0]
+  OMIM_ID: ['600914']
+  UniProt_ID: [Q13243]

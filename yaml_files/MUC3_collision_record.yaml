@@ -1,0 +1,22 @@
+collision_symbol: MUC3
+MUC17:
+  ENSG_ID: [ENSG00000169876]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [140453.0]
+  OMIM_ID: ['608424']
+  UniProt_ID: [Q685J3]
+MUC3A:
+  ENSG_ID: [ENSG00000169894]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [4584.0]
+  OMIM_ID: ['158371']
+  UniProt_ID: [Q02505]
+MUC3B:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7q22 not on reference assembly]
+  NCBI Gene ID: [57876.0]
+  OMIM_ID: ['605633']
+  UniProt_ID: [Q9H195]

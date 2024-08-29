@@ -1,0 +1,15 @@
+collision_symbol: MOSP
+DUSP23:
+  ENSG_ID: [ENSG00000158716]
+  source: [NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [54935.0]
+  OMIM_ID: ['618361']
+  UniProt_ID: [Q9BVJ7]
+PTPMT1:
+  ENSG_ID: [ENSG00000110536]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [114971.0]
+  OMIM_ID: ['609538']
+  UniProt_ID: [Q8WUK0]

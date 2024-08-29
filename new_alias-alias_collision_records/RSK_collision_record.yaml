@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000117676
-  gene_symbol: RPS6KA1
-- ensg_id: ENSG00000071242
-  gene_symbol: ' RPS6KA2'
-- ensg_id: ENSG00000177189
-  gene_symbol: ' RPS6KA3'
-collision_symbol: RSK

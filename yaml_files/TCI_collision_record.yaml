@@ -1,0 +1,15 @@
+collision_symbol: TCI
+LXN:
+  ENSG_ID: [ENSG00000079257]
+  source: [NCBI Info]
+  Chromosome: [3q25.32]
+  NCBI Gene ID: [56925.0]
+  OMIM_ID: ['609305']
+  UniProt_ID: [Q9BS40]
+TCN1:
+  ENSG_ID: [ENSG00000134827]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [6947.0]
+  OMIM_ID: ['189905']
+  UniProt_ID: [P20061]

@@ -1,0 +1,22 @@
+collision_symbol: MRP2
+ABCC2:
+  ENSG_ID: [ENSG00000023839]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q24.2]
+  NCBI Gene ID: [1244.0]
+  OMIM_ID: ['601107']
+  UniProt_ID: [Q92887]
+KLHL1:
+  ENSG_ID: [ENSG00000150361]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q21.33]
+  NCBI Gene ID: [57626.0]
+  OMIM_ID: ['605332']
+  UniProt_ID: [Q9NR64]
+SYCE1L:
+  ENSG_ID: [ENSG00000205078]
+  source: [NCBI Info]
+  Chromosome: [16q23.1]
+  NCBI Gene ID: [100130958.0]
+  OMIM_ID: ['619954']
+  UniProt_ID: [A8MT33]

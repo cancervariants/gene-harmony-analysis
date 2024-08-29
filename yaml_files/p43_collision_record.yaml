@@ -1,0 +1,15 @@
+collision_symbol: p43
+AIMP1:
+  ENSG_ID: [ENSG00000164022]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [9255.0]
+  OMIM_ID: ['603605']
+  UniProt_ID: [Q12904]
+H3P31:
+  ENSG_ID: [ENSG00000232466]
+  source: [NCBI Info]
+  Chromosome: [9p21.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000143851
-  gene_symbol: PTPN7
-- ensg_id: ENSG00000132670
-  gene_symbol: ' PTPRA'
-collision_symbol: HEPTP

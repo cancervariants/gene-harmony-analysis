@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164128
-  gene_symbol: NPY1R
-- ensg_id: ENSG00000121966
-  gene_symbol: ' CXCR4'
-collision_symbol: NPYR

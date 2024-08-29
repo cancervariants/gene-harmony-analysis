@@ -1,0 +1,15 @@
+collision_symbol: SCHAD
+HADH:
+  ENSG_ID: [ENSG00000138796]
+  source: [NCBI Info]
+  Chromosome: [4q25]
+  NCBI Gene ID: [3033.0]
+  OMIM_ID: ['601609']
+  UniProt_ID: [Q16836]
+HSD17B10:
+  ENSG_ID: [ENSG00000072506]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [3028.0]
+  OMIM_ID: ['300256']
+  UniProt_ID: [Q99714]

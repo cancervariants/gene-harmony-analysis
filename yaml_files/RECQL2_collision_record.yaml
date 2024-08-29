@@ -1,0 +1,15 @@
+collision_symbol: RECQL2
+BLM:
+  ENSG_ID: [ENSG00000197299]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [641.0]
+  OMIM_ID: ['604610']
+  UniProt_ID: [P54132]
+WRN:
+  ENSG_ID: [ENSG00000165392]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [7486.0]
+  OMIM_ID: ['604611']
+  UniProt_ID: [Q14191]

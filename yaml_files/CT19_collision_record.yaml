@@ -1,0 +1,15 @@
+collision_symbol: CT19
+IL13RA1:
+  ENSG_ID: [ENSG00000131724]
+  source: [NCBI Info]
+  Chromosome: [Xq24]
+  NCBI Gene ID: [3597.0]
+  OMIM_ID: ['300119']
+  UniProt_ID: [P78552]
+IL13RA2:
+  ENSG_ID: [ENSG00000123496]
+  source: [NCBI Info]
+  Chromosome: [Xq23]
+  NCBI Gene ID: [3598.0]
+  OMIM_ID: ['300130']
+  UniProt_ID: [Q14627]

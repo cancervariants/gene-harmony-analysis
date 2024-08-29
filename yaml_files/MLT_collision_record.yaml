@@ -1,0 +1,15 @@
+collision_symbol: MLT
+MALT1:
+  ENSG_ID: [ENSG00000172175]
+  source: [NCBI Info]
+  Chromosome: [18q21.32]
+  NCBI Gene ID: [10892.0]
+  OMIM_ID: ['604860']
+  UniProt_ID: [Q9UDY8]
+MAP3K20:
+  ENSG_ID: [ENSG00000091436]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [51776.0]
+  OMIM_ID: ['609479']
+  UniProt_ID: [Q9NYL2]

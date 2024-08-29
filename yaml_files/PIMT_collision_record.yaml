@@ -1,0 +1,15 @@
+collision_symbol: PIMT
+PCMT1:
+  ENSG_ID: [ENSG00000120265]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [5110.0]
+  OMIM_ID: ['176851']
+  UniProt_ID: [P22061]
+TGS1:
+  ENSG_ID: [ENSG00000137574]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [96764.0]
+  OMIM_ID: ['606461']
+  UniProt_ID: [Q96RS0]

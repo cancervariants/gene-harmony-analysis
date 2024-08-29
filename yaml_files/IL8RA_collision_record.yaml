@@ -1,0 +1,15 @@
+collision_symbol: IL8RA
+CXCR1:
+  ENSG_ID: [ENSG00000163464]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [3577.0]
+  OMIM_ID: ['146929']
+  UniProt_ID: [P25024]
+CXCR2:
+  ENSG_ID: [ENSG00000180871]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [3579.0]
+  OMIM_ID: ['146928']
+  UniProt_ID: [P25025]

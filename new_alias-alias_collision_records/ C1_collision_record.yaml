@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000211689
-  gene_symbol: TRGC1
-- ensg_id: ENSG00000101132
-  gene_symbol: ' PFDN4'
-collision_symbol: ' C1'

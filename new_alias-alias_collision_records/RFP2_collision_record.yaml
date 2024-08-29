@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000231607
-  gene_symbol: DLEU2
-- ensg_id: ENSG00000204977
-  gene_symbol: ' TRIM13'
-collision_symbol: RFP2

@@ -1,0 +1,15 @@
+collision_symbol: LAN
+ABCB6:
+  ENSG_ID: [ENSG00000115657]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [10058.0]
+  OMIM_ID: ['605452']
+  UniProt_ID: [Q9NP58]
+DGCR2:
+  ENSG_ID: [ENSG00000070413]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [9993.0]
+  OMIM_ID: ['600594']
+  UniProt_ID: [P98153]

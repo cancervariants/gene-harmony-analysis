@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000132514
-  gene_symbol: CLEC10A
-- ensg_id: ENSG00000152672
-  gene_symbol: ' CLEC4F'
-collision_symbol: CLECSF13

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197894
-  gene_symbol: ADH5
-- ensg_id: ENSG00000144908
-  gene_symbol: ' ALDH1L1'
-collision_symbol: ' FDH'

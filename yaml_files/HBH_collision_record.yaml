@@ -1,0 +1,15 @@
+collision_symbol: HBH
+HBA1:
+  ENSG_ID: [ENSG00000206172]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [3039.0]
+  OMIM_ID: ['141800']
+  UniProt_ID: [P69905]
+HBA2:
+  ENSG_ID: [ENSG00000188536]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [3040.0]
+  OMIM_ID: ['141850']
+  UniProt_ID: [P69905]

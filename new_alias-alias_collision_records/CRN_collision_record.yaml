@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000101343
-  gene_symbol: CRNKL1
-- ensg_id: ENSG00000145244
-  gene_symbol: ' CORIN'
-collision_symbol: CRN

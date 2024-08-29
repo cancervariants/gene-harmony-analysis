@@ -1,0 +1,15 @@
+collision_symbol: GGF2
+GINGF2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [5q13-q22]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+NRG1:
+  ENSG_ID: [ENSG00000157168]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [3084.0]
+  OMIM_ID: ['142445']
+  UniProt_ID: [Q02297]

@@ -1,0 +1,29 @@
+collision_symbol: CEA
+CEACAM3:
+  ENSG_ID: [ENSG00000170956]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [1084.0]
+  OMIM_ID: ['609142']
+  UniProt_ID: [P40198]
+CEACAM5:
+  ENSG_ID: [ENSG00000105388]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [1048.0]
+  OMIM_ID: ['114890']
+  UniProt_ID: [P06731]
+CEACAM7:
+  ENSG_ID: [ENSG00000007306]
+  source: [ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [1087.0]
+  OMIM_ID: ['619160']
+  UniProt_ID: [Q14002]
+PSG2:
+  ENSG_ID: [ENSG00000242221]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.31]
+  NCBI Gene ID: [5670.0]
+  OMIM_ID: ['176391']
+  UniProt_ID: [P11465]

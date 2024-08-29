@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000137275
-  gene_symbol: RIPK1
-- ensg_id: ENSG00000111615
-  gene_symbol: ' KRR1'
-collision_symbol: ' RIP-1'

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204536
-  gene_symbol: CCHCR1
-- ensg_id: ENSG00000086232
-  gene_symbol: ' EIF2AK1'
-- ensg_id: ENSG00000121797
-  gene_symbol: ' CCRL2'
-collision_symbol: HCR

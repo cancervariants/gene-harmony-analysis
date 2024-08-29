@@ -1,0 +1,15 @@
+collision_symbol: ND1
+IVNS1ABP:
+  ENSG_ID: [ENSG00000116679]
+  source: [ENSG]
+  Chromosome: [1q25.3]
+  NCBI Gene ID: [10625.0]
+  OMIM_ID: ['609209']
+  UniProt_ID: [Q9Y6Y0]
+MT-ND1:
+  ENSG_ID: [ENSG00000198888]
+  source: [ENSG]
+  Chromosome: [mitochondria]
+  NCBI Gene ID: [4535.0]
+  OMIM_ID: ['516000']
+  UniProt_ID: [P03886]

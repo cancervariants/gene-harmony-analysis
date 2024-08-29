@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000142166
-  gene_symbol: IFNAR1
-- ensg_id: ENSG00000159110
-  gene_symbol: ' IFNAR2'
-collision_symbol: IFN-alpha-REC

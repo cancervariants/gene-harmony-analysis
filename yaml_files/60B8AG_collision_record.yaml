@@ -1,0 +1,15 @@
+collision_symbol: 60B8AG
+S100A8:
+  ENSG_ID: [ENSG00000143546]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6279.0]
+  OMIM_ID: ['123885']
+  UniProt_ID: [P05109]
+S100A9:
+  ENSG_ID: [ENSG00000163220]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6280.0]
+  OMIM_ID: ['123886']
+  UniProt_ID: [P06702]

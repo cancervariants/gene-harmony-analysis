@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000073282
-  gene_symbol: TP63
-- ensg_id: ENSG00000265541
-  gene_symbol: ' H3P41'
-- ensg_id: ENSG00000197024
-  gene_symbol: ' ZNF398'
-collision_symbol: ' P51'

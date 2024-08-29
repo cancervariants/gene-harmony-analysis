@@ -1,0 +1,29 @@
+collision_symbol: BPAD
+MAFD1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [18p]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MAFD2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xq27-q28]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MAFD4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+MAFD6:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

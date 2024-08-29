@@ -1,0 +1,22 @@
+collision_symbol: RN18S1
+RNA18S5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22p12 not on reference assembly]
+  NCBI Gene ID: [110255169.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA18SN4:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22 unplaced]
+  NCBI Gene ID: [109864273.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RNA18SN5:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [unplaced]
+  NCBI Gene ID: [100008588.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

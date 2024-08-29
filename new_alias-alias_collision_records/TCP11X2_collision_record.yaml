@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000269437
-  gene_symbol: NXF2B
-- ensg_id: ENSG00000269405
-  gene_symbol: ' NXF2'
-collision_symbol: TCP11X2

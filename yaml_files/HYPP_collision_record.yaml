@@ -1,0 +1,15 @@
+collision_symbol: HYPP
+KCNE3:
+  ENSG_ID: [ENSG00000175538]
+  source: [NCBI Info]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [10008.0]
+  OMIM_ID: ['604433']
+  UniProt_ID: [Q9Y6H6]
+SCN4A:
+  ENSG_ID: [ENSG00000007314]
+  source: [NCBI Info]
+  Chromosome: [17q23.3]
+  NCBI Gene ID: [6329.0]
+  OMIM_ID: ['603967']
+  UniProt_ID: [P35499]

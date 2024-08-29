@@ -1,0 +1,15 @@
+collision_symbol: TCRAV8S1
+TRAV13-1:
+  ENSG_ID: [ENSG00000211788]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28671.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J241]
+TRAV8-1:
+  ENSG_ID: [ENSG00000211782]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28685.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0A6YYK1]

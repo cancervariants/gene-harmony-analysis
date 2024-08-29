@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197165
-  gene_symbol: SULT1A2
-- ensg_id: ENSG00000196502
-  gene_symbol: ' SULT1A1'
-collision_symbol: P-PST

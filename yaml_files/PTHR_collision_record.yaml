@@ -1,0 +1,15 @@
+collision_symbol: PTHR
+PTH1R:
+  ENSG_ID: [ENSG00000160801]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [5745.0]
+  OMIM_ID: ['168468']
+  UniProt_ID: [Q03431]
+PTHLH:
+  ENSG_ID: [ENSG00000087494]
+  source: [NCBI Info]
+  Chromosome: [12p11.22]
+  NCBI Gene ID: [5744.0]
+  OMIM_ID: ['168470']
+  UniProt_ID: [P12272]

@@ -1,0 +1,15 @@
+collision_symbol: H2A.Bbd
+H2AB1:
+  ENSG_ID: [ENSG00000274183]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [474382.0]
+  OMIM_ID: ['301037']
+  UniProt_ID: [P0C5Y9]
+H2AB2:
+  ENSG_ID: [ENSG00000277858]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [474381.0]
+  OMIM_ID: ['301038']
+  UniProt_ID: [P0C5Z0]

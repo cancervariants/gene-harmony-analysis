@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000111785
-  gene_symbol: RIC8B
-- ensg_id: ENSG00000177963
-  gene_symbol: ' RIC8A'
-collision_symbol: RIC8

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000239618
-  gene_symbol: HLA-L
-- ensg_id: ENSG00000182333
-  gene_symbol: ' LIPF'
-collision_symbol: ' HLAL'

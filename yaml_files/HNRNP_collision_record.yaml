@@ -1,0 +1,15 @@
+collision_symbol: HNRNP
+HNRNPC:
+  ENSG_ID: [ENSG00000092199]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [3183.0]
+  OMIM_ID: ['164020']
+  UniProt_ID: [P07910]
+HNRNPDL:
+  ENSG_ID: [ENSG00000152795]
+  source: [NCBI Info]
+  Chromosome: [4q21.22]
+  NCBI Gene ID: [9987.0]
+  OMIM_ID: ['607137']
+  UniProt_ID: [O14979]

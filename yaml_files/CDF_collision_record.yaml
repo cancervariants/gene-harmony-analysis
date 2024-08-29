@@ -1,0 +1,15 @@
+collision_symbol: CDF
+IL6:
+  ENSG_ID: [ENSG00000136244]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [3569.0]
+  OMIM_ID: ['147620']
+  UniProt_ID: [P05231]
+LIF:
+  ENSG_ID: [ENSG00000128342]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [3976.0]
+  OMIM_ID: ['159540']
+  UniProt_ID: [P15018]

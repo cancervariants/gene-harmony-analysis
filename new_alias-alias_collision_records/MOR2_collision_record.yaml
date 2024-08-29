@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000075539
-  gene_symbol: FRYL
-- ensg_id: ENSG00000014641
-  gene_symbol: ' MDH1'
-collision_symbol: MOR2

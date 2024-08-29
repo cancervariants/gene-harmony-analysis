@@ -1,0 +1,15 @@
+collision_symbol: ANCR
+DANCR:
+  ENSG_ID: [ENSG00000226950]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [57291.0]
+  OMIM_ID: ['614625']
+  UniProt_ID: [P0C864]
+UBE3A:
+  ENSG_ID: [ENSG00000114062]
+  source: [NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [7337.0]
+  OMIM_ID: ['601623']
+  UniProt_ID: [Q05086]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000179331
-  gene_symbol: RAB39A
-- ensg_id: ENSG00000109113
-  gene_symbol: ' RAB34'
-collision_symbol: RAB39

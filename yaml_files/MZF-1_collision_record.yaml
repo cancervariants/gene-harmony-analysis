@@ -1,0 +1,15 @@
+collision_symbol: MZF-1
+MZF1:
+  ENSG_ID: [ENSG00000099326]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [7593.0]
+  OMIM_ID: ['194550']
+  UniProt_ID: [P28698]
+ZSCAN1:
+  ENSG_ID: [ENSG00000152467]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [284312.0]
+  OMIM_ID: ['620026']
+  UniProt_ID: [Q8NBB4]

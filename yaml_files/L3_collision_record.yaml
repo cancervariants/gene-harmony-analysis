@@ -1,0 +1,29 @@
+collision_symbol: L3
+CERS2:
+  ENSG_ID: [ENSG00000143418]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [29956.0]
+  OMIM_ID: ['606920']
+  UniProt_ID: [Q96G23]
+HEXIM2:
+  ENSG_ID: [ENSG00000168517]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [124790.0]
+  OMIM_ID: ['615695']
+  UniProt_ID: [Q96MH2]
+IGKV2-14:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+RPL3:
+  ENSG_ID: [ENSG00000100316]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [6122.0]
+  OMIM_ID: ['604163']
+  UniProt_ID: [P39023]

@@ -1,0 +1,15 @@
+collision_symbol: LOAS
+ADHD3:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PRICKLE3:
+  ENSG_ID: [ENSG00000012211]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [4007.0]
+  OMIM_ID: ['300111']
+  UniProt_ID: [O43900]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000153395
-  gene_symbol: LPCAT1
-- ensg_id: ENSG00000138678
-  gene_symbol: ' GPAT3'
-collision_symbol: AGPAT10

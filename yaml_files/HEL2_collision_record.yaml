@@ -1,0 +1,15 @@
+collision_symbol: HEL2
+YWHAE:
+  ENSG_ID: [ENSG00000108953]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [7531.0]
+  OMIM_ID: ['605066']
+  UniProt_ID: [P62258]
+ZNF598:
+  ENSG_ID: [ENSG00000167962]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [90850.0]
+  OMIM_ID: ['617508']
+  UniProt_ID: [Q86UK7]

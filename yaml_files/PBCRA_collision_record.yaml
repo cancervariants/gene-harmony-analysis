@@ -1,0 +1,15 @@
+collision_symbol: PBCRA
+LOC111365204:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+PBCRA1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [6q]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

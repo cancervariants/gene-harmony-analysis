@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000204136
-  gene_symbol: GGTA1
-- ensg_id: ENSG00000188419
-  gene_symbol: ' CHM'
-collision_symbol: GGTA

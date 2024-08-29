@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000241258
-  gene_symbol: CRCP
-- ensg_id: ENSG00000102076
-  gene_symbol: ' OPN1LW'
-- ensg_id: ENSG00000156675
-  gene_symbol: ' RAB11FIP1'
-collision_symbol: RCP

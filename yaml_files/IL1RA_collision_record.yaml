@@ -1,0 +1,15 @@
+collision_symbol: IL1RA
+IL1R1:
+  ENSG_ID: [ENSG00000115594]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q11.2-q12.1]
+  NCBI Gene ID: [3554.0]
+  OMIM_ID: ['147810']
+  UniProt_ID: [P14778]
+IL1RN:
+  ENSG_ID: [ENSG00000136689]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q14.1]
+  NCBI Gene ID: [3557.0]
+  OMIM_ID: ['147679']
+  UniProt_ID: [P18510]

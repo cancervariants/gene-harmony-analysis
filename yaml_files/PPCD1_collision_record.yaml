@@ -1,0 +1,15 @@
+collision_symbol: PPCD1
+OVOL2:
+  ENSG_ID: [ENSG00000125850]
+  source: [NCBI Info]
+  Chromosome: [20p11.23]
+  NCBI Gene ID: [58495.0]
+  OMIM_ID: ['616441']
+  UniProt_ID: [Q9BRP0]
+VSX1:
+  ENSG_ID: [ENSG00000100987]
+  source: [NCBI Info]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [30813.0]
+  OMIM_ID: ['605020']
+  UniProt_ID: [Q9NZR4]

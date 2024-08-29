@@ -1,0 +1,15 @@
+collision_symbol: NAP2
+NAP1L4:
+  ENSG_ID: [ENSG00000205531]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [4676.0]
+  OMIM_ID: ['601651']
+  UniProt_ID: [Q99733]
+NAPSB:
+  ENSG_ID: [ENSG00000291230]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,29 @@
+collision_symbol: p47
+AKAP13:
+  ENSG_ID: [ENSG00000170776]
+  source: [NCBI Info]
+  Chromosome: [15q25.3]
+  NCBI Gene ID: [11214.0]
+  OMIM_ID: ['604686']
+  UniProt_ID: [Q12802]
+H3P37:
+  ENSG_ID: [ENSG00000270433, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q11.2, .nan]
+  NCBI Gene ID: [664611.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+ING1:
+  ENSG_ID: [ENSG00000153487]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [3621.0]
+  OMIM_ID: ['601566']
+  UniProt_ID: [Q9UK53]
+NSFL1C:
+  ENSG_ID: [ENSG00000088833]
+  source: [HGNC]
+  Chromosome: [20p13]
+  NCBI Gene ID: [55968.0]
+  OMIM_ID: ['606610']
+  UniProt_ID: [Q9UNZ2]

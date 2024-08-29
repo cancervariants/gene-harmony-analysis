@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000164880
-  gene_symbol: INTS1
-- ensg_id: ENSG00000125084
-  gene_symbol: ' WNT1'
-collision_symbol: INT1

@@ -1,0 +1,15 @@
+collision_symbol: S100
+S100A1:
+  ENSG_ID: [ENSG00000160678]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6271.0]
+  OMIM_ID: ['176940']
+  UniProt_ID: [P23297]
+S100B:
+  ENSG_ID: [ENSG00000160307]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [6285.0]
+  OMIM_ID: ['176990']
+  UniProt_ID: [P04271]

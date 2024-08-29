@@ -1,0 +1,15 @@
+collision_symbol: FLJ20375
+BRD10:
+  ENSG_ID: [ENSG00000183354]
+  source: [HGNC, ENSG]
+  Chromosome: [9p24.1]
+  NCBI Gene ID: [158358.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5HYC2]
+FOCAD:
+  ENSG_ID: [ENSG00000188352]
+  source: [HGNC, ENSG]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [54914.0]
+  OMIM_ID: ['614606']
+  UniProt_ID: [Q5VW36]

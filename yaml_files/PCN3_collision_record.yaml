@@ -1,0 +1,15 @@
+collision_symbol: PCN3
+CYP3A5:
+  ENSG_ID: [ENSG00000106258]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [1577.0]
+  OMIM_ID: ['605325']
+  UniProt_ID: [P20815]
+KCNA3:
+  ENSG_ID: [ENSG00000177272]
+  source: [NCBI Info]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [3738.0]
+  OMIM_ID: ['176263']
+  UniProt_ID: [P22001]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000156509
-  gene_symbol: FBXO43
-- ensg_id: ENSG00000196263
-  gene_symbol: ' ZNF471'
-collision_symbol: ERP1

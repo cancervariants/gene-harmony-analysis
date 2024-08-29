@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000274768
-  gene_symbol: CISD3
-- ensg_id: ENSG00000065526
-  gene_symbol: ' SPEN'
-collision_symbol: ' MINT'

@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000165406
-  gene_symbol: MARCHF8
-- ensg_id: ENSG00000175727
-  gene_symbol: ' MLXIP'
-- ensg_id: ENSG00000007944
-  gene_symbol: ' MYLIP'
-collision_symbol: ' MIR'

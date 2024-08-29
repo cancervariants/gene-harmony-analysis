@@ -1,8 +1,0 @@
-collision_group:
-- ensg_id: NAN
-  gene_symbol: H3P47
-- ensg_id: ENSG00000129757
-  gene_symbol: ' CDKN1C'
-- ensg_id: ENSG00000102879
-  gene_symbol: ' CORO1A'
-collision_symbol: p57

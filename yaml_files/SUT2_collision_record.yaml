@@ -1,0 +1,15 @@
+collision_symbol: SUT2
+SLC26A7:
+  ENSG_ID: [ENSG00000147606]
+  source: [NCBI Info]
+  Chromosome: [8q21.3]
+  NCBI Gene ID: [115111.0]
+  OMIM_ID: ['608479']
+  UniProt_ID: [Q8TE54]
+ZC3H14:
+  ENSG_ID: [ENSG00000100722]
+  source: [NCBI Info]
+  Chromosome: [14q31.3]
+  NCBI Gene ID: [79882.0]
+  OMIM_ID: ['613279']
+  UniProt_ID: [Q6PJT7]

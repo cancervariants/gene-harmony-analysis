@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000100665
-  gene_symbol: SERPINA4
-- ensg_id: ENSG00000011201
-  gene_symbol: ' ANOS1'
-collision_symbol: KAL

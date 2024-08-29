@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000271567
-  gene_symbol: PPIAL4E
-- ensg_id: ENSG00000263353
-  gene_symbol: ' PPIAL4A'
-collision_symbol: COAS2

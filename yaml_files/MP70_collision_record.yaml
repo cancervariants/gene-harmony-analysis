@@ -1,0 +1,15 @@
+collision_symbol: MP70
+GJA8:
+  ENSG_ID: [ENSG00000121634]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [2703.0]
+  OMIM_ID: ['600897']
+  UniProt_ID: [P48165]
+TM9SF1:
+  ENSG_ID: [ENSG00000100926]
+  source: [NCBI Info]
+  Chromosome: [14q12]
+  NCBI Gene ID: [10548.0]
+  OMIM_ID: ['618965']
+  UniProt_ID: [O15321]

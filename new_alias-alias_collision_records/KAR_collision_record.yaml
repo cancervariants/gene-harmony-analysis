@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000149084
-  gene_symbol: HSD17B12
-- ensg_id: ENSG00000014641
-  gene_symbol: ' MDH1'
-collision_symbol: KAR

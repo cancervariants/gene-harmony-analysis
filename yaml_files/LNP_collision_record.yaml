@@ -1,0 +1,15 @@
+collision_symbol: LNP
+LNPK:
+  ENSG_ID: [ENSG00000144320]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [80856.0]
+  OMIM_ID: ['610236']
+  UniProt_ID: [Q9C0E8]
+NUSAP1:
+  ENSG_ID: [ENSG00000137804]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q14]
+  NCBI Gene ID: [51203.0]
+  OMIM_ID: ['612818']
+  UniProt_ID: [Q9BXS6]

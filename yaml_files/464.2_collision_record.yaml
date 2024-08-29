@@ -1,0 +1,15 @@
+collision_symbol: '464.2'
+CCL3L1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+CCL3L3:
+  ENSG_ID: [ENSG00000276085]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [414062.0]
+  OMIM_ID: ['609468']
+  UniProt_ID: [P16619]

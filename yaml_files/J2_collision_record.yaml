@@ -1,0 +1,22 @@
+collision_symbol: J2
+IGKJ2:
+  ENSG_ID: [ENSG00000211596]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28949.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+IGLJ2:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+TRGJ2:
+  ENSG_ID: [ENSG00000211687]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [6969.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

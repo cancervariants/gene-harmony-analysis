@@ -1,0 +1,15 @@
+collision_symbol: AD026
+ADORA3:
+  ENSG_ID: [ENSG00000282608]
+  source: [HGNC]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [140.0]
+  OMIM_ID: ['600445']
+  UniProt_ID: [P0DMS8]
+TMIGD3:
+  ENSG_ID: [ENSG00000121933]
+  source: [HGNC]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [57413.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMS9]

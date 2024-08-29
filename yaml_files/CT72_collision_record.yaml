@@ -1,0 +1,15 @@
+collision_symbol: CT72
+EPPIN:
+  ENSG_ID: [ENSG00000101448]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [57119.0]
+  OMIM_ID: ['609031']
+  UniProt_ID: [O95925]
+TSSK6:
+  ENSG_ID: [ENSG00000178093]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [83983.0]
+  OMIM_ID: ['610712']
+  UniProt_ID: [Q9BXA6]

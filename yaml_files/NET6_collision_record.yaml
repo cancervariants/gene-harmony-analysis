@@ -1,0 +1,15 @@
+collision_symbol: NET6
+NOL9:
+  ENSG_ID: [ENSG00000162408]
+  source: [NCBI Info]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [79707.0]
+  OMIM_ID: ['620304']
+  UniProt_ID: [Q5SY16]
+TSPAN13:
+  ENSG_ID: [ENSG00000106537]
+  source: [NCBI Info]
+  Chromosome: [7p21.1]
+  NCBI Gene ID: [27075.0]
+  OMIM_ID: ['613139']
+  UniProt_ID: [O95857]

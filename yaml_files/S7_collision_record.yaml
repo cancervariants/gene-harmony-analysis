@@ -1,0 +1,22 @@
+collision_symbol: S7
+MS4A1:
+  ENSG_ID: [ENSG00000156738]
+  source: [NCBI Info]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [931.0]
+  OMIM_ID: ['112210']
+  UniProt_ID: [P11836]
+PSMC2:
+  ENSG_ID: [ENSG00000161057]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [5701.0]
+  OMIM_ID: ['154365']
+  UniProt_ID: [P35998]
+RPS7:
+  ENSG_ID: [ENSG00000171863]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p25.3]
+  NCBI Gene ID: [6201.0]
+  OMIM_ID: ['603658']
+  UniProt_ID: [P62081]

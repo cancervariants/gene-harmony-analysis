@@ -1,0 +1,15 @@
+collision_symbol: PAIS
+GART:
+  ENSG_ID: [ENSG00000159131]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [2618.0]
+  OMIM_ID: ['138440']
+  UniProt_ID: [P22102]
+PAICS:
+  ENSG_ID: [ENSG00000128050]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [10606.0]
+  OMIM_ID: ['172439']
+  UniProt_ID: [P22234]

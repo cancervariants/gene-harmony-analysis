@@ -1,0 +1,15 @@
+collision_symbol: FAPP2
+PLEKHA8:
+  ENSG_ID: [ENSG00000106086]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [84725.0]
+  OMIM_ID: ['608639']
+  UniProt_ID: [Q96JA3]
+PLEKHA8P1:
+  ENSG_ID: [ENSG00000293316]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: ASB-3
+ASB3:
+  ENSG_ID: [ENSG00000115239]
+  source: [NCBI Info]
+  Chromosome: [2p16.2]
+  NCBI Gene ID: [51130.0]
+  OMIM_ID: ['605760']
+  UniProt_ID: [Q9Y575]
+GPR75-ASB3:
+  ENSG_ID: [ENSG00000115239]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

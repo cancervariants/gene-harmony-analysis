@@ -1,0 +1,15 @@
+collision_symbol: SMIM11B
+LOC102723553:
+  ENSG_ID: [ENSG00000273590]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+SMIM11:
+  ENSG_ID: [ENSG00000205670]
+  source: [NCBI Info]
+  Chromosome: [21q22.11-q22.12]
+  NCBI Gene ID: [54065.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P58511]

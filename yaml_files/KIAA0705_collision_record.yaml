@@ -1,0 +1,15 @@
+collision_symbol: KIAA0705
+ACTRT1:
+  ENSG_ID: [ENSG00000123165]
+  source: [HGNC, ENSG]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [139741.0]
+  OMIM_ID: ['300487']
+  UniProt_ID: [Q8TDG2]
+MAGI2:
+  ENSG_ID: [ENSG00000187391]
+  source: [HGNC, ENSG]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [9863.0]
+  OMIM_ID: ['606382']
+  UniProt_ID: [Q86UL8]

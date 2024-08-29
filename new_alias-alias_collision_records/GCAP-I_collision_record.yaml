@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000197273
-  gene_symbol: GUCA2A
-- ensg_id: ENSG00000048545
-  gene_symbol: ' GUCA1A'
-collision_symbol: GCAP-I

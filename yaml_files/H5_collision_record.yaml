@@ -1,0 +1,22 @@
+collision_symbol: H5
+FGFR1:
+  ENSG_ID: [ENSG00000077782]
+  source: [HGNC, ENSG]
+  Chromosome: [8p11.23]
+  NCBI Gene ID: [2260.0]
+  OMIM_ID: ['136350']
+  UniProt_ID: [P11362]
+SEPTIN4:
+  ENSG_ID: [ENSG00000108387]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q22]
+  NCBI Gene ID: [5414.0]
+  OMIM_ID: ['603696']
+  UniProt_ID: [O43236]
+SEPTIN5:
+  ENSG_ID: [ENSG00000184702]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [5413.0]
+  OMIM_ID: ['602724']
+  UniProt_ID: [Q99719]

@@ -1,0 +1,15 @@
+collision_symbol: SG2NA
+STRN:
+  ENSG_ID: [ENSG00000115808]
+  source: [NCBI Info]
+  Chromosome: [2p22.2]
+  NCBI Gene ID: [6801.0]
+  OMIM_ID: ['614765']
+  UniProt_ID: [O43815]
+STRN3:
+  ENSG_ID: [ENSG00000196792]
+  source: [NCBI Info]
+  Chromosome: [14q12]
+  NCBI Gene ID: [29966.0]
+  OMIM_ID: ['614766']
+  UniProt_ID: [Q13033]

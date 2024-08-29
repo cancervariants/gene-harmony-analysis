@@ -1,0 +1,15 @@
+collision_symbol: TCP11X2
+NXF2:
+  ENSG_ID: [ENSG00000269405]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [56001.0]
+  OMIM_ID: ['300315']
+  UniProt_ID: [Q9GZY0]
+NXF2B:
+  ENSG_ID: [ENSG00000269437]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [728343.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9GZY0]

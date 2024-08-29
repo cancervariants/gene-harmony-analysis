@@ -1,0 +1,15 @@
+collision_symbol: KIAA0172
+KANK1:
+  ENSG_ID: [ENSG00000107104]
+  source: [HGNC, ENSG]
+  Chromosome: [9p24.3]
+  NCBI Gene ID: [23189.0]
+  OMIM_ID: ['607704']
+  UniProt_ID: [Q14678]
+KANK4:
+  ENSG_ID: [ENSG00000132854]
+  source: [HGNC, ENSG]
+  Chromosome: [1p31.3]
+  NCBI Gene ID: [163782.0]
+  OMIM_ID: ['614612']
+  UniProt_ID: [Q5T7N3]

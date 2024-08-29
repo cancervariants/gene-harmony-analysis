@@ -1,0 +1,15 @@
+collision_symbol: CypD
+PPID:
+  ENSG_ID: [ENSG00000171497]
+  source: [HGNC]
+  Chromosome: [4q32.1]
+  NCBI Gene ID: [5481.0]
+  OMIM_ID: ['601753']
+  UniProt_ID: [Q08752]
+PPIF:
+  ENSG_ID: [ENSG00000108179]
+  source: [HGNC]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [10105.0]
+  OMIM_ID: ['604486']
+  UniProt_ID: [P30405]

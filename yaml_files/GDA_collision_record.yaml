@@ -1,0 +1,15 @@
+collision_symbol: GDA
+PAEP:
+  ENSG_ID: [ENSG00000122133]
+  source: [ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [5047.0]
+  OMIM_ID: ['173310']
+  UniProt_ID: [P09466]
+SLC25A16:
+  ENSG_ID: [ENSG00000122912]
+  source: [ENSG]
+  Chromosome: [10q21.3]
+  NCBI Gene ID: [8034.0]
+  OMIM_ID: ['139080']
+  UniProt_ID: [P16260]

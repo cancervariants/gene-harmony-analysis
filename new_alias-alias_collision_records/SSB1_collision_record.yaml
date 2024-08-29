@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000139579
-  gene_symbol: NABP2
-- ensg_id: ENSG00000171621
-  gene_symbol: ' SPSB1'
-collision_symbol: SSB1

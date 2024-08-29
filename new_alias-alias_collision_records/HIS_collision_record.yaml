@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000084110
-  gene_symbol: HAL
-- ensg_id: ENSG00000198074
-  gene_symbol: ' AKR1B10'
-collision_symbol: HIS

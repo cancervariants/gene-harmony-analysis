@@ -1,0 +1,15 @@
+collision_symbol: FEZ
+FEZF1:
+  ENSG_ID: [ENSG00000128610]
+  source: [NCBI Info]
+  Chromosome: [7q31.32]
+  NCBI Gene ID: [389549.0]
+  OMIM_ID: ['613301']
+  UniProt_ID: [A0PJY2]
+FEZF2:
+  ENSG_ID: [ENSG00000153266]
+  source: [NCBI Info]
+  Chromosome: [3p14.2]
+  NCBI Gene ID: [55079.0]
+  OMIM_ID: ['607414']
+  UniProt_ID: [Q8TBJ5]

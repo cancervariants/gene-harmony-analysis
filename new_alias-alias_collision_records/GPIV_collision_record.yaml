@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000135218
-  gene_symbol: CD36
-- ensg_id: ENSG00000088053
-  gene_symbol: ' GP6'
-collision_symbol: GPIV

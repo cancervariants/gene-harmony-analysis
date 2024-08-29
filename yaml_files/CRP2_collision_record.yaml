@@ -1,0 +1,22 @@
+collision_symbol: CRP2
+CEBPB:
+  ENSG_ID: [ENSG00000172216]
+  source: [HGNC]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [1051.0]
+  OMIM_ID: ['189965']
+  UniProt_ID: [P17676]
+CRIP2:
+  ENSG_ID: [ENSG00000182809]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [1397.0]
+  OMIM_ID: ['601183']
+  UniProt_ID: [P52943]
+CSRP2:
+  ENSG_ID: [ENSG00000175183]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q21.2]
+  NCBI Gene ID: [1466.0]
+  OMIM_ID: ['601871']
+  UniProt_ID: [Q16527]

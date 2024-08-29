@@ -1,0 +1,22 @@
+collision_symbol: PRG1
+IER3:
+  ENSG_ID: [ENSG00000137331]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [8870.0]
+  OMIM_ID: ['602996']
+  UniProt_ID: [P46695]
+PLPPR4:
+  ENSG_ID: [ENSG00000117600]
+  source: [NCBI Info]
+  Chromosome: [1p21.3-p21.2]
+  NCBI Gene ID: [9890.0]
+  OMIM_ID: ['607813']
+  UniProt_ID: [Q7Z2D5]
+SRGN:
+  ENSG_ID: [ENSG00000122862]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [5552.0]
+  OMIM_ID: ['177040']
+  UniProt_ID: [P10124]

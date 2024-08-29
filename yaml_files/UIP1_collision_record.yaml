@@ -1,0 +1,15 @@
+collision_symbol: UIP1
+HAUS7:
+  ENSG_ID: [ENSG00000213397]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [55559.0]
+  OMIM_ID: ['300540']
+  UniProt_ID: [Q99871]
+NUP42:
+  ENSG_ID: [ENSG00000136243]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [11097.0]
+  OMIM_ID: ['619998']
+  UniProt_ID: [O15504]

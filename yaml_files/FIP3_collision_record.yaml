@@ -1,0 +1,15 @@
+collision_symbol: FIP3
+IKBKG:
+  ENSG_ID: [ENSG00000269335]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [8517.0]
+  OMIM_ID: ['300248']
+  UniProt_ID: [Q9Y6K9]
+RAB11FIP3:
+  ENSG_ID: [ENSG00000090565]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [9727.0]
+  OMIM_ID: ['608738']
+  UniProt_ID: [O75154]

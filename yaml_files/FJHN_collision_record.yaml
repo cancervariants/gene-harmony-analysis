@@ -1,0 +1,15 @@
+collision_symbol: FJHN
+HNF1B:
+  ENSG_ID: [ENSG00000275410]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6928.0]
+  OMIM_ID: ['189907']
+  UniProt_ID: [P35680]
+UMOD:
+  ENSG_ID: [ENSG00000169344]
+  source: [NCBI Info]
+  Chromosome: [16p12.3]
+  NCBI Gene ID: [7369.0]
+  OMIM_ID: ['191845']
+  UniProt_ID: [P07911]

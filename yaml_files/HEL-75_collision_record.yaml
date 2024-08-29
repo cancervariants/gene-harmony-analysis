@@ -1,0 +1,15 @@
+collision_symbol: HEL-75
+DEFB132:
+  ENSG_ID: [ENSG00000186458]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [400830.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q7Z7B7]
+GSR:
+  ENSG_ID: [ENSG00000104687]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [2936.0]
+  OMIM_ID: ['138300']
+  UniProt_ID: [P00390]

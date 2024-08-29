@@ -1,0 +1,15 @@
+collision_symbol: LNCR2
+CHRNA3:
+  ENSG_ID: [ENSG00000080644]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [1136.0]
+  OMIM_ID: ['118503']
+  UniProt_ID: [P32297]
+CHRNA5:
+  ENSG_ID: [ENSG00000169684]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [1138.0]
+  OMIM_ID: ['118505']
+  UniProt_ID: [P30532]

@@ -1,0 +1,22 @@
+collision_symbol: PD1
+PDCD1:
+  ENSG_ID: [ENSG00000188389]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [5133.0]
+  OMIM_ID: ['600244']
+  UniProt_ID: [Q15116]
+SNCA:
+  ENSG_ID: [ENSG00000145335]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [6622.0]
+  OMIM_ID: ['163890']
+  UniProt_ID: [P37840]
+SPATA2:
+  ENSG_ID: [ENSG00000158480]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [9825.0]
+  OMIM_ID: ['607662']
+  UniProt_ID: [Q9UM82]

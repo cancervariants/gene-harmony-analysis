@@ -1,0 +1,22 @@
+collision_symbol: GALNT15
+GALNT14:
+  ENSG_ID: [ENSG00000158089]
+  source: [NCBI Info]
+  Chromosome: [2p23.1]
+  NCBI Gene ID: [79623.0]
+  OMIM_ID: ['608225']
+  UniProt_ID: [Q96FL9]
+GALNT18:
+  ENSG_ID: [ENSG00000110328]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [374378.0]
+  OMIM_ID: ['615136']
+  UniProt_ID: [Q6P9A2]
+GALNTL5:
+  ENSG_ID: [ENSG00000106648]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [168391.0]
+  OMIM_ID: ['615133']
+  UniProt_ID: [Q7Z4T8]

@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000119969
-  gene_symbol: HELLS
-- ensg_id: ENSG00000018280
-  gene_symbol: ' SLC11A1'
-collision_symbol: LSH

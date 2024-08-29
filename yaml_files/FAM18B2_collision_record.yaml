@@ -1,0 +1,15 @@
+collision_symbol: FAM18B2
+TVP23C:
+  ENSG_ID: [ENSG00000175106]
+  source: [NCBI Info]
+  Chromosome: [17p12]
+  NCBI Gene ID: [201158.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96ET8]
+TVP23C-CDRT4:
+  ENSG_ID: [ENSG00000259024]
+  source: [NCBI Info]
+  Chromosome: [17p12]
+  NCBI Gene ID: [100533496.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

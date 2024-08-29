@@ -1,0 +1,15 @@
+collision_symbol: MNAB
+OR1K1:
+  ENSG_ID: [ENSG00000165204]
+  source: [ENSG]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [392392.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGR3]
+RC3H2:
+  ENSG_ID: [ENSG00000056586]
+  source: [ENSG]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [54542.0]
+  OMIM_ID: ['615231']
+  UniProt_ID: [Q9HBD1]

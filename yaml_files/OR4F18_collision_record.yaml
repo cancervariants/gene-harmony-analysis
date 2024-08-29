@@ -1,0 +1,15 @@
+collision_symbol: OR4F18
+OR4F17:
+  ENSG_ID: [ENSG00000176695]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [81099.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NGA8]
+OR4F4:
+  ENSG_ID: [ENSG00000177693]
+  source: [NCBI Info]
+  Chromosome: [15q26.3]
+  NCBI Gene ID: [26682.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96R69]

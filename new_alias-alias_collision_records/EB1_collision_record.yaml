@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000166974
-  gene_symbol: MAPRE2
-- ensg_id: ENSG00000101367
-  gene_symbol: ' MAPRE1'
-collision_symbol: EB1

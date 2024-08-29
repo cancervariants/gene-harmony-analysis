@@ -1,0 +1,15 @@
+collision_symbol: DSH
+ADAR:
+  ENSG_ID: [ENSG00000160710]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [103.0]
+  OMIM_ID: ['146920']
+  UniProt_ID: [P55265]
+DVL1P1:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [8215.0]
+  OMIM_ID: ['601225']
+  UniProt_ID: [P54792]

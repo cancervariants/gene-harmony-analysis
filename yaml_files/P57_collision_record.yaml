@@ -1,0 +1,22 @@
+collision_symbol: p57
+CDKN1C:
+  ENSG_ID: [ENSG00000129757]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [1028.0]
+  OMIM_ID: ['600856']
+  UniProt_ID: [P49918]
+CORO1A:
+  ENSG_ID: [ENSG00000102879]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [11151.0]
+  OMIM_ID: ['605000']
+  UniProt_ID: [P31146]
+H3P47:
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]

@@ -1,0 +1,15 @@
+collision_symbol: SYM1
+MPV17:
+  ENSG_ID: [ENSG00000115204]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [4358.0]
+  OMIM_ID: ['137960']
+  UniProt_ID: [P39210]
+NOG:
+  ENSG_ID: [ENSG00000183691]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q22]
+  NCBI Gene ID: [9241.0]
+  OMIM_ID: ['602991']
+  UniProt_ID: [Q13253]

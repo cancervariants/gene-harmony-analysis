@@ -1,0 +1,15 @@
+collision_symbol: EPPK
+KRT1:
+  ENSG_ID: [ENSG00000167768]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3848.0]
+  OMIM_ID: ['139350']
+  UniProt_ID: [P04264]
+KRT9:
+  ENSG_ID: [ENSG00000171403]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3857.0]
+  OMIM_ID: ['607606']
+  UniProt_ID: [P35527]

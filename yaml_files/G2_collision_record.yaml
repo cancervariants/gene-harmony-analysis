@@ -1,0 +1,22 @@
+collision_symbol: G2
+CRYGEP:
+  ENSG_ID: [ENSG00000229150, ENSG00000290929]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q33.3, .nan]
+  NCBI Gene ID: [200575.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+KIAA1549L:
+  ENSG_ID: [ENSG00000110427]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p13]
+  NCBI Gene ID: [25758.0]
+  OMIM_ID: ['612297']
+  UniProt_ID: [Q6ZVL6]
+PRRC2A:
+  ENSG_ID: [ENSG00000204469]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [7916.0]
+  OMIM_ID: ['142580']
+  UniProt_ID: [P48634]

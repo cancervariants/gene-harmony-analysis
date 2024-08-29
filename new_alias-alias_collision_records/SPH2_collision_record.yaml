@@ -1,6 +1,0 @@
-collision_group:
-- ensg_id: ENSG00000029534
-  gene_symbol: ANK1
-- ensg_id: ENSG00000070182
-  gene_symbol: ' SPTB'
-collision_symbol: SPH2
