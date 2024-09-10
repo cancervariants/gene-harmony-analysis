@@ -1,0 +1,10 @@
+primary_group: A
+secondary_groups:
+- secondary_group: X
+  data:
+  - value1: 10
+    value2: 100
+- secondary_group: Y
+  data:
+  - value1: 20
+    value2: 200
