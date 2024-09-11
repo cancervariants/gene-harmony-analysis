@@ -1,0 +1,26 @@
+collision_symbol: MPP6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MPHOSPH6
+  ENSG_ID: [ENSG00000135698]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q23.3]
+  NCBI Gene ID: [10200.0]
+  OMIM_ID: ['605500']
+  UniProt_ID: [Q99547]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PALS2
+  ENSG_ID: [ENSG00000105926]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [51678.0]
+  OMIM_ID: ['606959']
+  UniProt_ID: [Q9NZW5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

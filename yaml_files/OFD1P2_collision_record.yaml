@@ -1,0 +1,26 @@
+collision_symbol: OFD1P2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OFD1P2Y
+  ENSG_ID: [ENSG00000226611]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Yq11.222]
+  NCBI Gene ID: [378010.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OFD1P6Y
+  ENSG_ID: [ENSG00000242153]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Yq11.222]
+  NCBI Gene ID: [386690.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

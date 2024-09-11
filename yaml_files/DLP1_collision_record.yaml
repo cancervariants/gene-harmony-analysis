@@ -1,0 +1,26 @@
+collision_symbol: DLP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNM1L
+  ENSG_ID: [ENSG00000087470]
+  source: [NCBI Info]
+  Chromosome: [12p11.21]
+  NCBI Gene ID: [10059.0]
+  OMIM_ID: ['603850']
+  UniProt_ID: [O00429]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PDSS2
+  ENSG_ID: [ENSG00000164494]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [57107.0]
+  OMIM_ID: ['610564']
+  UniProt_ID: [Q86YH6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

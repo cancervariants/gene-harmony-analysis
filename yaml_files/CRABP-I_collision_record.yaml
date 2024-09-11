@@ -1,0 +1,26 @@
+collision_symbol: CRABP-I
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRABP1
+  ENSG_ID: [ENSG00000166426]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [1381.0]
+  OMIM_ID: ['180230']
+  UniProt_ID: [P29762]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBP1
+  ENSG_ID: [ENSG00000114115]
+  source: [NCBI Info]
+  Chromosome: [3q23]
+  NCBI Gene ID: [5947.0]
+  OMIM_ID: ['180260']
+  UniProt_ID: [P09455]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

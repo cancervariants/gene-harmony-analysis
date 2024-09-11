@@ -1,0 +1,26 @@
+collision_symbol: LIM1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LHX1
+  ENSG_ID: [ENSG00000273706]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q12]
+  NCBI Gene ID: [3975.0]
+  OMIM_ID: ['601999']
+  UniProt_ID: [P48742]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIP
+  ENSG_ID: [ENSG00000135517]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [4284.0]
+  OMIM_ID: ['154050']
+  UniProt_ID: [P30301]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

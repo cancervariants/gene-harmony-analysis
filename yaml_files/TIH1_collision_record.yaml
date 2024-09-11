@@ -1,0 +1,26 @@
+collision_symbol: TIH1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHLDA3
+  ENSG_ID: [ENSG00000174307]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [23612.0]
+  OMIM_ID: ['607054']
+  UniProt_ID: [Q9Y5J5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUVBL1
+  ENSG_ID: [ENSG00000175792]
+  source: [NCBI Info]
+  Chromosome: [3q21.3]
+  NCBI Gene ID: [8607.0]
+  OMIM_ID: ['603449']
+  UniProt_ID: [Q9Y265]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,48 @@
+collision_symbol: CG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EPB41L4B
+  ENSG_ID: [ENSG00000095203]
+  source: [NCBI Info]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [54566.0]
+  OMIM_ID: ['610340']
+  UniProt_ID: [Q9H329]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KTN1
+  ENSG_ID: [ENSG00000126777]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q22.3]
+  NCBI Gene ID: [3895.0]
+  OMIM_ID: ['600381']
+  UniProt_ID: [Q86UP2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAMLD1
+  ENSG_ID: [ENSG00000013619]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [10046.0]
+  OMIM_ID: ['300120']
+  UniProt_ID: [Q13495]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NUP42
+  ENSG_ID: [ENSG00000136243]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [11097.0]
+  OMIM_ID: ['619998']
+  UniProt_ID: [O15504]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

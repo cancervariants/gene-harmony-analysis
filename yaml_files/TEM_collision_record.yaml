@@ -1,0 +1,37 @@
+collision_symbol: TEM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYLD
+  ENSG_ID: [ENSG00000083799]
+  source: [NCBI Info]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [1540.0]
+  OMIM_ID: ['605018']
+  UniProt_ID: [Q9NQC7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MFT2
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNMD
+  ENSG_ID: [ENSG00000000005]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [64102.0]
+  OMIM_ID: ['300459']
+  UniProt_ID: [Q9H2S6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: LCAD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACADL
+  ENSG_ID: [ENSG00000115361]
+  source: [NCBI Info]
+  Chromosome: [2q34]
+  NCBI Gene ID: [33.0]
+  OMIM_ID: ['609576']
+  UniProt_ID: [P28330]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CALD1
+  ENSG_ID: [ENSG00000122786]
+  source: [NCBI Info]
+  Chromosome: [7q33]
+  NCBI Gene ID: [800.0]
+  OMIM_ID: ['114213']
+  UniProt_ID: [Q05682]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

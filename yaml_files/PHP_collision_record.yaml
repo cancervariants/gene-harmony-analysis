@@ -1,0 +1,37 @@
+collision_symbol: PHP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASAH1
+  ENSG_ID: [ENSG00000104763]
+  source: [NCBI Info]
+  Chromosome: [8p22]
+  NCBI Gene ID: [427.0]
+  OMIM_ID: ['613468']
+  UniProt_ID: [Q13510]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PHPT1
+  ENSG_ID: [ENSG00000054148]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [29085.0]
+  OMIM_ID: ['610167']
+  UniProt_ID: [Q9NRX4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SOX3
+  ENSG_ID: [ENSG00000134595]
+  source: [NCBI Info]
+  Chromosome: [Xq27.1]
+  NCBI Gene ID: [6658.0]
+  OMIM_ID: ['313430']
+  UniProt_ID: [P41225]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: TER
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TECR
+  ENSG_ID: [ENSG00000099797]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [9524.0]
+  OMIM_ID: ['610057']
+  UniProt_ID: [Q9NZ01]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TERC
+  ENSG_ID: [ENSG00000277925, ENSG00000270141]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 3q26.2]
+  NCBI Gene ID: [.nan, 7012.0]
+  OMIM_ID: [.nan, '602322']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

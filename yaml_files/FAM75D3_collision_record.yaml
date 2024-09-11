@@ -1,0 +1,26 @@
+collision_symbol: FAM75D3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPATA31D3
+  ENSG_ID: [ENSG00000186788]
+  source: [NCBI Info]
+  Chromosome: [9q21.32]
+  NCBI Gene ID: [389762.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0C874]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPATA31D4
+  ENSG_ID: [ENSG00000189357]
+  source: [NCBI Info]
+  Chromosome: [9q21.32]
+  NCBI Gene ID: [389761.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6ZUB0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

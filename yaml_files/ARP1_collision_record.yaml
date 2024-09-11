@@ -1,0 +1,70 @@
+collision_symbol: ARP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACTR1A
+  ENSG_ID: [ENSG00000138107]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [10121.0]
+  OMIM_ID: ['605143']
+  UniProt_ID: [P61163]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ANGPTL1
+  ENSG_ID: [ENSG00000116194]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q25.2]
+  NCBI Gene ID: [9068.0]
+  OMIM_ID: ['603874']
+  UniProt_ID: [O95841]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: APOBEC2
+  ENSG_ID: [ENSG00000124701]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [10930.0]
+  OMIM_ID: ['604797']
+  UniProt_ID: [Q9Y235]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARFRP1
+  ENSG_ID: [ENSG00000101246]
+  source: [ENSG]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [10139.0]
+  OMIM_ID: ['604699']
+  UniProt_ID: [Q13795]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NR2F2
+  ENSG_ID: [ENSG00000185551]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q26.2]
+  NCBI Gene ID: [7026.0]
+  OMIM_ID: ['107773']
+  UniProt_ID: [P24468]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PITX2
+  ENSG_ID: [ENSG00000164093]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q25]
+  NCBI Gene ID: [5308.0]
+  OMIM_ID: ['601542']
+  UniProt_ID: [Q99697]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

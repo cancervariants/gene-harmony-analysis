@@ -1,0 +1,37 @@
+collision_symbol: ALDH4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALDH3B1
+  ENSG_ID: [ENSG00000006534]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [221.0]
+  OMIM_ID: ['600466']
+  UniProt_ID: [P43353]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ALDH4A1
+  ENSG_ID: [ENSG00000159423]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [8659.0]
+  OMIM_ID: ['606811']
+  UniProt_ID: [P30038]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ALDH9A1
+  ENSG_ID: [ENSG00000143149]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q24.1]
+  NCBI Gene ID: [223.0]
+  OMIM_ID: ['602733']
+  UniProt_ID: [P49189]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

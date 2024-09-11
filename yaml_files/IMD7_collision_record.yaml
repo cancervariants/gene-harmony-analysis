@@ -1,0 +1,26 @@
+collision_symbol: IMD7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRA
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [6955.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: ['P0DSE1, P0DTU3']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAC
+  ENSG_ID: [ENSG00000277734]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28755.0]
+  OMIM_ID: ['186880']
+  UniProt_ID: [P01848]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

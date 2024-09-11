@@ -1,0 +1,26 @@
+collision_symbol: PARP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COL11A2
+  ENSG_ID: [ENSG00000204248]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [1302.0]
+  OMIM_ID: ['120290']
+  UniProt_ID: [P13942]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PARP1
+  ENSG_ID: [ENSG00000143799]
+  source: [NCBI Info]
+  Chromosome: [1q42.12]
+  NCBI Gene ID: [142.0]
+  OMIM_ID: ['173870']
+  UniProt_ID: [P09874]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: BCRP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCG2
+  ENSG_ID: [ENSG00000118777]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [9429.0]
+  OMIM_ID: ['603756']
+  UniProt_ID: [Q9UNQ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BANF1
+  ENSG_ID: [ENSG00000175334]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [8815.0]
+  OMIM_ID: ['603811']
+  UniProt_ID: [O75531]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BANF1P1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

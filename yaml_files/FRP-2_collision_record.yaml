@@ -1,0 +1,26 @@
+collision_symbol: FRP-2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ITGA3
+  ENSG_ID: [ENSG00000005884]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [3675.0]
+  OMIM_ID: ['605025']
+  UniProt_ID: [P26006]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SFRP2
+  ENSG_ID: [ENSG00000145423]
+  source: [NCBI Info]
+  Chromosome: [4q31.3]
+  NCBI Gene ID: [6423.0]
+  OMIM_ID: ['604157']
+  UniProt_ID: [Q96HF1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

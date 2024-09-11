@@ -1,0 +1,26 @@
+collision_symbol: HEL-75
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEFB132
+  ENSG_ID: [ENSG00000186458]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [400830.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q7Z7B7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GSR
+  ENSG_ID: [ENSG00000104687]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [2936.0]
+  OMIM_ID: ['138300']
+  UniProt_ID: [P00390]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

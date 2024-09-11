@@ -1,0 +1,26 @@
+collision_symbol: KFSDX
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MBTPS2
+  ENSG_ID: [ENSG00000012174]
+  source: [NCBI Info]
+  Chromosome: [Xp22.12]
+  NCBI Gene ID: [51360.0]
+  OMIM_ID: ['300294']
+  UniProt_ID: [O43462]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SAT1
+  ENSG_ID: [ENSG00000130066]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [6303.0]
+  OMIM_ID: ['313020']
+  UniProt_ID: [P21673]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: HPS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AP3B1
+  ENSG_ID: [ENSG00000132842]
+  source: [NCBI Info]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [8546.0]
+  OMIM_ID: ['603401']
+  UniProt_ID: [O00203]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FGL1
+  ENSG_ID: [ENSG00000104760]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8p22]
+  NCBI Gene ID: [2267.0]
+  OMIM_ID: ['605776']
+  UniProt_ID: [Q08830]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HPS1
+  ENSG_ID: [ENSG00000107521]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q24.2]
+  NCBI Gene ID: [3257.0]
+  OMIM_ID: ['604982']
+  UniProt_ID: [Q92902]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MDDGC7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRPPA
+  ENSG_ID: [ENSG00000214960]
+  source: [NCBI Info]
+  Chromosome: [7p21.2]
+  NCBI Gene ID: [729920.0]
+  OMIM_ID: ['614631']
+  UniProt_ID: [A4D126]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DAG1
+  ENSG_ID: [ENSG00000173402]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [1605.0]
+  OMIM_ID: ['128239']
+  UniProt_ID: [Q14118]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

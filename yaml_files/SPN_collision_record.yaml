@@ -1,0 +1,26 @@
+collision_symbol: SPN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEAF1
+  ENSG_ID: [ENSG00000177030]
+  source: [ENSG]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [10522.0]
+  OMIM_ID: ['602635']
+  UniProt_ID: [O75398]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP1R9B
+  ENSG_ID: [ENSG00000108819]
+  source: [ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [84687.0]
+  OMIM_ID: ['603325']
+  UniProt_ID: [Q96SB3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

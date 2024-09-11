@@ -1,0 +1,26 @@
+collision_symbol: CSS3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHSY3
+  ENSG_ID: [ENSG00000198108]
+  source: [NCBI Info]
+  Chromosome: [5q23.3]
+  NCBI Gene ID: [337876.0]
+  OMIM_ID: ['609963']
+  UniProt_ID: [Q70JA7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMARCB1
+  ENSG_ID: [ENSG00000099956]
+  source: [NCBI Info]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [6598.0]
+  OMIM_ID: ['601607']
+  UniProt_ID: [Q12824]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

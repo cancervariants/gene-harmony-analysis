@@ -1,0 +1,26 @@
+collision_symbol: GPCR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPR160
+  ENSG_ID: [ENSG00000173890]
+  source: [NCBI Info]
+  Chromosome: [3q26.2]
+  NCBI Gene ID: [26996.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9UJ42]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: P2RY13
+  ENSG_ID: [ENSG00000181631]
+  source: [NCBI Info]
+  Chromosome: [3q25.1]
+  NCBI Gene ID: [53829.0]
+  OMIM_ID: ['606380']
+  UniProt_ID: [Q9BPV8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

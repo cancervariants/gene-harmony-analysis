@@ -1,0 +1,26 @@
+collision_symbol: ARIP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACTRT1
+  ENSG_ID: [ENSG00000123165]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [139741.0]
+  OMIM_ID: ['300487']
+  UniProt_ID: [Q8TDG2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGI2
+  ENSG_ID: [ENSG00000187391]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [9863.0]
+  OMIM_ID: ['606382']
+  UniProt_ID: [Q86UL8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

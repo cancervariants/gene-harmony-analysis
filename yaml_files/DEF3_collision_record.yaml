@@ -1,0 +1,26 @@
+collision_symbol: DEF3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DEFA3
+  ENSG_ID: [ENSG00000239839]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1668.0]
+  OMIM_ID: ['604522']
+  UniProt_ID: [P59666]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBM6
+  ENSG_ID: [ENSG00000004534]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10180.0]
+  OMIM_ID: ['606886']
+  UniProt_ID: [P78332]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

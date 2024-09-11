@@ -1,0 +1,26 @@
+collision_symbol: APH2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NCSTN
+  ENSG_ID: [ENSG00000162736]
+  source: [ENSG]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [23385.0]
+  OMIM_ID: ['605254']
+  UniProt_ID: [Q92542]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZDHHC16
+  ENSG_ID: [ENSG00000171307]
+  source: [ENSG]
+  Chromosome: [10q24.1]
+  NCBI Gene ID: [84287.0]
+  OMIM_ID: ['616750']
+  UniProt_ID: [Q969W1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

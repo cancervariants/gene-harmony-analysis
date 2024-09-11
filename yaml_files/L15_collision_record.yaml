@@ -1,0 +1,37 @@
+collision_symbol: L15
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC34
+  ENSG_ID: [ENSG00000109881]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11p14.1]
+  NCBI Gene ID: [91057.0]
+  OMIM_ID: ['612324']
+  UniProt_ID: [Q96HJ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGKV1D-16
+  ENSG_ID: [ENSG00000241244]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28901.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P01601]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL15
+  ENSG_ID: [ENSG00000174748]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3p24.2]
+  NCBI Gene ID: [6138.0]
+  OMIM_ID: ['604174']
+  UniProt_ID: [P61313]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

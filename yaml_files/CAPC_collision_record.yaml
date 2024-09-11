@@ -1,0 +1,26 @@
+collision_symbol: CAPC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LRRC26
+  ENSG_ID: [ENSG00000184709]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [389816.0]
+  OMIM_ID: ['613505']
+  UniProt_ID: [Q2I0M4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMC4
+  ENSG_ID: [ENSG00000113810]
+  source: [NCBI Info]
+  Chromosome: [3q25.33]
+  NCBI Gene ID: [10051.0]
+  OMIM_ID: ['605575']
+  UniProt_ID: [Q9NTJ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

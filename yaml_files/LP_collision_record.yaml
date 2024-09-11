@@ -1,0 +1,26 @@
+collision_symbol: LP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LPA
+  ENSG_ID: [ENSG00000198670]
+  source: [NCBI Info]
+  Chromosome: [6q25.3-q26]
+  NCBI Gene ID: [4018.0]
+  OMIM_ID: ['152200']
+  UniProt_ID: [P08519]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEPSECS
+  ENSG_ID: [ENSG00000109618]
+  source: [NCBI Info]
+  Chromosome: [4p15.2]
+  NCBI Gene ID: [51091.0]
+  OMIM_ID: ['613009']
+  UniProt_ID: [Q9HD40]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

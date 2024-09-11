@@ -1,0 +1,26 @@
+collision_symbol: CHE1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AATF
+  ENSG_ID: [ENSG00000275700]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [26574.0]
+  OMIM_ID: ['608463']
+  UniProt_ID: [Q9NY61]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BCHE
+  ENSG_ID: [ENSG00000114200]
+  source: [NCBI Info]
+  Chromosome: [3q26.1]
+  NCBI Gene ID: [590.0]
+  OMIM_ID: ['177400']
+  UniProt_ID: [P06276]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

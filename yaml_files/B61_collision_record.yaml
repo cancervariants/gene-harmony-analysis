@@ -1,0 +1,26 @@
+collision_symbol: B61
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EFNA1
+  ENSG_ID: [ENSG00000169242]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [1942.0]
+  OMIM_ID: ['191164']
+  UniProt_ID: [P20827]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNFAIP1
+  ENSG_ID: [ENSG00000109079]
+  source: [NCBI Info]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [7126.0]
+  OMIM_ID: ['191161']
+  UniProt_ID: [Q13829]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

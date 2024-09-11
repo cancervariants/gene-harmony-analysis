@@ -1,0 +1,26 @@
+collision_symbol: CT6.1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTAG1A
+  ENSG_ID: [ENSG00000268651]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [246100.0]
+  OMIM_ID: ['300657']
+  UniProt_ID: [P78358]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTAG1B
+  ENSG_ID: [ENSG00000184033]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [1485.0]
+  OMIM_ID: ['300156']
+  UniProt_ID: [P78358]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

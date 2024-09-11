@@ -1,0 +1,59 @@
+collision_symbol: p150
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABL1
+  ENSG_ID: [ENSG00000097007]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q34.12]
+  NCBI Gene ID: [25.0]
+  OMIM_ID: ['189980']
+  UniProt_ID: [P00519]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ANPEP
+  ENSG_ID: [ENSG00000166825]
+  source: [HGNC]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [290.0]
+  OMIM_ID: ['151530']
+  UniProt_ID: [P15144]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTR9
+  ENSG_ID: [ENSG00000198730]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [9646.0]
+  OMIM_ID: ['609366']
+  UniProt_ID: [Q6PD62]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3R4
+  ENSG_ID: [ENSG00000196455]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3q22.1]
+  NCBI Gene ID: [30849.0]
+  OMIM_ID: ['602610']
+  UniProt_ID: [Q99570]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAB3GAP2
+  ENSG_ID: [ENSG00000118873]
+  source: [NCBI Info]
+  Chromosome: [1q41]
+  NCBI Gene ID: [25782.0]
+  OMIM_ID: ['609275']
+  UniProt_ID: [Q9H2M9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CKB1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCL14
+  ENSG_ID: [ENSG00000276409]
+  source: [ENSG]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6358.0]
+  OMIM_ID: ['601392']
+  UniProt_ID: [Q16627]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CSNK2B
+  ENSG_ID: [ENSG00000204435]
+  source: [ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [1460.0]
+  OMIM_ID: ['115441']
+  UniProt_ID: [P67870]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

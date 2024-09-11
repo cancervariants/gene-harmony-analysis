@@ -1,0 +1,26 @@
+collision_symbol: p115
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARHGAP4
+  ENSG_ID: [ENSG00000089820]
+  source: [HGNC]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [393.0]
+  OMIM_ID: ['300023']
+  UniProt_ID: [P98171]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: USO1
+  ENSG_ID: [ENSG00000138768]
+  source: [HGNC]
+  Chromosome: [4q21.1]
+  NCBI Gene ID: [8615.0]
+  OMIM_ID: ['603344']
+  UniProt_ID: [O60763]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

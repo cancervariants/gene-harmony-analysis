@@ -1,0 +1,26 @@
+collision_symbol: APP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PABPC4
+  ENSG_ID: [ENSG00000090621]
+  source: [NCBI Info]
+  Chromosome: [1p34.3]
+  NCBI Gene ID: [8761.0]
+  OMIM_ID: ['603407']
+  UniProt_ID: [Q13310]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: XPNPEP1
+  ENSG_ID: [ENSG00000108039]
+  source: [NCBI Info]
+  Chromosome: [10q25.1]
+  NCBI Gene ID: [7511.0]
+  OMIM_ID: ['602443']
+  UniProt_ID: [Q9NQW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

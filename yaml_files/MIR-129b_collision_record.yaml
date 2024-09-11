@@ -1,0 +1,26 @@
+collision_symbol: MIR-129b
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MIR129-1
+  ENSG_ID: [ENSG00000207705]
+  source: [NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [406917.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIR129-2
+  ENSG_ID: [ENSG00000199077]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [406918.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

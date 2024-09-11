@@ -1,0 +1,70 @@
+collision_symbol: p100
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASCC2
+  ENSG_ID: [ENSG00000100325]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [84164.0]
+  OMIM_ID: ['614216']
+  UniProt_ID: [Q9H1I8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CUX1
+  ENSG_ID: [ENSG00000257923]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [1523.0]
+  OMIM_ID: ['116896']
+  UniProt_ID: ['P39880, Q13948']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NFKB2
+  ENSG_ID: [ENSG00000077150]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [4791.0]
+  OMIM_ID: ['164012']
+  UniProt_ID: [Q00653]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OAS3
+  ENSG_ID: [ENSG00000111331]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [4940.0]
+  OMIM_ID: ['603351']
+  UniProt_ID: [Q9Y6K5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SND1
+  ENSG_ID: [ENSG00000197157]
+  source: [NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [27044.0]
+  OMIM_ID: ['602181']
+  UniProt_ID: [Q7KZF4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPX2
+  ENSG_ID: [ENSG00000088325]
+  source: [NCBI Info]
+  Chromosome: [20q11.21]
+  NCBI Gene ID: [22974.0]
+  OMIM_ID: ['605917']
+  UniProt_ID: [Q9ULW0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

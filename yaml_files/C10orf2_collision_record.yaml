@@ -1,0 +1,26 @@
+collision_symbol: C10orf2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHMP1B
+  ENSG_ID: [ENSG00000255112]
+  source: [NCBI Info]
+  Chromosome: [18p11.21]
+  NCBI Gene ID: [57132.0]
+  OMIM_ID: ['606486']
+  UniProt_ID: [Q7LBR1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TWNK
+  ENSG_ID: [ENSG00000107815]
+  source: [NCBI Info]
+  Chromosome: [10q24.31]
+  NCBI Gene ID: [56652.0]
+  OMIM_ID: ['606075']
+  UniProt_ID: [Q96RR1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

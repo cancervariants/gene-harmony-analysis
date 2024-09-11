@@ -1,0 +1,26 @@
+collision_symbol: 12-LOX
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALOX12
+  ENSG_ID: [ENSG00000108839]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [239.0]
+  OMIM_ID: ['152391']
+  UniProt_ID: [P18054]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ALOX15
+  ENSG_ID: [ENSG00000161905]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [246.0]
+  OMIM_ID: ['152392']
+  UniProt_ID: [P16050]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: C17DUPp13.3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DUP17P13.3
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SHFLD3
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

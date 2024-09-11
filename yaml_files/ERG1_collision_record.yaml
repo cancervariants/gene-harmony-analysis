@@ -1,0 +1,26 @@
+collision_symbol: ERG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CUZD1
+  ENSG_ID: [ENSG00000138161]
+  source: [NCBI Info]
+  Chromosome: [10q26.13]
+  NCBI Gene ID: [50624.0]
+  OMIM_ID: ['616644']
+  UniProt_ID: [Q86UP6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNH2
+  ENSG_ID: [ENSG00000055118]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [3757.0]
+  OMIM_ID: ['152427']
+  UniProt_ID: [Q12809]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

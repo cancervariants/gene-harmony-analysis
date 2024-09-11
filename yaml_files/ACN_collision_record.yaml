@@ -1,0 +1,26 @@
+collision_symbol: ACN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACIN1
+  ENSG_ID: [ENSG00000100813]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [22985.0]
+  OMIM_ID: ['604562']
+  UniProt_ID: [Q9UKV3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NF2
+  ENSG_ID: [ENSG00000186575]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [4771.0]
+  OMIM_ID: ['607379']
+  UniProt_ID: [P35240]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

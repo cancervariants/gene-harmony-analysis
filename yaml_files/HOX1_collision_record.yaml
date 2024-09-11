@@ -1,0 +1,114 @@
+collision_symbol: HOX1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HOXA1
+  ENSG_ID: [ENSG00000105991]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3198.0]
+  OMIM_ID: ['142955']
+  UniProt_ID: [P49639]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA10
+  ENSG_ID: [ENSG00000253293]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3206.0]
+  OMIM_ID: ['142957']
+  UniProt_ID: [P31260]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA11
+  ENSG_ID: [ENSG00000005073]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3207.0]
+  OMIM_ID: ['142958']
+  UniProt_ID: [P31270]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA13
+  ENSG_ID: [ENSG00000106031]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3209.0]
+  OMIM_ID: ['142959']
+  UniProt_ID: [P31271]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA3
+  ENSG_ID: [ENSG00000105997]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3200.0]
+  OMIM_ID: ['142954']
+  UniProt_ID: [O43365]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA4
+  ENSG_ID: [ENSG00000197576]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3201.0]
+  OMIM_ID: ['142953']
+  UniProt_ID: [Q00056]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA5
+  ENSG_ID: [ENSG00000106004]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3202.0]
+  OMIM_ID: ['142952']
+  UniProt_ID: [P20719]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA6
+  ENSG_ID: [ENSG00000106006]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3203.0]
+  OMIM_ID: ['142951']
+  UniProt_ID: [P31267]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA7
+  ENSG_ID: [ENSG00000122592]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3204.0]
+  OMIM_ID: ['142950']
+  UniProt_ID: [P31268]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXA9
+  ENSG_ID: [ENSG00000078399]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3205.0]
+  OMIM_ID: ['142956']
+  UniProt_ID: [P31269]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

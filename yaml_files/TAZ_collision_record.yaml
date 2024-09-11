@@ -1,0 +1,26 @@
+collision_symbol: TAZ
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TAFAZZIN
+  ENSG_ID: [ENSG00000102125]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [6901.0]
+  OMIM_ID: ['300394']
+  UniProt_ID: [Q16635]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WWTR1
+  ENSG_ID: [ENSG00000018408]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q25.1]
+  NCBI Gene ID: [25937.0]
+  OMIM_ID: ['607392']
+  UniProt_ID: [Q9GZV5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

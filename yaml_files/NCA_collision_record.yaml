@@ -1,0 +1,26 @@
+collision_symbol: NCA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEACAM4
+  ENSG_ID: [ENSG00000105352]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [1089.0]
+  OMIM_ID: ['619159']
+  UniProt_ID: [O75871]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CEACAM6
+  ENSG_ID: [ENSG00000086548]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [4680.0]
+  OMIM_ID: ['163980']
+  UniProt_ID: [P40199]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

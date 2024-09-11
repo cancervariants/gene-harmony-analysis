@@ -1,0 +1,26 @@
+collision_symbol: HLA-HA2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: D6S207E
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYO1G
+  ENSG_ID: [ENSG00000136286]
+  source: [NCBI Info]
+  Chromosome: [7p13]
+  NCBI Gene ID: [64005.0]
+  OMIM_ID: ['600642']
+  UniProt_ID: [B0I1T2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

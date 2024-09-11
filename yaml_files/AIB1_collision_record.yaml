@@ -1,0 +1,26 @@
+collision_symbol: AIB1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANIB1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [7q11.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NCOA3
+  ENSG_ID: [ENSG00000124151]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [8202.0]
+  OMIM_ID: ['601937']
+  UniProt_ID: [Q9Y6Q9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

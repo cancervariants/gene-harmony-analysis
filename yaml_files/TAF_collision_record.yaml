@@ -1,0 +1,26 @@
+collision_symbol: TAF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGFBP7
+  ENSG_ID: [ENSG00000163453]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [3490.0]
+  OMIM_ID: ['602867']
+  UniProt_ID: [Q16270]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAF8
+  ENSG_ID: [ENSG00000137413]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [129685.0]
+  OMIM_ID: ['609514']
+  UniProt_ID: [Q7Z7C8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

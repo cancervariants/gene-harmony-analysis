@@ -1,0 +1,26 @@
+collision_symbol: EEF1B
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EEF1B2
+  ENSG_ID: [ENSG00000114942]
+  source: [NCBI Info]
+  Chromosome: [2q33.3]
+  NCBI Gene ID: [1933.0]
+  OMIM_ID: ['600655']
+  UniProt_ID: [P24534]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EEF1B2P2
+  ENSG_ID: [ENSG00000213864]
+  source: [NCBI Info]
+  Chromosome: [5q13.1]
+  NCBI Gene ID: [1934.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

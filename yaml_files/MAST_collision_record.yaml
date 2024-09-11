@@ -1,0 +1,26 @@
+collision_symbol: MAST
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPACA9
+  ENSG_ID: [ENSG00000165698]
+  source: [ENSG]
+  Chromosome: [9q34.13]
+  NCBI Gene ID: [11092.0]
+  OMIM_ID: ['618552']
+  UniProt_ID: [Q96E40]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPG21
+  ENSG_ID: [ENSG00000090487]
+  source: [ENSG]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [51324.0]
+  OMIM_ID: ['608181']
+  UniProt_ID: [Q9NZD8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

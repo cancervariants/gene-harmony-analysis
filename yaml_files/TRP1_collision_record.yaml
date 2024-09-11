@@ -1,0 +1,59 @@
+collision_symbol: TRP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRSS1
+  ENSG_ID: [ENSG00000204983]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [5644.0]
+  OMIM_ID: ['276000']
+  UniProt_ID: [P07477]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RANBP2
+  ENSG_ID: [ENSG00000153201]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [5903.0]
+  OMIM_ID: ['601181']
+  UniProt_ID: [P49792]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRP-AGG2-5
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [7217.0]
+  OMIM_ID: ['189930']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRPC1
+  ENSG_ID: [ENSG00000144935]
+  source: [NCBI Info]
+  Chromosome: [3q23]
+  NCBI Gene ID: [7220.0]
+  OMIM_ID: ['602343']
+  UniProt_ID: [P48995]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TYRP1
+  ENSG_ID: [ENSG00000107165]
+  source: [NCBI Info]
+  Chromosome: [9p23]
+  NCBI Gene ID: [7306.0]
+  OMIM_ID: ['115501']
+  UniProt_ID: [P17643]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

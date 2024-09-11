@@ -1,0 +1,26 @@
+collision_symbol: PRAF1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POLR1E
+  ENSG_ID: [ENSG00000137054]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p13.2]
+  NCBI Gene ID: [64425.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9GZS1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RABAC1
+  ENSG_ID: [ENSG00000105404]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [10567.0]
+  OMIM_ID: ['604925']
+  UniProt_ID: [Q9UI14]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

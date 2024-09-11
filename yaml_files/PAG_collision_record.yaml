@@ -1,0 +1,26 @@
+collision_symbol: PAG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PAG1
+  ENSG_ID: [ENSG00000076641]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [55824.0]
+  OMIM_ID: ['605767']
+  UniProt_ID: [Q9NWQ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRDX1
+  ENSG_ID: [ENSG00000117450]
+  source: [NCBI Info]
+  Chromosome: [1p34.1]
+  NCBI Gene ID: [5052.0]
+  OMIM_ID: ['176763']
+  UniProt_ID: [Q06830]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

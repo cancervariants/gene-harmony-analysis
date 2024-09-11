@@ -1,0 +1,37 @@
+collision_symbol: p22
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHP1
+  ENSG_ID: [ENSG00000187446]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [11261.0]
+  OMIM_ID: ['606988']
+  UniProt_ID: [Q99653]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DYNC1H1
+  ENSG_ID: [ENSG00000197102]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q32.31]
+  NCBI Gene ID: [1778.0]
+  OMIM_ID: ['600112']
+  UniProt_ID: [Q14204]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PHB2
+  ENSG_ID: [ENSG00000215021]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [11331.0]
+  OMIM_ID: ['610704']
+  UniProt_ID: [Q99623]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

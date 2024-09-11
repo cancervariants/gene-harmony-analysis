@@ -1,0 +1,26 @@
+collision_symbol: MINK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KCNE1
+  ENSG_ID: [ENSG00000180509]
+  source: [ENSG]
+  Chromosome: [21q22.12]
+  NCBI Gene ID: [3753.0]
+  OMIM_ID: ['176261']
+  UniProt_ID: [P15382]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MINK1
+  ENSG_ID: [ENSG00000141503]
+  source: [ENSG]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [50488.0]
+  OMIM_ID: ['609426']
+  UniProt_ID: [Q8N4C8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

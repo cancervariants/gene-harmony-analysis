@@ -1,0 +1,59 @@
+collision_symbol: II
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD74
+  ENSG_ID: [ENSG00000019582]
+  source: [NCBI Info]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [972.0]
+  OMIM_ID: ['142790']
+  UniProt_ID: [P04233]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GCNT2
+  ENSG_ID: [ENSG00000111846]
+  source: [NCBI Info]
+  Chromosome: [6p24.3-p24.2]
+  NCBI Gene ID: [2651.0]
+  OMIM_ID: ['600429']
+  UniProt_ID: [Q8N0V5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAF8
+  ENSG_ID: [ENSG00000137413]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [129685.0]
+  OMIM_ID: ['609514']
+  UniProt_ID: [Q7Z7C8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN2
+  ENSG_ID: [ENSG00000185339]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [6948.0]
+  OMIM_ID: ['613441']
+  UniProt_ID: [P20062]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VIPR1
+  ENSG_ID: [ENSG00000114812]
+  source: [NCBI Info]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [7433.0]
+  OMIM_ID: ['192321']
+  UniProt_ID: [P32241]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

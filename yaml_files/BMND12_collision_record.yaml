@@ -1,0 +1,26 @@
+collision_symbol: BMND12
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXO33
+  ENSG_ID: [ENSG00000165355]
+  source: [NCBI Info]
+  Chromosome: [14q21.1]
+  NCBI Gene ID: [254170.0]
+  OMIM_ID: ['609103']
+  UniProt_ID: [Q7Z6M2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT2B17
+  ENSG_ID: [ENSG00000197888]
+  source: [NCBI Info]
+  Chromosome: [4q13.2]
+  NCBI Gene ID: [7367.0]
+  OMIM_ID: ['601903']
+  UniProt_ID: [O75795]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: MCS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MOCOS
+  ENSG_ID: [ENSG00000075643]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q12.2]
+  NCBI Gene ID: [55034.0]
+  OMIM_ID: ['613274']
+  UniProt_ID: [Q96EN8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMCP
+  ENSG_ID: [ENSG00000163206]
+  source: [NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [4184.0]
+  OMIM_ID: ['601148']
+  UniProt_ID: [P49901]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZC4H2
+  ENSG_ID: [ENSG00000126970]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq11.2]
+  NCBI Gene ID: [55906.0]
+  OMIM_ID: ['300897']
+  UniProt_ID: [Q9NQZ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MRX2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AFF2
+  ENSG_ID: [ENSG00000155966]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [2334.0]
+  OMIM_ID: ['300806']
+  UniProt_ID: [P51816]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PQBP1
+  ENSG_ID: [ENSG00000102103]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [10084.0]
+  OMIM_ID: ['300463']
+  UniProt_ID: [O60828]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: S11
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PSMD13
+  ENSG_ID: [ENSG00000185627]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [5719.0]
+  OMIM_ID: ['603481']
+  UniProt_ID: [Q9UNM6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPS11
+  ENSG_ID: [ENSG00000142534]
+  source: [NCBI Info]
+  Chromosome: [19q13.3]
+  NCBI Gene ID: [6205.0]
+  OMIM_ID: ['180471']
+  UniProt_ID: [P62280]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

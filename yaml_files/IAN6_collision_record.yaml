@@ -1,0 +1,26 @@
+collision_symbol: IAN6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GIMAP6
+  ENSG_ID: [ENSG00000133561]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [474344.0]
+  OMIM_ID: ['616960']
+  UniProt_ID: [Q6P9H5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GIMAP8
+  ENSG_ID: [ENSG00000171115]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [155038.0]
+  OMIM_ID: ['616962']
+  UniProt_ID: [Q8ND71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

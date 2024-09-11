@@ -1,0 +1,26 @@
+collision_symbol: GAT3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC6A11
+  ENSG_ID: [ENSG00000132164]
+  source: [NCBI Info]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [6538.0]
+  OMIM_ID: ['607952']
+  UniProt_ID: [P48066]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC6A13
+  ENSG_ID: [ENSG00000010379]
+  source: [NCBI Info]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [6540.0]
+  OMIM_ID: ['615097']
+  UniProt_ID: [Q9NSD5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

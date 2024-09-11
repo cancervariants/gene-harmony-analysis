@@ -1,0 +1,26 @@
+collision_symbol: FAM21A
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: WASHC2A
+  ENSG_ID: [ENSG00000099290]
+  source: [NCBI Info]
+  Chromosome: [10q11.23]
+  NCBI Gene ID: [387680.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q641Q2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WASHC2C
+  ENSG_ID: [ENSG00000172661]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [253725.0]
+  OMIM_ID: ['613631']
+  UniProt_ID: [Q9Y4E1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

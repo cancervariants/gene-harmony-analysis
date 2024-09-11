@@ -1,0 +1,70 @@
+collision_symbol: SIP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CACYBP
+  ENSG_ID: [ENSG00000116161]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q25.1]
+  NCBI Gene ID: [27101.0]
+  OMIM_ID: ['606186']
+  UniProt_ID: [Q9HB71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KANK2
+  ENSG_ID: [ENSG00000197256]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [25959.0]
+  OMIM_ID: ['614610']
+  UniProt_ID: [Q63ZY3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBM14
+  ENSG_ID: [ENSG00000239306]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [10432.0]
+  OMIM_ID: ['612409']
+  UniProt_ID: [Q96PK6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBM14-RBM4
+  ENSG_ID: [ENSG00000248643]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [100526737.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TP53INP1
+  ENSG_ID: [ENSG00000164938]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q22.1]
+  NCBI Gene ID: [94241.0]
+  OMIM_ID: ['606185']
+  UniProt_ID: [Q96A56]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSACC
+  ENSG_ID: [ENSG00000163467]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [128229.0]
+  OMIM_ID: ['619679']
+  UniProt_ID: [Q96A04]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

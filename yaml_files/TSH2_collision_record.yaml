@@ -1,0 +1,26 @@
+collision_symbol: TSH2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: THNSL2
+  ENSG_ID: [ENSG00000144115]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [55258.0]
+  OMIM_ID: ['611261']
+  UniProt_ID: [Q86YJ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSHZ2
+  ENSG_ID: [ENSG00000182463]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.2]
+  NCBI Gene ID: [128553.0]
+  OMIM_ID: ['614118']
+  UniProt_ID: [Q9NRE2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

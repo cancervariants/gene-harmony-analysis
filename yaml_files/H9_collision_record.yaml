@@ -1,0 +1,26 @@
+collision_symbol: H9
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPR50
+  ENSG_ID: [ENSG00000102195]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [9248.0]
+  OMIM_ID: ['300207']
+  UniProt_ID: [Q13585]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RHOC
+  ENSG_ID: [ENSG00000155366]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [389.0]
+  OMIM_ID: ['165380']
+  UniProt_ID: [P08134]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: M-FABP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FABP3
+  ENSG_ID: [ENSG00000121769]
+  source: [NCBI Info]
+  Chromosome: [1p35.2]
+  NCBI Gene ID: [2170.0]
+  OMIM_ID: ['134651']
+  UniProt_ID: [P05413]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PMP2
+  ENSG_ID: [ENSG00000147588]
+  source: [NCBI Info]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [5375.0]
+  OMIM_ID: ['170715']
+  UniProt_ID: [P02689]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

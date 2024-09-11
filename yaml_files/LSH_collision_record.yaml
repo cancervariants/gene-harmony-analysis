@@ -1,0 +1,26 @@
+collision_symbol: LSH
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HELLS
+  ENSG_ID: [ENSG00000119969]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q23.33]
+  NCBI Gene ID: [3070.0]
+  OMIM_ID: ['603946']
+  UniProt_ID: [Q9NRZ9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC11A1
+  ENSG_ID: [ENSG00000018280]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [6556.0]
+  OMIM_ID: ['600266']
+  UniProt_ID: [P49279]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

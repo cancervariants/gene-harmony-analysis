@@ -1,0 +1,37 @@
+collision_symbol: CPT1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHPT1
+  ENSG_ID: [ENSG00000111666]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.2]
+  NCBI Gene ID: [56994.0]
+  OMIM_ID: ['616747']
+  UniProt_ID: [Q8WUD6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CPT1A
+  ENSG_ID: [ENSG00000110090]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.3]
+  NCBI Gene ID: [1374.0]
+  OMIM_ID: ['600528']
+  UniProt_ID: [P50416]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CPT2
+  ENSG_ID: [ENSG00000157184]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [1376.0]
+  OMIM_ID: ['600650']
+  UniProt_ID: [P23786]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

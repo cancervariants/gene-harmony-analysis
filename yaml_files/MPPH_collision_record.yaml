@@ -1,0 +1,26 @@
+collision_symbol: MPPH
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AKT3
+  ENSG_ID: [ENSG00000117020]
+  source: [NCBI Info]
+  Chromosome: [1q43-q44]
+  NCBI Gene ID: [10000.0]
+  OMIM_ID: ['611223']
+  UniProt_ID: [Q9Y243]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3R2
+  ENSG_ID: [ENSG00000105647]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [5296.0]
+  OMIM_ID: ['603157']
+  UniProt_ID: [O00459]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

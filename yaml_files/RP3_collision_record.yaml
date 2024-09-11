@@ -1,0 +1,37 @@
+collision_symbol: RP3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DYNLT3
+  ENSG_ID: [ENSG00000165169]
+  source: [NCBI Info]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [6990.0]
+  OMIM_ID: ['300302']
+  UniProt_ID: [P51808]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAPRE3
+  ENSG_ID: [ENSG00000084764]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [22924.0]
+  OMIM_ID: ['605788']
+  UniProt_ID: [Q9UPY8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPGR
+  ENSG_ID: [ENSG00000156313]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [6103.0]
+  OMIM_ID: ['312610']
+  UniProt_ID: [Q92834]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

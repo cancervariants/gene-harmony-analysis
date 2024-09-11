@@ -1,0 +1,26 @@
+collision_symbol: LCN5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LCN6
+  ENSG_ID: [ENSG00000267206]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [158062.0]
+  OMIM_ID: ['609379']
+  UniProt_ID: [P62502]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LCN8
+  ENSG_ID: [ENSG00000204001]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [138307.0]
+  OMIM_ID: ['612902']
+  UniProt_ID: [Q6JVE9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

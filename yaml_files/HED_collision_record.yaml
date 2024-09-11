@@ -1,0 +1,37 @@
+collision_symbol: HED
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EDA
+  ENSG_ID: [ENSG00000158813]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [1896.0]
+  OMIM_ID: ['300451']
+  UniProt_ID: [Q92838]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GJB6
+  ENSG_ID: [ENSG00000121742]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [10804.0]
+  OMIM_ID: ['604418']
+  UniProt_ID: [O95452]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HAND2
+  ENSG_ID: [ENSG00000164107]
+  source: [ENSG]
+  Chromosome: [4q34.1]
+  NCBI Gene ID: [9464.0]
+  OMIM_ID: ['602407']
+  UniProt_ID: [P61296]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

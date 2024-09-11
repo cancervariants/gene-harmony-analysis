@@ -1,0 +1,26 @@
+collision_symbol: Zfp27
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZNF585A
+  ENSG_ID: [ENSG00000196967]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.12]
+  NCBI Gene ID: [199704.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6P3V2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF585B
+  ENSG_ID: [ENSG00000245680]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.12]
+  NCBI Gene ID: [92285.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q52M93]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

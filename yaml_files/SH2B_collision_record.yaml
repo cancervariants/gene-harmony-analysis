@@ -1,0 +1,26 @@
+collision_symbol: SH2B
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COL26A1
+  ENSG_ID: [ENSG00000160963]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [136227.0]
+  OMIM_ID: ['608927']
+  UniProt_ID: [Q96A83]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SH2B1
+  ENSG_ID: [ENSG00000178188]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [25970.0]
+  OMIM_ID: ['608937']
+  UniProt_ID: [Q9NRF2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

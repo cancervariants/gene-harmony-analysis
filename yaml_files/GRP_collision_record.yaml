@@ -1,0 +1,37 @@
+collision_symbol: GRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LGALSL
+  ENSG_ID: [ENSG00000119862]
+  source: [NCBI Info]
+  Chromosome: [2p14]
+  NCBI Gene ID: [29094.0]
+  OMIM_ID: ['617902']
+  UniProt_ID: [Q3ZCW2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LSM4
+  ENSG_ID: [ENSG00000130520]
+  source: [NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [25804.0]
+  OMIM_ID: ['607284']
+  UniProt_ID: [Q9Y4Z0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UCMA
+  ENSG_ID: [ENSG00000165623]
+  source: [NCBI Info]
+  Chromosome: [10p13]
+  NCBI Gene ID: [221044.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8WVF2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

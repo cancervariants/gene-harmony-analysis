@@ -1,0 +1,37 @@
+collision_symbol: MTS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDKN2A
+  ENSG_ID: [ENSG00000147889]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9p21.3]
+  NCBI Gene ID: [1029.0]
+  OMIM_ID: ['600160']
+  UniProt_ID: ['P42771, Q8N726']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: S100A4
+  ENSG_ID: [ENSG00000196154]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6275.0]
+  OMIM_ID: ['114210']
+  UniProt_ID: [P26447]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SAI1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [1p]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

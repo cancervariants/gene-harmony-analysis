@@ -1,0 +1,26 @@
+collision_symbol: RIA1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EFL1
+  ENSG_ID: [ENSG00000140598]
+  source: [NCBI Info]
+  Chromosome: [15q25.2]
+  NCBI Gene ID: [79631.0]
+  OMIM_ID: ['617538']
+  UniProt_ID: [Q7Z2Z2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ELF1
+  ENSG_ID: [ENSG00000120690]
+  source: [NCBI Info]
+  Chromosome: [13q14.11]
+  NCBI Gene ID: [1997.0]
+  OMIM_ID: ['189973']
+  UniProt_ID: [P32519]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

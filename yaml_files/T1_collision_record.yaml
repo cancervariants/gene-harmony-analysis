@@ -1,0 +1,59 @@
+collision_symbol: T1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACAA2
+  ENSG_ID: [ENSG00000167315]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [10449.0]
+  OMIM_ID: ['604770']
+  UniProt_ID: [P42765]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD5
+  ENSG_ID: [ENSG00000110448]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [921.0]
+  OMIM_ID: ['153340']
+  UniProt_ID: [P06127]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IL1RL1
+  ENSG_ID: [ENSG00000115602]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q12.1]
+  NCBI Gene ID: [9173.0]
+  OMIM_ID: ['601203']
+  UniProt_ID: [Q01638]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A4
+  ENSG_ID: [ENSG00000151729]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [291.0]
+  OMIM_ID: ['103220']
+  UniProt_ID: [P12235]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAPPC9
+  ENSG_ID: [ENSG00000167632]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [83696.0]
+  OMIM_ID: ['611966']
+  UniProt_ID: [Q96Q05]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

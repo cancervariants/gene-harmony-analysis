@@ -1,0 +1,26 @@
+collision_symbol: CTRP5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: C1QTNF5
+  ENSG_ID: [ENSG00000223953]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [114902.0]
+  OMIM_ID: ['608752']
+  UniProt_ID: [Q9BXJ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MFRP
+  ENSG_ID: [ENSG00000235718]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [83552.0]
+  OMIM_ID: ['606227']
+  UniProt_ID: [Q9BY79]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

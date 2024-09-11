@@ -1,0 +1,48 @@
+collision_symbol: CLIP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD74
+  ENSG_ID: [ENSG00000019582]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q33.1]
+  NCBI Gene ID: [972.0]
+  OMIM_ID: ['142790']
+  UniProt_ID: [P04233]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CLIP1
+  ENSG_ID: [ENSG00000130779]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [6249.0]
+  OMIM_ID: ['179838']
+  UniProt_ID: [P30622]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CLIP2
+  ENSG_ID: [ENSG00000106665]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [7461.0]
+  OMIM_ID: ['603432']
+  UniProt_ID: [Q9UDT6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POMC
+  ENSG_ID: [ENSG00000115138]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2p23.3]
+  NCBI Gene ID: [5443.0]
+  OMIM_ID: ['176830']
+  UniProt_ID: [P01189]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

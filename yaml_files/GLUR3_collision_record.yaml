@@ -1,0 +1,26 @@
+collision_symbol: GLUR3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GRIA3
+  ENSG_ID: [ENSG00000125675]
+  source: [NCBI Info]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [2892.0]
+  OMIM_ID: ['305915']
+  UniProt_ID: [P42263]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GRM3
+  ENSG_ID: [ENSG00000198822]
+  source: [NCBI Info]
+  Chromosome: [7q21.11-q21.12]
+  NCBI Gene ID: [2913.0]
+  OMIM_ID: ['601115']
+  UniProt_ID: [Q14832]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

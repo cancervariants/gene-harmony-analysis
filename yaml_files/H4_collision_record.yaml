@@ -1,0 +1,59 @@
+collision_symbol: H4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC6
+  ENSG_ID: [ENSG00000108091]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q21.2]
+  NCBI Gene ID: [8030.0]
+  OMIM_ID: ['601985']
+  UniProt_ID: [Q16204]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FGFR1
+  ENSG_ID: [ENSG00000077782]
+  source: [HGNC, ENSG]
+  Chromosome: [8p11.23]
+  NCBI Gene ID: [2260.0]
+  OMIM_ID: ['136350']
+  UniProt_ID: [P11362]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H4C14
+  ENSG_ID: [ENSG00000270882]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [8370.0]
+  OMIM_ID: ['142750']
+  UniProt_ID: [P62805]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H4C6
+  ENSG_ID: [ENSG00000274618]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8361.0]
+  OMIM_ID: ['602824']
+  UniProt_ID: [P62805]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HRH4
+  ENSG_ID: [ENSG00000134489]
+  source: [NCBI Info]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [59340.0]
+  OMIM_ID: ['606792']
+  UniProt_ID: [Q9H3N8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: RTP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MORN4
+  ENSG_ID: [ENSG00000171160]
+  source: [ENSG]
+  Chromosome: [10q24.2]
+  NCBI Gene ID: [118812.0]
+  OMIM_ID: ['617736']
+  UniProt_ID: [Q8NDC4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NDRG1
+  ENSG_ID: [ENSG00000104419]
+  source: [ENSG]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [10397.0]
+  OMIM_ID: ['605262']
+  UniProt_ID: [Q92597]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

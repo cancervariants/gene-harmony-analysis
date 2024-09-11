@@ -1,0 +1,26 @@
+collision_symbol: DM1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DMPK
+  ENSG_ID: [ENSG00000104936]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [1760.0]
+  OMIM_ID: ['605377']
+  UniProt_ID: [Q09013]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHD1-7
+  ENSG_ID: [ENSG00000237197]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [28509.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

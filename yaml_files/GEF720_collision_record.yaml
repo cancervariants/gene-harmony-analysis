@@ -1,0 +1,26 @@
+collision_symbol: GEF720
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLEKHG5
+  ENSG_ID: [ENSG00000171680]
+  source: [NCBI Info]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [57449.0]
+  OMIM_ID: ['611101']
+  UniProt_ID: [O94827]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNFRSF25
+  ENSG_ID: [ENSG00000215788]
+  source: [NCBI Info]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [8718.0]
+  OMIM_ID: ['603366']
+  UniProt_ID: [Q93038]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

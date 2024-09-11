@@ -1,0 +1,37 @@
+collision_symbol: E1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCHE
+  ENSG_ID: [ENSG00000114200]
+  source: [NCBI Info]
+  Chromosome: [3q26.1]
+  NCBI Gene ID: [590.0]
+  OMIM_ID: ['177400']
+  UniProt_ID: [P06276]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ENOPH1
+  ENSG_ID: [ENSG00000145293]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q21.22]
+  NCBI Gene ID: [58478.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9UHY7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNORA73A
+  ENSG_ID: [ENSG00000274266]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.1]
+  NCBI Gene ID: [6080.0]
+  OMIM_ID: ['180645']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

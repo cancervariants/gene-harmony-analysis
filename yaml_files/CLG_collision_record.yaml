@@ -1,0 +1,26 @@
+collision_symbol: CLG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MMP1
+  ENSG_ID: [ENSG00000196611]
+  source: [NCBI Info]
+  Chromosome: [11q22.2]
+  NCBI Gene ID: [4312.0]
+  OMIM_ID: ['120353']
+  UniProt_ID: [P03956]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLEKHG2
+  ENSG_ID: [ENSG00000090924]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [64857.0]
+  OMIM_ID: ['611893']
+  UniProt_ID: [Q9H7P9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

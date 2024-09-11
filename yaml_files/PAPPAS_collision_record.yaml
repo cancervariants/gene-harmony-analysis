@@ -1,0 +1,26 @@
+collision_symbol: PAPPAS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PAPPA-AS1
+  ENSG_ID: [ENSG00000256040]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [493913.0]
+  OMIM_ID: ['610689']
+  UniProt_ID: [Q5QFB9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TBX4
+  ENSG_ID: [ENSG00000121075]
+  source: [NCBI Info]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [9496.0]
+  OMIM_ID: ['601719']
+  UniProt_ID: [P57082]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

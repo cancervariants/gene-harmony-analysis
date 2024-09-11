@@ -1,0 +1,26 @@
+collision_symbol: EHK1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EPHA5
+  ENSG_ID: [ENSG00000145242]
+  source: [NCBI Info]
+  Chromosome: [4q13.1-q13.2]
+  NCBI Gene ID: [2044.0]
+  OMIM_ID: ['600004']
+  UniProt_ID: [P54756]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT1
+  ENSG_ID: [ENSG00000167768]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3848.0]
+  OMIM_ID: ['139350']
+  UniProt_ID: [P04264]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

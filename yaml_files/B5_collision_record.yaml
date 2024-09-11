@@ -1,0 +1,26 @@
+collision_symbol: B5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EIF3M
+  ENSG_ID: [ENSG00000149100]
+  source: [NCBI Info]
+  Chromosome: [11p13]
+  NCBI Gene ID: [10480.0]
+  OMIM_ID: ['609641']
+  UniProt_ID: [Q7L2H7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GPHB5
+  ENSG_ID: [ENSG00000179600]
+  source: [NCBI Info]
+  Chromosome: [14q23.2]
+  NCBI Gene ID: [122876.0]
+  OMIM_ID: ['609652']
+  UniProt_ID: [Q86YW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

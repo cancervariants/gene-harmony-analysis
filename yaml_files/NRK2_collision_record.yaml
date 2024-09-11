@@ -1,0 +1,26 @@
+collision_symbol: NRK2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NEK4
+  ENSG_ID: [ENSG00000114904]
+  source: [NCBI Info]
+  Chromosome: [3p21.1]
+  NCBI Gene ID: [6787.0]
+  OMIM_ID: ['601959']
+  UniProt_ID: [P51957]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NMRK2
+  ENSG_ID: [ENSG00000077009]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [27231.0]
+  OMIM_ID: ['608705']
+  UniProt_ID: [Q9NPI5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

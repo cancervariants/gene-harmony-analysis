@@ -1,0 +1,26 @@
+collision_symbol: CIB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABHD14B
+  ENSG_ID: [ENSG00000114779]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [84836.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96IU4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CIB1
+  ENSG_ID: [ENSG00000185043]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [10519.0]
+  OMIM_ID: ['602293']
+  UniProt_ID: [Q99828]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

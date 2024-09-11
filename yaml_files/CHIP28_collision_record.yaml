@@ -1,0 +1,26 @@
+collision_symbol: CHIP28
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AQP1
+  ENSG_ID: [ENSG00000240583]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [358.0]
+  OMIM_ID: ['107776']
+  UniProt_ID: [P29972]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MINDY4
+  ENSG_ID: [ENSG00000106125]
+  source: [NCBI Info]
+  Chromosome: [7p14.3]
+  NCBI Gene ID: [84182.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q4G0A6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: B18
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EVA1C
+  ENSG_ID: [ENSG00000166979]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [59271.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P58658]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NDUFB7
+  ENSG_ID: [ENSG00000099795]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [4713.0]
+  OMIM_ID: ['603842']
+  UniProt_ID: [P17568]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

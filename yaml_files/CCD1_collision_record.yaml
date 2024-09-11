@@ -1,0 +1,26 @@
+collision_symbol: CCD1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DIXDC1
+  ENSG_ID: [ENSG00000150764]
+  source: [NCBI Info]
+  Chromosome: [11q23.1]
+  NCBI Gene ID: [85458.0]
+  OMIM_ID: ['610493']
+  UniProt_ID: [Q155Q3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUNX2
+  ENSG_ID: [ENSG00000124813]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [860.0]
+  OMIM_ID: ['600211']
+  UniProt_ID: [Q13950]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

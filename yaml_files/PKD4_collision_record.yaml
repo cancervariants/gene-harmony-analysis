@@ -1,0 +1,26 @@
+collision_symbol: PKD4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PKD2
+  ENSG_ID: [ENSG00000118762]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [5311.0]
+  OMIM_ID: ['173910']
+  UniProt_ID: [Q13563]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PKHD1
+  ENSG_ID: [ENSG00000170927]
+  source: [NCBI Info]
+  Chromosome: [6p12.3-p12.2]
+  NCBI Gene ID: [5314.0]
+  OMIM_ID: ['606702']
+  UniProt_ID: [P08F94]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CL1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADGRL1
+  ENSG_ID: [ENSG00000072071]
+  source: [NCBI Info]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [22859.0]
+  OMIM_ID: ['616416']
+  UniProt_ID: [O94910]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DCLK1
+  ENSG_ID: [ENSG00000133083]
+  source: [NCBI Info]
+  Chromosome: [13q13.3]
+  NCBI Gene ID: [9201.0]
+  OMIM_ID: ['604742']
+  UniProt_ID: [O15075]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

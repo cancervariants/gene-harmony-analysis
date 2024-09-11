@@ -1,0 +1,48 @@
+collision_symbol: PTX1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRP
+  ENSG_ID: [ENSG00000132693]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q23.2]
+  NCBI Gene ID: [1401.0]
+  OMIM_ID: ['123260']
+  UniProt_ID: [P02741]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ERGIC2
+  ENSG_ID: [ENSG00000087502]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p11.22]
+  NCBI Gene ID: [51290.0]
+  OMIM_ID: ['612236']
+  UniProt_ID: [Q96RQ1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PITX1
+  ENSG_ID: [ENSG00000069011]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [5307.0]
+  OMIM_ID: ['602149']
+  UniProt_ID: [P78337]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRDX2
+  ENSG_ID: [ENSG00000167815]
+  source: [NCBI Info]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [7001.0]
+  OMIM_ID: ['600538']
+  UniProt_ID: [P32119]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

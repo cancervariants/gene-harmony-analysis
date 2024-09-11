@@ -1,0 +1,26 @@
+collision_symbol: PIMT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PCMT1
+  ENSG_ID: [ENSG00000120265]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [5110.0]
+  OMIM_ID: ['176851']
+  UniProt_ID: [P22061]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TGS1
+  ENSG_ID: [ENSG00000137574]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [96764.0]
+  OMIM_ID: ['606461']
+  UniProt_ID: [Q96RS0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: HSP27
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HSPB1
+  ENSG_ID: [ENSG00000106211]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [3315.0]
+  OMIM_ID: ['602195']
+  UniProt_ID: [P04792]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HSPB2
+  ENSG_ID: [ENSG00000170276]
+  source: [NCBI Info]
+  Chromosome: [11q23.1]
+  NCBI Gene ID: [3316.0]
+  OMIM_ID: ['602179']
+  UniProt_ID: [Q16082]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

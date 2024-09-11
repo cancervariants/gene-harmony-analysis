@@ -1,0 +1,37 @@
+collision_symbol: CRS3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRISP3
+  ENSG_ID: [ENSG00000096006]
+  source: [NCBI Info]
+  Chromosome: [6p12.3]
+  NCBI Gene ID: [10321.0]
+  OMIM_ID: ['618062']
+  UniProt_ID: [P54108]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CRSA
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCF12
+  ENSG_ID: [ENSG00000140262]
+  source: [NCBI Info]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [6938.0]
+  OMIM_ID: ['600480']
+  UniProt_ID: [Q99081]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

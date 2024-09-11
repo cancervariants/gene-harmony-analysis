@@ -1,0 +1,26 @@
+collision_symbol: NBR
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARHGEF16
+  ENSG_ID: [ENSG00000130762]
+  source: [ENSG]
+  Chromosome: [1p36.32]
+  NCBI Gene ID: [27237.0]
+  OMIM_ID: ['618871']
+  UniProt_ID: [Q5VV41]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EXD3
+  ENSG_ID: [ENSG00000187609]
+  source: [ENSG]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [54932.0]
+  OMIM_ID: ['620859']
+  UniProt_ID: [Q8N9H8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

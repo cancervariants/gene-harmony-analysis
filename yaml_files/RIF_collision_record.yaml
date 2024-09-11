@@ -1,0 +1,26 @@
+collision_symbol: RIF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RHOF
+  ENSG_ID: [ENSG00000139725]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [54509.0]
+  OMIM_ID: ['618867']
+  UniProt_ID: [Q9HBH0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNF34
+  ENSG_ID: [ENSG00000170633]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [80196.0]
+  OMIM_ID: ['608299']
+  UniProt_ID: [Q969K3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: TAF2C2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PAPPA-AS1
+  ENSG_ID: [ENSG00000256040]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [493913.0]
+  OMIM_ID: ['610689']
+  UniProt_ID: [Q5QFB9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAF4B
+  ENSG_ID: [ENSG00000141384]
+  source: [NCBI Info]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [6875.0]
+  OMIM_ID: ['601689']
+  UniProt_ID: [Q92750]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

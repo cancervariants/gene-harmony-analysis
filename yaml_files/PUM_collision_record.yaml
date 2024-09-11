@@ -1,0 +1,26 @@
+collision_symbol: PUM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MUC1
+  ENSG_ID: [ENSG00000185499]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [4582.0]
+  OMIM_ID: ['158340']
+  UniProt_ID: [P15941]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYOD1
+  ENSG_ID: [ENSG00000129152]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [4654.0]
+  OMIM_ID: ['159970']
+  UniProt_ID: [P15172]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

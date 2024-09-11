@@ -1,0 +1,37 @@
+collision_symbol: GAGE-2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GAGE2A
+  ENSG_ID: [ENSG00000189064]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [729447.0]
+  OMIM_ID: ['300720']
+  UniProt_ID: [Q6NT46]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE2B
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23 not on reference assembly]
+  NCBI Gene ID: [645037.0]
+  OMIM_ID: ['300726']
+  UniProt_ID: [Q13066]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE2C
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23 not on reference assembly]
+  NCBI Gene ID: [2574.0]
+  OMIM_ID: ['300595']
+  UniProt_ID: [Q13066]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

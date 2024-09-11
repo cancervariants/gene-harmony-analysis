@@ -1,0 +1,37 @@
+collision_symbol: GC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OLFM4
+  ENSG_ID: [ENSG00000102837]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q14.3]
+  NCBI Gene ID: [10562.0]
+  OMIM_ID: ['614061']
+  UniProt_ID: [Q6UX06]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A22
+  ENSG_ID: [ENSG00000177542]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [79751.0]
+  OMIM_ID: ['609302']
+  UniProt_ID: [Q9H936]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SOD2
+  ENSG_ID: [ENSG00000291237]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q25.3]
+  NCBI Gene ID: [6648.0]
+  OMIM_ID: ['147460']
+  UniProt_ID: [P04179]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

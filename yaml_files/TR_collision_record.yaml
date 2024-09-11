@@ -1,0 +1,70 @@
+collision_symbol: TR
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: F2R
+  ENSG_ID: [ENSG00000181104]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q13.3]
+  NCBI Gene ID: [2149.0]
+  OMIM_ID: ['187930']
+  UniProt_ID: [P25116]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TERC
+  ENSG_ID: [ENSG00000270141, ENSG00000277925]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q26.2, .nan]
+  NCBI Gene ID: [7012.0, .nan]
+  OMIM_ID: ['602322', .nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFRC
+  ENSG_ID: [ENSG00000072274]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [7037.0]
+  OMIM_ID: ['190010']
+  UniProt_ID: [P02786]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEFF2
+  ENSG_ID: [ENSG00000144339]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q32.3]
+  NCBI Gene ID: [23671.0]
+  OMIM_ID: ['605734']
+  UniProt_ID: [Q9UIK5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TXNRD1
+  ENSG_ID: [ENSG00000198431]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [7296.0]
+  OMIM_ID: ['601112']
+  UniProt_ID: [Q16881]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TXNRD2
+  ENSG_ID: [ENSG00000184470]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [10587.0]
+  OMIM_ID: ['606448']
+  UniProt_ID: [Q9NNW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

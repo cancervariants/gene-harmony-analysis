@@ -1,0 +1,26 @@
+collision_symbol: MFT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYLD
+  ENSG_ID: [ENSG00000083799]
+  source: [NCBI Info]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [1540.0]
+  OMIM_ID: ['605018']
+  UniProt_ID: [Q9NQC7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A32
+  ENSG_ID: [ENSG00000164933]
+  source: [NCBI Info]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [81034.0]
+  OMIM_ID: ['138480']
+  UniProt_ID: [Q9H2D1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

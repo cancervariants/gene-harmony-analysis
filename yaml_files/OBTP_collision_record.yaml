@@ -1,0 +1,26 @@
+collision_symbol: OBTP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRICKLE4
+  ENSG_ID: [ENSG00000278224]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [29964.0]
+  OMIM_ID: ['611389']
+  UniProt_ID: [Q2TBC4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TOMM6
+  ENSG_ID: [ENSG00000214736]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [100188893.0]
+  OMIM_ID: ['616168']
+  UniProt_ID: [Q96B49]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

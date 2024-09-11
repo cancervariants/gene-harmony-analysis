@@ -1,0 +1,26 @@
+collision_symbol: CPSB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTSB
+  ENSG_ID: [ENSG00000164733]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [1508.0]
+  OMIM_ID: ['116810']
+  UniProt_ID: [P07858]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTSH
+  ENSG_ID: [ENSG00000103811]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [1512.0]
+  OMIM_ID: ['116820']
+  UniProt_ID: [P09668]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

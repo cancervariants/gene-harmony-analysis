@@ -1,0 +1,26 @@
+collision_symbol: HREP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXW10
+  ENSG_ID: [ENSG00000171931]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [10517.0]
+  OMIM_ID: ['611679']
+  UniProt_ID: [Q5XX13]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBXW10B
+  ENSG_ID: [ENSG00000241322]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p12]
+  NCBI Gene ID: [374286.0]
+  OMIM_ID: ['604596']
+  UniProt_ID: [O95170]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

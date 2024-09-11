@@ -1,0 +1,48 @@
+collision_symbol: PPD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AGO2
+  ENSG_ID: [ENSG00000123908]
+  source: [NCBI Info]
+  Chromosome: [8q24.3]
+  NCBI Gene ID: [27161.0]
+  OMIM_ID: ['606229']
+  UniProt_ID: [Q9UKV8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCN6
+  ENSG_ID: [ENSG00000112761]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [8838.0]
+  OMIM_ID: ['603400']
+  UniProt_ID: [O95389]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HPD
+  ENSG_ID: [ENSG00000158104]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [3242.0]
+  OMIM_ID: ['609695']
+  UniProt_ID: [P32754]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VSX1
+  ENSG_ID: [ENSG00000100987]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [30813.0]
+  OMIM_ID: ['605020']
+  UniProt_ID: [Q9NZR4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

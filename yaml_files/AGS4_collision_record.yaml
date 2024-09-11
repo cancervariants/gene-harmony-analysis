@@ -1,0 +1,26 @@
+collision_symbol: AGS4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPSM3
+  ENSG_ID: [ENSG00000213654, ENSG00000206314]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.32, .nan]
+  NCBI Gene ID: [63940.0, .nan]
+  OMIM_ID: ['618558', .nan]
+  UniProt_ID: [Q9Y4H4, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNASEH2A
+  ENSG_ID: [ENSG00000104889]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [10535.0]
+  OMIM_ID: ['606034']
+  UniProt_ID: [O75792]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

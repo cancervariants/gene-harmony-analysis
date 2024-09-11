@@ -1,0 +1,26 @@
+collision_symbol: HST
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGF4
+  ENSG_ID: [ENSG00000075388]
+  source: [NCBI Info]
+  Chromosome: [11q13.3]
+  NCBI Gene ID: [2249.0]
+  OMIM_ID: ['164980']
+  UniProt_ID: [P08620]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SULT2A1
+  ENSG_ID: [ENSG00000105398]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [6822.0]
+  OMIM_ID: ['125263']
+  UniProt_ID: [Q06520]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

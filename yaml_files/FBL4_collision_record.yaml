@@ -1,0 +1,26 @@
+collision_symbol: FBL4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXL4
+  ENSG_ID: [ENSG00000112234]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q16.1-q16.2]
+  NCBI Gene ID: [26235.0]
+  OMIM_ID: ['605654']
+  UniProt_ID: [Q9UKA2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBXL5
+  ENSG_ID: [ENSG00000118564]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4p15.32]
+  NCBI Gene ID: [26234.0]
+  OMIM_ID: ['605655']
+  UniProt_ID: [Q9UKA1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

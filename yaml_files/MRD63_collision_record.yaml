@@ -1,0 +1,26 @@
+collision_symbol: MRD63
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRIO
+  ENSG_ID: [ENSG00000038382]
+  source: [NCBI Info]
+  Chromosome: [5p15.2]
+  NCBI Gene ID: [7204.0]
+  OMIM_ID: ['601893']
+  UniProt_ID: [O75962]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF292
+  ENSG_ID: [ENSG00000188994]
+  source: [NCBI Info]
+  Chromosome: [6q14.3]
+  NCBI Gene ID: [23036.0]
+  OMIM_ID: ['616213']
+  UniProt_ID: [O60281]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

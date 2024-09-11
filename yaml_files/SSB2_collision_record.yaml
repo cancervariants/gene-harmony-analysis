@@ -1,0 +1,26 @@
+collision_symbol: SSB2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NABP1
+  ENSG_ID: [ENSG00000173559]
+  source: [NCBI Info]
+  Chromosome: [2q32.3]
+  NCBI Gene ID: [64859.0]
+  OMIM_ID: ['612103']
+  UniProt_ID: [Q96AH0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPSB2
+  ENSG_ID: [ENSG00000111671]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [84727.0]
+  OMIM_ID: ['611658']
+  UniProt_ID: [Q99619]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

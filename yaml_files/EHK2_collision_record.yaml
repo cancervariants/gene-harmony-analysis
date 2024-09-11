@@ -1,0 +1,26 @@
+collision_symbol: EHK2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EPHA6
+  ENSG_ID: [ENSG00000080224]
+  source: [NCBI Info]
+  Chromosome: [3q11.2]
+  NCBI Gene ID: [285220.0]
+  OMIM_ID: ['600066']
+  UniProt_ID: [Q9UF33]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT10
+  ENSG_ID: [ENSG00000186395]
+  source: [NCBI Info]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [3858.0]
+  OMIM_ID: ['148080']
+  UniProt_ID: [P13645]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

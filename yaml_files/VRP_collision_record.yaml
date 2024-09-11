@@ -1,0 +1,26 @@
+collision_symbol: VRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TBC1D8
+  ENSG_ID: [ENSG00000204634]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [11138.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [O95759]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VEGFC
+  ENSG_ID: [ENSG00000150630]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q34.3]
+  NCBI Gene ID: [7424.0]
+  OMIM_ID: ['601528']
+  UniProt_ID: [P49767]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

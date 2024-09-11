@@ -1,0 +1,26 @@
+collision_symbol: DVL1L1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DVL1
+  ENSG_ID: [ENSG00000107404]
+  source: [NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [1855.0]
+  OMIM_ID: ['601365']
+  UniProt_ID: [O14640]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DVL1P1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [8215.0]
+  OMIM_ID: ['601225']
+  UniProt_ID: [P54792]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

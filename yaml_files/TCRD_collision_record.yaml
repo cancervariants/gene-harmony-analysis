@@ -1,0 +1,48 @@
+collision_symbol: TCRD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRD
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [6964.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRDC
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRDD3
+  ENSG_ID: [ENSG00000228985]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28523.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRDJ1
+  ENSG_ID: [ENSG00000211825]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28522.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B706]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

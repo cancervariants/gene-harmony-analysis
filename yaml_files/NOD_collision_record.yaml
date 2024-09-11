@@ -1,0 +1,26 @@
+collision_symbol: NOD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATN1
+  ENSG_ID: [ENSG00000111676]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [1822.0]
+  OMIM_ID: ['607462']
+  UniProt_ID: [P54259]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CYGB
+  ENSG_ID: [ENSG00000161544]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [114757.0]
+  OMIM_ID: ['608759']
+  UniProt_ID: [Q8WWM9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

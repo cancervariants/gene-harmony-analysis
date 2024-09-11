@@ -1,0 +1,26 @@
+collision_symbol: K8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HOXB2
+  ENSG_ID: [ENSG00000173917]
+  source: [NCBI Info]
+  Chromosome: [17q21.32]
+  NCBI Gene ID: [3212.0]
+  OMIM_ID: ['142967']
+  UniProt_ID: [P14652]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KRT8
+  ENSG_ID: [ENSG00000170421]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [3856.0]
+  OMIM_ID: ['148060']
+  UniProt_ID: [P05787]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

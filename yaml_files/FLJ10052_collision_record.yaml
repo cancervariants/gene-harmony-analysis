@@ -1,0 +1,26 @@
+collision_symbol: FLJ10052
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SUSD4
+  ENSG_ID: [ENSG00000143502]
+  source: [ENSG]
+  Chromosome: [1q41]
+  NCBI Gene ID: [55061.0]
+  OMIM_ID: ['615827']
+  UniProt_ID: [Q5VX71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TLR5
+  ENSG_ID: [ENSG00000187554]
+  source: [ENSG]
+  Chromosome: [1q41]
+  NCBI Gene ID: [7100.0]
+  OMIM_ID: ['603031']
+  UniProt_ID: [O60602]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

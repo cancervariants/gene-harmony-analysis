@@ -1,0 +1,26 @@
+collision_symbol: AG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NBPF10
+  ENSG_ID: [ENSG00000271425]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [100132406.0]
+  OMIM_ID: ['614000']
+  UniProt_ID: [Q6P3W6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TXNDC12
+  ENSG_ID: [ENSG00000117862]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [51060.0]
+  OMIM_ID: ['609448']
+  UniProt_ID: [O95881]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

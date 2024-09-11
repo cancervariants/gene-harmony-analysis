@@ -1,0 +1,26 @@
+collision_symbol: G3PP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PGP
+  ENSG_ID: [ENSG00000184207]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [283871.0]
+  OMIM_ID: ['172280']
+  UniProt_ID: [A6NDG6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC37A1
+  ENSG_ID: [ENSG00000160190]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [54020.0]
+  OMIM_ID: ['608094']
+  UniProt_ID: [P57057]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

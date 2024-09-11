@@ -1,0 +1,26 @@
+collision_symbol: NLF1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: C2CD4A
+  ENSG_ID: [ENSG00000198535]
+  source: [NCBI Info]
+  Chromosome: [15q22.2]
+  NCBI Gene ID: [145741.0]
+  OMIM_ID: ['610343']
+  UniProt_ID: [Q8NCU7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NALF1
+  ENSG_ID: [ENSG00000204442]
+  source: [NCBI Info]
+  Chromosome: [13q33.3]
+  NCBI Gene ID: [728215.0]
+  OMIM_ID: ['619899']
+  UniProt_ID: [B1AL88]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

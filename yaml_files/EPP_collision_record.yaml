@@ -1,0 +1,26 @@
+collision_symbol: EPP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EPX
+  ENSG_ID: [ENSG00000121053]
+  source: [NCBI Info]
+  Chromosome: [17q22]
+  NCBI Gene ID: [8288.0]
+  OMIM_ID: ['131399']
+  UniProt_ID: [P11678]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FECH
+  ENSG_ID: [ENSG00000066926]
+  source: [NCBI Info]
+  Chromosome: [18q21.31]
+  NCBI Gene ID: [2235.0]
+  OMIM_ID: ['612386']
+  UniProt_ID: [P22830]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

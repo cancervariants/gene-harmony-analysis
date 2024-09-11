@@ -1,0 +1,26 @@
+collision_symbol: APC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANAPC1
+  ENSG_ID: [ENSG00000153107]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q13]
+  NCBI Gene ID: [64682.0]
+  OMIM_ID: ['608473']
+  UniProt_ID: [Q9H1A4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A24
+  ENSG_ID: [ENSG00000085491]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.3]
+  NCBI Gene ID: [29957.0]
+  OMIM_ID: ['608744']
+  UniProt_ID: [Q6NUK1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

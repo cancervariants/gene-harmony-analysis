@@ -1,0 +1,26 @@
+collision_symbol: SPK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PBK
+  ENSG_ID: [ENSG00000168078]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p21.1]
+  NCBI Gene ID: [55872.0]
+  OMIM_ID: ['611210']
+  UniProt_ID: [Q96KB5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SYMPK
+  ENSG_ID: [ENSG00000125755]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [8189.0]
+  OMIM_ID: ['602388']
+  UniProt_ID: [Q92797]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

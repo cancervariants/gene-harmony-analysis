@@ -1,0 +1,26 @@
+collision_symbol: ASB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALAS2
+  ENSG_ID: [ENSG00000158578]
+  source: [NCBI Info]
+  Chromosome: [Xp11.21]
+  NCBI Gene ID: [212.0]
+  OMIM_ID: ['301300']
+  UniProt_ID: [P22557]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARSB
+  ENSG_ID: [ENSG00000113273]
+  source: [NCBI Info]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [411.0]
+  OMIM_ID: ['611542']
+  UniProt_ID: [P15848]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

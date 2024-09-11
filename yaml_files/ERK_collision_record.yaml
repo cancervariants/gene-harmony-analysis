@@ -1,0 +1,26 @@
+collision_symbol: ERK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EPHB2
+  ENSG_ID: [ENSG00000133216]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [2048.0]
+  OMIM_ID: ['600997']
+  UniProt_ID: [P29323]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAPK1
+  ENSG_ID: [ENSG00000100030]
+  source: [NCBI Info]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [5594.0]
+  OMIM_ID: ['176948']
+  UniProt_ID: [P28482]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

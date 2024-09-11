@@ -1,0 +1,26 @@
+collision_symbol: METTL2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: METTL2A
+  ENSG_ID: [ENSG00000087995]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [339175.0]
+  OMIM_ID: ['618902']
+  UniProt_ID: [Q96IZ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: METTL2B
+  ENSG_ID: [ENSG00000165055]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [55798.0]
+  OMIM_ID: ['607846']
+  UniProt_ID: [Q6P1Q9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

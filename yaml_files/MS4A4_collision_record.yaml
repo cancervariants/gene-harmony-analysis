@@ -1,0 +1,26 @@
+collision_symbol: MS4A4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MS4A4A
+  ENSG_ID: [ENSG00000110079]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [51338.0]
+  OMIM_ID: ['606547']
+  UniProt_ID: [Q96JQ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MS4A8
+  ENSG_ID: [ENSG00000166959]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q12.2]
+  NCBI Gene ID: [83661.0]
+  OMIM_ID: ['606549']
+  UniProt_ID: [Q9BY19]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

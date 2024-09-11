@@ -1,0 +1,26 @@
+collision_symbol: GP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNF130
+  ENSG_ID: [ENSG00000113269]
+  source: [NCBI Info]
+  Chromosome: [5q35.3]
+  NCBI Gene ID: [55819.0]
+  OMIM_ID: ['619163']
+  UniProt_ID: [Q86XS8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNC
+  ENSG_ID: [ENSG00000041982]
+  source: [NCBI Info]
+  Chromosome: [9q33.1]
+  NCBI Gene ID: [3371.0]
+  OMIM_ID: ['187380']
+  UniProt_ID: [P24821]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

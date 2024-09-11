@@ -1,0 +1,26 @@
+collision_symbol: p02
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H3P1
+  ENSG_ID: [ENSG00000230228]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPT1
+  ENSG_ID: [ENSG00000133112]
+  source: [NCBI Info]
+  Chromosome: [13q14.13]
+  NCBI Gene ID: [7178.0]
+  OMIM_ID: ['600763']
+  UniProt_ID: [P13693]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

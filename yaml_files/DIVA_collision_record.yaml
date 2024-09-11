@@ -1,0 +1,26 @@
+collision_symbol: DIVA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCL2L10
+  ENSG_ID: [ENSG00000137875]
+  source: [ENSG]
+  Chromosome: [15q21.2]
+  NCBI Gene ID: [10017.0]
+  OMIM_ID: ['606910']
+  UniProt_ID: [Q9HD36]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: COL6A4P1
+  ENSG_ID: [ENSG00000230524]
+  source: [ENSG]
+  Chromosome: [3p25.1]
+  NCBI Gene ID: [344875.0]
+  OMIM_ID: ['612397']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

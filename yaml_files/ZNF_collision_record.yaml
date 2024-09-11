@@ -1,0 +1,70 @@
+collision_symbol: ZNF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZNF436
+  ENSG_ID: [ENSG00000125945]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [80818.0]
+  OMIM_ID: ['611703']
+  UniProt_ID: [Q9C0F3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF44
+  ENSG_ID: [ENSG00000197857]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [51710.0]
+  OMIM_ID: ['194542']
+  UniProt_ID: [P15621]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF501
+  ENSG_ID: [ENSG00000186446]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [115560.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96CX3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF569
+  ENSG_ID: [ENSG00000196437]
+  source: [NCBI Info]
+  Chromosome: [19q13.12]
+  NCBI Gene ID: [148266.0]
+  OMIM_ID: ['613904']
+  UniProt_ID: [Q5MCW4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF629
+  ENSG_ID: [ENSG00000102870]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [23361.0]
+  OMIM_ID: ['619587']
+  UniProt_ID: [Q9UEG4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF763
+  ENSG_ID: [ENSG00000197054]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [284390.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q0D2J5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

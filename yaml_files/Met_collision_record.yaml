@@ -1,0 +1,26 @@
+collision_symbol: Met
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNMT
+  ENSG_ID: [ENSG00000101654]
+  source: [NCBI Info]
+  Chromosome: [18p11.21]
+  NCBI Gene ID: [8731.0]
+  OMIM_ID: ['603514']
+  UniProt_ID: [O43148]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLTM
+  ENSG_ID: [ENSG00000137776]
+  source: [NCBI Info]
+  Chromosome: [15q22.1]
+  NCBI Gene ID: [79811.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NWH9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

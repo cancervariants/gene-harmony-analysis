@@ -1,0 +1,48 @@
+collision_symbol: TS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CACNA1C
+  ENSG_ID: [ENSG00000151067]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [775.0]
+  OMIM_ID: ['114205']
+  UniProt_ID: [Q13936]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GCY
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Yq11]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TBXAS1
+  ENSG_ID: [ENSG00000059377]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [6916.0]
+  OMIM_ID: ['274180']
+  UniProt_ID: [P24557]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TYMS
+  ENSG_ID: [ENSG00000176890]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18p11.32]
+  NCBI Gene ID: [7298.0]
+  OMIM_ID: ['188350']
+  UniProt_ID: [P04818]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: MIP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAFIP
+  ENSG_ID: [.nan, ENSG00000274847]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 14 unplaced]
+  NCBI Gene ID: [.nan, 727764.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan, Q8WZ33]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MIPEP
+  ENSG_ID: [ENSG00000027001]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q12.12]
+  NCBI Gene ID: [4285.0]
+  OMIM_ID: ['602241']
+  UniProt_ID: [Q99797]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNPO1
+  ENSG_ID: [ENSG00000083312]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [3842.0]
+  OMIM_ID: ['602901']
+  UniProt_ID: [Q92973]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

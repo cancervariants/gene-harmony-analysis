@@ -1,0 +1,26 @@
+collision_symbol: CD85
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LILRA5
+  ENSG_ID: [ENSG00000187116]
+  source: [HGNC, ENSG]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [353514.0]
+  OMIM_ID: ['606047']
+  UniProt_ID: [A6NI73]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LILRB1
+  ENSG_ID: [ENSG00000104972]
+  source: [HGNC, ENSG]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [10859.0]
+  OMIM_ID: ['604811']
+  UniProt_ID: [Q8NHL6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

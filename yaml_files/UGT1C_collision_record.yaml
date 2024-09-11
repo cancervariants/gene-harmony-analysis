@@ -1,0 +1,26 @@
+collision_symbol: UGT1C
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: UGT1A3
+  ENSG_ID: [ENSG00000288702]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54659.0]
+  OMIM_ID: ['606428']
+  UniProt_ID: [P35503]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT1A6
+  ENSG_ID: [ENSG00000167165]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54578.0]
+  OMIM_ID: ['606431']
+  UniProt_ID: [P19224]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

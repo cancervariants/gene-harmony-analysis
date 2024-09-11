@@ -1,0 +1,26 @@
+collision_symbol: MTCP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CMC4
+  ENSG_ID: [ENSG00000182712]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [100272147.0]
+  OMIM_ID: ['301088']
+  UniProt_ID: [P56277]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SH2D1A
+  ENSG_ID: [ENSG00000183918]
+  source: [NCBI Info]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [4068.0]
+  OMIM_ID: ['300490']
+  UniProt_ID: [O60880]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

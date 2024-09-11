@@ -1,0 +1,26 @@
+collision_symbol: LE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FUT3
+  ENSG_ID: [ENSG00000171124]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [2525.0]
+  OMIM_ID: ['111100']
+  UniProt_ID: [P21217]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HPS4
+  ENSG_ID: [ENSG00000100099]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q12.1]
+  NCBI Gene ID: [89781.0]
+  OMIM_ID: ['606682']
+  UniProt_ID: [Q9NQG7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: beta4GalNAcT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSGALNACT1
+  ENSG_ID: [ENSG00000147408]
+  source: [NCBI Info]
+  Chromosome: [8p21.3]
+  NCBI Gene ID: [55790.0]
+  OMIM_ID: ['616615']
+  UniProt_ID: [Q8TDX6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CSGALNACT2
+  ENSG_ID: [ENSG00000169826]
+  source: [NCBI Info]
+  Chromosome: [10q11.21]
+  NCBI Gene ID: [55454.0]
+  OMIM_ID: ['616616']
+  UniProt_ID: [Q8N6G5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

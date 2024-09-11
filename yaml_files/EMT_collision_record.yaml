@@ -1,0 +1,26 @@
+collision_symbol: EMT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ITK
+  ENSG_ID: [ENSG00000113263]
+  source: [NCBI Info, ENSG]
+  Chromosome: [5q33.3]
+  NCBI Gene ID: [3702.0]
+  OMIM_ID: ['186973']
+  UniProt_ID: [Q08881]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC22A3
+  ENSG_ID: [ENSG00000146477]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q25.3]
+  NCBI Gene ID: [6581.0]
+  OMIM_ID: ['604842']
+  UniProt_ID: [O75751]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

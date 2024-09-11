@@ -1,0 +1,26 @@
+collision_symbol: MTF1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MELTF
+  ENSG_ID: [ENSG00000163975]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [4241.0]
+  OMIM_ID: ['155750']
+  UniProt_ID: [P08582]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MYT1
+  ENSG_ID: [ENSG00000196132]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [4661.0]
+  OMIM_ID: ['600379']
+  UniProt_ID: [Q01538]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

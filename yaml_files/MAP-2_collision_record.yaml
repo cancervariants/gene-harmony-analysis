@@ -1,0 +1,26 @@
+collision_symbol: MAP-2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAP2
+  ENSG_ID: [ENSG00000078018]
+  source: [NCBI Info]
+  Chromosome: [2q34]
+  NCBI Gene ID: [4133.0]
+  OMIM_ID: ['157130']
+  UniProt_ID: [P11137]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MASP2
+  ENSG_ID: [ENSG00000009724]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [10747.0]
+  OMIM_ID: ['605102']
+  UniProt_ID: [O00187]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

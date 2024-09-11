@@ -1,0 +1,48 @@
+collision_symbol: p200
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARFGEF1
+  ENSG_ID: [ENSG00000066777]
+  source: [HGNC]
+  Chromosome: [8q13.2]
+  NCBI Gene ID: [10565.0]
+  OMIM_ID: ['604141']
+  UniProt_ID: [Q9Y6D6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARID2
+  ENSG_ID: [ENSG00000189079]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q12]
+  NCBI Gene ID: [196528.0]
+  OMIM_ID: ['609539']
+  UniProt_ID: [Q68CP9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CUX1
+  ENSG_ID: [ENSG00000257923]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [1523.0]
+  OMIM_ID: ['116896']
+  UniProt_ID: ['P39880, Q13948']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HEATR5B
+  ENSG_ID: [ENSG00000008869]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2p22.2]
+  NCBI Gene ID: [54497.0]
+  OMIM_ID: ['619627']
+  UniProt_ID: [Q9P2D3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

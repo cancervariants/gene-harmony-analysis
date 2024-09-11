@@ -1,0 +1,26 @@
+collision_symbol: TC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD55
+  ENSG_ID: [ENSG00000196352]
+  source: [NCBI Info]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [1604.0]
+  OMIM_ID: ['125240']
+  UniProt_ID: [P08174]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN2
+  ENSG_ID: [ENSG00000185339]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [6948.0]
+  OMIM_ID: ['613441']
+  UniProt_ID: [P20062]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

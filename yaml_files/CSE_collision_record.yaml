@@ -1,0 +1,26 @@
+collision_symbol: CSE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTH
+  ENSG_ID: [ENSG00000116761]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [1491.0]
+  OMIM_ID: ['607657']
+  UniProt_ID: [P32929]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC2A1
+  ENSG_ID: [ENSG00000117394]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [6513.0]
+  OMIM_ID: ['138140']
+  UniProt_ID: [P11166]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

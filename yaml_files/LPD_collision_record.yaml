@@ -1,0 +1,26 @@
+collision_symbol: LPD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACSBG1
+  ENSG_ID: [ENSG00000103740]
+  source: [NCBI Info]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [23205.0]
+  OMIM_ID: ['614362']
+  UniProt_ID: [Q96GR2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAPH1
+  ENSG_ID: [ENSG00000173166]
+  source: [NCBI Info]
+  Chromosome: [2q33.2]
+  NCBI Gene ID: [65059.0]
+  OMIM_ID: ['609035']
+  UniProt_ID: [Q70E73]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

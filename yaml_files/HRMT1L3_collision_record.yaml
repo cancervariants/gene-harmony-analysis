@@ -1,0 +1,26 @@
+collision_symbol: HRMT1L3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRMT3
+  ENSG_ID: [ENSG00000185238]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [10196.0]
+  OMIM_ID: ['603190']
+  UniProt_ID: [O60678]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRMT8
+  ENSG_ID: [ENSG00000111218]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12p13.32]
+  NCBI Gene ID: [56341.0]
+  OMIM_ID: ['610086']
+  UniProt_ID: [Q9NR22]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

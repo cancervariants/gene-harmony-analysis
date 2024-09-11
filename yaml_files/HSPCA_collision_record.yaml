@@ -1,0 +1,26 @@
+collision_symbol: HSPCA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HSP90AA1
+  ENSG_ID: [ENSG00000080824]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q32.31]
+  NCBI Gene ID: [3320.0]
+  OMIM_ID: ['140571']
+  UniProt_ID: [P07900]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HSP90AA2P
+  ENSG_ID: [.nan, ENSG00000224411]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 11p14.1]
+  NCBI Gene ID: [.nan, 3324.0]
+  OMIM_ID: [.nan, '140575']
+  UniProt_ID: [.nan, Q14568]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: SOSS-B2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NABP1
+  ENSG_ID: [ENSG00000173559]
+  source: [NCBI Info]
+  Chromosome: [2q32.3]
+  NCBI Gene ID: [64859.0]
+  OMIM_ID: ['612103']
+  UniProt_ID: [Q96AH0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SSBP2
+  ENSG_ID: [ENSG00000145687]
+  source: [NCBI Info]
+  Chromosome: [5q14.1]
+  NCBI Gene ID: [23635.0]
+  OMIM_ID: ['607389']
+  UniProt_ID: [P81877]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

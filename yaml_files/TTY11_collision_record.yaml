@@ -1,0 +1,26 @@
+collision_symbol: TTY11
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TTTY11
+  ENSG_ID: [ENSG00000180910, ENSG00000290381]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Yp11.2, .nan]
+  NCBI Gene ID: [83866.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TTTY12
+  ENSG_ID: [ENSG00000237048]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Yp11.2]
+  NCBI Gene ID: [83867.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9BZ98]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

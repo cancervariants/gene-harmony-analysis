@@ -1,0 +1,26 @@
+collision_symbol: BHD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FLCN
+  ENSG_ID: [ENSG00000154803]
+  source: [NCBI Info]
+  Chromosome: [17p11.2]
+  NCBI Gene ID: [201163.0]
+  OMIM_ID: ['607273']
+  UniProt_ID: [Q8NFG4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UFSP2
+  ENSG_ID: [ENSG00000109775]
+  source: [NCBI Info]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [55325.0]
+  OMIM_ID: ['611482']
+  UniProt_ID: [Q9NUQ7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

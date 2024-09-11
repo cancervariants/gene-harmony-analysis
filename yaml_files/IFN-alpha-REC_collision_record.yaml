@@ -1,0 +1,26 @@
+collision_symbol: IFN-alpha-REC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IFNAR1
+  ENSG_ID: [ENSG00000142166]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [3454.0]
+  OMIM_ID: ['107450']
+  UniProt_ID: [P17181]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IFNAR2
+  ENSG_ID: [ENSG00000159110]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [3455.0]
+  OMIM_ID: ['602376']
+  UniProt_ID: [P48551]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: PP2CE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPM1L
+  ENSG_ID: [ENSG00000163590]
+  source: [NCBI Info]
+  Chromosome: [3q25.33-q26.1]
+  NCBI Gene ID: [151742.0]
+  OMIM_ID: ['611931']
+  UniProt_ID: [Q5SGD2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPM1M
+  ENSG_ID: [ENSG00000164088]
+  source: [NCBI Info]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [132160.0]
+  OMIM_ID: ['608979']
+  UniProt_ID: [Q96MI6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

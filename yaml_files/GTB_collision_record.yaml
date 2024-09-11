@@ -1,0 +1,26 @@
+collision_symbol: GTB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABO
+  ENSG_ID: [ENSG00000175164]
+  source: [NCBI Info]
+  Chromosome: [9q34.2]
+  NCBI Gene ID: [28.0]
+  OMIM_ID: ['110300']
+  UniProt_ID: [P16442]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: B4GALT1
+  ENSG_ID: [ENSG00000086062]
+  source: [NCBI Info]
+  Chromosome: [9p21.1]
+  NCBI Gene ID: [2683.0]
+  OMIM_ID: ['137060']
+  UniProt_ID: [P15291]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

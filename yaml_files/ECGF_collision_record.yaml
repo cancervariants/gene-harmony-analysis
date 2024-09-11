@@ -1,0 +1,26 @@
+collision_symbol: ECGF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGF1
+  ENSG_ID: [ENSG00000113578]
+  source: [NCBI Info]
+  Chromosome: [5q31.3]
+  NCBI Gene ID: [2246.0]
+  OMIM_ID: ['131220']
+  UniProt_ID: [P05230]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TYMP
+  ENSG_ID: [ENSG00000025708]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [1890.0]
+  OMIM_ID: ['131222']
+  UniProt_ID: [P19971]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: APG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADGRG6
+  ENSG_ID: [ENSG00000112414]
+  source: [NCBI Info]
+  Chromosome: [6q24.2]
+  NCBI Gene ID: [57211.0]
+  OMIM_ID: ['612243']
+  UniProt_ID: [Q86SQ4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HSPA4L
+  ENSG_ID: [ENSG00000164070]
+  source: [NCBI Info]
+  Chromosome: [4q28.1]
+  NCBI Gene ID: [22824.0]
+  OMIM_ID: ['619077']
+  UniProt_ID: [O95757]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

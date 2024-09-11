@@ -1,0 +1,26 @@
+collision_symbol: APC4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANAPC4
+  ENSG_ID: [ENSG00000053900]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4p15.2]
+  NCBI Gene ID: [29945.0]
+  OMIM_ID: ['606947']
+  UniProt_ID: [Q9UJX5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A41
+  ENSG_ID: [ENSG00000181240]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [284427.0]
+  OMIM_ID: ['610822']
+  UniProt_ID: [Q8N5S1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

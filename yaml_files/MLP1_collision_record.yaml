@@ -1,0 +1,26 @@
+collision_symbol: MLP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCC6
+  ENSG_ID: [ENSG00000091262]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p13.11]
+  NCBI Gene ID: [368.0]
+  OMIM_ID: ['603234']
+  UniProt_ID: [O95255]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MARCKSL1
+  ENSG_ID: [ENSG00000175130]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [65108.0]
+  OMIM_ID: ['602940']
+  UniProt_ID: [P49006]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

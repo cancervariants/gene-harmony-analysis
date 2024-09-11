@@ -1,0 +1,26 @@
+collision_symbol: RNF21
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRIM34
+  ENSG_ID: [ENSG00000258659]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [53840.0]
+  OMIM_ID: ['605684']
+  UniProt_ID: [Q9BYJ4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM6-TRIM34
+  ENSG_ID: [ENSG00000258588]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [445372.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

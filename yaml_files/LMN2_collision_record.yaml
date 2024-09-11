@@ -1,0 +1,26 @@
+collision_symbol: LMN2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LMNB1
+  ENSG_ID: [ENSG00000113368]
+  source: [NCBI Info]
+  Chromosome: [5q23.2]
+  NCBI Gene ID: [4001.0]
+  OMIM_ID: ['150340']
+  UniProt_ID: [P20700]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LMNB2
+  ENSG_ID: [ENSG00000176619]
+  source: [NCBI Info]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [84823.0]
+  OMIM_ID: ['150341']
+  UniProt_ID: [Q03252]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: YRRM2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RBMY1A1
+  ENSG_ID: [ENSG00000234414]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [5940.0]
+  OMIM_ID: ['400006']
+  UniProt_ID: [P0DJD3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBMY1D
+  ENSG_ID: [ENSG00000244395]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [378949.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0C7P1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBMY1F
+  ENSG_ID: [ENSG00000169800]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [159163.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q15415]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

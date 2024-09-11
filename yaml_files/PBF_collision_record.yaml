@@ -1,0 +1,26 @@
+collision_symbol: PBF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PTTG1IP
+  ENSG_ID: [ENSG00000183255]
+  source: [NCBI Info, ENSG]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [754.0]
+  OMIM_ID: ['603784']
+  UniProt_ID: [P53801]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF395
+  ENSG_ID: [ENSG00000186918]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8p21.1]
+  NCBI Gene ID: [55893.0]
+  OMIM_ID: ['609494']
+  UniProt_ID: [Q9H8N7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

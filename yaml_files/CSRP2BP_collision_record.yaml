@@ -1,0 +1,26 @@
+collision_symbol: CSRP2BP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KAT14
+  ENSG_ID: [ENSG00000149474]
+  source: [NCBI Info]
+  Chromosome: [20p11.23]
+  NCBI Gene ID: [57325.0]
+  OMIM_ID: ['617501']
+  UniProt_ID: [Q9H8E8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PET117
+  ENSG_ID: [ENSG00000232838]
+  source: [NCBI Info]
+  Chromosome: [20p11.23]
+  NCBI Gene ID: [100303755.0]
+  OMIM_ID: ['614771']
+  UniProt_ID: [Q6UWS5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

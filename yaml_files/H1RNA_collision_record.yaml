@@ -1,0 +1,26 @@
+collision_symbol: H1RNA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNASEH1
+  ENSG_ID: [ENSG00000171865]
+  source: [NCBI Info]
+  Chromosome: [2p25.3]
+  NCBI Gene ID: [246243.0]
+  OMIM_ID: ['604123']
+  UniProt_ID: [O60930]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPPH1
+  ENSG_ID: [ENSG00000277209]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [85495.0]
+  OMIM_ID: ['608513']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

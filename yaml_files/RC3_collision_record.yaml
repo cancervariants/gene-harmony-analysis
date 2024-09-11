@@ -1,0 +1,26 @@
+collision_symbol: RC3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DMXL2
+  ENSG_ID: [ENSG00000104093]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q21.2]
+  NCBI Gene ID: [23312.0]
+  OMIM_ID: ['612186']
+  UniProt_ID: [Q8TDJ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NRGN
+  ENSG_ID: [ENSG00000154146]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [4900.0]
+  OMIM_ID: ['602350']
+  UniProt_ID: [Q92686]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

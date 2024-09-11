@@ -1,0 +1,26 @@
+collision_symbol: GEF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARHGEF2
+  ENSG_ID: [ENSG00000116584]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [9181.0]
+  OMIM_ID: ['607560']
+  UniProt_ID: [Q92974]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC2A4RG
+  ENSG_ID: [ENSG00000125520]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [56731.0]
+  OMIM_ID: ['609493']
+  UniProt_ID: [Q9NR83]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

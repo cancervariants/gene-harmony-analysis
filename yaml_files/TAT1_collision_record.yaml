@@ -1,0 +1,26 @@
+collision_symbol: TAT1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC16A10
+  ENSG_ID: [ENSG00000112394]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [117247.0]
+  OMIM_ID: ['607550']
+  UniProt_ID: [Q8TF71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC26A8
+  ENSG_ID: [ENSG00000112053]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [116369.0]
+  OMIM_ID: ['608480']
+  UniProt_ID: [Q96RN1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

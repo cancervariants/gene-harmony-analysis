@@ -1,0 +1,48 @@
+collision_symbol: p34
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AAGAB
+  ENSG_ID: [ENSG00000103591]
+  source: [NCBI Info]
+  Chromosome: [15q23]
+  NCBI Gene ID: [79719.0]
+  OMIM_ID: ['614888']
+  UniProt_ID: [Q6PD74]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCNH
+  ENSG_ID: [ENSG00000134480]
+  source: [NCBI Info]
+  Chromosome: [5q14.3]
+  NCBI Gene ID: [902.0]
+  OMIM_ID: ['601953']
+  UniProt_ID: [P51946]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LRRC59
+  ENSG_ID: [ENSG00000108829]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [55379.0]
+  OMIM_ID: ['614854']
+  UniProt_ID: [Q96AG4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZC3H12D
+  ENSG_ID: [ENSG00000178199]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [340152.0]
+  OMIM_ID: ['611106']
+  UniProt_ID: [A2A288]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

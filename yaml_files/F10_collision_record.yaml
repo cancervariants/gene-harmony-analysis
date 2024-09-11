@@ -1,0 +1,26 @@
+collision_symbol: F10
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FAM110A
+  ENSG_ID: [ENSG00000125898]
+  source: [NCBI Info]
+  Chromosome: [20p13]
+  NCBI Gene ID: [83541.0]
+  OMIM_ID: ['611393']
+  UniProt_ID: [Q9BQ89]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCID2
+  ENSG_ID: [ENSG00000126226]
+  source: [NCBI Info]
+  Chromosome: [13q34]
+  NCBI Gene ID: [55795.0]
+  OMIM_ID: ['613713']
+  UniProt_ID: [Q5JVF3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

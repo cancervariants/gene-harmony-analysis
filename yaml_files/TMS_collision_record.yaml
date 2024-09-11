@@ -1,0 +1,26 @@
+collision_symbol: TMS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PYCARD
+  ENSG_ID: [ENSG00000103490]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [29108.0]
+  OMIM_ID: ['606838']
+  UniProt_ID: [Q9ULZ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TYMS
+  ENSG_ID: [ENSG00000176890]
+  source: [NCBI Info]
+  Chromosome: [18p11.32]
+  NCBI Gene ID: [7298.0]
+  OMIM_ID: ['188350']
+  UniProt_ID: [P04818]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

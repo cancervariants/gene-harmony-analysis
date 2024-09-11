@@ -1,0 +1,26 @@
+collision_symbol: PARF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC183
+  ENSG_ID: [ENSG00000213213]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [84960.0]
+  OMIM_ID: ['615955']
+  UniProt_ID: [Q5T5S1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RABL6
+  ENSG_ID: [ENSG00000196642]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [55684.0]
+  OMIM_ID: ['610615']
+  UniProt_ID: [Q3YEC7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MSSP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RBMS1
+  ENSG_ID: [ENSG00000153250]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [5937.0]
+  OMIM_ID: ['602310']
+  UniProt_ID: [P29558]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RTTN
+  ENSG_ID: [ENSG00000176225]
+  source: [NCBI Info]
+  Chromosome: [18q22.2]
+  NCBI Gene ID: [25914.0]
+  OMIM_ID: ['610436']
+  UniProt_ID: [Q86VV8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

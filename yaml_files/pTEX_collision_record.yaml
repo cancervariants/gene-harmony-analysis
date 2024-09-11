@@ -1,0 +1,26 @@
+collision_symbol: pTEX
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TEX28P1
+  ENSG_ID: [ENSG00000274962]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [728447.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [O15482]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TEX28P2
+  ENSG_ID: [ENSG00000277008]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [653363.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [O15482]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

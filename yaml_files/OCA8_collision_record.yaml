@@ -1,0 +1,26 @@
+collision_symbol: OCA8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACO2
+  ENSG_ID: [ENSG00000100412]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [50.0]
+  OMIM_ID: ['100850']
+  UniProt_ID: [Q99798]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DCT
+  ENSG_ID: [ENSG00000080166]
+  source: [NCBI Info]
+  Chromosome: [13q32.1]
+  NCBI Gene ID: [1638.0]
+  OMIM_ID: ['191275']
+  UniProt_ID: [P40126]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: ACRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CTNNAL1
+  ENSG_ID: [ENSG00000119326]
+  source: [NCBI Info]
+  Chromosome: [9q31.3]
+  NCBI Gene ID: [8727.0]
+  OMIM_ID: ['604785']
+  UniProt_ID: [Q9UBT7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPAG7
+  ENSG_ID: [ENSG00000091640]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [9552.0]
+  OMIM_ID: ['610056']
+  UniProt_ID: [O75391]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

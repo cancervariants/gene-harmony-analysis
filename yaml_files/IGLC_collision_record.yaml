@@ -1,0 +1,70 @@
+collision_symbol: IGLC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGLC1
+  ENSG_ID: [ENSG00000211675]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3537.0]
+  OMIM_ID: ['147220']
+  UniProt_ID: [P0CG04]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGLC2
+  ENSG_ID: [ENSG00000211677]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3538.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DOY2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGLC3
+  ENSG_ID: [ENSG00000211679]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3539.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DOY3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGLC4
+  ENSG_ID: [ENSG00000254029]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3540.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGLC5
+  ENSG_ID: [ENSG00000254030]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3541.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGLC6
+  ENSG_ID: [ENSG00000222037]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [3542.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CF74]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

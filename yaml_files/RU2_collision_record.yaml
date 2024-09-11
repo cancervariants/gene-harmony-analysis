@@ -1,0 +1,37 @@
+collision_symbol: RU2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCDC2
+  ENSG_ID: [ENSG00000146038]
+  source: [HGNC, ENSG]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [51473.0]
+  OMIM_ID: ['605755']
+  UniProt_ID: [Q9UHG0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HPS5
+  ENSG_ID: [ENSG00000110756]
+  source: [ENSG]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [11234.0]
+  OMIM_ID: ['607521']
+  UniProt_ID: [Q9UPZ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KAAG1
+  ENSG_ID: [ENSG00000146049]
+  source: [HGNC]
+  Chromosome: [6p22.3]
+  NCBI Gene ID: [353219.0]
+  OMIM_ID: ['608211']
+  UniProt_ID: [Q9UBP8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

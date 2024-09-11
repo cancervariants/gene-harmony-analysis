@@ -1,0 +1,26 @@
+collision_symbol: NKIR
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD300LF
+  ENSG_ID: [ENSG00000186074]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [146722.0]
+  OMIM_ID: ['609807']
+  UniProt_ID: [Q8TDQ1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TACR1
+  ENSG_ID: [ENSG00000115353]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p12]
+  NCBI Gene ID: [6869.0]
+  OMIM_ID: ['162323']
+  UniProt_ID: [P25103]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

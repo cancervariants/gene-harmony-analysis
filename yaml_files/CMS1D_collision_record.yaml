@@ -1,0 +1,26 @@
+collision_symbol: CMS1D
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHRNB1
+  ENSG_ID: [ENSG00000170175]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [1140.0]
+  OMIM_ID: ['100710']
+  UniProt_ID: [P11230]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHRNE
+  ENSG_ID: [ENSG00000108556]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [1145.0]
+  OMIM_ID: ['100725']
+  UniProt_ID: [Q04844]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

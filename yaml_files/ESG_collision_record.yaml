@@ -1,0 +1,59 @@
+collision_symbol: ESG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SGCE
+  ENSG_ID: [ENSG00000127990]
+  source: [NCBI Info]
+  Chromosome: [7q21.3]
+  NCBI Gene ID: [8910.0]
+  OMIM_ID: ['604149']
+  UniProt_ID: [O43556]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TLE1
+  ENSG_ID: [ENSG00000196781]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q21.32]
+  NCBI Gene ID: [7088.0]
+  OMIM_ID: ['600189']
+  UniProt_ID: [Q04724]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TLE2
+  ENSG_ID: [ENSG00000065717]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [7089.0]
+  OMIM_ID: ['601041']
+  UniProt_ID: [Q04725]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TLE3
+  ENSG_ID: [ENSG00000140332]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q23]
+  NCBI Gene ID: [7090.0]
+  OMIM_ID: ['600190']
+  UniProt_ID: [Q04726]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TLE4
+  ENSG_ID: [ENSG00000106829]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q21.31]
+  NCBI Gene ID: [7091.0]
+  OMIM_ID: ['605132']
+  UniProt_ID: [Q04727]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

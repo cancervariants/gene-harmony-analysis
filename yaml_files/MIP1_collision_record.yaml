@@ -1,0 +1,37 @@
+collision_symbol: MIP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAPKAP1
+  ENSG_ID: [ENSG00000119487]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q33.3]
+  NCBI Gene ID: [79109.0]
+  OMIM_ID: ['610558']
+  UniProt_ID: [Q9BPZ7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPTOR
+  ENSG_ID: [ENSG00000141564]
+  source: [ENSG]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [57521.0]
+  OMIM_ID: ['607130']
+  UniProt_ID: [Q8N122]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNPO1
+  ENSG_ID: [ENSG00000083312]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [3842.0]
+  OMIM_ID: ['602901']
+  UniProt_ID: [Q92973]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

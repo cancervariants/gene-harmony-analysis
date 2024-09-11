@@ -1,0 +1,37 @@
+collision_symbol: ALF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AFM
+  ENSG_ID: [ENSG00000079557]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [173.0]
+  OMIM_ID: ['104145']
+  UniProt_ID: [P43652]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2A1L
+  ENSG_ID: [ENSG00000242441]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [11036.0]
+  OMIM_ID: ['605358']
+  UniProt_ID: [Q9UNN4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STON1-GTF2A1L
+  ENSG_ID: [ENSG00000068781]
+  source: [NCBI Info]
+  Chromosome: [2p16.3]
+  NCBI Gene ID: [286749.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

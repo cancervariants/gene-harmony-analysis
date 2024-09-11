@@ -1,0 +1,26 @@
+collision_symbol: WMS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADAMTS10
+  ENSG_ID: [ENSG00000142303]
+  source: [NCBI Info]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [81794.0]
+  OMIM_ID: ['608990']
+  UniProt_ID: [Q9H324]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBN1
+  ENSG_ID: [ENSG00000166147]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [2200.0]
+  OMIM_ID: ['134797']
+  UniProt_ID: [P35555]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

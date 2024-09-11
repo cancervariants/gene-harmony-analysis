@@ -1,0 +1,26 @@
+collision_symbol: AT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BTK
+  ENSG_ID: [ENSG00000010671]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [695.0]
+  OMIM_ID: ['300300']
+  UniProt_ID: [Q06187]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GATM
+  ENSG_ID: [ENSG00000171766]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [2628.0]
+  OMIM_ID: ['602360']
+  UniProt_ID: [P50440]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

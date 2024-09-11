@@ -1,0 +1,59 @@
+collision_symbol: A1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V0A1
+  ENSG_ID: [ENSG00000033627]
+  source: [ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [535.0]
+  OMIM_ID: ['192130']
+  UniProt_ID: [Q93050]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGKV2D-30
+  ENSG_ID: [ENSG00000239571]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28881.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B6S6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RFC1
+  ENSG_ID: [ENSG00000035928]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4p14]
+  NCBI Gene ID: [5981.0]
+  OMIM_ID: ['102579']
+  UniProt_ID: [P35251]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RFC2
+  ENSG_ID: [ENSG00000049541]
+  source: [HGNC, ENSG]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [5982.0]
+  OMIM_ID: ['600404']
+  UniProt_ID: [P35250]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RFC4
+  ENSG_ID: [ENSG00000163918]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q27.3]
+  NCBI Gene ID: [5984.0]
+  OMIM_ID: ['102577']
+  UniProt_ID: [P35249]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

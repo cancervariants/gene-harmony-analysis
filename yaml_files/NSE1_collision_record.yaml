@@ -1,0 +1,26 @@
+collision_symbol: NSE1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LRATD1
+  ENSG_ID: [ENSG00000162981]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2p24.3]
+  NCBI Gene ID: [151354.0]
+  OMIM_ID: ['611234']
+  UniProt_ID: [Q96KN4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NSMCE1
+  ENSG_ID: [ENSG00000169189]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [197370.0]
+  OMIM_ID: ['617263']
+  UniProt_ID: [Q8WV22]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

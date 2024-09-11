@@ -1,0 +1,26 @@
+collision_symbol: SEMA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SEMA3B
+  ENSG_ID: [ENSG00000012171]
+  source: [ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [7869.0]
+  OMIM_ID: ['601281']
+  UniProt_ID: [Q13214]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEMA6A
+  ENSG_ID: [ENSG00000092421]
+  source: [ENSG]
+  Chromosome: [5q23.1]
+  NCBI Gene ID: [57556.0]
+  OMIM_ID: ['605885']
+  UniProt_ID: [Q9H2E6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: OSR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OSER1
+  ENSG_ID: [ENSG00000132823]
+  source: [ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [51526.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NX31]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OXSR1
+  ENSG_ID: [ENSG00000172939]
+  source: [ENSG]
+  Chromosome: [3p22.2]
+  NCBI Gene ID: [9943.0]
+  OMIM_ID: ['604046']
+  UniProt_ID: [O95747]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

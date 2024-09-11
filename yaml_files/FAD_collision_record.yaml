@@ -1,0 +1,37 @@
+collision_symbol: FAD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRCA2
+  ENSG_ID: [ENSG00000139618]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q13.1]
+  NCBI Gene ID: [675.0]
+  OMIM_ID: ['600185']
+  UniProt_ID: [P51587]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FANCD2
+  ENSG_ID: [ENSG00000144554]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p25.3]
+  NCBI Gene ID: [2177.0]
+  OMIM_ID: ['613984']
+  UniProt_ID: [Q9BXW9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSEN1
+  ENSG_ID: [ENSG00000080815]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q24.2]
+  NCBI Gene ID: [5663.0]
+  OMIM_ID: ['104311']
+  UniProt_ID: [P49768]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

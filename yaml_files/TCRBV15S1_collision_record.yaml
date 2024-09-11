@@ -1,0 +1,26 @@
+collision_symbol: TCRBV15S1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRBV15
+  ENSG_ID: [ENSG00000276819]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28572.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRBV24-1
+  ENSG_ID: [ENSG00000211750]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28563.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B6N3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

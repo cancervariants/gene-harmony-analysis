@@ -1,0 +1,26 @@
+collision_symbol: BAP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHB2
+  ENSG_ID: [ENSG00000215021]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [11331.0]
+  OMIM_ID: ['610704']
+  UniProt_ID: [Q99623]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SIL1
+  ENSG_ID: [ENSG00000120725]
+  source: [NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [64374.0]
+  OMIM_ID: ['608005']
+  UniProt_ID: [Q9H173]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: SPANXE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPANXC
+  ENSG_ID: [ENSG00000198573]
+  source: [NCBI Info]
+  Chromosome: [Xq27.2]
+  NCBI Gene ID: [64663.0]
+  OMIM_ID: ['300330']
+  UniProt_ID: [Q9NY87]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPANXD
+  ENSG_ID: [ENSG00000196406]
+  source: [NCBI Info]
+  Chromosome: [Xq27.2]
+  NCBI Gene ID: [64648.0]
+  OMIM_ID: ['300670']
+  UniProt_ID: [Q9BXN6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

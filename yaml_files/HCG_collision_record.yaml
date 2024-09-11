@@ -1,0 +1,37 @@
+collision_symbol: HCG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CGA
+  ENSG_ID: [ENSG00000135346]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6q14.3]
+  NCBI Gene ID: [1081.0]
+  OMIM_ID: ['118850']
+  UniProt_ID: [P01215]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CGB5
+  ENSG_ID: [ENSG00000189052]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [93659.0]
+  OMIM_ID: ['608825']
+  UniProt_ID: [P0DN86]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HTC2
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Xq27.1]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

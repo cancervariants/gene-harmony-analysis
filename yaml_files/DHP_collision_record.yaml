@@ -1,0 +1,26 @@
+collision_symbol: DHP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DPYD
+  ENSG_ID: [ENSG00000188641]
+  source: [NCBI Info]
+  Chromosome: [1p21.3]
+  NCBI Gene ID: [1806.0]
+  OMIM_ID: ['612779']
+  UniProt_ID: [Q12882]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DPYS
+  ENSG_ID: [ENSG00000147647]
+  source: [NCBI Info]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [1807.0]
+  OMIM_ID: ['613326']
+  UniProt_ID: [Q14117]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

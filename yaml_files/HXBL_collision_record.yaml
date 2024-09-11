@@ -1,0 +1,26 @@
+collision_symbol: HXBL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TNXA
+  ENSG_ID: [ENSG00000248290, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p21.33, .nan]
+  NCBI Gene ID: [7146.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q16473, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNXB
+  ENSG_ID: [ENSG00000168477]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p21.33-p21.32]
+  NCBI Gene ID: [7148.0]
+  OMIM_ID: ['600985']
+  UniProt_ID: [P22105]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

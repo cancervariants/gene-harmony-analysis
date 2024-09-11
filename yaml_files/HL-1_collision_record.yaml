@@ -1,0 +1,26 @@
+collision_symbol: HL-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASGR1
+  ENSG_ID: [ENSG00000141505]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [432.0]
+  OMIM_ID: ['108360']
+  UniProt_ID: [P07306]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ITLN1
+  ENSG_ID: [ENSG00000179914]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [55600.0]
+  OMIM_ID: ['609873']
+  UniProt_ID: [Q8WWA0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

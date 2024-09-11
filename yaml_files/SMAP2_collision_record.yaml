@@ -1,0 +1,26 @@
+collision_symbol: SMAP2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRD8
+  ENSG_ID: [ENSG00000112983]
+  source: [NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [10902.0]
+  OMIM_ID: ['602848']
+  UniProt_ID: [Q9H0E9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMOC2
+  ENSG_ID: [ENSG00000112562]
+  source: [NCBI Info]
+  Chromosome: [6q27]
+  NCBI Gene ID: [64094.0]
+  OMIM_ID: ['607223']
+  UniProt_ID: [Q9H3U7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: WWP4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SAV1
+  ENSG_ID: [ENSG00000151748]
+  source: [ENSG]
+  Chromosome: [14q22.1]
+  NCBI Gene ID: [60485.0]
+  OMIM_ID: ['607203']
+  UniProt_ID: [Q9H4B6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WAC
+  ENSG_ID: [ENSG00000095787]
+  source: [ENSG]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [51322.0]
+  OMIM_ID: ['615049']
+  UniProt_ID: [Q9BTA9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

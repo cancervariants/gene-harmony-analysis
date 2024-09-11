@@ -1,0 +1,81 @@
+collision_symbol: p120
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRD8
+  ENSG_ID: [ENSG00000112983]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [10902.0]
+  OMIM_ID: ['602848']
+  UniProt_ID: [Q9H0E9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTNND1
+  ENSG_ID: [ENSG00000198561]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [1500.0]
+  OMIM_ID: ['601045']
+  UniProt_ID: [O60716]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGSF1
+  ENSG_ID: [ENSG00000147255]
+  source: [NCBI Info]
+  Chromosome: [Xq26.1]
+  NCBI Gene ID: [3547.0]
+  OMIM_ID: ['300137']
+  UniProt_ID: [Q8N6C5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NOP2
+  ENSG_ID: [ENSG00000111641]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [4839.0]
+  OMIM_ID: ['164031']
+  UniProt_ID: [P46087]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NSUN5
+  ENSG_ID: [ENSG00000130305]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [55695.0]
+  OMIM_ID: ['615732']
+  UniProt_ID: [Q96P11]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RASA1
+  ENSG_ID: [ENSG00000145715]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q14.3]
+  NCBI Gene ID: [5921.0]
+  OMIM_ID: ['139150']
+  UniProt_ID: [P20936]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRPA1
+  ENSG_ID: [ENSG00000104321]
+  source: [NCBI Info]
+  Chromosome: [8q21.11]
+  NCBI Gene ID: [8989.0]
+  OMIM_ID: ['604775']
+  UniProt_ID: [O75762]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

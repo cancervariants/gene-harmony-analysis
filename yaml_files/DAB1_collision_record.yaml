@@ -1,0 +1,26 @@
+collision_symbol: DAB1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNAAF3
+  ENSG_ID: [ENSG00000167646]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [352909.0]
+  OMIM_ID: ['614566']
+  UniProt_ID: [Q8N9W5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OMA1
+  ENSG_ID: [ENSG00000162600]
+  source: [NCBI Info]
+  Chromosome: [1p32.2-p32.1]
+  NCBI Gene ID: [115209.0]
+  OMIM_ID: ['617081']
+  UniProt_ID: [Q96E52]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

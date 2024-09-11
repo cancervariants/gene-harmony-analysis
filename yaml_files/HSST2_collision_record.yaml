@@ -1,0 +1,26 @@
+collision_symbol: HSST2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NDST2
+  ENSG_ID: [ENSG00000166507]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [8509.0]
+  OMIM_ID: ['603268']
+  UniProt_ID: [P52849]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SULT2B1
+  ENSG_ID: [ENSG00000088002]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [6820.0]
+  OMIM_ID: ['604125']
+  UniProt_ID: [O00204]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

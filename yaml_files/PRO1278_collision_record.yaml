@@ -1,0 +1,26 @@
+collision_symbol: PRO1278
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LYZL1
+  ENSG_ID: [ENSG00000120563]
+  source: [NCBI Info]
+  Chromosome: [10p12.1-p11.23]
+  NCBI Gene ID: [84569.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6UWQ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC25A37
+  ENSG_ID: [ENSG00000147454]
+  source: [NCBI Info]
+  Chromosome: [8p21.2]
+  NCBI Gene ID: [51312.0]
+  OMIM_ID: ['610387']
+  UniProt_ID: [Q9NYZ2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

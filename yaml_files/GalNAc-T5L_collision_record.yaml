@@ -1,0 +1,26 @@
+collision_symbol: GalNAc-T5L
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GALNT17
+  ENSG_ID: [ENSG00000185274]
+  source: [NCBI Info]
+  Chromosome: [7q11.22]
+  NCBI Gene ID: [64409.0]
+  OMIM_ID: ['615137']
+  UniProt_ID: [Q6IS24]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GALNTL5
+  ENSG_ID: [ENSG00000106648]
+  source: [NCBI Info]
+  Chromosome: [7q36.1]
+  NCBI Gene ID: [168391.0]
+  OMIM_ID: ['615133']
+  UniProt_ID: [Q7Z4T8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

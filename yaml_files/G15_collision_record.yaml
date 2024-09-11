@@ -1,0 +1,26 @@
+collision_symbol: G15
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AGPAT1
+  ENSG_ID: [ENSG00000204310]
+  source: [NCBI Info]
+  Chromosome: [6p21.32]
+  NCBI Gene ID: [10554.0]
+  OMIM_ID: ['603099']
+  UniProt_ID: [Q99943]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBM5
+  ENSG_ID: [ENSG00000003756]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [10181.0]
+  OMIM_ID: ['606884']
+  UniProt_ID: [P52756]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

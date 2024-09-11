@@ -1,0 +1,26 @@
+collision_symbol: MIO
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MIOS
+  ENSG_ID: [ENSG00000164654]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7p21.3]
+  NCBI Gene ID: [54468.0]
+  OMIM_ID: ['615359']
+  UniProt_ID: [Q9NXC5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MLXIPL
+  ENSG_ID: [ENSG00000009950]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [51085.0]
+  OMIM_ID: ['605678']
+  UniProt_ID: [Q9NP71]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

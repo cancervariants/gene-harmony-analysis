@@ -1,0 +1,26 @@
+collision_symbol: ADF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DSTN
+  ENSG_ID: [ENSG00000125868]
+  source: [NCBI Info]
+  Chromosome: [20p12.1]
+  NCBI Gene ID: [11034.0]
+  OMIM_ID: ['609114']
+  UniProt_ID: [P60981]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GSN
+  ENSG_ID: [ENSG00000148180]
+  source: [NCBI Info]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [2934.0]
+  OMIM_ID: ['137350']
+  UniProt_ID: [P06396]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: TTP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADAMTS13
+  ENSG_ID: [ENSG00000160323]
+  source: [HGNC, ENSG]
+  Chromosome: [9q34.2]
+  NCBI Gene ID: [11093.0]
+  OMIM_ID: ['604134']
+  UniProt_ID: [Q76LX8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SH3BP4
+  ENSG_ID: [ENSG00000130147]
+  source: [NCBI Info]
+  Chromosome: [2q37.2]
+  NCBI Gene ID: [23677.0]
+  OMIM_ID: ['605611']
+  UniProt_ID: [Q9P0V3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZFP36
+  ENSG_ID: [ENSG00000128016]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [7538.0]
+  OMIM_ID: ['190700']
+  UniProt_ID: [P26651]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

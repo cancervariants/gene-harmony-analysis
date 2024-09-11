@@ -1,0 +1,26 @@
+collision_symbol: TIC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BMAL1
+  ENSG_ID: [ENSG00000133794]
+  source: [NCBI Info]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [406.0]
+  OMIM_ID: ['602550']
+  UniProt_ID: [O00327]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSD4
+  ENSG_ID: [ENSG00000125637]
+  source: [NCBI Info]
+  Chromosome: [2q14.1]
+  NCBI Gene ID: [23550.0]
+  OMIM_ID: ['614442']
+  UniProt_ID: [Q8NDX1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

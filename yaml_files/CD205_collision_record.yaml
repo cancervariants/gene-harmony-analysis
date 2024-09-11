@@ -1,0 +1,26 @@
+collision_symbol: CD205
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LY75
+  ENSG_ID: [ENSG00000054219]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [4065.0]
+  OMIM_ID: ['604524']
+  UniProt_ID: [O60449]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LY75-CD302
+  ENSG_ID: [ENSG00000248672]
+  source: [NCBI Info]
+  Chromosome: [2q24.2]
+  NCBI Gene ID: [100526664.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

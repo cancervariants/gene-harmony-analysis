@@ -1,0 +1,26 @@
+collision_symbol: USP17
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: USP17L2
+  ENSG_ID: [ENSG00000223443]
+  source: [NCBI Info]
+  Chromosome: [8p23.1]
+  NCBI Gene ID: [377630.0]
+  OMIM_ID: ['610186']
+  UniProt_ID: [Q6R6M4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: USP17L9P
+  ENSG_ID: [ENSG00000251694]
+  source: [NCBI Info]
+  Chromosome: [4p16.1]
+  NCBI Gene ID: [391627.0]
+  OMIM_ID: ['607011']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

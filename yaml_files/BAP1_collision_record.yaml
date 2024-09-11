@@ -1,0 +1,26 @@
+collision_symbol: BAP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAGI1
+  ENSG_ID: [ENSG00000151276]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p14.1]
+  NCBI Gene ID: [9223.0]
+  OMIM_ID: ['602625']
+  UniProt_ID: [Q96QZ7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNF2
+  ENSG_ID: [ENSG00000121481]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q25.3]
+  NCBI Gene ID: [6045.0]
+  OMIM_ID: ['608985']
+  UniProt_ID: [Q99496]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

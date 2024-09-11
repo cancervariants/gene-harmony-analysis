@@ -1,0 +1,26 @@
+collision_symbol: CAC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CACUL1
+  ENSG_ID: [ENSG00000151893]
+  source: [NCBI Info]
+  Chromosome: [10q26.11]
+  NCBI Gene ID: [143384.0]
+  OMIM_ID: ['618764']
+  UniProt_ID: [Q86Y37]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM54
+  ENSG_ID: [ENSG00000121900]
+  source: [NCBI Info]
+  Chromosome: [1p35.1]
+  NCBI Gene ID: [113452.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q969K7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

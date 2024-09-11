@@ -1,0 +1,26 @@
+collision_symbol: LPCAT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LPCAT3
+  ENSG_ID: [ENSG00000111684]
+  source: [NCBI Info]
+  Chromosome: [12p13.31]
+  NCBI Gene ID: [10162.0]
+  OMIM_ID: ['611950']
+  UniProt_ID: [Q6P1A2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MBOAT2
+  ENSG_ID: [ENSG00000143797]
+  source: [NCBI Info]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [129642.0]
+  OMIM_ID: ['611949']
+  UniProt_ID: [Q6ZWT7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

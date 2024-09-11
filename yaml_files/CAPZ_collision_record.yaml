@@ -1,0 +1,37 @@
+collision_symbol: CAPZ
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CAPZA1
+  ENSG_ID: [ENSG00000116489]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [829.0]
+  OMIM_ID: ['601580']
+  UniProt_ID: [P52907]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAPZA2
+  ENSG_ID: [ENSG00000198898]
+  source: [NCBI Info]
+  Chromosome: [7q31.2]
+  NCBI Gene ID: [830.0]
+  OMIM_ID: ['601571']
+  UniProt_ID: [P47755]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAPZB
+  ENSG_ID: [ENSG00000077549]
+  source: [NCBI Info]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [832.0]
+  OMIM_ID: ['601572']
+  UniProt_ID: [P47756]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

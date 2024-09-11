@@ -1,0 +1,26 @@
+collision_symbol: DNM1DN16@
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNM1P26
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Yq11.23]
+  NCBI Gene ID: [100216507.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNM1P27
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [Yq11.23]
+  NCBI Gene ID: [100216514.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

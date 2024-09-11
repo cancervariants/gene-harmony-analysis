@@ -1,0 +1,26 @@
+collision_symbol: P39
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V0D1
+  ENSG_ID: [ENSG00000159720]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [9114.0]
+  OMIM_ID: ['607028']
+  UniProt_ID: [P61421]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDK5R2
+  ENSG_ID: [ENSG00000171450]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [8941.0]
+  OMIM_ID: ['603764']
+  UniProt_ID: [Q13319]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: RITA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RITA1
+  ENSG_ID: [ENSG00000139405]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [84934.0]
+  OMIM_ID: ['620696']
+  UniProt_ID: [Q96K30]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF331
+  ENSG_ID: [ENSG00000130844]
+  source: [NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [55422.0]
+  OMIM_ID: ['606043']
+  UniProt_ID: [Q9NQX6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

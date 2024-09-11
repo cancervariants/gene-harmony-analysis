@@ -1,0 +1,37 @@
+collision_symbol: GSE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CELIAC2
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q31-q33]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTLA4
+  ENSG_ID: [ENSG00000163599]
+  source: [HGNC, NCBI Info]
+  Chromosome: [2q33.2]
+  NCBI Gene ID: [1493.0]
+  OMIM_ID: ['123890']
+  UniProt_ID: [P16410]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STPG4
+  ENSG_ID: [ENSG00000239605]
+  source: [NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [285051.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8N801]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: GRTH
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DDX25
+  ENSG_ID: [ENSG00000109832]
+  source: [NCBI Info]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [29118.0]
+  OMIM_ID: ['607663']
+  UniProt_ID: [Q9UHL0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THRB
+  ENSG_ID: [ENSG00000151090]
+  source: [NCBI Info]
+  Chromosome: [3p24.2]
+  NCBI Gene ID: [7068.0]
+  OMIM_ID: ['190160']
+  UniProt_ID: [P10828]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,59 @@
+collision_symbol: CBP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CREBBP
+  ENSG_ID: [ENSG00000005339]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [1387.0]
+  OMIM_ID: ['600140']
+  UniProt_ID: [Q92793]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF4E
+  ENSG_ID: [ENSG00000151247]
+  source: [NCBI Info]
+  Chromosome: [4q23]
+  NCBI Gene ID: [1977.0]
+  OMIM_ID: ['133440']
+  UniProt_ID: [P06730]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPN1LW
+  ENSG_ID: [ENSG00000102076]
+  source: [NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [5956.0]
+  OMIM_ID: ['300822']
+  UniProt_ID: [P04000]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAG1
+  ENSG_ID: [ENSG00000076641]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q21.13]
+  NCBI Gene ID: [55824.0]
+  OMIM_ID: ['605767']
+  UniProt_ID: [Q9NWQ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCBP4
+  ENSG_ID: [ENSG00000090097]
+  source: [NCBI Info]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [57060.0]
+  OMIM_ID: ['608503']
+  UniProt_ID: [P57723]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

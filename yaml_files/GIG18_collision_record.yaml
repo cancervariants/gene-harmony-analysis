@@ -1,0 +1,26 @@
+collision_symbol: GIG18
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLCCI1
+  ENSG_ID: [ENSG00000106415]
+  source: [NCBI Info]
+  Chromosome: [7p21.3]
+  NCBI Gene ID: [113263.0]
+  OMIM_ID: ['614283']
+  UniProt_ID: [Q86VQ1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GOT1
+  ENSG_ID: [ENSG00000120053]
+  source: [NCBI Info]
+  Chromosome: [10q24.2]
+  NCBI Gene ID: [2805.0]
+  OMIM_ID: ['138180']
+  UniProt_ID: [P17174]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

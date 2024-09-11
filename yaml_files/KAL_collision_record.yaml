@@ -1,0 +1,26 @@
+collision_symbol: KAL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ANOS1
+  ENSG_ID: [ENSG00000011201]
+  source: [NCBI Info]
+  Chromosome: [Xp22.31]
+  NCBI Gene ID: [3730.0]
+  OMIM_ID: ['300836']
+  UniProt_ID: [P23352]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERPINA4
+  ENSG_ID: [ENSG00000100665]
+  source: [NCBI Info]
+  Chromosome: [14q32.13]
+  NCBI Gene ID: [5267.0]
+  OMIM_ID: ['147935']
+  UniProt_ID: [P29622]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

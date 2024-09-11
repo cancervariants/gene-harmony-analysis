@@ -1,0 +1,26 @@
+collision_symbol: PHS2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLI2
+  ENSG_ID: [ENSG00000074047]
+  source: [NCBI Info]
+  Chromosome: [2q14.2]
+  NCBI Gene ID: [2736.0]
+  OMIM_ID: ['165230']
+  UniProt_ID: [P10070]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCBD2
+  ENSG_ID: [ENSG00000132570]
+  source: [NCBI Info]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [84105.0]
+  OMIM_ID: ['609836']
+  UniProt_ID: [Q9H0N5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

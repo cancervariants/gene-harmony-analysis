@@ -1,0 +1,26 @@
+collision_symbol: FUS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FUS
+  ENSG_ID: [ENSG00000089280]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [2521.0]
+  OMIM_ID: ['137070']
+  UniProt_ID: [P35637]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TUSC2
+  ENSG_ID: [ENSG00000114383]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [11334.0]
+  OMIM_ID: ['607052']
+  UniProt_ID: [O75896]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

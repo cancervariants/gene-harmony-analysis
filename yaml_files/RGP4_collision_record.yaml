@@ -1,0 +1,26 @@
+collision_symbol: RGP4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RGPD4
+  ENSG_ID: [ENSG00000196862]
+  source: [NCBI Info]
+  Chromosome: [2q12.3]
+  NCBI Gene ID: [285190.0]
+  OMIM_ID: ['612707']
+  UniProt_ID: [Q7Z3J3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RGS4
+  ENSG_ID: [ENSG00000117152]
+  source: [NCBI Info]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [5999.0]
+  OMIM_ID: ['602516']
+  UniProt_ID: [P49798]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

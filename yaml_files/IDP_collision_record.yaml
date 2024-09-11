@@ -1,0 +1,26 @@
+collision_symbol: IDP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IDH1
+  ENSG_ID: [ENSG00000138413]
+  source: [NCBI Info]
+  Chromosome: [2q34]
+  NCBI Gene ID: [3417.0]
+  OMIM_ID: ['147700']
+  UniProt_ID: [O75874]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IDH2
+  ENSG_ID: [ENSG00000182054]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [3418.0]
+  OMIM_ID: ['147650']
+  UniProt_ID: [P48735]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

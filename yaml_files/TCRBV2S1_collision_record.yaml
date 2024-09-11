@@ -1,0 +1,26 @@
+collision_symbol: TCRBV2S1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRBV2
+  ENSG_ID: [ENSG00000226660]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28620.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A1B0GX68]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRBV20-1
+  ENSG_ID: [ENSG00000211747]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [28567.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A075B6N2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

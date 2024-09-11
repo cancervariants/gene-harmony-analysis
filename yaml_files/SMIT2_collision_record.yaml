@@ -1,0 +1,26 @@
+collision_symbol: SMIT2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC5A11
+  ENSG_ID: [ENSG00000158865]
+  source: [NCBI Info]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [115584.0]
+  OMIM_ID: ['610238']
+  UniProt_ID: [Q8WWX8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC5A3
+  ENSG_ID: [ENSG00000198743]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [6526.0]
+  OMIM_ID: ['600444']
+  UniProt_ID: [P53794]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

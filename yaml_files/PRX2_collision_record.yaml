@@ -1,0 +1,26 @@
+collision_symbol: PRX2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRDX2
+  ENSG_ID: [ENSG00000167815]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.13]
+  NCBI Gene ID: [7001.0]
+  OMIM_ID: ['600538']
+  UniProt_ID: [P32119]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRRX2
+  ENSG_ID: [ENSG00000167157]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q34.11]
+  NCBI Gene ID: [51450.0]
+  OMIM_ID: ['604675']
+  UniProt_ID: [Q99811]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

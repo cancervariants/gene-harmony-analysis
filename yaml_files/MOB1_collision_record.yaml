@@ -1,0 +1,37 @@
+collision_symbol: MOB1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MOB1A
+  ENSG_ID: [ENSG00000114978]
+  source: [NCBI Info]
+  Chromosome: [2p13.1]
+  NCBI Gene ID: [55233.0]
+  OMIM_ID: ['609281']
+  UniProt_ID: [Q9H8S9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MOB4
+  ENSG_ID: [ENSG00000115540]
+  source: [NCBI Info]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [25843.0]
+  OMIM_ID: ['609361']
+  UniProt_ID: [Q9Y3A3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SGMS1
+  ENSG_ID: [ENSG00000198964]
+  source: [NCBI Info]
+  Chromosome: [10q11.23]
+  NCBI Gene ID: [259230.0]
+  OMIM_ID: ['611573']
+  UniProt_ID: [Q86VZ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

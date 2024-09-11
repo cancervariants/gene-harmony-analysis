@@ -1,0 +1,26 @@
+collision_symbol: NPH1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPHP1
+  ENSG_ID: [ENSG00000144061]
+  source: [NCBI Info]
+  Chromosome: [2q13]
+  NCBI Gene ID: [4867.0]
+  OMIM_ID: ['607100']
+  UniProt_ID: [O15259]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NXPH1
+  ENSG_ID: [ENSG00000122584]
+  source: [NCBI Info]
+  Chromosome: [7p21.3]
+  NCBI Gene ID: [30010.0]
+  OMIM_ID: ['604639']
+  UniProt_ID: [P58417]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

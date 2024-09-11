@@ -1,0 +1,26 @@
+collision_symbol: GCN5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KAT2A
+  ENSG_ID: [ENSG00000108773]
+  source: [ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [2648.0]
+  OMIM_ID: ['602301']
+  UniProt_ID: [Q92830]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KAT2B
+  ENSG_ID: [ENSG00000114166]
+  source: [ENSG]
+  Chromosome: [3p24.3]
+  NCBI Gene ID: [8850.0]
+  OMIM_ID: ['602303']
+  UniProt_ID: [Q92831]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

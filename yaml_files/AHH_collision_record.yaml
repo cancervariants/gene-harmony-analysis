@@ -1,0 +1,26 @@
+collision_symbol: AHH
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AHRR
+  ENSG_ID: [ENSG00000063438]
+  source: [NCBI Info]
+  Chromosome: [5p15.33]
+  NCBI Gene ID: [57491.0]
+  OMIM_ID: ['606517']
+  UniProt_ID: [A9YTQ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CYP1A1
+  ENSG_ID: [ENSG00000140465]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [1543.0]
+  OMIM_ID: ['108330']
+  UniProt_ID: [P04798]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: p8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CMC4
+  ENSG_ID: [ENSG00000182712]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [100272147.0]
+  OMIM_ID: ['301088']
+  UniProt_ID: [P56277]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EXOSC7
+  ENSG_ID: [ENSG00000075914]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [23016.0]
+  OMIM_ID: ['606488']
+  UniProt_ID: [Q15024]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NUPR1
+  ENSG_ID: [ENSG00000176046]
+  source: [HGNC]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [26471.0]
+  OMIM_ID: ['614812']
+  UniProt_ID: [O60356]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

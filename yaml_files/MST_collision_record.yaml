@@ -1,0 +1,48 @@
+collision_symbol: MST
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAP3K10
+  ENSG_ID: [ENSG00000130758]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [4294.0]
+  OMIM_ID: ['600137']
+  UniProt_ID: [Q02779]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MPST
+  ENSG_ID: [ENSG00000128309]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q12.3]
+  NCBI Gene ID: [4357.0]
+  OMIM_ID: ['602496']
+  UniProt_ID: [P25325]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MSTO1
+  ENSG_ID: [ENSG00000125459]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [55154.0]
+  OMIM_ID: ['617619']
+  UniProt_ID: [Q9BUK6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAM
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

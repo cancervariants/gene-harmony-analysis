@@ -1,0 +1,26 @@
+collision_symbol: OI12
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SERPINF1
+  ENSG_ID: [ENSG00000132386]
+  source: [NCBI Info]
+  Chromosome: [17p13.3]
+  NCBI Gene ID: [5176.0]
+  OMIM_ID: ['172860']
+  UniProt_ID: [P36955]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SP7
+  ENSG_ID: [ENSG00000170374]
+  source: [NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [121340.0]
+  OMIM_ID: ['606633']
+  UniProt_ID: [Q8TDD2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

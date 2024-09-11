@@ -1,0 +1,26 @@
+collision_symbol: ARP3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACTR3
+  ENSG_ID: [ENSG00000115091]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q14.1]
+  NCBI Gene ID: [10096.0]
+  OMIM_ID: ['604222']
+  UniProt_ID: [P61158]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: APOBEC3A
+  ENSG_ID: [ENSG00000128383]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [200315.0]
+  OMIM_ID: ['607109']
+  UniProt_ID: [P31941]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

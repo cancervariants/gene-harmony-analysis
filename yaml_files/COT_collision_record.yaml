@@ -1,0 +1,26 @@
+collision_symbol: COT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CROT
+  ENSG_ID: [ENSG00000005469]
+  source: [NCBI Info]
+  Chromosome: [7q21.12]
+  NCBI Gene ID: [54677.0]
+  OMIM_ID: ['606090']
+  UniProt_ID: [Q9UKG9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAP3K8
+  ENSG_ID: [ENSG00000107968]
+  source: [NCBI Info]
+  Chromosome: [10p11.23]
+  NCBI Gene ID: [1326.0]
+  OMIM_ID: ['191195']
+  UniProt_ID: [P41279]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MAM2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAML2
+  ENSG_ID: [ENSG00000184384]
+  source: [NCBI Info]
+  Chromosome: [11q21]
+  NCBI Gene ID: [84441.0]
+  OMIM_ID: ['607537']
+  UniProt_ID: [Q8IZL2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAML3
+  ENSG_ID: [ENSG00000196782]
+  source: [NCBI Info]
+  Chromosome: [4q31.1]
+  NCBI Gene ID: [55534.0]
+  OMIM_ID: ['608991']
+  UniProt_ID: [Q96JK9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

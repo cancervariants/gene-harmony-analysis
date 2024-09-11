@@ -1,0 +1,37 @@
+collision_symbol: LAT3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC43A1
+  ENSG_ID: [ENSG00000149150]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [8501.0]
+  OMIM_ID: ['603733']
+  UniProt_ID: [O75387]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A6
+  ENSG_ID: [ENSG00000103064]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [9057.0]
+  OMIM_ID: ['605641']
+  UniProt_ID: [Q92536]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A7
+  ENSG_ID: [ENSG00000155465]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [9056.0]
+  OMIM_ID: ['603593']
+  UniProt_ID: [Q9UM01]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

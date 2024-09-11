@@ -1,0 +1,26 @@
+collision_symbol: FAM48B1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SUPT20HL1
+  ENSG_ID: [ENSG00000223731]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [100130302.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q3ZLR7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SUPT20HL2
+  ENSG_ID: [ENSG00000223611]
+  source: [NCBI Info]
+  Chromosome: [Xp22.11]
+  NCBI Gene ID: [170067.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0C7V6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: VWS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CAMK1G
+  ENSG_ID: [ENSG00000008118]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [57172.0]
+  OMIM_ID: ['614994']
+  UniProt_ID: [Q96NX5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IRF6
+  ENSG_ID: [ENSG00000117595]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [3664.0]
+  OMIM_ID: ['607199']
+  UniProt_ID: [O14896]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

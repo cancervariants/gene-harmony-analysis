@@ -1,0 +1,48 @@
+collision_symbol: U13
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SNORD13
+  ENSG_ID: [ENSG00000239039]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8p12]
+  NCBI Gene ID: [692084.0]
+  OMIM_ID: ['616664']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNORD13P1
+  ENSG_ID: [ENSG00000238498]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [6076.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNORD13P2
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [6077.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SNORD13P3
+  ENSG_ID: [ENSG00000239128]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [6078.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

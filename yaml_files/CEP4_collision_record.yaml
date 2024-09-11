@@ -1,0 +1,26 @@
+collision_symbol: CEP4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDC42EP4
+  ENSG_ID: [ENSG00000179604]
+  source: [NCBI Info]
+  Chromosome: [17q25.1]
+  NCBI Gene ID: [23580.0]
+  OMIM_ID: ['605468']
+  UniProt_ID: [Q9H3Q1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CEP135
+  ENSG_ID: [ENSG00000174799]
+  source: [NCBI Info]
+  Chromosome: [4q12]
+  NCBI Gene ID: [9662.0]
+  OMIM_ID: ['611423']
+  UniProt_ID: [Q66GS9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

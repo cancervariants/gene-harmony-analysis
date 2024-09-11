@@ -1,0 +1,26 @@
+collision_symbol: DNAJ
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNAJA2
+  ENSG_ID: [ENSG00000069345]
+  source: [NCBI Info]
+  Chromosome: [16q11.2]
+  NCBI Gene ID: [10294.0]
+  OMIM_ID: ['611322']
+  UniProt_ID: [O60884]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNAJC14
+  ENSG_ID: [ENSG00000135392]
+  source: [NCBI Info]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [85406.0]
+  OMIM_ID: ['606092']
+  UniProt_ID: [Q6Y2X3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

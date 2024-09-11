@@ -1,0 +1,26 @@
+collision_symbol: MINT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CISD3
+  ENSG_ID: [ENSG00000274768]
+  source: [ENSG]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPEN
+  ENSG_ID: [ENSG00000065526]
+  source: [ENSG]
+  Chromosome: [1p36.21-p36.13]
+  NCBI Gene ID: [23013.0]
+  OMIM_ID: ['613484']
+  UniProt_ID: [Q96T58]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

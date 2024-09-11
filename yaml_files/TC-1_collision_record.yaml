@@ -1,0 +1,26 @@
+collision_symbol: TC-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TCIM
+  ENSG_ID: [ENSG00000176907]
+  source: [NCBI Info]
+  Chromosome: [8p11.21]
+  NCBI Gene ID: [56892.0]
+  OMIM_ID: ['607702']
+  UniProt_ID: [Q9NR00]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN1
+  ENSG_ID: [ENSG00000134827]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [6947.0]
+  OMIM_ID: ['189905']
+  UniProt_ID: [P20061]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

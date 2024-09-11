@@ -1,0 +1,26 @@
+collision_symbol: PTB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PTBP1
+  ENSG_ID: [ENSG00000011304]
+  source: [ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [5725.0]
+  OMIM_ID: ['600693']
+  UniProt_ID: [P26599]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTBP2
+  ENSG_ID: [ENSG00000117569]
+  source: [ENSG]
+  Chromosome: [1p21.3]
+  NCBI Gene ID: [58155.0]
+  OMIM_ID: ['608449']
+  UniProt_ID: [Q9UKA9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

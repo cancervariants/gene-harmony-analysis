@@ -1,0 +1,26 @@
+collision_symbol: MCM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MMUT
+  ENSG_ID: [ENSG00000146085]
+  source: [NCBI Info]
+  Chromosome: [6p12.3]
+  NCBI Gene ID: [4594.0]
+  OMIM_ID: ['609058']
+  UniProt_ID: [P22033]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3CA
+  ENSG_ID: [ENSG00000121879]
+  source: [NCBI Info]
+  Chromosome: [3q26.32]
+  NCBI Gene ID: [5290.0]
+  OMIM_ID: ['171834']
+  UniProt_ID: [P42336]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

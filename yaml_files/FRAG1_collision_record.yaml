@@ -1,0 +1,26 @@
+collision_symbol: FRAG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATAD5
+  ENSG_ID: [ENSG00000176208]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [79915.0]
+  OMIM_ID: ['609534']
+  UniProt_ID: [Q96QE3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PGAP2
+  ENSG_ID: [ENSG00000148985]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [27315.0]
+  OMIM_ID: ['615187']
+  UniProt_ID: [Q9UHJ9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

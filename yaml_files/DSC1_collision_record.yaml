@@ -1,0 +1,26 @@
+collision_symbol: DSC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DSC3
+  ENSG_ID: [ENSG00000134762]
+  source: [NCBI Info]
+  Chromosome: [18q12.1]
+  NCBI Gene ID: [1825.0]
+  OMIM_ID: ['600271']
+  UniProt_ID: [Q14574]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RCAN1
+  ENSG_ID: [ENSG00000159200]
+  source: [NCBI Info]
+  Chromosome: [21q22.12]
+  NCBI Gene ID: [1827.0]
+  OMIM_ID: ['602917']
+  UniProt_ID: [P53805]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

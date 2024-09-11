@@ -1,0 +1,26 @@
+collision_symbol: eIF-4D
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EIF5A
+  ENSG_ID: [ENSG00000132507]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [1984.0]
+  OMIM_ID: ['600187']
+  UniProt_ID: [P63241]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF5AL1
+  ENSG_ID: [ENSG00000253626]
+  source: [NCBI Info]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [143244.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6IS14]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

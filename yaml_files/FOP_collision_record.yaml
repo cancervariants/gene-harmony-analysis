@@ -1,0 +1,37 @@
+collision_symbol: FOP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACVR1
+  ENSG_ID: [ENSG00000115170]
+  source: [NCBI Info]
+  Chromosome: [2q24.1]
+  NCBI Gene ID: [90.0]
+  OMIM_ID: ['102576']
+  UniProt_ID: [Q04771]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CEP43
+  ENSG_ID: [ENSG00000213066]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q27]
+  NCBI Gene ID: [11116.0]
+  OMIM_ID: ['605392']
+  UniProt_ID: [O95684]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHTOP
+  ENSG_ID: [ENSG00000160679]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [26097.0]
+  OMIM_ID: ['614206']
+  UniProt_ID: [Q9Y3Y2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

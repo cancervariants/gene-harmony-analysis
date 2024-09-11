@@ -1,0 +1,26 @@
+collision_symbol: PBI
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APOBEC3C
+  ENSG_ID: [ENSG00000244509]
+  source: [NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [27350.0]
+  OMIM_ID: ['607750']
+  UniProt_ID: [Q9NRW3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMR3A
+  ENSG_ID: [ENSG00000109208]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [26952.0]
+  OMIM_ID: ['618340']
+  UniProt_ID: [Q99954]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

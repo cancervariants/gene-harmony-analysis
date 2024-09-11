@@ -1,0 +1,26 @@
+collision_symbol: ZYG11
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZYG11A
+  ENSG_ID: [ENSG00000203995]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [440590.0]
+  OMIM_ID: ['618675']
+  UniProt_ID: [Q6WRX3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZYG11B
+  ENSG_ID: [ENSG00000162378]
+  source: [NCBI Info]
+  Chromosome: [1p32.3]
+  NCBI Gene ID: [79699.0]
+  OMIM_ID: ['618673']
+  UniProt_ID: [Q9C0D3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
