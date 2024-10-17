@@ -1,0 +1,26 @@
+collision_symbol: WS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AWAT2
+  ENSG_ID: [ENSG00000147160]
+  source: [NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [158835.0]
+  OMIM_ID: ['300925']
+  UniProt_ID: [Q6E213]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ELN
+  ENSG_ID: [ENSG00000049540]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [2006.0]
+  OMIM_ID: ['130160']
+  UniProt_ID: [P15502]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

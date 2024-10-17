@@ -1,0 +1,37 @@
+collision_symbol: RAMP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DTL
+  ENSG_ID: [ENSG00000143476]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q32.3]
+  NCBI Gene ID: [51514.0]
+  OMIM_ID: ['610617']
+  UniProt_ID: [Q9NZJ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAMR1
+  ENSG_ID: [ENSG00000149090]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11p13]
+  NCBI Gene ID: [25891.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6UXH9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZMYM2
+  ENSG_ID: [ENSG00000121741]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q12.11]
+  NCBI Gene ID: [7750.0]
+  OMIM_ID: ['602221']
+  UniProt_ID: [Q9UBW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

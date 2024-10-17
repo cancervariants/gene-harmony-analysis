@@ -1,0 +1,37 @@
+collision_symbol: S3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LOC107228318
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD3
+  ENSG_ID: [ENSG00000108344]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q21.1]
+  NCBI Gene ID: [5709.0]
+  OMIM_ID: ['617676']
+  UniProt_ID: [O43242]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPS3
+  ENSG_ID: [ENSG00000149273]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [6188.0]
+  OMIM_ID: ['600454']
+  UniProt_ID: [P23396]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: VPP2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V0A4
+  ENSG_ID: [ENSG00000105929]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7q34]
+  NCBI Gene ID: [50617.0]
+  OMIM_ID: ['605239']
+  UniProt_ID: [Q9HBG4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP6V1A
+  ENSG_ID: [ENSG00000114573]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q13.31]
+  NCBI Gene ID: [523.0]
+  OMIM_ID: ['607027']
+  UniProt_ID: [P38606]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

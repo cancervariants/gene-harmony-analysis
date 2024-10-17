@@ -1,0 +1,26 @@
+collision_symbol: CMPD1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CMD1B
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [9q13-q22]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SOX9
+  ENSG_ID: [ENSG00000125398]
+  source: [NCBI Info]
+  Chromosome: [17q24.3]
+  NCBI Gene ID: [6662.0]
+  OMIM_ID: ['608160']
+  UniProt_ID: [P48436]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

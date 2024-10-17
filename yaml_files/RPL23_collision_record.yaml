@@ -1,0 +1,26 @@
+collision_symbol: RPL23
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MRPL23
+  ENSG_ID: [ENSG00000214026]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [6150.0]
+  OMIM_ID: ['600789']
+  UniProt_ID: [Q16540]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL17
+  ENSG_ID: [ENSG00000265681]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [6139.0]
+  OMIM_ID: ['603661']
+  UniProt_ID: [P18621]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

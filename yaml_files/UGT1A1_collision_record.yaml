@@ -1,0 +1,59 @@
+collision_symbol: UGT1A1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: UGT1A10
+  ENSG_ID: [ENSG00000242515]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54575.0]
+  OMIM_ID: ['606435']
+  UniProt_ID: [Q9HAW8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT1A4
+  ENSG_ID: [ENSG00000244474]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54657.0]
+  OMIM_ID: ['606429']
+  UniProt_ID: [P22310]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT1A6
+  ENSG_ID: [ENSG00000167165]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54578.0]
+  OMIM_ID: ['606431']
+  UniProt_ID: [P19224]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT1A7
+  ENSG_ID: [ENSG00000244122]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54577.0]
+  OMIM_ID: ['606432']
+  UniProt_ID: [Q9HAW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UGT1A8
+  ENSG_ID: [ENSG00000242366]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [54576.0]
+  OMIM_ID: ['606433']
+  UniProt_ID: [Q9HAW9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

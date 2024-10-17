@@ -1,0 +1,26 @@
+collision_symbol: TM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MCL1
+  ENSG_ID: [ENSG00000143384]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [4170.0]
+  OMIM_ID: ['159552']
+  UniProt_ID: [Q07820]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: THBD
+  ENSG_ID: [ENSG00000178726]
+  source: [NCBI Info]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [7056.0]
+  OMIM_ID: ['188040']
+  UniProt_ID: [P07204]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

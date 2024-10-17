@@ -1,0 +1,26 @@
+collision_symbol: MEG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GRB10
+  ENSG_ID: [ENSG00000106070]
+  source: [NCBI Info]
+  Chromosome: [7p12.1]
+  NCBI Gene ID: [2887.0]
+  OMIM_ID: ['601523']
+  UniProt_ID: [Q13322]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP4R1
+  ENSG_ID: [ENSG00000154845]
+  source: [NCBI Info]
+  Chromosome: [18p11.22]
+  NCBI Gene ID: [9989.0]
+  OMIM_ID: ['604908']
+  UniProt_ID: [Q8TF05]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

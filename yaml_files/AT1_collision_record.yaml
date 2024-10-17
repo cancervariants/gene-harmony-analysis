@@ -1,0 +1,48 @@
+collision_symbol: AT1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AGTR1
+  ENSG_ID: [ENSG00000144891]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3q24]
+  NCBI Gene ID: [185.0]
+  OMIM_ID: ['106165']
+  UniProt_ID: [P30556]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATM
+  ENSG_ID: [ENSG00000149311]
+  source: [NCBI Info]
+  Chromosome: [11q22.3]
+  NCBI Gene ID: [472.0]
+  OMIM_ID: ['607585']
+  UniProt_ID: [Q13315]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PGR-AS1
+  ENSG_ID: [ENSG00000282728, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q22.1, .nan]
+  NCBI Gene ID: [101054525.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC33A1
+  ENSG_ID: [ENSG00000169359]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q25.31]
+  NCBI Gene ID: [9197.0]
+  OMIM_ID: ['603690']
+  UniProt_ID: [O00400]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

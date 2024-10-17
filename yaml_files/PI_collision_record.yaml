@@ -1,0 +1,26 @@
+collision_symbol: PI
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GSTP1
+  ENSG_ID: [ENSG00000084207]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [2950.0]
+  OMIM_ID: ['134660']
+  UniProt_ID: [P09211]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERPINA1
+  ENSG_ID: [ENSG00000197249]
+  source: [NCBI Info]
+  Chromosome: [14q32.13]
+  NCBI Gene ID: [5265.0]
+  OMIM_ID: ['107400']
+  UniProt_ID: [P01009]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

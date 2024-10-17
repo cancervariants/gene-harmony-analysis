@@ -1,0 +1,26 @@
+collision_symbol: TCRAV1S2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRAV1-2
+  ENSG_ID: [ENSG00000256553]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28692.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0B4J238]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRAV8-4
+  ENSG_ID: [ENSG00000211790]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [28682.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P01737]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

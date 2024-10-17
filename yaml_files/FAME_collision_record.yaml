@@ -1,0 +1,48 @@
+collision_symbol: FAME
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCDC198
+  ENSG_ID: [ENSG00000100557]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q22.3]
+  NCBI Gene ID: [55195.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9NVL8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FCMTE3
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [5p15.31-p15]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SAMD12
+  ENSG_ID: [ENSG00000177570]
+  source: [NCBI Info]
+  Chromosome: [8q24.11-q24.12]
+  NCBI Gene ID: [401474.0]
+  OMIM_ID: ['618073']
+  UniProt_ID: [Q8N8I0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STARD7
+  ENSG_ID: [ENSG00000084090]
+  source: [NCBI Info]
+  Chromosome: [2q11.2]
+  NCBI Gene ID: [56910.0]
+  OMIM_ID: ['616712']
+  UniProt_ID: [Q9NQZ5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

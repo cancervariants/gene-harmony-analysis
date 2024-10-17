@@ -1,0 +1,26 @@
+collision_symbol: HSJ-2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNAJA1
+  ENSG_ID: [ENSG00000086061]
+  source: [NCBI Info]
+  Chromosome: [9p21.1]
+  NCBI Gene ID: [3301.0]
+  OMIM_ID: ['602837']
+  UniProt_ID: [P31689]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNAJB6
+  ENSG_ID: [ENSG00000105993]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [10049.0]
+  OMIM_ID: ['611332']
+  UniProt_ID: [O75190]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

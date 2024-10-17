@@ -1,0 +1,81 @@
+collision_symbol: CAP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRD4
+  ENSG_ID: [ENSG00000141867]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.12]
+  NCBI Gene ID: [23476.0]
+  OMIM_ID: ['608749']
+  UniProt_ID: [O60885]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAP1
+  ENSG_ID: [ENSG00000131236]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [10487.0]
+  OMIM_ID: ['617801']
+  UniProt_ID: [Q01518]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CTAA1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q24-qter]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HACD1
+  ENSG_ID: [ENSG00000165996]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10p12.33]
+  NCBI Gene ID: [9200.0]
+  OMIM_ID: ['610467']
+  UniProt_ID: [B0YJ81]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LNPEP
+  ENSG_ID: [ENSG00000113441]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q15]
+  NCBI Gene ID: [4012.0]
+  OMIM_ID: ['151300']
+  UniProt_ID: [Q9UIQ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERPINB6
+  ENSG_ID: [ENSG00000124570]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p25.2]
+  NCBI Gene ID: [5269.0]
+  OMIM_ID: ['173321']
+  UniProt_ID: [P35237]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SORBS1
+  ENSG_ID: [ENSG00000095637]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q24.1]
+  NCBI Gene ID: [10580.0]
+  OMIM_ID: ['605264']
+  UniProt_ID: [Q9BX66]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

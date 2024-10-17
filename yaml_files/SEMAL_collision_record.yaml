@@ -1,0 +1,26 @@
+collision_symbol: SEMAL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SEMA3A
+  ENSG_ID: [ENSG00000075213]
+  source: [NCBI Info]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [10371.0]
+  OMIM_ID: ['603961']
+  UniProt_ID: [Q14563]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEMA7A
+  ENSG_ID: [ENSG00000138623]
+  source: [NCBI Info]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [8482.0]
+  OMIM_ID: ['607961']
+  UniProt_ID: [O75326]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

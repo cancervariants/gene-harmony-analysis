@@ -1,0 +1,26 @@
+collision_symbol: ACHRD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHRNA1
+  ENSG_ID: [ENSG00000138435]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1134.0]
+  OMIM_ID: ['100690']
+  UniProt_ID: [P02708]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHRND
+  ENSG_ID: [ENSG00000135902]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [1144.0]
+  OMIM_ID: ['100720']
+  UniProt_ID: [Q07001]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

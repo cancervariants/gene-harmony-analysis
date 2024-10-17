@@ -1,0 +1,26 @@
+collision_symbol: PKL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GIT2
+  ENSG_ID: [ENSG00000139436]
+  source: [NCBI Info]
+  Chromosome: [12q24.11]
+  NCBI Gene ID: [9815.0]
+  OMIM_ID: ['608564']
+  UniProt_ID: [Q14161]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PKLR
+  ENSG_ID: [ENSG00000143627]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [5313.0]
+  OMIM_ID: ['609712']
+  UniProt_ID: [P30613]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

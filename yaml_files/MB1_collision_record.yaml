@@ -1,0 +1,26 @@
+collision_symbol: MB1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD79A
+  ENSG_ID: [ENSG00000105369]
+  source: [NCBI Info]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [973.0]
+  OMIM_ID: ['112205']
+  UniProt_ID: [P11912]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMB5
+  ENSG_ID: [ENSG00000100804]
+  source: [NCBI Info]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [5693.0]
+  OMIM_ID: ['600306']
+  UniProt_ID: [P28074]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,48 @@
+collision_symbol: L19
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV1-12
+  ENSG_ID: [ENSG00000243290]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28940.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A0C4DH73]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGKV1D-12
+  ENSG_ID: [ENSG00000278857]
+  source: [NCBI Info]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [28903.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P01611]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL19
+  ENSG_ID: [ENSG00000108298]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6143.0]
+  OMIM_ID: ['180466']
+  UniProt_ID: [P84098]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SIK3
+  ENSG_ID: [ENSG00000160584]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [23387.0]
+  OMIM_ID: ['614776']
+  UniProt_ID: [Q9Y2K2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

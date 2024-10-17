@@ -1,0 +1,37 @@
+collision_symbol: AMY1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AMY1A
+  ENSG_ID: [ENSG00000237763]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p21.1]
+  NCBI Gene ID: [276.0]
+  OMIM_ID: ['104700']
+  UniProt_ID: [P0DUB6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AMY1B
+  ENSG_ID: [ENSG00000174876]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p21.1]
+  NCBI Gene ID: [277.0]
+  OMIM_ID: ['104701']
+  UniProt_ID: [P0DTE7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AMY1C
+  ENSG_ID: [ENSG00000187733]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p21.1]
+  NCBI Gene ID: [278.0]
+  OMIM_ID: ['104702']
+  UniProt_ID: [P0DTE8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

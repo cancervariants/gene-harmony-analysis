@@ -1,0 +1,26 @@
+collision_symbol: WS3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCTN6
+  ENSG_ID: [ENSG00000104671]
+  source: [NCBI Info]
+  Chromosome: [8p12]
+  NCBI Gene ID: [10671.0]
+  OMIM_ID: ['612963']
+  UniProt_ID: [O00399]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAX3
+  ENSG_ID: [ENSG00000135903]
+  source: [NCBI Info]
+  Chromosome: [2q36.1]
+  NCBI Gene ID: [5077.0]
+  OMIM_ID: ['606597']
+  UniProt_ID: [P23760]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

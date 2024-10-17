@@ -1,0 +1,26 @@
+collision_symbol: PPYR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPY4R
+  ENSG_ID: [ENSG00000204174]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [5540.0]
+  OMIM_ID: ['601790']
+  UniProt_ID: [P50391]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NPY4R2
+  ENSG_ID: [ENSG00000264717]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [100996758.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DQD5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

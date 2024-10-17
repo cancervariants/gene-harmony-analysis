@@ -1,0 +1,26 @@
+collision_symbol: DEC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BHLHE40
+  ENSG_ID: [ENSG00000134107]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3p26.1]
+  NCBI Gene ID: [8553.0]
+  OMIM_ID: ['604256']
+  UniProt_ID: [O14503]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DELEC1
+  ENSG_ID: [ENSG00000173077]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q33.1]
+  NCBI Gene ID: [50514.0]
+  OMIM_ID: ['604767']
+  UniProt_ID: [Q9P2X7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

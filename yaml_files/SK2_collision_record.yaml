@@ -1,0 +1,26 @@
+collision_symbol: SK2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KCNN2
+  ENSG_ID: [ENSG00000080709]
+  source: [NCBI Info]
+  Chromosome: [5q22.3]
+  NCBI Gene ID: [3781.0]
+  OMIM_ID: ['605879']
+  UniProt_ID: [Q9H2S1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAPSS2
+  ENSG_ID: [ENSG00000198682]
+  source: [NCBI Info]
+  Chromosome: [10q23.2-q23.31]
+  NCBI Gene ID: [9060.0]
+  OMIM_ID: ['603005']
+  UniProt_ID: [O95340]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

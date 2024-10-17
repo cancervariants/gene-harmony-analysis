@@ -1,0 +1,103 @@
+collision_symbol: NAP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACOT8
+  ENSG_ID: [ENSG00000101473]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [10005.0]
+  OMIM_ID: ['608123']
+  UniProt_ID: [O14734]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: AZI2
+  ENSG_ID: [ENSG00000163512]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p24.1]
+  NCBI Gene ID: [64343.0]
+  OMIM_ID: ['609916']
+  UniProt_ID: [Q9H6S1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CXCL8
+  ENSG_ID: [ENSG00000169429]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [3576.0]
+  OMIM_ID: ['146930']
+  UniProt_ID: [P10145]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAA25
+  ENSG_ID: [ENSG00000111300]
+  source: [NCBI Info]
+  Chromosome: [12q24.13]
+  NCBI Gene ID: [80018.0]
+  OMIM_ID: ['612755']
+  UniProt_ID: [Q14CX7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAP1L1
+  ENSG_ID: [ENSG00000187109]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q21.1]
+  NCBI Gene ID: [4673.0]
+  OMIM_ID: ['164060']
+  UniProt_ID: [P55209]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAPSA
+  ENSG_ID: [ENSG00000131400]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [9476.0]
+  OMIM_ID: ['605631']
+  UniProt_ID: [O96009]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NCKAP1
+  ENSG_ID: [ENSG00000061676]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q32.1]
+  NCBI Gene ID: [10787.0]
+  OMIM_ID: ['604891']
+  UniProt_ID: [Q9Y2A7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAB3
+  ENSG_ID: [ENSG00000157625]
+  source: [NCBI Info]
+  Chromosome: [Xp21.2]
+  NCBI Gene ID: [257397.0]
+  OMIM_ID: ['300480']
+  UniProt_ID: [Q8N5C8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRMO
+  ENSG_ID: [ENSG00000136932]
+  source: [NCBI Info]
+  Chromosome: [9q22.33]
+  NCBI Gene ID: [51531.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9BU70]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

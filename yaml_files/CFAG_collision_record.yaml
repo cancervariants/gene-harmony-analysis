@@ -1,0 +1,26 @@
+collision_symbol: CFAG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: S100A8
+  ENSG_ID: [ENSG00000143546]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6279.0]
+  OMIM_ID: ['123885']
+  UniProt_ID: [P05109]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: S100A9
+  ENSG_ID: [ENSG00000163220]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [6280.0]
+  OMIM_ID: ['123886']
+  UniProt_ID: [P06702]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

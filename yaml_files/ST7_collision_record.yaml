@@ -1,0 +1,26 @@
+collision_symbol: ST7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LRP12
+  ENSG_ID: [ENSG00000147650]
+  source: [NCBI Info]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [29967.0]
+  OMIM_ID: ['618299']
+  UniProt_ID: [Q9Y561]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ST7-OT3
+  ENSG_ID: [ENSG00000004866]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

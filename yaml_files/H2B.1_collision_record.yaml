@@ -1,0 +1,37 @@
+collision_symbol: H2B.1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H2BC21
+  ENSG_ID: [ENSG00000184678]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [8349.0]
+  OMIM_ID: ['601831']
+  UniProt_ID: [Q16778]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2BC3
+  ENSG_ID: [ENSG00000276410]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [3018.0]
+  OMIM_ID: ['602803']
+  UniProt_ID: [P33778]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2BC4
+  ENSG_ID: [ENSG00000180596]
+  source: [HGNC, NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [8347.0]
+  OMIM_ID: ['602847']
+  UniProt_ID: [P62807]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

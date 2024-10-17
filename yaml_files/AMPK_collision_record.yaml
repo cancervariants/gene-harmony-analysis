@@ -1,0 +1,37 @@
+collision_symbol: AMPK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRKAA1
+  ENSG_ID: [ENSG00000132356]
+  source: [NCBI Info]
+  Chromosome: [5p13.1]
+  NCBI Gene ID: [5562.0]
+  OMIM_ID: ['602739']
+  UniProt_ID: [Q13131]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRKAA2
+  ENSG_ID: [ENSG00000162409]
+  source: [NCBI Info]
+  Chromosome: [1p32.2]
+  NCBI Gene ID: [5563.0]
+  OMIM_ID: ['600497']
+  UniProt_ID: [P54646]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRKAB1
+  ENSG_ID: [ENSG00000111725]
+  source: [NCBI Info]
+  Chromosome: [12q24.23]
+  NCBI Gene ID: [5564.0]
+  OMIM_ID: ['602740']
+  UniProt_ID: [Q9Y478]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

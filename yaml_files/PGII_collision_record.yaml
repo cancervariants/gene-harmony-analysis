@@ -1,0 +1,26 @@
+collision_symbol: PGII
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCN
+  ENSG_ID: [ENSG00000011465]
+  source: [NCBI Info]
+  Chromosome: [12q21.33]
+  NCBI Gene ID: [1634.0]
+  OMIM_ID: ['125255']
+  UniProt_ID: [P07585]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PGC
+  ENSG_ID: [ENSG00000096088]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [5225.0]
+  OMIM_ID: ['169740']
+  UniProt_ID: [P20142]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MCT3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC16A3
+  ENSG_ID: [ENSG00000141526]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [9123.0]
+  OMIM_ID: ['603877']
+  UniProt_ID: [O15427]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC16A8
+  ENSG_ID: [ENSG00000100156]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [23539.0]
+  OMIM_ID: ['610409']
+  UniProt_ID: [O95907]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

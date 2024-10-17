@@ -1,0 +1,26 @@
+collision_symbol: PFM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALX4
+  ENSG_ID: [ENSG00000052850]
+  source: [HGNC, ENSG]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [60529.0]
+  OMIM_ID: ['605420']
+  UniProt_ID: [Q9H161]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MSX2
+  ENSG_ID: [ENSG00000120149]
+  source: [HGNC, ENSG]
+  Chromosome: [5q35.2]
+  NCBI Gene ID: [4488.0]
+  OMIM_ID: ['123101']
+  UniProt_ID: [P35548]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

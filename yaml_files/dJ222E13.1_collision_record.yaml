@@ -1,0 +1,26 @@
+collision_symbol: dJ222E13.1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SERHL
+  ENSG_ID: [ENSG00000293485]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERHL2
+  ENSG_ID: [ENSG00000183569]
+  source: [NCBI Info]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [253190.0]
+  OMIM_ID: ['619045']
+  UniProt_ID: [Q9H4I8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

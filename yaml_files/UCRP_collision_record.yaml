@@ -1,0 +1,26 @@
+collision_symbol: UCRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLRN1-AS1
+  ENSG_ID: [.nan, ENSG00000239265]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 3q25.1]
+  NCBI Gene ID: [.nan, 116933.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ISG15
+  ENSG_ID: [ENSG00000187608]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [9636.0]
+  OMIM_ID: ['147571']
+  UniProt_ID: [P05161]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

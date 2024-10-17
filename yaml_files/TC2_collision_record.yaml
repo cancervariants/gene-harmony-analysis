@@ -1,0 +1,26 @@
+collision_symbol: TC2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPBP
+  ENSG_ID: [ENSG00000163736]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [5473.0]
+  OMIM_ID: ['121010']
+  UniProt_ID: [P02775]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCN2
+  ENSG_ID: [ENSG00000185339]
+  source: [NCBI Info]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [6948.0]
+  OMIM_ID: ['613441']
+  UniProt_ID: [P20062]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

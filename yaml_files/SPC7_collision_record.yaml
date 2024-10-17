@@ -1,0 +1,26 @@
+collision_symbol: SPC7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KNL1
+  ENSG_ID: [ENSG00000137812]
+  source: [ENSG]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [57082.0]
+  OMIM_ID: ['609173']
+  UniProt_ID: [Q8NG31]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCSK7
+  ENSG_ID: [ENSG00000160613]
+  source: [ENSG]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [9159.0]
+  OMIM_ID: ['604872']
+  UniProt_ID: [Q16549]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

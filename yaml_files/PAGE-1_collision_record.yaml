@@ -1,0 +1,26 @@
+collision_symbol: PAGE-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PAGE1
+  ENSG_ID: [ENSG00000068985]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [8712.0]
+  OMIM_ID: ['300288']
+  UniProt_ID: [O75459]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PAGE4
+  ENSG_ID: [ENSG00000101951]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [9506.0]
+  OMIM_ID: ['300287']
+  UniProt_ID: [O60829]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: C1QTNF15
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ERFE
+  ENSG_ID: [ENSG00000178752]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q37.3]
+  NCBI Gene ID: [151176.0]
+  OMIM_ID: ['615099']
+  UniProt_ID: [Q4G0M1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OTOL1
+  ENSG_ID: [ENSG00000182447]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q26.1]
+  NCBI Gene ID: [131149.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A6NHN0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

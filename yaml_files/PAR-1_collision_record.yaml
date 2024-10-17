@@ -1,0 +1,37 @@
+collision_symbol: PAR-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: F2R
+  ENSG_ID: [ENSG00000181104]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q13.3]
+  NCBI Gene ID: [2149.0]
+  OMIM_ID: ['187930']
+  UniProt_ID: [P25116]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MARK2
+  ENSG_ID: [ENSG00000072518]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [2011.0]
+  OMIM_ID: ['600526']
+  UniProt_ID: [Q7KZI7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PWAR1
+  ENSG_ID: [ENSG00000279050]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q11.2]
+  NCBI Gene ID: [145624.0]
+  OMIM_ID: ['600161']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

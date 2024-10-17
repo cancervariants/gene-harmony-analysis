@@ -1,0 +1,26 @@
+collision_symbol: AITD3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TG
+  ENSG_ID: [ENSG00000042832]
+  source: [NCBI Info]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [7038.0]
+  OMIM_ID: ['188450']
+  UniProt_ID: [P01266]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZFAT
+  ENSG_ID: [ENSG00000066827]
+  source: [NCBI Info]
+  Chromosome: [8q24.22]
+  NCBI Gene ID: [57623.0]
+  OMIM_ID: ['610931']
+  UniProt_ID: [Q9P243]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

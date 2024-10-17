@@ -1,0 +1,26 @@
+collision_symbol: APE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APEX1
+  ENSG_ID: [ENSG00000100823]
+  source: [NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [328.0]
+  OMIM_ID: ['107748']
+  UniProt_ID: [P27695]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCDC88A
+  ENSG_ID: [ENSG00000115355]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2p16.1]
+  NCBI Gene ID: [55704.0]
+  OMIM_ID: ['609736']
+  UniProt_ID: [Q3V6T2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

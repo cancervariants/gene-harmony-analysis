@@ -1,0 +1,26 @@
+collision_symbol: DKFZP547P234
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V1G1
+  ENSG_ID: [ENSG00000136888]
+  source: [ENSG]
+  Chromosome: [9q32]
+  NCBI Gene ID: [9550.0]
+  OMIM_ID: ['607296']
+  UniProt_ID: [O75348]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM268
+  ENSG_ID: [ENSG00000157693]
+  source: [ENSG]
+  Chromosome: [9q32]
+  NCBI Gene ID: [203197.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q5VZI3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

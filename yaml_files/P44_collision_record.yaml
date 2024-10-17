@@ -1,0 +1,48 @@
+collision_symbol: p44
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GTF2H2
+  ENSG_ID: [ENSG00000145736]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [2966.0]
+  OMIM_ID: ['601748']
+  UniProt_ID: [Q13888]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3P33
+  ENSG_ID: [ENSG00000255492]
+  source: [NCBI Info]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [115482722.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IFI44
+  ENSG_ID: [ENSG00000137965]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [10561.0]
+  OMIM_ID: ['610468']
+  UniProt_ID: [Q8TCB0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WDR77
+  ENSG_ID: [ENSG00000116455]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [79084.0]
+  OMIM_ID: ['611734']
+  UniProt_ID: [Q9BQA1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

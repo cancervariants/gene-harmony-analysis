@@ -1,0 +1,26 @@
+collision_symbol: EIF1A
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EIF1
+  ENSG_ID: [ENSG00000173812]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q21.2]
+  NCBI Gene ID: [10209.0]
+  OMIM_ID: ['619901']
+  UniProt_ID: [P41567]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EIF1AX
+  ENSG_ID: [ENSG00000173674]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp22.12]
+  NCBI Gene ID: [1964.0]
+  OMIM_ID: ['300186']
+  UniProt_ID: [P47813]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

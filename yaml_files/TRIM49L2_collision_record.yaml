@@ -1,0 +1,26 @@
+collision_symbol: TRIM49L2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRIM49
+  ENSG_ID: [ENSG00000168930]
+  source: [NCBI Info]
+  Chromosome: [11q14.3]
+  NCBI Gene ID: [57093.0]
+  OMIM_ID: ['606124']
+  UniProt_ID: [P0CI25]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM49C
+  ENSG_ID: [ENSG00000204449]
+  source: [NCBI Info]
+  Chromosome: [11q14.3]
+  NCBI Gene ID: [642612.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0CI26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

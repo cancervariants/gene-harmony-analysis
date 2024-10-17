@@ -1,0 +1,92 @@
+collision_symbol: AIP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABI2
+  ENSG_ID: [ENSG00000138443]
+  source: [NCBI Info]
+  Chromosome: [2q33.2]
+  NCBI Gene ID: [10152.0]
+  OMIM_ID: ['606442']
+  UniProt_ID: [Q9NYB9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ACTRT1
+  ENSG_ID: [ENSG00000123165]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [139741.0]
+  OMIM_ID: ['300487']
+  UniProt_ID: [Q8TDG2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ARL6IP1
+  ENSG_ID: [ENSG00000170540]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p12.3]
+  NCBI Gene ID: [23204.0]
+  OMIM_ID: ['607669']
+  UniProt_ID: [Q15041]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BIRC3
+  ENSG_ID: [ENSG00000023445]
+  source: [NCBI Info]
+  Chromosome: [11q22.2]
+  NCBI Gene ID: [330.0]
+  OMIM_ID: ['601721']
+  UniProt_ID: [Q13489]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DAB2IP
+  ENSG_ID: [ENSG00000136848]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9q33.2]
+  NCBI Gene ID: [153090.0]
+  OMIM_ID: ['609205']
+  UniProt_ID: [Q5VWQ8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAGI2
+  ENSG_ID: [ENSG00000187391]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q21.11]
+  NCBI Gene ID: [9863.0]
+  OMIM_ID: ['606382']
+  UniProt_ID: [Q86UL8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PDCD6IP
+  ENSG_ID: [ENSG00000170248]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p22.3]
+  NCBI Gene ID: [10015.0]
+  OMIM_ID: ['608074']
+  UniProt_ID: [Q8WUM4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WDR1
+  ENSG_ID: [ENSG00000071127]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4p16.1]
+  NCBI Gene ID: [9948.0]
+  OMIM_ID: ['604734']
+  UniProt_ID: [O75083]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

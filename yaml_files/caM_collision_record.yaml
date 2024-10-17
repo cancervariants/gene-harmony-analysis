@@ -1,0 +1,26 @@
+collision_symbol: caM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CALM1
+  ENSG_ID: [ENSG00000198668]
+  source: [NCBI Info]
+  Chromosome: [14q32.11]
+  NCBI Gene ID: [801.0]
+  OMIM_ID: ['114180']
+  UniProt_ID: [P0DP23]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CALM2
+  ENSG_ID: [ENSG00000143933]
+  source: [NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [805.0]
+  OMIM_ID: ['114182']
+  UniProt_ID: [P0DP24]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

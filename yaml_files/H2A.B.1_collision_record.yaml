@@ -1,0 +1,26 @@
+collision_symbol: H2A.B.1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H2AB2
+  ENSG_ID: [ENSG00000277858]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [474381.0]
+  OMIM_ID: ['301038']
+  UniProt_ID: [P0C5Z0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2AB3
+  ENSG_ID: [ENSG00000277745]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [83740.0]
+  OMIM_ID: ['300445']
+  UniProt_ID: [P0C5Z0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

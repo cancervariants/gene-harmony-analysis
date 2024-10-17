@@ -1,0 +1,26 @@
+collision_symbol: PIF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DCD
+  ENSG_ID: [ENSG00000161634]
+  source: [NCBI Info]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [117159.0]
+  OMIM_ID: ['606634']
+  UniProt_ID: [P81605]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIF1
+  ENSG_ID: [ENSG00000140451]
+  source: [NCBI Info]
+  Chromosome: [15q22.31]
+  NCBI Gene ID: [80119.0]
+  OMIM_ID: ['610953']
+  UniProt_ID: [Q9H611]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

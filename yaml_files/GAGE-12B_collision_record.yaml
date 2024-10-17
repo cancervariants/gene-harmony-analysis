@@ -1,0 +1,48 @@
+collision_symbol: GAGE-12B
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GAGE12B
+  ENSG_ID: [ENSG00000275113]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE12C
+  ENSG_ID: [ENSG00000237671]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [729422.0]
+  OMIM_ID: ['300727']
+  UniProt_ID: [A1L429]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE12D
+  ENSG_ID: [ENSG00000227488]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [100132399.0]
+  OMIM_ID: ['300728']
+  UniProt_ID: [A1L429]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAGE12E
+  ENSG_ID: [ENSG00000216649]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [729431.0]
+  OMIM_ID: ['300729']
+  UniProt_ID: [A1L429]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

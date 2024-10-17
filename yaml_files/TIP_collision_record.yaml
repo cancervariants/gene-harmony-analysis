@@ -1,0 +1,48 @@
+collision_symbol: TIP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ITFG1
+  ENSG_ID: [ENSG00000129636]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q12.1]
+  NCBI Gene ID: [81533.0]
+  OMIM_ID: ['611803']
+  UniProt_ID: [Q8TB96]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KAT5
+  ENSG_ID: [ENSG00000172977]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10524.0]
+  OMIM_ID: ['601409']
+  UniProt_ID: [Q92993]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: METTL8
+  ENSG_ID: [ENSG00000123600]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [79828.0]
+  OMIM_ID: ['609525']
+  UniProt_ID: [Q9H825]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TIPRL
+  ENSG_ID: [ENSG00000143155]
+  source: [NCBI Info]
+  Chromosome: [1q24.2]
+  NCBI Gene ID: [261726.0]
+  OMIM_ID: ['611807']
+  UniProt_ID: [O75663]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

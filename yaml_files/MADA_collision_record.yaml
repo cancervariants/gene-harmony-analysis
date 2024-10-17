@@ -1,0 +1,26 @@
+collision_symbol: MADA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AMPD1
+  ENSG_ID: [ENSG00000116748]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [270.0]
+  OMIM_ID: ['102770']
+  UniProt_ID: [P23109]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LMNA
+  ENSG_ID: [ENSG00000160789]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1q22]
+  NCBI Gene ID: [4000.0]
+  OMIM_ID: ['150330']
+  UniProt_ID: [P02545]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: SDR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DHRS3
+  ENSG_ID: [ENSG00000162496]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p36.21]
+  NCBI Gene ID: [9249.0]
+  OMIM_ID: ['612830']
+  UniProt_ID: [O75911]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NPTN
+  ENSG_ID: [ENSG00000156642]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q24.1]
+  NCBI Gene ID: [27020.0]
+  OMIM_ID: ['612820']
+  UniProt_ID: [Q9Y639]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

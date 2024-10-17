@@ -1,0 +1,26 @@
+collision_symbol: RAET1H
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RAET1L
+  ENSG_ID: [ENSG00000155918]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [154064.0]
+  OMIM_ID: ['611047']
+  UniProt_ID: [Q5VY80]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ULBP2
+  ENSG_ID: [ENSG00000131015]
+  source: [NCBI Info]
+  Chromosome: [6q25.1]
+  NCBI Gene ID: [80328.0]
+  OMIM_ID: ['605698']
+  UniProt_ID: [Q9BZM5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

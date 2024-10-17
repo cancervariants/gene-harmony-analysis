@@ -1,0 +1,26 @@
+collision_symbol: FKBP51
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FKBP4
+  ENSG_ID: [ENSG00000004478]
+  source: [NCBI Info]
+  Chromosome: [12p13.33]
+  NCBI Gene ID: [2288.0]
+  OMIM_ID: ['600611']
+  UniProt_ID: [Q02790]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FKBP5
+  ENSG_ID: [ENSG00000096060]
+  source: [NCBI Info]
+  Chromosome: [6p21.31]
+  NCBI Gene ID: [2289.0]
+  OMIM_ID: ['602623']
+  UniProt_ID: [Q13451]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

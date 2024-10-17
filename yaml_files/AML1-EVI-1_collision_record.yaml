@@ -1,0 +1,26 @@
+collision_symbol: AML1-EVI-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MECOM
+  ENSG_ID: [ENSG00000085276]
+  source: [NCBI Info]
+  Chromosome: [3q26.2]
+  NCBI Gene ID: [2122.0]
+  OMIM_ID: ['165215']
+  UniProt_ID: [Q03112]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RUNX1
+  ENSG_ID: [ENSG00000159216]
+  source: [NCBI Info]
+  Chromosome: [21q22.12]
+  NCBI Gene ID: [861.0]
+  OMIM_ID: ['151385']
+  UniProt_ID: [Q01196]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

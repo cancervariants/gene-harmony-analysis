@@ -1,0 +1,26 @@
+collision_symbol: NP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPTX1
+  ENSG_ID: [ENSG00000171246]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [4884.0]
+  OMIM_ID: ['602367']
+  UniProt_ID: [Q15818]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NRP1
+  ENSG_ID: [ENSG00000099250]
+  source: [NCBI Info]
+  Chromosome: [10p11.22]
+  NCBI Gene ID: [8829.0]
+  OMIM_ID: ['602069']
+  UniProt_ID: [O14786]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

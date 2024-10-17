@@ -1,0 +1,26 @@
+collision_symbol: ABC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCA1
+  ENSG_ID: [ENSG00000165029]
+  source: [NCBI Info, ENSG]
+  Chromosome: [9q31.1]
+  NCBI Gene ID: [19.0]
+  OMIM_ID: ['600046']
+  UniProt_ID: [O95477]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HEATR6
+  ENSG_ID: [ENSG00000068097]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q23.1]
+  NCBI Gene ID: [63897.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q6AI08]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: cPLA2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KAT5
+  ENSG_ID: [ENSG00000172977]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [10524.0]
+  OMIM_ID: ['601409']
+  UniProt_ID: [Q92993]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLA2G4A
+  ENSG_ID: [ENSG00000116711]
+  source: [NCBI Info]
+  Chromosome: [1q31.1]
+  NCBI Gene ID: [5321.0]
+  OMIM_ID: ['600522']
+  UniProt_ID: [P47712]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CA-RP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CA11
+  ENSG_ID: [ENSG00000063180]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [770.0]
+  OMIM_ID: ['604644']
+  UniProt_ID: [O75493]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CA8
+  ENSG_ID: [ENSG00000178538]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [767.0]
+  OMIM_ID: ['114815']
+  UniProt_ID: [P35219]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

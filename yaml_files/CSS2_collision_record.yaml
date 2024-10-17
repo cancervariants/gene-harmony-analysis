@@ -1,0 +1,37 @@
+collision_symbol: CSS2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARID1A
+  ENSG_ID: [ENSG00000117713]
+  source: [NCBI Info]
+  Chromosome: [1p36.11]
+  NCBI Gene ID: [8289.0]
+  OMIM_ID: ['603024']
+  UniProt_ID: [O14497]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CAPNS2
+  ENSG_ID: [ENSG00000256812]
+  source: [NCBI Info]
+  Chromosome: [16q12.2]
+  NCBI Gene ID: [84290.0]
+  OMIM_ID: ['616767']
+  UniProt_ID: [Q96L46]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHPF
+  ENSG_ID: [ENSG00000123989]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [79586.0]
+  OMIM_ID: ['610405']
+  UniProt_ID: [Q8IZ52]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

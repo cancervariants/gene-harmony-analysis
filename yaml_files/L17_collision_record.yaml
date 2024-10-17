@@ -1,0 +1,37 @@
+collision_symbol: L17
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV2D-14
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL17
+  ENSG_ID: [ENSG00000265681]
+  source: [NCBI Info]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [6139.0]
+  OMIM_ID: ['603661']
+  UniProt_ID: [P18621]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TPGS2
+  ENSG_ID: [ENSG00000134779]
+  source: [NCBI Info]
+  Chromosome: [18q12.2]
+  NCBI Gene ID: [25941.0]
+  OMIM_ID: ['620710']
+  UniProt_ID: [Q68CL5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

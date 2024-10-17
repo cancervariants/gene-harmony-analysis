@@ -1,0 +1,26 @@
+collision_symbol: PSS2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PTDSS2
+  ENSG_ID: [ENSG00000174915]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [81490.0]
+  OMIM_ID: ['612793']
+  UniProt_ID: [Q9BVG9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TGM5
+  ENSG_ID: [ENSG00000104055]
+  source: [NCBI Info]
+  Chromosome: [15q15.2]
+  NCBI Gene ID: [9333.0]
+  OMIM_ID: ['603805']
+  UniProt_ID: [O43548]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,48 @@
+collision_symbol: LRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LRP1
+  ENSG_ID: [ENSG00000123384]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q13.3]
+  NCBI Gene ID: [4035.0]
+  OMIM_ID: ['107770']
+  UniProt_ID: [Q07954]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MVP
+  ENSG_ID: [ENSG00000013364]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [9961.0]
+  OMIM_ID: ['605088']
+  UniProt_ID: [Q14764]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTPRA
+  ENSG_ID: [ENSG00000132670]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20p13]
+  NCBI Gene ID: [5786.0]
+  OMIM_ID: ['176884']
+  UniProt_ID: [P18433]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPSA
+  ENSG_ID: [ENSG00000168028]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p22.1]
+  NCBI Gene ID: [3921.0]
+  OMIM_ID: ['150370']
+  UniProt_ID: [P08865]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

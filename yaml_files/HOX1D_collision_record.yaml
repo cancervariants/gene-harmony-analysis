@@ -1,0 +1,26 @@
+collision_symbol: HOX1D
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HOXA4
+  ENSG_ID: [ENSG00000197576]
+  source: [NCBI Info]
+  Chromosome: [7p15.2]
+  NCBI Gene ID: [3201.0]
+  OMIM_ID: ['142953']
+  UniProt_ID: [Q00056]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HOXD3
+  ENSG_ID: [ENSG00000128652]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [3232.0]
+  OMIM_ID: ['142980']
+  UniProt_ID: [P31249]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

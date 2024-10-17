@@ -1,0 +1,26 @@
+collision_symbol: TCF-4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TCF4
+  ENSG_ID: [ENSG00000196628]
+  source: [NCBI Info]
+  Chromosome: [18q21.2]
+  NCBI Gene ID: [6925.0]
+  OMIM_ID: ['602272']
+  UniProt_ID: [P15884]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCF7L2
+  ENSG_ID: [ENSG00000148737]
+  source: [NCBI Info]
+  Chromosome: [10q25.2-q25.3]
+  NCBI Gene ID: [6934.0]
+  OMIM_ID: ['602228']
+  UniProt_ID: [Q9NQB0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

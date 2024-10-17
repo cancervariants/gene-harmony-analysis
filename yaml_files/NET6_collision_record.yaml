@@ -1,0 +1,26 @@
+collision_symbol: NET6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NOL9
+  ENSG_ID: [ENSG00000162408]
+  source: [NCBI Info]
+  Chromosome: [1p36.31]
+  NCBI Gene ID: [79707.0]
+  OMIM_ID: ['620304']
+  UniProt_ID: [Q5SY16]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSPAN13
+  ENSG_ID: [ENSG00000106537]
+  source: [NCBI Info]
+  Chromosome: [7p21.1]
+  NCBI Gene ID: [27075.0]
+  OMIM_ID: ['613139']
+  UniProt_ID: [O95857]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

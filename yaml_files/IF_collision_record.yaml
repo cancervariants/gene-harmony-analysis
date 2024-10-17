@@ -1,0 +1,26 @@
+collision_symbol: IF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CBLIF
+  ENSG_ID: [ENSG00000134812]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [2694.0]
+  OMIM_ID: ['609342']
+  UniProt_ID: [P27352]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CFI
+  ENSG_ID: [ENSG00000205403]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q25]
+  NCBI Gene ID: [3426.0]
+  OMIM_ID: ['217030']
+  UniProt_ID: [P05156]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

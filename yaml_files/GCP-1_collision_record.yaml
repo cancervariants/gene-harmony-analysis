@@ -1,0 +1,26 @@
+collision_symbol: GCP-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CXCL8
+  ENSG_ID: [ENSG00000169429]
+  source: [NCBI Info]
+  Chromosome: [4q13.3]
+  NCBI Gene ID: [3576.0]
+  OMIM_ID: ['146930']
+  UniProt_ID: [P10145]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TUBG1
+  ENSG_ID: [ENSG00000131462]
+  source: [NCBI Info]
+  Chromosome: [17q21.31]
+  NCBI Gene ID: [7283.0]
+  OMIM_ID: ['191135']
+  UniProt_ID: [P23258]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

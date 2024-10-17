@@ -1,0 +1,26 @@
+collision_symbol: MOR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MDH2
+  ENSG_ID: [ENSG00000146701]
+  source: [NCBI Info]
+  Chromosome: [7q11.23]
+  NCBI Gene ID: [4191.0]
+  OMIM_ID: ['154100']
+  UniProt_ID: [P40926]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPRM1
+  ENSG_ID: [ENSG00000112038]
+  source: [NCBI Info]
+  Chromosome: [6q25.2]
+  NCBI Gene ID: [4988.0]
+  OMIM_ID: ['600018']
+  UniProt_ID: [P35372]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

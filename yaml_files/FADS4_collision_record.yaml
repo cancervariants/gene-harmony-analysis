@@ -1,0 +1,26 @@
+collision_symbol: FADS4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NUP88
+  ENSG_ID: [ENSG00000108559]
+  source: [NCBI Info]
+  Chromosome: [17p13.2]
+  NCBI Gene ID: [4927.0]
+  OMIM_ID: ['602552']
+  UniProt_ID: [Q99567]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SCD5
+  ENSG_ID: [ENSG00000145284]
+  source: [NCBI Info]
+  Chromosome: [4q21.22]
+  NCBI Gene ID: [79966.0]
+  OMIM_ID: ['608370']
+  UniProt_ID: [Q86SK9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

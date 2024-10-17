@@ -1,0 +1,26 @@
+collision_symbol: EDM4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC26A1
+  ENSG_ID: [ENSG00000145217]
+  source: [NCBI Info]
+  Chromosome: [4p16.3]
+  NCBI Gene ID: [10861.0]
+  OMIM_ID: ['610130']
+  UniProt_ID: [Q9H2B4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC26A2
+  ENSG_ID: [ENSG00000155850]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [1836.0]
+  OMIM_ID: ['606718']
+  UniProt_ID: [P50443]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: TFIIS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TCEA1
+  ENSG_ID: [ENSG00000187735]
+  source: [NCBI Info]
+  Chromosome: [8q11.23]
+  NCBI Gene ID: [6917.0]
+  OMIM_ID: ['601425']
+  UniProt_ID: [P23193]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCEA2
+  ENSG_ID: [ENSG00000171703]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [6919.0]
+  OMIM_ID: ['604784']
+  UniProt_ID: [Q15560]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TCEA3
+  ENSG_ID: [ENSG00000204219]
+  source: [NCBI Info]
+  Chromosome: [1p36.12]
+  NCBI Gene ID: [6920.0]
+  OMIM_ID: ['604128']
+  UniProt_ID: [O75764]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

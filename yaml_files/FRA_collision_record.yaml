@@ -1,0 +1,37 @@
+collision_symbol: FRA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FOLR1
+  ENSG_ID: [ENSG00000110195]
+  source: [ENSG]
+  Chromosome: [11q13.4]
+  NCBI Gene ID: [2348.0]
+  OMIM_ID: ['136430']
+  UniProt_ID: [P15328]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FOSL1
+  ENSG_ID: [ENSG00000175592]
+  source: [NCBI Info]
+  Chromosome: [11q13.1]
+  NCBI Gene ID: [8061.0]
+  OMIM_ID: ['136515']
+  UniProt_ID: [P15407]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RABEP2
+  ENSG_ID: [ENSG00000177548]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [79874.0]
+  OMIM_ID: ['611869']
+  UniProt_ID: [Q9H5N1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

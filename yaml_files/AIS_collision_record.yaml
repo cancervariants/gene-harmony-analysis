@@ -1,0 +1,37 @@
+collision_symbol: AIS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AR
+  ENSG_ID: [ENSG00000169083]
+  source: [NCBI Info]
+  Chromosome: [Xq12]
+  NCBI Gene ID: [367.0]
+  OMIM_ID: ['313700']
+  UniProt_ID: [P10275]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IS1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TP63
+  ENSG_ID: [ENSG00000073282]
+  source: [NCBI Info]
+  Chromosome: [3q28]
+  NCBI Gene ID: [8626.0]
+  OMIM_ID: ['603273']
+  UniProt_ID: [Q9H3D4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

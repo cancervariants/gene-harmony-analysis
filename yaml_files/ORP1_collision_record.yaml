@@ -1,0 +1,26 @@
+collision_symbol: ORP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: OSBPL1A
+  ENSG_ID: [ENSG00000141447]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [18q11.2]
+  NCBI Gene ID: [114876.0]
+  OMIM_ID: ['606730']
+  UniProt_ID: [Q9BXW6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RP1
+  ENSG_ID: [ENSG00000104237]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q11.23-q12.1]
+  NCBI Gene ID: [6101.0]
+  OMIM_ID: ['603937']
+  UniProt_ID: [P56715]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LAMTOR3
+  ENSG_ID: [ENSG00000109270]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q23]
+  NCBI Gene ID: [8649.0]
+  OMIM_ID: ['603296']
+  UniProt_ID: [Q9UHA4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PITRM1
+  ENSG_ID: [ENSG00000107959]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10p15.2]
+  NCBI Gene ID: [10531.0]
+  OMIM_ID: ['618211']
+  UniProt_ID: [Q5JRX3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

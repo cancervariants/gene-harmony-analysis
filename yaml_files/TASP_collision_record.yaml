@@ -1,0 +1,26 @@
+collision_symbol: TASP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HTRA3
+  ENSG_ID: [ENSG00000170801]
+  source: [ENSG]
+  Chromosome: [4p16.1]
+  NCBI Gene ID: [94031.0]
+  OMIM_ID: ['608785']
+  UniProt_ID: [P83110]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LANCL2
+  ENSG_ID: [ENSG00000132434]
+  source: [ENSG]
+  Chromosome: [7p11.2]
+  NCBI Gene ID: [55915.0]
+  OMIM_ID: ['612919']
+  UniProt_ID: [Q9NS86]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

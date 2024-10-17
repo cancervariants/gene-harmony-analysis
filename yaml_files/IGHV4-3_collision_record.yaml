@@ -1,0 +1,37 @@
+collision_symbol: IGHV4-3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGHV4-30-1
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [28399.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-30-2
+  ENSG_ID: [.nan, ENSG00000231475]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q32.33, .nan]
+  NCBI Gene ID: [28398.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [A0A087WSY4, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGHV4-30-4
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q32.33 not on reference assembly]
+  NCBI Gene ID: [28397.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DP06]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

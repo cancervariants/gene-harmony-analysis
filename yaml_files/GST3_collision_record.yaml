@@ -1,0 +1,26 @@
+collision_symbol: GST3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHST4
+  ENSG_ID: [ENSG00000140835]
+  source: [NCBI Info]
+  Chromosome: [16q22.2]
+  NCBI Gene ID: [10164.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q8NCG5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GSTP1
+  ENSG_ID: [ENSG00000084207]
+  source: [NCBI Info]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [2950.0]
+  OMIM_ID: ['134660']
+  UniProt_ID: [P09211]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

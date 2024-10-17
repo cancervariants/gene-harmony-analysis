@@ -1,0 +1,26 @@
+collision_symbol: CTA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CERNA3
+  ENSG_ID: [ENSG00000253603]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [105375847.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PCYT1A
+  ENSG_ID: [ENSG00000161217]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [5130.0]
+  OMIM_ID: ['123695']
+  UniProt_ID: [P49585]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

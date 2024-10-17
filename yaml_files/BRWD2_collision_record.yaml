@@ -1,0 +1,26 @@
+collision_symbol: BRWD2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PHIP
+  ENSG_ID: [ENSG00000146247]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q14.1]
+  NCBI Gene ID: [55023.0]
+  OMIM_ID: ['612870']
+  UniProt_ID: [Q8WWQ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WDR11
+  ENSG_ID: [ENSG00000120008]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q26.12]
+  NCBI Gene ID: [55717.0]
+  OMIM_ID: ['606417']
+  UniProt_ID: [Q9BZH6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

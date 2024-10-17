@@ -1,0 +1,26 @@
+collision_symbol: GASP-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GPRASP1
+  ENSG_ID: [ENSG00000198932]
+  source: [NCBI Info]
+  Chromosome: [Xq22.1]
+  NCBI Gene ID: [9737.0]
+  OMIM_ID: ['300417']
+  UniProt_ID: [Q5JY77]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WFIKKN2
+  ENSG_ID: [ENSG00000173714]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [124857.0]
+  OMIM_ID: ['610895']
+  UniProt_ID: [Q8TEU8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

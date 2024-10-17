@@ -1,0 +1,26 @@
+collision_symbol: TRFP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MED20
+  ENSG_ID: [ENSG00000124641]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [9477.0]
+  OMIM_ID: ['612915']
+  UniProt_ID: [Q9H944]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: USP47
+  ENSG_ID: [ENSG00000170242]
+  source: [NCBI Info]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [55031.0]
+  OMIM_ID: ['614460']
+  UniProt_ID: [Q96K76]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

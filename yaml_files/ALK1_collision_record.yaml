@@ -1,0 +1,37 @@
+collision_symbol: ALK1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACVRL1
+  ENSG_ID: [ENSG00000139567]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q13.13]
+  NCBI Gene ID: [94.0]
+  OMIM_ID: ['601284']
+  UniProt_ID: [P37023]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ALK
+  ENSG_ID: [ENSG00000171094]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p23.2-p23.1]
+  NCBI Gene ID: [238.0]
+  OMIM_ID: ['105590']
+  UniProt_ID: [Q9UM73]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLPI
+  ENSG_ID: [ENSG00000124107]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [6590.0]
+  OMIM_ID: ['107285']
+  UniProt_ID: [P03973]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

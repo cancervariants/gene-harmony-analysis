@@ -1,0 +1,26 @@
+collision_symbol: ZIN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNF216
+  ENSG_ID: [ENSG00000011275]
+  source: [NCBI Info, ENSG]
+  Chromosome: [7p22.1]
+  NCBI Gene ID: [54476.0]
+  OMIM_ID: ['609948']
+  UniProt_ID: [Q9NWF9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STRN4
+  ENSG_ID: [ENSG00000090372]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [29888.0]
+  OMIM_ID: ['614767']
+  UniProt_ID: [Q9NRL3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

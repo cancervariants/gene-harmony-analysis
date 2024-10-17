@@ -1,0 +1,26 @@
+collision_symbol: SLEB6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ITGAM
+  ENSG_ID: [ENSG00000169896]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3684.0]
+  OMIM_ID: ['120980']
+  UniProt_ID: [P11215]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ITGAX
+  ENSG_ID: [ENSG00000140678]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3687.0]
+  OMIM_ID: ['151510']
+  UniProt_ID: [P20702]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

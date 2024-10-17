@@ -1,0 +1,26 @@
+collision_symbol: KV6.3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KCNG3
+  ENSG_ID: [ENSG00000171126]
+  source: [NCBI Info]
+  Chromosome: [2p21]
+  NCBI Gene ID: [170850.0]
+  OMIM_ID: ['606767']
+  UniProt_ID: [Q8TAE7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNG4
+  ENSG_ID: [ENSG00000168418]
+  source: [NCBI Info]
+  Chromosome: [16q24.1]
+  NCBI Gene ID: [93107.0]
+  OMIM_ID: ['607603']
+  UniProt_ID: [Q8TDN1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

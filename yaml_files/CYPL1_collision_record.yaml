@@ -1,0 +1,26 @@
+collision_symbol: CYPL1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYP51A1
+  ENSG_ID: [ENSG00000001630]
+  source: [NCBI Info]
+  Chromosome: [7q21.2]
+  NCBI Gene ID: [1595.0]
+  OMIM_ID: ['601637']
+  UniProt_ID: [Q16850]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPIL1
+  ENSG_ID: [ENSG00000137168]
+  source: [NCBI Info]
+  Chromosome: [6p21.2]
+  NCBI Gene ID: [51645.0]
+  OMIM_ID: ['601301']
+  UniProt_ID: [Q9Y3C6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

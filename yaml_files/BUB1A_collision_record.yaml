@@ -1,0 +1,26 @@
+collision_symbol: BUB1A
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BUB1
+  ENSG_ID: [ENSG00000169679]
+  source: [ENSG]
+  Chromosome: [2q13]
+  NCBI Gene ID: [699.0]
+  OMIM_ID: ['602452']
+  UniProt_ID: [O43683]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BUB1B
+  ENSG_ID: [ENSG00000156970]
+  source: [ENSG]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [701.0]
+  OMIM_ID: ['602860']
+  UniProt_ID: [O60566]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

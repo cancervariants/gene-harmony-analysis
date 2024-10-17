@@ -1,0 +1,26 @@
+collision_symbol: RPL7P
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RPL7P1
+  ENSG_ID: [ENSG00000214485]
+  source: [NCBI Info]
+  Chromosome: [5q32]
+  NCBI Gene ID: [6174.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL7P32
+  ENSG_ID: [ENSG00000231006]
+  source: [NCBI Info]
+  Chromosome: [7q31.1]
+  NCBI Gene ID: [100130892.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

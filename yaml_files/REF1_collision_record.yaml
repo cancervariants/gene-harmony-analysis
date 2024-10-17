@@ -1,0 +1,37 @@
+collision_symbol: REF1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: APEX1
+  ENSG_ID: [ENSG00000100823]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [328.0]
+  OMIM_ID: ['107748']
+  UniProt_ID: [P27695]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TEAD1
+  ENSG_ID: [ENSG00000187079]
+  source: [NCBI Info]
+  Chromosome: [11p15.3]
+  NCBI Gene ID: [7003.0]
+  OMIM_ID: ['189967']
+  UniProt_ID: [P28347]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TFPI2
+  ENSG_ID: [ENSG00000105825]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q21.3]
+  NCBI Gene ID: [7980.0]
+  OMIM_ID: ['600033']
+  UniProt_ID: [P48307]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

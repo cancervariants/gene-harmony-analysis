@@ -1,0 +1,26 @@
+collision_symbol: HLS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HYLS1
+  ENSG_ID: [ENSG00000198331]
+  source: [NCBI Info]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [219844.0]
+  OMIM_ID: ['610693']
+  UniProt_ID: [Q96M11]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TDRD9
+  ENSG_ID: [ENSG00000156414]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [122402.0]
+  OMIM_ID: ['617963']
+  UniProt_ID: [Q8NDG6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

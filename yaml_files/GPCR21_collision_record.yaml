@@ -1,0 +1,26 @@
+collision_symbol: GPCR21
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CYSLTR2
+  ENSG_ID: [ENSG00000152207]
+  source: [NCBI Info]
+  Chromosome: [13q14.2]
+  NCBI Gene ID: [57105.0]
+  OMIM_ID: ['605666']
+  UniProt_ID: [Q9NS75]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GPR12
+  ENSG_ID: [ENSG00000132975]
+  source: [NCBI Info]
+  Chromosome: [13q12.13]
+  NCBI Gene ID: [2835.0]
+  OMIM_ID: ['600752']
+  UniProt_ID: [P47775]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

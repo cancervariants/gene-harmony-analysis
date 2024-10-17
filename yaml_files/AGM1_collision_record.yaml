@@ -1,0 +1,26 @@
+collision_symbol: AGM1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGHM
+  ENSG_ID: [ENSG00000211899]
+  source: [NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [3507.0]
+  OMIM_ID: ['147020']
+  UniProt_ID: [P01871]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PGM3
+  ENSG_ID: [ENSG00000013375]
+  source: [NCBI Info]
+  Chromosome: [6q14.1]
+  NCBI Gene ID: [5238.0]
+  OMIM_ID: ['172100']
+  UniProt_ID: [O95394]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

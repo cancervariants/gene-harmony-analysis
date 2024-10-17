@@ -1,0 +1,37 @@
+collision_symbol: TRA1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HSP90B1
+  ENSG_ID: [ENSG00000166598]
+  source: [NCBI Info, ENSG]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [7184.0]
+  OMIM_ID: ['191175']
+  UniProt_ID: [P14625]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLSCR4
+  ENSG_ID: [ENSG00000114698]
+  source: [NCBI Info]
+  Chromosome: [3q24]
+  NCBI Gene ID: [57088.0]
+  OMIM_ID: ['607612']
+  UniProt_ID: [Q9NRQ2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRRAP
+  ENSG_ID: [ENSG00000196367]
+  source: [ENSG]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [8295.0]
+  OMIM_ID: ['603015']
+  UniProt_ID: [Q9Y4A5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

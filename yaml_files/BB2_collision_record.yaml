@@ -1,0 +1,26 @@
+collision_symbol: BB2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GRPR
+  ENSG_ID: [ENSG00000126010]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xp22.2]
+  NCBI Gene ID: [2925.0]
+  OMIM_ID: ['305670']
+  UniProt_ID: [P30550]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ICAM1
+  ENSG_ID: [ENSG00000090339]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.2]
+  NCBI Gene ID: [3383.0]
+  OMIM_ID: ['147840']
+  UniProt_ID: [P05362]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: H2A.2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H2AC18
+  ENSG_ID: [ENSG00000288825]
+  source: [NCBI Info]
+  Chromosome: [1q21.2]
+  NCBI Gene ID: [8337.0]
+  OMIM_ID: ['142720']
+  UniProt_ID: [Q6FI13]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H2AC8
+  ENSG_ID: [ENSG00000277075]
+  source: [NCBI Info]
+  Chromosome: [6p22.2]
+  NCBI Gene ID: [3012.0]
+  OMIM_ID: ['602786']
+  UniProt_ID: [P04908]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

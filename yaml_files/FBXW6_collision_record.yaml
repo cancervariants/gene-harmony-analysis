@@ -1,0 +1,26 @@
+collision_symbol: FBXW6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FBXW7
+  ENSG_ID: [ENSG00000109670]
+  source: [NCBI Info]
+  Chromosome: [4q31.3]
+  NCBI Gene ID: [55294.0]
+  OMIM_ID: ['606278']
+  UniProt_ID: [Q969H0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FBXW8
+  ENSG_ID: [ENSG00000174989]
+  source: [NCBI Info]
+  Chromosome: [12q24.22]
+  NCBI Gene ID: [26259.0]
+  OMIM_ID: ['609073']
+  UniProt_ID: [Q8N3Y1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

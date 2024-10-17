@@ -1,0 +1,26 @@
+collision_symbol: GS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MYO5A
+  ENSG_ID: [ENSG00000197535]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q21.2]
+  NCBI Gene ID: [4644.0]
+  OMIM_ID: ['160777']
+  UniProt_ID: [Q9Y4I1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PUDP
+  ENSG_ID: [ENSG00000130021]
+  source: [HGNC, NCBI Info]
+  Chromosome: [Xp22.31]
+  NCBI Gene ID: [8226.0]
+  OMIM_ID: ['306480']
+  UniProt_ID: [Q08623]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

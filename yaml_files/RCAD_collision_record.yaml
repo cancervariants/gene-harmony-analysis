@@ -1,0 +1,37 @@
+collision_symbol: RCAD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDH4
+  ENSG_ID: [ENSG00000179242]
+  source: [NCBI Info]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [1002.0]
+  OMIM_ID: ['603006']
+  UniProt_ID: [P55283]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HNF1B
+  ENSG_ID: [ENSG00000275410]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [6928.0]
+  OMIM_ID: ['189907']
+  UniProt_ID: [P35680]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UFL1
+  ENSG_ID: [ENSG00000014123]
+  source: [NCBI Info]
+  Chromosome: [6q16.1]
+  NCBI Gene ID: [23376.0]
+  OMIM_ID: ['613372']
+  UniProt_ID: [O94874]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

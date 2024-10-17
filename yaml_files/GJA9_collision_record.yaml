@@ -1,0 +1,26 @@
+collision_symbol: GJA9
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GJA9-MYCBP
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GJD2
+  ENSG_ID: [ENSG00000159248]
+  source: [NCBI Info]
+  Chromosome: [15q14]
+  NCBI Gene ID: [57369.0]
+  OMIM_ID: ['607058']
+  UniProt_ID: [Q9UKL4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,37 @@
+collision_symbol: CT45-2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CT45A2
+  ENSG_ID: [ENSG00000271449]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [728911.0]
+  OMIM_ID: ['300793']
+  UniProt_ID: [Q5DJT8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CT45A8
+  ENSG_ID: [ENSG00000278085]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [102723737.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMV1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CT45A9
+  ENSG_ID: [ENSG00000270946]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [102723680.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMV2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

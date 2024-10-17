@@ -1,0 +1,37 @@
+collision_symbol: CAD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACOD1
+  ENSG_ID: [ENSG00000102794]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q22.3]
+  NCBI Gene ID: [730249.0]
+  OMIM_ID: ['615275']
+  UniProt_ID: [A6NK06]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: B4GALNT2
+  ENSG_ID: [ENSG00000167080]
+  source: [ENSG]
+  Chromosome: [17q21.32]
+  NCBI Gene ID: [124872.0]
+  OMIM_ID: ['111730']
+  UniProt_ID: [Q8NHY0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DFFB
+  ENSG_ID: [ENSG00000169598]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p36.32]
+  NCBI Gene ID: [1677.0]
+  OMIM_ID: ['601883']
+  UniProt_ID: [O76075]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

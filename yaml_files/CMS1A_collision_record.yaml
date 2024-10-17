@@ -1,0 +1,26 @@
+collision_symbol: CMS1A
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHAT
+  ENSG_ID: [ENSG00000070748]
+  source: [NCBI Info]
+  Chromosome: [10q11.23]
+  NCBI Gene ID: [1103.0]
+  OMIM_ID: ['118490']
+  UniProt_ID: [P28329]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CHRNA1
+  ENSG_ID: [ENSG00000138435]
+  source: [NCBI Info]
+  Chromosome: [2q31.1]
+  NCBI Gene ID: [1134.0]
+  OMIM_ID: ['100690']
+  UniProt_ID: [P02708]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

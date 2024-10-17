@@ -1,0 +1,26 @@
+collision_symbol: GP110
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADRM1
+  ENSG_ID: [ENSG00000130706]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20q13.33]
+  NCBI Gene ID: [11047.0]
+  OMIM_ID: ['610650']
+  UniProt_ID: [Q16186]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD68
+  ENSG_ID: [ENSG00000129226]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [968.0]
+  OMIM_ID: ['153634']
+  UniProt_ID: [P34810]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

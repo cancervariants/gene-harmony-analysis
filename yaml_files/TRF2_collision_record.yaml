@@ -1,0 +1,26 @@
+collision_symbol: TRF2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TBPL1
+  ENSG_ID: [ENSG00000028839]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6q23.2]
+  NCBI Gene ID: [9519.0]
+  OMIM_ID: ['605521']
+  UniProt_ID: [P62380]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TERF2
+  ENSG_ID: [ENSG00000132604]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [7014.0]
+  OMIM_ID: ['602027']
+  UniProt_ID: [Q15554]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

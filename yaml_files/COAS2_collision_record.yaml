@@ -1,0 +1,26 @@
+collision_symbol: COAS2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PPIAL4A
+  ENSG_ID: [ENSG00000263353]
+  source: [NCBI Info]
+  Chromosome: [1p11.2]
+  NCBI Gene ID: [653505.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q9Y536]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPIAL4E
+  ENSG_ID: [ENSG00000271567]
+  source: [NCBI Info]
+  Chromosome: [1q21.1]
+  NCBI Gene ID: [730262.0]
+  OMIM_ID: ['608608']
+  UniProt_ID: [A0A075B759]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

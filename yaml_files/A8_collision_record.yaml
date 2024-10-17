@@ -1,0 +1,26 @@
+collision_symbol: A8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGKV2D-23
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEMA4D
+  ENSG_ID: [ENSG00000187764]
+  source: [NCBI Info]
+  Chromosome: [9q22.2]
+  NCBI Gene ID: [10507.0]
+  OMIM_ID: ['601866']
+  UniProt_ID: [Q92854]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

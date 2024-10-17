@@ -1,0 +1,26 @@
+collision_symbol: GLUT9
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC2A6
+  ENSG_ID: [ENSG00000160326]
+  source: [NCBI Info]
+  Chromosome: [9q34.2]
+  NCBI Gene ID: [11182.0]
+  OMIM_ID: ['606813']
+  UniProt_ID: [Q9UGQ3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC2A9
+  ENSG_ID: [ENSG00000109667]
+  source: [NCBI Info]
+  Chromosome: [4p16.1]
+  NCBI Gene ID: [56606.0]
+  OMIM_ID: ['606142']
+  UniProt_ID: [Q9NRM0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: H2-ALPHA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TUBA3D
+  ENSG_ID: [ENSG00000075886]
+  source: [NCBI Info]
+  Chromosome: [2q21.1]
+  NCBI Gene ID: [113457.0]
+  OMIM_ID: ['617878']
+  UniProt_ID: [P0DPH8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TUBA4A
+  ENSG_ID: [ENSG00000127824]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [7277.0]
+  OMIM_ID: ['191110']
+  UniProt_ID: [P68366]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

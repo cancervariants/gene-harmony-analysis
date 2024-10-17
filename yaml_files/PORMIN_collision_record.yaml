@@ -1,0 +1,26 @@
+collision_symbol: PORMIN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NPM3
+  ENSG_ID: [ENSG00000107833]
+  source: [NCBI Info]
+  Chromosome: [10q24.32]
+  NCBI Gene ID: [10360.0]
+  OMIM_ID: ['606456']
+  UniProt_ID: [O75607]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM123
+  ENSG_ID: [ENSG00000152558]
+  source: [NCBI Info]
+  Chromosome: [11q22.2]
+  NCBI Gene ID: [114908.0]
+  OMIM_ID: ['606356']
+  UniProt_ID: [Q8N131]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

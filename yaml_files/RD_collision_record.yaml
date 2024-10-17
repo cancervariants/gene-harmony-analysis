@@ -1,0 +1,70 @@
+collision_symbol: RD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNAAF4
+  ENSG_ID: [ENSG00000256061]
+  source: [NCBI Info]
+  Chromosome: [15q21.3]
+  NCBI Gene ID: [161582.0]
+  OMIM_ID: ['608706']
+  UniProt_ID: [Q8WXU2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DYX1
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: ['15']
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ERMAP
+  ENSG_ID: [ENSG00000164010]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1p34.2]
+  NCBI Gene ID: [114625.0]
+  OMIM_ID: ['609017']
+  UniProt_ID: [Q96PL5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NELFE
+  ENSG_ID: [ENSG00000204356]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [7936.0]
+  OMIM_ID: ['154040']
+  UniProt_ID: [P18615]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PEX7
+  ENSG_ID: [ENSG00000112357]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6q23.3]
+  NCBI Gene ID: [5191.0]
+  OMIM_ID: ['601757']
+  UniProt_ID: [O00628]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PHYH
+  ENSG_ID: [ENSG00000107537]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10p13]
+  NCBI Gene ID: [5264.0]
+  OMIM_ID: ['602026']
+  UniProt_ID: [O14832]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CKR-1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCR1
+  ENSG_ID: [ENSG00000163823]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [1230.0]
+  OMIM_ID: ['601159']
+  UniProt_ID: [P32246]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CXCR1
+  ENSG_ID: [ENSG00000163464]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q35]
+  NCBI Gene ID: [3577.0]
+  OMIM_ID: ['146929']
+  UniProt_ID: [P25024]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

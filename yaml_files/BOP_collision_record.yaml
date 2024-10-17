@@ -1,0 +1,59 @@
+collision_symbol: BOP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EYA1
+  ENSG_ID: [ENSG00000104313]
+  source: [NCBI Info]
+  Chromosome: [8q13.3]
+  NCBI Gene ID: [2138.0]
+  OMIM_ID: ['601653']
+  UniProt_ID: [Q99502]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FIG4
+  ENSG_ID: [ENSG00000112367]
+  source: [NCBI Info]
+  Chromosome: [6q21]
+  NCBI Gene ID: [9896.0]
+  OMIM_ID: ['609390']
+  UniProt_ID: [Q92562]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPN1SW
+  ENSG_ID: [ENSG00000128617]
+  source: [HGNC, NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [611.0]
+  OMIM_ID: ['613522']
+  UniProt_ID: [P03999]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RTL10
+  ENSG_ID: [ENSG00000215012]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [79680.0]
+  OMIM_ID: ['620751']
+  UniProt_ID: [Q7L3V2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMYD1
+  ENSG_ID: [ENSG00000115593]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2p11.2]
+  NCBI Gene ID: [150572.0]
+  OMIM_ID: ['606846']
+  UniProt_ID: [Q8NB12]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

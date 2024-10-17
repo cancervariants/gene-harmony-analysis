@@ -1,0 +1,37 @@
+collision_symbol: PRIP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NCOA6
+  ENSG_ID: [ENSG00000198646]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [23054.0]
+  OMIM_ID: ['605299']
+  UniProt_ID: [Q14686]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLCL1
+  ENSG_ID: [ENSG00000115896]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q33.1]
+  NCBI Gene ID: [5334.0]
+  OMIM_ID: ['600597']
+  UniProt_ID: [Q15111]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRNP
+  ENSG_ID: [ENSG00000171867]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p13]
+  NCBI Gene ID: [5621.0]
+  OMIM_ID: ['176640']
+  UniProt_ID: ['F7VJQ1, P04156']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

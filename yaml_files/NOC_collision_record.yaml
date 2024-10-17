@@ -1,0 +1,26 @@
+collision_symbol: NOC
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NOCT
+  ENSG_ID: [ENSG00000151014]
+  source: [NCBI Info]
+  Chromosome: [4q31.1]
+  NCBI Gene ID: [25819.0]
+  OMIM_ID: ['608468']
+  UniProt_ID: [Q9UK39]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRR12
+  ENSG_ID: [ENSG00000126464]
+  source: [NCBI Info]
+  Chromosome: [19q13.33]
+  NCBI Gene ID: [57479.0]
+  OMIM_ID: ['616633']
+  UniProt_ID: [Q9ULL5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

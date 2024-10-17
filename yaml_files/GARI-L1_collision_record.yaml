@@ -1,0 +1,26 @@
+collision_symbol: GARI-L1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GARIN1B
+  ENSG_ID: [ENSG00000135248]
+  source: [NCBI Info]
+  Chromosome: [7q32.1]
+  NCBI Gene ID: [84691.0]
+  OMIM_ID: ['619905']
+  UniProt_ID: [Q96KD3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GARIN2
+  ENSG_ID: [ENSG00000172717]
+  source: [NCBI Info]
+  Chromosome: [14q23.3]
+  NCBI Gene ID: [161142.0]
+  OMIM_ID: ['619898']
+  UniProt_ID: [Q8N9W8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

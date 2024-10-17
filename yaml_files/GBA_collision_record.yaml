@@ -1,0 +1,26 @@
+collision_symbol: GBA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GBA1
+  ENSG_ID: [ENSG00000177628]
+  source: [NCBI Info]
+  Chromosome: [1q22]
+  NCBI Gene ID: [2629.0]
+  OMIM_ID: ['606463']
+  UniProt_ID: [P04062]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GBA1LP
+  ENSG_ID: [ENSG00000291137]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

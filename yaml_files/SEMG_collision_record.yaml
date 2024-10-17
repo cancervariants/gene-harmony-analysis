@@ -1,0 +1,26 @@
+collision_symbol: SEMG
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SEMA5B
+  ENSG_ID: [ENSG00000082684]
+  source: [ENSG]
+  Chromosome: [3q21.1]
+  NCBI Gene ID: [54437.0]
+  OMIM_ID: ['609298']
+  UniProt_ID: [Q9P283]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SEMG1
+  ENSG_ID: [ENSG00000124233]
+  source: [ENSG]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [6406.0]
+  OMIM_ID: ['182140']
+  UniProt_ID: [P04279]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

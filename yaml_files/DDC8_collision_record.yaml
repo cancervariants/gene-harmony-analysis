@@ -1,0 +1,26 @@
+collision_symbol: DDC8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEP295NL
+  ENSG_ID: [ENSG00000178404]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [100653515.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96MC4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TIMP2
+  ENSG_ID: [ENSG00000035862]
+  source: [NCBI Info]
+  Chromosome: [17q25.3]
+  NCBI Gene ID: [7077.0]
+  OMIM_ID: ['188825']
+  UniProt_ID: [P16035]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

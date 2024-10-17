@@ -1,0 +1,26 @@
+collision_symbol: DOR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COG8
+  ENSG_ID: [ENSG00000213380]
+  source: [NCBI Info]
+  Chromosome: [16q22.1]
+  NCBI Gene ID: [84342.0]
+  OMIM_ID: ['606979']
+  UniProt_ID: [Q96MW5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OPRD1
+  ENSG_ID: [ENSG00000116329]
+  source: [NCBI Info]
+  Chromosome: [1p35.3]
+  NCBI Gene ID: [4985.0]
+  OMIM_ID: ['165195']
+  UniProt_ID: [P41143]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

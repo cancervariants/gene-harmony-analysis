@@ -1,0 +1,37 @@
+collision_symbol: TRF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IL5
+  ENSG_ID: [ENSG00000113525]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [3567.0]
+  OMIM_ID: ['147850']
+  UniProt_ID: [P05113]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TERF1
+  ENSG_ID: [ENSG00000147601]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [8q21.11]
+  NCBI Gene ID: [7013.0]
+  OMIM_ID: ['600951']
+  UniProt_ID: [P54274]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRH
+  ENSG_ID: [ENSG00000170893]
+  source: [NCBI Info]
+  Chromosome: [3q22.1]
+  NCBI Gene ID: [7200.0]
+  OMIM_ID: ['613879']
+  UniProt_ID: [P20396]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

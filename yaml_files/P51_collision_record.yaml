@@ -1,0 +1,26 @@
+collision_symbol: p51
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: H3P41
+  ENSG_ID: [ENSG00000265541]
+  source: [HGNC, NCBI Info]
+  Chromosome: [17q11.2]
+  NCBI Gene ID: [100420410.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TP63
+  ENSG_ID: [ENSG00000073282]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3q28]
+  NCBI Gene ID: [8626.0]
+  OMIM_ID: ['603273']
+  UniProt_ID: [Q9H3D4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

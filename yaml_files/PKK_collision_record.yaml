@@ -1,0 +1,26 @@
+collision_symbol: PKK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KLKB1
+  ENSG_ID: [ENSG00000164344]
+  source: [NCBI Info]
+  Chromosome: [4q35.2]
+  NCBI Gene ID: [3818.0]
+  OMIM_ID: ['229000']
+  UniProt_ID: [P03952]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIPK4
+  ENSG_ID: [ENSG00000183421]
+  source: [NCBI Info]
+  Chromosome: [21q22.3]
+  NCBI Gene ID: [54101.0]
+  OMIM_ID: ['605706']
+  UniProt_ID: [P57078]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

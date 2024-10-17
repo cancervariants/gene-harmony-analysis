@@ -1,0 +1,26 @@
+collision_symbol: ACC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACACA
+  ENSG_ID: [ENSG00000278540, ENSG00000275176]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q12, .nan]
+  NCBI Gene ID: [31.0, .nan]
+  OMIM_ID: ['200350', .nan]
+  UniProt_ID: [Q13085, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: BCL2A1
+  ENSG_ID: [ENSG00000140379]
+  source: [NCBI Info, ENSG]
+  Chromosome: [15q25.1]
+  NCBI Gene ID: [597.0]
+  OMIM_ID: ['601056']
+  UniProt_ID: [Q16548]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

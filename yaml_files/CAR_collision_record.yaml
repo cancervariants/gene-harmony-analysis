@@ -1,0 +1,81 @@
+collision_symbol: CAR
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CASR
+  ENSG_ID: [ENSG00000036828]
+  source: [NCBI Info]
+  Chromosome: [3q13.33-q21.1]
+  NCBI Gene ID: [846.0]
+  OMIM_ID: ['601199']
+  UniProt_ID: [P41180]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CXADR
+  ENSG_ID: [ENSG00000154639]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q21.1]
+  NCBI Gene ID: [1525.0]
+  OMIM_ID: ['602621']
+  UniProt_ID: [P78310]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CXADRP1
+  ENSG_ID: [ENSG00000214319]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [21q11.2]
+  NCBI Gene ID: [653108.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NR1I3
+  ENSG_ID: [ENSG00000143257]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q23.3]
+  NCBI Gene ID: [9970.0]
+  OMIM_ID: ['603881']
+  UniProt_ID: [Q14994]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRKAR1A
+  ENSG_ID: [ENSG00000108946]
+  source: [NCBI Info]
+  Chromosome: [17q24.2]
+  NCBI Gene ID: [5573.0]
+  OMIM_ID: ['188830']
+  UniProt_ID: [P10644]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPG7
+  ENSG_ID: [ENSG00000197912]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16q24.3]
+  NCBI Gene ID: [6687.0]
+  OMIM_ID: ['602783']
+  UniProt_ID: [Q9UQ90]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM13
+  ENSG_ID: [ENSG00000204977]
+  source: [NCBI Info]
+  Chromosome: [13q14.2]
+  NCBI Gene ID: [10206.0]
+  OMIM_ID: ['605661']
+  UniProt_ID: [O60858]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

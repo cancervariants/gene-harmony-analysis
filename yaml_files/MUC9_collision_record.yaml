@@ -1,0 +1,26 @@
+collision_symbol: MUC9
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MUC5B
+  ENSG_ID: [ENSG00000117983]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [727897.0]
+  OMIM_ID: ['600770']
+  UniProt_ID: [Q9HC84]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OVGP1
+  ENSG_ID: [ENSG00000085465]
+  source: [NCBI Info]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [5016.0]
+  OMIM_ID: ['603578']
+  UniProt_ID: [Q12889]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

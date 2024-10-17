@@ -1,0 +1,37 @@
+collision_symbol: RIG1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PLAAT4
+  ENSG_ID: [ENSG00000133321]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [5920.0]
+  OMIM_ID: ['605092']
+  UniProt_ID: [Q9UL19]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RIGI
+  ENSG_ID: [ENSG00000107201]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p21.1]
+  NCBI Gene ID: [23586.0]
+  OMIM_ID: ['609631']
+  UniProt_ID: [O95786]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ROBO3
+  ENSG_ID: [ENSG00000154134]
+  source: [NCBI Info]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [64221.0]
+  OMIM_ID: ['608630']
+  UniProt_ID: [Q96MS0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

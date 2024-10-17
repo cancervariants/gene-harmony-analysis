@@ -1,0 +1,26 @@
+collision_symbol: VMA5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V1C1
+  ENSG_ID: [ENSG00000155097]
+  source: [ENSG]
+  Chromosome: [8q22.3]
+  NCBI Gene ID: [528.0]
+  OMIM_ID: ['603097']
+  UniProt_ID: [P21283]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATP6V1C2
+  ENSG_ID: [ENSG00000143882]
+  source: [ENSG]
+  Chromosome: [2p25.1]
+  NCBI Gene ID: [245973.0]
+  OMIM_ID: ['618070']
+  UniProt_ID: [Q8NEY4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

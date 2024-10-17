@@ -1,0 +1,26 @@
+collision_symbol: MMP-25
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MMP25
+  ENSG_ID: [ENSG00000008516]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [64386.0]
+  OMIM_ID: ['608482']
+  UniProt_ID: [Q9NPA2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MMP28
+  ENSG_ID: [ENSG00000271447]
+  source: [NCBI Info]
+  Chromosome: [17q12]
+  NCBI Gene ID: [79148.0]
+  OMIM_ID: ['608417']
+  UniProt_ID: [Q9H239]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

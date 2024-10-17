@@ -1,0 +1,26 @@
+collision_symbol: TPTPS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LMBR1
+  ENSG_ID: [ENSG00000105983]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [64327.0]
+  OMIM_ID: ['605522']
+  UniProt_ID: [Q8WVP7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SHH
+  ENSG_ID: [ENSG00000164690]
+  source: [NCBI Info]
+  Chromosome: [7q36.3]
+  NCBI Gene ID: [6469.0]
+  OMIM_ID: ['600725']
+  UniProt_ID: [Q15465]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

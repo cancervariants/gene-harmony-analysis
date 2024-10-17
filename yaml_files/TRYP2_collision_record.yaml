@@ -1,0 +1,26 @@
+collision_symbol: TRYP2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GZMK
+  ENSG_ID: [ENSG00000113088]
+  source: [NCBI Info]
+  Chromosome: [5q11.2]
+  NCBI Gene ID: [3003.0]
+  OMIM_ID: ['600784']
+  UniProt_ID: [P49863]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRSS2
+  ENSG_ID: [ENSG00000275896]
+  source: [NCBI Info]
+  Chromosome: [7q34]
+  NCBI Gene ID: [5645.0]
+  OMIM_ID: ['601564']
+  UniProt_ID: [P07478]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

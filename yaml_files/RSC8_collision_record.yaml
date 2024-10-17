@@ -1,0 +1,26 @@
+collision_symbol: Rsc8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SMARCC1
+  ENSG_ID: [ENSG00000173473]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [6599.0]
+  OMIM_ID: ['601732']
+  UniProt_ID: [Q92922]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SMARCC2
+  ENSG_ID: [ENSG00000139613]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [6601.0]
+  OMIM_ID: ['601734']
+  UniProt_ID: [Q8TAQ2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

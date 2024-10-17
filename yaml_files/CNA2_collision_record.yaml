@@ -1,0 +1,26 @@
+collision_symbol: CNA2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KERA
+  ENSG_ID: [ENSG00000139330]
+  source: [NCBI Info]
+  Chromosome: [12q21.33]
+  NCBI Gene ID: [11081.0]
+  OMIM_ID: ['603288']
+  UniProt_ID: [O60938]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP3CB
+  ENSG_ID: [ENSG00000107758]
+  source: [NCBI Info]
+  Chromosome: [10q22.2]
+  NCBI Gene ID: [5532.0]
+  OMIM_ID: ['114106']
+  UniProt_ID: [P16298]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

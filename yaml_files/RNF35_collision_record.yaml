@@ -1,0 +1,26 @@
+collision_symbol: RNF35
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TRIM40
+  ENSG_ID: [ENSG00000204614, ENSG00000172524]
+  source: [NCBI Info, ENSG]
+  Chromosome: [6p22.1, .nan]
+  NCBI Gene ID: [135644.0, .nan]
+  OMIM_ID: ['616976', .nan]
+  UniProt_ID: [Q6P9F5, .nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM61
+  ENSG_ID: [ENSG00000183439]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q32.3]
+  NCBI Gene ID: [391712.0]
+  OMIM_ID: ['619417']
+  UniProt_ID: [Q5EBN2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

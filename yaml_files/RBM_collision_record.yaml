@@ -1,0 +1,26 @@
+collision_symbol: RBM
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RBMY1A1
+  ENSG_ID: [ENSG00000234414]
+  source: [NCBI Info]
+  Chromosome: [Yq11.223]
+  NCBI Gene ID: [5940.0]
+  OMIM_ID: ['400006']
+  UniProt_ID: [P0DJD3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBMY2DP
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

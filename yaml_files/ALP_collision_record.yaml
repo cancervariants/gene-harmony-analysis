@@ -1,0 +1,92 @@
+collision_symbol: ALP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ALPP
+  ENSG_ID: [ENSG00000163283]
+  source: [NCBI Info]
+  Chromosome: [2q37.1]
+  NCBI Gene ID: [250.0]
+  OMIM_ID: ['171800']
+  UniProt_ID: [P05187]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ASRGL1
+  ENSG_ID: [ENSG00000162174]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [80150.0]
+  OMIM_ID: ['609212']
+  UniProt_ID: [Q7L266]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATHS
+  ENSG_ID: [.nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.3-p13.2]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ATRNL1
+  ENSG_ID: [ENSG00000107518]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [10q25.3]
+  NCBI Gene ID: [26033.0]
+  OMIM_ID: ['612869']
+  UniProt_ID: [Q5VV63]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CCL27
+  ENSG_ID: [ENSG00000213927]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [9p13.3]
+  NCBI Gene ID: [10850.0]
+  OMIM_ID: ['604833']
+  UniProt_ID: [Q9Y4X3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAT10
+  ENSG_ID: [ENSG00000135372]
+  source: [NCBI Info]
+  Chromosome: [11p13]
+  NCBI Gene ID: [55226.0]
+  OMIM_ID: ['609221']
+  UniProt_ID: [Q9H0A0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PDLIM3
+  ENSG_ID: [ENSG00000154553]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q35.1]
+  NCBI Gene ID: [27295.0]
+  OMIM_ID: ['605889']
+  UniProt_ID: [Q53GG5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLPI
+  ENSG_ID: [ENSG00000124107]
+  source: [HGNC, NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [6590.0]
+  OMIM_ID: ['107285']
+  UniProt_ID: [P03973]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

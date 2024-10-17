@@ -1,0 +1,26 @@
+collision_symbol: INT4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: INTS4
+  ENSG_ID: [ENSG00000149262]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q14.1]
+  NCBI Gene ID: [92105.0]
+  OMIM_ID: ['611348']
+  UniProt_ID: [Q96HW7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WNT3
+  ENSG_ID: [ENSG00000108379]
+  source: [NCBI Info, ENSG]
+  Chromosome: [17q21.31-q21.32]
+  NCBI Gene ID: [7473.0]
+  OMIM_ID: ['165330']
+  UniProt_ID: [P56703]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

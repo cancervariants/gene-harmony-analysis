@@ -1,0 +1,26 @@
+collision_symbol: PAMP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADM
+  ENSG_ID: [ENSG00000148926]
+  source: [NCBI Info]
+  Chromosome: [11p15.4]
+  NCBI Gene ID: [133.0]
+  OMIM_ID: ['103275']
+  UniProt_ID: [P35318]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: YME1L1
+  ENSG_ID: [ENSG00000136758]
+  source: [NCBI Info]
+  Chromosome: [10p12.1]
+  NCBI Gene ID: [10730.0]
+  OMIM_ID: ['607472']
+  UniProt_ID: [Q96TA2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

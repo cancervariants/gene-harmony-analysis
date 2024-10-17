@@ -1,0 +1,26 @@
+collision_symbol: PHHI
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ABCC8
+  ENSG_ID: [ENSG00000006071]
+  source: [NCBI Info]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [6833.0]
+  OMIM_ID: ['600509']
+  UniProt_ID: [Q09428]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KCNJ11
+  ENSG_ID: [ENSG00000187486]
+  source: [NCBI Info]
+  Chromosome: [11p15.1]
+  NCBI Gene ID: [3767.0]
+  OMIM_ID: ['600937']
+  UniProt_ID: [Q14654]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MIZ
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PIAS2
+  ENSG_ID: [ENSG00000078043]
+  source: [ENSG]
+  Chromosome: [18q21.1]
+  NCBI Gene ID: [9063.0]
+  OMIM_ID: ['603567']
+  UniProt_ID: [O75928]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZMIZ1
+  ENSG_ID: [ENSG00000108175]
+  source: [ENSG]
+  Chromosome: [10q22.3]
+  NCBI Gene ID: [57178.0]
+  OMIM_ID: ['607159']
+  UniProt_ID: [Q9ULJ6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

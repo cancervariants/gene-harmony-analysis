@@ -1,0 +1,26 @@
+collision_symbol: ZNF757
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ZFP91
+  ENSG_ID: [ENSG00000186660]
+  source: [NCBI Info]
+  Chromosome: [11q12.1]
+  NCBI Gene ID: [80829.0]
+  OMIM_ID: ['619289']
+  UniProt_ID: [Q96JP5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZFP91-CNTF
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

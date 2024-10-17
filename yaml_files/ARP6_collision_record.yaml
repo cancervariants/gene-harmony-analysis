@@ -1,0 +1,26 @@
+collision_symbol: ARP6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ACTR6
+  ENSG_ID: [ENSG00000075089]
+  source: [HGNC, NCBI Info]
+  Chromosome: [12q23.1]
+  NCBI Gene ID: [64431.0]
+  OMIM_ID: ['619729']
+  UniProt_ID: [Q9GZN1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: APOBEC3D
+  ENSG_ID: [ENSG00000243811]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [140564.0]
+  OMIM_ID: ['609900']
+  UniProt_ID: [Q96AK3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

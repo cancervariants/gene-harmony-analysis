@@ -1,0 +1,26 @@
+collision_symbol: IMP-3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BPNT2
+  ENSG_ID: [ENSG00000104331]
+  source: [NCBI Info]
+  Chromosome: [8q12.1]
+  NCBI Gene ID: [54928.0]
+  OMIM_ID: ['614010']
+  UniProt_ID: [Q9NX62]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IGF2BP3
+  ENSG_ID: [ENSG00000136231]
+  source: [NCBI Info]
+  Chromosome: [7p15.3]
+  NCBI Gene ID: [10643.0]
+  OMIM_ID: ['608259']
+  UniProt_ID: [O00425]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

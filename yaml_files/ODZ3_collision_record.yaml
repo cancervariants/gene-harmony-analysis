@@ -1,0 +1,26 @@
+collision_symbol: ODZ3
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TENM1
+  ENSG_ID: [ENSG00000009694]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xq25]
+  NCBI Gene ID: [10178.0]
+  OMIM_ID: ['300588']
+  UniProt_ID: [Q9UKZ4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TENM3
+  ENSG_ID: [ENSG00000218336]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q34.3-q35.1]
+  NCBI Gene ID: [55714.0]
+  OMIM_ID: ['610083']
+  UniProt_ID: [Q9P273]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: SIN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: EFS
+  ENSG_ID: [ENSG00000100842]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [14q11.2]
+  NCBI Gene ID: [10278.0]
+  OMIM_ID: ['609906']
+  UniProt_ID: [O43281]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: POLR3E
+  ENSG_ID: [ENSG00000058600]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [16p12.2]
+  NCBI Gene ID: [55718.0]
+  OMIM_ID: ['617815']
+  UniProt_ID: [Q9NVU0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

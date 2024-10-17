@@ -1,0 +1,26 @@
+collision_symbol: LRRC37A
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LOC105376839
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LRRC37A3
+  ENSG_ID: [ENSG00000176809]
+  source: [NCBI Info]
+  Chromosome: [17q24.1]
+  NCBI Gene ID: [374819.0]
+  OMIM_ID: ['616557']
+  UniProt_ID: [O60309]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

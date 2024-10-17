@@ -1,0 +1,26 @@
+collision_symbol: ZRC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC30A1
+  ENSG_ID: [ENSG00000170385]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.3]
+  NCBI Gene ID: [7779.0]
+  OMIM_ID: ['609521']
+  UniProt_ID: [Q9Y6M5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC30A10
+  ENSG_ID: [ENSG00000196660]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q41]
+  NCBI Gene ID: [55532.0]
+  OMIM_ID: ['611146']
+  UniProt_ID: [Q6XR72]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

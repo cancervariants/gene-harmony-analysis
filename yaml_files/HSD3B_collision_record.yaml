@@ -1,0 +1,26 @@
+collision_symbol: HSD3B
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HSD3B1
+  ENSG_ID: [ENSG00000203857]
+  source: [NCBI Info]
+  Chromosome: [1p12]
+  NCBI Gene ID: [3283.0]
+  OMIM_ID: ['109715']
+  UniProt_ID: [P14060]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: HSD3B2
+  ENSG_ID: [ENSG00000203859]
+  source: [NCBI Info]
+  Chromosome: [1p12]
+  NCBI Gene ID: [3284.0]
+  OMIM_ID: ['613890']
+  UniProt_ID: [P26439]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

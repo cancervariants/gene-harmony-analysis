@@ -1,0 +1,26 @@
+collision_symbol: RAB7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RAB7A
+  ENSG_ID: [ENSG00000075785]
+  source: [NCBI Info]
+  Chromosome: [3q21.3]
+  NCBI Gene ID: [7879.0]
+  OMIM_ID: ['602298']
+  UniProt_ID: [P51149]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RAB7B
+  ENSG_ID: [ENSG00000276600]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [338382.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [Q96AH8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

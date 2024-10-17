@@ -1,0 +1,26 @@
+collision_symbol: HML
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLEC10A
+  ENSG_ID: [ENSG00000132514]
+  source: [NCBI Info]
+  Chromosome: [17p13.1]
+  NCBI Gene ID: [10462.0]
+  OMIM_ID: ['605999']
+  UniProt_ID: [Q8IUN9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ISCU
+  ENSG_ID: [ENSG00000136003]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [23479.0]
+  OMIM_ID: ['611911']
+  UniProt_ID: [Q9H1K1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

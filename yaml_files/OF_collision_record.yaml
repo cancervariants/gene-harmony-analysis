@@ -1,0 +1,37 @@
+collision_symbol: OF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRIP1
+  ENSG_ID: [ENSG00000136492]
+  source: [NCBI Info]
+  Chromosome: [17q23.2]
+  NCBI Gene ID: [83990.0]
+  OMIM_ID: ['605882']
+  UniProt_ID: [Q9BX63]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPI1
+  ENSG_ID: [ENSG00000066336]
+  source: [NCBI Info]
+  Chromosome: [11p11.2]
+  NCBI Gene ID: [6688.0]
+  OMIM_ID: ['165170']
+  UniProt_ID: [P17947]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TAF1
+  ENSG_ID: [ENSG00000147133]
+  source: [NCBI Info]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [6872.0]
+  OMIM_ID: ['313650']
+  UniProt_ID: [P21675]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: ArgRS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RARS1
+  ENSG_ID: [ENSG00000113643]
+  source: [NCBI Info]
+  Chromosome: [5q34]
+  NCBI Gene ID: [5917.0]
+  OMIM_ID: ['107820']
+  UniProt_ID: [P54136]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RARS2
+  ENSG_ID: [ENSG00000146282]
+  source: [NCBI Info]
+  Chromosome: [6q15]
+  NCBI Gene ID: [57038.0]
+  OMIM_ID: ['611524']
+  UniProt_ID: [Q5T160]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

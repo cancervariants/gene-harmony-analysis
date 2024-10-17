@@ -1,0 +1,26 @@
+collision_symbol: EVR1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FZD4
+  ENSG_ID: [ENSG00000174804]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q14.2]
+  NCBI Gene ID: [8322.0]
+  OMIM_ID: ['604579']
+  UniProt_ID: [Q9ULV1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: LRP5
+  ENSG_ID: [ENSG00000162337]
+  source: [NCBI Info, ENSG]
+  Chromosome: [11q13.2]
+  NCBI Gene ID: [4041.0]
+  OMIM_ID: ['603506']
+  UniProt_ID: [O75197]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: MIC10
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CD46
+  ENSG_ID: [ENSG00000117335]
+  source: [ENSG]
+  Chromosome: [1q32.2]
+  NCBI Gene ID: [4179.0]
+  OMIM_ID: ['120920']
+  UniProt_ID: [P15529]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MICOS10
+  ENSG_ID: [ENSG00000173436]
+  source: [ENSG]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [440574.0]
+  OMIM_ID: ['616574']
+  UniProt_ID: [Q5TGZ0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

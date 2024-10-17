@@ -1,0 +1,26 @@
+collision_symbol: PACT
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRKRA
+  ENSG_ID: [ENSG00000180228]
+  source: [NCBI Info, ENSG]
+  Chromosome: [2q31.2]
+  NCBI Gene ID: [8575.0]
+  OMIM_ID: ['603424']
+  UniProt_ID: [O75569]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBBP6
+  ENSG_ID: [ENSG00000122257]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16p12.1]
+  NCBI Gene ID: [5930.0]
+  OMIM_ID: ['600938']
+  UniProt_ID: [Q7Z6E9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

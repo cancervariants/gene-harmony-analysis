@@ -1,0 +1,26 @@
+collision_symbol: STK7
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AURKA
+  ENSG_ID: [ENSG00000087586]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.2]
+  NCBI Gene ID: [6790.0]
+  OMIM_ID: ['603072']
+  UniProt_ID: [O14965]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PKN2
+  ENSG_ID: [ENSG00000065243]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p22.2]
+  NCBI Gene ID: [5586.0]
+  OMIM_ID: ['602549']
+  UniProt_ID: [Q16513]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: GAAP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HIVEP1
+  ENSG_ID: [ENSG00000095951]
+  source: [NCBI Info]
+  Chromosome: [6p24.1]
+  NCBI Gene ID: [3096.0]
+  OMIM_ID: ['194540']
+  UniProt_ID: [P15822]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMBIM4
+  ENSG_ID: [ENSG00000155957]
+  source: [NCBI Info]
+  Chromosome: [12q14.3]
+  NCBI Gene ID: [51643.0]
+  OMIM_ID: ['616874']
+  UniProt_ID: [Q9HC24]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

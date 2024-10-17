@@ -1,0 +1,26 @@
+collision_symbol: TN
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CLEC3B
+  ENSG_ID: [ENSG00000163815]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [7123.0]
+  OMIM_ID: ['187520']
+  UniProt_ID: [P05452]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNC
+  ENSG_ID: [ENSG00000041982]
+  source: [HGNC, NCBI Info]
+  Chromosome: [9q33.1]
+  NCBI Gene ID: [3371.0]
+  OMIM_ID: ['187380']
+  UniProt_ID: [P24821]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

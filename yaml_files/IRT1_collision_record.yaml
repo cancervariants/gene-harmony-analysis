@@ -1,0 +1,26 @@
+collision_symbol: IRT1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AIF1
+  ENSG_ID: [ENSG00000204472]
+  source: [NCBI Info]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [199.0]
+  OMIM_ID: ['601833']
+  UniProt_ID: [P55008]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PARP3
+  ENSG_ID: [ENSG00000041880]
+  source: [NCBI Info]
+  Chromosome: [3p21.2]
+  NCBI Gene ID: [10039.0]
+  OMIM_ID: ['607726']
+  UniProt_ID: [Q9Y6F1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

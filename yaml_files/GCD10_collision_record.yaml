@@ -1,0 +1,26 @@
+collision_symbol: GCD10
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CRLS1
+  ENSG_ID: [ENSG00000088766]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p12.3]
+  NCBI Gene ID: [54675.0]
+  OMIM_ID: ['608188']
+  UniProt_ID: [Q9UJA2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRMT6
+  ENSG_ID: [ENSG00000089195]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p12.3]
+  NCBI Gene ID: [51605.0]
+  OMIM_ID: ['620886']
+  UniProt_ID: [Q9UJA5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

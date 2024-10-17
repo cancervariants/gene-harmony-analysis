@@ -1,0 +1,26 @@
+collision_symbol: NAT5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NAA20
+  ENSG_ID: [ENSG00000173418]
+  source: [NCBI Info, ENSG]
+  Chromosome: [20p11.23]
+  NCBI Gene ID: [51126.0]
+  OMIM_ID: ['610833']
+  UniProt_ID: [P61599]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NAA50
+  ENSG_ID: [ENSG00000121579]
+  source: [NCBI Info, ENSG]
+  Chromosome: [3q13.31]
+  NCBI Gene ID: [80218.0]
+  OMIM_ID: ['610834']
+  UniProt_ID: [Q9GZZ1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

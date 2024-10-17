@@ -1,0 +1,26 @@
+collision_symbol: CMT2T
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNAJB2
+  ENSG_ID: [ENSG00000135924]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [3300.0]
+  OMIM_ID: ['604139']
+  UniProt_ID: [P25686]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MME
+  ENSG_ID: [ENSG00000196549]
+  source: [NCBI Info]
+  Chromosome: [3q25.2]
+  NCBI Gene ID: [4311.0]
+  OMIM_ID: ['120520']
+  UniProt_ID: [P08473]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

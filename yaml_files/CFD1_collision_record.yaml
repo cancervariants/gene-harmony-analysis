@@ -1,0 +1,26 @@
+collision_symbol: CFD1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FGFR2
+  ENSG_ID: [ENSG00000066468]
+  source: [NCBI Info]
+  Chromosome: [10q26.13]
+  NCBI Gene ID: [2263.0]
+  OMIM_ID: ['176943']
+  UniProt_ID: [P21802]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NUBP2
+  ENSG_ID: [ENSG00000095906]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [10101.0]
+  OMIM_ID: ['610779']
+  UniProt_ID: [Q9Y5Y2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

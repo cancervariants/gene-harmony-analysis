@@ -1,0 +1,26 @@
+collision_symbol: PAPA1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GLI3
+  ENSG_ID: [ENSG00000106571]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [2737.0]
+  OMIM_ID: ['165240']
+  UniProt_ID: [P10071]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: INO80B
+  ENSG_ID: [ENSG00000115274]
+  source: [NCBI Info]
+  Chromosome: [2p13.1]
+  NCBI Gene ID: [83444.0]
+  OMIM_ID: ['616456']
+  UniProt_ID: [Q9C086]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CINAP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AK6
+  ENSG_ID: [ENSG00000085231]
+  source: [NCBI Info]
+  Chromosome: [5q13.2]
+  NCBI Gene ID: [102157402.0]
+  OMIM_ID: ['619357']
+  UniProt_ID: [Q9Y3D8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TSPYL2
+  ENSG_ID: [ENSG00000184205]
+  source: [NCBI Info]
+  Chromosome: [Xp11.22]
+  NCBI Gene ID: [64061.0]
+  OMIM_ID: ['300564']
+  UniProt_ID: [Q9H2G4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

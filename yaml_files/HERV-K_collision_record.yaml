@@ -1,0 +1,26 @@
+collision_symbol: HERV-K
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ERVK2
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ERVK3
+  ENSG_ID: [.nan]
+  source: [HGNC]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

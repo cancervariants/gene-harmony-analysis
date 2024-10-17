@@ -1,0 +1,26 @@
+collision_symbol: FAD1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BRCA2
+  ENSG_ID: [ENSG00000139618]
+  source: [HGNC, NCBI Info]
+  Chromosome: [13q13.1]
+  NCBI Gene ID: [675.0]
+  OMIM_ID: ['600185']
+  UniProt_ID: [P51587]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FLAD1
+  ENSG_ID: [ENSG00000160688]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1q21.3]
+  NCBI Gene ID: [80308.0]
+  OMIM_ID: ['610595']
+  UniProt_ID: [Q8NFF5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

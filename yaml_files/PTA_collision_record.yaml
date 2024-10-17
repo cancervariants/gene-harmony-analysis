@@ -1,0 +1,26 @@
+collision_symbol: PTA
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: F11
+  ENSG_ID: [ENSG00000088926]
+  source: [NCBI Info]
+  Chromosome: [4q35.2]
+  NCBI Gene ID: [2160.0]
+  OMIM_ID: ['264900']
+  UniProt_ID: [P03951]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PTCRA
+  ENSG_ID: [ENSG00000171611]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [171558.0]
+  OMIM_ID: ['606817']
+  UniProt_ID: [Q6ISU1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

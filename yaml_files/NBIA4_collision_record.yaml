@@ -1,0 +1,26 @@
+collision_symbol: NBIA4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: C19orf12
+  ENSG_ID: [ENSG00000131943]
+  source: [NCBI Info]
+  Chromosome: [19q12]
+  NCBI Gene ID: [83636.0]
+  OMIM_ID: ['614297']
+  UniProt_ID: [Q9NSK7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: WDR45
+  ENSG_ID: [ENSG00000196998]
+  source: [NCBI Info]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [11152.0]
+  OMIM_ID: ['300526']
+  UniProt_ID: [Q9Y484]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

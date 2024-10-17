@@ -1,0 +1,37 @@
+collision_symbol: IMP2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGF2BP2
+  ENSG_ID: [ENSG00000073792]
+  source: [NCBI Info]
+  Chromosome: [3q27.2]
+  NCBI Gene ID: [10644.0]
+  OMIM_ID: ['608289']
+  UniProt_ID: [Q9Y6M1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: IMMP2L
+  ENSG_ID: [ENSG00000184903]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [7q31.1]
+  NCBI Gene ID: [83943.0]
+  OMIM_ID: ['605977']
+  UniProt_ID: [Q96T52]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPPL3
+  ENSG_ID: [ENSG00000157837]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [12q24.31]
+  NCBI Gene ID: [121665.0]
+  OMIM_ID: ['608240']
+  UniProt_ID: [Q8TCT6]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

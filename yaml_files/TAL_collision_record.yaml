@@ -1,0 +1,26 @@
+collision_symbol: TAL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LRSAM1
+  ENSG_ID: [ENSG00000148356]
+  source: [NCBI Info]
+  Chromosome: [9q33.3-q34.11]
+  NCBI Gene ID: [90678.0]
+  OMIM_ID: ['610933']
+  UniProt_ID: [Q6UWE0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TALDO1
+  ENSG_ID: [ENSG00000177156]
+  source: [NCBI Info]
+  Chromosome: [11p15.5]
+  NCBI Gene ID: [6888.0]
+  OMIM_ID: ['602063']
+  UniProt_ID: [P37837]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

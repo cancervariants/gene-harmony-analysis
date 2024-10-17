@@ -1,0 +1,26 @@
+collision_symbol: AOS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARHGAP31
+  ENSG_ID: [ENSG00000031081]
+  source: [NCBI Info]
+  Chromosome: [3q13.32-q13.33]
+  NCBI Gene ID: [57514.0]
+  OMIM_ID: ['610911']
+  UniProt_ID: [Q2M1Z3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SAE1
+  ENSG_ID: [ENSG00000142230]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [10055.0]
+  OMIM_ID: ['613294']
+  UniProt_ID: [Q9UBE0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

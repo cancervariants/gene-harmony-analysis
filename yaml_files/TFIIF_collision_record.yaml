@@ -1,0 +1,37 @@
+collision_symbol: TFIIF
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GTF2F1
+  ENSG_ID: [ENSG00000125651]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [19p13.3]
+  NCBI Gene ID: [2962.0]
+  OMIM_ID: ['189968']
+  UniProt_ID: [P35269]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2F2
+  ENSG_ID: [ENSG00000188342]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [13q14.12-q14.13]
+  NCBI Gene ID: [2963.0]
+  OMIM_ID: ['189969']
+  UniProt_ID: [P13984]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GTF2F2P1
+  ENSG_ID: [ENSG00000251254, .nan]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4q31.23, .nan]
+  NCBI Gene ID: [2964.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

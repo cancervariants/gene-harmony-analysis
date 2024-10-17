@@ -1,0 +1,48 @@
+collision_symbol: CST
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CASZ1
+  ENSG_ID: [ENSG00000130940]
+  source: [NCBI Info]
+  Chromosome: [1p36.22]
+  NCBI Gene ID: [54897.0]
+  OMIM_ID: ['609895']
+  UniProt_ID: [Q86V15]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CST12P
+  ENSG_ID: [ENSG00000226344]
+  source: [ENSG]
+  Chromosome: [20p11.21]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GAL3ST1
+  ENSG_ID: [ENSG00000128242]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q12.2]
+  NCBI Gene ID: [9514.0]
+  OMIM_ID: ['602300']
+  UniProt_ID: [Q99999]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC35A1
+  ENSG_ID: [ENSG00000164414]
+  source: [NCBI Info]
+  Chromosome: [6q15]
+  NCBI Gene ID: [10559.0]
+  OMIM_ID: ['605634']
+  UniProt_ID: [P78382]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

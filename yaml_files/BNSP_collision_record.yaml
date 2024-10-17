@@ -1,0 +1,26 @@
+collision_symbol: BNSP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IBSP
+  ENSG_ID: [ENSG00000029559]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [3381.0]
+  OMIM_ID: ['147563']
+  UniProt_ID: [P21815]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPP1
+  ENSG_ID: [ENSG00000118785]
+  source: [NCBI Info]
+  Chromosome: [4q22.1]
+  NCBI Gene ID: [6696.0]
+  OMIM_ID: ['166490']
+  UniProt_ID: [P10451]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

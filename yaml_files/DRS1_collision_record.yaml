@@ -1,0 +1,26 @@
+collision_symbol: DRS1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DDX27
+  ENSG_ID: [ENSG00000124228]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [20q13.13]
+  NCBI Gene ID: [55661.0]
+  OMIM_ID: ['616621']
+  UniProt_ID: [Q96GQ7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ECI2
+  ENSG_ID: [ENSG00000198721]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p25.2]
+  NCBI Gene ID: [10455.0]
+  OMIM_ID: ['608024']
+  UniProt_ID: [O75521]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

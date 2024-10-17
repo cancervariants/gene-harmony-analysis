@@ -1,0 +1,26 @@
+collision_symbol: HCC1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RBM39
+  ENSG_ID: [ENSG00000131051]
+  source: [NCBI Info]
+  Chromosome: [20q11.22]
+  NCBI Gene ID: [9584.0]
+  OMIM_ID: ['604739']
+  UniProt_ID: [Q14498]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SARNP
+  ENSG_ID: [ENSG00000205323]
+  source: [NCBI Info]
+  Chromosome: [12q13.2]
+  NCBI Gene ID: [84324.0]
+  OMIM_ID: ['610049']
+  UniProt_ID: [P82979]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

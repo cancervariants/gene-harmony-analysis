@@ -1,0 +1,26 @@
+collision_symbol: PIG6
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: PRODH
+  ENSG_ID: [ENSG00000100033]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [5625.0]
+  OMIM_ID: ['606810']
+  UniProt_ID: [O43272]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPAG9
+  ENSG_ID: [ENSG00000008294]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [9043.0]
+  OMIM_ID: ['605430']
+  UniProt_ID: [O60271]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

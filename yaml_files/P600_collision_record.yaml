@@ -1,0 +1,26 @@
+collision_symbol: P600
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IL13
+  ENSG_ID: [ENSG00000169194]
+  source: [ENSG]
+  Chromosome: [5q31.1]
+  NCBI Gene ID: [3596.0]
+  OMIM_ID: ['147683']
+  UniProt_ID: [P35225]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UBR4
+  ENSG_ID: [ENSG00000127481]
+  source: [ENSG]
+  Chromosome: [1p36.13]
+  NCBI Gene ID: [23352.0]
+  OMIM_ID: ['609890']
+  UniProt_ID: [Q5T4S7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: PIG8
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEP57
+  ENSG_ID: [ENSG00000166037]
+  source: [NCBI Info]
+  Chromosome: [11q21]
+  NCBI Gene ID: [9702.0]
+  OMIM_ID: ['607951']
+  UniProt_ID: [Q86XR8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EI24
+  ENSG_ID: [ENSG00000149547]
+  source: [NCBI Info]
+  Chromosome: [11q24.2]
+  NCBI Gene ID: [9538.0]
+  OMIM_ID: ['605170']
+  UniProt_ID: [O14681]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

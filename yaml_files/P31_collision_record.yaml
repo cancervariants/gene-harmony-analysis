@@ -1,0 +1,37 @@
+collision_symbol: P31
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6V1E1
+  ENSG_ID: [ENSG00000131100]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q11.21]
+  NCBI Gene ID: [529.0]
+  OMIM_ID: ['108746']
+  UniProt_ID: [P36543]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PSMD8
+  ENSG_ID: [ENSG00000099341]
+  source: [ENSG]
+  Chromosome: [19q13.2]
+  NCBI Gene ID: [5714.0]
+  OMIM_ID: ['617844']
+  UniProt_ID: [P48556]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: USE1
+  ENSG_ID: [ENSG00000053501]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [55850.0]
+  OMIM_ID: ['610675']
+  UniProt_ID: [Q9NZ43]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

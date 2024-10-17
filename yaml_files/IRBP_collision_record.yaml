@@ -1,0 +1,26 @@
+collision_symbol: IRBP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GRB10
+  ENSG_ID: [ENSG00000106070]
+  source: [NCBI Info]
+  Chromosome: [7p12.1]
+  NCBI Gene ID: [2887.0]
+  OMIM_ID: ['601523']
+  UniProt_ID: [Q13322]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBP3
+  ENSG_ID: [ENSG00000265203]
+  source: [NCBI Info]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [5949.0]
+  OMIM_ID: ['180290']
+  UniProt_ID: [P10745]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

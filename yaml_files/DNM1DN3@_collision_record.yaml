@@ -1,0 +1,37 @@
+collision_symbol: DNM1DN3@
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DNM1P28
+  ENSG_ID: [.nan, ENSG00000261792]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q13.2]
+  NCBI Gene ID: [.nan, 100132031.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNM1P29
+  ENSG_ID: [ENSG00000274966]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: DNM1P30
+  ENSG_ID: [.nan, ENSG00000260897]
+  source: [NCBI Info, ENSG]
+  Chromosome: [.nan, 15q13.2]
+  NCBI Gene ID: [.nan, 728388.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

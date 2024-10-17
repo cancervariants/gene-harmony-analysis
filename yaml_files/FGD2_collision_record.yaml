@@ -1,0 +1,26 @@
+collision_symbol: FGD2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: GCCD3
+  ENSG_ID: [.nan]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRAP
+  ENSG_ID: [ENSG00000170262]
+  source: [NCBI Info]
+  Chromosome: [21q22.11]
+  NCBI Gene ID: [56246.0]
+  OMIM_ID: ['609196']
+  UniProt_ID: [Q8TCY5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

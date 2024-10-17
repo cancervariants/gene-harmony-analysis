@@ -1,0 +1,26 @@
+collision_symbol: UGD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: UGDH
+  ENSG_ID: [ENSG00000109814]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [4p14]
+  NCBI Gene ID: [7358.0]
+  OMIM_ID: ['603370']
+  UniProt_ID: [O60701]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UXS1
+  ENSG_ID: [ENSG00000115652]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [2q12.2]
+  NCBI Gene ID: [80146.0]
+  OMIM_ID: ['609749']
+  UniProt_ID: [Q8NBZ7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

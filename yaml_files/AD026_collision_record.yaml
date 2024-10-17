@@ -1,0 +1,26 @@
+collision_symbol: AD026
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ADORA3
+  ENSG_ID: [ENSG00000282608]
+  source: [HGNC]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [140.0]
+  OMIM_ID: ['600445']
+  UniProt_ID: [P0DMS8]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMIGD3
+  ENSG_ID: [ENSG00000121933]
+  source: [HGNC]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [57413.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [P0DMS9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

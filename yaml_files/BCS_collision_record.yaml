@@ -1,0 +1,26 @@
+collision_symbol: BCS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BCS1L
+  ENSG_ID: [ENSG00000074582]
+  source: [NCBI Info]
+  Chromosome: [2q35]
+  NCBI Gene ID: [617.0]
+  OMIM_ID: ['603647']
+  UniProt_ID: [Q9Y276]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: ZNF469
+  ENSG_ID: [ENSG00000225614]
+  source: [NCBI Info]
+  Chromosome: [16q24.2]
+  NCBI Gene ID: [84627.0]
+  OMIM_ID: ['612078']
+  UniProt_ID: [Q96JG9]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

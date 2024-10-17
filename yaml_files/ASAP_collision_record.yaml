@@ -1,0 +1,26 @@
+collision_symbol: ASAP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: LINC00467
+  ENSG_ID: [ENSG00000153363]
+  source: [NCBI Info, ENSG]
+  Chromosome: [1q32.3]
+  NCBI Gene ID: [84791.0]
+  OMIM_ID: ['620079']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MAP9
+  ENSG_ID: [ENSG00000164114]
+  source: [NCBI Info, ENSG]
+  Chromosome: [4q32.1]
+  NCBI Gene ID: [79884.0]
+  OMIM_ID: ['610070']
+  UniProt_ID: [Q49MG5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

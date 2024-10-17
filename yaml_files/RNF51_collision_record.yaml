@@ -1,0 +1,26 @@
+collision_symbol: RNF51
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BMI1
+  ENSG_ID: [ENSG00000168283]
+  source: [NCBI Info]
+  Chromosome: [10p12.2]
+  NCBI Gene ID: [648.0]
+  OMIM_ID: ['164831']
+  UniProt_ID: [P35226]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: COMMD3-BMI1
+  ENSG_ID: [ENSG00000269897]
+  source: [NCBI Info]
+  Chromosome: [10p12.2]
+  NCBI Gene ID: [100532731.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

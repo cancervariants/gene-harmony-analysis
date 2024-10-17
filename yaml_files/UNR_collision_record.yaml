@@ -1,0 +1,37 @@
+collision_symbol: UNR
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSDE1
+  ENSG_ID: [ENSG00000009307]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [1p13.2]
+  NCBI Gene ID: [7812.0]
+  OMIM_ID: ['191510']
+  UniProt_ID: [O75534]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NR1H2
+  ENSG_ID: [ENSG00000131408]
+  source: [NCBI Info, ENSG]
+  Chromosome: [19q13.3]
+  NCBI Gene ID: [7376.0]
+  OMIM_ID: ['600380']
+  UniProt_ID: [P55055]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: P2RY4
+  ENSG_ID: [ENSG00000186912]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq13.1]
+  NCBI Gene ID: [5030.0]
+  OMIM_ID: ['300038']
+  UniProt_ID: [P51582]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

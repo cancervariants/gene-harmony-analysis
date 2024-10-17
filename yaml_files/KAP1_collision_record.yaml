@@ -1,0 +1,26 @@
+collision_symbol: KAP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDKN3
+  ENSG_ID: [ENSG00000100526]
+  source: [NCBI Info]
+  Chromosome: [14q22.2]
+  NCBI Gene ID: [1033.0]
+  OMIM_ID: ['123832']
+  UniProt_ID: [Q16667]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRIM28
+  ENSG_ID: [ENSG00000130726]
+  source: [NCBI Info]
+  Chromosome: [19q13.43]
+  NCBI Gene ID: [10155.0]
+  OMIM_ID: ['601742']
+  UniProt_ID: [Q13263]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: CT11.1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SPANXA1
+  ENSG_ID: [ENSG00000198021]
+  source: [NCBI Info]
+  Chromosome: [Xq27.2]
+  NCBI Gene ID: [30014.0]
+  OMIM_ID: ['300305']
+  UniProt_ID: [Q9NS26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SPANXA2
+  ENSG_ID: [ENSG00000203926]
+  source: [NCBI Info]
+  Chromosome: [Xq27.2]
+  NCBI Gene ID: [728712.0]
+  OMIM_ID: ['300493']
+  UniProt_ID: [Q9NS26]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

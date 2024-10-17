@@ -1,0 +1,26 @@
+collision_symbol: MRXSH
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ATP6AP2
+  ENSG_ID: [ENSG00000182220]
+  source: [NCBI Info]
+  Chromosome: [Xp11.4]
+  NCBI Gene ID: [10159.0]
+  OMIM_ID: ['300556']
+  UniProt_ID: [O75787]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBMX
+  ENSG_ID: [ENSG00000147274]
+  source: [NCBI Info]
+  Chromosome: [Xq26.3]
+  NCBI Gene ID: [27316.0]
+  OMIM_ID: ['300199']
+  UniProt_ID: [P38159]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

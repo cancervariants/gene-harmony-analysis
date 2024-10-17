@@ -1,0 +1,26 @@
+collision_symbol: OBP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: KIF22
+  ENSG_ID: [ENSG00000079616]
+  source: [NCBI Info]
+  Chromosome: [16p11.2]
+  NCBI Gene ID: [3835.0]
+  OMIM_ID: ['603213']
+  UniProt_ID: [Q14807]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: OBP2A
+  ENSG_ID: [ENSG00000122136]
+  source: [NCBI Info]
+  Chromosome: [9q34.3]
+  NCBI Gene ID: [29991.0]
+  OMIM_ID: ['164320']
+  UniProt_ID: [Q9NY56]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

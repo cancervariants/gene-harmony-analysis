@@ -1,0 +1,37 @@
+collision_symbol: NOV
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CCN3
+  ENSG_ID: [ENSG00000136999]
+  source: [NCBI Info, ENSG]
+  Chromosome: [8q24.12]
+  NCBI Gene ID: [4856.0]
+  OMIM_ID: ['164958']
+  UniProt_ID: [P48745]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PLXNA1
+  ENSG_ID: [ENSG00000114554]
+  source: [HGNC, NCBI Info]
+  Chromosome: [3q21.3]
+  NCBI Gene ID: [5361.0]
+  OMIM_ID: ['601055']
+  UniProt_ID: [Q9UIW2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RPL10
+  ENSG_ID: [ENSG00000147403]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [Xq28]
+  NCBI Gene ID: [6134.0]
+  OMIM_ID: ['312173']
+  UniProt_ID: [P27635]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: ATS
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: COL4A5
+  ENSG_ID: [ENSG00000188153]
+  source: [NCBI Info]
+  Chromosome: [Xq22.3]
+  NCBI Gene ID: [1287.0]
+  OMIM_ID: ['303630']
+  UniProt_ID: [P29400]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC2A10
+  ENSG_ID: [ENSG00000197496]
+  source: [NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [81031.0]
+  OMIM_ID: ['606145']
+  UniProt_ID: [O95528]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

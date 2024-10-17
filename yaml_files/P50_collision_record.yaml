@@ -1,0 +1,48 @@
+collision_symbol: p50
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ASCC1
+  ENSG_ID: [ENSG00000138303]
+  source: [HGNC, NCBI Info]
+  Chromosome: [10q22.1]
+  NCBI Gene ID: [51008.0]
+  OMIM_ID: ['614215']
+  UniProt_ID: [Q8N9N2]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CD40
+  ENSG_ID: [ENSG00000101017]
+  source: [HGNC, NCBI Info]
+  Chromosome: [20q13.12]
+  NCBI Gene ID: [958.0]
+  OMIM_ID: ['109535']
+  UniProt_ID: [P25942]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: H3P40
+  ENSG_ID: [ENSG00000258570, .nan]
+  source: [HGNC, NCBI Info]
+  Chromosome: [15q26.2, .nan]
+  NCBI Gene ID: [115482723.0, .nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NFKB1
+  ENSG_ID: [ENSG00000109320]
+  source: [HGNC]
+  Chromosome: [4q24]
+  NCBI Gene ID: [4790.0]
+  OMIM_ID: ['164011']
+  UniProt_ID: [P19838]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

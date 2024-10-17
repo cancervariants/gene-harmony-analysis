@@ -1,0 +1,37 @@
+collision_symbol: UBC4/5
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: UBE2D1
+  ENSG_ID: [ENSG00000072401]
+  source: [NCBI Info]
+  Chromosome: [10q21.1]
+  NCBI Gene ID: [7321.0]
+  OMIM_ID: ['602961']
+  UniProt_ID: [P51668]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UBE2D2
+  ENSG_ID: [ENSG00000131508]
+  source: [NCBI Info]
+  Chromosome: [5q31.2]
+  NCBI Gene ID: [7322.0]
+  OMIM_ID: ['602962']
+  UniProt_ID: [P62837]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: UBE2D3
+  ENSG_ID: [ENSG00000109332]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [7323.0]
+  OMIM_ID: ['602963']
+  UniProt_ID: [P61077]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

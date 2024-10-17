@@ -1,0 +1,26 @@
+collision_symbol: MCPH4
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CEP152
+  ENSG_ID: [ENSG00000103995]
+  source: [NCBI Info]
+  Chromosome: [15q21.1]
+  NCBI Gene ID: [22995.0]
+  OMIM_ID: ['613529']
+  UniProt_ID: [O94986]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: KNL1
+  ENSG_ID: [ENSG00000137812]
+  source: [NCBI Info]
+  Chromosome: [15q15.1]
+  NCBI Gene ID: [57082.0]
+  OMIM_ID: ['609173']
+  UniProt_ID: [Q8NG31]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

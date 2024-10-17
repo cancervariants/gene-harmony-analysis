@@ -1,0 +1,26 @@
+collision_symbol: HHL
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: HES1
+  ENSG_ID: [ENSG00000114315]
+  source: [NCBI Info]
+  Chromosome: [3q29]
+  NCBI Gene ID: [3280.0]
+  OMIM_ID: ['139605']
+  UniProt_ID: [Q14469]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RABGAP1L
+  ENSG_ID: [ENSG00000152061]
+  source: [NCBI Info]
+  Chromosome: [1q25.1]
+  NCBI Gene ID: [9910.0]
+  OMIM_ID: ['609238']
+  UniProt_ID: ['B7ZAP0, Q5R372']
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

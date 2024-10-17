@@ -1,0 +1,26 @@
+collision_symbol: RP66
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: ARL2BP
+  ENSG_ID: [ENSG00000102931]
+  source: [NCBI Info, ENSG]
+  Chromosome: [16q13]
+  NCBI Gene ID: [23568.0]
+  OMIM_ID: ['615407']
+  UniProt_ID: [Q9Y2Y0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RBP3
+  ENSG_ID: [ENSG00000265203]
+  source: [NCBI Info, ENSG]
+  Chromosome: [10q11.22]
+  NCBI Gene ID: [5949.0]
+  OMIM_ID: ['180290']
+  UniProt_ID: [P10745]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

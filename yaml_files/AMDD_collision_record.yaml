@@ -1,0 +1,26 @@
+collision_symbol: AMDD
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: BMPR1B
+  ENSG_ID: [ENSG00000138696]
+  source: [NCBI Info]
+  Chromosome: [4q22.3]
+  NCBI Gene ID: [658.0]
+  OMIM_ID: ['603248']
+  UniProt_ID: [O00238]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FAAH2
+  ENSG_ID: [ENSG00000165591]
+  source: [NCBI Info]
+  Chromosome: [Xp11.21]
+  NCBI Gene ID: [158584.0]
+  OMIM_ID: ['300654']
+  UniProt_ID: [Q6GMR7]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

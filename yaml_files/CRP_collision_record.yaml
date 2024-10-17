@@ -1,0 +1,26 @@
+collision_symbol: CRP
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CSRP1
+  ENSG_ID: [ENSG00000159176]
+  source: [NCBI Info]
+  Chromosome: [1q32.1]
+  NCBI Gene ID: [1465.0]
+  OMIM_ID: ['123876']
+  UniProt_ID: [P21291]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPIAP10
+  ENSG_ID: [ENSG00000224530]
+  source: [NCBI Info]
+  Chromosome: [20q13.2]
+  NCBI Gene ID: [140913.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

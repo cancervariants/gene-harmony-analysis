@@ -1,0 +1,26 @@
+collision_symbol: IGVPB
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: IGLL1
+  ENSG_ID: [ENSG00000128322]
+  source: [NCBI Info]
+  Chromosome: [22q11.23]
+  NCBI Gene ID: [3543.0]
+  OMIM_ID: ['146770']
+  UniProt_ID: [P15814]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: VPREB1
+  ENSG_ID: [ENSG00000169575]
+  source: [NCBI Info]
+  Chromosome: [22q11.22]
+  NCBI Gene ID: [7441.0]
+  OMIM_ID: ['605141']
+  UniProt_ID: [P12018]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

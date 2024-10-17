@@ -1,0 +1,26 @@
+collision_symbol: CD98
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SLC3A2
+  ENSG_ID: [ENSG00000168003]
+  source: [HGNC, NCBI Info]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [6520.0]
+  OMIM_ID: ['158070']
+  UniProt_ID: [P08195]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SLC7A5
+  ENSG_ID: [ENSG00000103257]
+  source: [HGNC, NCBI Info]
+  Chromosome: [16q24.2]
+  NCBI Gene ID: [8140.0]
+  OMIM_ID: ['600182']
+  UniProt_ID: [Q01650]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

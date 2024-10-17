@@ -1,0 +1,26 @@
+collision_symbol: TDO
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: DLX3
+  ENSG_ID: [ENSG00000064195]
+  source: [NCBI Info]
+  Chromosome: [17q21.33]
+  NCBI Gene ID: [1747.0]
+  OMIM_ID: ['600525']
+  UniProt_ID: [O60479]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TDO2
+  ENSG_ID: [ENSG00000151790]
+  source: [NCBI Info]
+  Chromosome: [4q32.1]
+  NCBI Gene ID: [6999.0]
+  OMIM_ID: ['191070']
+  UniProt_ID: [P48775]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

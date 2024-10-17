@@ -1,0 +1,26 @@
+collision_symbol: CBF-B
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NFYA
+  ENSG_ID: [ENSG00000001167]
+  source: [NCBI Info]
+  Chromosome: [6p21.1]
+  NCBI Gene ID: [4800.0]
+  OMIM_ID: ['189903']
+  UniProt_ID: [P23511]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: NFYB
+  ENSG_ID: [ENSG00000120837]
+  source: [NCBI Info]
+  Chromosome: [12q23.3]
+  NCBI Gene ID: [4801.0]
+  OMIM_ID: ['189904']
+  UniProt_ID: [P25208]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

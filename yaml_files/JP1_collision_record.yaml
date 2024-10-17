@@ -1,0 +1,26 @@
+collision_symbol: JP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: JPH1
+  ENSG_ID: [ENSG00000104369]
+  source: [NCBI Info]
+  Chromosome: [8q21.11]
+  NCBI Gene ID: [56704.0]
+  OMIM_ID: ['605266']
+  UniProt_ID: [Q9HDC5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TRGJP1
+  ENSG_ID: [ENSG00000211692]
+  source: [NCBI Info]
+  Chromosome: [7p14.1]
+  NCBI Gene ID: [6971.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

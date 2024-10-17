@@ -1,0 +1,26 @@
+collision_symbol: RNU12P
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: RNU12
+  ENSG_ID: [ENSG00000276027]
+  source: [NCBI Info, ENSG]
+  Chromosome: [22q13.2]
+  NCBI Gene ID: [267010.0]
+  OMIM_ID: ['620204']
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: RNU12-2P
+  ENSG_ID: [ENSG00000201659]
+  source: [NCBI Info, ENSG]
+  Chromosome: [Xp11.23]
+  NCBI Gene ID: [26823.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

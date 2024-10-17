@@ -1,0 +1,37 @@
+collision_symbol: GCE
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AMT
+  ENSG_ID: [ENSG00000145020]
+  source: [NCBI Info]
+  Chromosome: [3p21.31]
+  NCBI Gene ID: [275.0]
+  OMIM_ID: ['238310']
+  UniProt_ID: [P48728]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GCSH
+  ENSG_ID: [ENSG00000140905]
+  source: [NCBI Info]
+  Chromosome: [16q23.2]
+  NCBI Gene ID: [2653.0]
+  OMIM_ID: ['238330']
+  UniProt_ID: [P23434]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: GLDC
+  ENSG_ID: [ENSG00000178445]
+  source: [NCBI Info]
+  Chromosome: [9p24.1]
+  NCBI Gene ID: [2731.0]
+  OMIM_ID: ['238300']
+  UniProt_ID: [P23378]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

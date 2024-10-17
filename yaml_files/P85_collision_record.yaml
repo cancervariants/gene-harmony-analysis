@@ -1,0 +1,59 @@
+collision_symbol: p85
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CBFA2T2
+  ENSG_ID: [ENSG00000078699]
+  source: [NCBI Info]
+  Chromosome: [20q11.21-q11.22]
+  NCBI Gene ID: [9139.0]
+  OMIM_ID: ['603672']
+  UniProt_ID: [O43439]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3R1
+  ENSG_ID: [ENSG00000145675]
+  source: [HGNC, NCBI Info]
+  Chromosome: [5q13.1]
+  NCBI Gene ID: [5295.0]
+  OMIM_ID: ['171833']
+  UniProt_ID: [P27986]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PIK3R2
+  ENSG_ID: [ENSG00000105647]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19p13.11]
+  NCBI Gene ID: [5296.0]
+  OMIM_ID: ['603157']
+  UniProt_ID: [O00459]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP1R12C
+  ENSG_ID: [ENSG00000125503]
+  source: [HGNC, NCBI Info]
+  Chromosome: [19q13.42]
+  NCBI Gene ID: [54776.0]
+  OMIM_ID: ['613245']
+  UniProt_ID: [Q9BZL4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PPP1R13B
+  ENSG_ID: [ENSG00000088808]
+  source: [HGNC, NCBI Info]
+  Chromosome: [14q32.33]
+  NCBI Gene ID: [23368.0]
+  OMIM_ID: ['606455']
+  UniProt_ID: [Q96KQ4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

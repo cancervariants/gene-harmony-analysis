@@ -1,0 +1,26 @@
+collision_symbol: M1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CHRM1
+  ENSG_ID: [ENSG00000168539]
+  source: [NCBI Info]
+  Chromosome: [11q12.3]
+  NCBI Gene ID: [1128.0]
+  OMIM_ID: ['118510']
+  UniProt_ID: [P11229]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: MRLN
+  ENSG_ID: [ENSG00000227877]
+  source: [NCBI Info]
+  Chromosome: [10q21.2]
+  NCBI Gene ID: [100507027.0]
+  OMIM_ID: ['616246']
+  UniProt_ID: [P0DMT0]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

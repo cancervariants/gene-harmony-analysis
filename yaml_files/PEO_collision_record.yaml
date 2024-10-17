@@ -1,0 +1,26 @@
+collision_symbol: PEO
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: POLG
+  ENSG_ID: [ENSG00000140521]
+  source: [NCBI Info]
+  Chromosome: [15q26.1]
+  NCBI Gene ID: [5428.0]
+  OMIM_ID: ['174763']
+  UniProt_ID: [P54098]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TWNK
+  ENSG_ID: [ENSG00000107815]
+  source: [NCBI Info]
+  Chromosome: [10q24.31]
+  NCBI Gene ID: [56652.0]
+  OMIM_ID: ['606075']
+  UniProt_ID: [Q96RR1]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

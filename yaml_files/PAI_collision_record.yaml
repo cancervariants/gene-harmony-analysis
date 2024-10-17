@@ -1,0 +1,26 @@
+collision_symbol: PAI
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: SERPINB2
+  ENSG_ID: [ENSG00000197632]
+  source: [NCBI Info]
+  Chromosome: [18q21.33-q22.1]
+  NCBI Gene ID: [5055.0]
+  OMIM_ID: ['173390']
+  UniProt_ID: [P05120]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: SERPINE1
+  ENSG_ID: [ENSG00000106366]
+  source: [NCBI Info]
+  Chromosome: [7q22.1]
+  NCBI Gene ID: [5054.0]
+  OMIM_ID: ['173360']
+  UniProt_ID: [P05121]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

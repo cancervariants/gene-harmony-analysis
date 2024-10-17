@@ -1,0 +1,26 @@
+collision_symbol: TTY9
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: TTTY9A
+  ENSG_ID: [ENSG00000290716]
+  source: [NCBI Info]
+  Chromosome: [.nan]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TTTY9B
+  ENSG_ID: [ENSG00000131007]
+  source: [NCBI Info]
+  Chromosome: [Yq11.222]
+  NCBI Gene ID: [425057.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

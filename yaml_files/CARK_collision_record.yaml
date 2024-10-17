@@ -1,0 +1,26 @@
+collision_symbol: CARK
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FPGT-TNNI3K
+  ENSG_ID: [ENSG00000259030]
+  source: [NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [100526835.0]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TNNI3K
+  ENSG_ID: [ENSG00000116783]
+  source: [NCBI Info]
+  Chromosome: [1p31.1]
+  NCBI Gene ID: [51086.0]
+  OMIM_ID: ['613932']
+  UniProt_ID: [Q59H18]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

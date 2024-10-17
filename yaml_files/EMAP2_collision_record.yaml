@@ -1,0 +1,26 @@
+collision_symbol: EMAP2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: AIMP1
+  ENSG_ID: [ENSG00000164022]
+  source: [NCBI Info]
+  Chromosome: [4q24]
+  NCBI Gene ID: [9255.0]
+  OMIM_ID: ['603605']
+  UniProt_ID: [Q12904]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: EML2
+  ENSG_ID: [ENSG00000125746]
+  source: [NCBI Info]
+  Chromosome: [19q13.32]
+  NCBI Gene ID: [24139.0]
+  OMIM_ID: ['617494']
+  UniProt_ID: [O95834]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

@@ -1,0 +1,26 @@
+collision_symbol: FOXD4L2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: FOXD4L3
+  ENSG_ID: [ENSG00000187559]
+  source: [NCBI Info]
+  Chromosome: [9q21.11]
+  NCBI Gene ID: [286380.0]
+  OMIM_ID: ['611086']
+  UniProt_ID: [Q6VB84]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: FOXD4L4
+  ENSG_ID: [ENSG00000184659]
+  source: [NCBI Info]
+  Chromosome: [9q21.11]
+  NCBI Gene ID: [349334.0]
+  OMIM_ID: ['611085']
+  UniProt_ID: [Q8WXT5]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

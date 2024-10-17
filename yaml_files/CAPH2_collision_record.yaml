@@ -1,0 +1,37 @@
+collision_symbol: CAPH2
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: NCAPH2
+  ENSG_ID: [ENSG00000025770]
+  source: [NCBI Info]
+  Chromosome: [22q13.33]
+  NCBI Gene ID: [29781.0]
+  OMIM_ID: ['611230']
+  UniProt_ID: [Q6IBW4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: PRSS27
+  ENSG_ID: [ENSG00000172382]
+  source: [NCBI Info]
+  Chromosome: [16p13.3]
+  NCBI Gene ID: [83886.0]
+  OMIM_ID: ['608018']
+  UniProt_ID: [Q9BQR3]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMPRSS4
+  ENSG_ID: [ENSG00000137648]
+  source: [NCBI Info]
+  Chromosome: [11q23.3]
+  NCBI Gene ID: [56649.0]
+  OMIM_ID: ['606565']
+  UniProt_ID: [Q9NRS4]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

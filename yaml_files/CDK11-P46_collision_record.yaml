@@ -1,0 +1,26 @@
+collision_symbol: CDK11-p46
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: CDK11A
+  ENSG_ID: [ENSG00000008128]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [728642.0]
+  OMIM_ID: ['116951']
+  UniProt_ID: [Q9UQ88]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: CDK11B
+  ENSG_ID: [ENSG00000248333]
+  source: [HGNC, NCBI Info]
+  Chromosome: [1p36.33]
+  NCBI Gene ID: [984.0]
+  OMIM_ID: ['176873']
+  UniProt_ID: [P21127]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']

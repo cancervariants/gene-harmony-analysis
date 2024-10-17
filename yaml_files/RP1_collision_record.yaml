@@ -1,0 +1,37 @@
+collision_symbol: RP1
+collision_class: ''
+collision_type: ''
+collision_group:
+- gene_symbol: MAPRE2
+  ENSG_ID: [ENSG00000166974]
+  source: [NCBI Info, ENSG]
+  Chromosome: [18q12.1-q12.2]
+  NCBI Gene ID: [10982.0]
+  OMIM_ID: ['605789']
+  UniProt_ID: [Q15555]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: STK19
+  ENSG_ID: [ENSG00000204344]
+  source: [HGNC, NCBI Info, ENSG]
+  Chromosome: [6p21.33]
+  NCBI Gene ID: [8859.0]
+  OMIM_ID: ['604977']
+  UniProt_ID: [P49842]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
+- gene_symbol: TMEM184B-AS1
+  ENSG_ID: [ENSG00000235246]
+  source: [HGNC, NCBI Info]
+  Chromosome: [22q13.1]
+  NCBI Gene ID: [.nan]
+  OMIM_ID: [.nan]
+  UniProt_ID: [.nan]
+  collision_gene_relationship:
+    collision_acronym_expansion: ['']
+    collision_association: ['']
+    collision_source: ['']
