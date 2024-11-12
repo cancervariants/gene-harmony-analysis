@@ -17,7 +17,7 @@ The Ensembl database, which has 40,353 genes, was found to have alias-primary co
 
 The NCBI database, which had the largest number of genes- 75,346, had 1,712 (2.27%) and 5,670 (7.53%) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
 
-The [total_alias_overlap](./total_alias_overlap.ipynb) Jupyter notebook shows the analysis to get these values (the notebook will be condensed and made more efficient)
+The [alias-primary_collision_analysis](./alias-primary_collisions/alias-primary_collision_analysis.ipynb) and [alias-alias_collision_analysis](./alias-alias_collisions/alias-alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
 
 ![collision_graphic](https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd)
 
@@ -25,15 +25,11 @@ The [total_alias_overlap](./total_alias_overlap.ipynb) Jupyter notebook shows th
 
 The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
 
-This curated collection of collision data will be a foundation for disambiguating gene symbols.
+This curated collection of alias data will be a foundation for disambiguating gene symbols.
 
 # How can you help?
 
 Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
-
-1. In the collision records folders, there are collision records that are completed (but can always be updated) and a [blank sample record](./sample_collision_record.yaml) to use as a template.
-2. The [contributing documentation](./CONTRIBUTING.md) explains the different features that are included in a collision record. 
-3. To propose an update or make a new collision record create a personal fork to the repo. New collision records should be YAML files named after the collision in either the [alias-alias](./alias-alias_collision_records) or [alias-primary](./alias-primary_collision_records) collision records folders. Once created, the review process can be started with the creation of a pull request. 
 
 ## Contact Information
 
