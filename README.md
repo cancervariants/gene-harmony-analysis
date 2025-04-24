@@ -28,43 +28,30 @@ The difficulties associated with resolving ambiguity and ensuring accurate under
 This curated collection of alias data will be a foundation for disambiguating gene symbols.
 
 # Notebook Dependencies
-|     | Name of Notebook                                                                      | Prerequisite Notebook(s) | Input files                                                                                                                                     |
-| --- | ------------------------------------------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.  | alias_primary_collision_analysis                                                      | none                     | ensg_biomart_gene20240626.txt
-
-hgnc_biomart_gene20240626.txt
-
-Homo_sapiens.gene_info20240627                                                    |
-| 2.  | alias_alias_collision_analysis                                                        | 1                        | none                                                                                                                                            |
-| 3.  | alias_alias_collision_distribution_analysis                                           | 2, 1                     | none                                                                                                                                            |
-| 4.  | symbol_capture_generation
-
-<br>
-
-note: this notebook takes longer than an hour to run | 1                        | ensg_mart_export_dros_murin_ortho.txt
-
-ortholog_set_1_df.txt
-
-…
-
-ortholog_set_10_df.txt                                                         |
-| 5.  | symbol_capture_analysis                                                               | 4, 1                     | none                                                                                                                                            |
-| 6.  | sqlite_symbol_capture_transformation                                                  | 4, 1                     | ensg_biomart_gene20240626.txt
-
-hgnc_biomart_gene20240626.txt
-
-Homo_sapiens.gene_info20240627
-
-ortholog_set_1_df.txt
-
-… 
-
-ortholog_set_10_df.txt |
-| 7.  | ambiguous_symbol_distribution_analysis                                                | 2, 1                     | none                                                                                                                                            |
-| 8.  | concordance_via_networkx_analysis                                                     | 6, 4, 1                  | none                                                                                                                                            |
-| 9.  | concordance_via_upsetplot_analysis                                                    | 6, 4, 1                  | none                                                                                                                                            |
-| 10. | dgidb_gene_content_analysis                                                           | 2, 1                     | dgidb_genes_JUNE.tsv                                                                                                                            |
-| 11. | dgidb_query_analysis                                                                  | 10, 2, 1                 | log_data.xlsx                                                                                                                                   |
+   |Name of Notebook                           |Prerequisite Notebook(s)|Input files                          
+---|-------------------------------------------|------------------------|-------------------------------------
+1. |alias_primary_collision_analysis           |none                    |ensg_biomart_gene20240626.txt        
+   |                                           |                        |hgnc_biomart_gene20240626.txt        
+   |                                           |                        |Homo_sapiens.gene_info20240627       
+2. |alias_alias_collision_analysis             |1                       |none                                 
+3. |alias_alias_collision_distribution_analysis|2, 1                    |none                                 
+4. |symbol_capture_generation                  |1                       |ensg_mart_export_dros_murin_ortho.txt
+   |                                           |                        |ortholog_set_1_df.txt                
+   |                                           |                        |…                                    
+   |                                           |                        |ortholog_set_10_df.txt               
+5. |symbol_capture_analysis                    |4, 1                    |none                                 
+6. |sqlite_symbol_capture_transformation       |4, 1                    |ensg_biomart_gene20240626.txt        
+   |                                           |                        |hgnc_biomart_gene20240626.txt        
+   |                                           |                        |Homo_sapiens.gene_info20240627       
+   |                                           |                        |ortholog_set_1_df.txt                
+   |                                           |                        |…                                    
+   |                                           |                        |ortholog_set_10_df.txt               
+7. |ambiguous_symbol_distribution_analysis     |2, 1                    |none                                 
+8. |concordance_via_networkx_analysis          |6, 4, 1                 |none                                 
+9. |concordance_via_upsetplot_analysis         |6, 4, 1                 |none                                 
+10.|dgidb_gene_content_analysis                |2, 1                    |dgidb_genes_JUNE.tsv                 
+11.|dgidb_query_analysis                       |10, 2, 1                |log_data.xlsx                        
+   |notebook 4 takes longer than an hour to run|                        |                                     
 
 # How can you help?
 
