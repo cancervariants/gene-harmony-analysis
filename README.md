@@ -28,14 +28,14 @@ The difficulties associated with resolving ambiguity and ensuring accurate under
 This curated collection of alias data will be a foundation for disambiguating gene symbols.
 
 # Notebook Dependencies
-|   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            |   |
+|   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            | Notes  |
 |---|---------------------------------------------|--------------------------|----------------------------------------|---|
 | 1 | alias_primary_collision_analysis            | none                     | ensg_biomart_gene20240626.txt          |   |
 |   |                                             |                          | hgnc_biomart_gene20240626.txt          |   |
 |   |                                             |                          | Homo_sapiens.gene_info20240627         |   |
 | 2 | alias_alias_collision_analysis              | 1                        | none                                   |   |
 | 3 | alias_alias_collision_distribution_analysis | 2, 1                     | none                                   |   |
-| 4 | symbol_capture_generation                   | 1                        | ensg_mart_export_dros_murin_ortho.txt  |   |
+| 4 | symbol_capture_generation                   | 1                        | ensg_mart_export_dros_murin_ortho.txt  | Notebook 4 takes longer than an hour to run  |
 |   |                                             |                          | ortholog_set_1_df.txt                  |   |
 |   |                                             |                          | …                                      |   |
 |   |                                             |                          | ortholog_set_10_df.txt                 |   |
