@@ -52,8 +52,6 @@ This curated collection of alias data will be a foundation for disambiguating ge
 | 10 | dgidb_gene_content_analysis      | 2, 1                     | dgidb_genes_JUNE.tsv                                   |   |
 | 11 | dgidb_query_analysis           | 10, 2, 1                  | log_data.xlsx                                    |   |      
 
-Notebook 4 takes longer than an hour to run
-
 # How can you help?
 
 Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
