@@ -35,7 +35,7 @@ This curated collection of alias data will be a foundation for disambiguating ge
 |   |                                             |                          | Homo_sapiens.gene_info20240627         |   |
 | 2 | alias_alias_collision_analysis              | 1                        | none                                   |   |
 | 3 | alias_alias_collision_distribution_analysis | 2, 1                     | none                                   |   |
-| 4 | symbol_capture_generation                   | 1                        | ensg_mart_export_dros_murin_ortho.txt  | Notebook 4 takes longer than an hour to run  |
+| 4 | symbol_capture_generation                   | 1                        | ensg_mart_export_dros_murin_ortho.txt  | takes longer than an hour to run  |
 |   |                                             |                          | ortholog_set_1_df.txt                  |   |
 |   |                                             |                          | …                                      |   |
 |   |                                             |                          | ortholog_set_10_df.txt                 |   |
