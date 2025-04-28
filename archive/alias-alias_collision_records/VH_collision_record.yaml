@@ -1,0 +1,400 @@
+collision_symbol: 'VH'
+collision_class: "Convergent Acronym", "Gene Family", "Protein Domain", "Expired Gene Symbol", "Protein Product", "Protein Product Weight"
+collision_type: "alias-alias"
+collision_group:
+  - gene_symbol: 'IGHM'
+    ensg_id: 'ENSG00000211899'
+    GRCh38_gene_location: 'chr14:105,851,705-105,856,218'
+    gene_size: '4,514'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Variable Heavy chain locus genes'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '6425189'
+          - PMID: '3122216'
+  - gene_symbol: 'IGHV1-24'
+    ensg_id: 'ENSG00000211950'
+    GRCh38_gene_location: 'chr14:106,276,546-106,277,043'
+    gene_size: '498'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV1-45'
+    ensg_id: 'ENSG00000211961'
+    GRCh38_gene_location: 'chr14:106,506,996-106,507,491'
+    gene_size: '496'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3396540'
+  - gene_symbol: 'IGHV1-58'
+    ensg_id: 'ENSG00000211968'
+    GRCh38_gene_location: 'chr14:106,622,357-106,622,855'
+    gene_size: '499'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3097326'
+  - gene_symbol: 'IGHV2-26'
+    ensg_id: 'ENSG00000211951'
+    GRCh38_gene_location: 'chr14:106,301,395-106,301,862'
+    gene_size: '468'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV2-5'
+    ensg_id: 'ENSG00000211937'
+    GRCh38_gene_location: 'chr14:106,037,902-106,038,365'
+    gene_size: '464'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '6780622'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV2-70'
+    ensg_id: 'ENSG00000274576'
+    GRCh38_gene_location: 'chr14:106,770,577-106,771,020'
+    gene_size: '444'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '6089186'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-11'
+    ensg_id: 'ENSG00000211941'
+    GRCh38_gene_location: 'chr14:106,116,635-106,117,204'
+    gene_size: '570'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-15'
+    ensg_id: 'ENSG00000211943'
+    GRCh38_gene_location: 'chr14:106,153,622-106,154,163'
+    gene_size: '542'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3396540'
+  - gene_symbol: 'IGHV3-16'
+    ensg_id: 'ENSG00000211944'
+    GRCh38_gene_location: 'chr14:106,165,203-106,165,730'
+    gene_size: '528'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-20'
+    ensg_id: 'ENSG00000211946'
+    GRCh38_gene_location: 'chr14:106,210,936-106,211,453'
+    gene_size: '518'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '8490662'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-21'
+    ensg_id: 'ENSG00000211947'
+    GRCh38_gene_location: 'chr14:106,235,062-106,235,594'
+    gene_size: '533'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '1404388'
+  - gene_symbol: 'IGHV3-30'
+    ensg_id: 'ENSG00000270550'
+    GRCh38_gene_location: 'chr14:106,335,080-106,335,613'
+    gene_size: '534'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '6774332'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-33'
+    ensg_id: 'ENSG00000211955'
+    GRCh38_gene_location: 'chr14:106,359,791-106,360,324'
+    gene_size: '534'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '420800'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-35'
+    ensg_id: 'ENSG00000211957'
+    GRCh38_gene_location: 'chr14:106,389,390-106,389,858'
+    gene_size: '469'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-38'
+    ensg_id: 'ENSG00000211958'
+    GRCh38_gene_location: 'chr14:106,410,493-106,411,021'
+    gene_size: '529'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-43'
+    ensg_id: 'ENSG00000232216'
+    GRCh38_gene_location: 'chr14:106,470,263-106,470,800'
+    gene_size: '538'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-48'
+    ensg_id: 'ENSG00000211964'
+    GRCh38_gene_location: 'chr14:106,537,810-106,538,344'
+    gene_size: '535'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '6410398'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-49'
+    ensg_id: 'ENSG00000211965'
+    GRCh38_gene_location: 'chr14:106,556,936-106,557,477'
+    gene_size: '542'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-53'
+    ensg_id: 'ENSG00000211967'
+    GRCh38_gene_location: 'chr14:106,592,676-106,593,347'
+    gene_size: '672'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-64'
+    ensg_id: 'ENSG00000223648'
+    GRCh38_gene_location: 'chr14:106,657,723-106,658,258'
+    gene_size: '536'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV3-66'
+    ensg_id: 'ENSG00000211972'
+    GRCh38_gene_location: 'chr14:106,675,015-106,675,544'
+    gene_size: '530'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3396540'
+  - gene_symbol: 'IGHV3-7'
+    ensg_id: 'ENSG00000211938'
+    GRCh38_gene_location: 'chr14:106,062,149-106,062,683'
+    gene_size: '535'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '7737190'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV3-72'
+    ensg_id: 'ENSG00000225698'
+    GRCh38_gene_location: 'chr14:106,790,692-106,791,233'
+    gene_size: '542'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3396540'
+  - gene_symbol: 'IGHV3-73'
+    ensg_id: 'ENSG00000211976'
+    GRCh38_gene_location: 'chr14:106,802,692-106,803,233'
+    gene_size: '542'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '7920635'
+  - gene_symbol: 'IGHV3-74'
+    ensg_id: 'ENSG00000224650'
+    GRCh38_gene_location: 'chr14:106,810,440-106,811,131'
+    gene_size: '692'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '1404388'
+  - gene_symbol: 'IGHV3-9'
+    ensg_id: 'NAN'
+    GRCh38_gene_location: 'chr14(KI270726.1):25,996-26,561'
+    gene_size: '566'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV4-28'
+    ensg_id: 'ENSG00000211952'
+    GRCh38_gene_location: 'chr14:106,324,254-106,324,760'
+    gene_size: '507'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3116265'
+  - gene_symbol: 'IGHV4-34'
+    ensg_id: 'ENSG00000211956'
+    GRCh38_gene_location: 'chr14:106,373,661-106,374,145'
+    gene_size: '485'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '9419211'
+  - gene_symbol: 'IGHV4-39'
+    ensg_id: 'ENSG00000211959'
+    GRCh38_gene_location: 'chr14:106,421,709-106,422,218'
+    gene_size: '510'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8454861'
+  - gene_symbol: 'IGHV4-4'
+    ensg_id: 'ENSG00000276775'
+    GRCh38_gene_location: 'chr14:106,011,922-106,012,420'
+    gene_size: '499'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '1935893'
+  - gene_symbol: 'IGHV4-59'
+    ensg_id: 'ENSG00000224373'
+    GRCh38_gene_location: 'chr14:106,627,249-106,627,825'
+    gene_size: '577'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '407927'
+          - PMID: '9841928'
+  - gene_symbol: 'IGHV4-61'
+    ensg_id: 'ENSG00000211970'
+    GRCh38_gene_location: 'chr14:106,639,119-106,639,657'
+    gene_size: '539'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3097326'
+  - gene_symbol: 'IGHV5-51'
+    ensg_id: 'ENSG00000211966'
+    GRCh38_gene_location: 'chr14:106,578,742-106,579,236'
+    gene_size: '495'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '8490662'
+  - gene_symbol: 'IGHV6-1'
+    ensg_id: 'ENSG00000211933'
+    GRCh38_gene_location: 'chr14:105,939,754-105,940,253'
+    gene_size: '500'
+    cytogenetic_location: '14q32.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'immunoglobulin Heavy chain Variable region'
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: '9841928'
+          - PMID: '3138112'
+  - gene_symbol: 'SLC7A4'
+    ensg_id: 'ENSG00000099960'
+    GRCh38_gene_location: 'chr22:21,028,718-21,032,840'
+    gene_size: '4,123'
+    cytogenetic_location: '22q11.21'
+    collision_gene_relationship:
+      - collision_acronym_expansion: ''
+        collision_association: "Gene Location"
+        collision_source:
+          - PMID: ''
+          - PMID: ''

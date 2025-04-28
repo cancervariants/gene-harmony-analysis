@@ -1,0 +1,65 @@
+
+collision_symbol: 'MYM'
+collision_class: 'Protein Domain'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'ZMYM1'
+    ensg_id: 'ENSG00000197056'
+    GRCh38_gene_location: 'chr1:35,032,172-35,118,818'
+    gene_size: '86,647'
+    cytogenetic_location: '1p34.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'
+  - gene_symbol: 'ZMYM2'
+    ensg_id: 'ENSG00000121741'
+    GRCh38_gene_location: 'chr13:19,863,840-20,091,829'
+    gene_size: '227,990'
+    cytogenetic_location: '13q12.11'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'
+  - gene_symbol: 'ZMYM3'
+    ensg_id: 'ENSG00000147130'
+    GRCh38_gene_location: 'chrX:71,239,624-71,255,290'
+    gene_size: '15,667'
+    cytogenetic_location: 'Xq13.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'
+  - gene_symbol: 'ZMYM4'
+    ensg_id: 'ENSG00000146463'
+    GRCh38_gene_location: 'chr1:35,268,709-35,422,058'
+    gene_size: '153,350'
+    cytogenetic_location: '1p34.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'
+  - gene_symbol: 'ZMYM5'
+    ensg_id: 'ENSG00000132950'
+    GRCh38_gene_location: 'chr13:19,823,482-19,863,649'
+    gene_size: '40,168'
+    cytogenetic_location: '13q12.11'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'
+  - gene_symbol: 'ZMYM6'
+    ensg_id: 'ENSG00000163867'
+    GRCh38_gene_location: 'chr1:34,986,165-35,031,945'
+    gene_size: '45,781'
+    cytogenetic_location: '1p34.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'MYeloproliferative syndrome and Mental retardation'
+        collision_association: 'Disease'
+        collision_source:
+          - PMID: '4136804'

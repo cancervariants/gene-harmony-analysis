@@ -1,0 +1,30 @@
+
+collision_symbol: 'ALP1'
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'ASRGL1'
+    ensg_id: 'ENSG00000162174'
+    GRCh38_gene_location: 'chr11:62,337,448-62,401,431'
+    gene_size: '63,984'
+    cytogenetic_location: '11q12.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'ALkaline Phosphatase'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '7602772'
+          - PMID: '8102225'
+      - collision_acronym_expansion: 'Asparaginase-Like Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '11984834'
+  - gene_symbol: 'ASZ1'
+    ensg_id: 'ENSG00000154438'
+    GRCh38_gene_location: 'chr7:117,363,222-117,428,123'
+    gene_size: '64,902'
+    cytogenetic_location: '7q31.2'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Ankyrin-Like Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: ''

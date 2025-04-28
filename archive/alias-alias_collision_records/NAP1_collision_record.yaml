@@ -1,0 +1,114 @@
+
+collision_symbol: 'NAP1'
+collision_class: 'Convergent Acronym'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'ACOT8'
+    ensg_id: 'ENSG00000101473'
+    GRCh38_gene_location: 'chr20:45,841,721-45,857,405'
+    gene_size: '15,685'
+    cytogenetic_location: '20q13.12'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Nef (Lentivirus Myristoylated Factor) Associated Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: ''
+  - gene_symbol: 'AZI2'
+    ensg_id: 'ENSG00000163512'
+    GRCh38_gene_location: 'chr3:28,315,003-28,349,050'
+    gene_size: '34,048'
+    cytogenetic_location: '3p24.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'NF-Kappa-B-Activating Kinase-Associated Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '15611223'
+          - PMID: '14560022'
+  - gene_symbol: 'CXCL8'
+    ensg_id: 'ENSG00000169429'
+    GRCh38_gene_location: 'chr4:73,740,519-73,743,716'
+    gene_size: '3,198'
+    cytogenetic_location: '4q13.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Neutrophil-Activating Peptide 1'
+        collision_association: 'Function'
+        collision_source:
+          - PMID: '17196571'
+      - collision_acronym_expansion: 'NF-κB-Activating kinase-associated Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '29290284'
+      - collision_acronym_expansion: 'Nucleosome Assembly Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '19339032'
+      - collision_acronym_expansion: 'Nck-Associated Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '18644894'
+  - gene_symbol: 'NAA25'
+    ensg_id: 'ENSG00000111300'
+    GRCh38_gene_location: 'chr12:112,026,689-112,108,796'
+    gene_size: '82,108'
+    cytogenetic_location: '12q24.13'
+    collision_gene_relationship:
+      - collision_acronym_expansion: ''
+        collision_association: ''
+        collision_source:
+          - PMID: ''
+  - gene_symbol: 'NAP1L1'
+    ensg_id: 'ENSG00000187109'
+    GRCh38_gene_location: 'chr12:76,036,585-76,084,735'
+    gene_size: '48,151'
+    cytogenetic_location: '12q21.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Nucleosome Assembly Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '8297347'
+          - PMID: '20002496'
+  - gene_symbol: 'NAPSA'
+    ensg_id: 'ENSG00000131400'
+    GRCh38_gene_location: 'chr19:50,358,472-50,365,830'
+    gene_size: '7,359'
+    cytogenetic_location: '19q13.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Nck-Associated Protein'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '15048123'
+  - gene_symbol: 'NCKAP1'
+    ensg_id: 'ENSG00000061676'
+    GRCh38_gene_location: 'chr2:182,909,115-183,038,858'
+    gene_size: '129,744'
+    cytogenetic_location: '2q32.1'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Nck-Associated Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '30867003'
+          - PMID: '9148763'
+      - collision_acronym_expansion: 'NAK-associated protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '14560022'
+  - gene_symbol: 'TAB3'
+    ensg_id: 'ENSG00000157625'
+    GRCh38_gene_location: 'chrX:30,827,442-30,975,084'
+    gene_size: '147,643'
+    cytogenetic_location: 'Xp21.2'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'NF-Kappa-B-Activating Protein 1'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: ''
+  - gene_symbol: 'TRMO'
+    ensg_id: 'ENSG00000136932'
+    GRCh38_gene_location: 'chr9:97,896,855-97,922,500'
+    gene_size: '25,646'
+    cytogenetic_location: '9q22.33'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Nef-Associated Protein 1 '
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: ''

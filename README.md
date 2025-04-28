@@ -17,7 +17,7 @@ The Ensembl database, which has 40,353 genes, was found to have alias-primary co
 
 The NCBI database, which had the largest number of genes- 75,346, had 1,712 (2.27%) and 5,670 (7.53%) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
 
-The [total_alias_overlap](./total_alias_overlap.ipynb) Jupyter notebook shows the analysis to get these values (the notebook will be condensed and made more efficient)
+The [alias-primary_collision_analysis](./alias-primary_collisions/alias-primary_collision_analysis.ipynb) and [alias-alias_collision_analysis](./alias-alias_collisions/alias-alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
 
 ![collision_graphic](https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd)
 
@@ -25,15 +25,36 @@ The [total_alias_overlap](./total_alias_overlap.ipynb) Jupyter notebook shows th
 
 The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
 
-This curated collection of collision data will be a foundation for disambiguating gene symbols.
+This curated collection of alias data will be a foundation for disambiguating gene symbols.
+
+# Notebook Dependencies
+|   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            | Notes  |
+|---|---------------------------------------------|--------------------------|----------------------------------------|---|
+| 1 | alias_primary_collision_analysis            | none                     | ensg_biomart_gene20240626.txt          |   |
+|   |                                             |                          | hgnc_biomart_gene20240626.txt          |   |
+|   |                                             |                          | Homo_sapiens.gene_info20240627         |   |
+| 2 | alias_alias_collision_analysis              | 1                        | none                                   |   |
+| 3 | alias_alias_collision_distribution_analysis | 2, 1                     | none                                   |   |
+| 4 | symbol_capture_generation                   | 1                        | ensg_mart_export_dros_murin_ortho.txt  | takes longer than an hour to run  |
+|   |                                             |                          | ortholog_set_1_df.txt                  |   |
+|   |                                             |                          | …                                      |   |
+|   |                                             |                          | ortholog_set_10_df.txt                 |   |
+| 5 | symbol_capture_analysis                     | 4, 1                     | none                                   |   |
+| 6 | sqlite_symbol_capture_transformation        | 4, 1                     | ensg_biomart_gene20240626.txt          |   |
+|   |                                             |                          | hgnc_biomart_gene20240626.txt          |   |
+|   |                                             |                          | Homo_sapiens.gene_info20240627         |   |
+|   |                                             |                          | ortholog_set_1_df.txt                  |   |
+|   |                                             |                          | …                                      |   |
+|   |                                             |                          | ortholog_set_10_df.txt                 |   |
+| 7 | ambiguous_symbol_distribution_analysis      | 2, 1                     | none                                   |   |
+| 8 | concordance_via_networkx_analysis           | 6, 4, 1                  | none                                   |   |
+| 9 | concordance_via_upsetplot_analysis          | 6, 4, 1                  | none                                   |   |
+| 10 | dgidb_gene_content_analysis      | 2, 1                     | dgidb_genes_JUNE.tsv                                   |   |
+| 11 | dgidb_query_analysis           | 10, 2, 1                  | log_data.xlsx                                    |   |      
 
 # How can you help?
 
 Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
-
-1. In the collision records folders, there are collision records that are completed (but can always be updated) and a [blank sample record](./sample_collision_record.yaml) to use as a template.
-2. The [contributing documentation](./CONTRIBUTING.md) explains the different features that are included in a collision record. 
-3. To propose an update or make a new collision record create a personal fork to the repo. New collision records should be YAML files named after the collision in either the [alias-alias](./alias-alias_collision_records) or [alias-primary](./alias-primary_collision_records) collision records folders. Once created, the review process can be started with the creation of a pull request. 
 
 ## Contact Information
 

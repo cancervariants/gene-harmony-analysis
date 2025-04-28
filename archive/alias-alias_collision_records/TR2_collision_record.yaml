@@ -1,0 +1,60 @@
+
+collision_symbol: 'TR2'
+collision_class: 'Protein Product'
+collision_type: 'alias-alias'
+collision_group:
+  - gene_symbol: 'TAS1R2'
+    ensg_id: 'ENSG00000179002'
+    GRCh38_gene_location: 'chr1:18,839,599-18,859,660 '
+    gene_size: ''
+    cytogenetic_location: '1p36.13'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Taste Receptor type 1 member 2'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: ''
+          - PMID: ''
+  - gene_symbol: 'TXNRD3'
+    ensg_id: 'ENSG00000197763'
+    GRCh38_gene_location: 'chr3:126,571,779-126,655,124'
+    gene_size: '83,346'
+    cytogenetic_location: '3q21.3'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Thioredoxin Reductase 2'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '10455115'
+          - PMID: '17346242'
+  - gene_symbol: 'NR2C1'
+    ensg_id: 'ENSG00000120798'
+    GRCh38_gene_location: 'chr12:95,020,229-95,073,628'
+    gene_size: '53,400'
+    cytogenetic_location: '12q22'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'Testicular Receptor 2'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '17010934'
+          - PMID: '12361719'
+  - gene_symbol: 'DEPDC7'
+    ensg_id: 'ENSG00000121690'
+    GRCh38_gene_location: 'chr11:33,015,876-33,033,582'
+    gene_size: '17,707'
+    cytogenetic_location: '11p13'
+    collision_gene_relationship:
+      - collision_acronym_expansion: ''
+        collision_association: ''
+        collision_source:
+          - PMID: ''
+          - PMID: ''
+  - gene_symbol: 'TNFRSF14'
+    ensg_id: 'ENSG00000157873'
+    GRCh38_gene_location: 'chr1:2,554,234-2,565,382'
+    gene_size: '11,149'
+    cytogenetic_location: '1p36.32'
+    collision_gene_relationship:
+      - collision_acronym_expansion: 'TNF Receptor 2'
+        collision_association: 'Protein Product'
+        collision_source:
+          - PMID: '9162061'
+          - PMID: '15507617'
