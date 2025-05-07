@@ -39,7 +39,7 @@ This curated collection of alias data will be a foundation for disambiguating ge
 |   |                                             |                          | ortholog_set_1_df.txt                  |   |
 |   |                                             |                          | …                                      |   |
 |   |                                             |                          | ortholog_set_10_df.txt                 |   |
-| 5 | symbol_capture_analysis                     | 4, 1                     | none                                   |   |
+| 5 | symbol_capture_analysis                     | 4, 1                     | none                                   | one cell needs to run overnight  |
 | 6 | sqlite_symbol_capture_transformation        | 4, 1                     | ensg_biomart_gene20240626.txt          |   |
 |   |                                             |                          | hgnc_biomart_gene20240626.txt          |   |
 |   |                                             |                          | Homo_sapiens.gene_info20240627         |   |
