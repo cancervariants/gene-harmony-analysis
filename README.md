@@ -17,7 +17,7 @@ The Ensembl database, which has 40,353 genes, was found to have alias-primary co
 
 The NCBI database, which had the largest number of genes- 75,346, had 1,712 (2.27%) and 5,670 (7.53%) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
 
-The [alias-primary_collision_analysis](./alias-primary_collisions/alias-primary_collision_analysis.ipynb) and [alias-alias_collision_analysis](./alias-alias_collisions/alias-alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
+The [1_alias_primary_collision_analysis](./analysis/1_alias_primary_collision_analysis.ipynb) and [2_alias_alias_collision_analysis](./analysis/2_alias_alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
 
 ![collision_graphic](https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd)
 
