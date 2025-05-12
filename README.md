@@ -27,7 +27,7 @@ The difficulties associated with resolving ambiguity and ensuring accurate under
 
 This curated collection of gene-symbol relationship data will be a foundation for disambiguating gene symbols.
 
-![gene_symbol_relationship_graphic][def]
+![gene_symbol_relationship_graphic](https://github.com/user-attachments/assets/69d5afbb-cf4c-4917-960b-b4de27d3679c)
 
 # Notebook Dependencies
 |   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            | Notes  |
