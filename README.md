@@ -12,20 +12,22 @@ a) Alias-primary collisions, which are gene symbols that are used as a primary g
 
 b) Alias-alias collisions are gene symbols that represent an alias of multiple genes. The gene symbol VH is an alias for 35 genes in the NCBI database. 
 
-Out of the 43,164 genes in the HGNC database, 483 (1.12%) had alias-primary collisions and 2,084 (4.83%) had alias-alias collisions. 
-The Ensembl database, which has 40,353 genes, was found to have alias-primary collisions in 218 (0.54%) of genes and alias-alias collisions in 3,680 (9.12%) of genes. 
+Out of the 45,646 genes in the HGNC database, 1.40% (637) had alias-primary collisions and 6.82% (3,113) had alias-alias collisions. 
+The Ensembl database, which has 41,068 genes, was found to have alias-primary collisions in 1.65% (678) of genes and alias-alias collisions in 6.16% (2,530) of genes. 
 
-The NCBI database, which had the largest number of genes- 75,346, had 1,712 (2.27%) and 5,670 (7.53%) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
+The NCBI database, with 45,390 genes, had 3.72% (1,689) and 13.25% (6,013) of genes with alias-primary and alias-alias collisions respectively, illustrating the prevalence of ambiguity that challenges the aggregation of genomic knowledge. 
 
-The [1_alias_primary_collision_analysis](./analysis/1_alias_primary_collision_analysis.ipynb) and [2_alias_alias_collision_analysis](./analysis/2_alias_alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
+The [1_alias_primary_collision_analysis](./analysis/1_alias_primary_collision_analysis.ipynb) and [2_alias_alias_collision_analysis](./analysis/alias-alias_collision_analysis.ipynb) Jupyter notebooks show the analyses to get these values
 
-![collision_graphic](https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd)
+![collision_graphic][def]
 
 ## Purpose
 
 The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
 
-This curated collection of alias data will be a foundation for disambiguating gene symbols.
+This curated collection of gene-symbol relationship data will be a foundation for disambiguating gene symbols.
+
+![gene_symbol_relationship_graphic][def]
 
 # Notebook Dependencies
 |   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            | Notes  |
@@ -59,3 +61,6 @@ Contributing information on collisions that you come across will help collect da
 ## Contact Information
 
 For any feedback, questions, or conversation, please make an issue.
+
+
+[def]: https://github.com/cancervariants/gene-harmony-analysis/assets/109570522/91425d67-0884-4fbc-83ab-e7cfd8bd57bd
