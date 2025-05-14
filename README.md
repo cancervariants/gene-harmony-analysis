@@ -26,8 +26,11 @@ The [1_alias_primary_collision_analysis](./analysis/1_alias_primary_collision_an
 The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
 
 This curated collection of gene-symbol relationship data will be a foundation for disambiguating gene symbols.
-![gene_symbol_relationship_graphic](https://github.com/user-attachments/assets/feea1f43-77e6-4f71-9e23-c8353a808222)
+A gene concept with all of the gene symbols that represent it:
+![gene_symbol_relationship_graphicASPM](https://github.com/user-attachments/assets/1bd389e3-dd60-4690-a1f3-71bbe6e5868f)
 
+To resolve an amgiuous symbol, these relationships would provide the neccessary context:
+![gene_symbol_relationship_graphicASP](https://github.com/user-attachments/assets/c7af96c6-f12b-4b6a-aa16-774111f8c0b7)
 
 
 # Notebook Dependencies
@@ -53,8 +56,32 @@ This curated collection of gene-symbol relationship data will be a foundation fo
 | 8 | concordance_via_networkx_analysis           | 6, 4, 1                  | none                                   |   |
 | 9 | concordance_via_upsetplot_analysis          | 6, 4, 1                  | none                                   |   |
 | 10 | dgidb_gene_content_analysis      | 2, 1                     | dgidb_genes_JUNE.tsv                                   |   |
-| 11 | dgidb_query_analysis           | 10, 2, 1                  | log_data.xlsx                                    |   |      
+| 11 | dgidb_query_analysis           | 10, 2, 1                  | log_data.xlsx                                    |   |    
 
+# Notebook Contents
+**1_alias_primary_collision_analysis**
+- How many ambiguous symbols resulting from alias-primary collisions are in each database (xxxx_alias_primary_collision_set)
+- How many genes are involved in alias-primary collisions in each database
+- How many and which genes are involved in alias-primary collisions in all 3 databases (common_ap_collisions)
+- How many genes are involved in alias-primary collisions across all 3 databases
+
+**2_alias_alias_collision_analysis**
+- How many unique gene records are there in each database (xxxx_gene_id_set)
+- How many ambiguous symbols resulting from alias-alias collisions are in each database 
+
+**3_alias_alias_collision_distribution_analysis**
+- How many unique primary gene symbols are in each database (xxxx_gene_symbol_count)
+- How many primary symbols appear in all 3 databases (all_sources_unique_primary_symbol_count)
+- How many unique primary symbols are found between all 3 databases (bw_all_sources_unique_primary_symbol_count)
+- How many unique alias symbols there are per database and across all 3
+- How many alias symbols appear in all 3 databases
+- How many genes are involved in alias-alias collisions in each database
+- How many and which genes are involved in alias-primary collisions in all 3 databases (all_sources_aa_collision_genes)
+- How many genes are involved in alias-alias collisions across all 3 databases
+
+- Per each database: How many genes are the ambiguous gene symbols, resulting from alias-alias collisions, being shared between
+- How many gene concept to symbol relationships there are
+  
 # How can you help?
 
 Contributing information on collisions that you come across will help collect data on the collisions that would be most impactful to resolve as well as increasing the data available for developing resolution strategies for downstream tool development.
