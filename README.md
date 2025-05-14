@@ -26,8 +26,9 @@ The [1_alias_primary_collision_analysis](./analysis/1_alias_primary_collision_an
 The difficulties associated with resolving ambiguity and ensuring accurate understanding of gene symbols restrict the rate of clinical decision-making and contribute to confusion in gene knowledge aggregation. The gene nomenclature system would be most effective if it is unambiguous with a tool to take existing knowledgebase entries as inputs to resolve. 
 
 This curated collection of gene-symbol relationship data will be a foundation for disambiguating gene symbols.
+![gene_symbol_relationship_graphic](https://github.com/user-attachments/assets/feea1f43-77e6-4f71-9e23-c8353a808222)
 
-![gene_symbol_relationship_graphic](https://github.com/user-attachments/assets/69d5afbb-cf4c-4917-960b-b4de27d3679c)
+
 
 # Notebook Dependencies
 |   | Name of Notebook                            | Prerequisite Notebook(s) | Input files                            | Notes  |
