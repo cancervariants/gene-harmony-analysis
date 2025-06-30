@@ -1,0 +1,38 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+63221	Homo sapiens neanderthalensis	6775079	0	live	COX2		cytochrome c oxidase subunit II	cytochrome c oxidase subunit II		MT	NC_011137.1	7581	8264	plus	0		
+63221	Homo sapiens neanderthalensis	6775094	0	live	ND2		NADH dehydrogenase subunit 2	NADH dehydrogenase subunit 2		MT	NC_011137.1	4465	5506	plus	0		
+63221	Homo sapiens neanderthalensis	6775098	0	live	ND1		NADH dehydrogenase subunit 1	NADH dehydrogenase subunit 1		MT	NC_011137.1	3308	4258	plus	0		
+63221	Homo sapiens neanderthalensis	6775063	0	live	ND6		NADH dehydrogenase subunit 6	NADH dehydrogenase subunit 6		MT	NC_011137.1	14144	14668	minus	0		
+63221	Homo sapiens neanderthalensis	6775066	0	live	ND5		NADH dehydrogenase subunit 5	NADH dehydrogenase subunit 5		MT	NC_011137.1	12332	14143	plus	0		
+63221	Homo sapiens neanderthalensis	6775083	0	live	COX1		cytochrome c oxidase subunit I	cytochrome c oxidase subunit I		MT	NC_011137.1	5899	7440	plus	0		
+63221	Homo sapiens neanderthalensis	6775072	0	live	ND4		NADH dehydrogenase subunit 4	NADH dehydrogenase subunit 4		MT	NC_011137.1	10755	12132	plus	0		
+63221	Homo sapiens neanderthalensis	6775076	0	live	ND3		NADH dehydrogenase subunit 3	NADH dehydrogenase subunit 3		MT	NC_011137.1	10054	10399	plus	0		
+63221	Homo sapiens neanderthalensis	6775074	0	live	ATP6		ATP synthase F0 subunit 6	ATP synthase F0 subunit 6		MT	NC_011137.1	8522	9202	plus	0		
+63221	Homo sapiens neanderthalensis	6775071	0	live	ND4L		NADH dehydrogenase subunit 4L	NADH dehydrogenase subunit 4L		MT	NC_011137.1	10465	10761	plus	0		
+63221	Homo sapiens neanderthalensis	6775087	0	live	12S rRNA		12S ribosomal RNA			MT	NC_011137.1	644	1597	plus	0		
+63221	Homo sapiens neanderthalensis	6775077	0	live	ATP8		ATP synthase F0 subunit 8	ATP synthase F0 subunit 8		MT	NC_011137.1	8361	8567	plus	0		
+63221	Homo sapiens neanderthalensis	6775078	0	live	trnK		tRNA-Lys			MT	NC_011137.1	8290	8359	plus	0		
+63221	Homo sapiens neanderthalensis	6775065	0	live	CYTB		cytochrome b	cytochrome b		MT	NC_011137.1	14742	15882	plus	0		
+63221	Homo sapiens neanderthalensis	6775073	0	live	COX3		cytochrome c oxidase subunit III	cytochrome c oxidase subunit III		MT	NC_011137.1	9202	9985	plus	0		
+63221	Homo sapiens neanderthalensis	6775090	0	live	trnV		tRNA-Val			MT	NC_011137.1	1598	1666	plus	0		
+63221	Homo sapiens neanderthalensis	6775085	0	live	rrn16		16S ribosomal RNA			MT	NC_011137.1	1667	3224	plus	0		
+63221	Homo sapiens neanderthalensis	6775095	0	live	trnQ		tRNA-Gln			MT	NC_011137.1	4324	4395	minus	0		
+63221	Homo sapiens neanderthalensis	6775097	0	live	trnI		tRNA-Ile			MT	NC_011137.1	4258	4326	plus	0		
+63221	Homo sapiens neanderthalensis	6775067	0	live	trnL		tRNA-Leu			MT	NC_011137.1	12261	12331	plus	0		
+63221	Homo sapiens neanderthalensis	6775070	0	live	trnR		tRNA-Arg			MT	NC_011137.1	10400	10464	plus	0		
+63221	Homo sapiens neanderthalensis	6775064	0	live	trnE		tRNA-Glu			MT	NC_011137.1	14669	14737	minus	0		
+63221	Homo sapiens neanderthalensis	6775092	0	live	trnW		tRNA-Trp			MT	NC_011137.1	5507	5574	plus	0		
+63221	Homo sapiens neanderthalensis	6775084	0	live	trnC		tRNA-Cys			MT	NC_011137.1	5755	5821	plus	0		
+63221	Homo sapiens neanderthalensis	6775096	0	live	trnM		tRNA-Met			MT	NC_011137.1	4397	4464	plus	0		
+63221	Homo sapiens neanderthalensis	6775088	0	live	trnF		tRNA-Phe			MT	NC_011137.1	573	643	plus	0		
+63221	Homo sapiens neanderthalensis	6775091	0	live	trnN		tRNA-Asn			MT	NC_011137.1	5652	5724	minus	0		
+63221	Homo sapiens neanderthalensis	6775081	0	live	trnD		tRNA-Asp			MT	NC_011137.1	7513	7580	plus	0		
+63221	Homo sapiens neanderthalensis	6775075	0	live	trnG		tRNA-Gly			MT	NC_011137.1	9986	10053	plus	0		
+63221	Homo sapiens neanderthalensis	6775069	0	live	trnH		tRNA-His			MT	NC_011137.1	12133	12201	plus	0		
+63221	Homo sapiens neanderthalensis	6775062	0	live	trnT		tRNA-Thr			MT	NC_011137.1	15883	15948	plus	0		
+63221	Homo sapiens neanderthalensis	6775093	0	live	trnA		tRNA-Ala			MT	NC_011137.1	5582	5650	minus	0		
+63221	Homo sapiens neanderthalensis	6775089	0	live	trnP		tRNA-Pro			MT	NC_011137.1	15950	16018	minus	0		
+63221	Homo sapiens neanderthalensis	6775086	0	live	trnL		tRNA-Leu			MT	NC_011137.1	3225	3299	plus	0		
+63221	Homo sapiens neanderthalensis	6775082	0	live	trnY		tRNA-Tyr			MT	NC_011137.1	5821	5886	minus	0		
+63221	Homo sapiens neanderthalensis	6775080	0	live	trnS		tRNA-Ser			MT	NC_011137.1	7440	7511	minus	0		
+63221	Homo sapiens neanderthalensis	6775068	0	live	trnS		tRNA-Ser			MT	NC_011137.1	12202	12260	plus	0		

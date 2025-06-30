@@ -1,0 +1,37 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+741158	Homo sapiens subsp. 'Denisova'	8923218	0	live	COX1		cytochrome c oxidase subunit I	cytochrome c oxidase subunit I		MT	NC_013993.1	5906	7447	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923212	0	live	ND2		NADH dehydrogenase subunit 2	NADH dehydrogenase subunit 2		MT	NC_013993.1	4466	5507	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923211	0	live	ATP8		ATP synthase F0 subunit 8	ATP synthase F0 subunit 8		MT	NC_013993.1	8368	8574	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923210	0	live	ND5		NADH dehydrogenase subunit 5	NADH dehydrogenase subunit 5		MT	NC_013993.1	12339	14150	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923209	0	live	ND1		NADH dehydrogenase subunit 1	NADH dehydrogenase subunit 1		MT	NC_013993.1	3303	4258	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923206	0	live	ND3		NADH dehydrogenase subunit 3	NADH dehydrogenase subunit 3		MT	NC_013993.1	10061	10406	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923205	0	live	CYTB		cytochrome b	cytochrome b		MT	NC_013993.1	14749	15889	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923202	0	live	COX2		cytochrome c oxidase subunit II	cytochrome c oxidase subunit II		MT	NC_013993.1	7588	8271	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923201	0	live	ND4L		NADH dehydrogenase subunit 4L	NADH dehydrogenase subunit 4L		MT	NC_013993.1	10472	10768	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923198	0	live	ND6		NADH dehydrogenase subunit 6	NADH dehydrogenase subunit 6		MT	NC_013993.1	14151	14675	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923197	0	live	ND4		NADH dehydrogenase subunit 4	NADH dehydrogenase subunit 4		MT	NC_013993.1	10762	12139	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923188	0	live	ATP6		ATP synthase F0 subunit 6	ATP synthase F0 subunit 6		MT	NC_013993.1	8529	9209	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923187	0	live	COX3		cytochrome c oxidase subunit III	cytochrome c oxidase subunit III		MT	NC_013993.1	9209	9992	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923219	0	live	16S rRNA		l-rRNA			MT	NC_013993.1	1668	3225	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923213	0	live	12S rRNA		s-rRNA			MT	NC_013993.1	645	1598	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923217	0	live	trnA		tRNA-Ala			MT	NC_013993.1	5583	5651	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923216	0	live	trnP		tRNA-Pro			MT	NC_013993.1	15958	16025	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923215	0	live	trnD		tRNA-Asp			MT	NC_013993.1	7520	7587	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923214	0	live	trnL		tRNA-Leu			MT	NC_013993.1	12268	12338	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923208	0	live	trnQ		tRNA-Gln			MT	NC_013993.1	4325	4396	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923207	0	live	trnS		tRNA-Ser			MT	NC_013993.1	12209	12267	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923204	0	live	trnM		tRNA-Met			MT	NC_013993.1	4398	4465	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923203	0	live	trnY		tRNA-Tyr			MT	NC_013993.1	5822	5887	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923200	0	live	trnC		tRNA-Cys			MT	NC_013993.1	5757	5824	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923199	0	live	trnE		tRNA-Glu			MT	NC_013993.1	14676	14744	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923196	0	live	trnH		tRNA-His			MT	NC_013993.1	12140	12208	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923195	0	live	trnR		tRNA-Arg			MT	NC_013993.1	10407	10471	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923194	0	live	trnW		tRNA-Trp			MT	NC_013993.1	5508	5576	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923193	0	live	trnI		tRNA-Ile			MT	NC_013993.1	4259	4327	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923192	0	live	trnT		tRNA-Thr			MT	NC_013993.1	15890	15955	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923191	0	live	trnG		tRNA-Gly			MT	NC_013993.1	9993	10060	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923190	0	live	trnK		tRNA-Lys			MT	NC_013993.1	8297	8366	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923189	0	live	trnS		tRNA-Ser			MT	NC_013993.1	7448	7516	minus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923186	0	live	trnL		tRNA-Leu			MT	NC_013993.1	3226	3300	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923185	0	live	trnV		tRNA-Val			MT	NC_013993.1	1599	1667	plus	0		
+741158	Homo sapiens subsp. 'Denisova'	8923184	0	live	trnF		tRNA-Phe			MT	NC_013993.1	574	644	plus	0		
