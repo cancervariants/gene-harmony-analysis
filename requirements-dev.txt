@@ -49,6 +49,7 @@ matplotlib==3.10.1
 matplotlib-inline==0.1.7
 msgpack==1.1.0
 nbformat==5.10.4
+nbimporter==0.3.4
 ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.4.2

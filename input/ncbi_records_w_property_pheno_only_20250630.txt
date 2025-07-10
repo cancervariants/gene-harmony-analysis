@@ -1,0 +1,1171 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	6761	0	live	ST2		suppression of tumorigenicity 2		11p14.3-p12	11						185440	
+9606	Homo sapiens	7839	0	live	LEPQTL1	LSL	Leptin, serum levels of		2p21	2						601694	
+9606	Homo sapiens	100359403	0	live	PARK16		Parkinson disease 16 (susceptibility)		1q32	1						613164	
+9606	Homo sapiens	50941	0	live	IBD5		inflammatory bowel disease 5		5q31-q33	5						606348	
+9606	Homo sapiens	3478	0	live	IGES		immunoglobulin E concentration, serum		5q31.1	5						147061	
+9606	Homo sapiens	100188856	0	live	DEL22Q11.2	C22DDELS, C22DELq11.2	Chromosome 22q11.2 deletion syndrome, distal		22q11.2	22						611867	
+9606	Homo sapiens	2489	0	live	FSHMD1A	FMD, FSHD, FSHD1A, FSHMD	facioscapulohumeral muscular dystrophy 1A		4q35	4						158900	
+9606	Homo sapiens	7952	0	live	TNDM	DMTN, TNDM1	diabetes mellitus, transient neonatal			6							
+9606	Homo sapiens	574045	0	live	HNP1		Hypertensive nephropathy		9q31-q32	9						608026	
+9606	Homo sapiens	170534	0	live	PARK10	AAOPD	Parkinson disease 10 (susceptibility)	Parkinson disease, age at onset of	1p32	1						606852	
+9606	Homo sapiens	10547	0	live	PSORS4		psoriasis susceptibility 4		1q21	1						603935	
+9606	Homo sapiens	353125	0	live	HDLC3		High density lipoprotein cholesterol, low serum, 3		16q24.1	16						607687	
+9606	Homo sapiens	5177	0	live	PEE1	PEE, PIH, PREG1	preeclampsia/eclampsia 1	pregnancy-induced hypertension (pre-eclampsia, eclampsia, toxemia of pregnancy included)	4q25-qter	4						189800	
+9606	Homo sapiens	3378	0	live	IBD2		inflammatory bowel disease 2		12p13.2-q24.1	12						601458	
+9606	Homo sapiens	2112	0	live	ETM2	ETM	essential tremor 2		2p25-p22	2						602134	
+9606	Homo sapiens	4933	0	live	NYS2	NYSA	nystagmus 2, congenital autosomal dominant		6p12	6						164100	
+9606	Homo sapiens	7954	0	live	HBFQTL2	FCP, HPFH	hereditary persistence of fetal hemoglobin, heterocellular		6q22.3-q23.1	6						142470	
+9606	Homo sapiens	8173	0	live	CNSN		Carnosinemia (carnosinase)		18q21.3	18						212200	
+9606	Homo sapiens	2973	0	live	GTS		Gilles de la Tourette syndrome		11q23	11						137580	
+9606	Homo sapiens	3407	0	live	IDDM8		insulin dependent diabetes mellitus 8		6q27	6						600883	
+9606	Homo sapiens	2221	0	live	FCP1	FCP, FCPX, HBFQTL3	F-cell production 1		Xp22.2	X						305435	
+9606	Homo sapiens	60498	0	live	IGAN1	IGAN	IgA nephropathy		6q22-q23	6						161950	
+9606	Homo sapiens	10986	0	live	IGAD1		immunoglobulin A (IgA) deficiency susceptibility 1		6p21.3	6						137100	
+9606	Homo sapiens	3343	0	live	HTL	HLT, LEUT	high L-leucine transport	Leucine transport, high		20						151310	
+9606	Homo sapiens	6377	0	live	SCZD1		schizophrenia disorder 1	Schizophrenia susceptibility locus, chromosome 5-related	5q11.2-q13.3	5						181510	
+9606	Homo sapiens	8691	0	live	IDDM17		insulin dependent diabetes mellitus 17		10q25	10						603266	
+9606	Homo sapiens	6378	0	live	SCZD2		schizophrenia disorder 2	Schizophrenia susceptibility locus, chromosome 11-related	11q14-q21	11						603342	
+9606	Homo sapiens	171512	0	live	ADIPQTL3	CAQ14	Circulating adiponectin QTL on chromosome 14		14p11.2-q13	14						606771	
+9606	Homo sapiens	404720	0	live	HSCR5		Hirschsprung disease, susceptibility to, 5		9q31	9						600156	
+9606	Homo sapiens	7896	0	live	TS13		Temperature sensitivity complementation, ts13			4						187320	
+9606	Homo sapiens	7063	0	live	THM		thymoma									274230	
+9606	Homo sapiens	4658	0	live	MYP2		myopia 2 (high grade, autosomal dominant)	Myopia, high grade, autosomal dominant 1|pathologic myopia	18p11.31	18						160700	
+9606	Homo sapiens	30829	0	live	IBD3		inflammatory bowel disease 3		6p	6						604519	
+9606	Homo sapiens	9566	0	live	HPCX		hereditary prostate cancer, X-linked	Prostate cancer, hereditary, X-linked	Xq27-q28	X						300147	
+9606	Homo sapiens	1866	0	live	DYT7		dystonia 7, torsion (autosomal dominant)	Dystonia-7 (torsion dystonia, adult-onset, focal)	18p	18						602124	
+9606	Homo sapiens	10167	0	live	CFM1		cystic fibrosis modifier 1		19q13.2-q13.4	19						603855	
+9606	Homo sapiens	7834	0	live	PCAP	HPC2, HPC8	predisposing for prostate cancer		1q42.2-q43	1						602759	
+9606	Homo sapiens	63870	0	live	PSORS5		psoriasis susceptibility 5		3q21	3						604316	
+9606	Homo sapiens	3403	0	live	IDDM4		insulin dependent diabetes mellitus 4		11q13	11						600319	
+9606	Homo sapiens	57042	0	live	IBD7		inflammatory bowel disease 7		1p36	1						605225	
+9606	Homo sapiens	63944	0	live	SCZD10		schizophrenia disorder 10 (periodic catatonia)		15q15	15						605419	
+9606	Homo sapiens	3406	0	live	IDDM7		insulin dependent diabetes mellitus 7		2q31	2						600321	
+9606	Homo sapiens	406874	0	live	DYX8		dyslexia susceptibility 8		1p36-p34	1						608995	
+9606	Homo sapiens	404685	0	live	RTE1		repressor of telomerase expression 1									608045	
+9606	Homo sapiens	317782	0	live	CELIAC2	CD, GSE	celiac disease 2		5q31-q33	5						609754	
+9606	Homo sapiens	64851	0	live	AD6		Alzheimer disease 6		10q	10						605526	
+9606	Homo sapiens	57760	0	live	SPG16	SPG	spastic paraplegia 16 (complicated, X-linked recessive)		Xq11.2	X						300266	
+9606	Homo sapiens	8011	0	live	MROS	MRS	Melkersson-Rosenthal syndrome		9p11	9						155900	
+9606	Homo sapiens	6463	0	live	SHFM2	SHFD2, SHSF2	split hand/foot malformation (ectrodactyly) type 2	Split hand/foot malformation, type (ectrodactyly) 2	Xq26	X						313350	
+9606	Homo sapiens	1254	0	live	CMTX3		Charcot-Marie-Tooth neuropathy, X-linked 3 (dominant)		Xq26	X						302802	
+9606	Homo sapiens	603	0	live	BCL5		B cell CLL/lymphoma 5		17q22	17						151441	
+9606	Homo sapiens	50966	0	live	ECA1		epilepsy, childhood absence 1		8q24	8						600131	
+9606	Homo sapiens	8782	0	live	MYP3		myopia 3 (high grade, autosomal dominant)	Myopia, high grade, autosomal dominant 2	12q21-q23	12						603221	
+9606	Homo sapiens	408259	0	live	HPC3	HPC20	Prostate cancer, hereditary, 3		20q13	20						608656	
+9606	Homo sapiens	64695	0	live	SLEB3		systemic lupus erythematosus susceptibility 3		4p16-p15.2	4						605480	
+9606	Homo sapiens	8400	0	live	SCZD6		schizophrenia disorder 6	Schizophrenia susceptibility locus, chromosome 8p-related	8p21	8						603013	
+9606	Homo sapiens	102997063	0	live	DEL15Q11.2	C15DELq11.2	Chromosome 15q11.2 deletion syndrome		15q11.2	15						615656	
+9606	Homo sapiens	100188842	0	live	ATFB5		Atrial fibrillation, familial, 5		4q25	4						611494	
+9606	Homo sapiens	407973	0	live	SCA20	C11DUPq12, DUP11q12	spinocerebellar ataxia 20		11q12	11						608687	
+9606	Homo sapiens	8081	0	live	AD5		Alzheimer disease 5	Alzheimer disease, familial, type 5	12p11.23-q13.12	12						602096	
+9606	Homo sapiens	5072	0	live	PARK3		Parkinson disease 3 (autosomal dominant, Lewy body)	Parkinson disease (autosomal dominant, Lewy body) 3|Parkinson disease, dominant Lewy-body, 3	2p13	2						602404	
+9606	Homo sapiens	3414	0	live	IDDM15		insulin dependent diabetes mellitus 15		6q21	6						601666	
+9606	Homo sapiens	266790	0	live	HCA1	AH, HCA	Hypercalciuria, absorptive, 1		4q33-qter	4						607258	
+9606	Homo sapiens	2723	0	live	GLC1C		glaucoma 1, open angle, C		3q21-q24	3						601682	
+9606	Homo sapiens	100124696	0	live	TEC		transient erythroblastopenia of childhood		19q13.2	19						227050	
+9606	Homo sapiens	1705	0	live	DFNB13		deafness, autosomal recessive 13		7q34-q36	7						603098	
+9606	Homo sapiens	116833	0	live	ANIB1	AIB, AIB1	aneurysm, intracranial berry 1		7q11.2	7						105800	
+9606	Homo sapiens	317682	0	live	OTSC5		otosclerosis 5		3q22.1-q24	3						608787	
+9606	Homo sapiens	93999	0	live	OTSC2		otosclerosis 2		7q34-q36	7						605727	
+9606	Homo sapiens	53369	0	live	HDL3	HLN2	Huntington-like neurodegenerative disorder 2		4p15.3	4						604802	
+9606	Homo sapiens	3405	0	live	IDDM6		insulin dependent diabetes mellitus 6		18q21	18						601941	
+9606	Homo sapiens	257641	0	live	NPCA1	NPC1	Nasopharyngeal carcinoma 1		4p15.1-q12	4						607107	
+9606	Homo sapiens	3349	0	live	HTOR		5-hydroxytryptamine (serotonin) oxygenase regulator			21						143460	
+9606	Homo sapiens	63869	0	live	PSORS6		psoriasis susceptibility 6		19p13	19						605364	
+9606	Homo sapiens	6298	0	live	SAI1	MTS1, TFS1	suppression of anchorage independence 1	malignant transformation suppression-1|transformation suppressor 1	1pter-p22.1	1						154280	
+9606	Homo sapiens	3402	0	live	IDDM3		insulin dependent diabetes mellitus 3		15q26	15						600318	
+9606	Homo sapiens	3342	0	live	HTC2	CGH, CXINSq27.1, HCG	hypertrichosis 2 (generalized, congenital)	hypertrichosis 2 (generalised, congenital)	Xq27.1	X						307150	
+9606	Homo sapiens	1156	0	live	CKBE		creatine kinase, ectopic expression		14q32	14						123270	
+9606	Homo sapiens	100359401	0	live	MYP17	MYP4	myopia 17		7p15	7						608367	
+9606	Homo sapiens	100329167	0	live	AAA1	AAA	aortic aneurysm, familial abdominal 1		19q13	19						100070	
+9606	Homo sapiens	100240738	0	live	DUP22Q11.2		Chromosome 22q11.2 microduplication syndrome		22q11.2	22						608363	
+9606	Homo sapiens	791229	0	live	MACOM		macrophthalmia, colobomatous, with microcornea		2p23-p16	2						602499	
+9606	Homo sapiens	780916	0	live	GINGF3	GGF3, HGF3	gingival fibromatosis, hereditary, 3		2p23.3-p22.3	2						609955	
+9606	Homo sapiens	724074	0	live	DFNY1		deafness, Y-linked 1			Y						400043	
+9606	Homo sapiens	677764	0	live	MYP13		myopia 13		Xq23-q25	X						300613	
+9606	Homo sapiens	664780	0	live	MYP12		myopia 12 (high grade, autosomal dominant)		2q37.1	2						609995	
+9606	Homo sapiens	474387	0	live	OFC4		Orofacial cleft 4		4q21-q31	4						608371	
+9606	Homo sapiens	449013	0	live	ANIB2	AIB2	aneurysm, intracranial berry 2		19q13	19						608542	
+9606	Homo sapiens	414886	0	live	SPG27		spastic paraplegia 27 (autosomal recessive)		10q22.1-q24.1	10						609041	
+9606	Homo sapiens	399516	0	live	OTSC7		otosclerosis 7		6q13-q16.1	6						611572	
+9606	Homo sapiens	359825	0	live	PSORS9		psoriasis susceptibility 9		4q31-q34	4						607857	
+9606	Homo sapiens	338434	0	live	CANDN1	CANDF3, FCNC	candidiasis, nail 1 (with ICAM1 deficiency)		11p12-q12.1	11						607644	
+9606	Homo sapiens	192115	0	live	MGR1	MA, MGAU	Migraine with aura, susceptibility to		4q24	4						157300	
+9606	Homo sapiens	170508	0	live	DFNB33		deafness, autosomal recessive 33		10p11.23-q21.1	10						607239	
+9606	Homo sapiens	93983	0	live	DYT13		dystonia 13, torsion		1p36	1						607671	
+9606	Homo sapiens	85507	0	live	DFNA18		deafness, autosomal dominant 18		3q22	3						606012	
+9606	Homo sapiens	57306	0	live	CUP2Q35	C2DUPq35, SD1, SDTY1	Syndactyly, type I		2q34-q36	2						185900	
+9606	Homo sapiens	54113	0	live	VUR		Vesicoureteral reflux		1p13	1						193000	
+9606	Homo sapiens	50976	0	live	GRD2		Graves disease, susceptibility to, 2		20q13.11	20						603388	
+9606	Homo sapiens	23723	0	live	DFNA24		deafness, autosomal dominant 24		4q35-qter	4						606282	
+9606	Homo sapiens	11192	0	live	DYX3		dyslexia susceptibility 3	dyslexia 3	2p16-p15	2						604254	
+9606	Homo sapiens	10674	0	live	DURS1	DUS	Duane retraction syndrome 1	Duane's retraction syndrome 1	8q13	8						126800	
+9606	Homo sapiens	8105	0	live	BRCD1	BCDS1	cancer, familial, with in vitro radioresistance	Breast cancer, ductal, suppressor-1								114450	
+9606	Homo sapiens	8039	0	live	PROA		Proline(-) auxotroph, complementation of									176770	
+9606	Homo sapiens	7986	0	live	GPDS1	PDS1	glaucoma-related pigment dispersion syndrome 1	Pigment dispersion syndrome-1	7q35-q36	7						600510	
+9606	Homo sapiens	7864	0	live	SCLC1	SCCL, SCLC	small cell cancer of the lung		3p23-p21	3						182280	
+9606	Homo sapiens	6420	0	live	SF		Stoltzfus blood group		4q28-q31	4						111800	
+9606	Homo sapiens	6365	0	live	SCZD3		schizophrenia disorder 3	Schizophrenia susceptibility locus, chromosome 6-related	6p24-p22	6						600511	
+9606	Homo sapiens	6022	0	live	RMD1		rippling muscle disease 1		1q41	1						600332	
+9606	Homo sapiens	4981	0	live	OPEM		ophthalmoplegia, external, with myopia			X						311000	
+9606	Homo sapiens	4813	0	live	NIDDM2		non insulin dependent diabetes mellitus 2	non-insulin-dependent diabetes mellitus (common, type 2) 2|type 2 diabetes 2	12q24.2	12						601407	
+9606	Homo sapiens	4434	0	live	MSD		microcephaly with spastic diplegia (Paine syndrome)			X						311400	
+9606	Homo sapiens	4095	0	live	MAFD1	BPAD, MD1	major affective disorder 1		18p	18						125480	
+9606	Homo sapiens	3412	0	live	IDDM13		insulin dependent diabetes mellitus 13		2q34	2						601318	
+9606	Homo sapiens	3341	0	live	HTC1		hypertrichosis 1 (universalis, congenital)	Ambras syndrome|hypertrichosis universalis (universalis, congenital)	8q22	8						145701	
+9606	Homo sapiens	2420	0	live	FRDA2		Friedreich ataxia 2		9p23-p11	9						601992	
+9606	Homo sapiens	1957	0	live	EGI	EIG, EIG1	epilepsy, generalized, idiopathic	epilepsy, idiopathic generalized, susceptibility to 1	8q24	8						600669	
+9606	Homo sapiens	1709	0	live	DFNB17		deafness, autosomal recessive 17		7q31	7						603010	
+9606	Homo sapiens	1680	0	live	DFNX3	DFN4	deafness, X-linked 3	deafness 4, congenital sensorineural	Xp21.2	X						300030	
+9606	Homo sapiens	1484	0	live	CTAA2		cataract, anterior polar 2		17p13	17						601202	
+9606	Homo sapiens	1483	0	live	CTAA1	CAP, CTPP5	cataract, anterior polar 1		14q24-qter	14						115650	
+9606	Homo sapiens	1255	0	live	CNA1		cornea plana 1 (autosomal dominant)		12q	12						121400	
+9606	Homo sapiens	1243	0	live	CMM	CMM1, DNS, FAMMM, MLM	cutaneous malignant melanoma/dysplastic nevus	dysplastic nevus syndrome	1p36	1						155600	
+9606	Homo sapiens	1083	0	live	CGF1		cognitive function 1, social		Xp11.22-qter	X						300082	
+9606	Homo sapiens	431	0	live	ASD1		atrial septal defect 1		5p15.31	5						108800	
+9606	Homo sapiens	192	0	live	AIC		Aicardi syndrome		Xp22	X						304050	
+9606	Homo sapiens	170	0	live	AFA		ankyloblepharon filiforme adnatum									106250	
+9606	Homo sapiens	122	0	live	ADFN	ALDS	albinism-deafness syndrome		Xq26.3-q27.1	X						300700	
+9606	Homo sapiens	50608	0	live	IBD4		inflammatory bowel disease 4		14q11-q12	14						606675	
+9606	Homo sapiens	2133	0	live	EXT3	EXT2	exostoses (multiple) 3		19p	19						600209	
+9606	Homo sapiens	404714	0	live	SLEB4		systemic lupus erythematosus, susceptibility to, 4		12q24	12						608437	
+9606	Homo sapiens	3258	0	live	HPT	HPTX, HYPX	hypoparathyroidism		Xq27	X						307700	
+9606	Homo sapiens	777778	0	live	OPA6	ROA1	optic atrophy 6 (autosomal recessive)	recessive optic atrophy 1	8q21.13-q22.1	8						258500	
+9606	Homo sapiens	6012	0	live	RIEG2	ARS, RGS2	Rieger syndrome 2		13q14	13						601499	
+9606	Homo sapiens	3410	0	live	IDDM11		insulin dependent diabetes mellitus 11		14q24.3-q31	14						601208	
+9606	Homo sapiens	4156	0	live	MBS1	MBS	Moebius syndrome 1		13q12.2	13						157900	
+9606	Homo sapiens	260431	0	live	COPD		Pulmonary disease, chronic obstructive, severe early-onset		2q	2						606963	
+9606	Homo sapiens	550641	0	live	TELM		telomere length, mean leukocyte		14q23.2	14						609113	
+9606	Homo sapiens	497231	0	live	CLN9		ceroid-lipofuscinosis, neuronal 9									609055	
+9606	Homo sapiens	474159	0	live	DYX9	DXY9	dyslexia susceptibility 9		Xq27.3	X						300509	
+9606	Homo sapiens	450087	0	live	ADHD1		Attention deficit-hyperactivity disorder, susceptibility to, 1		16p13	16						608903	
+9606	Homo sapiens	353147	0	live	POROK4	DSAP2	disseminated superficial actinic porokeratosis 2		15q25.1-q26.1	15						607728	
+9606	Homo sapiens	353127	0	live	HDLCQ2	HDLC2	High density lipoprotein cholesterol level QTL on chromosome 8		8q23	8						607053	
+9606	Homo sapiens	317668	0	live	MCDR3		macular dystrophy, retinal 3		5p15.33-p13.1	5						608850	
+9606	Homo sapiens	260402	0	live	IS1	AIS, AIS1	Adolescent idiopathic scoliosis		19p13.3	19						181800	
+9606	Homo sapiens	192144	0	live	HDLCQ1	HDLC1	high density lipoprotein cholesterol level QTL 1		9p	9						606613	
+9606	Homo sapiens	171515	0	live	HBFQTL4	FHQTL	Fetal hemoglobin QTL on chromosome 8		8q	8						606789	
+9606	Homo sapiens	171013	0	live	SLI1		Specific language impairment QTL, 1		16q	16						606711	
+9606	Homo sapiens	29779	0	live	DFNA33		deafness, autosomal dominant 33		13q34-qter	13						614211	
+9606	Homo sapiens	22811	0	live	MBS3	HCFP2	Moebius syndrome 3	hereditary congenital facial paresis 2	10q21.3-q22.1	10						604185	
+9606	Homo sapiens	8806	0	live	SCZD8		schizophrenia disorder 8	Schizophrenia susceptibility locus, chromosome 18-related	18p	18						603206	
+9606	Homo sapiens	4977	0	live	OPA2		optic atrophy 2 (obscure)		Xp11.4-p11.2	X						311050	
+9606	Homo sapiens	4657	0	live	MYP1	BED	myopia 1 (X-linked)	Myopia, X-linked (Bornholm eye disease)|Myopia-1 (Bornholm eye disease)|myopia 1 (X-linked, Bornholm eye disease included)	Xq28	X						310460	
+9606	Homo sapiens	4264	0	live	MHS2		malignant hyperthermia susceptibility 2		17q11.2-q24	17						154275	
+9606	Homo sapiens	2722	0	live	GLC1B		glaucoma 1, open angle, B (adult-onset)		2cen-q13	2						606689	
+9606	Homo sapiens	1732	0	live	DIH1	HCD	diaphragmatic hernia 1		15q26.1-q26.2	15						142340	
+9606	Homo sapiens	1283	0	live	CTD		Coats disease									300216	
+9606	Homo sapiens	1257	0	live	CNC2	CNC	Carney complex type 2, multiple neoplasia and lentiginosis	Carney complex, multiple neoplasia and lentiginosis	2p16	2						605244	
+9606	Homo sapiens	465	0	live	ATD	ATD1	asphixiating thoracic dystrophy (chondroectodermal dysplasia-like syndrome)		15q13	15						208500	
+9606	Homo sapiens	424	0	live	ARVD3	ARVD2	arrhythmogenic right ventricular dysplasia 3		14q12-q22	14						602086	
+9606	Homo sapiens	100271698	0	live	ADIPQTL4		Adiponectin, serum level of, QTL4		11q23-q24	11						612629	
+9606	Homo sapiens	677662	0	live	PARK12		Parkinson disease 12 (susceptibility)	Parkinson disease (X-linked) 12	Xq21-q25	X						300557	
+9606	Homo sapiens	58156	0	live	OPA4		optic atrophy 4 (autosomal dominant)		18q12.2	18						605293	
+9606	Homo sapiens	4965	0	live	OFC3		orofacial cleft 3		19q13	19						600757	
+9606	Homo sapiens	399565	0	live	GLC3C		glaucoma 3, primary congenital, C		14q24.3-q31.1	14						613085	
+9606	Homo sapiens	192143	0	live	STQTL2		stature quantitative trait locus 2		7q31.3	7						606256	
+9606	Homo sapiens	81861	0	live	LPRS	LPRS1	Leprosy, susceptibility to 1		10p13	10						609888	
+9606	Homo sapiens	5548	0	live	PRD		primary retinal dysplasia		Xp11.3	X						312550	
+9606	Homo sapiens	2728	0	live	GLC3B		glaucoma 3, primary infantile, B		1p36	1						600975	
+9606	Homo sapiens	1218	0	live	CMD1B	CMPD1, FDC	cardiomyopathy, dilated 1B (autosomal dominant)		9q13-q22	9						600884	
+9606	Homo sapiens	7795	0	live	LOC7795	MEMO1	Methylation modifier for class I HLA		1p36.1-p35	1						601201	
+9606	Homo sapiens	7889	0	live	PSORS3		psoriasis susceptibility 3		4q	4						601454	
+9606	Homo sapiens	4378	0	live	MRX14		mental retardation, X-linked 14		Xp11.3-q13.2	X						300062	
+9606	Homo sapiens	100271837	0	live	USH1H		Usher syndrome 1H (autosomal recessive)		15q22-q23	15						612632	
+9606	Homo sapiens	619477	0	live	GCCD3	FGD2, FGD3, GCCD2	glucocorticoid deficiency 3		8q11.2-q13.2	8						609197	
+9606	Homo sapiens	246319	0	live	VAMAS6	VTLG	Vitiligo		6p21.3	6						193200	
+9606	Homo sapiens	5012	0	live	OTSC1	OTS	otosclerosis 1		15q25-q26	15						166800	
+9606	Homo sapiens	8245	0	live	IDDMX		Diabetes mellitus, insulin-dependent, X-linked, susceptibility to		Xp11	X						300136	
+9606	Homo sapiens	100359395	0	live	DFNA58		deafness, autosomal dominant 58		2p21-p12	2						615654	
+9606	Homo sapiens	4963	0	live	OFC1	CL, OFC	orofacial cleft 1	Orofacial cleft-1 (cleft lip with or without cleft palate; isolated cleft palate)	6p24	6						119530	
+9606	Homo sapiens	94008	0	live	SCA18	SMNA	spinocerebellar ataxia 18 (sensory with neurogenic muscular atrophy)		7q22-q32	7						607458	
+9606	Homo sapiens	100294716	0	live	MYP15		myopia 15		10q21.1	10						612717	
+9606	Homo sapiens	8401	0	live	SCZD7		schizophrenia disorder 7	Schizophrenia susceptibility locus, chromosome 13q-related	13q32	13						603176	
+9606	Homo sapiens	100188869	0	live	DEL15Q13.3	EIG7, MICRODEL15Q13.3, SCZD13	Chromosome 15q13.3 microdeletion syndrome		15q13.3	15						612001	
+9606	Homo sapiens	777643	0	live	GLC1M		glaucoma 1, open angle, M (juvenile-onset)		5q	5						610535	
+9606	Homo sapiens	387573	0	live	CHDS3		Coronary heart disease, susceptibility to, 3		Xq23-q26	X						300464	
+9606	Homo sapiens	171511	0	live	ADIPQTL2	CAQ5	Circulating adiponectin QTL on chromosome 5		5p15.2-p14	5						606770	
+9606	Homo sapiens	100009675	0	live	MRT4		mental retardation, non-syndromic, autosomal recessive, 4		1p21.3-p13.3	1						611107	
+9606	Homo sapiens	7396	0	live	USH1E		Usher syndrome 1E (autosomal recessive, severe)	Usher syndrome-2A, autosomal recessive, severe	21q21	21						602097	
+9606	Homo sapiens	425	0	live	ARVD4		arrhythmogenic right ventricular dysplasia 4		2q32.1-q32.3	2						602087	
+9606	Homo sapiens	100359402	0	live	SPG41		spastic paraplegia 41 (autosomal dominant)		11p14.1-p11.2	11						613364	
+9606	Homo sapiens	100188813	0	live	RLS4		Restless legs syndrome 4		2q33	2						610439	
+9606	Homo sapiens	497662	0	live	RRIS		Respiratory rhythmicity in sleep		10q26	10						609116	
+9606	Homo sapiens	337895	0	live	BMIQ3		body mass index QTL 3	body mass index quantitative trait 3|body mass index quantitative trait locus 3	6q23-q25	6						607446	
+9606	Homo sapiens	106783499	0	live	OPA8		optic atrophy 8 (autosomal dominant)	Optic atroph 8	16q22	16						616648	
+9606	Homo sapiens	102723100	0	live	OTSC10		otosclerosis 10		1q41-q44	1						615589	
+9606	Homo sapiens	101926885	0	live	OCA5	OCA7	oculocutaneous albinism 5 (autosomal recessive)	Albinism, oculocutaneous, type VII	4q24	4						615312	
+9606	Homo sapiens	101409267	0	live	CORD17		cone rod dystrophy 17 (autosomal dominant)	Cone-rod dystrophy 17	10q26	10						615163	
+9606	Homo sapiens	101055624	0	live	NYS7		Nystagmus 7, congenital		1q32	1						614826	
+9606	Homo sapiens	100909384	0	live	DUP16P11.2	AUTS14B, C16DUPp11.2	Chromosome 16p11.2 duplication syndrome		16p11.2	16						614671	
+9606	Homo sapiens	100885773	0	live	DYT21		dystonia 21, torsion (autosomal dominant)		2q14.3-q21.3	2						614588	
+9606	Homo sapiens	100884130	0	live	DEL17Q12	C17DELq12	Chromosome 17q12 deletion syndrome		17q12	17						614527	
+9606	Homo sapiens	100862681	0	live	RP63		retinitis pigmentosa 63 (autosomal dominant)		6q23	6						614494	
+9606	Homo sapiens	100861440	0	live	DFNB96		deafness, autosomal recessive 96		1p36.31-p36.13	1						614414	
+9606	Homo sapiens	100861439	0	live	CTRCT37	CCA5	Cataract, congenital cerulean type, 5		12q24.2-q24.3	12						614422	
+9606	Homo sapiens	100653380	0	live	DEL7Q11.23	C7DELq11.23	Chromosome 7q11.23 deletion syndrome, distal, 1.2Mb		7q11.23	7						613729	
+9606	Homo sapiens	100529230	0	live	LGMD1H		limb girdle muscular dystrophy 1H (autosomal dominant)		3p25-p23	3						613530	
+9606	Homo sapiens	100528023	0	live	PPR1	PPR	Photoparoxysmal response 1		6p21.1	6						132100	
+9606	Homo sapiens	100505381	0	live	MMD2		Miyoshi muscular dystrophy 2		10p	10						613318	
+9606	Homo sapiens	100359407	0	live	MYP14		myopia 14		1p36	1						610320	
+9606	Homo sapiens	100359406	0	live	MYP18		myopia 18 (high grade, autosomal recessive)		14q22.1-q24.2	14						255500	
+9606	Homo sapiens	100359393	0	live	SCA30		spinocerebellar ataxia 30		4q34.3-q35.1	4						613371	
+9606	Homo sapiens	100302513	0	live	DFNB71		deafness, autosomal recessive 71		8p22-p21.3	8						612789	
+9606	Homo sapiens	100271924	0	live	DFNA59		deafness, autosomal dominant 59		11p14.2-q12.3	11						612642	
+9606	Homo sapiens	100240748	0	live	DEL9P	C9DELp	Chromosome 9p deletion syndrome		9p	9						158170	
+9606	Homo sapiens	100240737	0	live	DEL1P36	C1DELp36	Chromosome 1p36 deletion syndrome		1p36	1						607872	
+9606	Homo sapiens	100216344	0	live	DYT17		dystonia 17		20p11.22-q13.12	20						612406	
+9606	Homo sapiens	100196916	0	live	ALPQTL4		Alkaline phosphatase, plasma level of, QTL4		10q21	10						612369	
+9606	Homo sapiens	100188805	0	live	STBMS1		Strabismus, susceptibility to, 1		7p22.1	7						185100	
+9606	Homo sapiens	100187717	0	live	NNO3		nanophthalmos 3		2q11-q14	2						611897	
+9606	Homo sapiens	100124414	0	live	GINGF4	GGF4, HGF4	gingival fibromatosis, hereditary, 4		11p15	11						611010	
+9606	Homo sapiens	100049160	0	live	FEB7		febrile convulsions 7		21q22	21						611515	
+9606	Homo sapiens	100049159	0	live	SPG37		spastic paraplegia 37 (autosomal dominant)		8p21.2-q13.3	8						611945	
+9606	Homo sapiens	100037266	0	live	STQTL8		stature quantitative trait locus 8		9q22	9						610114	
+9606	Homo sapiens	100037265	0	live	STQTL7		stature quantitative trait locus 7		1p21	1						609822	
+9606	Homo sapiens	780922	0	live	SPD3		Synpolydactyly 3		14q11.2-q12	14						610234	
+9606	Homo sapiens	780912	0	live	AD10		Alzheimer disease-10		7q36	7						609636	
+9606	Homo sapiens	780911	0	live	DEL10Q26	C10q26DEL, TQDS	Chromosome 10q deletion syndrome		10q26	10						609625	
+9606	Homo sapiens	780906	0	live	SLI3		Specific language impairment QTL, 3		13q21	13						607134	
+9606	Homo sapiens	777645	0	live	GLC1N		glaucoma 1, open angle, N (juvenile-onset)		15q22-q24	15						611274	
+9606	Homo sapiens	777642	0	live	RP34		retinitis pigmentosa 34 (X-linked recessive)		Xq28	X						300605	
+9606	Homo sapiens	727716	0	live	SCAX4		spinocerebellar ataxia, X-linked 4			X						301840	
+9606	Homo sapiens	727715	0	live	SCAX3		spinocerebellar ataxia, X-linked 3			X						301790	
+9606	Homo sapiens	727714	0	live	SCAX2		spinocerebellar ataxia, X-linked 2			X						302600	
+9606	Homo sapiens	724110	0	live	SPG34		spastic paraplegia 34 (autosomal dominant)		Xq24-q25	X						300750	
+9606	Homo sapiens	724107	0	live	SPG32	SPG29	spastic paraplegia 32 (autosomal recessive)		14q12-q21	14						611252	
+9606	Homo sapiens	724058	0	live	ANIB4		aneurysm, intracranial berry 4		5p15.2-p14.3	5						610213	
+9606	Homo sapiens	692220	0	live	DFNB62		deafness, autosomal recessive 62		12p13.2-p11.23	12						610143	
+9606	Homo sapiens	692219	0	live	DFNB65		deafness, autosomal recessive 65		20q13.2-q13.32	20						610248	
+9606	Homo sapiens	619537	0	live	VV		varicose veins		16q24	16						192200	
+9606	Homo sapiens	619536	0	live	BPPV		vestibulopathy, familial	benign paroxysmal positional vertigo	6q	6						193007	
+9606	Homo sapiens	619510	0	live	AMCX5		arthrogryposis, X-linked, type 5		Xq23-q27	X						300158	
+9606	Homo sapiens	619503	0	live	FIQTL1	FSI	fasting glucose and specific insulin levels		6q22-q23	6						606035	
+9606	Homo sapiens	619496	0	live	CMT2H		Charcot-Marie-Tooth disease, axonal, type 2H		8q21.3	8						607731	
+9606	Homo sapiens	619493	0	live	PAND2		panic disorder 2	panic disorder susceptibility locus, chromosome 9q-related	9q31	9						607853	
+9606	Homo sapiens	619488	0	live	SCZD12		schizophrenia 12	schizophrenia susceptibility locus, chromosome 1p-related	1p	1						608543	
+9606	Homo sapiens	619479	0	live	STQTL5		stature quantitative trait locus 5		3p26	3						608982	
+9606	Homo sapiens	619478	0	live	ATFB2		familial atrial fibrillation 2		6q14-q16	6						608988	
+9606	Homo sapiens	619475	0	live	PFM3		parietal foramina 3		4q21-q23	4						609566	
+9606	Homo sapiens	619471	0	live	PPR3		photoparoxysmal response 3		7q32	7						609573	
+9606	Homo sapiens	619468	0	live	RCM2		cardiomyopathy, familial restrictive, 2		10q23.3	10						609578	
+9606	Homo sapiens	619411	0	live	LVNC2		noncompaction of left ventricular myocardium, familial isolated, autosomal dominant 2		11p15	11						609470	
+9606	Homo sapiens	619410	0	live	NEDE		nephropathy, progressive, with deafness		11q24	11						609469	
+9606	Homo sapiens	619408	0	live	PSNP2		supranuclear palsy, progressive, 2		1q31.1	1						609454	
+9606	Homo sapiens	619405	0	live	AIS4	VAMAS5	autoimmune disease, susceptibility to, 4		4q13-q21	4						609400	
+9606	Homo sapiens	619404	0	live	CTRCT35	CATCN1	cataract, congenital nuclear, autosomal recessive		19q13	19						609376	
+9606	Homo sapiens	619402	0	live	HPC5		prostate cancer, hereditary, 5		3p26	3						609299	
+9606	Homo sapiens	619399	0	live	ETL2	FTLE	epilepsy, familial temporal lobe		12q22-q23.3	12						608096	
+9606	Homo sapiens	619398	0	live	FEB5		febrile convulsions 5		6q22-q24	6						609255	
+9606	Homo sapiens	594832	0	live	MYP11		myopia 11 (high grade, autosomal dominant)		4q22-q27	4						609994	
+9606	Homo sapiens	574049	0	live	TUKLS		Tukel syndrome		21q22	21						609428	
+9606	Homo sapiens	574048	0	live	OVCAS1		Ovarian cancer, epithelial, susceptibility to		3p25-p22	3						607893	
+9606	Homo sapiens	574047	0	live	MRXSMP		Martin-Probst deafness-mental retardation syndrome		Xq13-q21	X						300519	
+9606	Homo sapiens	554314	0	live	AUTS6		Autism, susceptibility to, 6		17q11	17						609378	
+9606	Homo sapiens	553992	0	live	MGR7		Migraine with aura, susceptibility to, 7		15q11.2-q12	15						609179	
+9606	Homo sapiens	550625	0	live	ANIC		Anosmia, isolated congenital		18p11.23-q12.2	18						107200	
+9606	Homo sapiens	550624	0	live	KTCN4		Keratoconus 4		2p24	2						609271	
+9606	Homo sapiens	503613	0	live	PSORS10		psoriasis susceptibility 10		18p11.23	18						612410	
+9606	Homo sapiens	497657	0	live	ANIB3	AIB3	aneurysm, intracranial berry 3		1p36.13-p34.3	1						609122	
+9606	Homo sapiens	497188	0	live	GLC1I		glaucoma 1, open angle, I		15q11-q13	15						609745	
+9606	Homo sapiens	494446	0	live	NRCLP3		Narcolepsy 3		21q11.2	21						609039	
+9606	Homo sapiens	494148	0	live	DFNB55		deafness, autosomal recessive 55		4q12-q13.2	4						609952	
+9606	Homo sapiens	493862	0	live	CTRCT28	ARCC1	Cataract 28		6p12-q12	6						609026	
+9606	Homo sapiens	493818	0	live	MYMY3		moyamoya disease 3		8q23	8						608796	
+9606	Homo sapiens	474388	0	live	CMM4		Melanoma, cutaneous malignant, 4		1p22	1						608035	
+9606	Homo sapiens	474168	0	live	WG		Wegener granulomatosis		6p21.3	6						608710	
+9606	Homo sapiens	450097	0	live	RLS2		Restless legs syndrome 2		14q13-q21	14						608831	
+9606	Homo sapiens	450096	0	live	PAPA4		Polydactyly, postaxial, type A4		7q22	7						608562	
+9606	Homo sapiens	450095	0	live	PLF		Pulmonary function		6q21-q22	6						608852	
+9606	Homo sapiens	450093	0	live	LNCR1		Lung cancer 1		6q23-q25	6						608935	
+9606	Homo sapiens	450092	0	live	KTCN2		Keratoconus 2		16q22.3-q23.1	16						608932	
+9606	Homo sapiens	449489	0	live	DFNB47		deafness, autosomal recessive 47		2p25.1-p24.3	2						609946	
+9606	Homo sapiens	449488	0	live	DFNB46		deafness, autosomal recessive 46		18p11.32-p11.31	18						609647	
+9606	Homo sapiens	449483	0	live	DFNB45		deafness, autosomal recessive 45		1q43-q44	1						612433	
+9606	Homo sapiens	449015	0	live	ASPG3		Asperger syndrome, susceptibility to, 3		1q21-q22	1						608781	
+9606	Homo sapiens	448963	0	live	DFNB51		deafness, autosomal recessive 51		11p13-p12	11						609941	
+9606	Homo sapiens	448962	0	live	DFNA54		deafness, autosomal dominant 54		5q31	5						615649	
+9606	Homo sapiens	444980	0	live	HYT4		Hypertension, essential, susceptibility to, 4		12p12.2-p12.1	12						608742	
+9606	Homo sapiens	432400	0	live	EIG3		Epilepsy, idiopathic generalized, susceptibility to 3		9q32-q33	9						608762	
+9606	Homo sapiens	431711	0	live	ASPG2		Asperger syndrome, susceptibility to, 2		17p13	17						608631	
+9606	Homo sapiens	431709	0	live	MDD2		Major depressive disorder 2		15q25.3-q26.2	15						608691	
+9606	Homo sapiens	431708	0	live	MDD1		Major depressive disorder		12q22-q23.2	12						608520	
+9606	Homo sapiens	414058	0	live	ACRPV		Acropectorovertebral dysplasia (F syndrome)		2q36	2						102510	
+9606	Homo sapiens	408260	0	live	HPC4	HPC7	Prostate cancer, hereditary, 4		7p11-q21	7						608658	
+9606	Homo sapiens	406237	0	live	PDON2	LAP, PDLA	Periodontitis, localized aggressive		1q25	1						608526	
+9606	Homo sapiens	406216	0	live	ATFB1		Atrial fibrillation, familial 1		10q22-q24	10						608583	
+9606	Homo sapiens	406215	0	live	KTCN3		Keratoconus 3		3p14-q13	3						608586	
+9606	Homo sapiens	406214	0	live	LRSL		Larsen-like syndrome		6p25	6						608545	
+9606	Homo sapiens	404716	0	live	MTBS1		mycobacterium tuberculosis, susceptibility to infection by, 1		2q35	2						607949	
+9606	Homo sapiens	404715	0	live	PAFC		Preauricular fistulae, congenital		8q11.1-q13.3	8						128700	
+9606	Homo sapiens	404713	0	live	SSD		Speech-sound disorder		3p12-q13	3						608445	
+9606	Homo sapiens	404686	0	live	SCZD11		Schizophrenia susceptibility locus, chromosome 10q-related		10q22.3	10						608078	
+9606	Homo sapiens	404684	0	live	PHOBS		Phobia, specific			14						608251	
+9606	Homo sapiens	404683	0	live	BMIQ7	OB4	Obesity, susceptibility to, on chromosome 4		4p15-p14	4						608410	
+9606	Homo sapiens	404682	0	live	MYP5		myopia 5 (high grade, autosomal dominant)	Myopia-5	17q21-q22	17						608474	
+9606	Homo sapiens	404677	0	live	CIMT		Carotid intimal medial thickness		12q24	12						608447	
+9606	Homo sapiens	387585	0	live	CHDS4		Coronary heart disease, susceptibility to, 4		14q32	14						608318	
+9606	Homo sapiens	387583	0	live	SPG25		spastic paraplegia 25 (autosomal recessive, with disc herniation)		6q23-q24.1	6						608220	
+9606	Homo sapiens	387582	0	live	KAZA1	KAZA	Kala-azar (visceral leishmaniasis), susceptibility to		22q12	22						608207	
+9606	Homo sapiens	387579	0	live	AITD2		Autoimmune thyroid disease, susceptibility to, 2		5q31-q33	5						608174	
+9606	Homo sapiens	387576	0	live	MGR5		Migraine with or without aura, susceptibility to, 5		19p13	19						607508	
+9606	Homo sapiens	387575	0	live	HYT3		Hypertension, essential, susceptibility to, 3		2p25-p24	2						607329	
+9606	Homo sapiens	387572	0	live	PAND1	PAND	Panic disorder 1		13q22-q32	13						167870	
+9606	Homo sapiens	379003	0	live	DFNB40		deafness, autosomal recessive 40		22q11.21-q12.1	22						608264	
+9606	Homo sapiens	378888	0	live	HSN1B		Hereditary sensory neuropathy, type IB		3p24-p22	3						608088	
+9606	Homo sapiens	378882	0	live	MRX84		mental retardation, X-linked 84		Xp11.3-q22.3	X						300505	
+9606	Homo sapiens	378484	0	live	MRX82		mental retardation, X-linked 82		Xq24-q25	X						300518	
+9606	Homo sapiens	353347	0	live	DFNA53		deafness, autosomal dominant 53		14q11-q12	14						609965	
+9606	Homo sapiens	347747	0	live	HPCQTL19		Prostate cancer aggressiveness quantitative trait locus on chromosome 19		19q	19						607592	
+9606	Homo sapiens	347737	0	live	DFNA31		deafness, autosomal dominant 31		6p21	6						608645	
+9606	Homo sapiens	338411	0	live	TELAB1		telangiectasia, benign 1		5q14	5						187260	
+9606	Homo sapiens	338386	0	live	HSR		Hand skill, relative		2p12-q22	2						139900	
+9606	Homo sapiens	338342	0	live	MGR4	MGOA	Migraine, susceptibility to, 4		14q21.2-q22.3	14						607501	
+9606	Homo sapiens	338334	0	live	CHDS1		Coronary heart disease, susceptibility to, 1		16pter-p13	16						607339	
+9606	Homo sapiens	338333	0	live	PAPA3		Polydactyly, postaxial, type A3		19p13.2-p13.1	19						607324	
+9606	Homo sapiens	338332	0	live	CELIAC5	GSES	Celiac disease, susceptibility to, 5	Gluten-sensitive enteropathy, susceptibility to	15q11-q13	15						607202	
+9606	Homo sapiens	338090	0	live	SPG24		spastic paraplegia 24 (autosomal recessive)	Spastic paraplegia locus	13q14	13						607584	
+9606	Homo sapiens	338030	0	live	GLM4	GLM1	Glioma, familial, 1		15q23-q26.3	15						607248	
+9606	Homo sapiens	338027	0	live	BMND2		Bone mineral density variation 2		1q21-q23	1						605833	
+9606	Homo sapiens	337991	0	live	DFNB38		deafness, autosomal recessive 38		6q25.3-q27	6						608219	
+9606	Homo sapiens	337893	0	live	BULN		Bulimia nervosa, susceptibility to		10p	10						607499	
+9606	Homo sapiens	337892	0	live	MGR3		Migraine, familial, with or without aura, susceptibility to		6p21.1-p12.2	6						607498	
+9606	Homo sapiens	317773	0	live	MGR6	FHM3, MGR	Migraine, several forms		1q31	1						607516	
+9606	Homo sapiens	317714	0	live	DYT15		dystonia 15, myoclonic		18p11	18						607488	
+9606	Homo sapiens	317669	0	live	IBD9		inflammatory bowel disease 9		3p26	3						608448	
+9606	Homo sapiens	317664	0	live	DFNA49		deafness, autosomal dominant 49		1q21-q23	1						608372	
+9606	Homo sapiens	286751	0	live	OTSC4		otosclerosis 4		16q21-q23.2	16						611571	
+9606	Homo sapiens	266979	0	live	CTRCT27	CCNP	Cataract, congenital, nuclear progressive		2p12	2						607304	
+9606	Homo sapiens	266789	0	live	EPPS		Epilepsy, partial, with pericentral spikes		4p15	4						607221	
+9606	Homo sapiens	266719	0	live	RRDX		Radial ray deficiency		Xq24-q25	X						300378	
+9606	Homo sapiens	266678	0	live	MRX81		mental retardation, X-linked 81		Xp11.2-q12	X						300433	
+9606	Homo sapiens	252843	0	live	AAT2	FAA2	Aortic aneurysm, familial thoracic 2		5q13-q14	5						607087	
+9606	Homo sapiens	252842	0	live	AAT1	FAA1	Aortic aneurysm, familial thoracic 1		11q23.3-q24	11						607086	
+9606	Homo sapiens	246750	0	live	MYAS1		Myasthenia gravis with thymus hyperplasia		6p21.3	6						607085	
+9606	Homo sapiens	246289	0	live	DFNA47	DFNB83	deafness, autosomal dominant 47		9p22-p21	9						608652	
+9606	Homo sapiens	246260	0	live	BDA1B		Brachydactyly, type A1, locus B		5p13.3-p13.2	5						607004	
+9606	Homo sapiens	246259	0	live	BMND3		Bone mineral density variability 3		1p36	1						606928	
+9606	Homo sapiens	207115	0	live	LATD		Laterality defects, autosomal dominant		6p21	6						601086	
+9606	Homo sapiens	192676	0	live	DFNA43		deafness, autosomal dominant 43	deafness, autosomal dominant 40	2p12-p11.1	2						608394	
+9606	Homo sapiens	192142	0	live	RLS1	RLS	Restless legs syndrome, susceptibility to		12q12-q21	12						102300	
+9606	Homo sapiens	171514	0	live	ANON1		Anorexia nervosa, susceptibility to, 1		1p	1						606788	
+9606	Homo sapiens	171513	0	live	PAOD1		Peripheral arterial occlusive disease 1		1p31	1						606787	
+9606	Homo sapiens	171089	0	live	DYX5		dyslexia susceptibility 5		3p12-q13	3						606896	
+9606	Homo sapiens	170682	0	live	SLEH1		systemic lupus erythematosus with hemolytic anemia 1	systematic lupus erythematosus with hemolytic anemia 1	11q14	11						607279	
+9606	Homo sapiens	170532	0	live	OTSC3		otosclerosis 3		6p22.3-p21.2	6						608244	
+9606	Homo sapiens	140907	0	live	SPG19		spastic paraplegia 19 (autosomal dominant)		9q33-q34	9						607152	
+9606	Homo sapiens	140802	0	live	LGV1		longevity 1		4q25	4						152430	
+9606	Homo sapiens	140454	0	live	PSORS8		psoriasis susceptibility 8		16q	16						610707	
+9606	Homo sapiens	140451	0	live	SCA9		spinocerebellar ataxia 9									612876	
+9606	Homo sapiens	121775	0	live	CHDM		Chordoma		6q27	6						215400	
+9606	Homo sapiens	117191	0	live	HYT1		Hypertension, essential, susceptibility to, 1		17q	17						603918	
+9606	Homo sapiens	117190	0	live	HPE6		holoprosencephaly 6		2q37.1	2						605934	
+9606	Homo sapiens	117189	0	live	GRDX	GD3	Graves disease, susceptibility to, X-linked		Xp11	X						300351	
+9606	Homo sapiens	117084	0	live	CANDF1	CMCT	candidiasis, familial 1	candidiasis, familial chronic mucocutaneous, autosomal dominant, with thyroid disease	2p22.3-p21	2						114580	
+9606	Homo sapiens	114568	0	live	NMTC3	NMTC1	Nonmedullary thyroid carcinoma 3	Nonmedullary thyroid carcinoma 1	2q21	2						606240	
+9606	Homo sapiens	114086	0	live	DBA2		Diamond-Blackfan anemia 2		8p23.3-p22	8						606129	
+9606	Homo sapiens	100918	0	live	NRCLP2	NRCLP	Narcolepsy, HLA-associated		4p13-q21	4						605841	
+9606	Homo sapiens	100917	0	live	VWSM		Van der Woude syndrome modifier									604547	
+9606	Homo sapiens	94337	0	live	MNG3		Multinodular goiter-3		3q26.1-q26.3	3						606082	
+9606	Homo sapiens	94014	0	live	TRICY1		trichilemmal cyst 1	pilar cyst	3p24.1-p22.1	3						609649	
+9606	Homo sapiens	93991	0	live	MRX77		mental retardation, X-linked 77		Xq12-q21.3	X						300454	
+9606	Homo sapiens	93985	0	live	FGS3		FG syndrome 3		Xp22.3	X						300406	
+9606	Homo sapiens	85504	0	live	BDET		Bleeding disorder, east Texas type		1q23	1						605913	
+9606	Homo sapiens	85503	0	live	MCOPCB1	MOPCB, MOPCB1	Microphthalmia, colobomatous, 1			X						300345	
+9606	Homo sapiens	84565	0	live	LCS1	CHLS, CHSL, LCS	lymphedema-cholestasis syndrome 1		15q	15						214900	
+9606	Homo sapiens	81866	0	live	NDIC		Nail dysplasia, isolated congenital		17p13	17						605779	
+9606	Homo sapiens	81864	0	live	EVR3		exudative vitreoretinopathy 3		11p13-p12	11						605750	
+9606	Homo sapiens	81863	0	live	CTPL1	CAAR	cataract, pulverulent (autosomal recessive, early-onset)		9q13-q22	9						605749	
+9606	Homo sapiens	80871	0	live	ANMA		Anisomastia		16q13-q21	16						605746	
+9606	Homo sapiens	80870	0	live	DKBI		Dyskeratosis, hereditary benign intraepithelial		4q35	4						127600	
+9606	Homo sapiens	80771	0	live	MCOPCB2	MOPCB2	Microphthalmia, colobomatous, 2		15q12-q15	15						605738	
+9606	Homo sapiens	80770	0	live	CTRCT25	CCPSO, CCSSO	Cataract, central pouch-like, with sutural opacities		15q21-q22	15						605728	
+9606	Homo sapiens	79052	0	live	PTCPRN	PRN1	Papillary thyroid carcinoma with papillary renal neoplasia		1q21	1						605642	
+9606	Homo sapiens	64644	0	live	GINGF2	GGF2, HGF2	gingival fibromatosis, hereditary, 2		5q13-q22	5						605544	
+9606	Homo sapiens	64585	0	live	BOS2		Branchiootic syndrome 2		1q31	1						120502	
+9606	Homo sapiens	64069	0	live	ATOD1	ATOD	Dermatitis, atopic		3q21	3						603165	
+9606	Homo sapiens	60502	0	live	CPAT1	ACP	cerebral palsy, ataxic 1		9p12-q12	9						605388	
+9606	Homo sapiens	59331	0	live	RFH1	AORF	Renal failure, progressive, with hypertension		1q21	1						161900	
+9606	Homo sapiens	59330	0	live	GER		Gastroesophageal reflux		13q14	13						109350	
+9606	Homo sapiens	59081	0	live	MNG2		multinodular goiter 2		Xp22	X						300273	
+9606	Homo sapiens	57792	0	live	MRXSAB		Abidi X-linked mental retardation syndrome		Xq13.2	X						300262	
+9606	Homo sapiens	57789	0	live	MTBSX	MTBS	Mycobacterium tuberculosis, susceptibility to infection by		Xq	X						300259	
+9606	Homo sapiens	57309	0	live	SPG14		spastic paraplegia 14 (autosomal recessive)		3q27-q28	3						605229	
+9606	Homo sapiens	57044	0	live	IDDM18		insulin dependent diabetes mellitus 18		5q31.1-q33.1	5						605598	
+9606	Homo sapiens	56801	0	live	HDLCQ14	HDLD3, HYALP, HYLAP	Hypoalphalipoproteinemia, primary		11q23.3	11						605201	
+9606	Homo sapiens	56694	0	live	BMIQ8	OB10P	body mass index quantitative trait locus 8	obesity, susceptibility to, on chromosome 10p	10p	10						603188	
+9606	Homo sapiens	54501	0	live	CLQTL1	CLF	cholesterol-lowering factor		13q	13						604595	
+9606	Homo sapiens	54115	0	live	PTOS2	PTOSX	Ptosis, hereditary congenital 2		Xq24-q27.1	X						300245	
+9606	Homo sapiens	54109	0	live	CORD8		cone rod dystrophy 8		1q12-q24	1						605549	
+9606	Homo sapiens	53368	0	live	MDC1B		Muscular dystrophy, congenital, 1B		1q42	1						604801	
+9606	Homo sapiens	50986	0	live	HYT2		Hypertension, essential, susceptibility to, 2		15q	15						604329	
+9606	Homo sapiens	50982	0	live	NIDDM3		Noninsulin-dependent diabetes mellitus 3		20q12-q13.1	20						603694	
+9606	Homo sapiens	50975	0	live	TCO		Thyroid carcinoma, nonmedullary, with cell oxyphilia		19p13.2	19						603386	
+9606	Homo sapiens	50960	0	live	MYMY1	MYMY	moyamoya disease 1		3p26-p24.2	3						252350	
+9606	Homo sapiens	50951	0	live	MMVP1	MVP, PMV	myxomatous mitral valve prolapse 1	Mitral valve prolapse, familial	16p12.1-p11.2	16						157700	
+9606	Homo sapiens	50948	0	live	OHDS		Orthostatic hypotensive disorder of Streeten		18q	18						143850	
+9606	Homo sapiens	50830	0	live	TGCT1		testicular germ cell tumor susceptibility 1	Testicular germ cell tumor 1	Xq27	X						300228	
+9606	Homo sapiens	50715	0	live	EJM2	EIG7, JME	epilepsy, juvenile myoclonic 2	myoclonic epilepsy, juvenile, 2	15q14	15						604827	
+9606	Homo sapiens	28515	0	live	HYPLIP2	FCHL2	hyperlipidemia, combined, 2		11p	11						604499	
+9606	Homo sapiens	27259	0	live	HPLH1	FHL1, HLH1	hemophagocytic lymphohistiocytosis 1		9q21.3-q22	9						267700	
+9606	Homo sapiens	23719	0	live	DFNA30		deafness, autosomal dominant 30		15q25-q26	15						606451	
+9606	Homo sapiens	23713	0	live	DFNB27		deafness, autosomal recessive 27		2q24	2						605818	
+9606	Homo sapiens	23694	0	live	MRX73		mental retardation, X-linked 73		Xp22.2	X						300355	
+9606	Homo sapiens	23459	0	live	CMD1H		cardiomyopathy, dilated 1H (autosomal dominant)		2q14-q22	2						604288	
+9606	Homo sapiens	10305	0	live	MMDK	MDK	Mesomelic dysplasia, Kantaputra type		2q24-q32	2						156232	
+9606	Homo sapiens	10118	0	live	EMWX		episodic muscle weakness, X-linked		Xp22.3	X						300211	
+9606	Homo sapiens	8830	0	live	PTLAH	FPAH	patella aplasia-hypoplasia		17q	17						168860	
+9606	Homo sapiens	8466	0	live	ST11	PETS1	suppression of tumorigenicity 11 (pancreas)	Pancreatic endocrine tumor suppressor	3p25	3						602011	
+9606	Homo sapiens	8249	0	live	MGR2	MFTS	Migraine, familial typical, susceptibility to		Xq	X						300125	
+9606	Homo sapiens	8231	0	live	CND		Corneal dermoids		Xq24-qter	X						304730	
+9606	Homo sapiens	8137	0	live	HYD2		hypodontia 2 (autosomal recessive)	hypodontia, autosomal recessive (2)	16q12.1	16						602639	
+9606	Homo sapiens	8126	0	live	MRST		Mental retardation, severe, with spasticity and tapetoretinal		15q24	15						602685	
+9606	Homo sapiens	7971	0	live	GHS		Goldenhar syndrome									141400	
+9606	Homo sapiens	7911	0	live	SM1		Schistosoma mansoni, susceptibility/resistance to		5q31-q33	5						181460	
+9606	Homo sapiens	7910	0	live	PFBI		Plasmodium falciparum blood infection levels		5q31-q33	5						248310	
+9606	Homo sapiens	7892	0	live	FECB		Fecundity gene, Boorla, of sheep, homolog of		4q21-q25	4						134720	
+9606	Homo sapiens	7885	0	live	CRSA	CRS3	Craniosynostosis, Adelaide type		4p16	4						600593	
+9606	Homo sapiens	7792	0	live	CCV	CTRCT8	cataract, congenital, Volkmann type		1p36	1						115665	
+9606	Homo sapiens	7523	0	live	XS	LUXS	X-linked suppressor of LU antigens	Lutheran suppressor, X-linked	Xp21.2-q21.1	X						309050	
+9606	Homo sapiens	7467	0	live	WHCR	PRDS	Wolf-Hirschhorn syndrome		4p16	4						194190	
+9606	Homo sapiens	7446	0	live	AVSD1	AVCD, AVCD1, AVSD, VSD1	atrioventricular septal defect 1	ventricular septal defect 1	1p31-p21	1						606215	
+9606	Homo sapiens	7438	0	live	VMD1		vitelliform macular dystrophy, atypical									153840	
+9606	Homo sapiens	7420	0	live	VDI	DIPI	vesicular stomatitis virus defective interfering particle suppression			16						125260	
+9606	Homo sapiens	7085	0	live	TKCR	TKC	torticollis, keloids, cryptorchidism and renal dysplasia		Xq28	X						314300	
+9606	Homo sapiens	7055	0	live	THAS	TAS	thoracoabdominal syndrome		Xq25-q26.1	X						313850	
+9606	Homo sapiens	6893	0	live	TAPVR1	APVR, TAPVR	total anomalous pulmonary venous return 1		4p13-q11	4						106700	
+9606	Homo sapiens	6116	0	live	RP24		retinitis pigmentosa 24 (X-linked recessive)		Xq26-q27	X						300155	
+9606	Homo sapiens	6114	0	live	RP22		retinitis pigmentosa 22 (autosomal recessive)		16p12.3-p12.1	16						602594	
+9606	Homo sapiens	6104	0	live	RP6		retinitis pigmentosa 6 (X-linked recessive)		Xp21.3-p21.2	X						312612	
+9606	Homo sapiens	5765	0	live	PTOS1		ptosis, congenital 1 (autosomal dominant)		1p34.1-p32	1						178300	
+9606	Homo sapiens	5120	0	live	PCOS1	PCO, PCO1	polycystic ovary syndrome 1		19p13.2	19						184700	
+9606	Homo sapiens	4964	0	live	OFC2		orofacial cleft 2		2p14-p13	2						602966	
+9606	Homo sapiens	4934	0	live	NYS3	CN	nystagmus 3, congenital autosomal dominant		7p11	7						608345	
+9606	Homo sapiens	4819	0	live	NKS1	EC-1, EC1	natural killer cell susceptibility 1	Susceptibility to lysis by alloreactive natural killer cells	6p21.3	6						272370	
+9606	Homo sapiens	4429	0	live	MRXS7		mental retardation, X-linked, syndromic 7		Xp11.3-q22.1	X						300218	
+9606	Homo sapiens	4416	0	live	MRX53		mental retardation, X-linked 53		Xq22.2-q24	X						300324	
+9606	Homo sapiens	4406	0	live	MRX42		mental retardation, X-linked 42		Xq26	X						300372	
+9606	Homo sapiens	4387	0	live	MRX23		mental retardation, X-linked 23		Xq23-q24	X						300046	
+9606	Homo sapiens	4384	0	live	MRX20		mental retardation, X-linked 20		Xp11-q21	X						300047	
+9606	Homo sapiens	4265	0	live	MHS4		malignant hyperthermia susceptibility 4		3q13.1	3						600467	
+9606	Homo sapiens	3719	0	live	JBS		Jacobsen syndrome		11q24.1	11						147791	
+9606	Homo sapiens	3063	0	live	HCVS		human coronavirus sensitivity		15q11-qter	15						122460	
+9606	Homo sapiens	2933	0	live	GSM1	GSP	geniospasm 1		9q13-q21	9						190100	
+9606	Homo sapiens	2233	0	live	FEB1		febrile convulsions 1		8q13-q21	8						121210	
+9606	Homo sapiens	2032	0	live	ENUR2		enuresis, nocturnal 2		12q13-q21	12						600808	
+9606	Homo sapiens	2031	0	live	ENUR1		enuresis, nocturnal 1		13q13-q14.3	13						600631	
+9606	Homo sapiens	1940	0	live	EEGV1	EEGL	electro-encephalographic variant pattern 1		20q	20						130180	
+9606	Homo sapiens	1913	0	live	EEC1	EEC	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 1	Ectrodactyly, ectodermal dysplasia, cleft lip/palate, 1	7q11.2-q21.3	7						129900	
+9606	Homo sapiens	1881	0	live	EBM		epidermolysis bullosa, macular type		Xq27.3-qter	X						302000	
+9606	Homo sapiens	1713	0	live	DFNB20		deafness, autosomal recessive 20		11q25-qter	11						604060	
+9606	Homo sapiens	1706	0	live	DFNB14		deafness, autosomal recessive 14		7q31	7						603678	
+9606	Homo sapiens	1697	0	live	DFNB5		deafness, autosomal recessive 5		14q12	14						600792	
+9606	Homo sapiens	1694	0	live	DFNA16		deafness, autosomal dominant 16		2q24	2						603964	
+9606	Homo sapiens	1541	0	live	CYMD	DCMD, MDDC	cystoid macular dystrophy		7p21-p15	7						153880	
+9606	Homo sapiens	1319	0	live	CORD1	CORD, CRD1	cone rod dystrophy 1 (autosomal dominant)		18q21.1-q21.3	18						600624	
+9606	Homo sapiens	1275	0	live	COD2	CORDX2	cone dystrophy 2 (X-linked)		Xq27	X						300085	
+9606	Homo sapiens	1167	0	live	CLA3	CPD1, SCAR6	cerebellar ataxia 3 (cerebellar parenchyma disorder 1)	cerebellar ataxia, infantile nonprogressive, autosomal recessive|cerebellar parenchyma disorder 1	20q11-q13	20						608029	
+9606	Homo sapiens	882	0	live	CCAL1	CPDD	chondrocalcinosis 1 (calcium pyrophosphate-deposition disease, early onset osteoarthritis)		8q	8						600668	
+9606	Homo sapiens	878	0	live	CCA1	CTRCT7	cataract, congenital, cerulean type, 1		17q24	17						115660	
+9606	Homo sapiens	470	0	live	ATHS	ALP	atherosclerosis susceptibility (lipoprotein associated)		19p13.3-p13.2	19						108725	
+9606	Homo sapiens	253	0	live	ALS3	ALS6	amyotrophic lateral sclerosis 3 (autosomal dominant)		18q21	18						606640	
+9606	Homo sapiens	201	0	live	AIH3		amelogenesis imperfecta 3, hypomaturation or hypoplastic type		Xq22-q28	X						301201	
+9606	Homo sapiens	169	0	live	AF8T		AF8 temperature sensitivity complementing	cell cycle controller G1|tsAF8 complementing		3						116950	
+9606	Homo sapiens	100188867	0	live	HPC14		Prostate cancer, hereditary, 14		11q13	11						611958	
+9606	Homo sapiens	50942	0	live	IBD6		inflammatory bowel disease 6		19p13	19						606674	
+9606	Homo sapiens	2522	0	live	FUSE		polykaryocytosis promoter	Polykaryocytosis inducer		10						174750	
+9606	Homo sapiens	100188841	0	live	CRCS2		Colorectal cancer, susceptibility to, 2		8q24	8						611469	
+9606	Homo sapiens	100188834	0	live	HPC10		Prostate cancer, hereditary, 10		8q24	8						611100	
+9606	Homo sapiens	170595	0	live	IBD8		inflammatory bowel disease 8		16p	16						606668	
+9606	Homo sapiens	553195	0	live	MYP10		myopia 10		8p23	8						609259	
+9606	Homo sapiens	100190931	0	live	IBD18		Inflammatory bowel disease-18		5p13.1	5						612262	
+9606	Homo sapiens	105259600	0	live	CXDUPQ26.3	DUPXq26.3, XLAG	Chromosome Xq26.3 duplication syndrome		Xq26.3	X						300942	
+9606	Homo sapiens	101448070	0	live	GLC1P		glaucoma 1, open angle, P		12q14	12						615141	
+9606	Homo sapiens	101180907	0	live	USH1K		Usher syndrome 1K (autosomal recessive)		10p11.21-q21.1	10						614990	
+9606	Homo sapiens	100329170	0	live	SCZD13		schizophrenia 13		15q13	15						613025	
+9606	Homo sapiens	100329168	0	live	LGV2	LVG2	longevity 2		6q21	6						606460	
+9606	Homo sapiens	100188321	0	live	HYT8		hypertension, essential, susceptibility to, 8		18q21.2	18						611014	
+9606	Homo sapiens	100049707	0	live	SPG38		spastic paraplegia 38 (autosomal dominant, Silver syndrome)		4p16-p15	4						612335	
+9606	Homo sapiens	100048906	0	live	GBD3		gallbladder disease 3		1p34.3	1						609919	
+9606	Homo sapiens	100048905	0	live	GBD2		gallbladder disease 2		1p36.21	1						609918	
+9606	Homo sapiens	780900	0	live	FGS5		FG syndrome 5		Xq22.3	X						300581	
+9606	Homo sapiens	677663	0	live	PAND3		panic disorder 3		4q31-q34	4						609985	
+9606	Homo sapiens	664728	0	live	CMD1Q		cardiomyopathy, dilated 1Q (autosomal dominant)		7q22.3-q31.1	7						609915	
+9606	Homo sapiens	619397	0	live	FEB6		febrile convulsions 6		18p11.2	18						609253	
+9606	Homo sapiens	619379	0	live	SPG29		spastic paraplegia 29 (autosomal dominant)		1p31.1-p21.1	1						609727	
+9606	Homo sapiens	574078	0	live	GLC1J	JOAG2	glaucoma 1, open angle, J (juvenile-onset)		9q22	9						608695	
+9606	Homo sapiens	574077	0	live	GLC1K	JOAG3	glaucoma 1, open angle, K (juvenile-onset)		20p12	20						608696	
+9606	Homo sapiens	554316	0	live	BMND4		Bone mineral density variation QTL 4		Xq27	X						300536	
+9606	Homo sapiens	554315	0	live	BMND5		Bone mineral density variation QTL 5		11q23	11						609354	
+9606	Homo sapiens	449018	0	live	EJM3		Epilepsy, juvenile myoclonic 3		6p21	6						608816	
+9606	Homo sapiens	449017	0	live	BMIQ6		body mass index QTL 6	Body mass index quantitative trait locus on chromosome 20, in children	20pter-p11.2	20						608559	
+9606	Homo sapiens	449016	0	live	BMIQ5		body mass index QTL 5	Body mass index quantitative trait locus on chromosome 16, in children	16p13	16						608558	
+9606	Homo sapiens	431710	0	live	ASPG1		Asperger syndrome, susceptibility to, 1		3q25-q27	3						608638	
+9606	Homo sapiens	408257	0	live	CILD4		Ciliary dyskinesia, primary, 4		15q13.1-q15.1	15						608646	
+9606	Homo sapiens	406238	0	live	ALS7		amyotrophic lateral sclerosis 7		20p13	20						608031	
+9606	Homo sapiens	404719	0	live	HSCR8	HSCRM2	Hirschsprung disease modifier 2		16q23	16						608462	
+9606	Homo sapiens	387584	0	live	CHDS2		Coronary heart disease, susceptibility to, 2		2q21.1-q22	2						608316	
+9606	Homo sapiens	353124	0	live	EIG2	EGI14	Epilepsy, idiopathic generalized, susceptibility to 2		14q23	14						606972	
+9606	Homo sapiens	282553	0	live	AUTS8	AUTS2	Autism, susceptibility to, 8	Autism, susceptibility to, 2, formerly	3q25-q27	3						607373	
+9606	Homo sapiens	266691	0	live	DYX6	DYXQTL18	dyslexia susceptibility 6	Dyslexia QTL on 18	18p11.2	18						606616	
+9606	Homo sapiens	260432	0	live	SLSN3		Senior-Loken syndrome 3		3q22	3						606995	
+9606	Homo sapiens	171014	0	live	SLI2		Specific language impairment QTL, 2		19q	19						606712	
+9606	Homo sapiens	140805	0	live	HT		Hashimoto thyroiditis		8q23-q24	8						140300	
+9606	Homo sapiens	117188	0	live	ATOD5	ATPD5	Dermatitis, atopic, 5		13q12-q14	13						605844	
+9606	Homo sapiens	114477	0	live	ATOD6		Dermatitis, atopic, 6		5q31-q33	5						605845	
+9606	Homo sapiens	114475	0	live	AD7		Alzheimer disease 7		10p13	10						606187	
+9606	Homo sapiens	94003	0	live	PDB4		Paget disease of bone 4		5q31	5						606263	
+9606	Homo sapiens	85505	0	live	ACRPS		Acropectoral syndrome		7q36	7						605967	
+9606	Homo sapiens	65077	0	live	AOMS2		abdominal obesity-metabolic syndrome QTL2		17p12	17						605572	
+9606	Homo sapiens	65076	0	live	AOMS1	SYNX	Abdominal obesity-metabolic syndrome QTL1		3q27	3						605552	
+9606	Homo sapiens	65014	0	live	CMD1K		cardiomyopathy, dilated 1K (autosomal dominant)		6q12-q16	6						605582	
+9606	Homo sapiens	50979	0	live	MHW2		Mental health wellness 2		4q	4						603664	
+9606	Homo sapiens	27038	0	live	ARVD6		arrhythmogenic right ventricular dysplasia 6		10p14-p12	10						604401	
+9606	Homo sapiens	10386	0	live	MHW1		Mental health wellness 1		4p	4						603663	
+9606	Homo sapiens	8201	0	live	MLRL	MLRG, MTS	Myeloid leukemia-related gene (myeloid tumor suppressor)		20q11.2-q12	20						601308	
+9606	Homo sapiens	8129	0	live	HBHR	ATR1	alpha-thalassemia/mental retardation syndrome, type 1		16pter-p13.3	16						141750	
+9606	Homo sapiens	7933	0	live	OPLL		ossification of posterior longitudinal ligament of spine									602475	
+9606	Homo sapiens	7926	0	live	IGLP2		immune response to synthetic polypeptides 2		6p21.3	6						147090	
+9606	Homo sapiens	7925	0	live	IGLP1		immune response to synthetic polypeptides 1	Immune response to synthetic polypeptides-1	6p21.3	6						147080	
+9606	Homo sapiens	7880	0	live	MBS2	HCFP1	Moebius syndrome 2	hereditary congenital facial paresis 1	3q21-q22	3						601471	
+9606	Homo sapiens	7488	0	live	WS2B		Waardenburg syndrome, type 2B		1p21-p13.3	1						600193	
+9606	Homo sapiens	4266	0	live	MHS6		malignant hyperthermia susceptibility 6		5p	5						601888	
+9606	Homo sapiens	3548	0	live	IHG1	IHG	iris hypoplasia with glaucoma 1			X						308500	
+9606	Homo sapiens	3247	0	live	HPFH2		hereditary persistence of fetal hemoglobin, heterocellular, Indian type		7q36	7						142335	
+9606	Homo sapiens	100190929	0	live	IBD15		Inflammatory bowel disease-15		10q21	10						612255	
+9606	Homo sapiens	100310785	0	live	ALL1		Leukemia, acute lymphocytic, susceptibility to, 1		10q21	10						613065	
+9606	Homo sapiens	100529099	0	live	DUP2Q31.1	C2DUPq31.1	Chromosome 2q31.1 duplication syndrome		2q31.1	2						613681	
+9606	Homo sapiens	100306940	0	live	FL1		Follicular lymphoma, susceptibility to, 1		6p21.33	6						613024	
+9606	Homo sapiens	100233147	0	live	ARHI1		Age-related hearing impairment 1		8q24.13-q24.22	8						612448	
+9606	Homo sapiens	450090	0	live	ADHD4		Attention deficit-hyperactivity disorder, susceptibility to, 4		5p13	5						608906	
+9606	Homo sapiens	450089	0	live	ADHD3	LOAS	Attention deficit-hyperactivity disorder, susceptibility to, 3		6q12	6						608905	
+9606	Homo sapiens	450088	0	live	ADHD2		Attention deficit-hyperactivity disorder, susceptibility to, 2		17p11	17						608904	
+9606	Homo sapiens	387581	0	live	AITD4		Autoimmune thyroid disease, susceptibility to, 4		10q	10						608176	
+9606	Homo sapiens	387578	0	live	AITD1		Autoimmune thyroid disease, susceptibility to, 1		6p11	6						608173	
+9606	Homo sapiens	387577	0	live	AUTS3		Autism, susceptibility to, 3		13q13.2-q14.1	13						608049	
+9606	Homo sapiens	378427	0	live	AIS3	VAMAS4	autoimmune susceptibility 3 (vitiligo specific)			8						608392	
+9606	Homo sapiens	378426	0	live	AIS2	VAMAS3	autoimmune susceptibility 2			7						608391	
+9606	Homo sapiens	282849	0	live	SLEN3		systemic lupus erythematosus with nephritis 3		11p15.5	11						607967	
+9606	Homo sapiens	282552	0	live	IS2	AIS2	Scoliosis, idiopathic 2		17p11.2	17						607354	
+9606	Homo sapiens	192679	0	live	SLEN2		systemic lupus erythematosus with nephritis 2		2q34-q35	2						607966	
+9606	Homo sapiens	192677	0	live	SLEN1		systemic lupus erythematosus with nephritis 1		10q22.3	10						607965	
+9606	Homo sapiens	117187	0	live	ATOD3		Dermatitis, atopic, 3		20p	20						605804	
+9606	Homo sapiens	85502	0	live	SCAR3	SCABD	spinocerebellar ataxia, autosomal recessive 3	spinocerebellar ataxia with blindness and deafness	6p23-p21	6							
+9606	Homo sapiens	7939	0	live	LAP		Laryngeal adductor paralysis		6p21.3-p21.2	6						150270	
+9606	Homo sapiens	100188832	0	live	AUTS1		Autism, susceptibility to, 1		7q22	7						209850	
+9606	Homo sapiens	100151644	0	live	OTSC8		otosclerosis 8		9p13.1-q21.11	9						612096	
+9606	Homo sapiens	100038248	0	live	PSNP3		Supranuclear palsy, progressive, 3		11p12-p11	11						610898	
+9606	Homo sapiens	553194	0	live	MYP9		myopia 9		4q12	4						609258	
+9606	Homo sapiens	553192	0	live	MYP8		myopia 8		3q26	3						609257	
+9606	Homo sapiens	553190	0	live	MYP7		myopia 7		11p13	11						609256	
+9606	Homo sapiens	282550	0	live	STQTL4		stature quantitative trait locus 4		13q32-q33	13						606258	
+9606	Homo sapiens	282549	0	live	STQTL3		stature quantitative trait locus 3		12p11.2-q14	12						606257	
+9606	Homo sapiens	192149	0	live	BMIQ2		body mass index QTL 2	Body mass index QTL on chromosome 13|body mass index quantitative trait 2	13q14	13						606643	
+9606	Homo sapiens	170815	0	live	BMIQ1		body mass index QTL 1	Body mass index QTL on chromosome 7|body mass index quantitative trait 1	7q32.3	7						606641	
+9606	Homo sapiens	3244	0	live	HPE1	HPEC	holoprosencephaly 1, alobar		21q22.3	21						236100	
+9606	Homo sapiens	1884	0	live	EBR3	ULG4	epidermolysis bullosa 3, progressiva									226500	
+9606	Homo sapiens	100329169	0	live	CRCS9		colorectal cancer, susceptibility to, 9		16q22.1	16						612590	
+9606	Homo sapiens	100271692	0	live	CRCS11		Colorectal cancer, susceptibility to, 11		20p12.3	20						612592	
+9606	Homo sapiens	100188887	0	live	CRCS5		Colorectal cancer, susceptibility to, 5		10p14	10						612230	
+9606	Homo sapiens	100188865	0	live	LMPH1B		Lymphedema, hereditary, IB		6q16.2-q22.1	6						611944	
+9606	Homo sapiens	100187710	0	live	CRCS6		colorectal cancer, susceptibility to, 6		8q23	8						612231	
+9606	Homo sapiens	100101426	0	live	MRT11		mental retardation, non-syndromic, autosomal recessive, 11		19q13.2-q13.3	19						611097	
+9606	Homo sapiens	100101425	0	live	MRT10	MRT20	mental retardation, non-syndromic, autosomal recessive, 10		16p12-q12	16						611096	
+9606	Homo sapiens	100101424	0	live	MRT9	MRT26	mental retardation, non-syndromic, autosomal recessive, 9		14q11.2-q12	14						611095	
+9606	Homo sapiens	100359400	0	live	DFNB83		deafness, autosomal recessive 83		9p23-p21.2	9						613685	
+9606	Homo sapiens	100359399	0	live	DFNB85		deafness, autosomal recessive 85		17p12-q11.2	17						613392	
+9606	Homo sapiens	100270641	0	live	MYP16		myopia 16		5p15.33-p15.2	5						612554	
+9606	Homo sapiens	619406	0	live	HPE8		holoprosencephaly 8		14q13	14						609408	
+9606	Homo sapiens	4096	0	live	MAFD2	BPAD, MDI, MDX	major affective disorder 2		Xq27-q28	X						309200	
+9606	Homo sapiens	1858	0	live	DWS	C3DELq22q24, DEL3q22q24	dandy-walker syndrome		3q22-q24	3						220200	
+9606	Homo sapiens	619469	0	live	DELYQ11	CYDELq11, SCO, SPGFY1	Sertoli cell-only syndrome, Y-linked		Yq11	Y						400042	
+9606	Homo sapiens	171157	0	live	SHFM5		split hand/foot malformation (ectrodactyly) type 5		2q31	2						606708	
+9606	Homo sapiens	100302563	0	live	MENAQ3		Menarche, age at, QTL3		9q31.2	9						612883	
+9606	Homo sapiens	7908	0	live	EOS		eosinophilia, familial		5q31-q33	5						131400	
+9606	Homo sapiens	100852403	0	live	MRT25		mental retardation, non-syndromic, autosomal recessive, 25		12q13-q15	12						614346	
+9606	Homo sapiens	100852402	0	live	MRT24		mental retardation, non-syndromic, autosomal recessive, 24		6p12	6						614345	
+9606	Homo sapiens	100852398	0	live	MRT23		mental retardation, non-syndromic, autosomal recessive, 23		11p13-q14	11						614344	
+9606	Homo sapiens	100852396	0	live	MRT28		mental retardation, non-syndromic, autosomal recessive, 28		6q26-q27	6						614347	
+9606	Homo sapiens	100852395	0	live	MRT19		mental retardation, non-syndromic, autosomal recessive, 19		18p11	18						614343	
+9606	Homo sapiens	6762	0	live	ST3	CCTS, TSHL	suppression of tumorigenicity 3	tumor-suppressor, HELA cell type	11q13-q23	11						191181	
+9606	Homo sapiens	387569	0	live	ACF		Asymmetric crying facies (Cayler cardiofacial syndrome)		22q11	22						125520	
+9606	Homo sapiens	100302515	0	live	OFC12		Orofacial cleft 12		8q24.3	8						612858	
+9606	Homo sapiens	100188776	0	live	HEY		hairy ears, Y-linked		Yq	Y						425500	
+9606	Homo sapiens	5953	0	live	RCD1		retinal cone dystrophy 1		6q25-q26	6						180020	
+9606	Homo sapiens	140892	0	live	TCPT		thrombocytopenia, Paris-Trousseau type		11q23	11						188025	
+9606	Homo sapiens	100049542	0	live	SHFM3	C10DUPq24, DUP10q24, SHSF3	Split-hand/foot malformation 3		10q24	10						246560	
+9606	Homo sapiens	8213	0	live	BAS		Beta-adrenergic stimulation, response to			21						109670	
+9606	Homo sapiens	8205	0	live	TAM	MST	Myeloproliferative syndrome, transient (transient abnormal	Myeloproliferative syndrome, transient (transient abnormal myelopoiesis)	21q11.2	21						159595	
+9606	Homo sapiens	141462386	0	live	ASRT2		Asthma-related traits, susceptibilty to, 2		7p15-p14	7						608584	
+9606	Homo sapiens	141445967	0	live	RDXGH		Retinal dystrophy, X-linked, Gardener-Hardcastle type		Xq27	X						301149	
+9606	Homo sapiens	140918576	0	live	ADLDAT		Leukodystrophy, demyelinating, adult-onset, autosomal dominant, atypical		5q23.2	5						621061	
+9606	Homo sapiens	138637319	0	live	DHRSY	CDG1DD	Congenital disorder of glycosylation, type 1DD		Yp11.2	Y						400049	
+9606	Homo sapiens	137587484	0	live	ANIB5		Aneurysm, intracranial berry, 5		Xp22	X						300870	
+9606	Homo sapiens	137299212	0	live	PAINQTL1		?Pain sensitivity QTL1		1p33	1						618377	
+9606	Homo sapiens	137299211	0	live	THPH9		?Thrombophilia 9 due to decreased release of tissue plasminogen		8p12	8						612348	
+9606	Homo sapiens	137299210	0	live	HDCPH1		?Hydrocephalus, autosomal dominant		8q12.2-q21.2	8						123155	
+9606	Homo sapiens	135933881	0	live	MRXS32		Intellectual developmental disorder, X-linked, syndromic 32			X						300886	
+9606	Homo sapiens	134198642	0	live	PSS3		Peeling skin syndrome 3		19q13	19						616265	
+9606	Homo sapiens	132660286	0	live	LBNBG		Liebenberg syndrome		5q31.1	5						186550	
+9606	Homo sapiens	131554434	0	live	TFQTL2		Transferrin serum level quantitative trait locus 2		6p22.2	6						614193	
+9606	Homo sapiens	131554433	0	live	MVCD7		Microvascular complications of diabetes, susceptibility to, 7		6p22.2	6						612635	
+9606	Homo sapiens	131341973	0	live	HDLCQ7		High density lipoprotein cholesterol level QTL7		6p24.1	6						618979	
+9606	Homo sapiens	130068899	0	live	CMTD1A		Charcot-Marie-Tooth disease, dominant intermediate A		10q24.1-q25.1	10						620378	
+9606	Homo sapiens	128251602	0	live	OBHP		Obesity and hypopigmentation		20q11	20						620195	
+9606	Homo sapiens	126980184	0	live	APOGCDS		Familial apolipoprotein gene cluster deletion syndrome		11q23	11						620058	
+9606	Homo sapiens	126057104	0	live	BRDCS1	C21DELq22, DEL21q22	Braddock-Carey syndrome 1		21q22	21						619980	
+9606	Homo sapiens	124225058	0	live	DUPXQ13		Chromosome Xq13 duplication syndrome		Xq13.2-q13.3	X						301069	
+9606	Homo sapiens	123670537	0	live	DEL1P36	C1DELp36	Chromosome 1p36 deletion syndrome, proximal		1p36	1						619343	
+9606	Homo sapiens	123575591	0	live	C16DUPQ12	DUP16q12	Chromosome 16q12 duplication syndrome		16q12	16						619649	
+9606	Homo sapiens	122757968	0	live	DFNB118		Deafness, autosomal recessive 118, with cochlear aplasia		8q22	8						619553	
+9606	Homo sapiens	122757967	0	live	HYPOFP		Hypoplastic femurs and pelvis		10q24	10						619545	
+9606	Homo sapiens	120623201	0	live	ENDOVESL		ENDOVE syndrome, limb-only type		2q14	2						619217	
+9606	Homo sapiens	120325367	0	live	GEFSP7	FEB3B	Generalized epilepsy with febrile seizures plus, type 7		2q23-q24	2						613863	
+9606	Homo sapiens	120284188	0	live	FGLDS2		Feingold syndrome 2		13q31.3	13						614326	
+9606	Homo sapiens	119979774	0	live	DEL13Q33Q34	C13DELq33q34	Chromosome 13q33-q34 deletion syndrome		13q33-q34	13						619148	
+9606	Homo sapiens	118027463	0	live	SRS2		Silver-Russell syndrome 2		7p13-q32	7						618905	
+9606	Homo sapiens	117532354	0	live	DUP17Q11.2	C17DUPq11.2	Chromosome 17q11.2 duplication syndrome, 1.4-Mb		17q11.2	17						618874	
+9606	Homo sapiens	117204004	0	live	C1DUPP36.33	DUP1p36.33	Chromosome 1p36.33 duplication syndrome, ATAD3 gene cluster		1p36.33	1						618815	
+9606	Homo sapiens	117204003	0	live	MGR11		Migraine with or without aura, susceptibility to, 11		18q12.1	18						610209	
+9606	Homo sapiens	117204002	0	live	MGR10		Migraine with or without aura, susceptibility to, 10		17p13.1	17						610208	
+9606	Homo sapiens	116814567	0	live	BDPLT9		Bleeding disorder, platelet-type, 9		5q11.2	5						614200	
+9606	Homo sapiens	116814566	0	live	BDPLT14		Bleeding disorder, platelet-type, 14		7q34	7						614158	
+9606	Homo sapiens	115029024	0	live	DYT23		Dystonia 23		9q34	9						614860	
+9606	Homo sapiens	114349542	0	live	MXLPO		Myxoid liposarcoma		12q13.1	12						613488	
+9606	Homo sapiens	112499599	0	live	C1DELP35	DEL1p35	Chromosome 1p35 deletion syndrome		1p35	1						617930	
+9606	Homo sapiens	112441440	0	live	MRD4		Mental retardation, autosomal dominant 4		11q24.2	11						612581	
+9606	Homo sapiens	112272595	0	live	TTPP3		Thyrotoxic periodic paralysis, susceptibility to, 3		17q24.3	17						614834	
+9606	Homo sapiens	110366357	0	live	PACD		Corneal dystrophy, posterior amorphous		12q21.33	12						612868	
+9606	Homo sapiens	109819370	0	live	MBCS		Mulchandani-Bhoj-Conlin syndrome		20q11-q13	20						617352	
+9606	Homo sapiens	109136577	0	live	DEL19Q13.11P	C19DELq13.11p	Chromosome 19q13.11 deletion syndrome, proximal		19q13.11	19						617219	
+9606	Homo sapiens	108684029	0	live	DUPXQ25		Xq25 duplication syndrome		Xq25	X						300979	
+9606	Homo sapiens	108353827	0	live	PARK21		Parkinson disease 21		3q22	3						616361	
+9606	Homo sapiens	107648861	0	live	DEL11P13	C11DELp13	Chromosome 11p13 deletion syndrome, distal		11p13	11						616902	
+9606	Homo sapiens	107522105	0	live	DEL15Q14	C15DELq14	Chromosome 15q14 deletion syndrome		15q14	15						616898	
+9606	Homo sapiens	107181289	0	live	NBLST7		Neuroblastoma, susceptibility to, 7		11p15	11						616792	
+9606	Homo sapiens	107063609	0	live	KAOGS		Kagami-Ogata syndrome		14q32	14						608149	
+9606	Homo sapiens	106865367	0	live	MRD2		Mental retardation, autosomal dominant 2		9p24	9						614113	
+9606	Homo sapiens	106799914	0	live	YUHAL		Yuan-Harel-Lupski syndrome		17p12-p11.2	17						616652	
+9606	Homo sapiens	106699576	0	live	RC14S		Ring chromosome 14 syndrome			14						616606	
+9606	Homo sapiens	106699575	0	live	DUP14Q32	C14DUPq32	Myeloproliferative neoplasms, familial, susceptibility to		14q32	14						616604	
+9606	Homo sapiens	105463129	0	live	MRX88		Mental retardation, X-linked 88		Xq24	X						300852	
+9606	Homo sapiens	105463127	0	live	PFHB2		Progressive familial heart block, type II		1q32	1						140400	
+9606	Homo sapiens	105463126	0	live	ATOD9		Dermatitis, atopic, 9		3p24	3						613519	
+9606	Homo sapiens	105463125	0	live	ATOD8		Dermatitis, atopic, 8		4q22.1	4						613518	
+9606	Homo sapiens	105274375	0	live	TEMPS		Temple syndrome		14q32	14						616222	
+9606	Homo sapiens	105180377	0	live	CMTS		Chronic mountain sickness, susceptibility to		12q13	12						616182	
+9606	Homo sapiens	105031671	0	live	VVS		Syncope, familial vasovagal		15q26	15						609289	
+9606	Homo sapiens	104326187	0	live	EA8		Episodic ataxia, type 8		1p36.13-p34.3	1						616055	
+9606	Homo sapiens	103875461	0	live	SPDT		Spondyloepiphyseal dysplasia tarda, autosomal dominant		12q13	12						184100	
+9606	Homo sapiens	103753528	0	live	DUPXP11.22	MRX17, MRX31	Xp11.22 microduplication syndrome		Xp11.22	X						300705	
+9606	Homo sapiens	103611079	0	live	ASOBS		Asthma and obesity susceptibility, chromosome 16p11 inversion related		16p11	16						615835	
+9606	Homo sapiens	103581096	0	live	OFC14		Orofacial cleft 14		1p31	1						615892	
+9606	Homo sapiens	103344927	0	live	FRIASS	C14DELq22, DEL14q22	Frias syndrome		14q22.1-q22.3	14						609640	
+9606	Homo sapiens	103171572	0	live	DUP8Q22.1	C8DUPq22.1	Leri pleonosteosis chromosome duplication syndrome		8q22.1	8						151200	
+9606	Homo sapiens	103106902	0	live	ETL6		Epilepsy, familial temporal lobe, 6		3q25-q26	3						615697	
+9606	Homo sapiens	102997065	0	live	DDD3		Dowling-Degos disease 3		17p13.3	17						615674	
+9606	Homo sapiens	102997064	0	live	DEL5Q12	C5DELq12	Chromosome 5q12 deletion sydrome		5q12	5						615668	
+9606	Homo sapiens	102775568	0	live	MRX95		Mental retardation, X-linked 95			X						300716	
+9606	Homo sapiens	102775567	0	live	DDH2		Developmental dysplasia of the hip 2		3p22.2	3						615612	
+9606	Homo sapiens	102775565	0	live	MRX92		Mental retardation, X-linked 92		Xp11.3	X						300851	
+9606	Homo sapiens	102503428	0	live	DUP22Q13	C22DUPq13	Chromosome 22q13 duplication syndrome		22q13	22						615538	
+9606	Homo sapiens	102216266	0	live	DEL3Q13.31	C13DELq13.31	Chromosome 3q13.31 deletion syndrome		3q13.31	3						615433	
+9606	Homo sapiens	102095631	0	live	VUR7		Vesicoureteral reflux 7		12p11-q13	12						615390	
+9606	Homo sapiens	101910199	0	live	PFFE1		Plasmodium falciparum fever episodes QTL1		10p15	10						611384	
+9606	Homo sapiens	101867602	0	live	CTRCT29		Cataract 29, coralliform		2pter-p24	2						115800	
+9606	Homo sapiens	101669760	0	live	PAURT1		Preauricular tag, isolated, autosomal dominant, 1		14q11.2-q12	14						610420	
+9606	Homo sapiens	101448072	0	live	RLS8		Restless legs syndrome, susceptibility to, 8		5q31	5						615197	
+9606	Homo sapiens	101448071	0	live	BWQTL4		Birth weight QTL4		6p22.3	6						615192	
+9606	Homo sapiens	101409266	0	live	MRT35		Mental retardation, autosomal recessive 35		17q21.31-q22	17						615162	
+9606	Homo sapiens	101290499	0	live	OPHLC	C1DUPp31.3, DUP1p31.3	Omphalocele due to duplication of 1p31.3		1p31.3	1						164750	
+9606	Homo sapiens	101241899	0	live	KAZA3		Kala-azar, susceptibility to, 3		6q27	6						611382	
+9606	Homo sapiens	101241898	0	live	KAZA2		Kala-azar, susceptibility to, 2		1p22	1						611381	
+9606	Homo sapiens	101241897	0	live	PAPA5		Polydactyly, postaxial, type A5		13q13.3-q21	13						263450	
+9606	Homo sapiens	101202686	0	live	ARCI7		Ichthyosis, congenital, autosomal recessive 7		12p11.2-q13.1	12						615022	
+9606	Homo sapiens	101154752	0	live	PPKP1B		Keratoderma, palmoplantar, punctate type IB		8q24.13-q24.21	8						614936	
+9606	Homo sapiens	101154649	0	live	MBNP		?Membranous nephropathy, susceptibility to		6p21.3	6						614692	
+9606	Homo sapiens	101154642	0	live	CHDT3		Congenital heart defects, multiple types, 3		9q31.1	9						614954	
+9606	Homo sapiens	101101770	0	live	ECTD6		Ectodermal dysplasia 6, hair/nail type		17p12-q21.2	17						614928	
+9606	Homo sapiens	101101769	0	live	ECTD5		Ectodermal dysplasia 5, hair/nail type		10q24.32-q25.1	10						614927	
+9606	Homo sapiens	101101768	0	live	ECTD8		Ectodermal dysplasia 8, hair/tooth/nail type		18q22.1-q22.3	18						602401	
+9606	Homo sapiens	101060869	0	live	LVSKS		Levy-Shanske syndrome		15q26-qter	15						614846	
+9606	Homo sapiens	101059903	0	live	HMSN5		Hereditary motor and sensory neuropathy V		4q34.3-q35.2	4						600361	
+9606	Homo sapiens	101056702	0	live	HHV8S		Human herpesvirus 8, susceptibility to		3p22	3						614836	
+9606	Homo sapiens	101027378	0	live	ETM3		Tremor, hereditary essential, 3		6p23	6						611456	
+9606	Homo sapiens	100996949	0	live	PDA1		Patent ductus arteriosus, susceptibility to		12q24	12						607411	
+9606	Homo sapiens	100996935	0	live	UAQTL6		Uric acid concentration, serum, QTL6		1q21.1	1						614747	
+9606	Homo sapiens	100996934	0	live	UAQTL5		Uric acid concentration, serum, QTL5		19q13	19						614746	
+9606	Homo sapiens	100913186	0	live	BDLN1		body length, human homolog of mouse body length 1		Xq24-q28	X						300054	
+9606	Homo sapiens	100909387	0	live	CMH21		Cardiomyopathy, familial hypertrophic, 21		7p12.1-q21	7						614676	
+9606	Homo sapiens	100909386	0	live	STUT3		Stuttering, familial persistent, 3		3q13.2-q13.33	3						614655	
+9606	Homo sapiens	100909385	0	live	STUT4		Stuttering, familial persistent, 4		16q12.1-q23.1	16						614668	
+9606	Homo sapiens	100887822	0	live	KTCN7		Keratoconus 7		13q32	13						614629	
+9606	Homo sapiens	100887753	0	live	MPVQTL4		Mean platelet volume QTL4		6p21.3-p21.2	6						614644	
+9606	Homo sapiens	100887752	0	live	MPVQTL5		Mean platelet volume QTL5		6q23.3	6						614645	
+9606	Homo sapiens	100887751	0	live	MPVQTL6		Mean platelet volume QTL6		7q22.3	7						614646	
+9606	Homo sapiens	100887743	0	live	DELXQ21	CXDELq21	Choroideremia, deafness, and mental retardation		Xq21	X						303110	
+9606	Homo sapiens	100885803	0	live	KTCN8		Keratoconus 8		14q24.3	14						614628	
+9606	Homo sapiens	100885802	0	live	KTCN6		Keratoconus 6		9q34	9						614623	
+9606	Homo sapiens	100885801	0	live	KTCN5		Keratoconus 5		5q14.1-q21.3	5						614622	
+9606	Homo sapiens	100885788	0	live	OTDD	C11DELq13, DEL11q13	Otodental dysplasia chromosome deletion syndrome		11q13	11						166750	
+9606	Homo sapiens	100885787	0	live	DEL8Q12Q21	C8DELq12q21	Bor-Duane hydrocephalus contiguous gene syndrome		8q12.2-q21.2	8						600257	
+9606	Homo sapiens	100885786	0	live	NMLFS	C8DELq22.1, DEL8q22.1	Nablus mask-like facial syndrome		8q22.1	8						608156	
+9606	Homo sapiens	100885774	0	live	PDCOS		Podoconiosis, susceptibility to		6p21.3	6						614590	
+9606	Homo sapiens	100884129	0	live	DUP17Q12	C17DUPq12	Chromosome 17q12 duplication syndrome		17q12	17						614526	
+9606	Homo sapiens	100874533	0	live	DUPXQ27.3Q28	CXDUPq27.3q28	Chromosome Xq27.3-q28 duplication syndrome		Xq27.3-q28	X						300869	
+9606	Homo sapiens	100874527	0	live	C16DELQ22	DEL16q22	Chromosome 16q22 deletion syndrome		16q22	16						614541	
+9606	Homo sapiens	100861529	0	live	HHPP		Hyperhidrosis palmaris et plantaris		14q11.2-q13	14						144110	
+9606	Homo sapiens	100859928	0	live	BMIQ16	C16DELp11.2, DEL16p.11.2	Chromosome 16p11.2 deletion syndrome, 220kb		16p11.2	16						613444	
+9606	Homo sapiens	100859927	0	live	AAA4		Aortic aneurysm, familial abdominal, 4		12q13.3	12						614375	
+9606	Homo sapiens	100852404	0	live	DEL17Q11.2	C17DELq11.2	chromosome 17q11.2 deletion syndrome	NF1 microdeletion syndrome|neurofibromatosis 1 microdeletion syndrome	17q11.2	17						613675	
+9606	Homo sapiens	100852401	0	live	MRT30		Mental retardation, autosomal recessive 30		6q12-q15	6						614342	
+9606	Homo sapiens	100852399	0	live	MRT31		Mental retardation, autosomal recessive 31		4q12-q13.1	4						614329	
+9606	Homo sapiens	100852394	0	live	MRT33		Mental retardation, autosomal recessive 33		17p13.2-p13.1	17						614341	
+9606	Homo sapiens	100852393	0	live	MRT29		Mental retardation, autosomal recessive 29		4q27-q28.2	4						614333	
+9606	Homo sapiens	100820763	0	live	VUR6		Vesicoureteral reflux 6		18q12.3	18						614319	
+9606	Homo sapiens	100820761	0	live	MRXSCS		Mental retardation, X-linked, syndromic, Chudley-Schwartz type		Xq21.33-q23	X						300861	
+9606	Homo sapiens	100820760	0	live	VUR5		Vesicoureteral reflux 5		13q33.2	13						614318	
+9606	Homo sapiens	100820758	0	live	CCCSX		Cerebral-cerebellar-coloboma syndrome, X-linked			X						300864	
+9606	Homo sapiens	100820757	0	live	VUR4		Vesicoureteral reflux 4		5q14.2	5						614317	
+9606	Homo sapiens	100820632	0	live	DEL15Q25	C15DELq25	Chromosome 15q25 deletion syndrome		15q25	15						614294	
+9606	Homo sapiens	100750329	0	live	TET18P		Tetrasomy 18p		18p	18						614290	
+9606	Homo sapiens	100750328	0	live	ANIB11		Aneurysm, intracranial berry, 11		8p22	8						614252	
+9606	Homo sapiens	100750238	0	live	EJM9		Epilepsy, juvenile myoclonic, susceptiblity to, 9		2q33-q36	2						614280	
+9606	Homo sapiens	100739996	0	live	MRXS17		Mental retardation, X-linked, syndromic 17		Xp21.1-p11.23	X						300858	
+9606	Homo sapiens	100736251	0	live	HYP10		Hypotrichosis 10		7p22.3-p21.3	7						614238	
+9606	Homo sapiens	100736250	0	live	HYPT9		Hypotrichosis 9		10q11.23-q22.3	10						614237	
+9606	Homo sapiens	100689491	0	live	DEL8Q21.11	C8DELq21.11	Chromosome 8q21.11 deletion syndrome		8q21.11	8						614230	
+9606	Homo sapiens	100689490	0	live	HNFJ3		Hyperuricemic nephropathy, familial juvenile, 3		2p22.1-p21	2						614227	
+9606	Homo sapiens	100689216	0	live	NRCLP6		Narcolepsy 6		19p13.2	19						614223	
+9606	Homo sapiens	100689215	0	live	PBC4		Biliary cirrhosis, primary, 4		7q32	7						614220	
+9606	Homo sapiens	100689214	0	live	HYSP4		Hypospadias 4, X-linked, susceptibilty to		Xp11.22	X						300856	
+9606	Homo sapiens	100689213	0	live	GFND1		Glomerulopathy with fibronectin deposits 1		1q32	1						137950	
+9606	Homo sapiens	100689212	0	live	PBC5		Biliary cirrhosis, primary, 5		17q12	17						614221	
+9606	Homo sapiens	100689211	0	live	HYSP3		Hypospadias 3, autosomal		7q32.2-q36.1	7						146450	
+9606	Homo sapiens	100689014	0	live	MRT16		Mental retardation, autosomal recessive 16		9p23-p13.3	9						614208	
+9606	Homo sapiens	100682395	0	live	LNCR5		Lung cancer susceptibility 5		3q28	3						614210	
+9606	Homo sapiens	100682326	0	live	MYP20		Myopia 20, autosomal dominant		13q12.12	13						614166	
+9606	Homo sapiens	100682325	0	live	NDNC9		Nail disorder, nonsyndromic congenital, 9		17q25.1-q25.3	17						614149	
+9606	Homo sapiens	100682260	0	live	HPPD		Hypertelorism, preauricular sinus, punctal pits, and deafness		14q31	14						614187	
+9606	Homo sapiens	100653393	0	live	CACD3		Choroidal dystrophy, central areolar 3									613144	
+9606	Homo sapiens	100653385	0	live	DEL3PTERP25	C3DELpterp25	3p- syndrome		3pter-p25	3						613792	
+9606	Homo sapiens	100653384	0	live	IGAN2		IgA nephropathy, susceptibility to, 2		2q36	2						613944	
+9606	Homo sapiens	100653383	0	live	PSMNSW		Parasomnia, sleepwalking type		20q12-q13.12	20						613938	
+9606	Homo sapiens	100653382	0	live	DEL13Q14	C13DELq14	Chromosome 13q14 deletion syndrome		13q14	13						613884	
+9606	Homo sapiens	100653381	0	live	GEFSP8		Generalized epilepsy with febrile seizures plus, type 8		6q16.3-q22.31	6						613828	
+9606	Homo sapiens	100653379	0	live	MYMY4	CXDELq38	Moyamoya disease 4		Xq28	X						300845	
+9606	Homo sapiens	100653375	0	live	ADIPQTL5		Adiponectin, serum level of, QTL5		16q23.3	16						613836	
+9606	Homo sapiens	100653374	0	live	DEL17P13.1	C17DELp13.1	Chromosome 17p13.1 deletion syndrome		17p13.1	17						613776	
+9606	Homo sapiens	100653373	0	live	KONDS		Kondoh syndrome		1p36.32-p35.3	1						606242	
+9606	Homo sapiens	100653372	0	live	SRXX3		46XX sex reversal 3		Xq26.3	X						300833	
+9606	Homo sapiens	100653370	0	live	MYP19		Myopia 19, autosomal dominant		5p15.1-p13.3	5						613969	
+9606	Homo sapiens	100653369	0	live	APMR3		Alopecia-mental retardation syndrome 3		18q11.2-q12.2	18						613930	
+9606	Homo sapiens	100653367	0	live	OFC13		Orofacial cleft 13		1p33	1						613857	
+9606	Homo sapiens	100653366	0	live	PSC		Cholangitis, primary sclerosing		3p21	3						613806	
+9606	Homo sapiens	100653365	0	live	BED		Bornholm eye disease		Xq28	X						300843	
+9606	Homo sapiens	100529243	0	live	DEL2P12P11.2	C2DELp12p11.2	Chromosome 2p12-p11.2 deletion syndrome		2p12-p11.2	2						613564	
+9606	Homo sapiens	100529242	0	live	DEL1Q41Q42	C1DELq41q42	Chromosome 1q41-q42 deletion syndrome		1q41-q42	1						612530	
+9606	Homo sapiens	100529231	0	live	MACST		Macrostomia		1p34-p32	1						613545	
+9606	Homo sapiens	100529228	0	live	TRIP4Q32.1Q32.2	C4TRIPq32.1q32.2	Chromosome 4q32.1-q32.2 triplication syndrome		4q32.1-q32.2	4						613603	
+9606	Homo sapiens	100529227	0	live	STQTL22		Stature QTL 22		16q24	16						613547	
+9606	Homo sapiens	100529226	0	live	DUP17Q21.31	C17DUPq21.31	Chromosome 17q21.31 duplication syndrome		17q21.31	17						613533	
+9606	Homo sapiens	100529224	0	live	FWS		Forsythe-Wakeling syndrome		1p33-p31.1	1						613606	
+9606	Homo sapiens	100529223	0	live	STQTL24		Stature QTL 24		2p16	2						613549	
+9606	Homo sapiens	100529222	0	live	STQTL23		Stature QTL 23		1p32	1						613548	
+9606	Homo sapiens	100529221	0	live	DEL6Q11Q14	C6DELq11q14	Chromosome 6q11-q14 deletion syndrome		6q11-q14	6						613544	
+9606	Homo sapiens	100529151	0	live	IBD11		Inflammatory bowel disease 11		7q22	7						191390	
+9606	Homo sapiens	100529149	0	live	DER22T8-22		Supernumerary der(22)t(8-22) syndrome		22q11.2	22						613700	
+9606	Homo sapiens	100529148	0	live	MDNS		Mammary-digital-nail syndrome		22q12.3-q13.1	22						613689	
+9606	Homo sapiens	100529146	0	live	DER22T11-22		Emanuel syndrome		22q11.2	22						609029	
+9606	Homo sapiens	100529119	0	live	SCLL		Chromosome 8p11 myeloproliferative syndrome		8p11	8						613523	
+9606	Homo sapiens	100528026	0	live	DEL4Q21	C4DELq21	Chromosome 4q21 deletion syndrome		4q21	4						613509	
+9606	Homo sapiens	100528025	0	live	SXGQTL1		Sex hormone-binding blobulin circulating level QTL 1		17p13	17						613498	
+9606	Homo sapiens	100528024	0	live	DEL11P13	C11DELp13, WAGR	Wilms tumor, aniridia, genitourinary anomalies and mental retardation syndrome		11p13	11						194072	
+9606	Homo sapiens	100526823	0	live	TST2		Tuberculin skin test reactivity QTL		5p15	5						613637	
+9606	Homo sapiens	100526791	0	live	DEL19P13.13	C19DELp13.13, C19DUPp13.13, DUP19p13.13	Chromosome 19p13.13 deletion syndrome		19p13.13	19						613638	
+9606	Homo sapiens	100526790	0	live	TST1		Tuberculin skin test reactivity, absence of		11p14	11						613636	
+9606	Homo sapiens	100526743	0	live	DUP17Q23.1Q23.2	C17DUPq23.1q23.2	Chromosome 17q23.1-q23.2 duplication syndrome		17q23.1-q23.2	17						613618	
+9606	Homo sapiens	100526742	0	live	DEL16P12.1P11.2	C16DELp12.1p11.2	Chromosome 16p12.2-p11.2 deletion syndrome		16p12.2-p11.2	16						613604	
+9606	Homo sapiens	100526741	0	live	DEL8Q13	C8DELq13	Mesomelia-synostoses syndrome		8q13	8						600383	
+9606	Homo sapiens	100505394	0	live	EDSS2		Ectodermal dysplasia-syndactyly syndrome 2		7p21.2-p14.3	7						613576	
+9606	Homo sapiens	100505393	0	live	DUP16P13.3	C16DUPq13.3	Chromosome 16p13.3 duplication syndrome		16p13.3	16						613458	
+9606	Homo sapiens	100505392	0	live	DEL14Q11Q22	C14DELq11q22	Chromosome 14q11-q22 deletion syndrome		14q11-q22	14						613457	
+9606	Homo sapiens	100505391	0	live	DEL6Q24Q25	C6DELq25q25	Chromosome 6q25-q25 deletion syndrome		6q24-q25	6						612863	
+9606	Homo sapiens	100505390	0	live	AAA2		Aortic aneurysm, familial abdominal 2		4q31	4						609782	
+9606	Homo sapiens	100505389	0	live	DELXP21	CXDELp21	Chromosome Xp21 deletion syndrome		Xp21	X						300679	
+9606	Homo sapiens	100502569	0	live	BWQTL2		Birth weight QTL 2		3q25.3	3						613459	
+9606	Homo sapiens	100502568	0	live	STQTL21		Stature QTL 21		2q37.1	2						613440	
+9606	Homo sapiens	100499532	0	live	ATPLS		antiphospholipid syndrome, familial	lupus anticoagulant, familial	6p21.3	6						107320	
+9606	Homo sapiens	100499260	0	live	AMMEC	CXDELq22.3, DELXq22.3	Alport syndrome, mental retardation, midface hypoplasia, and elliptocytosis		Xq22.3	X						300194	
+9606	Homo sapiens	100499169	0	live	FGQTL4		Fasting plasma glucose level QTL 4		7p21.2	7						613462	
+9606	Homo sapiens	100499168	0	live	FGQTL6	BWQTL3, PGQTL1	Fasting plasma glucose level QTL 6		3q21	3						613460	
+9606	Homo sapiens	100499167	0	live	EOE2		Esophagitis, eosinophilic, 2		5q22	5						613412	
+9606	Homo sapiens	100499166	0	live	LPRS6		Leprosy, susceptiblity to, 6		13q14.11	13						613407	
+9606	Homo sapiens	100499165	0	live	FGQTL1		Fasting plasma glucose level QTL 1		2q24-q32	2						612108	
+9606	Homo sapiens	100462725	0	live	NAFLD2		Fatty liver disease, nonalcoholic, susceptibility to, 2		11q23	11						613387	
+9606	Homo sapiens	100462724	0	live	OFC9		Orofacial cleft 9		13q33.1-q34	13						610361	
+9606	Homo sapiens	100462723	0	live	INTLQ2		Intelligence QTL3		2q24.1-q31.1	2						610295	
+9606	Homo sapiens	100462722	0	live	INTLQ3		Intelligence QTL3		6p25.3-p22.3	6						610294	
+9606	Homo sapiens	100462721	0	live	INTLQ1		Intelligence QTL1		4p16-q34	4						603783	
+9606	Homo sapiens	100415943	0	live	MGR9		Migraine with aura, susceptibility to, 9		11q24	11						609670	
+9606	Homo sapiens	100415942	0	live	DEL2P21	C2DELp21	Hypotonia-cystinuria syndrome		2p21	2						606407	
+9606	Homo sapiens	100415941	0	live	DEL17Q23.1Q23.2	C17DELq23.1q23.2	Chromosome 17q23.1-q23.2 deletion syndrome		17q23.1-q23.2	17						613355	
+9606	Homo sapiens	100415904	0	live	HWE2		Epilepsy, hot water, 2		4q24-q28	4						613340	
+9606	Homo sapiens	100415903	0	live	HWE1		Epilepsy, hot water, 1		10q21.3-q22.3	10						613339	
+9606	Homo sapiens	100415896	0	live	ASRT8		Asthma-related traits, susceptibility to, 8		9q33	9						613207	
+9606	Homo sapiens	100415895	0	live	GLM6		Glioma susceptibility 6		20q13.33	20						613031	
+9606	Homo sapiens	100415894	0	live	GLM5		Glioma susceptibility 5		9p21.3	9						613030	
+9606	Homo sapiens	100415893	0	live	DUPXQ28	CXq28	Chromosome Xq28 duplication syndrome		Xq28	X						300815	
+9606	Homo sapiens	100381210	0	live	CAMPD1		Camptodactyly 1		3q11.2-q13.12	3						114200	
+9606	Homo sapiens	100381207	0	live	CIHL		hearing loss, cisplatin-induced, susceptibility to		6p22.3	6						613290	
+9606	Homo sapiens	100381206	0	live	HCHGQ3		Hematocrit/hemoglobin quantitative trait locus 3		22q12-q13	22						613284	
+9606	Homo sapiens	100381205	0	live	HCHGQ2		Hematocrit/hemoglobin quantitative trait locus 2		9q	9						609320	
+9606	Homo sapiens	100381204	0	live	HCHGQ1		Hematocrit/hemoglobin quantitative trait locus 1		6q23	6						609319	
+9606	Homo sapiens	100380876	0	live	NAFLD1	FLD1	Fatty liver disease 1, susceptiblity to		22q13	22						613282	
+9606	Homo sapiens	100380875	0	live	FECD7	FCD4	Corneal dystrophy, Fuchs endothelial, 7		9p24.1-p22.1	9						613271	
+9606	Homo sapiens	100380874	0	live	FECD5	FCD3	Corneal dystrophy, Fuchs endothelial, 5		5q33.1-q35.2	5						613269	
+9606	Homo sapiens	100379218	0	live	SPDA3		Spondylarthropathy, susceptibility to, 3		2q36.1-q36.3	2						613238	
+9606	Homo sapiens	100379217	0	live	FGQTL3		Fasting plasma glucose level QTL3		11q21-q22	11						613233	
+9606	Homo sapiens	100379216	0	live	FGQTL2	BWQTL1	Fasting plasma glucose level QTL2		7p15-p13	7						613219	
+9606	Homo sapiens	100379215	0	live	QTV		QT interval, variation in		1q23.3	1						610141	
+9606	Homo sapiens	100379203	0	live	DUP17P13.3	C17DUPp13.3	Chromosome 17p13.3 duplication syndrome		17p13.3	17						613215	
+9606	Homo sapiens	100379202	0	live	DUP5P13	C5DUPp13	Chromosome 5p13 duplication syndrome		5p13	5						613174	
+9606	Homo sapiens	100379200	0	live	SLEB15		Systemic lupus erthematosus, susceptibility to, 15		Xq28	X						300809	
+9606	Homo sapiens	100379199	0	live	HRM2		hair, curly	hair curvature, variation in|hair morphology 2	1q21.3	1						139450	
+9606	Homo sapiens	100379198	0	live	ECT	BECTS	centralopathic epilepsy		11p13	11						117100	
+9606	Homo sapiens	100322878	0	live	SLEB14		Systemic lupus erythematosus, susceptiblity to, 14		1q21-q23	1						613145	
+9606	Homo sapiens	100316847	0	live	GLM8		Glioma susceptibility 8		5p15.33	5						613033	
+9606	Homo sapiens	100313948	0	live	BRV2		Vertigo, benign recurrent, 2		22q12	22						613106	
+9606	Homo sapiens	100312955	0	live	PVOP2		Pelvic organ prolapse, susceptibility to, 2		9q21	9						613088	
+9606	Homo sapiens	100312954	0	live	GRD1		Graves disease, susceptiblity to, 1		14q31	14						275000	
+9606	Homo sapiens	100312952	0	live	PVOP1		Pelvic organ prolapse, susceptibility to, 1		1q31	1						176780	
+9606	Homo sapiens	100312951	0	live	NPCA2		Nasopharyngeal carcinoma, susceptibility to, 2		6p21.3	6						161550	
+9606	Homo sapiens	100310786	0	live	ALL2		Leukemia, acute lymphoblastic, susceptibility to, 2		7p12.2	7						613067	
+9606	Homo sapiens	100310755	0	live	ATOD7		Dermatitis, atopic, susceptibility to, 7		11q13.5	11						613064	
+9606	Homo sapiens	100310754	0	live	DUPXP11.23P11.22	CXDUPp11.23p11.22	Chromosome Xp11.23-p11.22 duplication syndrome		Xp11.23-p11.22	X						300801	
+9606	Homo sapiens	100307123	0	live	BCC6		Basal cell carcinoma, susceptibility to, 6		7q32	7						613063	
+9606	Homo sapiens	100307122	0	live	BCC5		Basal cell carcinoma, susceptibility to, 5		9p21	9						613062	
+9606	Homo sapiens	100307121	0	live	BCC4		Basal cell carcinoma, susceptibility to, 4		12q13	12						613061	
+9606	Homo sapiens	100307120	0	live	BCC3		Basal cell carcinoma, susceptibility to, 3		5p15.33	5						613059	
+9606	Homo sapiens	100307119	0	live	BCC2		Basal cell carcinoma, susceptibility to, 2		1q42	1						613058	
+9606	Homo sapiens	100307118	0	live	BCC1		Basal cell carcinoma, susceptibility to, 1		1p36	1						605462	
+9606	Homo sapiens	100306978	0	live	DEL19Q13.11	C19DELq13.11, C19DELq13.11d	Chromosome 19q13.11 deletion syndrome		19q13.11	19						613026	
+9606	Homo sapiens	100306939	0	live	NBLST6		Neuroblastoma, susceptibility to, 6		1q21.1	1						613017	
+9606	Homo sapiens	100306938	0	live	NBLST5		Neuroblastoma, susceptibility to, 5		2q35	2						613016	
+9606	Homo sapiens	100306937	0	live	NBLST4		Neuroblastoma, susceptibility to, 4		6p22	6						613015	
+9606	Homo sapiens	100303717	0	live	PBC3		Biliary cirrhosis, primary, 3		1p31.2	1						613008	
+9606	Homo sapiens	100303716	0	live	PBC2		Biliary cirrhosis, primary, 2		6p21.3	6						613007	
+9606	Homo sapiens	100303715	0	live	IDDM24		Diabetes mellitus, insulin-dependent, 24		10q23.31	10						613006	
+9606	Homo sapiens	100302721	0	live	ARHI2		Age-related hearing impairment 2		3p26.1-p25.1	3						612976	
+9606	Homo sapiens	100302719	0	live	BMIQ15		Body mass index QTL 15		17q23.2-q25.1	17						612967	
+9606	Homo sapiens	100302718	0	live	B6QTL1		Vitamin B6 plasma level QTL 1		1p36.12	1						612957	
+9606	Homo sapiens	100302686	0	live	MTBS3		Mycobacterium tuberculosis, susceptibility to, 3		20q13.31-q13.33	20						612929	
+9606	Homo sapiens	100302685	0	live	STQTL20		Stature QTL 20		13q14.3	13						612894	
+9606	Homo sapiens	100302684	0	live	STQTL19		Stature QTL 19		6p21.31	6						612893	
+9606	Homo sapiens	100302683	0	live	STQTL18		Stature QTL 18		6p22.1	6						612892	
+9606	Homo sapiens	100302682	0	live	PVNH5		Periventricular nodular heterotopia 5		5q14.3-q15	5						612881	
+9606	Homo sapiens	100302681	0	live	PVNH3		Periventricular nodular heterotopia 3		5p15.1	5						608098	
+9606	Homo sapiens	100302562	0	live	MENAQ2		Menarche, age at, QTL2		6q21	6						612882	
+9606	Homo sapiens	100302561	0	live	RLS7		Restless legs syndrome 7		2p14-p13	2						612853	
+9606	Homo sapiens	100302559	0	live	PURAQTL1		Polyunsaturated fatty acids plasma level QTL1		11q12-q13.1	11						612795	
+9606	Homo sapiens	100302519	0	live	MENOQ4		Menopause, natural, age at, QTL4		5q35.2	5						612886	
+9606	Homo sapiens	100302517	0	live	MENOQ2		Menopause, natural, age at, QTL2		19q13.4	19						612884	
+9606	Homo sapiens	100302516	0	live	CTEPH1		Pulmonary hypertension, chronic thromboembolic, without deep vein thrombosis, susceptibility to		6p21.3	6						612862	
+9606	Homo sapiens	100302514	0	live	NRCLP5		Narcolepsy 5		14q11.2	14						612851	
+9606	Homo sapiens	100302512	0	live	RLS6		Restless legs syndrome, susceptibility to, 6		6p21	6						611185	
+9606	Homo sapiens	100302511	0	live	EOE1	EE	Esophagitis, eosinophilic		7q11.2	7						610247	
+9606	Homo sapiens	100302510	0	live	XECD		Corneal dystrophy, endothelial, X-linked		Xq25	X						300779	
+9606	Homo sapiens	100302059	0	live	IBD27		Inflammatory bowel disease-27		13q13.3	13						612796	
+9606	Homo sapiens	100301572	0	live	PRBNS		Pierre Robin syndrome		17q24.3-q25.1	17						261800	
+9606	Homo sapiens	100301527	0	live	SYNSTH		Synesthesia		2q24.1	2						612759	
+9606	Homo sapiens	100301526	0	live	STQTL17		Stature QTL 17		7p15	7						612737	
+9606	Homo sapiens	100301525	0	live	DUH2		Dyschromatosis universalis hereditaria 2		12q21-q23	12						612715	
+9606	Homo sapiens	100301523	0	live	STQTL12		Stature QTL 12		4q31	4						612224	
+9606	Homo sapiens	100301522	0	live	CELIAC7		Celiac disease, susceptibility to, 7		1q31	1						612005	
+9606	Homo sapiens	100294719	0	live	LBMQTL1		Lean body mass QTL 1		8q23	8						612729	
+9606	Homo sapiens	100294718	0	live	BMND14		Bone mineral density QTL 14		1p33-p32	1						612728	
+9606	Homo sapiens	100294717	0	live	BMND13		Bone mineral density QTL 13		16q23	16						612727	
+9606	Homo sapiens	100286836	0	live	OS6		Osteoarthritis susceptibility 6		3p24.3	3						612401	
+9606	Homo sapiens	100271923	0	live	FEB10		Febrile convulsions, familial, 10		3q26.2-q26.33	3						612637	
+9606	Homo sapiens	100271922	0	live	BFIS4	BFIC4	Convulsions, benign familial infantile, 4		1p36.12-p35.1	1						612627	
+9606	Homo sapiens	100271921	0	live	DEL15Q26QTER	C15DELq26qter	Chromosome 15q26-qter deletion syndrome		15q26-qter	15						612626	
+9606	Homo sapiens	100271869	0	live	MPVQTL3		Mean platelet volume QTL3		17q11.2	17						612575	
+9606	Homo sapiens	100271868	0	live	MPVQTL2		Mean platelet volume QTL2		3p21-p13	3						612574	
+9606	Homo sapiens	100271867	0	live	MPVQTL1		Mean platelet volume QTL1		12q24.31	12						612573	
+9606	Homo sapiens	100271838	0	live	IBD26		Inflammatory bowel disease-26		12q15	12						612639	
+9606	Homo sapiens	100271719	0	live	PSORS11		Psoriasis susceptibility 11		5q31.1-q33.1	5						612599	
+9606	Homo sapiens	100271718	0	live	AD16		Alzheimer disease 16		Xq21.3	X						300756	
+9606	Homo sapiens	100271697	0	live	IDDM23		Diabetes mellitus, insulin-dependent, 23		4q27	4						612622	
+9606	Homo sapiens	100271696	0	live	MS4		Multiple sclerosis, susceptiblity to, 4		1p36	1						612596	
+9606	Homo sapiens	100271695	0	live	MS3		Multiple sclerosis, susceptibility to, 3		5p13.2	5						612595	
+9606	Homo sapiens	100271694	0	live	MS2		Multiple sclerosis, susceptibility to, 2		10p15.1	10						612594	
+9606	Homo sapiens	100271693	0	live	LNCR4		Lung cancer susceptibility 4		6p21.33	6						612593	
+9606	Homo sapiens	100271690	0	live	CRCS8		Colorectal cancer, susceptibility to, 8		14q22.2	14						612589	
+9606	Homo sapiens	100271689	0	live	ANIB10		Aneurysm, intracranial berry, 10		8q12.1	8						612587	
+9606	Homo sapiens	100271688	0	live	ANIB9		Aneurysm, intracranial berry, 9		2q33.1	2						612586	
+9606	Homo sapiens	100271687	0	live	LNCR3		Lung cancer susceptibility 3		5p15.33	5						612571	
+9606	Homo sapiens	100271686	0	live	DELXP11.3	CXDELp11.3	Chromosome Xp11.3 deletion syndrome		Xp11.3	X						300578	
+9606	Homo sapiens	100270803	0	live	DEL6PTER	C6DELpter	Chromosome 6pter deletion syndrome		6pter-p24	6						612582	
+9606	Homo sapiens	100270802	0	live	STQTL16		Stature QTL 16		15q22.32	15						612579	
+9606	Homo sapiens	100270801	0	live	STQTL15		Stature QTL 15		8q21.13	8						612578	
+9606	Homo sapiens	100270800	0	live	SHFLD3	C17DUPp13.3, DUP17p13.3	Split-hand/foot malformation with long bone deficiency 3		17p13.3-p13.1	17						612576	
+9606	Homo sapiens	100270798	0	live	IBD24		Inflammatory bowel disease-24		20q13	20						612566	
+9606	Homo sapiens	100270797	0	live	STQTL14		Stature QTL 14		20q11.22	20						612228	
+9606	Homo sapiens	100270796	0	live	STQTL13		Stature QTL 13		4p15.3	4						612226	
+9606	Homo sapiens	100270795	0	live	STQTL11		Stature QTL 11		7q21	7						612223	
+9606	Homo sapiens	100270794	0	live	STQTL10		Stature QTL 10		3q23	3						612221	
+9606	Homo sapiens	100270644	0	live	CLLS5		Leukemia, chronic lymphocytic susceptiblity to, 5		11q24.1	11						612559	
+9606	Homo sapiens	100270643	0	live	CLLS4		Leukemia, chronic lymphocytic susceptibility to, 4		6p25	6						612558	
+9606	Homo sapiens	100270642	0	live	CLLS3		Leukemia, chronic lymphocytic, susceptibility to, 3		9q34.1	9						612557	
+9606	Homo sapiens	100270639	0	live	IHPS5		Pyloric stenosis, infantile hypertrophic, 5		16q24.3	16						612525	
+9606	Homo sapiens	100240747	0	live	DEL18P	C18DELp	Chromosome 18p deletion syndrome		18p	18						146390	
+9606	Homo sapiens	100240740	0	live	DEL2P16.1-P15	C2DELp161-p15	Chromosome 2p16.1-p15 deletion syndrome		2p16.1-p15	2						612513	
+9606	Homo sapiens	100240739	0	live	DUP18PDEL18Q	DUP18qDEL18p, DUP81qDEL18p	Chromosome 18 pericentric inversion		18q22	18						609334	
+9606	Homo sapiens	100240736	0	live	DEL11P15P14	C11DELp15p14	Chromosome 11p15-p14 deletion syndrome		11p15-p14	11						606528	
+9606	Homo sapiens	100240733	0	live	IBD23		Inflammatory bowel disease-23		1q32.1	1						612381	
+9606	Homo sapiens	100240732	0	live	IBD22		Inflammatory bowel disease-22		17q21.2	17						612380	
+9606	Homo sapiens	100240731	0	live	DEL15Q15.3	C15DELq15.3	Deafness and male infertility		15q15.3	15						611102	
+9606	Homo sapiens	100240730	0	live	DUP7Q11.23	C7DUPq11.23	Chromosome 7q11.23 duplication syndrome		7q11.23	7						609757	
+9606	Homo sapiens	100240702	0	live	PLSA1	PLSA	Primary lateral sclerosis, adult, 1		4p16	4						611637	
+9606	Homo sapiens	100233227	0	live	SLI4		Specific language impairment 4		7q35-q36	7						612514	
+9606	Homo sapiens	100233226	0	live	MCI2		Myocardial infarction, susceptiblity to, 2		13q12	13						608557	
+9606	Homo sapiens	100233159	0	live	WAGRO	DEL11p14p12	WAGRO syndrome		11p13-p12	11						612469	
+9606	Homo sapiens	100233157	0	live	BMIQ13		Body mass index QTL13		2q14.1	2						612459	
+9606	Homo sapiens	100217387	0	live	AGA3		Alopecia, androgenetic, 3		20p11.22	20						612421	
+9606	Homo sapiens	100217371	0	live	DUP1Q21	C1DUPq21	Chromosome 1q21.1 duplication syndrome		1q21.1	1						612475	
+9606	Homo sapiens	100217370	0	live	DEL1Q21	C1DELq21	Chromosome 1q21.1 deletion syndrome		1q21.1	1						612474	
+9606	Homo sapiens	100216484	0	live	NRCLP4		Narcolepsy 4		22q13	22						612417	
+9606	Homo sapiens	100216483	0	live	DEL18Q		Chromosome 18q deletion syndrome		18q	18						601808	
+9606	Homo sapiens	100196919	0	live	SS3		Sarcoidosis, susceptibility to, 3		10q22.3	10						612388	
+9606	Homo sapiens	100196918	0	live	SLEB13		Systemic lupus erythematosus, susceptibility to, 13		6q23	6						612378	
+9606	Homo sapiens	100196917	0	live	MAFD9		Major affective disorder-9, susceptibility to		12p13.3	12						612372	
+9606	Homo sapiens	100196915	0	live	ALPQTL3		Alkaline phosphatase, plasma level of, QTL3		6p22	6						612368	
+9606	Homo sapiens	100196914	0	live	ALPQTL2		Alkaline phosphatase, plasma level of, QTL 2		1p36	1						612367	
+9606	Homo sapiens	100196913	0	live	SCZD14		schizophrenia, susceptibility to, 14		2q32.1	2						612361	
+9606	Homo sapiens	100196912	0	live	MAFD8		Major affective disorder-8, susceptibility to		10q21	10						612357	
+9606	Homo sapiens	100196911	0	live	POROK6	DSAP4	Porokeratosis, disseminated superficial actinic, 4		18p11.3	18						612353	
+9606	Homo sapiens	100196910	0	live	POROK2	PPPD1	Porokeratosis, palmar, plantar, and disseminated 1		12q24.1-q24.2	12						175850	
+9606	Homo sapiens	100196909	0	live	ALPQTL1		Alkaline phosphatase, plasma level of, QTL1		9q34.13	9						171720	
+9606	Homo sapiens	100192312	0	live	IBD21		Inflammatory bowel disease-21		18p11	18						612354	
+9606	Homo sapiens	100192311	0	live	MUSTQTL1		Muscle strength quantitative trait locus 1		14q24.3	14						612083	
+9606	Homo sapiens	100192308	0	live	DEL2Q31		Chromosome 2q31.2 deletion syndrome		2q31.2	2						612345	
+9606	Homo sapiens	100192307	0	live	MUSQTL1		Musical aptitude QTL 1		4q22	4						612343	
+9606	Homo sapiens	100190985	0	live	IS5		scoliosis, idiopathic, susceptibility to, 5		17q25.3	17						612239	
+9606	Homo sapiens	100190982	0	live	POROK5	DSAP3	Porokeratosis, disseminated superficial actinic, 3		1p31.3-p31.1	1						612293	
+9606	Homo sapiens	100190932	0	live	CMM7		Melanoma, cutaneous malignant, susceptibility to, 7		20q11.2	20						612263	
+9606	Homo sapiens	100190930	0	live	IBD16		Inflammatory bowel disease-16		9q32	9						612259	
+9606	Homo sapiens	100190928	0	live	SLEB12		Systemic lupus erythematosus, susceptibility to, 12		8p23.1	8						612254	
+9606	Homo sapiens	100190791	0	live	ADHD6		Attention deficit-hyperactivity disorder, susceptibility to, 6		13q12.11	13						612312	
+9606	Homo sapiens	100190790	0	live	ADHD5		Attention deficit-hyperactivity disorder, susceptibility to, 5		2q21.1	2						612311	
+9606	Homo sapiens	100190789	0	live	TSHQTL1		Thyroid-stimulating hormone level QTL 1		5q13	5						612306	
+9606	Homo sapiens	100190788	0	live	IBD20		Inflammatory bowel disease-20		10q23-q24	10						612288	
+9606	Homo sapiens	100190787	0	live	GEFSP6		Generalized epilepsy with febrile seizures plus, type 6		8p23-p21	8						612279	
+9606	Homo sapiens	100190786	0	live	CILD8		Ciliary dyskinesia, primary, 8		15q24-q25	15						612274	
+9606	Homo sapiens	100190785	0	live	IS4		Scoliosis, idiopathic, susceptibility to, 4		9q31.2-q34.2	9						612238	
+9606	Homo sapiens	100188952	0	live	IBD12		Inflammatory bowel disease 12		3p21.3	3						612241	
+9606	Homo sapiens	100188886	0	live	ANIB8		Aneurysm, intracranial berry, 8		14q23	14						612162	
+9606	Homo sapiens	100188885	0	live	ANIB7		Aneurysm, intracranial berry, 7		11q24-q25	11						612161	
+9606	Homo sapiens	100188884	0	live	BMND11		Bone mineral density QTL 11		6q25	6						612114	
+9606	Homo sapiens	100188883	0	live	BMND10		Bone mineral density QTL 10		8q24	8						612113	
+9606	Homo sapiens	100188882	0	live	BMND9		Bone mineral density QTL 9		13q14	13						612110	
+9606	Homo sapiens	100188881	0	live	MFT2	TEM	Trichoepithelioma, multiple familial, 2		9p21	9						612099	
+9606	Homo sapiens	100188880	0	live	HPRHP		Hypophosphatemic rickets and hyperparathyroidism		13q13.1	13						612089	
+9606	Homo sapiens	100188877	0	live	CHDS9		Coronary heart disease, suscpetibility to, 9		8p22	8						612030	
+9606	Homo sapiens	100188876	0	live	IHPS3		Pyloric stenosis, infantile hypertrophic, 3		11q14-q22	11						612017	
+9606	Homo sapiens	100188875	0	live	CELIAC13		Celiac disease, susceptibility to, 13		12q24	12						612011	
+9606	Homo sapiens	100188874	0	live	CELIAC12		Celiac disease, susceptibility to, 12		6q25.3	6						612010	
+9606	Homo sapiens	100188873	0	live	CELIAC11		Celiac disease, susceptibility to, 11		3q28	3						612009	
+9606	Homo sapiens	100188872	0	live	CELIAC10		Celiac disease, susceptibility to, 10		3q25-q26	3						612008	
+9606	Homo sapiens	100188871	0	live	CELIAC9		Celiac disease, susceptibility to, 9		3p21	3						612007	
+9606	Homo sapiens	100188870	0	live	CELIAC8		Celiac disease, susceptibility to, 8		2q11-q12	2						612006	
+9606	Homo sapiens	100188868	0	live	HPC15		Prostate cancer, hereditary, 15		19q13.4	19						611959	
+9606	Homo sapiens	100188864	0	live	IH	HHP	Hemihypertrophy		11p15	11						235000	
+9606	Homo sapiens	100188863	0	live	ENDO1		Endometriosis, susceptibility to, 1		10q26	10						131200	
+9606	Homo sapiens	100188862	0	live	DUP3Q29	MICRODUP3Q29	chromosome 3q29 microduplication syndrome		3q29	3						611936	
+9606	Homo sapiens	100188861	0	live	EIG5		Epilepsy, idiopathic generalized, susceptibility to, 5		10p11.22	10						611934	
+9606	Homo sapiens	100188860	0	live	CPROTQ		C-reactive protein QTL		10q23-q24	10						611920	
+9606	Homo sapiens	100188859	0	live	EA7		Episodic ataxia, type 7		19q13	19						611907	
+9606	Homo sapiens	100188858	0	live	ANIB6		Aneurysm, intracranial berry, 6		9p21	9						611892	
+9606	Homo sapiens	100188857	0	live	AAA3		Aneurysm, familial abdominal 3		9p21	9						611891	
+9606	Homo sapiens	100188855	0	live	MNDEC		Microtia with nasolacrimal duct imperforation and eye coloboma		4p16-p15	4						611863	
+9606	Homo sapiens	100188854	0	live	BMND8		bone mineral density quantiative trait locus 8		11p12	11						611739	
+9606	Homo sapiens	100188853	0	live	BMND7		bone mineral density quantiative trait locus 7		20p12.3	20						611738	
+9606	Homo sapiens	100188851	0	live	MGR12		Migraine, with or without aura, susceptibility to, 12		10q22-q23	10						611706	
+9606	Homo sapiens	100188850	0	live	HSCR9		Hirschsprung disease, susceptibility to, 9		4q31.3-q32.3	4						611644	
+9606	Homo sapiens	100188849	0	live	FEB9		Febrile convulsions, familial, 9		3p24.2-p23	3						611634	
+9606	Homo sapiens	100188848	0	live	FMTLE	ETL3	Epilepsy, familial mesial temporal lobe		4q13.2-q21.3	4						611630	
+9606	Homo sapiens	100188846	0	live	CELIAC6	AIS5	Celiac disease, susceptibility to, 6		4q27	4						611598	
+9606	Homo sapiens	100188844	0	live	MAFD6	BPAD	Major affective disorder 6		6q23-q24	6						611536	
+9606	Homo sapiens	100188843	0	live	MAFD5		Major affective disorder 5		2q22-q24	2						611535	
+9606	Homo sapiens	100188840	0	live	ASRT6		Asthma-related traits, susceptibility to, 6		17q21	17						611403	
+9606	Homo sapiens	100188839	0	live	RLS5		Restless legs syndrome, susceptibility to, 5		20p13	20						611242	
+9606	Homo sapiens	100188838	0	live	AD15		Alzheimer disease-15		3q22-q24	3						604154	
+9606	Homo sapiens	100188837	0	live	AD13		Alzheimer disease-13		1q21	1						611152	
+9606	Homo sapiens	100188836	0	live	CHDS8		Coronary heart disease, susceptibility to, 8		9p21	9						611139	
+9606	Homo sapiens	100188835	0	live	CINN		Cinnamon odor, pleasantness of		4q32.3	4						611109	
+9606	Homo sapiens	100188830	0	live	AD12		Alzheimer disease 12		8p12-q22	8						611073	
+9606	Homo sapiens	100188829	0	live	MTBS2		Mycobacterium tuberculosis, susceptibility to, 2		8q12-q13	8						611046	
+9606	Homo sapiens	100188828	0	live	SQTL2		Smoking as a quantitative trait locus 2		22q12	22						611004	
+9606	Homo sapiens	100188827	0	live	SQTL1		Smoking as a quantitative trait locus 1		10q22	10						611003	
+9606	Homo sapiens	100188825	0	live	HYT7		Hypertension, essential, susceptibility to, 7		3p14.1-q12.3	3						610948	
+9606	Homo sapiens	100188823	0	live	ASRT4		Asthma-related traits, susceptibility to, 4		1p31	1						610906	
+9606	Homo sapiens	100188822	0	live	MENAQ1		Menarche, age at, QTL		22q13	22						610873	
+9606	Homo sapiens	100188821	0	live	OS4	GOA1	Osteoarthritis, generalized, without dysplasia, susceptibility to		2q33.3	2						610839	
+9606	Homo sapiens	100188820	0	live	AUTS11		Autism, susceptibility to, 11		1q41-q42	1						610836	
+9606	Homo sapiens	100188818	0	live	HDLCQ5		High density lipoprotein cholesterol level QTL 5		3q24-q26	3						610761	
+9606	Homo sapiens	100188817	0	live	CLQTL2		Cholesterol level QTL 2		2p24-p22	2						610760	
+9606	Homo sapiens	100188816	0	live	AUTS7		Autism, susceptibility to, 7		17q21	17						610676	
+9606	Homo sapiens	100188815	0	live	BSZQTL3		Bone size quantitative trait locus 3		8q24	8						610649	
+9606	Homo sapiens	100188814	0	live	DEL16P13.3	RSTSS	Chromosome 16p13.3 deletion syndrome		16p13.3	16						610543	
+9606	Homo sapiens	100188812	0	live	RLS3		Restless legs syndrome 3		9p24-p22	9						610438	
+9606	Homo sapiens	100188811	0	live	WM2		Macroglobulinemia, Waldenstrom, susceptibility to, 2		4q	4						610430	
+9606	Homo sapiens	100188809	0	live	HPC7		Prostate cancer, hereditary, 7		15q12	15						610321	
+9606	Homo sapiens	100188808	0	live	HYT6		Hypertension, essential, susceptibility to, 6		5p13-q12	5						610262	
+9606	Homo sapiens	100188807	0	live	HYT5		Hypertension, essential, susceptibility to, 5		20q11-q13	20						610261	
+9606	Homo sapiens	100188806	0	live	HDLCQ4		High density lipoprotein cholesterol level QTL 4		4q32.3	4						610239	
+9606	Homo sapiens	100188804	0	live	SLEB8		Systemic lupus erythematosus, susceptibility to, 8		20q13	20						610066	
+9606	Homo sapiens	100188803	0	live	SLEB7		Systemic lupus erythematosus, susceptibility to, 7		20p12	20						610065	
+9606	Homo sapiens	100188802	0	live	ODS1		Opioid dependence, susceptibility to, 1			17						610064	
+9606	Homo sapiens	100188801	0	live	ASRT3		Asthma-related traits, susceptibility to, 3		2p16	2						609958	
+9606	Homo sapiens	100188800	0	live	ASPG4		Asperger syndrome, susceptibility to, 4		3p24-p21	3						609954	
+9606	Homo sapiens	100188798	0	live	SLEB5		Systemic lupus erythematosus, susceptibility to, 5		13q32	13						609903	
+9606	Homo sapiens	100188797	0	live	BMND6		Bone mineral density QTL 6		21q22.13-qter	21						609876	
+9606	Homo sapiens	100188796	0	live	GEFSP4		Epilepsy, generalized, with febrile seizures plus, type 4		2p24	2						609800	
+9606	Homo sapiens	100188795	0	live	AD11		Alzheimer disease-11		9p22.1	9						609790	
+9606	Homo sapiens	100188794	0	live	BSZQTL2		Bone size QTL		5q	5						609657	
+9606	Homo sapiens	100188793	0	live	BSZQTL		Bone size QTL		17q23	17						609656	
+9606	Homo sapiens	100188792	0	live	MAFD3	BPEO	Major affective disorder 3, early onset		21q22.13	21						609633	
+9606	Homo sapiens	100188791	0	live	CLLS1		Leukemia, chronic lymphocytic, susceptibility to, 1		11p11	11						609630	
+9606	Homo sapiens	100188790	0	live	MGR8		Migraine, susceptibility to, 8		5q21	5						609570	
+9606	Homo sapiens	100188789	0	live	HPC6		Prostate cancer, susceptibility to		22q12.3	22						609558	
+9606	Homo sapiens	100188788	0	live	DEL3Q29	MICRODEL3Q29	Chromosome 3q29 microdeletion syndrome		3q29	3						609425	
+9606	Homo sapiens	100188784	0	live	AFA1	MPB	Alopecia, androgenetic		3q26	3						109200	
+9606	Homo sapiens	100188782	0	live	NIDDM4		Diabetes mellitus, noninsulin-dependent		5q34-q35.2	5						608036	
+9606	Homo sapiens	100188774	0	live	DFCTRPS		Deafness, cataract, retinitis pigmentosa, and sperm abnormalities			X						300719	
+9606	Homo sapiens	100188773	0	live	CFSS		craniofacioskeletal syndrome		Xq26-q27	X						300712	
+9606	Homo sapiens	100188772	0	live	IHPS4		Pyloric stenosis, infantile hypertrophic, 4		Xq23	X						300711	
+9606	Homo sapiens	100188771	0	live	AGA2		Alopecia, androgenetic, 2		Xq11-q12	X						300710	
+9606	Homo sapiens	100188769	0	live	HPCX2		Prostate cancer, hereditary, X-linked 2		Xp11.22	X						300704	
+9606	Homo sapiens	100188768	0	live	SCAX5		Spinocerebellar ataxia, X-linked 5		Xq25-q27.1	X						300703	
+9606	Homo sapiens	100188767	0	live	AGSPX		Angio serpiginosum		Xp11.3-q12	X						300652	
+9606	Homo sapiens	100188765	0	live	CFTDX		Myopathy, congenital, with fiber-type disproportion, X-linked		Xq13.1-q22.1	X						300580	
+9606	Homo sapiens	100188754	0	live	AD14		Alzheimer disease 14		1q25	1						611154	
+9606	Homo sapiens	100188748	0	live	STHAG5		tooth agenesis, selective, 5		10q	10						610926	
+9606	Homo sapiens	100188695	0	live	DA4		arthrogryposis, distal, type 4									609128	
+9606	Homo sapiens	100188397	0	live	HLP		hyperkeratosis lenticularis perstans									144150	
+9606	Homo sapiens	100188328	0	live	PNKD2		paroxysmal nonkinesigenic dyskinesia 2		2q31	2						611147	
+9606	Homo sapiens	100188317	0	live	AUTS13		autism, susceptibility to, 13		12q14.2	12						610908	
+9606	Homo sapiens	100188314	0	live	AUTS12		autism, susceptibility to, 12		21p13-q11	21						610838	
+9606	Homo sapiens	100188278	0	live	FECD2	FCD1	corneal dystrophy, Fuchs endothelial 2		13pter-q12.13	13						610158	
+9606	Homo sapiens	100188011	0	live	DIP		interstitial pneumonitis, desquamative, familial									263000	
+9606	Homo sapiens	100187828	0	live	HBD		hypophosphatemic bone disease									146350	
+9606	Homo sapiens	100187761	0	live	AN		blood group Ahonen									110350	
+9606	Homo sapiens	100187749	0	live	ASDP		anal sphincter dysplasia									105563	
+9606	Homo sapiens	100187724	0	live	DEL16P11.2	AUTS14, AUTS14A, C16DELp11.2, C16DUPp11.2, DUP16p11.2	autism, susceptibility to, 14		16p11.2	16						611913	
+9606	Homo sapiens	100187711	0	live	CRCS7		colorectal cancer, susceptibility to, 7		11q23	11						612232	
+9606	Homo sapiens	100144434	0	live	ETL4	EPOLM, ETOLM	epilepsy, occipitotemporal lobe, and migraine with aura		9q21-q22	9						611631	
+9606	Homo sapiens	100126594	0	live	EJM4		Myoclonic epilepsy, juvenile, 4		5q12-q14	5						611364	
+9606	Homo sapiens	100126593	0	live	MAFD4	BPAD	Major affective disorder 4		16p12	16						611247	
+9606	Homo sapiens	100124415	0	live	EKD2		Episodic kinesigenic dyskinesia 2		16q13-q22.1	16						611031	
+9606	Homo sapiens	100049544	0	live	APMR2		Alopecia with mental retardation syndrome 2		3q26.2-q26.31	3						610422	
+9606	Homo sapiens	100049543	0	live	STUT2		Stuttering, familial persistent 2		12q24.1	12						609261	
+9606	Homo sapiens	100038247	0	live	PTLS		Potocki-Lupski syndrome		17p11.2	17						610883	
+9606	Homo sapiens	100037264	0	live	STQTL6		stature quantitative trait locus 6		Xq24-q25	X						300591	
+9606	Homo sapiens	100034703	0	live	AA2		Alopecia areata 2		16q11-q22	16						610753	
+9606	Homo sapiens	100034700	0	live	AA1		Alopecia areata 1		18p11.3-p11.2	18						104000	
+9606	Homo sapiens	791255	0	live	SPDA2		Spondyloarthropathy, susceptibility to, 2		9q31-q34	9						183840	
+9606	Homo sapiens	791228	0	live	SPG36		spastic paraplegia 36 (autosomal dominant)		12q23-q24	12						613096	
+9606	Homo sapiens	791123	0	live	SHFLD2		Split-hand/foot malformation with long deficiency 2		6q14.1	6						610685	
+9606	Homo sapiens	791122	0	live	KTWS	KTS	Klippel-Trenaunay-Weber syndrome		8q22.3	8						149000	
+9606	Homo sapiens	791121	0	live	SHFL1	SHFLD	Split-hand/foot malformation with long bone deficiency 1		1q42.2-q43	1						119100	
+9606	Homo sapiens	791087	0	live	HHT4		Telangiectasia, hereditary hemorrhagic, type 4		7p14	7						610655	
+9606	Homo sapiens	780923	0	live	IHPS2		Pyloric stenosis, infantile hypertrophic, 2		16p13-p12	16						610260	
+9606	Homo sapiens	780921	0	live	KYPSC1		Kyphoscoliosis 1		5p13	5						610170	
+9606	Homo sapiens	780919	0	live	HRPT3		Hyperparathyroidism 3		2p14-p13.3	2						610071	
+9606	Homo sapiens	780914	0	live	ZD1		Zygodactyly 1		3p21.31	3						609815	
+9606	Homo sapiens	780913	0	live	EIG4		Epilepsy, idiopathic generalized, susceptibility to 4		10q25-q26	10						609750	
+9606	Homo sapiens	780910	0	live	PPR2		Photoparoxysmal response 2		13q31.3	13						609572	
+9606	Homo sapiens	780909	0	live	PEE3		Preeclampsia/eclampsia 3		9p13	9						609403	
+9606	Homo sapiens	780908	0	live	PEE2		Preeclampsia/eclampsia 2		2p25	2						609402	
+9606	Homo sapiens	780905	0	live	EA3		Episodic ataxia, type 3		1q42	1						606554	
+9606	Homo sapiens	780904	0	live	PSS		Potocki-Shaffer syndrome		11p11.2	11						601224	
+9606	Homo sapiens	780903	0	live	HHT3	ORW3	Osler-Rendu-Weber syndrome 3		5q31.3-q32	5						601101	
+9606	Homo sapiens	780901	0	live	NYS5		Nystagmus 5, infantile periodic alternating		Xp11.4	X						300589	
+9606	Homo sapiens	780899	0	live	DIH2		Hernia, congenital diaphragmatic 2		8p23.1	8						222400	
+9606	Homo sapiens	780896	0	live	ACTD		Acetabular dysplasia		13q22	13						142700	
+9606	Homo sapiens	780895	0	live	DUPC1		Dupuytren contracture 1		16q11.1-q22	16						126900	
+9606	Homo sapiens	619539	0	live	LOC619539		lentiginosis, inherited patterned	familial generalized lentiginosis	4q21.1-q22.3	4						151001	
+9606	Homo sapiens	494029	0	live	MENOQ1		menopause, natural, age at, QTL		Xp21.3	X						300488	
+9606	Homo sapiens	494028	0	live	CVMRF		cubitus valgus with mental retardation and unusual facies			X						300471	
+9606	Homo sapiens	474334	0	live	GEVQ1		gene expression, variation in, quantitative trait locus		14q32	14						608875	
+9606	Homo sapiens	474333	0	live	GEVQ2		gene expression, variation in, quantitative trait locus		20q13	20						608878	
+9606	Homo sapiens	393093	0	live	MYP4		myopia 4 (high grade, autosomal dominant)		7q36	7							
+9606	Homo sapiens	386616	0	live	SCKL3		Seckel syndrome 3		14q23	14							
+9606	Homo sapiens	353128	0	live	AD8		Alzheimer disease 8		20p	20						607116	
+9606	Homo sapiens	347713	0	live	DFNA42	DFNA52	deafness, autosomal dominant 42	deafness, autosomal dominant 52	5q31.1-q32	5							
+9606	Homo sapiens	266710	0	live	COMA		Cogan-type congential oculomotor apraxia		2q13	2						257550	
+9606	Homo sapiens	261727	0	live	CRCL		Creatinine clearance QTL		3p	3						607135	
+9606	Homo sapiens	246751	0	live	SMAR		Spinal muscular atrophy, chronic distal, autosomal recessive		11q13	11						607088	
+9606	Homo sapiens	246322	0	live	HSCR7	HSCRS3	Hirschsprung disease, short-segment, 3		19q12	19						606875	
+9606	Homo sapiens	246321	0	live	HSCR6	HSCRS2	Hirschsprung disease, short-segment, 2		3p21	3						606874	
+9606	Homo sapiens	170594	0	live	WS2C		Waardenburg syndrome, type IIC		8p23	8						606662	
+9606	Homo sapiens	117237	0	live	SXI2		X inactivation, familial skewed, 2		Xq25-q26	X						300179	
+9606	Homo sapiens	117193	0	live	THMA	THM	Tibial hemimelia		8q24.1	8						275220	
+9606	Homo sapiens	117192	0	live	MNRI		meningioma, radiation-induced		1p11	1						606190	
+9606	Homo sapiens	116629	0	live	HTX3		Heterotaxy, visceral, 3		6q21	6						606325	
+9606	Homo sapiens	114293	0	live	ANBC		Aneurysmal bone cysts		16q22	16						606179	
+9606	Homo sapiens	93956	0	live	AOCH		Acromegaloid features, overgrowth, cleft palate, and hernia			11						606049	
+9606	Homo sapiens	79051	0	live	RPY		Retinitis pigmentosa, Y-linked			Y						400004	
+9606	Homo sapiens	64239	0	live	RSCIS		Radiation sensitivity/chromosome instability syndrome, autosomal dominant		14q11.2	14						605463	
+9606	Homo sapiens	59332	0	live	VSPA		Visuospatial/perceptual abilities		Xp22.33	X						313000	
+9606	Homo sapiens	54110	0	live	RP29		retinitis pigmentosa 29 (autosomal recessive)		4q32-q34	4						612165	
+9606	Homo sapiens	53366	0	live	SM2		Hepatic fibrosis susceptibility due to Schistosoma mansoni infection		6q22-q23	6						604201	
+9606	Homo sapiens	50971	0	live	ENFL2		Epilepsy, nocturnal frontal lobe, type 2		15q24	15						603204	
+9606	Homo sapiens	50970	0	live	TSG11		Tumor suppressor gene on chromosome 11		11q23	11						603040	
+9606	Homo sapiens	50829	0	live	HDPA		Hodgkin disease, susceptibility, pseudoautosomal		Xpter-p22.32	X						300221	
+9606	Homo sapiens	8259	0	live	INDX		Immunoneurologic syndrome X-linked, of Wood, Black, and Norbury		Xq26-qter	X						300076	
+9606	Homo sapiens	8255	0	live	BZX	BDCS	Bazex syndrome		Xq26	X						301845	
+9606	Homo sapiens	8246	0	live	MRXS12		Mental retardation, X-linked, syndromic 12		Xp11	X						309545	
+9606	Homo sapiens	8212	0	live	AABT		Beta-amino acids, renal transport of			21						109660	
+9606	Homo sapiens	8181	0	live	BFIS1	BFIC, BFIC1	benign familial infantile convulsions		19q	19						601764	
+9606	Homo sapiens	8151	0	live	WT4	FWT1	Wilms tumor-4		17q12-q21	17						601363	
+9606	Homo sapiens	8136	0	live	WT3		Wilms tumor-3		16q	16						194090	
+9606	Homo sapiens	8132	0	live	PKDTS		polycystic kidney disease, infantile severe, with tuberous sclerosis		16p13.3	16						600273	
+9606	Homo sapiens	8130	0	live	MCOPCT1	CATM	cataract, congenital, with microphthalmia		16p13.3	16						156850	
+9606	Homo sapiens	8113	0	live	MCOP1	MCOP	microphthalmia, autosomal recessive		14q32	14						251600	
+9606	Homo sapiens	8104	0	live	MCOR	C13DELq32, DEL13q32	microcoria, congenital		13q32	13						156600	
+9606	Homo sapiens	8103	0	live	PAPA2		postaxial polydactyly, type A2		13q21-q32	13						602085	
+9606	Homo sapiens	8102	0	live	XRS		X-ray sensitivity		13q14	13						194370	
+9606	Homo sapiens	8101	0	live	CLLS2	D13S25, DBM	Disrupted in B-cell neoplasia		13q14	13						109543	
+9606	Homo sapiens	8066	0	live	ANC		Anal canal carcinoma		11q22-qter	11						105580	
+9606	Homo sapiens	8026	0	live	DGS2	DGCR2	DiGeorge syndrome/velocardiofacial syndrome complex 2		10p14-p13	10						601362	
+9606	Homo sapiens	8023	0	live	H142T		Temperature sensitivity complementation, H142			9						187290	
+9606	Homo sapiens	8009	0	live	LALL		Lymphomatous acute lymphoblastic leukemia		9p22-p21	9						247640	
+9606	Homo sapiens	7977	0	live	MHS3		Malignant hyperthermia susceptibility 3		7q21-q22	7						154276	
+9606	Homo sapiens	7974	0	live	HRX		Hyperreflexia		7q	7						145290	
+9606	Homo sapiens	7963	0	live	TS546		Temperature sensitivity complementation, cell cycle specific			6						187330	
+9606	Homo sapiens	7962	0	live	PBCA		Pancreatic beta cell, agenesis of		6p21.3	6						600089	
+9606	Homo sapiens	7937	0	live	RWS		Ragweed sensitivity		6p21.3	6						179450	
+9606	Homo sapiens	7928	0	live	ISCW	ISSCW	Immune suppression to streptococcal antigen		6p21.3	6						146850	
+9606	Homo sapiens	7927	0	live	IGAT		Immune response to synthetic polypeptide--IRGAT		6p21.3	6						146820	
+9606	Homo sapiens	7895	0	live	LAG5		Leukocyte antigen group 5									151450	
+9606	Homo sapiens	7830	0	live	PHA2A	PHA2	Pseudohypoaldosteronism type II (gene A)		1q31-q42	1						145260	
+9606	Homo sapiens	7808	0	live	AIR		Acute insulin response (2)		1p31	1						601676	
+9606	Homo sapiens	7506	0	live	XM		Xm(a) antigen		Xq28	X						314900	
+9606	Homo sapiens	4941	0	live	OASD		ocular albinism and sensorineural deafness		Xp22.3-p22.2	X						300650	
+9606	Homo sapiens	4937	0	live	OAP	OA, OASF	osteoarthrosis, precocious		11q	11							
+9606	Homo sapiens	4936	0	live	OA3	OAR	ocular albinism 3 (autosomal recessive)	Ocular albinism, autosomal recessive	6q13-q15	6							
+9606	Homo sapiens	4364	0	live	MRSD	CHRS	mental retardation-skeletal dysplasia		Xq27-q28	X						309620	
+9606	Homo sapiens	3905	0	live	LAKLG	LAKL	lymphokine-activated killer cell ligand			6						153435	
+9606	Homo sapiens	2724	0	live	GLC1D		glaucoma 1, open angle, D (adult-onset)		8q23	8						602429	
+9606	Homo sapiens	2656	0	live	GCY	STA, TS, TSY	growth control, Y chromosome influenced		Yq11	Y						475000	
+9606	Homo sapiens	2141	0	live	EYCL1	GEY	eye color 1 (green/blue)			19							
+9606	Homo sapiens	1914	0	live	EEC2		ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 2			19							
+9606	Homo sapiens	1878	0	live	E11S		ECHO virus (serotypes 4, 6, 11, 19) sensitivity		19q13.1-q13.3	19						129150	
+9606	Homo sapiens	1526	0	live	CXB3S	CB3S	coxsackie virus B3 sensitivity		19pter-q13	19						120050	
+9606	Homo sapiens	1253	0	live	CMTX2		Charcot-Marie-Tooth neuropathy, X-linked 2 (recessive)	Charcot-Marie-Tooth disease, X-linked-2, recessive	Xp22	X						302801	
+9606	Homo sapiens	628	0	live	BEVI		baboon M7 virus integration site	Baboon M7 virus replication		6						109180	
+9606	Homo sapiens	8168	0	live	TW		Twirler mouse mutation, human homolog of			18							
+9606	Homo sapiens	100188785	0	live	ITC1		hypertrichosis universalis congenita, Ambras type			8							
+9606	Homo sapiens	3056	0	live	HCL1	BRHC	hair color 1 (brown)	Brown hair color		19							
