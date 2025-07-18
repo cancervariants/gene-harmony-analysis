@@ -4,6 +4,17 @@ import pandas as pd
 ROOT_PATH = Path(__file__).resolve().parent
 # ROOT_PATH = '/Users/rsaxs014/Desktop/gene-harmony-analysis'
 
+raw_hgnc_df = pd.read_csv(ROOT_PATH / "raw_hgnc_df.csv")
+total_raw_gene_record_set_hgnc = set(raw_hgnc_df['HGNC_ID'])
+
+raw_ensg_df = pd.read_csv(ROOT_PATH / "raw_ensg_df.csv")
+total_raw_gene_record_set_ensg = set(raw_ensg_df['ENSG_ID'])
+
+raw_ncbi_df = pd.read_csv(ROOT_PATH / "raw_ncbi_df.csv")
+total_raw_gene_record_set_ncbi = set(raw_ncbi_df['NCBI_ID'])
+
+
+
 merged_alias_ap_collision_hgnc_df = pd.read_csv(ROOT_PATH / "merged_alias_ap_collision_hgnc_df.csv")
 
 ap_record_set_hgnc = set(merged_alias_ap_collision_hgnc_df["HGNC_ID"])
