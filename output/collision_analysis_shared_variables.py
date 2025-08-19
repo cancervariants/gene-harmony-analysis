@@ -108,5 +108,3 @@ alias_symbol_set_ncbi = set(mini_ncbi_df['alias_symbol'])
 alias_symbol_count_ncbi = len(alias_symbol_set_ncbi)
 
 total_symbol_count_ncbi = pd.concat([mini_ncbi_df["gene_symbol"], mini_ncbi_df["alias_symbol"]]).dropna().nunique()
-
-primary_symbol_set = primary_symbol_set_hgnc.union(primary_symbol_set_ensg, primary_symbol_set_ncbi)
