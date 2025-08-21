@@ -11,7 +11,7 @@ raw_ensg_df = raw_ensg_df.rename(
     columns={
         "HGNC ID": "HGNC_ID",
         "Gene Synonym": "alias_symbol",
-        "Gene name": "gene_symbol",
+        "Gene name": "primary_gene_symbol",
         "Gene stable ID": "ENSG_ID",
         "NCBI gene (formerly Entrezgene) ID": "NCBI_ID",
     }
@@ -42,7 +42,7 @@ raw_hgnc_df = pd.read_csv(
 raw_hgnc_df = raw_hgnc_df.rename(
     columns={
         "HGNC ID": "HGNC_ID",
-        "Approved symbol": "gene_symbol",
+        "Approved symbol": "primary_gene_symbol",
         "Ensembl gene ID": "ENSG_ID",
     }
 )
@@ -96,12 +96,12 @@ raw_hgnc_df.to_csv('output/raw_hgnc_df.csv', index=False)
 ncbi_file_path = "input/Homo_sapiens.gene_info20250625"
 raw_ncbi_df = pd.read_csv(ncbi_file_path, sep="\t")
 
-# Drop all columns besides ENSG_ID, gene_symbol, alias_symbol, and type_of_gene
+# Drop all columns besides ENSG_ID, primary_gene_symbol, alias_symbol, and type_of_gene
 raw_ncbi_df = raw_ncbi_df[
 ["GeneID", "Symbol", "Synonyms", "dbXrefs", "type_of_gene"]
 ]
 raw_ncbi_df = raw_ncbi_df.rename(
-    columns={"GeneID": "NCBI_ID", "Symbol": "gene_symbol", "Synonyms": "alias_symbol", "type_of_gene": "gene_type"})
+    columns={"GeneID": "NCBI_ID", "Symbol": "primary_gene_symbol", "Synonyms": "alias_symbol", "type_of_gene": "gene_type"})
 
 #SplitdbXrefs into individual columns
 for col in ["MIM", "HGNC_ID", "ENSG_ID", "AllianceGenome", "MIRbase", "IMGTgene_db", "dash", "unknown"]:

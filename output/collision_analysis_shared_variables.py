@@ -84,27 +84,27 @@ gene_record_count_ncbi = len(gene_record_set_ncbi)
 
 
 
-primary_symbol_set_hgnc = set(mini_hgnc_df['gene_symbol'])
+primary_symbol_set_hgnc = set(mini_hgnc_df['primary_gene_symbol'])
 primary_symbol_count_hgnc = len(primary_symbol_set_hgnc)
 primary_symbol_count_hgnc
 
 alias_symbol_set_hgnc = set(mini_hgnc_df['alias_symbol'])
 alias_symbol_count_hgnc = len(alias_symbol_set_hgnc)
 
-total_symbol_count_hgnc = len(set(mini_hgnc_df['gene_symbol']) | set(mini_hgnc_df['alias_symbol']))
+total_symbol_count_hgnc = len(set(mini_hgnc_df['primary_gene_symbol']) | set(mini_hgnc_df['alias_symbol']))
 
-primary_symbol_set_ensg = set(mini_ensg_df['gene_symbol'])
+primary_symbol_set_ensg = set(mini_ensg_df['primary_gene_symbol'])
 primary_symbol_count_ensg = len(primary_symbol_set_ensg)
 
 alias_symbol_set_ensg = set(mini_ensg_df['alias_symbol'])
 alias_symbol_count_ensg = len(alias_symbol_set_ensg)
 
-total_symbol_count_ensg = pd.concat([mini_ensg_df["gene_symbol"], mini_ensg_df["alias_symbol"]]).dropna().nunique()
+total_symbol_count_ensg = pd.concat([mini_ensg_df["primary_gene_symbol"], mini_ensg_df["alias_symbol"]]).dropna().nunique()
 
-primary_symbol_set_ncbi = set(mini_ncbi_df['gene_symbol'])
+primary_symbol_set_ncbi = set(mini_ncbi_df['primary_gene_symbol'])
 primary_symbol_count_ncbi = len(primary_symbol_set_ncbi)
 
 alias_symbol_set_ncbi = set(mini_ncbi_df['alias_symbol'])
 alias_symbol_count_ncbi = len(alias_symbol_set_ncbi)
 
-total_symbol_count_ncbi = pd.concat([mini_ncbi_df["gene_symbol"], mini_ncbi_df["alias_symbol"]]).dropna().nunique()
+total_symbol_count_ncbi = pd.concat([mini_ncbi_df["primary_gene_symbol"], mini_ncbi_df["alias_symbol"]]).dropna().nunique()
