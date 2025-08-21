@@ -26,6 +26,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+
+#Large Files
+analysis/.pybiomart.sqlite
+output/ortholog_analysis_df.csv
+
 # Large Amount of Generated Data
 input/orthologs/
 output/orthologs/ 
