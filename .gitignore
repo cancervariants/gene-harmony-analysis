@@ -172,3 +172,7 @@ cython_debug/
 
 #thing i need for uniprot protein mass symbol capture
 uniprot_sprot.xml
+
+#files i need to look into interpro as a source for symbol capture 
+cddid.tbl
+interpro.xml
