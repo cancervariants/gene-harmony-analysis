@@ -176,3 +176,4 @@ uniprot_sprot.xml
 #files for investigating potential of interpro as a source to capture gene symbols
 cddid.tbl
 interpro.xml
+match_complete.xml.gz
