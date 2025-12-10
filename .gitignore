@@ -182,3 +182,6 @@ match_complete.xml
 #files for SGD as a source to capture gene symbols
 dbxref.README
 dbxref.tab
+
+#files too big, from interpro category work
+inprogress.json
