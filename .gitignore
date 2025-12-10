@@ -172,6 +172,10 @@ cython_debug/
 
 #thing i need for uniprot protein mass symbol capture
 uniprot_sprot.xml
+gene_id_to_uniprot_df.csv
+
+#files for expired symbols work
+ncbi_gene_history20251006
 
 #files for investigating potential of interpro as a source to capture gene symbols
 cddid.tbl
@@ -192,6 +196,7 @@ gene2ensembl20251007
 gene2vega20251007
 hgnc_associated_ids20250926.txt
 gene2accession20251007
+ncbi_to_uniprot_df.csv
 
 #files too big gene neighbors work
 gene_neighbors20251007
@@ -204,6 +209,8 @@ interactions20251007
 
 #files too big alt symbol work
 gene2pubtator3
+alt_pub_symbol_analysis_df.h5
+alt_pub_symbol_match_subset_genes_df.h5
 
 #files for expired mouse symbols
 MGI_EntrezGene.rpt.txt
