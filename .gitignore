@@ -185,3 +185,28 @@ dbxref.tab
 
 #files too big, from interpro category work
 inprogress.json
+uniprot_ncbi_gene20250922.dat
+
+#files too big gene ID symbol work
+gene2ensembl20251007
+gene2vega20251007
+hgnc_associated_ids20250926.txt
+gene2accession20251007
+
+#files too big gene neighbors work
+gene_neighbors20251007
+
+#files too big ncbi gene group work
+gene_group20251007
+
+#files for gene interactions work
+interactions20251007
+
+#files too big alt symbol work
+gene2pubtator3
+
+#files for expired mouse symbols
+MGI_EntrezGene.rpt.txt
+
+#I don't think I've used this yet but i dont want to download again
+gene2go20251007
