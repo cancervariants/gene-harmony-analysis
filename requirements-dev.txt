@@ -9,7 +9,6 @@ biopython==1.86
 bioutils==0.5.8.post1
 blosc2==3.3.1
 boto3==1.42.19
-botocore==1.34.76
 bs4==0.0.2
 canonicaljson==2.0.0
 cattrs==24.1.2
@@ -57,6 +56,7 @@ nbimporter==0.3.4
 ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.4.2
+nltk==3.9.2
 numexpr==2.10.2
 numpy==1.26.4
 obonet==1.1.0
@@ -73,6 +73,7 @@ psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
 py-cpuinfo==9.0.0
+pybiomart==0.2.0
 pydantic==2.6.4
 pydantic_core==2.16.3
 Pygments==2.18.0
@@ -88,7 +89,6 @@ requests==2.32.3
 requests-cache==1.2.1
 retrying==1.3.4
 rpds-py==0.21.0
-s3transfer==0.10.1
 scipy==1.15.2
 six==1.16.0
 sniffio==1.3.1
