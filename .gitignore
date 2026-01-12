@@ -171,49 +171,42 @@ cython_debug/
 .DS_Store
 
 #thing i need for uniprot protein mass symbol capture
-uniprot_sprot.xml
-gene_id_to_uniprot_df.csv
+output/gene_id_to_uniprot_df.csv
 
 #files for expired symbols work
-ncbi_gene_history20251006
-
-#files for investigating potential of interpro as a source to capture gene symbols
-cddid.tbl
-interpro.xml
-match_complete.xml.gz
-match_complete.xml
+input/ncbi_gene_history20251006
 
 #files for SGD as a source to capture gene symbols
-dbxref.README
-dbxref.tab
+input/dbxref.README
+input/dbxref20251213.tab
 
 #files too big, from interpro category work
-inprogress.json
-uniprot_ncbi_gene20250922.dat
+output/inprogress.json
+input/idmapping20251015.dat
 
 #files too big gene ID symbol work
-gene2ensembl20251007
-gene2vega20251007
-hgnc_associated_ids20250926.txt
-gene2accession20251007
-ncbi_to_uniprot_df.csv
+input/gene2ensembl20251007
+input/gene2vega20251007
+input/hgnc_associated_ids20250926.txt
+input/gene2accession20251007
+output/ncbi_to_uniprot_df.csv
 
 #files too big gene neighbors work
-gene_neighbors20251007
+input/gene_neighbors20251007
 
 #files too big ncbi gene group work
-gene_group20251007
+input/gene_group20251007
 
 #files for gene interactions work
-interactions20251007
+input/interactions20251007
 
 #files too big alt symbol work
-gene2pubtator3
-alt_pub_symbol_analysis_df.h5
-alt_pub_symbol_match_subset_genes_df.h5
+input/gene2pubtator3
+output/alt_pub_symbol_analysis_df.h5
+output/alt_pub_symbol_match_subset_genes_df.h5
 
 #files for expired mouse symbols
-MGI_EntrezGene.rpt.txt
+input/MGI_EntrezGene.rpt.txt
 
 #I don't think I've used this yet but i dont want to download again
 gene2go20251007
