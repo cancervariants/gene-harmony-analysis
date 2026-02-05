@@ -6,8 +6,17 @@ HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,39961042,no,-,-,-,primer,meth
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,38980911,no,-,-,-,primer,methods,"PCR amplification of DNA was performed using a nested PCR reaction. Briefly, the first PCR used the broad-specificity eukaryotic primer RD5 (5Õ-GGAAGCTTATCTGGTTGA TCCTGCCAGTA-3Õ) and RD3 (5Õ-GGGATCCTGATCCTTC CGCAGGTTCACCTAC-3Õ), which amplifies a ~1,800 bp fragment of the SSU rDNA",
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,38578271,no,-,-,-,primer,methods,The gDNA samples were analysed by PCR amplification of _600 bp of the SSU rRNA gene of Blastocystis sp. using the primers RD5 (5__ATCTGGTTGATCCTGCCAGT_3_) and BhRDr (5_GAGCTTTTTAACTGCAACAACG_3_) to identify the presence of Blastocystis sp. Infection,
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,38543574,no,-,-,-,primer,methods,PCR amplification of Blastocystis sp. was carried out using barcoding region primers BhRDr (5_-GAGCTTTTTAACTGCAACAACG-3_) and RD5 (5_-ATCTGGTTGATCCTGCCAGT-3_) for SSU rRNA,
+<<<<<<< HEAD
+<<<<<<< HEAD
+HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,37185159,no,-,-,-,primer,methods,"In the first reaction, the broadly specific oligonucleotide primers RD5 (5Õ-GGAAGCTTATCTGGTTGATCCTGCCAGTA-3Õ) and RD3 (5Õ-GGGATCCTGATCCTTCCGCAGGTTCACCTAC-3Õ) were used",
+=======
+HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,37185159,no,-,-,-,primer,methods,"In the first reaction, the broadly specific oligonucleotide primers RD5 (5ï¿½-GGAAGCTTATCTGGTTGATCCTGCCAGTA-3ï¿½) and RD3 (5ï¿½-GGGATCCTGATCCTTCCGCAGGTTCACCTAC-3ï¿½) were used",
+>>>>>>> cca748a (add confusion matrix and precision and recall analysis)
+HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,36650547,yes,no,alias,alias,-,intro,"TUB (MIM #601197), also known as rd5 or RDOB, maps to 11p15.4 and encodes the tubby-bipartite transcription regulator",
+=======
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,37185159,no,-,-,-,primer,methods,"In the first reaction, the broadly specific oligonucleotide primers RD5 (5Õ-GGAAGCTTATCTGGTTGATCCTGCCAGTA-3Õ) and RD3 (5Õ-GGGATCCTGATCCTTCCGCAGGTTCACCTAC-3Õ) were used",
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,36650547,yes,,alias,alias,-,intro,"TUB (MIM #601197), also known as rd5 or RDOB, maps to 11p15.4 and encodes the tubby-bipartite transcription regulator",
+>>>>>>> dev
 HGNC:12406,ENSG00000166402,GENE ID:7275,TUB,rd5,F,,36612533,no,-,-,-,primer,methods,The primers were as follows: forward primer RD5 5_-ATC TGG TTG ATC CTG CCA GT-3_ and reverse primer BhRDr 5_-GAG CTT TTTA ACT GCA ACA ACG-3_,
 HGNC:6631,ENSG00000074695,GENE ID:3998,LMAN1,GP58,F,,9116635,no,-,-,-,virus glycoprotein 58,abstract,HCMV DNA encoding a neutralising epitope of the surface glycoprotein gp58 was either inserted at the amino terminus or fused to the truncated carboxyl terminus of HBcAg and expressed in Escherichia coli.,
 HGNC:6631,ENSG00000074695,GENE ID:3998,LMAN1,GP58,F,,8991937,no,-,-,-,glycoprotein B,abstract,"Polymorphonuclear leucocyte (PMNL) samples taken at regular intervals after transplantation were tested for HCMV DNA using primer sets homologous to the glycoprotein B (gp58), major immediate early (IE1), and structural phosphoprotein (pp150) regions.",
