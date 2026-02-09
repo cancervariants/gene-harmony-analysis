@@ -210,3 +210,6 @@ input/MGI_EntrezGene.rpt.txt
 
 #I don't think I've used this yet but i dont want to download again
 gene2go20251007
+
+#This makes an environment variable for my email
+.env
