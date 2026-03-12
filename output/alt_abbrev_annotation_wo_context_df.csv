@@ -14,7 +14,7 @@ HGNC:5,ENSG00000121410,GENE ID:1,False,,A1BG,GAB,False,alpha-1-B glycoprotein
 HGNC:5,ENSG00000121410,GENE ID:1,False,,A1BG,A1B,True,alpha-1-B glycoprotein
 HGNC:5,ENSG00000121410,GENE ID:1,False,,A1BG,ABG,True,alpha-1-B glycoprotein
 HGNC:24086,ENSG00000148584,GENE ID:29974,False,,A1CF,ACF,True,APOBEC1 complementation factor
-HGNC:24086,ENSG00000148584,GENE ID:29974,False,,A1CF,ACF64,True,APOBEC1 complementation factor
+HGNC:24086,ENSG00000148584,GENE ID:29974,False,,A1CF,ACF64,False,APOBEC1 complementation factor
 HGNC:24086,ENSG00000148584,GENE ID:29974,True,Withdrawn MGI Symbol,A1CF,ASP,False,APOBEC1 complementation factor
 HGNC:30005,ENSG00000184389,GENE ID:127550,False,,A3GALT2,IGB3S,False,"alpha 1,3-galactosyltransferase 2"
 HGNC:18149,ENSG00000128274,GENE ID:53947,False,,A4GALT,A4GALT1,False,"alpha 1,4-galactosyltransferase (P1PK blood group)"
@@ -108,7 +108,7 @@ HGNC:13239,ENSG00000166979,GENE ID:59271,False,,EVA1C,B19,False,eva-1 homolog C
 HGNC:13257,ENSG00000111729,GENE ID:50856,False,,CLEC4A,HDCGC13P,False,C-type lectin domain family 4 member A
 HGNC:27230,ENSG00000171320,GENE ID:157570,False,,ESCO2,EFO2p,False,establishment of sister chromatid cohesion N-acetyltransferase 2
 HGNC:17789,ENSG00000148943,GENE ID:55327,False,,LIN7C,VELI3,False,lin-7 cell polarity scaffold C
-HGNC:30912,ENSG00000127578,GENE ID:117166,False,,WFIKKN1,WFIKKN,True,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1"
+HGNC:30912,ENSG00000127578,GENE ID:117166,False,,WFIKKN1,WFIKKN,False,"WAP, follistatin/kazal, immunoglobulin, kunitz and netrin domain containing 1"
 HGNC:6295,ENSG00000269821,GENE ID:10984,False,,KCNQ1OT1,LIT1,False,KCNQ1 opposite strand/antisense transcript 1
 HGNC:1787,ENSG00000147889,GENE ID:1029,False,,CDKN2A,p16INK4a,False,cyclin dependent kinase inhibitor 2A
 HGNC:2638,ENSG00000106258,GENE ID:1577,False,,CYP3A5,PCN3,False,cytochrome P450 family 3 subfamily A member 5
@@ -131,7 +131,7 @@ HGNC:32522,"ENSG00000182487, ENSG00000290838",GENE ID:654816,False,,NCF1B,SH3PXD
 HGNC:6525,ENSG00000160349,GENE ID:3933,False,,LCN1,TP,False,lipocalin 1
 HGNC:17284,ENSG00000128513,GENE ID:25913,False,,POT1,hPot1,True,protection of telomeres 1
 HGNC:28073,ENSG00000178381,GENE ID:90637,False,,ZFAND2A,AIRAP,False,zinc finger AN1-type containing 2A
-HGNC:16687,ENSG00000184708,GENE ID:56478,False,,EIF4ENIF1,4E-T,True,eukaryotic translation initiation factor 4E nuclear import factor 1
+HGNC:16687,ENSG00000184708,GENE ID:56478,False,,EIF4ENIF1,4E-T,False,eukaryotic translation initiation factor 4E nuclear import factor 1
 HGNC:19783,set(),GENE ID:122449,False,,RPS29P1,RPS29_5_1384,False,ribosomal protein S29 pseudogene 1
 HGNC:11772,ENSG00000106799,GENE ID:7046,False,,TGFBR1,TGFR-1,True,transforming growth factor beta receptor 1
 HGNC:10963,ENSG00000175003,GENE ID:6580,False,,SLC22A1,HOCT1,False,solute carrier family 22 member 1
@@ -162,7 +162,7 @@ HGNC:28613,ENSG00000167077,GENE ID:150365,False,,MEI1,SPATA38,False,meiotic doub
 HGNC:30802,ENSG00000177666,GENE ID:57104,False,,PNPLA2,TTS-2.2,False,"patatin like domain 2, triacylglycerol lipase"
 HGNC:32605,"ENSG00000280498, ENSG00000274582",GENE ID:692073,False,,SNORA16A,ACA16,True,"small nucleolar RNA, H/ACA box 16A"
 HGNC:21044,ENSG00000090975,GENE ID:57605,False,,PITPNM2,RDGBA2,False,phosphatidylinositol transfer protein membrane associated 2
-HGNC:14875,ENSG00000132704,GENE ID:79368,False,,FCRL2,FCRH2,False,Fc receptor like 2
+HGNC:14875,ENSG00000132704,GENE ID:79368,False,,FCRL2,FCRH2,True,Fc receptor like 2
 HGNC:17005,ENSG00000136110,GENE ID:11061,False,,CNMD,CHM-I,False,chondromodulin
 HGNC:10914,ENSG00000140199,GENE ID:9990,False,,SLC12A6,KCC3B,False,solute carrier family 12 member 6
 HGNC:20218,"ENSG00000275947, ENSG00000153485",GENE ID:26175,False,,LYSET,GCAF,False,lysosomal enzyme trafficking factor
@@ -184,7 +184,7 @@ HGNC:18076,ENSG00000182196,GENE ID:51329,False,,ARL6IP4,SRrp37,False,ARF like GT
 HGNC:49757,ENSG00000249550,GENE ID:100506465,False,,LINC01234,onco-lncRNA-32,False,long intergenic non-protein coding RNA 1234
 HGNC:4555,ENSG00000211445,GENE ID:2878,False,,GPX3,GSHPx-3,True,glutathione peroxidase 3
 HGNC:16046,ENSG00000115446,GENE ID:25972,False,,UNC50,UNCL,False,unc-50 inner nuclear membrane RNA binding protein
-HGNC:6154,ENSG00000147166,GENE ID:26548,False,,ITGB1BP2,ITGB1BP,True,integrin subunit beta 1 binding protein 2
+HGNC:6154,ENSG00000147166,GENE ID:26548,False,,ITGB1BP2,ITGB1BP,False,integrin subunit beta 1 binding protein 2
 HGNC:2235,ENSG00000067082,GENE ID:1316,False,,KLF6,ZF9,False,KLF transcription factor 6
 HGNC:18656,ENSG00000124784,GENE ID:83732,False,,RIOK1,AD034,False,RIO kinase 1
 HGNC:16272,ENSG00000196782,GENE ID:55534,False,,MAML3,ERDA3,False,mastermind like transcriptional coactivator 3
@@ -242,7 +242,7 @@ HGNC:24931,ENSG00000126970,GENE ID:55906,True,Prefix Condition Symbol,ZC4H2,WRWF
 HGNC:34682,set(),GENE ID:100189120,True,Prefix Gene Group Symbol,TRD-GTC2-5,tRNA-Asp-GTC-2-5,True,tRNA-Asp (anticodon GTC) 2-5
 HGNC:7602,ENSG00000197535,GENE ID:4644,True,Previous Symbol,MYO5A,MYH12,False,myosin VA
 HGNC:25335,ENSG00000167257,GENE ID:257160,True,Placeholder Symbol,RNF214,DKFZp547C195,False,ring finger protein 214
-HGNC:43334,ENSG00000252456,GENE ID:100873684,True,Previous Symbol,RNA5SP434,RN5S434,False,"RNA, 5S ribosomal pseudogene 434"
+HGNC:43334,ENSG00000252456,GENE ID:100873684,True,Previous Symbol,RNA5SP434,RN5S434,True,"RNA, 5S ribosomal pseudogene 434"
 HGNC:431,ENSG00000264958,GENE ID:243,True,"Previous Symbol, Withdrawn MGI Symbol",ALOX12P1,ALOX12P,False,arachidonate 12-lipoxygenase pseudogene 1
 HGNC:41643,set(),GENE ID:100616386,True,Gene Identifier Symbol,MIR4654,hsa-mir-4654,False,microRNA 4654
 HGNC:42015,ENSG00000238086,GENE ID:100418740,True,"Previous Symbol, Placeholder Symbol",PPP1R26P1,KIAA0649P1,False,protein phosphatase 1 regulatory subunit 26 pseudogene 1
@@ -353,7 +353,7 @@ HGNC:4507,ENSG00000136928,GENE ID:9568,True,"Previous Symbol, Withdrawn MGI Symb
 HGNC:4439,ENSG00000185245,GENE ID:2811,True,Prefix Condition Symbol,GP1BA,BDPLT3,False,glycoprotein Ib platelet subunit alpha
 HGNC:51196,ENSG00000231210,GENE ID:100996266,True,Previous Symbol,COMETT,LINC01510,False,cytosolic oncogenic antisense to MET transcript
 HGNC:8811,ENSG00000067992,GENE ID:5165,True,Prefix Condition Symbol,PDK3,CMTX6,False,pyruvate dehydrogenase kinase 3
-HGNC:14758,"ENSG00000176510, ENSG00000285252",GENE ID:392133,True,"Previous Symbol, Prefix Gene Group Symbol, Gene Identifier Symbol",OR10AC1,OR10AC1P,False,olfactory receptor family 10 subfamily AC member 1 (gene/pseudogene)
+HGNC:14758,"ENSG00000176510, ENSG00000285252",GENE ID:392133,True,"Previous Symbol, Prefix Gene Group Symbol, Gene Identifier Symbol",OR10AC1,OR10AC1P,True,olfactory receptor family 10 subfamily AC member 1 (gene/pseudogene)
 HGNC:25900,ENSG00000119280,GENE ID:84886,True,Clone Symbol,C1orf198,FLJ38847,False,chromosome 1 open reading frame 198
 HGNC:33650,ENSG00000216179,GENE ID:100126308,True,Gene Identifier Symbol,MIR541,HSA-MIR-541,False,microRNA 541
 HGNC:15310,ENSG00000172154,GENE ID:120586,True,Prefix Gene Group Symbol,OR8I2,OR11-170,False,olfactory receptor family 8 subfamily I member 2
