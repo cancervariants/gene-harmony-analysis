@@ -3,18 +3,24 @@ from collections.abc import Mapping
 from enum import StrEnum
 from typing import Any
 from dataclasses import dataclass
+from pathlib import Path
 
 import polars as pl
 from pydantic import BaseModel, ConfigDict
-from wags_llm.prompts import BasePromptTemplate, build_empty_registry
+from wags_llm.prompts import BasePromptTemplate
 
 
 class SkipReason(StrEnum):
     """Reason for why LLM invocation was skipped"""
 
     HSA_PREFIX = "hsa_prefix"
+    "alias symbols with 'HSA-' prefix are gene identifiers in miRBase"
+    "Example: HSA-MIR-21 is the miRBase identifier for MIR21."
     EXTRA_CHARACTERS = "extra_characters"
+    "an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name"
     LOW_LCS_SIMILARITY = "low_lcs_similarity"
+    "the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol"
+    "is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset."
 
 
 class AlternateAbbreviationPredictionResult(BaseModel):
@@ -45,35 +51,34 @@ class RunResult:
     system_summary: any = None
     system_metrics: pl.DataFrame | None = None
 
-PROMPT_NAME = "alias_symbol_annotation:alternate_abbreviation"
-PROMPT_VERSION = "v1"
+PROMPT_NAME = "alternate_abbreviation_annotation"
 
-
-class AlternateAbbreviationPromptV1(BasePromptTemplate):
+@dataclass
+class AlternateAbbreviationPrompt(BasePromptTemplate):
     """Version 1 prompt for predicting alternate abbreviation relationships."""
 
-    version = PROMPT_VERSION
     name = PROMPT_NAME
+    PROMPT_DIR = Path(__file__).parent / "alt_abbrev_prompts"
+
+    def __init__(self, version: str):
+        self.version = version
+
+    @property
+    def prompt_path(self) -> Path:
+        return self.PROMPT_DIR / f"{self.version}.txt"
 
     def build_system_prompt(self) -> str:
-        """Build the system prompt for predicting whether an alias is an alternate abbreviation of the primary gene symbol.
+        if not self.prompt_path.exists():
+            available_versions = sorted(
+                p.stem for p in self.PROMPT_DIR.glob("*.txt")
+            )
 
-        :returns: System prompt text.
-        """
-        return (
-            "Role: You are a biomedical gene nomenclature curator trained in HGNC gene identity and alias symbol resolution.\n"
-            "You will get fired if your accuracy is less than 95%.\n"
-            "Background:\n"
-            "An alternate abbreviation is when an alias symbol represents the same official gene name or the\n"
-            "primary gene symbol but with different letters. If the alias symbol is representing a different description or a previous name of\n"
-            "the gene then it is not an alternate abbreviation. Be careful with alias symbols that seem to be shortened versions\n"
-            "of the primary gene symbol, they may be a family name and therefore not an alternate abbreviation. Alias symbols\n"
-            "have extra characters may be alternate abbreviations unless they have characters that are not present in the official\n"
-            "gene name provided in the prompt. Keep in mind, a gene name with a number after the name is not the same gene as a gene name\n"
-            "with no numbers or different numbers after the name.\n"
-            "Task:\n"
-            "Determine whether the alias symbol is an abbreviation variant of the official HGNC gene name.\n"
-        )
+            raise FileNotFoundError(
+                f"Prompt version '{self.version}' not found. "
+                f"Available versions: {available_versions}"
+            )
+
+        return self.prompt_path.read_text()
 
     def build_user_prompt(
         self,
@@ -90,3 +95,16 @@ class AlternateAbbreviationPromptV1(BasePromptTemplate):
             f"Official Gene Name: {payload['gene_name']}\n"
             f"HGNC ID: {payload['hgnc_id']}\n"
         )
+    def build_payload(
+        self,
+        gene_symbol: str,
+        primary_gene_symbol: str,
+        gene_name: str,
+        hgnc_id: str,
+    ) -> dict:
+        return {
+            "gene_symbol": gene_symbol,
+            "primary_gene_symbol": primary_gene_symbol,
+            "gene_name": gene_name,
+            "hgnc_id": hgnc_id,
+        }
