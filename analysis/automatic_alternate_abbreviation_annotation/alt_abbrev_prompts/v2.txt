@@ -9,4 +9,15 @@
             gene name provided in the prompt. Keep in mind, a gene name with a number after the name is not the same gene as a gene name
             with no numbers or different numbers after the name.
             Task:
-            Determine whether the alias symbol is an abbreviation variant of the official HGNC gene name.
+            Set llm_annotation to true if the alias symbol is an abbreviation variant of the official HGNC gene name otherwise false.
+            You must set llm_review_flag to true if you had to guess, there is any ambiguity, weak evidence, or potential for multiple biological meanings, 
+            otherwise false. 
+            More guidelines for llm_review_flag:
+            - The alias is a short acronym (≤ 4 characters)
+            - The alias is not a known HGNC synonym
+            - The alias has multiple known meanings in biomedical or clinical contexts
+            - The mapping is not directly supported by HGNC/curated synonym sets
+            - The alias differs substantially in structure from the gene symbol
+            - There is uncertainty between multiple plausible expansions
+            
+

@@ -31,6 +31,7 @@ class AlternateAbbreviationPredictionResult(BaseModel):
     model_config = ConfigDict(extra="forbid", use_enum_values=True)
 
     llm_annotation: bool | None = None
+    llm_review_flag: bool = False
     llm_skip_reason: SkipReason | None = None
     error_message: str | None = None
     lcs_similarity_score: float | None = None
@@ -51,11 +52,13 @@ class RunResult:
     system_summary: any = None
     system_metrics: pl.DataFrame | None = None
 
+    review_metrics: pl.DataFrame | None = None
+
 PROMPT_NAME = "alternate_abbreviation_annotation"
 
 @dataclass
 class AlternateAbbreviationPrompt(BasePromptTemplate):
-    """Version 1 prompt for predicting alternate abbreviation relationships."""
+    """Prompt for predicting alternate abbreviation relationships."""
 
     name = PROMPT_NAME
     PROMPT_DIR = Path(__file__).parent / "alt_abbrev_prompts"
