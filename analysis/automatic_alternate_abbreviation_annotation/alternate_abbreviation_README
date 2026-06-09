@@ -1,0 +1,24 @@
+**Goal**
+I am using Claude to try to identify alias symbols of genes that are just variations of abbreviations of the official(primary) gene symbols and the official gene name. The goal is to be able to do this automatically instead of manually. 
+These symbols represent the gene with a different symbol than the primary gene symbol. For example, the official long gene name of HGNC:5 is “alpha-1-B glycoprotein” with a primary gene symbol of A1BG. One of the aliases is A1B which is found in PMID: 2447112 to represent “Alpha 1-beta glycoprotein”. This is the same official name of the gene but the abbreviation is different, A1B vs A1BG. Other examples include the gene FOLR3, folate receptor gamma which has an alias FRgamma that is an alternate abbreviation of FOLR3 because it represents the same official gene name but using different characters in the alias gene symbol. In this case, gamma is the third letter of the greek alphabet and represented by the "3" in the primary gene symbol. 
+![alt text](<Alternate Abbreviation Annotation.png>)
+
+**Workflow** 
+1. Manually annotate a set of alias gene symbols, indicating which are alternate abbreviations, using primary gene symbols and official gene names.
+2. Add more samples to increase the gold-standard dataset ([Notebook 1: Add Samples](alt_abbrev_llm_0_add_samples.ipynb)).
+3. Before calling the LLM, use rule-based criteria to identify alias gene symbols that do not qualify as alternate abbreviations.
+- "HSA-" prefix indicates a gene identifier from the miRBase database
+- extra characters compared to the primary gene symbol or gene name
+- low LCS score
+3. Call LLM using prompt and official gene name and symbol and collect alternate abbreviation predictions ([Notebook 2: Collect LLM Predictions](alt_abbrev_llm_1_run_samples.ipynb)).
+4. Analyze LLM predictions against manual annotations from the gold-standard dataset ([Notebook 3: Analyze LLM Predictions](alt_abbrev_llm_2_analyze_results.ipynb)). 
+
+**Manual annotation document columns and content description:**
+- HGNC_ID, ENSG_ID, NCBI_ID: the identifier(s) associated with the gene in the databases HUGO Gene Nomenclature Committee, Ensembl, and NCBI Gene
+- primary_gene_symbol: the official gene symbol assigned to the gene by HGNC
+- gene_symbol: the alias symbol 
+- captured_status: if the relationship between the alias symbol and the gene is annotated (from gene-harmony-analysis)
+- captured_category_list: the list of relationship categories the alias symbol and the gene were annotated by (from gene-harmony-analysis)
+> **Manually annotated**
+- alternate_abbreviation_status: if the alias represents the referenced gene as an alternate abbreviation
+- notes: miscellaneous thoughts I jotted down as I was curating
