@@ -51,13 +51,12 @@ class RunResult:
     system_summary: any = None
     system_metrics: pl.DataFrame | None = None
 
-PROMPT_NAME = "alternate_abbreviation_annotation"
 
 @dataclass
 class AlternateAbbreviationPrompt(BasePromptTemplate):
     """Version 1 prompt for predicting alternate abbreviation relationships."""
 
-    name = PROMPT_NAME
+    name = "alternate_abbreviation_annotation"
     PROMPT_DIR = Path(__file__).parent / "alt_abbrev_prompts"
 
     def __init__(self, version: str):
