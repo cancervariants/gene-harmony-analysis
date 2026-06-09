@@ -14,13 +14,15 @@ class SkipReason(StrEnum):
     """Reason for why LLM invocation was skipped"""
 
     HSA_PREFIX = "hsa_prefix"
-    "alias symbols with 'HSA-' prefix are gene identifiers in miRBase"
-    "Example: HSA-MIR-21 is the miRBase identifier for MIR21."
+    #alias symbols with 'HSA-' prefix are gene identifiers in miRBase
+    #Example: HSA-MIR-21 is the miRBase identifier for MIR21.
+
     EXTRA_CHARACTERS = "extra_characters"
-    "an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name"
+    #an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name
+    
     LOW_LCS_SIMILARITY = "low_lcs_similarity"
-    "the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol"
-    "is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset."
+    #the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol
+    #is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
 
 
 class AlternateAbbreviationPredictionResult(BaseModel):
