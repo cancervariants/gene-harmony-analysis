@@ -1,3 +1,7 @@
+"""
+Define data models and prompt templates for alternate abbreviation annotation.
+"""
+
 import re
 from collections.abc import Mapping
 from enum import StrEnum
@@ -19,7 +23,7 @@ class SkipReason(StrEnum):
 
     EXTRA_CHARACTERS = "extra_characters"
     #an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name
-    
+
     LOW_LCS_SIMILARITY = "low_lcs_similarity"
     #the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol
     #is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
