@@ -1,12 +1,10 @@
-"""
-Define data models and prompt templates for alternate abbreviation annotation.
-"""
+"""Define data models and prompt templates for alternate abbreviation annotation."""
 
 from collections.abc import Mapping
-from enum import StrEnum
-from typing import Any
 from dataclasses import dataclass
+from enum import StrEnum
 from pathlib import Path
+from typing import Any
 
 import polars as pl
 from pydantic import BaseModel, ConfigDict
@@ -28,6 +26,20 @@ class MatchedRule(StrEnum):
     # is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
 
 class RuleResult(BaseModel):
+    """Result of rule-based evaluation for alias gene symbol resolution.
+
+    Stores outputs from heuristic filters used to determine whether an alias
+    gene symbol should be excluded from LLM-based evaluation.
+
+    :param lcs_similarity_score: Normalized longest common subsequence similarity
+        between alias and primary gene symbol (if computed)
+    :param num_extra_characters: Number of characters in alias not present in
+        the gene name (if computed)
+    :param conflicting_category: List of captured annotation categories that
+        indicate rule-based conflicts (if any)
+    :param matched_rule: Rule that triggered exclusion, if any
+    """
+
     lcs_similarity_score: float | None = None
     num_extra_characters: int | None = None
     conflicting_category: list[str] | None = None
@@ -72,20 +84,43 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
     PROMPT_DIR = Path(__file__).parent / "alt_abbrev_prompts"
 
     def __init__(self, version: str):
+        """Initialize prompt configuration with a specific prompt version.
+
+        :param version: Prompt version identifier used to locate the corresponding prompt file
+        """
         self.version = version
 
     @property
     def prompt_path(self) -> Path:
+        """Path to the system prompt file for the configured version.
+
+        Constructs the file path by combining the prompt directory with the
+        selected prompt version filename.
+
+        :return: Path object pointing to the prompt .txt file
+        """
         return self.PROMPT_DIR / f"{self.version}.txt"
 
     def build_system_prompt(self) -> str:
-        if not self.prompt_path.exists():
-            available_versions = sorted(p.stem for p in self.PROMPT_DIR.glob("*.txt"))
+        """Load the system prompt text for the configured prompt version.
 
-            raise FileNotFoundError(
+        If the prompt file for the selected version does not exist, raises an error
+        listing all available prompt versions in the prompt directory.
+
+        :return: System prompt text loaded from the corresponding prompt file
+        :raises FileNotFoundError: If the configured prompt version is not found
+        """
+        if not self.prompt_path.exists():
+            available_versions = sorted(
+                p.stem for p in self.PROMPT_DIR.glob("*.txt")
+            )
+
+            error_msg = (
                 f"Prompt version '{self.version}' not found. "
                 f"Available versions: {available_versions}"
             )
+
+            raise FileNotFoundError(error_msg)
 
         return self.prompt_path.read_text()
 
@@ -96,7 +131,7 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
         """Build the user prompt for a single alias symbol.
 
         :param payload: The alias symbol, HGNC ID, primary gene symbol, official gene name to be evaluated,
-        :returns: User prompt text
+        :return: User prompt text
         """
         return (
             f"Alias Symbol: {payload['gene_symbol']}\n"
@@ -112,6 +147,14 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
         gene_name: str,
         hgnc_id: str,
     ) -> dict:
+        """Build payload for alternate abbreviation annotation request.
+
+        :param gene_symbol: Alias gene symbol being evaluated
+        :param primary_gene_symbol: Official HGNC primary gene symbol
+        :param gene_name: Full gene name associated with the gene
+        :param hgnc_id: HGNC identifier for the gene
+        :return: Dictionary payload used for LLM annotation input
+        """
         return {
             "gene_symbol": gene_symbol,
             "primary_gene_symbol": primary_gene_symbol,
