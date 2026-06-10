@@ -5,7 +5,7 @@ Define data models and prompt templates for alternate abbreviation annotation.
 from collections.abc import Mapping
 from enum import StrEnum
 from typing import Any
-from pydantic.dataclasses import dataclass
+from dataclasses import dataclass
 from pathlib import Path
 
 import polars as pl
@@ -13,11 +13,11 @@ from pydantic import BaseModel, ConfigDict
 from wags_llm.prompts import BasePromptTemplate
 
 
-class SkipReason(StrEnum):
-    """Reason for why LLM invocation was skipped"""
+class MatchedRule(StrEnum):
+    """Rules that determine if an alias gene symbol is NOT an alternate abbreviation"""
 
-    HSA_PREFIX = "hsa_prefix"
-    # alias symbols with 'HSA-' prefix are gene identifiers in miRBase
+    CONFLICT_CATEGORY = "conflict_category"
+    # alias gene symbols that have been found to be gene identifiers or clone symbols are not alternate abbreviations
     # Example: HSA-MIR-21 is the miRBase identifier for MIR21.
 
     EXTRA_CHARACTERS = "extra_characters"
@@ -27,6 +27,11 @@ class SkipReason(StrEnum):
     # the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol
     # is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
 
+class RuleResult(BaseModel):
+    lcs_similarity_score: float | None = None
+    num_extra_characters: int | None = None
+    conflicting_category: list[str] | None = None
+    matched_rule: MatchedRule | None = None
 
 class AlternateAbbreviationPredictionResult(BaseModel):
     """Model for LLM and human curator result for determining whether an
@@ -36,10 +41,11 @@ class AlternateAbbreviationPredictionResult(BaseModel):
     model_config = ConfigDict(extra="forbid", use_enum_values=True)
 
     llm_annotation: bool | None = None
-    llm_skip_reason: SkipReason | None = None
+    matched_rule: MatchedRule | None = None
     error_message: str | None = None
     lcs_similarity_score: float | None = None
-
+    conflicting_category: list[str] | None = None
+    num_extra_characters: float | None = None
 
 @dataclass
 class RunResult:
