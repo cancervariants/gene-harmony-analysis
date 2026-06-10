@@ -2,11 +2,10 @@
 Define data models and prompt templates for alternate abbreviation annotation.
 """
 
-import re
 from collections.abc import Mapping
 from enum import StrEnum
 from typing import Any
-from dataclasses import dataclass
+from pydantic.dataclasses import dataclass
 from pathlib import Path
 
 import polars as pl
@@ -18,15 +17,15 @@ class SkipReason(StrEnum):
     """Reason for why LLM invocation was skipped"""
 
     HSA_PREFIX = "hsa_prefix"
-    #alias symbols with 'HSA-' prefix are gene identifiers in miRBase
-    #Example: HSA-MIR-21 is the miRBase identifier for MIR21.
+    # alias symbols with 'HSA-' prefix are gene identifiers in miRBase
+    # Example: HSA-MIR-21 is the miRBase identifier for MIR21.
 
     EXTRA_CHARACTERS = "extra_characters"
-    #an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name
+    # an alias symbol cannot be an alternate abbreviation if it has extra characters compared to the primary gene symbol or gene name
 
     LOW_LCS_SIMILARITY = "low_lcs_similarity"
-    #the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol
-    #is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
+    # the lower the LCS similarity score between the alias symbol and the primary gene symbol/gene name, the less likely the alias symbol
+    # is an alternate abbreviation. The threshold is assigned based on the distribution of LCS similarity scores in the manually annotated dataset.
 
 
 class AlternateAbbreviationPredictionResult(BaseModel):
@@ -41,6 +40,7 @@ class AlternateAbbreviationPredictionResult(BaseModel):
     error_message: str | None = None
     lcs_similarity_score: float | None = None
 
+
 @dataclass
 class RunResult:
     """Store performance metrics and summaries for a single evaluation run."""
@@ -50,11 +50,11 @@ class RunResult:
 
     llm_accuracy: float
     llm_coverage: float | None
-    llm_summary: any
+    llm_summary: Any
     llm_metrics: pl.DataFrame
 
     system_accuracy: float | None = None
-    system_summary: any = None
+    system_summary: Any = None
     system_metrics: pl.DataFrame | None = None
 
 
@@ -74,9 +74,7 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
 
     def build_system_prompt(self) -> str:
         if not self.prompt_path.exists():
-            available_versions = sorted(
-                p.stem for p in self.PROMPT_DIR.glob("*.txt")
-            )
+            available_versions = sorted(p.stem for p in self.PROMPT_DIR.glob("*.txt"))
 
             raise FileNotFoundError(
                 f"Prompt version '{self.version}' not found. "
@@ -91,7 +89,7 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
     ) -> str:
         """Build the user prompt for a single alias symbol.
 
-        :param payload: The alias symbol, HGNC ID, primary gene symbol, official gene name to be evaluated, 
+        :param payload: The alias symbol, HGNC ID, primary gene symbol, official gene name to be evaluated,
         :returns: User prompt text
         """
         return (
@@ -100,6 +98,7 @@ class AlternateAbbreviationPrompt(BasePromptTemplate):
             f"Official Gene Name: {payload['gene_name']}\n"
             f"HGNC ID: {payload['hgnc_id']}\n"
         )
+
     def build_payload(
         self,
         gene_symbol: str,
