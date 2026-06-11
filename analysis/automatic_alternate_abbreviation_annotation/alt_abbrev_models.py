@@ -63,17 +63,17 @@ class AlternateAbbreviationPredictionResult(BaseModel):
 class RunResult:
     """Store performance metrics and summaries for a single evaluation run."""
 
-    temperature: float
-    run_idx: int
-
     llm_accuracy: float
     llm_coverage: float | None
     llm_summary: Any
     llm_metrics: pl.DataFrame
 
-    system_accuracy: float | None = None
-    system_summary: Any = None
-    system_metrics: pl.DataFrame | None = None
+    system_accuracy: float | None
+    system_summary: Any
+    system_metrics: pl.DataFrame | None
+
+    temperature: float | None = None
+    run_idx: int | None = None
 
 
 @dataclass
