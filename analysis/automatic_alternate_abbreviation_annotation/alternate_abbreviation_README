@@ -1,6 +1,8 @@
 **Goal**
 I am using Claude to try to identify alias symbols of genes that are just variations of abbreviations of the official(primary) gene symbols and the official gene name. The goal is to be able to do this automatically instead of manually. 
-These symbols represent the gene with a different symbol than the primary gene symbol. For example, the official long gene name of HGNC:5 is “alpha-1-B glycoprotein” with a primary gene symbol of A1BG. One of the aliases is A1B which is found in PMID: 2447112 to represent “Alpha 1-beta glycoprotein”. This is the same official name of the gene but the abbreviation is different, A1B vs A1BG. Other examples include the gene FOLR3, folate receptor gamma which has an alias FRgamma that is an alternate abbreviation of FOLR3 because it represents the same official gene name but using different characters in the alias gene symbol. In this case, gamma is the third letter of the greek alphabet and represented by the "3" in the primary gene symbol. 
+These symbols represent the gene with a different symbol than the primary gene symbol. For example, the official long gene name of HGNC:5 is “alpha-1-B glycoprotein” with a primary gene symbol of A1BG. One of the aliases is A1B which is found in PMID: 2447112 to represent “Alpha 1-beta glycoprotein”. This is the same official name of the gene but the abbreviation is different, A1B vs A1BG. 
+
+Other examples (which are shown in the figure below) include the gene FOLR3, folate receptor gamma which has an alias FRgamma that is an alternate abbreviation of FOLR3 because it represents the same official gene name but using different characters in the alias gene symbol. In this case, gamma is the third letter of the greek alphabet and represented by the "3" in the primary gene symbol. 
 ![alt text](<Alternate Abbreviation Annotation.png>)
 
 **Workflow** 
