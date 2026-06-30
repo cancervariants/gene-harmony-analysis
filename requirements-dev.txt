@@ -77,7 +77,7 @@ py-cpuinfo==9.0.0
 pybiomart==0.2.0
 pydantic==2.6.4
 pydantic_core==2.16.3
-Pygments==2.18.0
+Pygments==2.20.0
 pyparsing==3.2.3
 pysam==0.22.1
 python-dateutil==2.9.0.post0
