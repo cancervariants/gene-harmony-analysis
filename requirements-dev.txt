@@ -31,7 +31,7 @@ fastjsonschema==2.20.0
 fonttools==4.57.0
 ga4gh.vrs==2.0.0a5
 gene-normalizer==0.3.0.dev1
-h11==0.14.0
+h11==0.16.0
 humanfriendly==10.0
 idna==3.6
 ipykernel==6.29.5
