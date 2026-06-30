@@ -33,7 +33,7 @@ ga4gh.vrs==2.0.0a5
 gene-normalizer==0.3.0.dev1
 h11==0.16.0
 humanfriendly==10.0
-idna==3.6
+idna==3.15
 ipykernel==6.29.5
 ipython==8.28.0
 ipython-genutils==0.2.0
