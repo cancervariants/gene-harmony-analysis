@@ -56,7 +56,7 @@ nbimporter==0.3.4
 ndindex==1.9.2
 nest-asyncio==1.6.0
 networkx==3.4.2
-nltk==3.9.4
+nltk>=3.9.5
 numexpr==2.10.2
 numpy==1.26.4
 obonet==1.1.0
