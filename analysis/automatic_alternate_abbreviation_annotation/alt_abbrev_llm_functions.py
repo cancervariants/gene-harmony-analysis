@@ -5,13 +5,22 @@ import math
 
 import requests
 import polars as pl
-from alt_abbrev_models import (
-    AlternateAbbreviationPredictionResult,
-    AlternateAbbreviationPrompt,
-    MatchedRule,
-    RuleResult,
-    RunResult
-)
+try:
+    from .alt_abbrev_models import (
+        AlternateAbbreviationPredictionResult,
+        AlternateAbbreviationPrompt,
+        MatchedRule,
+        RuleResult,
+        RunResult,
+    )
+except ImportError:
+    from alt_abbrev_models import (
+        AlternateAbbreviationPredictionResult,
+        AlternateAbbreviationPrompt,
+        MatchedRule,
+        RuleResult,
+        RunResult,
+    )
 from rapidfuzz.distance import LCSseq
 from tqdm.notebook import tqdm
 from wags_llm.cache import InMemoryCache
