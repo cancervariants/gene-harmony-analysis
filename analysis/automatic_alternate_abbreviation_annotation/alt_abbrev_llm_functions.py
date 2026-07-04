@@ -694,3 +694,52 @@ def build_eval_df(
     return add_correctness_column(eval_df)
 
 
+def annotate_alt_abbrev(
+    df: pl.DataFrame,
+    temperature: float,
+    prompt_version: str,
+) -> pl.DataFrame:
+
+    prompt = AlternateAbbreviationPrompt(version=prompt_version)
+
+    task_runner = build_llm_task_runner(
+        MODEL_ID,
+        REGION_NAME,
+        PROFILE_NAME,
+        MAX_TOKENS,
+        temperature=temperature,
+    )
+
+    predictions = []
+    skip_reasons = []
+
+    for row in tqdm(df.iter_rows(named=True), total=df.height):
+
+        result = get_alt_abbreviation_annotation(
+            df=df,
+            task_runner=task_runner,
+            prompt=prompt,
+            gene_symbol=row["gene_symbol"],
+            primary_gene_symbol=row["primary_gene_symbol"],
+            gene_name=row["gene_name"],
+            hgnc_id=row["HGNC_ID"],
+        )
+
+        if result.error_message:
+            raise RuntimeError(result.error_message)
+
+        predictions.append(result.llm_annotation)
+
+        if result.matched_rule is not None:
+            skip_reasons.append(str(result.matched_rule))
+
+        elif result.llm_annotation is None and result.matched_rule is None:
+            skip_reasons.append("LLM_ERROR")
+
+        else:
+            skip_reasons.append(None)
+
+    return df.with_columns([
+        pl.Series("Alternate Abbreviation Symbol", predictions),
+        pl.Series("skip_reason", skip_reasons),
+    ])
