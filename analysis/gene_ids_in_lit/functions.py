@@ -1,11 +1,18 @@
+"""Functions for analyzing gene alias mentions in PubTator 3 annotations.
+
+This module provides utilities to retrieve PubTator documents, identify gene
+alias mentions, evaluate normalization to HGNC, Ensembl, and NCBI Gene
+identifiers, and summarize identifier usage for ambiguous gene symbols in the
+biomedical literature.
+"""
+
 import hashlib
-import re
 import json
 import random
+import re
 import time
-
 from collections import Counter
-from collections.abc import Iterable
+from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
 from http.client import RemoteDisconnected
 from pathlib import Path
@@ -15,15 +22,75 @@ import requests
 from requests import Response
 from requests.exceptions import (
     ChunkedEncodingError,
-    ConnectionError,
     ReadTimeout,
     Timeout,
 )
+from requests.exceptions import (
+    ConnectionError as RequestsConnectionError,
+)
+
+type JSONValue = (
+    str
+    | int
+    | float
+    | bool
+    | None
+    | list["JSONValue"]
+    | dict[str, "JSONValue"]
+)
+
 BASE_URL = "https://www.ncbi.nlm.nih.gov/research/pubtator3-api"
 OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+class CheckpointMismatchError(ValueError):
+    """Raised when a checkpoint does not match the requested alias."""
+
+    def __init__(
+        self,
+        checkpoint_query: str,
+        alias: str,
+    ) -> None:
+        """Initialize the exception with the mismatched alias values.
+
+        :param checkpoint_query: the alias stored in the checkpoint
+        :param alias: the requested alias
+        """
+        super().__init__(
+            f"Checkpoint query {checkpoint_query!r} "
+            f"does not match {alias!r}."
+        )
+class RequestRetriesExceededError(RuntimeError):
+    """Raised when a request fails after all retry attempts."""
+
+    def __init__(
+        self,
+        max_retries: int,
+        url: str,
+        params: dict[str, Any],
+    ) -> None:
+        """Initialize the exception with request details.
+
+        :param max_retries: the maximum number of request attempts
+        :param url: the requested URL
+        :param params: the query parameters used in the request
+        """
+        super().__init__(
+            f"Request failed after {max_retries} attempts. "
+            f"URL: {url}; params: {params}"
+        )
+
 @dataclass(frozen=True)
 class GenePair:
+    """Store an alias gene symbol and the identifiers for its associated approved gene.
+
+    :param alias: the alias gene symbol being searched
+    :param approved_symbol: the approved human gene symbol associated with the alias
+    :param ncbi_gene_id: the NCBI Gene identifier for the approved gene
+    :param hgnc_id: the HGNC identifier for the approved gene
+    :param ensembl_gene_id: the Ensembl gene identifier for the approved gene
+    """
+
     alias: str
     approved_symbol: str
     ncbi_gene_id: str
@@ -32,10 +99,18 @@ class GenePair:
 
     @property
     def alias_prefix(self) -> str:
+        """Create a lowercase alias value for use in file and directory names.
+
+        return: the lowercase alias gene symbol
+        """
         return self.alias.lower()
 
     @property
     def pair_prefix(self) -> str:
+        """Create a lowercase prefix for the alias-approved symbol pair.
+
+        return: a string containing the alias and approved gene symbol
+        """
         return (
             f"{self.alias.lower()}_"
             f"{self.approved_symbol.lower()}"
@@ -43,14 +118,20 @@ class GenePair:
 
     @property
     def alias_output_dir(self) -> Path:
-        """Shared search and document data for this alias."""
+        """Create and return the shared output directory for an alias.
+
+        return: the path to the alias-level output directory
+        """
         path = OUTPUT_DIR / self.alias_prefix
         path.mkdir(parents=True, exist_ok=True)
         return path
 
     @property
     def result_output_dir(self) -> Path:
-        """Gene-specific output for this alias-gene pairing."""
+        """Create and return the gene-specific result directory for an alias-gene pair.
+
+        return: the path to the result directory for the approved gene
+        """
         path = (
             self.alias_output_dir
             / "results"
@@ -61,27 +142,42 @@ class GenePair:
 
     @property
     def checkpoint_file(self) -> Path:
+        """Return the file used to save search progress for an alias.
+
+        return: the path to the alias search checkpoint file
+        """
         # Shared by every gene associated with this alias.
         return self.alias_output_dir / "search_checkpoint.json"
 
     @property
     def pmid_cache_file(self) -> Path:
+        """Return the file used to cache PMIDs for an alias.
+
+        return: the path to the alias PMID cache file
+        """
         # Shared by every gene associated with this alias.
         return self.alias_output_dir / "pmids.json"
 
     @property
     def document_cache_dir(self) -> Path:
+        """Create and return the directory used to cache PubTator documents.
+
+        return: the path to the alias document cache directory
+        """
         # Shared by every gene associated with this alias.
         path = self.alias_output_dir / "document_cache"
         path.mkdir(parents=True, exist_ok=True)
         return path
-    
+
 def get_batch_cache_file(
     pair: GenePair,
     batch: list[str],
 ) -> Path:
-    """
-    Create a stable filename based on the PMIDs in the batch.
+    """Create a stable cache filename based on the PMIDs in a batch.
+
+    :param pair: the alias-gene pair whose document cache directory will be used
+    :param batch: the PMIDs included in the document request batch
+    return: the path to the JSON cache file for the batch
     """
     batch_key = ",".join(batch)
 
@@ -96,6 +192,10 @@ def get_batch_cache_file(
 
 
 def make_session() -> requests.Session:
+    """Create a requests session configured for PubTator API calls.
+
+    return: a requests session with the required request headers
+    """
     new_session = requests.Session()
     new_session.headers.update({
         "User-Agent": "gene-identifier-analysis/1.0",
@@ -111,6 +211,11 @@ session = make_session()
 def make_identifier_patterns(
     pair: GenePair,
 ) -> dict[str, re.Pattern]:
+    """Create regular expression patterns for accepted gene identifiers.
+
+    :param pair: the alias-gene pair containing the identifiers to match
+    return: a dictionary that maps each identifier namespace to its compiled pattern
+    """
     hgnc_number = pair.hgnc_id.split(":")[-1]
 
     return {
@@ -129,8 +234,12 @@ def make_identifier_patterns(
         ),
     }
 
+def extract_pmids(obj: JSONValue) -> set[str]:
+    """Recursively extract valid PubMed identifiers from a nested object.
 
-def extract_pmids(obj: Any) -> set[str]:
+    :param obj: a dictionary, list, or value returned by the PubTator API
+    return: the unique PMIDs found in the object
+    """
     pmids = set()
 
     if isinstance(obj, dict):
@@ -159,10 +268,18 @@ def extract_pmids(obj: Any) -> set[str]:
 def get_with_retry(
     url: str,
     *,
-    params: dict,
+    params: dict[str, Any],
     timeout: int = 90,
     max_retries: int = 10,
 ) -> Response:
+    """Send a GET request and retry temporary connection, rate-limit, and server failures.
+
+    :param url: the URL to request
+    :param params: the query parameters to include in the request
+    :param timeout: the maximum number of seconds to wait for each request
+    :param max_retries: the maximum number of request attempts
+    return: the successful HTTP response
+    """
     global session
 
     for attempt in range(max_retries):
@@ -181,13 +298,13 @@ def get_with_retry(
                 else:
                     wait_seconds = min(
                         120,
-                        5 * (2 ** attempt),
+                        5 * (2**attempt),
                     )
 
-                wait_seconds += random.uniform(0, 2)
+                wait_seconds += random.uniform(0, 2)  # noqa: S311
 
-                print(
-                    f"Rate limited. Waiting "
+                print(  # noqa: T201
+                    "Rate limited. Waiting "
                     f"{wait_seconds:.1f} seconds..."
                 )
 
@@ -196,11 +313,11 @@ def get_with_retry(
 
             if response.status_code in {500, 502, 503, 504}:
                 wait_seconds = (
-                    min(120, 3 * (2 ** attempt))
-                    + random.uniform(0, 2)
+                    min(120, 3 * (2**attempt))
+                    + random.uniform(0, 2)  # noqa: S311
                 )
 
-                print(
+                print(  # noqa: T201
                     f"Server returned {response.status_code}. "
                     f"Waiting {wait_seconds:.1f} seconds..."
                 )
@@ -209,21 +326,20 @@ def get_with_retry(
                 continue
 
             response.raise_for_status()
-            return response
 
         except (
-            ConnectionError,
+            RequestsConnectionError,
             RemoteDisconnected,
             ReadTimeout,
             Timeout,
             ChunkedEncodingError,
         ) as error:
             wait_seconds = (
-                min(120, 3 * (2 ** attempt))
-                + random.uniform(0, 2)
+                min(120, 3 * (2**attempt))
+                + random.uniform(0, 2)  # noqa: S311
             )
 
-            print(
+            print(  # noqa: T201
                 f"Connection failed: {type(error).__name__}. "
                 f"Waiting {wait_seconds:.1f} seconds..."
             )
@@ -233,9 +349,13 @@ def get_with_retry(
 
             time.sleep(wait_seconds)
 
-    raise RuntimeError(
-        f"Request failed after {max_retries} attempts. "
-        f"URL: {url}; params: {params}"
+        else:
+            return response
+
+    raise RequestRetriesExceededError(
+        max_retries=max_retries,
+        url=url,
+        params=params,
     )
 
 
@@ -243,6 +363,12 @@ def search_all_pmids_checkpointed(
     pair: GenePair,
     delay: float = 2.0,
 ) -> set[str]:
+    """Search PubTator for every PMID associated with an alias and save progress.
+
+    :param pair: the alias-gene pair whose alias will be searched
+    :param delay: the number of seconds to wait between search result pages
+    return: the unique PMIDs returned for the alias
+    """
     checkpoint_path = pair.checkpoint_file
 
     if checkpoint_path.exists():
@@ -251,16 +377,15 @@ def search_all_pmids_checkpointed(
         )
 
         if checkpoint.get("query") != pair.alias:
-            raise ValueError(
-                f"Checkpoint query "
-                f"{checkpoint.get('query')!r} does not match "
-                f"{pair.alias!r}."
+            raise CheckpointMismatchError(
+                checkpoint.get("query", ""),
+                pair.alias,
             )
 
         all_pmids = set(checkpoint["pmids"])
         page = checkpoint["next_page"]
 
-        print(
+        print(  # noqa: T201
             f"Resuming {pair.alias} at page {page} with "
             f"{len(all_pmids):,} cached PMIDs."
         )
@@ -302,7 +427,7 @@ def search_all_pmids_checkpointed(
             )
         )
 
-        print(
+        print(  # noqa: T201
             f"{pair.alias} page {page}: "
             f"{len(new_pmids):,} new PMIDs "
             f"({len(all_pmids):,} total)"
@@ -318,7 +443,7 @@ def search_all_pmids_checkpointed(
         )
     )
 
-    print(
+    print(  # noqa: T201
         f"Search complete for {pair.alias}: "
         f"{len(all_pmids):,} unique PMIDs"
     )
@@ -329,14 +454,17 @@ def search_all_pmids_checkpointed(
 def load_or_search_pmids(
     pair: GenePair,
 ) -> set[str]:
+    """Load cached PMIDs for an alias or search PubTator when no cache exists.
+
+    :param pair: the alias-gene pair whose alias PMIDs are needed
+    return: the cached or newly retrieved PMIDs for the alias
+    """
     if pair.pmid_cache_file.exists():
-        pmids = set(
+        set(
             json.loads(
                 pair.pmid_cache_file.read_text()
             )
         )
-
-        return pmids
 
     return search_all_pmids_checkpointed(pair)
 
@@ -344,7 +472,13 @@ def load_or_search_pmids(
 def chunked(
     values: Iterable[str],
     size: int = 100,
-):
+) -> Iterator[list[str]]:
+    """Divide an iterable of strings into lists of a specified size.
+
+    :param values: the string values to divide into batches
+    :param size: the maximum number of values in each batch
+    return: an iterator that yields lists of values
+    """
     values = list(values)
 
     for start in range(0, len(values), size):
@@ -357,11 +491,14 @@ def fetch_documents(
     *,
     batch_size: int = 50,
     force_refresh: bool = False,
-):
-    """
-    Load PubTator documents from the local cache when available.
+) -> Iterator[dict[str, Any]]:
+    """Load PubTator documents from the local cache or download missing batches.
 
-    If a batch is not cached, download it from PubTator and save it.
+    :param pair: the alias-gene pair whose shared document cache will be used
+    :param pmids: the PMIDs of the documents to retrieve
+    :param batch_size: the maximum number of PMIDs requested in each batch
+    :param force_refresh: whether to ignore cached batches and download them again
+    return: an iterator that yields PubTator document dictionaries
     """
     pair.document_cache_dir.mkdir(
         parents=True,
@@ -369,10 +506,10 @@ def fetch_documents(
     )
 
     sorted_pmids = sorted(pmids)
-    total_pmids = len(sorted_pmids)
+    total_pmids = len(sorted_pmids)  # noqa: F841
     processed_pmids = 0
 
-    for batch_number, batch in enumerate(
+    for batch_number, batch in enumerate(  # noqa: B007
         chunked(sorted_pmids, size=batch_size),
         start=1,
     ):
@@ -405,7 +542,7 @@ def fetch_documents(
                 json.JSONDecodeError,
                 OSError,
             ) as error:
-                print(
+                print(  # noqa: T201
                     f"Could not read {cache_file}: "
                     f"{error}. Downloading again."
                 )
@@ -444,8 +581,8 @@ def fetch_documents(
                 documents = [result]
 
             else:
-                print("Unexpected response structure:")
-                print(str(result)[:1000])
+                print("Unexpected response structure:")  # noqa: T201
+                print(str(result)[:1000])  # noqa: T201
                 documents = []
 
             cache_file.write_text(
@@ -470,6 +607,12 @@ def analyze_gene_pair(
     pair: GenePair,
     candidate_pmids: set[str],
 ) -> dict[str, Any]:
+    """Analyze papers for an exact alias annotation and accepted identifiers for a gene.
+
+    :param pair: the alias-gene pair and identifiers being analyzed
+    :param candidate_pmids: the PMIDs of papers that may contain the alias
+    return: a dictionary containing paper sets, counts, and the identifier percentage
+    """
     identifier_patterns = make_identifier_patterns(pair)
 
     papers_with_alias_gene_annotation: set[str] = set()
@@ -596,37 +739,42 @@ def analyze_gene_pair(
     }
 
 def print_analysis_results(results: dict[str, Any]) -> None:
+    """Print a readable summary of the gene-pair analysis results.
+
+    :param results: the dictionary returned by analyze_gene_pair
+    return: None
+    """
     pair: GenePair = results["pair"]
 
-    print(f"Candidate papers for {pair.alias}: {results['candidate_papers']:,}")
+    print(f"Candidate papers for {pair.alias}: {results['candidate_papers']:,}")  # noqa: T201
 
-    print(f"Documents retrieved: {results['processed_documents']:,}")
+    print(f"Documents retrieved: {results['processed_documents']:,}")  # noqa: T201
 
-    print(
+    print(  # noqa: T201
         f"Papers where PubTator tagged the exact alias "
         f"{pair.alias} as a gene: {results['denominator']:,}"
     )
 
-    print(
+    print(  # noqa: T201
         f"Papers containing an accepted NCBI Gene, HGNC, or "
         f"Ensembl identifier for {pair.approved_symbol}: "
         f"{results['numerator']:,}"
     )
 
-    print(
+    print(  # noqa: T201
         f"Percentage containing an identifier: "
         f"{results['percentage']:.2f}%"
     )
 
-    print("\nCounts by identifier namespace:")
+    print("\nCounts by identifier namespace:")  # noqa: T201
 
     for namespace in ("NCBI Gene", "HGNC", "Ensembl"):
-        print(
+        print(  # noqa: T201
             f"  {namespace}: "
             f"{len(results['papers_by_namespace'][namespace]):,} papers"
         )
 
-    print("\nIdentifier locations:")
+    print("\nIdentifier locations:")  # noqa: T201
 
     for section, count in results["identifier_section_counts"].most_common():
-        print(f"  {section}: {count:,}")
+        print(f"  {section}: {count:,}")  # noqa: T201
