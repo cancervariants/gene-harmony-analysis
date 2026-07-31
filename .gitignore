@@ -213,3 +213,7 @@ gene2go20251007
 
 #This makes an environment variable for my email
 .env
+
+#These are caches for the identifiers in literature work
+analysis/gene_ids_in_lit/output/asp/document_cache
+analysis/gene_ids_in_lit/output/erbb/document_cache
