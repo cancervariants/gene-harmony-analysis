@@ -623,7 +623,7 @@ def analyze_gene_pair(
         for namespace in identifier_patterns
     }
 
-    identifier_section_counts = Counter()
+    papers_by_section: dict[str, set[str]] = {}
     annotation_identifier_counts = Counter()
     processed_documents = 0
 
@@ -702,9 +702,11 @@ def analyze_gene_pair(
                 if pattern.search(passage_text):
                     papers_by_namespace[namespace].add(pmid)
                     papers_with_identifier_in_text.add(pmid)
-                    identifier_section_counts[
-                        passage_type
-                    ] += 1
+
+                    papers_by_section.setdefault(
+                        passage_type,
+                        set(),
+                    ).add(pmid)
 
     denominator = len(
         papers_with_alias_gene_annotation
@@ -731,8 +733,8 @@ def analyze_gene_pair(
         "papers_by_namespace": papers_by_namespace,
         "annotation_identifier_counts":
             annotation_identifier_counts,
-        "identifier_section_counts":
-            identifier_section_counts,
+        "papers_by_section":
+            papers_by_section,
         "denominator": denominator,
         "numerator": numerator,
         "percentage": percentage,
@@ -776,5 +778,13 @@ def print_analysis_results(results: dict[str, Any]) -> None:
 
     print("\nIdentifier locations:")  # noqa: T201
 
-    for section, count in results["identifier_section_counts"].most_common():
-        print(f"  {section}: {count:,}")  # noqa: T201
+    for section in sorted(results["papers_by_section"]):
+        pmids = sorted(
+            results["papers_by_section"][section],
+            key=int,
+        )
+
+        print(  # noqa: T201
+            f"  {section}: "
+            f"{', '.join(pmids)}"
+        )
