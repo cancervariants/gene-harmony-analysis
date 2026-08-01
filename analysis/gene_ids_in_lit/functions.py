@@ -14,6 +14,7 @@ import time
 from collections import Counter
 from collections.abc import Iterable, Iterator
 from dataclasses import dataclass
+from datetime import UTC, datetime
 from http.client import RemoteDisconnected
 from pathlib import Path
 from typing import Any
@@ -168,6 +169,19 @@ class GenePair:
         path = self.alias_output_dir / "document_cache"
         path.mkdir(parents=True, exist_ok=True)
         return path
+
+def download_s3(url: str, outfile_path: Path) -> None:
+    """Download objects from public s3 bucket
+
+    :param url: URL for file in s3 bucket
+    :param outfile_path: Path where file should be saved
+    """
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(outfile_path, "wb") as h:
+            for chunk in r.iter_content(chunk_size=8192):
+                if chunk:
+                    h.write(chunk)
 
 def get_batch_cache_file(
     pair: GenePair,
@@ -442,6 +456,16 @@ def search_all_pmids_checkpointed(
             indent=2,
         )
     )
+    (pair.alias_output_dir / "cache_info.json").write_text(
+        json.dumps(
+            {
+                "alias": pair.alias,
+                "pubtator_search_datetime": datetime.now(UTC).isoformat(),
+                "num_pmids": len(all_pmids),
+            },
+            indent=2,
+        )
+    )
 
     print(  # noqa: T201
         f"Search complete for {pair.alias}: "
@@ -460,7 +484,7 @@ def load_or_search_pmids(
     return: the cached or newly retrieved PMIDs for the alias
     """
     if pair.pmid_cache_file.exists():
-        set(
+        return set(
             json.loads(
                 pair.pmid_cache_file.read_text()
             )
@@ -776,7 +800,7 @@ def print_analysis_results(results: dict[str, Any]) -> None:
             f"{len(results['papers_by_namespace'][namespace]):,} papers"
         )
 
-    print("\nIdentifier locations:")  # noqa: T201
+    print("\nIdentifier locations (PMIDs):")  # noqa: T201
 
     for section in sorted(results["papers_by_section"]):
         pmids = sorted(
@@ -788,3 +812,32 @@ def print_analysis_results(results: dict[str, Any]) -> None:
             f"  {section}: "
             f"{', '.join(pmids)}"
         )
+
+def count_document_types(
+    pair: GenePair,
+    candidate_pmids: set[str],
+) -> tuple[int, int]:
+    """Count the number of abstract-only and full-text documents.
+
+    A document is considered full text if it contains any passage type
+    beyond "title" and "abstract".
+
+    :param pair: the alias-gene pair whose documents will be examined
+    :param candidate_pmids: the PMIDs of the candidate papers
+    return: the number of abstract-only documents and full-text documents
+    """
+    abstract_only = 0
+    full_text = 0
+
+    for document in fetch_documents(pair, candidate_pmids):
+        passage_types = {
+            passage.get("infons", {}).get("type", "unknown")
+            for passage in document.get("passages", [])
+        }
+
+        if passage_types <= {"title", "abstract"}:
+            abstract_only += 1
+        else:
+            full_text += 1
+
+    return abstract_only, full_text
