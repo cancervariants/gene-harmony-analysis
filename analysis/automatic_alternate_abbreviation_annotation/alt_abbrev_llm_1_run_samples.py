@@ -25,7 +25,12 @@ def load_cached_runs(
     stored_runs_path: Path,
     expected_metadata: dict,
 ) -> list[dict] | None:
-    """Load cached runs when their metadata matches the requested experiment."""
+    """Load cached experiment runs if the metadata matches.
+
+    :param stored_runs_path: the path to the cached experiment file
+    :param expected_metadata: the metadata expected for the current experiment
+    :return: the cached experiment runs if the metadata matches, otherwise None
+    """
     if not stored_runs_path.exists():
         return None
 
@@ -45,17 +50,14 @@ def run_annotation(
     num_runs: int = 3,
     prompt_version: str = "v1",
 ) -> list[dict]:
-    """Run Alternate Abbreviation annotation experiments.
+    """Run the Alternate Abbreviation annotation workflow.
 
-    Args:
-        input_path: Excel file containing gene-alias pairs.
-        subset_size: Number of rows to process. Use None for the full dataset.
-        temperatures: LLM temperatures to evaluate.
-        num_runs: Number of runs per temperature.
-        prompt_version: Prompt version passed to the annotation workflow.
-
-    Returns:
-        The stored experiment runs.
+    :param input_path: the Excel file containing gene-alias pairs
+    :param subset_size: the number of rows to process, or None to use the full dataset
+    :param temperatures: the LLM temperature values to evaluate
+    :param num_runs: the number of LLM runs per temperature
+    :param prompt_version: the prompt version used for annotation
+    :return: the stored experiment runs
     """
     if subset_size is not None and subset_size <= 0:
         raise ValueError("subset_size must be greater than zero.")
@@ -117,7 +119,10 @@ def run_annotation(
     return stored_runs
 
 def parse_args() -> argparse.Namespace:
-    """Parse command-line arguments."""
+    """Parse command-line arguments for the annotation workflow.
+
+    :return: the parsed command-line arguments
+    """
     parser = argparse.ArgumentParser(
         description="Run Alternate Abbreviation LLM annotation experiments."
     )
@@ -152,7 +157,10 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 def main() -> None:
-    """Run the workflow from the command line."""
+    """Run the annotation workflow from the command line.
+
+    :return: None
+    """
     args = parse_args()
 
     run_annotation(
