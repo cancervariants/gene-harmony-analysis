@@ -6,6 +6,7 @@ submitted to the LLM for annotation. Results are cached and stored for downstrea
 information on Alternate Abbreviations and the overall workflow, see [README](alternate_abbreviation_README).
 """
 
+import argparse
 import pickle
 from pathlib import Path
 
@@ -14,115 +15,153 @@ import polars as pl
 
 ALT_ABBREV_ROOT = Path(__file__).resolve().parent
 ALT_ABBREV_OUTPUT_PATH = ALT_ABBREV_ROOT / "output"
-
-# A test is recommended before using resources to run full dataset
-
-# Change to True if running a test
-RUN_SUBSET = False
-
 # Load dataset with gene-alias pairs manually curated for Alternate Abbreviation alias symbols
-df = pl.read_excel(
-    ALT_ABBREV_OUTPUT_PATH / "alt_abbrev_annotation_manually_annotated_df.xlsx"
+DEFAULT_INPUT_PATH = (
+    ALT_ABBREV_OUTPUT_PATH
+    / "alt_abbrev_annotation_manually_annotated_df.xlsx"
 )
 
-# Create a truncated version of the dataset to test
-if RUN_SUBSET:
-    test_df = df.head(30)
-    SAMPLE_PATH = Path(
-        ALT_ABBREV_OUTPUT_PATH
-        / "subset_alt_abbrev_annotation_manually_annotated_df.xlsx"
-    )
-    test_df.write_excel(SAMPLE_PATH)
-    df = test_df
-else:
-    SAMPLE_PATH = Path(
-        ALT_ABBREV_OUTPUT_PATH / "alt_abbrev_annotation_manually_annotated_df.xlsx"
-    )
+def load_cached_runs(
+    stored_runs_path: Path,
+    expected_metadata: dict,
+) -> list[dict] | None:
+    """Load cached runs when their metadata matches the requested experiment."""
+    if not stored_runs_path.exists():
+        return None
 
-# Run LLM with gene symbols, name, and prompt
-TEMPERATURES = [0.8]
-NUM_RUNS = 3
-PROMPT_VERSION = "v1"
+    with stored_runs_path.open("rb") as file:
+        saved_data = pickle.load(file)
 
-sample_name = SAMPLE_PATH.stem
-temp_str = "-".join(str(t).replace(".", "p") for t in TEMPERATURES)
-
-experiment_key = aalfx.build_experiment_key(
-    sample_name,
-    PROMPT_VERSION,
-    TEMPERATURES,
-    NUM_RUNS,
-)
-
-stored_runs_path = (
-    ALT_ABBREV_OUTPUT_PATH / "llm_runs" / f"stored_runs_{experiment_key}.pkl"
-)
-
-metadata = {
-    "sample_path": str(SAMPLE_PATH),
-    "sample_name": sample_name,
-    "prompt_version": PROMPT_VERSION,
-    "temperatures": TEMPERATURES,
-    "num_runs": NUM_RUNS,
-}
-if stored_runs_path.exists():
-    with stored_runs_path.open("rb") as f:
-        saved_data = pickle.load(f)
-
-    if saved_data.get("metadata") == metadata:
-        print(f"Loading {stored_runs_path}")
-        stored_runs = saved_data["runs"]
-
-    else:
+    if saved_data.get("metadata") != expected_metadata:
         print(f"Metadata mismatch in {stored_runs_path}. Re-running experiments.")
+        return None
 
-        stored_runs = aalfx.run_experiments(df, TEMPERATURES, NUM_RUNS, PROMPT_VERSION)
+    return saved_data["runs"]
 
-        with stored_runs_path.open("wb") as f:
+def run_annotation(
+    input_path: Path = DEFAULT_INPUT_PATH,
+    subset_size: int | None = None,
+    temperatures: list[float] | None = None,
+    num_runs: int = 3,
+    prompt_version: str = "v1",
+) -> list[dict]:
+    """Run Alternate Abbreviation annotation experiments.
+
+    Args:
+        input_path: Excel file containing gene-alias pairs.
+        subset_size: Number of rows to process. Use None for the full dataset.
+        temperatures: LLM temperatures to evaluate.
+        num_runs: Number of runs per temperature.
+        prompt_version: Prompt version passed to the annotation workflow.
+
+    Returns:
+        The stored experiment runs.
+    """
+    if subset_size is not None and subset_size <= 0:
+        raise ValueError("subset_size must be greater than zero.")
+
+    if temperatures is None:
+        temperatures = [0.0]
+
+    llm_runs_path = ALT_ABBREV_OUTPUT_PATH / "llm_runs"
+    llm_runs_path.mkdir(parents=True, exist_ok=True)
+
+    df = pl.read_excel(input_path)
+
+    if subset_size is not None:
+        df = df.head(subset_size)
+        sample_name = f"subset_{input_path.stem}"
+    else:
+        sample_name = input_path.stem
+
+    experiment_key = aalfx.build_experiment_key(
+        sample_name,
+        prompt_version,
+        temperatures,
+        num_runs,
+    )
+
+    stored_runs_path = llm_runs_path / f"stored_runs_{experiment_key}.pkl"
+
+    metadata = {
+        "sample_path": str(input_path),
+        "sample_name": sample_name,
+        "prompt_version": prompt_version,
+        "temperatures": temperatures,
+        "num_runs": num_runs,
+    }
+
+    stored_runs = load_cached_runs(stored_runs_path, metadata)
+
+    if stored_runs is None:
+        print(f"Running experiments on {df.height} rows...")
+
+        stored_runs = aalfx.run_experiments(
+            df,
+            temperatures,
+            num_runs,
+            prompt_version,
+        )
+
+        with stored_runs_path.open("wb") as file:
             pickle.dump(
                 {
                     "metadata": metadata,
                     "runs": stored_runs,
                 },
-                f,
+                file,
             )
+    else:
+        print(f"Loading cached runs from {stored_runs_path}")
 
-else:
-    print("Running experiments...")
+    return stored_runs
 
-    stored_runs = aalfx.run_experiments(df, TEMPERATURES, NUM_RUNS, PROMPT_VERSION)
+def parse_args() -> argparse.Namespace:
+    """Parse command-line arguments."""
+    parser = argparse.ArgumentParser(
+        description="Run Alternate Abbreviation LLM annotation experiments."
+    )
 
-    with stored_runs_path.open("wb") as f:
-        pickle.dump(
-            {
-                "metadata": metadata,
-                "runs": stored_runs,
-            },
-            f,
-        )
+    parser.add_argument(
+        "--input-path",
+        type=Path,
+        default=DEFAULT_INPUT_PATH,
+        help="Path to the manually annotated Excel dataset.",
+    )
 
-# Summarizes the conditions of the runs stored
-sample_names = set()
-all_runs = []
+    parser.add_argument(
+        "--subset-size",
+        type=int,
+        default=None,
+        help="Process only the first N rows. Omit to process the full dataset.",
+    )
 
-for path in (ALT_ABBREV_OUTPUT_PATH / "llm_runs").glob("stored_runs_*.pkl"):
-    sample_name = path.stem.replace("stored_runs_", "")
-    sample_names.add(sample_name)
+    parser.add_argument(
+        "--num-runs",
+        type=int,
+        default=3,
+        help="Number of LLM runs per temperature.",
+    )
 
-    with path.open("rb") as f:
-        data = pickle.load(f)
+    parser.add_argument(
+        "--prompt-version",
+        default="v1",
+        help="Prompt version to use.",
+    )
 
-    for run in data["runs"]:
-        run["sample_name"] = sample_name
-        all_runs.append(run)
+    return parser.parse_args()
 
-unique_runs = {
-    (run["sample_name"], run["prompt_version"], run["temperature"], run["run_idx"])
-    for run in all_runs
-}
+def main() -> None:
+    """Run the workflow from the command line."""
+    args = parse_args()
 
-print(f"Files used for runs:{sorted(sample_names)}")
-print(f"Number of unique runs: {len(unique_runs)}")
-print(f"Unique runs: {unique_runs}")
+    run_annotation(
+        input_path=args.input_path,
+        subset_size=args.subset_size,
+        num_runs=args.num_runs,
+        prompt_version=args.prompt_version,
+    )
 
-df.write_parquet(stored_runs_path.with_suffix(".parquet"))
+
+if __name__ == "__main__":
+    main()
