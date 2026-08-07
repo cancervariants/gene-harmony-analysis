@@ -1,0 +1,124 @@
+"""
+"""
+
+import sys
+from pathlib import Path
+import pandas as pd
+import numpy as np
+import re
+from pybiomart import Server
+from tqdm import tqdm
+import json
+import os
+tqdm.pandas()
+from collections import deque
+import requests
+from io import StringIO
+import nest_asyncio
+nest_asyncio.apply()
+import time
+from requests.exceptions import RequestException
+import nltk
+from nltk.corpus import words
+import ast
+
+from automatic_alternate_abbreviation_annotation.alt_abbrev_llm_functions import *
+
+def expand_gene_groups(gene_df, hierarchy_df):
+    """Expand the gene group IDs to include ancestor gene group IDs
+
+    :param gene_df: the df with the HGNC ID, Approved Symbol, and the most childest Gene goup ID information
+    :param hierarchy_df: the df with the information about the parent gene group ID and associated child group IDs
+    :return: a new df that includes new rows with the same base information but the parent and grand parent IDs in the Gene Group ID column
+    """
+    # Build a mapping of child to list of parents
+    child_to_parents = hierarchy_df.groupby("child_fam_id")["parent_fam_id"].apply(list).to_dict()
+    
+    expanded_rows = []
+
+    # Queue: list of tuples (base information: HGNC ID, Approved symbol, current group ID)
+    queue = deque()
+    seen = set()
+
+    # Seed queue with original rows
+    for _, row in gene_df.iterrows():
+        hgnc_id = row["HGNC ID"]
+        approved_symbol = row["Approved symbol"]
+        group_id = row["Gene group ID"]
+        queue.append((hgnc_id, approved_symbol, group_id))
+        seen.add((hgnc_id, group_id))  # seen by HGNC ID + group ID
+        expanded_rows.append({
+            "HGNC ID": hgnc_id,
+            "Approved symbol": approved_symbol,
+            "Gene group ID": group_id
+        })
+
+    # Walk the hierarchy upward
+    while queue:
+        hgnc_id, symbol, group_id = queue.popleft()
+
+        parent_ids = child_to_parents.get(group_id, [])
+        for parent_id in parent_ids:
+            key = (hgnc_id, parent_id)
+            if key not in seen:
+                seen.add(key)
+                queue.append((hgnc_id, symbol, parent_id))
+                expanded_rows.append({
+                    "HGNC ID": hgnc_id,
+                    "Approved symbol": symbol,
+                    "Gene group ID": parent_id
+                })
+
+    return pd.DataFrame(expanded_rows)
+
+def has_prefix_gene_group_match(row, abbrev_map):
+    """Check whether an alias symbol starts with a gene group abbreviation.
+
+    Uses the primary gene symbol to retrieve its associated abbreviations
+    from `abbrev_map`, then checks whether the alias symbol starts with any
+    of those abbreviations.
+
+    :param row: DataFrame row containing `alias_symbol_upper` and
+        `primary_gene_symbol_upper`.
+    :param abbrev_map: Dictionary mapping primary gene symbols to their
+        associated gene group abbreviations.
+    :return: True if the alias starts with an associated gene group
+        abbreviation; otherwise False.
+    """
+    alias = row["alias_symbol_upper"]
+    primary_gene_symbol = row["primary_gene_symbol_upper"]
+
+    if not isinstance(alias, str):
+        return False
+
+    abbreviations = abbrev_map.get(primary_gene_symbol, [])
+
+    return any(alias.startswith(abbrev) for abbrev in abbreviations)
+
+def get_matching_abbreviations(row, abbrev_map):
+    """Get all gene group abbreviations that match the prefix of an alias symbol.
+
+    Uses the primary gene symbol to retrieve its associated abbreviations
+    from `abbrev_map`, then returns all abbreviations that match the
+    beginning of the alias symbol.
+
+    :param row: DataFrame row containing `alias_symbol_upper` and
+        `primary_gene_symbol_upper`.
+    :param abbrev_map: Dictionary mapping primary gene symbols to their
+        associated gene group abbreviations.
+    :return: List of all matching gene group abbreviations, or an empty list
+        if no matches are found.
+    """
+    alias = row["alias_symbol_upper"]
+    primary_gene_symbol = row["primary_gene_symbol_upper"]
+
+    if not isinstance(alias, str):
+        return []
+
+    abbreviations = abbrev_map.get(primary_gene_symbol, [])
+
+    return [
+        abbrev
+        for abbrev in abbreviations
+        if alias.startswith(abbrev)
+    ]
