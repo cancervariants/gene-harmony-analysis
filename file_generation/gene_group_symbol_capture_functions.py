@@ -1,5 +1,4 @@
-"""
-"""
+"""Functions for Gene Group Symbol Capture"""
 
 import sys
 from pathlib import Path
@@ -21,8 +20,6 @@ from requests.exceptions import RequestException
 import nltk
 from nltk.corpus import words
 import ast
-
-from automatic_alternate_abbreviation_annotation.alt_abbrev_llm_functions import *
 
 def expand_gene_groups(gene_df, hierarchy_df):
     """Expand the gene group IDs to include ancestor gene group IDs
