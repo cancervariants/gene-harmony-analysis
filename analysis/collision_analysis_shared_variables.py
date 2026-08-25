@@ -42,6 +42,9 @@ ap_record_count_ncbi = len(ap_record_set_ncbi)
 ap_ambiguous_symbol_set_ncbi = set(merged_alias_ap_collision_ncbi_df["collision"])
 ap_ambiguous_symbol_count_ncbi = len(ap_ambiguous_symbol_set_ncbi)
 
+ap_ambiguous_symbol_set = ap_ambiguous_symbol_set_hgnc.union(ap_ambiguous_symbol_set_ensg, ap_ambiguous_symbol_set_ncbi)
+ap_ambiguous_symbol_set
+
 
 
 merged_alias_aa_collision_hgnc_df = pd.read_csv(OUTPUT_PATH / "merged_alias_aa_collision_hgnc_df.csv")
@@ -68,6 +71,8 @@ aa_record_count_ncbi = len(aa_record_set_ncbi)
 aa_ambiguous_symbol_set_ncbi = set(merged_alias_aa_collision_ncbi_df["collision"])
 aa_ambiguous_symbol_count_ncbi = len(aa_ambiguous_symbol_set_ncbi)
 
+aa_ambiguous_symbol_set = aa_ambiguous_symbol_set_hgnc.union(aa_ambiguous_symbol_set_ensg, aa_ambiguous_symbol_set_ncbi)
+aa_ambiguous_symbol_set
 
 
 mini_hgnc_df = pd.read_csv(OUTPUT_PATH / "mini_hgnc_df.csv")
@@ -113,3 +118,6 @@ total_symbol_count_ncbi = pd.concat([mini_ncbi_df["primary_gene_symbol"], mini_n
 
 primary_symbol_set = primary_symbol_set_hgnc.union(primary_symbol_set_ensg, primary_symbol_set_ncbi)
 primary_symbol_set
+
+alias_symbol_set = alias_symbol_set_hgnc.union(alias_symbol_set_ensg, alias_symbol_set_ncbi)
+alias_symbol_set
